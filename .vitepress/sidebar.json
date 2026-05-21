@@ -1,0 +1,1030 @@
+[
+  {
+    "text": "Getting Started",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Getting Started With Fluent Forms",
+        "link": "/docs/getting-started-with-fluent-forms"
+      },
+      {
+        "text": "Fluent Forms Glossary",
+        "link": "/docs/fluent-forms-glossary"
+      },
+      {
+        "text": "Fluent Forms User Interface",
+        "link": "/docs/fluent-forms-user-interface"
+      },
+      {
+        "text": "How to Install Fluent Forms",
+        "link": "/docs/how-to-install-fluent-forms"
+      },
+      {
+        "text": "Upgrade to Fluent Forms Pro Add-on",
+        "link": "/docs/upgrade-to-fluent-forms-pro-add-on"
+      }
+    ]
+  },
+  {
+    "text": "Form Editor",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "How to create a conversational form",
+        "link": "/docs/how-to-create-a-conversational-form"
+      },
+      {
+        "text": "How to Create a Form with Fluent Forms",
+        "link": "/docs/how-to-create-a-form-with-fluent-forms"
+      },
+      {
+        "text": "How to Create a Form with Fluent Forms AI",
+        "link": "/docs/how-to-create-a-form-with-fluent-forms-ai"
+      },
+      {
+        "text": "How to Create a Form with OpenAI ChatGPT",
+        "link": "/docs/how-to-create-a-form-with-openai-chatgpt"
+      },
+      {
+        "text": "How to Design a Conversational Form",
+        "link": "/docs/how-to-design-a-conversational-form"
+      },
+      {
+        "text": "Using and Customizing Pre-built Quick Forms in Fluent Forms",
+        "link": "/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Form Style & Templates",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Fluent Forms Styling/Custom CSS",
+        "link": "/docs/fluent-forms-stylingcustom-css"
+      },
+      {
+        "text": "Form Layout Settings in Fluent Forms",
+        "link": "/docs/form-layout-settings-in-fluent-forms"
+      },
+      {
+        "text": "Modal/Popup/Lightbox in Fluent Forms",
+        "link": "/docs/modalpopuplightbox-in-fluent-forms"
+      },
+      {
+        "text": "Official Form Styler of Fluent Forms",
+        "link": "/docs/official-form-styler-of-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Publishing & Embedding",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Dedicated Landing Page in Fluent Forms",
+        "link": "/docs/dedicated-landing-page-in-fluent-forms"
+      },
+      {
+        "text": "Fluent Forms with Oxygen Builder Widget",
+        "link": "/docs/fluent-forms-with-oxygen-builder-widget"
+      },
+      {
+        "text": "How to embed your forms directly in Gutenberg layout",
+        "link": "/docs/how-to-embed-your-forms-directly-in-gutenberg-layout"
+      },
+      {
+        "text": "How to embed your forms using Elementor Widget",
+        "link": "/docs/how-to-embed-your-forms-using-elementor-widget"
+      },
+      {
+        "text": "How to Use Your Forms as Widget on your Sidebar or Footer",
+        "link": "/docs/how-to-use-your-forms-as-widget-on-your-sidebar-or-footer"
+      }
+    ]
+  },
+  {
+    "text": "Form Settings",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Error Message Customization with Fluent Forms",
+        "link": "/docs/error-message-customization-with-fluent-forms"
+      },
+      {
+        "text": "Help Message Customization in Fluent Forms",
+        "link": "/docs/help-message-customization-in-fluent-forms"
+      },
+      {
+        "text": "Restrict Blank Form Submission with Fluent Forms",
+        "link": "/docs/restrict-blank-form-submission-with-fluent-forms"
+      },
+      {
+        "text": "User Login Requirement in Fluent Forms",
+        "link": "/docs/user-login-requirement-in-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "General Fields",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Adding a Mask Input Field Guide",
+        "link": "/docs/adding-a-mask-input-field-guide"
+      },
+      {
+        "text": "Adding a Simple Text Input Field",
+        "link": "/docs/adding-a-simple-text-input-field"
+      },
+      {
+        "text": "Adding a Text Area Input Field",
+        "link": "/docs/adding-a-text-area-input-field"
+      },
+      {
+        "text": "Address Input Field in Fluent Forms",
+        "link": "/docs/address-input-field-in-fluent-forms"
+      },
+      {
+        "text": "CheckBox Field in Fluent Forms",
+        "link": "/docs/checkbox-field-in-fluent-forms"
+      },
+      {
+        "text": "Country List Field in Fluent Form",
+        "link": "/docs/country-list-field-in-fluent-form"
+      },
+      {
+        "text": "Custom HTML Field in Fluent Forms",
+        "link": "/docs/custom-html-field-in-fluent-forms"
+      },
+      {
+        "text": "Dropdown Field in Fluent Forms",
+        "link": "/docs/dropdown-field-in-fluent-forms"
+      },
+      {
+        "text": "Email Address Input Field in Fluent Forms",
+        "link": "/docs/email-address-input-field-in-fluent-forms"
+      },
+      {
+        "text": "File Upload Input Field in Fluent Forms",
+        "link": "/docs/file-upload-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Image Upload Input Field in Fluent Form",
+        "link": "/docs/image-upload-input-field-in-fluent-form"
+      },
+      {
+        "text": "Multiple Choice Field in Fluent Forms",
+        "link": "/docs/multiple-choice-field-in-fluent-forms"
+      },
+      {
+        "text": "Name Input Field in Fluent Forms",
+        "link": "/docs/name-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Numeric Input Field in Fluent Forms",
+        "link": "/docs/numeric-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Phone/Mobile Input Field in Fluent Forms",
+        "link": "/docs/phonemobile-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Radio Field in Fluent Forms",
+        "link": "/docs/radio-field-in-fluent-forms"
+      },
+      {
+        "text": "Time & Date Input Field in Fluent Forms",
+        "link": "/docs/time-date-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Website URL Input Field Guide",
+        "link": "/docs/website-url-input-field-guide"
+      }
+    ]
+  },
+  {
+    "text": "Advanced Fields",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Action Hook Field in Fluent Forms",
+        "link": "/docs/action-hook-field-in-fluent-forms"
+      },
+      {
+        "text": "Chained Select Field in Fluent Forms",
+        "link": "/docs/chained-select-field-in-fluent-forms"
+      },
+      {
+        "text": "Checkable Grid Input Field in Fluent Forms",
+        "link": "/docs/checkable-grid-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Color Picker Field in Fluent Forms",
+        "link": "/docs/color-picker-field-in-fluent-forms"
+      },
+      {
+        "text": "Creating a Multi-Step Form in Fluent Forms",
+        "link": "/docs/creating-a-multi-step-form-in-fluent-forms"
+      },
+      {
+        "text": "Custom Submit Button in Fluent Forms",
+        "link": "/docs/custom-submit-button-in-fluent-forms"
+      },
+      {
+        "text": "Dynamic Field in Fluent Form",
+        "link": "/docs/dynamic-field-in-fluent-form"
+      },
+      {
+        "text": "FluentBooking Field in Fluent Form",
+        "link": "/docs/fluentbooking-field-in-fluent-form"
+      },
+      {
+        "text": "GDPR Agreement Field in Fluent Forms",
+        "link": "/docs/gdpr-agreement-field-in-fluent-forms"
+      },
+      {
+        "text": "hCaptcha in Fluent Forms",
+        "link": "/docs/hcaptcha-in-fluent-forms"
+      },
+      {
+        "text": "Hidden Input Field in Fluent Forms",
+        "link": "/docs/hidden-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Net Promoter Score in Fluent Forms",
+        "link": "/docs/net-promoter-score-in-fluent-forms"
+      },
+      {
+        "text": "Password Input Field in Fluent Forms",
+        "link": "/docs/password-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Quiz Score in Fluent Forms",
+        "link": "/docs/quiz-score-in-fluent-forms"
+      },
+      {
+        "text": "Range Slider Field in Fluent Forms",
+        "link": "/docs/range-slider-field-in-fluent-forms"
+      },
+      {
+        "text": "Ratings Input Field in Fluent Forms",
+        "link": "/docs/ratings-input-field-in-fluent-forms"
+      },
+      {
+        "text": "reCAPTCHA Field in Fluent Forms",
+        "link": "/docs/recaptcha-field-in-fluent-forms"
+      },
+      {
+        "text": "Repeat Input Field in Fluent Forms",
+        "link": "/docs/repeat-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Rich Text Input Field in Fluent Forms",
+        "link": "/docs/rich-text-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Save Progress Button in Fluent Forms",
+        "link": "/docs/save-progress-button-in-fluent-forms"
+      },
+      {
+        "text": "Section Break in Fluent Forms",
+        "link": "/docs/section-break-in-fluent-forms"
+      },
+      {
+        "text": "Shortcode Input Field in Fluent Forms",
+        "link": "/docs/shortcode-input-field-in-fluent-forms"
+      },
+      {
+        "text": "Terms & Conditions Field in Fluent Forms",
+        "link": "/docs/terms-conditions-field-in-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Container Fields",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Add Accordion Container Fields in Fluent Forms",
+        "link": "/docs/add-accordion-container-fields-in-fluent-forms"
+      },
+      {
+        "text": "Add Container Fields in Fluent Forms",
+        "link": "/docs/add-container-fields-in-fluent-forms"
+      },
+      {
+        "text": "Add Repeat Container Field in Fluent Forms",
+        "link": "/docs/add-repeat-container-field-in-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Post Form Fields",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Add Featured Image Field in Post Forms",
+        "link": "/docs/add-featured-image-field-in-post-forms"
+      },
+      {
+        "text": "Add Post Content Field in Post Forms",
+        "link": "/docs/add-post-content-field-in-post-forms"
+      },
+      {
+        "text": "Add Post Excerpt Field in Post Forms",
+        "link": "/docs/add-post-excerpt-field-in-post-forms"
+      },
+      {
+        "text": "Add Post Title Field in Post Forms",
+        "link": "/docs/add-post-title-field-in-post-forms"
+      },
+      {
+        "text": "Add Post Update Field in Post Forms",
+        "link": "/docs/add-post-update-field-in-post-forms"
+      },
+      {
+        "text": "How to Create a Post Form with Fluent Forms",
+        "link": "/docs/how-to-create-a-post-form-with-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Taxonomy Fields",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Add Categories Taxonomy Field in Post Forms",
+        "link": "/docs/add-categories-taxonomy-field-in-post-forms"
+      },
+      {
+        "text": "Add Tags Taxonomy Field in Post Forms",
+        "link": "/docs/add-tags-taxonomy-field-in-post-forms"
+      }
+    ]
+  },
+  {
+    "text": "Payment Fields",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Add Coupon Field in Payment Forms",
+        "link": "/docs/add-coupon-field-in-payment-forms"
+      },
+      {
+        "text": "Add Custom Payment Amount Field in Payment Forms",
+        "link": "/docs/add-custom-payment-amount-field-in-payment-forms"
+      },
+      {
+        "text": "Add Item Quantity Field in Payment Forms",
+        "link": "/docs/add-item-quantity-field-in-payment-forms"
+      },
+      {
+        "text": "Add Payment Item Field in Payment Forms",
+        "link": "/docs/add-payment-item-field-in-payment-forms"
+      },
+      {
+        "text": "Add Payment Method Field in Payment Forms",
+        "link": "/docs/add-payment-method-field-in-payment-forms"
+      },
+      {
+        "text": "Add Payment Summary Field in Payment Forms",
+        "link": "/docs/add-payment-summary-field-in-payment-forms"
+      },
+      {
+        "text": "Add Subscription Field in Payment Forms",
+        "link": "/docs/add-subscription-field-in-payment-forms"
+      }
+    ]
+  },
+  {
+    "text": "Notifications",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Conditional Email Notification in Fluent Forms",
+        "link": "/docs/conditional-email-notification-in-fluent-forms"
+      },
+      {
+        "text": "Conditional Email Routing",
+        "link": "/docs/conditional-email-routing"
+      },
+      {
+        "text": "Fluent Forms Not Sending Email Confirmations",
+        "link": "/docs/fluent-forms-not-sending-email-confirmations"
+      },
+      {
+        "text": "How to Integrate Discord with Fluent Forms",
+        "link": "/docs/how-to-integrate-discord-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Slack with Fluent Forms",
+        "link": "/docs/how-to-integrate-slack-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Telegram with Fluent Forms",
+        "link": "/docs/how-to-integrate-telegram-with-fluent-forms"
+      },
+      {
+        "text": "How to Setup Admin/User Email Notifications",
+        "link": "/docs/how-to-setup-adminuser-email-notifications"
+      },
+      {
+        "text": "Setup Form Submission Confirmation Message in Fluent Forms",
+        "link": "/docs/setup-form-submission-confirmation-message-in-fluent-forms"
+      },
+      {
+        "text": "Weekly Email Summary",
+        "link": "/docs/weekly-email-summary"
+      }
+    ]
+  },
+  {
+    "text": "Form Entries",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Frontend Entry View",
+        "link": "/docs/frontend-entry-view"
+      },
+      {
+        "text": "How to Add a Date and Time Stamp to Form Entries",
+        "link": "/docs/how-to-add-a-date-and-time-stamp-to-form-entries"
+      },
+      {
+        "text": "How to Search and Filter Form Entries",
+        "link": "/docs/how-to-search-and-filter-form-entries"
+      },
+      {
+        "text": "Partial Entries for Step Forms",
+        "link": "/docs/partial-entries-for-step-forms"
+      }
+    ]
+  },
+  {
+    "text": "Managing Entries",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Automatically Delete Form Entries",
+        "link": "/docs/automatically-delete-form-entries"
+      },
+      {
+        "text": "Edit User Submitted Entries With Fluent Forms",
+        "link": "/docs/edit-user-submitted-entries-with-fluent-forms"
+      },
+      {
+        "text": "Managing Entries in Fluent Forms",
+        "link": "/docs/managing-entries-in-fluent-forms"
+      },
+      {
+        "text": "Visual Representation of Form Entries in Fluent Forms",
+        "link": "/docs/visual-representation-of-form-entries-in-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Features & Functionalities",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Admin Approval Feature in Fluent Forms",
+        "link": "/docs/admin-approval-feature-in-fluent-forms"
+      },
+      {
+        "text": "Conditional Confirmation Message in Fluent Forms",
+        "link": "/docs/conditional-confirmation-message-in-fluent-forms"
+      },
+      {
+        "text": "Creating a Personality Quiz Form in Fluent Forms",
+        "link": "/docs/creating-a-personality-quiz-form-in-fluent-forms"
+      },
+      {
+        "text": "Dynamic Default Value in Fluent Forms",
+        "link": "/docs/dynamic-default-value-in-fluent-forms"
+      },
+      {
+        "text": "Dynamic Input Values In Form Steps | Fluent Forms",
+        "link": "/docs/dynamic-input-values-in-form-steps-fluent-forms"
+      },
+      {
+        "text": "Edit History Feature in Fluent Forms",
+        "link": "/docs/edit-history-feature-in-fluent-forms"
+      },
+      {
+        "text": "Fluent Forms Inventory Module",
+        "link": "/docs/fluent-forms-inventory-module"
+      },
+      {
+        "text": "Fluent Forms PDF Module",
+        "link": "/docs/fluent-forms-pdf-module"
+      },
+      {
+        "text": "Fluent Forms Quiz Module",
+        "link": "/docs/fluent-forms-quiz-module"
+      },
+      {
+        "text": "Form Restrictions Feature in Fluent Forms",
+        "link": "/docs/form-restrictions-feature-in-fluent-forms"
+      },
+      {
+        "text": "Form Scheduling Feature in Fluent Forms",
+        "link": "/docs/form-scheduling-feature-in-fluent-forms"
+      },
+      {
+        "text": "Global Inventory Manager in Fluent Forms",
+        "link": "/docs/global-inventory-manager-in-fluent-forms"
+      },
+      {
+        "text": "How to add Calc Values on the Repeat Field",
+        "link": "/docs/how-to-add-calc-values-on-the-repeat-field"
+      },
+      {
+        "text": "How to Create a WordPress User Registration Form With Fluent Forms",
+        "link": "/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms"
+      },
+      {
+        "text": "How to Create a WordPress User Update Form With Fluent Forms",
+        "link": "/docs/how-to-create-a-wordpress-user-update-form-with-fluent-forms"
+      },
+      {
+        "text": "How to use Meta Box Custom Fields with Fluent Forms",
+        "link": "/docs/how-to-use-meta-box-custom-fields-with-fluent-forms"
+      },
+      {
+        "text": "Inline Opt-in Form using Fluent Forms",
+        "link": "/docs/inline-opt-in-form-using-fluent-forms"
+      },
+      {
+        "text": "Keyboard Navigation & Shortcuts in Fluent Forms",
+        "link": "/docs/keyboard-navigation-shortcuts-in-fluent-forms"
+      },
+      {
+        "text": "Mapping Meta Fields with Meta Keys in Fluent Forms",
+        "link": "/docs/mapping-meta-fields-with-meta-keys-in-fluent-forms"
+      },
+      {
+        "text": "Numeric Calculation in Fluent Forms",
+        "link": "/docs/numeric-calculation-in-fluent-forms"
+      },
+      {
+        "text": "Post Selection Module in Fluent Forms",
+        "link": "/docs/post-selection-module-in-fluent-forms"
+      },
+      {
+        "text": "Resizeable Container in Fluent Forms",
+        "link": "/docs/resizeable-container-in-fluent-forms"
+      },
+      {
+        "text": "Set Default Form Value from URL Parameters",
+        "link": "/docs/set-default-form-value-from-url-parameters"
+      },
+      {
+        "text": "Set up Double Opt-in emails in Fluent Forms",
+        "link": "/docs/set-up-double-opt-in-emails-in-fluent-forms"
+      },
+      {
+        "text": "Set up Forms with Conditional Logic in Fluent Forms",
+        "link": "/docs/set-up-forms-with-conditional-logic-in-fluent-forms"
+      },
+      {
+        "text": "Surveys and Polls in Fluent Forms",
+        "link": "/docs/surveys-and-polls-in-fluent-forms"
+      },
+      {
+        "text": "Translate Forms with WPML",
+        "link": "/docs/translate-forms-with-wpml"
+      },
+      {
+        "text": "Unique Field Validation",
+        "link": "/docs/unique-field-validation"
+      },
+      {
+        "text": "Use ACF to Add a Custom Field in the Post Form",
+        "link": "/docs/use-acf-to-add-a-custom-field-in-the-post-form"
+      },
+      {
+        "text": "Using JetEngine Custom Fields with Fluent Forms",
+        "link": "/docs/using-jetengine-custom-fields-with-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Security & Anti-Spam",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "How to Integrate Cloudflare Turnstile with Fluent Forms",
+        "link": "/docs/how-to-integrate-cloudflare-turnstile-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate hCaptcha with Fluent Forms",
+        "link": "/docs/how-to-integrate-hcaptcha-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate reCAPTCHA with Fluent Forms",
+        "link": "/docs/how-to-integrate-recaptcha-with-fluent-forms"
+      },
+      {
+        "text": "Integrate Akismet with Fluent Forms",
+        "link": "/docs/integrate-akismet-with-fluent-forms"
+      },
+      {
+        "text": "Spam Protection With Honeypot and Google reCAPTCHA in Fluent Forms",
+        "link": "/docs/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Shortcodes",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Conditional Shortcodes in Fluent Forms",
+        "link": "/docs/conditional-shortcodes-in-fluent-forms"
+      },
+      {
+        "text": "Fluent Forms Shortcodes Overview",
+        "link": "/docs/fluent-forms-shortcodes-overview"
+      },
+      {
+        "text": "Form Editor Smart Codes",
+        "link": "/docs/form-editor-smart-codes"
+      },
+      {
+        "text": "Pre-Fill Form Fields with FluentCRM Data",
+        "link": "/docs/pre-fill-form-fields-with-fluentcrm-data"
+      },
+      {
+        "text": "Shortcodes in Confirmation Settings",
+        "link": "/docs/shortcodes-in-confirmation-settings"
+      },
+      {
+        "text": "Using Helper Shortcodes in Fluent Forms",
+        "link": "/docs/using-helper-shortcodes-in-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Email Marketing Integrations",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Automizy Integration with Fluent Forms",
+        "link": "/docs/automizy-integration-with-fluent-forms"
+      },
+      {
+        "text": "ClickSend SMS Integration with Fluent Forms",
+        "link": "/docs/clicksend-sms-integration-with-fluent-forms"
+      },
+      {
+        "text": "Gist Integration with Fluent Forms",
+        "link": "/docs/gist-integration-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate ActiveCampaign with Fluent Forms",
+        "link": "/docs/how-to-integrate-activecampaign-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Brevo (Formerly Sendinblue) with Fluent Forms",
+        "link": "/docs/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Campaign Monitor with Fluent Forms",
+        "link": "/docs/how-to-integrate-campaign-monitor-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate CleverReach with Fluent Forms",
+        "link": "/docs/how-to-integrate-cleverreach-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Constant Contact with Fluent Forms",
+        "link": "/docs/how-to-integrate-constant-contact-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate GetResponse with Fluent Forms",
+        "link": "/docs/how-to-integrate-getresponse-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Gist with Fluent Forms",
+        "link": "/docs/how-to-integrate-gist-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate iContact with Fluent Forms",
+        "link": "/docs/how-to-integrate-icontact-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Kit (Former ConvertKit) with Fluent Forms",
+        "link": "/docs/how-to-integrate-kit-former-convertkit-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Mailchimp with Fluent Forms",
+        "link": "/docs/how-to-integrate-mailchimp-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate MailerLite with Fluent Forms",
+        "link": "/docs/how-to-integrate-mailerlite-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Mailjet with Fluent Forms",
+        "link": "/docs/how-to-integrate-mailjet-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Mailster with Fluent Forms",
+        "link": "/docs/how-to-integrate-mailster-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate MooSend with Fluent Forms",
+        "link": "/docs/how-to-integrate-moosend-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate SendFox with Fluent Forms",
+        "link": "/docs/how-to-integrate-sendfox-with-fluent-forms"
+      },
+      {
+        "text": "Mailpoet Integration with Fluent Forms",
+        "link": "/docs/mailpoet-integration-with-fluent-forms"
+      },
+      {
+        "text": "Mautic Integration with Fluent Forms",
+        "link": "/docs/mautic-integration-with-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "CRM Integrations",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "AmoCRM Integration with Fluent Forms",
+        "link": "/docs/amocrm-integration-with-fluent-forms"
+      },
+      {
+        "text": "Drip Integration with Fluent Forms",
+        "link": "/docs/drip-integration-with-fluent-forms"
+      },
+      {
+        "text": "FluentCRM integration with Fluent Forms",
+        "link": "/docs/fluentcrm-integration-with-fluent-forms"
+      },
+      {
+        "text": "HubSpot Integration with Fluent Forms",
+        "link": "/docs/hubspot-integration-with-fluent-forms"
+      },
+      {
+        "text": "Insightly Integration with Fluent Forms",
+        "link": "/docs/insightly-integration-with-fluent-forms"
+      },
+      {
+        "text": "OnePageCRM Integration with Fluent Forms",
+        "link": "/docs/onepagecrm-integration-with-fluent-forms"
+      },
+      {
+        "text": "Pipedrive Integration with Fluent Forms",
+        "link": "/docs/pipedrive-integration-with-fluent-forms"
+      },
+      {
+        "text": "Salesflare Integration with Fluent Forms",
+        "link": "/docs/salesflare-integration-with-fluent-forms"
+      },
+      {
+        "text": "Salesforce Integration with Fluent Forms",
+        "link": "/docs/salesforce-integration-with-fluent-forms"
+      },
+      {
+        "text": "Zoho CRM Integration with Fluent Forms",
+        "link": "/docs/zoho-crm-integration-with-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Payment Integrations",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "How to integrate Authorize.Net with Fluent Forms",
+        "link": "/docs/how-to-integrate-authorizenet-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Mollie with Fluent Forms",
+        "link": "/docs/how-to-integrate-mollie-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Paddle with Fluent Forms",
+        "link": "/docs/how-to-integrate-paddle-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate PayPal with Fluent Forms",
+        "link": "/docs/how-to-integrate-paypal-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Paystack with Fluent Forms",
+        "link": "/docs/how-to-integrate-paystack-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Razorpay with Fluent Forms",
+        "link": "/docs/how-to-integrate-razorpay-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Square with Fluent Forms (Inline Payment Integration)",
+        "link": "/docs/how-to-integrate-square-with-fluent-forms-inline-payment-integration"
+      },
+      {
+        "text": "How to Integrate Stripe with Fluent Forms",
+        "link": "/docs/how-to-integrate-stripe-with-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Payment",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Configure Payment Settings with Fluent Forms",
+        "link": "/docs/configure-payment-settings-with-fluent-forms"
+      },
+      {
+        "text": "How to Create a Payment Form with Fluent Form",
+        "link": "/docs/how-to-create-a-payment-form-with-fluent-form"
+      }
+    ]
+  },
+  {
+    "text": "Automation Integrations",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "How to Integrate Platformly with Fluent Forms",
+        "link": "/docs/how-to-integrate-platformly-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Webhook with Fluent Forms",
+        "link": "/docs/how-to-integrate-webhook-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Zapier with Fluent Forms",
+        "link": "/docs/how-to-integrate-zapier-with-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Other Integrations",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "AffiliateWP Integration with Fluent Forms",
+        "link": "/docs/affiliatewp-integration-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Airtable with Fluent Forms",
+        "link": "/docs/how-to-integrate-airtable-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate BuddyBoss with Fluent Forms",
+        "link": "/docs/how-to-integrate-buddyboss-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Google Maps with Fluent Forms",
+        "link": "/docs/how-to-integrate-google-maps-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Google Sheets with Fluent Forms",
+        "link": "/docs/how-to-integrate-google-sheets-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Notion with Fluent Forms",
+        "link": "/docs/how-to-integrate-notion-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate OpenAI ChatGPT with Fluent Forms",
+        "link": "/docs/how-to-integrate-openai-chatgpt-with-fluent-forms"
+      },
+      {
+        "text": "How to Integrate Trello with Fluent Forms",
+        "link": "/docs/how-to-integrate-trello-with-fluent-forms"
+      },
+      {
+        "text": "Twilio Integration with Fluent Forms",
+        "link": "/docs/twilio-integration-with-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Import & Export",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Fluent Forms Migrator (WPForms, Contact Form 7, Gravity Forms, Ninja Forms & Caldera Forms)",
+        "link": "/docs/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms"
+      },
+      {
+        "text": "How to Import and Export Fluent Forms",
+        "link": "/docs/how-to-import-and-export-fluent-forms"
+      },
+      {
+        "text": "Importing Entries in Fluent Forms",
+        "link": "/docs/importing-entries-in-fluent-forms"
+      }
+    ]
+  },
+  {
+    "text": "Reports",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Payment Reports",
+        "link": "/docs/payment-reports"
+      },
+      {
+        "text": "Reports Dashboard Overview",
+        "link": "/docs/reports-dashboard-overview"
+      },
+      {
+        "text": "Submission Reports",
+        "link": "/docs/submission-reports"
+      }
+    ]
+  },
+  {
+    "text": "Account Management",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Setting up Managers in Fluent Forms (Access Control)",
+        "link": "/docs/setting-up-managers-in-fluent-forms-access-control"
+      }
+    ]
+  },
+  {
+    "text": "Miscellaneous",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Connecting Fluent Forms from one domain with Fluent CRM to another domain",
+        "link": "/docs/connecting-fluent-forms-from-one-domain-with-fluent-crm-to-another-domain"
+      },
+      {
+        "text": "Email Validation With ClearOut",
+        "link": "/docs/email-validation-with-clearout"
+      },
+      {
+        "text": "Fluent Form API Logs",
+        "link": "/docs/fluent-form-api-logs"
+      },
+      {
+        "text": "Fluent Forms Activity Logs",
+        "link": "/docs/fluent-forms-activity-logs"
+      },
+      {
+        "text": "Fluent Forms Event Tracking with Google Analytics (GA4) via Google Tag Manager",
+        "link": "/docs/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager"
+      },
+      {
+        "text": "Fluent Forms Global Search",
+        "link": "/docs/fluent-forms-global-search"
+      },
+      {
+        "text": "How to Transfer a License to a New Domain",
+        "link": "/docs/how-to-transfer-a-license-to-a-new-domain"
+      },
+      {
+        "text": "How to use CSS Ready Classes",
+        "link": "/docs/how-to-use-css-ready-classes"
+      },
+      {
+        "text": "Phone Field GEO-Location Provider",
+        "link": "/docs/phone-field-geo-location-provider"
+      },
+      {
+        "text": "Set Scroll Offset of Form Steps",
+        "link": "/docs/set-scroll-offset-of-form-steps"
+      },
+      {
+        "text": "Show Fluent Forms Entries in Frontend using Ninja Tables",
+        "link": "/docs/show-fluent-forms-entries-in-frontend-using-ninja-tables"
+      },
+      {
+        "text": "Translate Datepicker Field of Fluent Forms Plugin",
+        "link": "/docs/translate-datepicker-field-of-fluent-forms-plugin"
+      }
+    ]
+  },
+  {
+    "text": "Help & Support",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "Frequently Asked Questions",
+        "link": "/docs/frequently-asked-questions"
+      },
+      {
+        "text": "How to Get Support",
+        "link": "/docs/how-to-get-support"
+      },
+      {
+        "text": "Changelog",
+        "link": "/docs/changelog"
+      }
+    ]
+  }
+]
