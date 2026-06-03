@@ -71,16 +71,18 @@ Shape — array of section objects, all groups `collapsed: true`, links in SHORT
 ## Markdown writing style
 
 1. First line: `# H1` title matching the sidebar display name.
-2. Short intro paragraph (1–3 sentences): what the feature is, who it's for.
+2. Short intro paragraph (1–3/4 sentences): what the feature is, who it's for. Mainly a little explian about the documentation and what the user will learn.
 3. `##` for major sections, `###` for sub-topics.
 4. Bullet lists for steps/feature lists; numbered lists only when strict sequence matters.
-5. Bold (`**term**`) important terms on first use. No inner whitespace inside markers (`**term**`, never `** term **` — CommonMark renders the latter literally).
+5. Bold (`**Settings**`) important terms on first use. No inner whitespace inside markers (`**save**`, never `**Configure** button` — CommonMark renders the latter literally).
 6. Cross-references always: `[Descriptive Text](/docs/doc-slug)`.
 7. Never hardcode `https://fluentforms.com/...` for internal doc links.
 8. Pro-only features: add "(Pro)" after the name or a note.
 9. No fenced code blocks for UI instructions — plain text/bullets only.
 10. Short, direct sentences. User-facing docs, not developer prose.
 11. No support-boilerplate closers (e.g. "contact our support team", "reach out for assistance"). For help, link `[How to Get Support](/docs/how-to-get-support)`.
+12. Maintin the writing tone with the existing documentations.
+13. Use second person 'you/your', active sentence, and present tense sentence. 
 
 ### YouTube embeds
 
