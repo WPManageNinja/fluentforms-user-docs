@@ -10,153 +10,136 @@ The dashboard is Fluent Forms' main control centre. From here, you can view an o
 
 At the top, you'll find menu items like **Entries**, **Payments**, **Global Settings**, **Tools**, **Integrations**, and **Support**, giving you quick access to all major sections.
 
-- Add New Form: Click this button to start building a new form for your site.
+* **Add New Form:** Click this button to start building a new form for your site.
+* **Search Bar:** Located at the top-right, you can quickly search through your forms and form data.
+* **Filter Options:** Easily filter form stats by day, week, month, or a custom date range to analyze performance.
 
-- Search Bar: Located at the top-right, you can quickly search through your forms and form data.
-
-- Filter Options: Easily filter form stats by day, week, month, or a custom date range to analyze performance.
-
-![](/images/getting-started/fluent-forms-user-interface/filter-form-01-scaled.webp)
+![Dashboard](/images/getting-started/fluent-forms-user-interface/filter-form-01-scaled.webp)
 
 ### Form List Overview
 
-- ID: Displays the unique ID of each form.
-
-- Title: Shows the name or title of your form.
-
-- Shortcode: Each form has a shortcode that you can copy and paste anywhere on your site (pages, posts, or widgets) to display the form.
-
-- Entries: View all submissions collected through each form, including recent entries.
+* **ID:** Displays the unique ID of each form.
+* **Title:** Shows the name or title of your form.
+* **Shortcode:** Each form has a shortcode that you can copy and paste anywhere on your site (pages, posts, or widgets) to display the form.
+* **Entries:** View all submissions collected through each form, including recent entries.
 
 ## Form Menu
 
 This menu helps you quickly manage and organize each form directly from the dashboard. When you hover over a specific form, a menu appears with several options to manage the form.
 
-- Edit: Opens the form builder so you can change the form.
+* **Edit:** Opens the form builder so you can change the form.
+* **Settings:** Takes you to the form’s settings page.
+* **Entries:** Shows all submissions made through that form.
+* **Preview:** Lets you see how the form will appear on the front end.
+* **Duplicate:** Creates a copy of the form with the same structure and settings.
+* **Export:** Exports the form for backup or use on another site.
+* **Find:** Helps you locate similar forms.
+* **Delete:** Permanently removes the form from your site.
+* **Active/Inactive:** Use the toggle button to activate or deactivate the form on your website.
 
-- Settings: This takes you to the form’s settings page.
-
-- Entries: Shows all submissions made through that form.
-
-- Preview: Let’s see how the form will appear on the front end.
-
-- Duplicate: Creates a copy of the form with the same structure and settings.
-
-- Export: You can export the form for backup or use it on another site.
-
-- Find: Helps you locate similar forms.
-
-- Delete: Permanently remove the form from your site.
-
-- Active/Inactive: Use the toggle button to activate or deactivate the form on your website.
-
-![](/images/getting-started/fluent-forms-user-interface/unnamed-3.webp)
+![Form Menu](/images/getting-started/fluent-forms-user-interface/unnamed-3.webp)
 
 ## Forms Category
 
 You can filter your forms by category using the drop-down menu. This helps you quickly find specific types of forms you’ve created on your website:
 
-- All: Shows every form you’ve created.
+* **All:** Shows every form you’ve created.
+* **Active:** Displays only the forms that are currently active.
+* **Inactive:** Lists all the forms that are deactivated.
+* **Payment Form:** Filters to show only forms that include payment options.
+* **Conversational Form:** Shows forms designed in a chat-like, conversational style.
+* **Multi-step Form:** Displays forms that are split into multiple pages or steps.
 
-- Active: Displays only the forms that are currently active.
-
-- Inactive: Lists all the forms that are deactivated.
-
-- Payment Form: Filters to show only forms that include payment options.
-
-- Conversational Form: Shows forms designed in a chat-like, conversational style.
-
-- Multi-step Form: Displays forms that are split into multiple pages or steps.
-
-![](/images/getting-started/fluent-forms-user-interface/form-category-02-1-scaled.webp)
+![Category](/images/getting-started/fluent-forms-user-interface/form-category-02-1-scaled.webp)
 
 ## Form Builder
 
 The Form Builder allows you to create and customize forms using a drag-and-drop system.
 
-- Field Panel: This is the sidebar that shows all available form fields, including general and advanced types like text input, checkboxes, and dropdowns. You can drag any field from here to your form.
+* **Field Panel:** The sidebar that shows all available form fields, including general and advanced types like text input, checkboxes, and dropdowns. Drag any field from here into your form.
+* **Customization:** On the right side, options to customize each field after adding it to the form.
+* **Form Canvas:** The main workspace where you design and arrange your form.
+* **Field Settings:** When you click on a field, you can edit its label, placeholder, validation rules, and other options.
+* **Container:** Use containers to create multi-column layouts. You can also resize them as needed.
+* **Preview:** Click the Preview button to see how your form will look on the front end.
+* **Save Form:** After making changes, click the Save Form button to save your form to your website.
 
-- Customization: On the right side, you’ll find options to customize each field after adding it to the form.
+> [!Note]
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms in Fluent Forms](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-- Form Canvas: This is the main workspace where you design and arrange your form.
+![Form Builder](/images/getting-started/fluent-forms-user-interface/Form-builder-scaled.webp)
 
-- Field Settings: When you click on a field, you can edit its label, placeholder, validation rules, and other options.
-
-- Container: Use containers to create multi-column layouts. You can also resize them as needed.
-
-- Preview: Click the Preview button to see how your form will look on the front end.
-
-- Save Form: After making changes, click the Save Form button to save your form to your website.
-
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
-
-![](/images/getting-started/fluent-forms-user-interface/Form-builder-scaled.webp)
-
-### Form Template
+## Form Template
 
 You can use a collection of ready-made form templates to quickly get started.
 
-- Import Button: Click this button to import an existing template into your form builder.
+* **Import Button:** Click this button to import an existing template into your form builder.
+* **Choose a Template:** Pick and customize a pre-designed template to fit your needs.
+* **Create Conversational Form:** Use this option to start building a conversational-style form. See [How to create a conversational form](/docs/how-to-create-a-conversational-form).
+* **Create a Post Form:** Select this template to create a form that can generate WordPress posts. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
+* **Create a Form with AI:** Choose this option to generate a form using AI. See [How to Create a Form with Fluent Forms AI](/docs/how-to-create-a-form-with-fluent-forms-ai).
 
-- Choose a Template: Pick and customize a pre-designed template to fit your needs.
+![Form Template](/images/getting-started/fluent-forms-user-interface/Form-template-04.webp)
 
-- Create Conversational Form: Use this option to start building a conversational-style form.
+## Entries
 
-- Create a Post Form: Select this template to create a form that can generate WordPress posts. To learn more about Post Forms, check the related guide.
+The Entries section shows all form submissions collected on your website.
 
-- Create a Form with AI: Choose this option to generate a form using AI. To learn more about Fluent Forms AI Builder, read this article.
+* **Form Filter:** Filter entries by specific forms.
+* **Read/Unread Status:** Filter entries by read and unread status.
+* **Import Entries:** Import entries from other sources. See [Importing Entries in Fluent Forms](/docs/importing-entries-in-fluent-forms) and [Managing Entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
-![](/images/getting-started/fluent-forms-user-interface/Form-template-04.webp)
+![Entries](/images/getting-started/fluent-forms-user-interface/entries-05-scaled.webp)
 
-### Entries
+## Payment
 
-The Entries section shows all the form submissions collected on your website. You can filter them by specific forms or by read and unread status. You can also import entries from other sources. For more details, check out the full article on Entries.
+Once you enable the payment feature, you can choose and set up your preferred payment methods.
 
-![](/images/getting-started/fluent-forms-user-interface/entries-05-scaled.webp)
+* **Payment Methods:** Configure gateways such as Stripe, PayPal, or Razorpay and connect specific forms to specific payment options.
+* **Transactions List:** When you click the **Payments** menu, you see all transactions made through your forms and can view payment details for each form separately. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
-### Payment
+![Payment](/images/getting-started/fluent-forms-user-interface/Payment-07-scaled.webp)
 
-Once you enable the payment feature, you can choose and set up your preferred payment methods, such as Stripe, PayPal, or Razorpay. You can also connect specific forms to specific payment options based on your needs.
+## Global Settings
 
-When you click the **Payments** menu, you'll see a list of all transactions made through your forms. You can view payment details for each form separately.
+**Global Settings** is the section where you manage both general and form-specific settings in one place.
 
-![](/images/getting-started/fluent-forms-user-interface/Payment-07-scaled.webp)
+* **Default Layouts:** Set overall layout options that apply across forms.
+* **Integration Settings:** Configure global integration and module preferences.
+* **Form Behaviors:** Adjust default form behaviors and other site-wide preferences.
 
-### Global Settings
+![Global Settings](/images/getting-started/fluent-forms-user-interface/Settings-08-scaled.webp)
 
-**Global Settings** is the section where you can manage both general and form-specific settings in one place. From here, you can adjust overall options like default layouts, integration settings, form behaviors, and other preferences that apply to all forms on your site.
+## Tools
 
-![](/images/getting-started/fluent-forms-user-interface/Settings-08-scaled.webp)
+The Tools section in the Fluent Forms dashboard lets you manage and transfer your forms and data.
 
-### Tools
+* **API Activity Logs:** View API activity logs.
+* **Export and Import Forms:** Export and import forms between sites.
+* **Import Entries:** Import entries from JSON or CSV files.
+* **Migrator:** Migrate forms from other plugins. See [Fluent Forms Migrator](/docs/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
+* **Form Activity:** Monitor form activity.
 
-The Tools section in the Fluent Forms Dashboard allows you to easily manage and transfer your forms and data. In this section, you can:
-
-- View API activity logs
-
-- Export and import forms
-
-- Import entries from JSON or CSV files
-
-- Migrate forms from other plugins.
-
-- Monitor form activity
-
-![](/images/getting-started/fluent-forms-user-interface/tools-09-scaled.webp)
+![Tools](/images/getting-started/fluent-forms-user-interface/tools-09-scaled.webp)
 
 ## Integration
 
 Here is the list of modules you can turn on or off using the **Toggle** button.
 
-**Modules:** There are three fluent forms module options: **All**, **CRM & SASS integration,** and **WP Core module**. You can search for modules in the right-side search boxes.
-**Fluent Form PDF:** The Fluent Forms PDF module allows users to generate and download form submissions as PDF files.
+* **Modules:** Three module filter options—**All**, **CRM & SaaS integration**, and **WP Core module**. Search for modules using the search box on the right.
+* **Fluent Forms PDF:** Generate and download form submissions as PDF files. See [Fluent Forms PDF Module](/docs/fluent-forms-pdf-module).
 
-![](/images/getting-started/fluent-forms-user-interface/Integration-09-scaled.webp)
+![Integration](/images/getting-started/fluent-forms-user-interface/Integration-09-scaled.webp)
 
-### Support
+## Support
 
-This **Support** menu contains user guidance, documentation, community support, and expert live support. You can also request features here.
+The **Support** menu contains user guidance, documentation, community support, and expert live support.
 
-![](/images/getting-started/fluent-forms-user-interface/Support.webp)
+* **Documentation:** Access guides and help articles.
+* **Community Support:** Connect with other Fluent Forms users.
+* **Live Support:** Get expert help when you need it.
+* **Feature Requests:** Submit ideas for new features.
+
+![Support](/images/getting-started/fluent-forms-user-interface/Support.webp)
 
 This overview highlights the essential components of the Fluent Forms UI, making it easier for users to navigate and utilize the plugin effectively.
