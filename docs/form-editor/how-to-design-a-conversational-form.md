@@ -8,9 +8,9 @@ To learn how to design a conversational form, follow the steps with screenshots 
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the desired Conversational Form you want to design, and click the **Edit** option.
 
-> If you do not have any existing conversational form, read this Documentation to create a new one.
+> If you do not have any existing conversational form, read this [Documentation](docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
-![](/images/form-editor/how-to-design-a-conversational-form/1.-Open-desired-form-Editor-scaled.webp)
+![Conversion Form](/images/form-editor/how-to-design-a-conversational-form/1.-Open-desired-form-Editor-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Design** section, and three major options will appear for designing your form. These are:
 
@@ -20,9 +20,7 @@ Once you are on the **Editor** page, go to the **Design** section, and three maj
 
 3. Share
 
-![](/images/form-editor/how-to-design-a-conversational-form/Conversational-Form-Design-FluentForm-04-22-2025_03_34_PM-scaled.webp)
-
-**All the three options are explained below:** 
+![Editor](/images/form-editor/how-to-design-a-conversational-form/Conversational-Form-Design-FluentForm-04-22-2025_03_34_PM-scaled.webp)
 
 ### 1. Design
 
@@ -52,11 +50,11 @@ Under the Design tab, you will get various options to customize your form appear
 
 Once you are done, click the **Save Settings** button to save all your changes.
 
-![](/images/form-editor/how-to-design-a-conversational-form/2.-Design-tab-scaled.webp)
+![Design](/images/form-editor/how-to-design-a-conversational-form/2.-Design-tab-scaled.webp)
 
 ### 2. Meta
 
-The Meta Tab is used for setting your Social Sharing Meta texts and Form messages. The following options available on this tab are given below: 
+The Meta Tab is used for setting your Social Sharing Meta texts and Form messages. 
 
 **A. Meta Title:** Use this option to add your Meta Title to your form. This title will be displayed on your browser tab.
 
@@ -94,7 +92,7 @@ The Meta Tab is used for setting your Social Sharing Meta texts and Form message
 
 Once you are done, click the **Save Settings** button to save all your changes.
 
-![](/images/form-editor/how-to-design-a-conversational-form/3.-Meta-tab.webp)
+![Meta](/images/form-editor/how-to-design-a-conversational-form/3.-Meta-tab.webp)
 
 ### 3. Share
 
@@ -108,14 +106,14 @@ This tab is used for Sharing your form by unique URL or Copying and Pasting the 
 
 **D. Embed via HTML Code:** If you want to use this form in another domain/another site, or even outside WordPress? You can use the given code from this option. You can customize the height property.
 
-![](/images/form-editor/how-to-design-a-conversational-form/4.-Share-tab-scaled.webp)
+![Share](/images/form-editor/how-to-design-a-conversational-form/4.-Share-tab-scaled.webp)
 
 After customization, click the **Save Form** button in the top right corner to save all the changes.
 
 Click the **Preview & Design** button in the middle if you want to see the preview of your form. Also, copy the **Form ShortCode** from the top bar to display it on the front end. 
 
-![](/images/form-editor/how-to-design-a-conversational-form/5.-Save-form-button-scaled.webp)
+![Form Shortcode](/images/form-editor/how-to-design-a-conversational-form/5.-Save-form-button-scaled.webp)
 
 Here is the preview of the designed conversational form.
 
-![](/images/form-editor/how-to-design-a-conversational-form/6.-Form-preview.webp)
+![Preview](/images/form-editor/how-to-design-a-conversational-form/6.-Form-preview.webp)
