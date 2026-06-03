@@ -10,19 +10,20 @@ Once you are on your desired Page/Post, start adding Fluent Forms using the **Gu
 
 First, click the **Plus (+)** **Icon** to add a new block, search for Fluent Forms, and simply click on it.
 
-![](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/Add-Fluent-Form-scaled.webp)
+![Adding Gutenberg Editor](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/Add-Fluent-Form-scaled.webp)
 
 After adding the block, select a saved Fluent Forms from the **dropdown menu**.
 
 Once selected, the form will automatically appear inside the editor preview. Click **Update** or **Publish** to save your changes.
 
-![](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/select-a-form.webp)
+![select a form](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/select-a-form.webp)
 
 Here, you can see the preview of an embedded Fluent Forms using Gutenberg Block.
 
+> [!Note]
 > You can also add the form in Gutenberg by pasting the form ShortCode into the Gutenberg ShortCode block or HTML block.
 
-![](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/Form-Embeded-success.webp)
+![Form Embed Success](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/Form-Embeded-success.webp)
 
 ## Customize Form Styling
 
@@ -56,18 +57,15 @@ This tab controls the styling for individual fields and elements within your for
 
 - Border
 
-![](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/General-tab.webp)
+![General Tab](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/General-tab.webp)
 
 ### Misc Tab
 
 **Container Styles:**
 
-- Background Type: Set a Classic (solid color or background image) or a Gradient background for the entire form.
+  * **Background Type:** Set a Classic (solid color or background image) or a Gradient background for the entire form.
+  * **Padding & Margin:** Add space inside (padding) or outside (margin) the form container to position it.
+  * **Box Shadow:** Apply a shadow effect to the form container to make it "pop" from the page.
+  * **Form Border Settings:** Add and style a border around the entire form.
 
-- Padding & Margin: Add space inside (padding) or outside (margin) the form container to position it.
-
-- Box Shadow: Apply a shadow effect to the form container to make it "pop" from the page.
-
-- Form Border Settings: Add and style a border around the entire form.
-
-![](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/Misc-tab-scaled.webp)
+![Misc Tab](/images/publishing-form-form-building/how-to-embed-your-forms-directly-in-gutenberg-layout/Misc-tab-scaled.webp)
