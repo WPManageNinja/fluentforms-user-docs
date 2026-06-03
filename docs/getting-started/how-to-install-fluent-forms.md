@@ -24,7 +24,7 @@ Now, it's time to get started with Fluent Forms. There are two ways to install F
 
 We will cover both of these processes. 
 
-### Installing Fluent Forms from WordPress Dashboard
+#### Install from WordPress dashboard
 
 The steps of installing Fluent Forms are just like installing any other WordPress plugin. Here are the steps – 
 
@@ -34,7 +34,7 @@ The steps of installing Fluent Forms are just like installing any other WordPres
 
 ![Installing Fluent Forms from WordPress](/images/getting-started/how-to-install-fluent-forms/Fluent-Form-install-01-scaled.webp)
 
-### Installing Fluent Forms from the WordPress Repository
+#### Install from WordPress.org
 
 You can manually install Fluent Forms by downloading it from the WordPress plugin repository. First, go to the [Fluent Forms](https://wordpress.org/plugins/fluentform/) page on WordPress.org and click the **Download** button to get the plugin file. Then, upload it to your WordPress site to complete the installation.
 
@@ -44,7 +44,7 @@ Now, navigate to your WordPress Dashboards **Plugin** sections. Click the **Add 
 
 ![Add New](/images/getting-started/how-to-install-fluent-forms/03-3-scaled.webp)
 
-After that, click, **choose the .zip f**ile you just downloaded and click on the **Install Now** button.
+After that, choose the `.zip` file you downloaded and click **Install Now**.
 
 ![Install Now](/images/getting-started/how-to-install-fluent-forms/04-2-scaled.webp)
 
