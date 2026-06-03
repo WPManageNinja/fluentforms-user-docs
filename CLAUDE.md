@@ -30,9 +30,12 @@ Run `npm run docs:build` after any structural change (new doc, rename, link edit
     └── <category>/<doc-slug>.md                          ← every doc lives in a category folder
 ```
 
-### Category folders (under `docs/`, 29 total)
+### Category folders (under `docs/`, 34 total)
 
-`account-management`, `advance-fields`, `automation`, `container-fields`, `crm`, `email-marketing`, `features-and-functionalities`, `form-editor`, `form-entries`, `form-notification`, `form-settings-form-building`, `form-style-template`, `general-fields`, `getting-started`, `help-and-support`, `import-export`, `manage-entries`, `miscellaneous`, `notification`, `others`, `payment`, `payment-fields`, `payment-integration`, `post-fields`, `publishing-form-form-building`, `reports`, `security`, `shortcode`, `taxonomy-fields`
+Single-level only (`docs/<category>/<slug>.md` — never nest two levels on disk, or the
+rewrite rule won't match). Folders mirror the sidebar **sub-groups**:
+
+`account-license`, `advanced-fields`, `automation`, `calculations`, `conditional-logic`, `confirmations`, `container-fields`, `conversational-forms`, `crm`, `custom-fields-meta`, `design-styling`, `email-marketing`, `email-notifications`, `entries`, `form-builder-basics`, `form-settings`, `general-fields`, `getting-started`, `help-support`, `import-export-migration`, `localization`, `logs-tracking`, `modules`, `other-apps`, `payment-fields`, `payment-gateways`, `payments`, `post-taxonomy-fields`, `publishing-embedding`, `reports`, `security-spam`, `shortcodes`, `specialized-form-types`, `team-chat`
 
 (`docs/public/` is assets, not a category.)
 
@@ -55,11 +58,22 @@ Doc slugs are globally unique across all categories, so the flat URL never colli
 
 The sidebar is 100% driven by `.vitepress/sidebar.json`. VitePress does **not** auto-discover docs. Every new or renamed `.md` file **must** be reflected in `sidebar.json`.
 
-Shape — array of section objects, all groups `collapsed: true`, links in SHORT `/docs/<slug>` form:
+Shape — **2-level nested** array of journey sections, all groups `collapsed: true`, links in
+SHORT `/docs/<slug>` form. A section either lists leaf items directly, or holds sub-groups
+(objects with their own `items`). A leaf item's `text` is a **short label** (see style rule 1):
 ```json
-{ "text": "Section Name", "collapsed": true,
-  "items": [ { "text": "Page Title", "link": "/docs/doc-slug" } ] }
+[
+  { "text": "Getting Started", "collapsed": true,
+    "items": [ { "text": "Install Fluent Forms", "link": "/docs/how-to-install-fluent-forms" } ] },
+  { "text": "Form Fields", "collapsed": true, "items": [
+    { "text": "General Fields", "collapsed": true,
+      "items": [ { "text": "Dropdown", "link": "/docs/dropdown-field-in-fluent-forms" } ] }
+  ] }
+]
 ```
+When adding a doc, place it in the right **section → sub-group** (16 sections; see the live
+`sidebar.json`). Leaf `link` is `/docs/<slug>` regardless of which category folder the file
+sits in on disk.
 
 ## Images
 
@@ -70,7 +84,7 @@ Shape — array of section objects, all groups `collapsed: true`, links in SHORT
 
 ## Markdown writing style
 
-1. First line: `# H1` title matching the sidebar display name.
+1. First line: `# H1` — the full, descriptive page title (e.g. `# How to Install Fluent Forms`). The sidebar uses a **short label** (e.g. "Install Fluent Forms") that is intentionally different and lives only in `sidebar.json`; local search still indexes the H1.
 2. Short intro paragraph (1–3/4 sentences): what the feature is, who it's for. Mainly a little explian about the documentation and what the user will learn.
 3. `##` for major sections, `###` for sub-topics.
 4. Bullet lists for steps/feature lists; numbered lists only when strict sequence matters.

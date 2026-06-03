@@ -16,32 +16,32 @@ hero:
 features:
   - icon: 🚀
     title: Getting Started
-    details: Installation, setup, and platform overview for new users.
+    details: Installation, setup, and a tour of the Fluent Forms interface.
     link: /docs/getting-started-with-fluent-forms
     linkText: Get Started
   - icon: ✏️
-    title: Form Editor
-    details: Build any kind of form with the drag-and-drop editor, AI builder, or quick templates.
+    title: Creating Forms
+    details: Build with the drag-and-drop editor, AI, conversational forms, or ready-made form types.
     link: /docs/how-to-create-a-form-with-fluent-forms
     linkText: Build a Form
   - icon: 📝
-    title: Fields
-    details: Text, dropdowns, file upload, payments, repeaters, and 40+ other field types.
+    title: Form Fields
+    details: Text, dropdowns, file upload, containers, post fields, and 50+ other field types.
     link: /docs/adding-a-simple-text-input-field
     linkText: Browse Fields
-  - icon: 📧
-    title: Notifications
-    details: Configure email notifications, conditional routing, and submission confirmations.
-    link: /docs/how-to-setup-adminuser-email-notifications
-    linkText: Setup Notifications
+  - icon: 💳
+    title: Payments
+    details: Create payment forms and accept money with Stripe, PayPal, Mollie, and more.
+    link: /docs/how-to-create-a-payment-form-with-fluent-form
+    linkText: Take Payments
   - icon: 🔌
     title: Integrations
-    details: Connect with Mailchimp, HubSpot, Stripe, Slack, and 60+ other tools.
+    details: Connect Mailchimp, HubSpot, Slack, Zapier, Google Sheets, and 60+ other tools.
     link: /docs/how-to-integrate-mailchimp-with-fluent-forms
     linkText: View Integrations
-  - icon: ⚙️
-    title: Features & Functionalities
-    details: Conditional logic, multi-step forms, calculations, quizzes, PDF, and more.
-    link: /docs/set-up-forms-with-conditional-logic-in-fluent-forms
-    linkText: Explore Features
+  - icon: 📥
+    title: Managing Submissions
+    details: View, search, edit, and export entries, plus submission and payment reports.
+    link: /docs/managing-entries-in-fluent-forms
+    linkText: Manage Entries
 ---
