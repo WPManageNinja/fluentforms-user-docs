@@ -12,23 +12,20 @@ With Fluent Forms, you can easily publish your forms with just a few clicks. Fol
 To start, log in to your **WordPress Dashboard**. Now, navigate to the **Fluent Forms >** **Forms** from the left sidebar.
 Then click on the **+ Add New Form** button in the Forms Section. 
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/1.-Add-new-form-button-scaled.webp)
+![Creating a New Form](/images/form-editor/how-to-create-a-form-with-fluent-forms/1.-Add-new-form-button-scaled.webp)
 
 A popup will appear, and you will have **some options** to create a form. These are:
 
-- New Blank Form: Creating a blank form allows you to build a form from scratch.
-
-- Choose a Template: This option allows you to choose a pre-made template for your website, divided into different categories, to avoid the hassle of building form from scratch. To use the premium templates, you need to install & activate the Fluent Forms Pro Add-on.
-
-- Conversational Forms: This allows you to transform content or surveys into interactive conversations.
-
-- Create Using AI: This option allows you to create a form with AI.
+* **New Blank Form:** Creating a blank form allows you to build a form from scratch.
+* **Choose a Template:** This option allows you to choose a pre-made template for your website, divided into different categories, to avoid the hassle of building form from scratch. To use the premium templates, you need to install & activate the Fluent Forms Pro Add-on.
+* **Conversational Forms:** This allows you to transform content or surveys into interactive conversations.
+* **Create Using AI:** This option allows you to create a form with AI.
 
 You can also **import** ready-made forms by clicking the **Import Form** button. **For example**, here I created a **Blank From** from scratch to show you the whole process of creating a new form.
 
-First, click the **Plus** **Icon** to create a new blank form.
+First, click the **Plus Icon** to create a new blank form.
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/Forms-Fluent-Forms-04-22-2025_03_23_PM-scaled.webp)
+![Types of Forms](/images/form-editor/how-to-create-a-form-with-fluent-forms/Forms-Fluent-Forms-04-22-2025_03_23_PM-scaled.webp)
 
 ### Adding Fields
 
@@ -36,17 +33,17 @@ Here comes the **Editor** page. Now, click the **Pencil Icon** in the left corne
 
 To add the desired fields, either click the **Plus Icon** or open the **Fields Sections** by clicking the **Dropdown Arrow** under the **Input Fields** tab.
 
-You can also **search for the desired fields** by their name using the **Search Bar.**
+You can also **search for the desired fields** by their name using the **Search Bar**.
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/3.-Editor-page-1-scaled.webp)
+![Adding Fields](/images/form-editor/how-to-create-a-form-with-fluent-forms/3.-Editor-page-1-scaled.webp)
 
 Once you click the **Pencil/Edit Icon,** a new pop-up will appear to set the form title. Now, type the desired Title Text and click the **Rename** button to set **Form Names**.
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/Edit-your-form-name.webp)
+![Form Names](/images/form-editor/how-to-create-a-form-with-fluent-forms/Edit-your-form-name.webp)
 
 Now add fields according to your requirements by clicking the desired **Field** buttons or just **Drag and Drop** them into the **Editor.** To learn more about adding fields, click [here](https://wpmanageninja.com/docs/fluent-form/how-to-use-wp-fluent-form/how-to-create-a-form-with-wp-fluent-form-wordpress-plugin/).
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/5.-Drag-Drop-feature.gif)
+![Diseired Field](/images/form-editor/how-to-create-a-form-with-fluent-forms/5.-Drag-Drop-feature.gif)
 
 ### Customizing Form
 
@@ -54,14 +51,14 @@ Now, to customize the **Fields**, **hover over the desired field** and **click**
 
 It will redirect you to the **Input Customization** tab on the right sidebar, which offers a wide range of customization possibilities, from renaming a field to setting the maximum size of a file input field.
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/6.-Edit-Icon-or-Input-Customization-button-scaled.webp)
+![Customize the Forms](/images/form-editor/how-to-create-a-form-with-fluent-forms/6.-Edit-Icon-or-Input-Customization-button-scaled.webp)
 
 ### Checking History
 
 To see the recent changes you made on your form click the **History** tab.
 Plus, from this tab, you can restore or delete recent edits at any time by clicking the **Restore** button or **Delete** **Icon**.
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/7.-History-tab-scaled.webp)
+![Checkig History](/images/form-editor/how-to-create-a-form-with-fluent-forms/7.-History-tab-scaled.webp)
 
 ## Embedding Form into Frontend
 
@@ -70,17 +67,16 @@ Also, click the **Preview & Design** button in the middle if you want to see the
 
 Then, copy the **Form** **ShortCode** from the top bar to display it on the front end. 
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/8.-Save-form-copy-shortcode-and-Preview-scaled.webp)
+![Embeding Forms into Frontend](/images/form-editor/how-to-create-a-form-with-fluent-forms/8.-Save-form-copy-shortcode-and-Preview-scaled.webp)
 
-Paste the shortcode in your desired **Page/Post** where you want this shortcode to appear on your WordPress Site.
+**Paste** the shortcode in your desired **Page/Post** where you want this shortcode to appear on your WordPress Site.
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/shortcode-paste.webp)
+![Shortcode](/images/form-editor/how-to-create-a-form-with-fluent-forms/shortcode-paste.webp)
 
 ## Preview of Form
 
 Here is the preview of the newly created form.
 
-![](/images/form-editor/how-to-create-a-form-with-fluent-forms/9.-Preview-Fluent-Form.webp)
+![Preview](/images/form-editor/how-to-create-a-form-with-fluent-forms/9.-Preview-Fluent-Form.webp)
 
-Congratulations! You have successfully created a new form with Fluent Forms!
-This way you can create as many forms as you want with **Fluent** **Forms**.
+Congratulations! You have successfully created a new form with Fluent Forms! This way you can create as many forms as you want with **Fluent Forms**.
