@@ -43,16 +43,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Get Started', link: '/docs/getting-started-with-fluent-forms' },
-      {
-        text: 'Guides',
-        items: [
-          { text: 'Creating Forms', link: '/docs/how-to-create-a-form-with-fluent-forms' },
-          { text: 'Form Fields', link: '/docs/adding-a-simple-text-input-field' },
-          { text: 'Payments', link: '/docs/how-to-create-a-payment-form-with-fluent-form' },
-          { text: 'Integrations', link: '/docs/how-to-integrate-mailchimp-with-fluent-forms' },
-          { text: 'Managing Submissions', link: '/docs/managing-entries-in-fluent-forms' },
-        ],
-      },
       { text: 'Website', link: 'https://fluentforms.com/' },
       { text: 'Changelog', link: '/docs/changelog' },
     ],
