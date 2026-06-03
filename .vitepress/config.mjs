@@ -19,13 +19,15 @@ export default defineConfig({
   srcExclude: ['README.md', 'CLAUDE.md', '*-PLAN.md', 'docs/public/**'],
   lastUpdated: true,
 
-  // URL flattening: docs/<category>/<slug>.md → /docs/<slug>
-  // Keeps the on-disk category-folder layout while hiding the category from URLs.
+  // URL flattening: the on-disk tree is docs/<section>/[<sub-group>/]<slug>.md (2 or 3 levels),
+  // but every page is served at /docs/<slug> — the section/sub-group folders are hidden from URLs.
+  // Two patterns cover sub-grouped (3-level) and flat (2-level) sections.
   rewrites: {
-    'docs/:category/:doc.md': 'docs/:doc.md',
+    'docs/:section/:sub/:doc.md': 'docs/:doc.md',
+    'docs/:section/:doc.md': 'docs/:doc.md',
   },
 
-  // Images live at docs/public/images/<category>/<doc-slug>/<basename>.ext
+  // Images live at docs/public/images/<section>/[<sub-group>/]<slug>/<basename>.ext (mirrors the docs tree).
   // Vite serves anything under publicDir at the site root, so /images/<...> resolves correctly.
   vite: {
     publicDir: 'docs/public',

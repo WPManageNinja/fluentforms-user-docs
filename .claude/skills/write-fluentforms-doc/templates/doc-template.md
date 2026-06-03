@@ -1,6 +1,6 @@
 # <Doc Title>
 
-<One to three sentences: what this feature is and who it is for. Bold the **feature name** on first use.>
+<One to three/four sentences: what this feature is and who it is for. Bold the **feature name** on first use.>
 
 ## <First Major Section>
 

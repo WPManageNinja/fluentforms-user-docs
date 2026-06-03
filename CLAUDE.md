@@ -30,29 +30,35 @@ Run `npm run docs:build` after any structural change (new doc, rename, link edit
     └── <category>/<doc-slug>.md                          ← every doc lives in a category folder
 ```
 
-### Category folders (under `docs/`, 34 total)
+### Category folders — 2-level (16 sections, mirroring the sidebar)
 
-Single-level only (`docs/<category>/<slug>.md` — never nest two levels on disk, or the
-rewrite rule won't match). Folders mirror the sidebar **sub-groups**:
+The disk tree mirrors the category plan: **`docs/<section>/<sub-group>/<slug>.md`** for
+sectioned areas, or **`docs/<section>/<slug>.md`** for flat sections (no deeper nesting than
+this — depth is 2 or 3). The 16 sections:
 
-`account-license`, `advanced-fields`, `automation`, `calculations`, `conditional-logic`, `confirmations`, `container-fields`, `conversational-forms`, `crm`, `custom-fields-meta`, `design-styling`, `email-marketing`, `email-notifications`, `entries`, `form-builder-basics`, `form-settings`, `general-fields`, `getting-started`, `help-support`, `import-export-migration`, `localization`, `logs-tracking`, `modules`, `other-apps`, `payment-fields`, `payment-gateways`, `payments`, `post-taxonomy-fields`, `publishing-embedding`, `reports`, `security-spam`, `shortcodes`, `specialized-form-types`, `team-chat`
+`getting-started` (flat) · `creating-forms`/{form-builder-basics, conversational-forms, specialized-form-types} · `form-fields`/{general-fields, advanced-fields, container-fields, post-taxonomy-fields} · `configuring-forms`/{form-settings, conditional-logic, calculations} · `design-styling` (flat) · `notifications-confirmations`/{email-notifications, confirmations} · `publishing-embedding` (flat) · `payments`/{getting-started-with-payments, payment-fields, payment-gateways, payment-reports} · `managing-submissions`/{entries, reports} · `integrations`/{email-marketing, crm, automation, team-chat, other-apps} · `security-spam` (flat) · `modules` (flat) · `advanced-developer`/{shortcodes, custom-fields-meta, logs-tracking, localization} · `import-export-migration` (flat) · `account-license` (flat) · `help-support` (flat)
 
 (`docs/public/` is assets, not a category.)
 
 ## URL rewrite rule — the most important convention
 
-On disk: `docs/<category>/<doc-slug>.md` → In browser: `/docs/<doc-slug>` (category stripped).
+On disk: `docs/<section>/[<sub-group>/]<doc-slug>.md` → In browser: `/docs/<doc-slug>`
+(section + sub-group stripped).
 
-Defined in `config.mjs`:
+Defined in `config.mjs` (two patterns cover 3-level and 2-level paths):
 ```js
-rewrites: { 'docs/:category/:doc.md': 'docs/:doc.md' }
+rewrites: {
+  'docs/:section/:sub/:doc.md': 'docs/:doc.md',
+  'docs/:section/:doc.md': 'docs/:doc.md',
+}
 ```
 
 **Consequence — all internal links use the SHORT form:**
 - ✅ `[Link Text](/docs/doc-slug)`
-- ❌ `[Link Text](/docs/category/doc-slug)`
+- ❌ `[Link Text](/docs/section/doc-slug)` or `[Link Text](/docs/section/sub/doc-slug)`
 
-Doc slugs are globally unique across all categories, so the flat URL never collides.
+Doc slugs are globally unique, so the flat URL never collides. (Never nest deeper than
+section/sub-group on disk, or neither rewrite pattern will match.)
 
 ## Sidebar — mandatory step when adding/renaming docs
 
@@ -77,8 +83,9 @@ sits in on disk.
 
 ## Images
 
-- Storage: `docs/public/images/<category>/<doc-slug>/<filename>.ext`
-- Reference: `![Alt text](/images/<category>/<doc-slug>/<filename>.ext)`
+Image folders **mirror the docs tree** (same section/sub-group path as the `.md`):
+- Storage: `docs/public/images/<section>/[<sub-group>/]<doc-slug>/<filename>.ext`
+- Reference: `![Alt text](/images/<section>/[<sub-group>/]<doc-slug>/<filename>.ext)`
 
 `docs/public/` is VitePress `publicDir` (set via `vite.publicDir` in config), so `/images/...` resolves at the site root.
 
