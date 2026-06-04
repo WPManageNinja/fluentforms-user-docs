@@ -538,6 +538,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "Overview",
+        "link": "/docs/payments-overview"
+      },
+      {
         "text": "Getting Started with Payments",
         "collapsed": true,
         "items": [
