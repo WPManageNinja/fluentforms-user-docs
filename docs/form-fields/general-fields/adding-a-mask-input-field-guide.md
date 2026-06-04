@@ -53,11 +53,11 @@ You will find various settings options for customizing the field. Located in the
 
 Follow the format rules:
 
-- 0-9/ #: Numerical character
+- **0-9/ #:** Numerical character
 
-- A: Alphabetical character
+- **A:** Alphabetical character
 
-- *: Alphanumeric character
+- ***:** Alphanumeric character
 
 - Literal characters are automatically displayed
 
@@ -73,19 +73,19 @@ License Key Mask: *-*-***. Valid Input: a9a-f0c-28Q
 
 **F. Mobile Keyboard Type:** Select the specific keyboard layout that will appear for mobile users when they tap this field. You can choose from:
 
-- Standard Keyboard: The default full alphanumeric keyboard.
+- **Standard Keyboard:** The default full alphanumeric keyboard.
 
-- Numeric (0-9): A number-only pad.
+- **Numeric (0-9):** A number-only pad.
 
-- Decimal (0-9 with .): A numeric pad with a decimal point.
+- **Decimal (0-9 with .):** A numeric pad with a decimal point.
 
-- Telephone (0-9, ; #): A standard phone dialer pad.
+- **Telephone (0-9, ; #):** A standard phone dialer pad.
 
 **G. Required:** Decide whether users must select at least one option before submission.
 
 ![Mask Input Options](/images/form-fields/general-fields/adding-a-mask-input-field-guide/mask-input-options-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases.
 
