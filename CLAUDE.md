@@ -81,6 +81,20 @@ When adding a doc, place it in the right **section → sub-group** (16 sections;
 `sidebar.json`). Leaf `link` is `/docs/<slug>` regardless of which category folder the file
 sits in on disk.
 
+### Section overview (hub) pages
+
+The 8 large sub-grouped sections each have a marketing-led **overview/hub page** that explains
+the section's features and interlinks every doc inside it:
+
+- File lives at `docs/<section>/<section>-overview.md` (2-level — directly under the section,
+  even though the section has sub-groups). Slug = `<section>-overview`, URL `/docs/<section>-overview`.
+- Wired as the **first** leaf under its section in `sidebar.json`, labelled `"Overview"`:
+  `{ "text": "Overview", "link": "/docs/<section>-overview" }` (above the sub-group objects).
+- Sections with overviews: `creating-forms`, `form-fields`, `configuring-forms`,
+  `notifications-confirmations`, `payments`, `managing-submissions`, `integrations`,
+  `advanced-developer`. When you add a new doc to one of these sections, also add its link to
+  the matching `## sub-group` bullet list in that section's overview page.
+
 ## Images
 
 Image folders **mirror the docs tree** (same section/sub-group path as the `.md`):

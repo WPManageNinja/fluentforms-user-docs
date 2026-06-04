@@ -32,6 +32,9 @@ a clean build. Canonical conventions live in `CLAUDE.md` — this skill is the *
     assistance"); link `[How to Get Support](/docs/how-to-get-support)` instead.
 11. **DO NOT** invent a new category folder or a new sidebar group without asking the user.
 12. **DO NOT** write `** term **` (inner-whitespace bold) — use `**term**`.
+13. **DO** keep the section overview in sync: if the new doc lands in one of the 8 sections
+    that has an `<section>-overview.md` hub page (see CLAUDE.md → "Section overview pages"),
+    add its `/docs/<slug>` link to the matching `## sub-group` bullet list in that overview.
 
 ---
 

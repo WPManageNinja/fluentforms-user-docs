@@ -33,6 +33,10 @@ desyncs the sidebar. This skill makes those changes safely. Canonical convention
 10. **DO NOT** delete a doc without removing its sidebar entry AND reporting any inbound
     links that will now be dead.
 11. **DO NOT** change page wording here (that's edit-fluentforms-doc).
+12. **DO** treat a section overview hub page as an inbound link source: if you rename, move
+    out of, or delete a doc that is linked from a `<section>-overview.md` page (see CLAUDE.md
+    → "Section overview pages"), update/remove that doc's link in the overview's bullet list
+    too — the `grep -rln '/docs/<slug>'` survey already surfaces it.
 
 ---
 
