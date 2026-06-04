@@ -1,6 +1,6 @@
 # Form Editor Smart Codes
 
-Fluent Forms offers various **dynamic smart codes** that can be used in the form builder to set **default input values**. These codes pull information from your **website, user profile, post details,** and **FluentCRM contacts**.
+Fluent Forms offers various **dynamic smart codes** that can be used in the form builder to set [**default input values**](/docs/dynamic-default-value-in-fluent-forms). These codes pull information from your **website, user profile, post details,** and **FluentCRM contacts**.
 
 This article explains each available shortcode and how they function within Fluent Forms.
 
@@ -42,7 +42,7 @@ These codes pull details about the **page/post** where the form is placed.
 
 ### FluentCRM Shortcode
 
-These codes work if you use **FluentCRM** and want to **auto-fill contact details**.
+These codes work if you use [**FluentCRM**](/docs/fluentcrm-integration-with-fluent-forms) and want to **auto-fill contact details**. To populate fields directly from a logged-in contact's profile, see [Pre-Fill Form Fields with FluentCRM Data](/docs/pre-fill-form-fields-with-fluentcrm-data).
 
 | SmartCode | Description |
 |---|---|

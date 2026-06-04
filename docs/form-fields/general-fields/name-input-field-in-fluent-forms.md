@@ -10,7 +10,7 @@ To learn how to add the Name field to the Fluent Forms, follow the steps with th
 
 First, go to the **Forms** section from the **Fluent Forms Navbar** and click the **Add New Form** button to create a new form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/form-fields/general-fields/name-input-field-in-fluent-forms/add-new-form-scaled.webp)
 
@@ -46,7 +46,7 @@ You will find various settings options for customizing the field. Located in the
 
 - Label Placement: This option determines the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the Default option, it will represent your global label placement settings.
 
-- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read this article.
+- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
 
 - Placeholder: When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute.
 
@@ -66,7 +66,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/general-fields/name-input-field-in-fluent-forms/Advanced-Options-05-scaled.webp)
 

@@ -30,7 +30,7 @@ Now, open the **Payment** tab, click the **Settings** option, and check the **En
 
 Once you ensure the **Payment Module** is **Enabled**, select the necessary fields for your Payment Form. 
 
-> Remember, to create a Payment Form you must add at least a Payment Item and a Payment Method field. To collect recurring payment, add Subscription field. We Always Suggest you keep the Name and Email field at the beginning of any form. Also, remember, the added payment method in your Form will not function unless you properly complete the configuration process. To Learn how to configure the Payment on your site through Fluent Forms, click here and read the desired Payment Integration Documentation you selected as a payment method.
+> Remember, to create a Payment Form you must add at least a [Payment Item](/docs/add-payment-item-field-in-payment-forms) and a [Payment Method](/docs/add-payment-method-field-in-payment-forms) field. To collect recurring payment, add a [Subscription](/docs/add-subscription-field-in-payment-forms) field. We Always Suggest you keep the Name and Email field at the beginning of any form. Also, remember, the added payment method in your Form will not function unless you properly complete the configuration process. To learn how to configure the Payment on your site through Fluent Forms, read the desired payment gateway integration documentation you selected as a payment method.
 
 ![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/4.-Payment-Item-and-Payment-Method-fields-scaled.webp)
 
@@ -64,7 +64,7 @@ Now, go to your desired payment platform/s and check the **Enable** **Payment** 
 
 You can also customize the payment settings **globally** for all forms or **individually** for each form based on your needs.
 
-> To learn the detail process of how to customize the payment settings, read this Documentation.
+> To learn the detail process of how to customize the payment settings, read [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
 ## Integrating Form in WordPress Site
 

@@ -55,7 +55,7 @@ To learn how to integrate Trello into any specific Form in Fluent Forms, follow 
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Trello** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/7.-Open-desired-Form-Settings-1-scaled.webp)
 
@@ -77,7 +77,7 @@ Now, a pop-up page will appear with various settings options for configuring Tre
 
 1. Card Position: Here, you can set the desired position for your cards.
 
-1. Conditional Logics: This option allows Trello integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows Trello integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

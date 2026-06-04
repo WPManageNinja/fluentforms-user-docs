@@ -12,7 +12,7 @@ First, click the **Plus (+)** **Icon** to add a new block, search for Fluent For
 
 ![](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/Add-Fluent-Form-scaled.webp)
 
-After adding the block, select a saved Fluent Forms from the **dropdown menu**.
+After adding the block, select a saved Fluent Forms from the **dropdown menu**. If you do not have one yet, [create a form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) first.
 
 Once selected, the form will automatically appear inside the editor preview. Click **Update** or **Publish** to save your changes.
 
@@ -20,7 +20,7 @@ Once selected, the form will automatically appear inside the editor preview. Cli
 
 Here, you can see the preview of an embedded Fluent Forms using Gutenberg Block.
 
-> You can also add the form in Gutenberg by pasting the form ShortCode into the Gutenberg ShortCode block or HTML block.
+> You can also add the form in Gutenberg by pasting the form [ShortCode](/docs/fluent-forms-shortcodes-overview) into the Gutenberg ShortCode block or HTML block.
 
 ![](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/Form-Embeded-success.webp)
 

@@ -48,7 +48,7 @@ All the settings under the **Range Slider Field** mentioned above are briefly ex
 
 **C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
 
-**D. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, [read this article.](/docs/dynamic-default-value-in-fluent-forms) 
+**D. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). 
 
 You can add **a default value** by clicking the **Three-Dot** option on the right.
 
@@ -60,7 +60,7 @@ You can add **a default value** by clicking the **Three-Dot** option on the righ
 
 **H. Required:** Decide whether users must select at least one option before submission.
 
-**I. Enable Quantity Mapping:** Select the Yes button to Enable Quantity Mapping. It indicates that this field is mapped to a product quantity (likely for e-commerce or order forms). After that, **Choose a Target Product Field** to ensure correct quantity mapping.
+**I. Enable Quantity Mapping:** Select the Yes button to Enable Quantity Mapping. It indicates that this field is mapped to a [product quantity](/docs/add-item-quantity-field-in-payment-forms) (likely for e-commerce or order forms). After that, **Choose a Target Product Field** to ensure correct quantity mapping.
 
 ![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Rage-Slider-03-1-scaled.webp)
 
@@ -76,7 +76,7 @@ Advanced settings allow furtherz customization to meet specific use cases. All t
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Advanced-Options-04-1-scaled.webp)
 

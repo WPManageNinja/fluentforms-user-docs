@@ -16,7 +16,7 @@ First, go to **Forms** from the top navbar, click the Edit button to **open** th
 
 Now **Select** the input field, and navigate to **Advanced Options**. Then, click the **three-dot** menu from the right sidebar under the **Default Value** options. Here, you will see all the default advanced options in fluent form.
 
-**Populate by GET Param:** Sets the default value from the query string found in the URL. Make sure you keep the ‘get.’ part; otherwise, it won’t work as expected. The shortcode is – {get.input_text}
+**Populate by GET Param:** Sets the default value from the query string found in the URL. Make sure you keep the ‘get.’ part; otherwise, it won’t work as expected. The shortcode is – {get.input_text} For a full walkthrough, see [Set Default Form Value from URL Parameters](/docs/set-default-form-value-from-url-parameters).
 
 **Admin Email:** It will insert the site administrator’s email address from your WordPress settings. It automatically sets the admin's email address. The shortcode is – {wp.admin_email}
 
@@ -54,7 +54,7 @@ Now **Select** the input field, and navigate to **Advanced Options**. Then, clic
 
 **User Operating System:** Fetches the user’s operating system ( Windows, macOS). The shortcode is – {browser.platform}
 
-**FluentCRM Data**: Pulls specific data from FluentCRM (user tags or segments). It uses tailoring forms for CRM-integrated workflows. THe shortcode is- {fluentcrm.CONTACT_DATA_KEY}
+**FluentCRM Data**: Pulls specific data from FluentCRM (user tags or segments). It uses tailoring forms for CRM-integrated workflows. THe shortcode is- {fluentcrm.CONTACT_DATA_KEY} Learn more in [Pre-Fill Form Fields with FluentCRM Data](/docs/pre-fill-form-fields-with-fluentcrm-data).
 
 **Random String with Prefix:** Generates random strings each time when the form loads. It will be useful for anyone who wants to generate a unique set of strings. 
 

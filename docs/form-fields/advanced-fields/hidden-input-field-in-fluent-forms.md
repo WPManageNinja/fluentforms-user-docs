@@ -1,6 +1,6 @@
 # Hidden Input Field in Fluent Forms
 
-The **hidden** input field in Fluent Forms allows you to store and retrieve data **without displaying it** on the form. This field helps track user data, pass dynamic values, or store information for backend processing.
+The **hidden** input field in Fluent Forms allows you to store and retrieve data **without displaying it** on the form. This field helps track user data, pass [dynamic values from URL parameters](/docs/set-default-form-value-from-url-parameters), or store information for backend processing.
 
 This article will guide you through adding the **Hidden** field in your Fluent Forms for your WordPress Site.
 
@@ -36,7 +36,7 @@ You will now find various settings options for customizing the field. Located in
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. This means that you can configure this option to show a different field label for your admin users when they view the form submissions. 
 
-**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To better understand Dynamic Default Value, read this[ article.](/docs/dynamic-default-value-in-fluent-forms) You can add different default values by clicking the **Three-dot** options from the right side.
+**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To better understand it, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). You can add different default values by clicking the **Three-dot** options from the right side.
 
 **C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -56,7 +56,7 @@ Here is the **Preview** of the **Form** to test the hidden field functionality.
 
 ![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/preview-06-1.png)
 
-After that, click the **Entries** section of this form. You will see the entry result for your **Hidden fields**.
+After that, click the **Entries** section of this form. You will see the [entry result](/docs/managing-entries-in-fluent-forms) for your **Hidden fields**.
 
 ![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/input-hidden-07.png)
 

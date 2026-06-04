@@ -68,7 +68,7 @@ To learn how to integrate Campaign Monitor into any specific Form in Fluent Form
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Campaign Monitor,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/how-to-integrate-campaign-monitor-with-fluent-forms/10.-Open-desired-form-Settings-scaled.webp)
 
@@ -94,7 +94,7 @@ Now, a page will appear with various settings options for configuring the Campai
 
 1. Resubscribe: Use this option to enable the re-subscription and allow users to renew their access.
 
-1. Conditional Logics: This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

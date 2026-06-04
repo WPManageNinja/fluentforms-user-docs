@@ -1,6 +1,6 @@
 # Weekly Email Summary
 
-**Fluent Forms** allows you to keep track of your form submissions based on a particular day in every week through the **Email Summaries** feature. Also, you can get an overall idea of how your forms are performing.
+**Fluent Forms** allows you to keep track of your form submissions based on a particular day in every week through the **Email Summaries** feature. Also, you can get an overall idea of how your forms are performing. For a live, on-demand breakdown of activity, see the [Submission Reports](/docs/submission-reports).
 
 This article will guide you through the process of setting up **Email Summaries** to **send a weekly report** on **Form Submissions** through **Emails**.
 

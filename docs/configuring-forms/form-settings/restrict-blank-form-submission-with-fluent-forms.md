@@ -1,6 +1,6 @@
 # Restrict Blank Form Submission with Fluent Forms
 
-Fluent Forms allows you to prevent users from submitting blank forms, reduce spam, and ensure only meaningful entries are recorded. 
+Fluent Forms allows you to prevent users from submitting blank forms, reduce [spam](/docs/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms), and ensure only meaningful entries are recorded. 
 
 This guide will show you how to **Protect Blank Form Submissions** with **Fluent Forms**.
 
@@ -14,7 +14,7 @@ First, go to **Forms** from the Fluent Forms Navbar and select the **Desired For
 
 ![Select form](/images/configuring-forms/form-settings/restrict-blank-form-submission-with-fluent-forms/form-settings-blank-form-01-scaled.webp)
 
-Now, move to the Form **Settings & Integrations** tab and select **Scheduling & Restrictions** (located below the **Scheduling & Restrictions** section).
+Now, move to the Form **Settings & Integrations** tab and select **Scheduling & Restrictions** (located below the **Scheduling & Restrictions** section). This panel also holds the [form restrictions](/docs/form-restrictions-feature-in-fluent-forms) entry-limit options.
 
 ![Scheduling and restrictions](/images/configuring-forms/form-settings/restrict-blank-form-submission-with-fluent-forms/Scheduling-Restrictions-02-scaled.webp)
 

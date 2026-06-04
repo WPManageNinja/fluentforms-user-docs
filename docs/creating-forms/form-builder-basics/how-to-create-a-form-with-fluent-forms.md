@@ -20,11 +20,11 @@ A popup will appear, and you will have **some options** to create a form. These 
 
 - Choose a Template: This option allows you to choose a pre-made template for your website, divided into different categories, to avoid the hassle of building form from scratch. To use the premium templates, you need to install & activate the Fluent Forms Pro Add-on.
 
-- Conversational Forms: This allows you to transform content or surveys into interactive conversations.
+- Conversational Forms: This allows you to transform content or surveys into interactive conversations. Learn more in [How to Create a Conversational Form](/docs/how-to-create-a-conversational-form).
 
-- Create Using AI: This option allows you to create a form with AI.
+- Create Using AI: This option allows you to create a form with AI. See [How to Create a Form with Fluent Forms AI](/docs/how-to-create-a-form-with-fluent-forms-ai).
 
-You can also **import** ready-made forms by clicking the **Import Form** button. **For example**, here I created a **Blank From** from scratch to show you the whole process of creating a new form.
+You can also **import** ready-made forms by clicking the **Import Form** button. See [How to Import and Export Fluent Forms](/docs/how-to-import-and-export-fluent-forms) for details. **For example**, here I created a **Blank From** from scratch to show you the whole process of creating a new form.
 
 First, click the **Plus** **Icon** to create a new blank form.
 
@@ -44,7 +44,7 @@ Once you click the **Pencil/Edit Icon,** a new pop-up will appear to set the for
 
 ![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms/Edit-your-form-name.webp)
 
-Now add fields according to your requirements by clicking the desired **Field** buttons or just **Drag and Drop** them into the **Editor.** To learn more about adding fields, click [here](https://wpmanageninja.com/docs/fluent-form/how-to-use-wp-fluent-form/how-to-create-a-form-with-wp-fluent-form-wordpress-plugin/).
+Now add fields according to your requirements by clicking the desired **Field** buttons or just **Drag and Drop** them into the **Editor.** To learn more about adding fields, see the [Form Fields overview](/docs/form-fields-overview).
 
 ![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms/5.-Drag-Drop-feature.gif)
 
@@ -59,7 +59,7 @@ It will redirect you to the **Input Customization** tab on the right sidebar, wh
 ### Checking History
 
 To see the recent changes you made on your form click the **History** tab.
-Plus, from this tab, you can restore or delete recent edits at any time by clicking the **Restore** button or **Delete** **Icon**.
+Plus, from this tab, you can restore or delete recent edits at any time by clicking the **Restore** button or **Delete** **Icon**. Read more in the [Edit History feature in Fluent Forms](/docs/edit-history-feature-in-fluent-forms).
 
 ![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms/7.-History-tab-scaled.webp)
 

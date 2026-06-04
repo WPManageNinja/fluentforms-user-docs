@@ -1,6 +1,6 @@
 # Shortcode Input Field in Fluent Forms
 
-Shortcodes are special WordPress codes that allow you to add **content, files,** or **objects** to your form with just one line of code. With **Fluent Forms**, you can easily insert pre-existing content or features into your forms using the **Shortcode Input Field**.
+[Shortcodes](/docs/fluent-forms-shortcodes-overview) are special WordPress codes that allow you to add **content, files,** or **objects** to your form with just one line of code. With **Fluent Forms**, you can easily insert pre-existing content or features into your forms using the **Shortcode Input Field**.
 
 This guide will walk you through adding and customizing the **Shortcode Field** in Fluent Forms for your WordPress site.
 
@@ -46,7 +46,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **A. Element Label:** This is the field title the users will see when filling out the **Shortcode** field in a form. You can enter any text here to help users understand the purpose of the field.
 
-**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/shortcode-input-field-in-fluent-forms/advanced-options-05-13-scaled.webp)
 

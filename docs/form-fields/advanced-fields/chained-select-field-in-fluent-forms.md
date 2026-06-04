@@ -1,6 +1,6 @@
 # Chained Select Field in Fluent Forms
 
-The Chained Select in Fluent Form is a powerful feature that allows you to create dependent dropdowns from CSV data that dynamically populate a set of select elements based on the previous selection. It is particularly useful for creating **category-based selection forms**, such as **Country State City** or **Make Model Variant** selections.
+The Chained Select in Fluent Form is a powerful feature that allows you to create dependent [dropdowns](/docs/dropdown-field-in-fluent-forms) from CSV data that dynamically populate a set of select elements based on the previous selection. It is particularly useful for creating **category-based selection forms**, such as **Country State City** or **Make Model Variant** selections.
 
 This guide will walk you through adding and customizing the **Chained Select** field in Fluent Forms.
 
@@ -83,7 +83,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 A search option appears when this option is selected, allowing the user to search manually.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Advanced-Options-06-scaled.webp)
 

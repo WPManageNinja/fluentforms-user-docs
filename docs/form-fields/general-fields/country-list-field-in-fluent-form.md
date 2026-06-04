@@ -16,7 +16,7 @@ To learn how to add the country list to Fluent Forms, follow the steps below:
 
 First, go to the **Forms** section from the **Fluent Forms Navbar**, choose a desired **Form**, and click the **Edit Icon** to open the Editor page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/form-fields/general-fields/country-list-field-in-fluent-form/edit-from-01-scaled.webp)
 
@@ -92,7 +92,7 @@ This country will rank first in the search results. Two additional options exist
 
 **F. Name Attribute:** The input field’s name attribute is the **HTML** equivalent of the same name. You don’t need to modify this.
 
-**G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this[ Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/general-fields/country-list-field-in-fluent-form/advanced-options-05-scaled.webp)
 

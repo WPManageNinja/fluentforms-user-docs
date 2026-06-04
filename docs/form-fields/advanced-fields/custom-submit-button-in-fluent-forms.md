@@ -1,6 +1,6 @@
 # Custom Submit Button in Fluent Forms
 
-Want to use a special **Submit** button on your Fluent Form? It's simple! This field allows you to replace the **Default Submit Button** with a **Custom Submit Button** for better control over **positioning, styling,** and **conditional logic**.
+Want to use a special **Submit** button on your Fluent Form? It's simple! This field allows you to replace the **Default Submit Button** with a **Custom Submit Button** for better control over **positioning, styling,** and [conditional logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 This guide will walk you through adding and customizing the **Custom Submit Field** in Fluent Forms for your WordPress site.
 
@@ -68,7 +68,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **B. Element Class:** Add custom CSS classes to the input field.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, see the Conditional Logic documentation linked above. 
 
 ![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Advanced-Options-05-19-scaled.webp)
 

@@ -1,6 +1,6 @@
 # Keyboard Navigation & Shortcuts in Fluent Forms
 
-To make form editing faster and more efficient, Fluent Forms provides essential keyboard shortcuts. Here’s how to use them effectively while building or editing your forms:
+To make form editing faster and more efficient, Fluent Forms provides essential keyboard shortcuts. Here’s how to use them effectively while building or editing your forms in the [Form Builder](/docs/fluent-forms-user-interface):
 
 ## Keyboard Navigation & Shortcuts in Form Editor
 

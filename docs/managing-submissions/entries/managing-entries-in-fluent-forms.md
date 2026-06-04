@@ -12,7 +12,7 @@ You will see all the global entries here. You can use the dropdown menu to filte
 
 You’ll find a **Search Box** in the top right corner to quickly find specific form entries.
 
-If you want to bring in entries from another source, click the **Import Entries** button in the top right. To learn more about importing entries, check out our detailed [article](/docs/importing-entries-in-fluent-forms).
+If you want to bring in entries from another source, click the **Import Entries** button in the top right. To learn more, check out [Importing Entries in Fluent Forms](/docs/importing-entries-in-fluent-forms).
 
 The Entries Dashboard makes it simple to search, filter, and manage your form submissions, all from one place.
 
@@ -20,7 +20,7 @@ The Entries Dashboard makes it simple to search, filter, and manage your form su
 
 #### Show Chart
 
-To view a visual chart on your **Entries** **Dashboard**, click the **Show Chart** button. This will display all your entries in a chart format, organized by date.
+To view a visual chart on your **Entries** **Dashboard**, click the **Show Chart** button. This will display all your entries in a chart format, organized by date. For deeper, field-level charts, see [Visual Representation of Form Entries](/docs/visual-representation-of-form-entries-in-fluent-forms).
 
 If you want to remove the chart view, click **Hide Chart** to turn it off anytime.
 
@@ -64,7 +64,7 @@ Fluent Forms offers a powerful entry management system for handling form submiss
 
 **All Types:** This section shows all types of entries. Using the dropdown menu, you can quickly sort them by **Read**, **Unread**, **Favorite**, or **Trashed**.
 
-**Advanced Filter:** If you need more specific filtering, turn on the **Advanced Filter** by clicking the toggle button. Then click the **Add** button to set your filter options. You can filter entries by **Inputs**, **User**, and **Entry Attributes**.
+**Advanced Filter:** If you need more specific filtering, turn on the **Advanced Filter** by clicking the toggle button. For a focused walkthrough, see [How to Search and Filter Form Entries](/docs/how-to-search-and-filter-form-entries). Then click the **Add** button to set your filter options. You can filter entries by **Inputs**, **User**, and **Entry Attributes**.
 
 You can also click the **+OR** button to add multiple conditions. To remove a filter, click the **Delete** icon, or click the Clear Filters button to **clear** **all filters** at once.
 
@@ -88,7 +88,7 @@ After clicking the **View** icon, you will be taken to the detailed page of the 
 
 **Submission Logs:** All the logs related to the submission are displayed here, helping you track any updates or changes made over time.
 
-**Submission Info:** This section shows all the detailed information about the submission. You can edit the entry by clicking the **Edit** icon. 
+**Submission Info:** This section shows all the detailed information about the submission. You can edit the entry by clicking the **Edit** icon. For details, see [Edit User Submitted Entries With Fluent Forms](/docs/edit-user-submitted-entries-with-fluent-forms).
 
 If needed, you can also change the submission status by clicking the **Change Status To** button.
 

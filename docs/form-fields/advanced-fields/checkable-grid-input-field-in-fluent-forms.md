@@ -1,6 +1,6 @@
 # Checkable Grid Input Field in Fluent Forms
 
-The Checkable Grid input field in [Fluent Form](https://wordpress.org/plugins/fluentform) is a powerful tool for collecting feedback, surveys, assessments, and preference selection. This field can function as a short combination of multiple checkboxes or radio buttons.
+The Checkable Grid input field in [Fluent Form](https://wordpress.org/plugins/fluentform) is a powerful tool for collecting feedback, [surveys](/docs/surveys-and-polls-in-fluent-forms), assessments, and preference selection. This field can function as a short combination of multiple [checkboxes](/docs/checkbox-field-in-fluent-forms) or [radio buttons](/docs/radio-field-in-fluent-forms).
 
 This guide will walk you through adding and customizing the **Checkable Grid Field** in Fluent Forms for your WordPress site.
 
@@ -94,7 +94,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/checkable-grid-input-field-in-fluent-forms/Advanced-options-05-16-scaled.webp)
 

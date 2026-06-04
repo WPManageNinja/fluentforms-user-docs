@@ -20,11 +20,11 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose the 
 
 ![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/edit-form-1-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Container** input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 
+Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the [Container](/docs/add-container-fields-in-fluent-forms) input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Repeat Container** by clicking on it or **Drag & Drop** it into your editor.
 
-***Note:** Only specific field types can be used within the Repeater Container. For example, the standard Name field is not supported; use a **Simple Text** field instead for name inputs.*
+***Note:** Only specific field types can be used within the Repeater Container. For example, the standard Name field is not supported; use a [Simple Text](/docs/adding-a-simple-text-input-field) field instead for name inputs.*
 
 ![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/repeater-container-field-2-scaled.webp)
 
@@ -66,9 +66,9 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **B. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**C. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-**D. Max Repeat inputs**: Using this option, you can specify the maximum number of times users can duplicate the fields within the Repeater Container.
+**D. Max Repeat inputs**: Using this option, you can specify the maximum number of times users can duplicate the fields within the Repeater Container. To total numeric values entered across the repeated rows, see [How to Add Calc Values on the Repeat Field](/docs/how-to-add-calc-values-on-the-repeat-field).
 
 ![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/advanced-5-scaled.webp)
 

@@ -72,7 +72,7 @@ Once you've designed your landing page, the **Share** section provides various w
 
 **Share Via Direct URL:** A unique **URL** is generated for your landing page. You can directly share this link via email, social media, or any other platform.
 
-**Shortcode:** A dedicated **Shortcode** is provided. Simply copy the shortcode provided and paste it into any post, page, or widget area. Once added, it will show the form using the default design and layout.
+**Shortcode:** A dedicated **Shortcode** is provided. Simply copy the shortcode provided and paste it into any post, page, or widget area. Once added, it will show the form using the default design and layout. For more ways to place forms with shortcodes, see the [Fluent Forms shortcodes overview](/docs/fluent-forms-shortcodes-overview).
 
 **Embed via HTML Code:** Use the provided HTML to embed the landing page on external websites or other platforms that support HTML.
 

@@ -1,6 +1,6 @@
 # Ratings Input Field in Fluent Forms
 
-The **rating** input field in Fluent Forms allows users to provide feedback quickly. By default, the field includes five rating levels: **Nice, Good, Very Good, Awesome, and Amazing**. You can customize and add more rating options as needed.
+The **rating** input field in Fluent Forms allows users to provide feedback quickly, making it a great fit for [surveys and polls](/docs/surveys-and-polls-in-fluent-forms). By default, the field includes five rating levels: **Nice, Good, Very Good, Awesome, and Amazing**. You can customize and add more rating options as needed.
 
 This guide will walk you through adding and customizing the **Rating Input Field** in Fluent Forms for your WordPress site.
 
@@ -76,7 +76,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this[ Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Advanced-options-05-11-scaled.webp)
 

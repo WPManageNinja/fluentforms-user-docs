@@ -32,7 +32,7 @@ To learn how to add the MailPoet Integration feed in a specific form to list its
 
 Go to **Forms** from the **Fluent Forms Dashboard** and click the **Settings** button of your desired form where you want to add the feed.
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/4.-Desired-Forms-Settings-scaled.webp)
 
@@ -52,7 +52,7 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 
 - Send Confirmation Email: Enable this checkbox, if you want to send an Email for Confirmation. Remember, to use the Send Confirmation Email feature, you must have the MailPoet Pro Version and a Verified MailPoet Account. Otherwise, it won’t work.
 
-- Conditional Logic: This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more about Fluent Forms Conditional logic click here.
+- Conditional Logic: This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more, read the [Fluent Forms Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 - Status: Uncheck the Enable This Feed box if you want to save this MailPoet Feed as Draft. Otherwise, enable this box to make this feed functional.
 

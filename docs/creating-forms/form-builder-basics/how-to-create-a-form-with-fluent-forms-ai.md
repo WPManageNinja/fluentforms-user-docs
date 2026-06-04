@@ -2,7 +2,7 @@
 
 Fluent Forms now integrates Fluent Forms AI, making it easier for users to create Forms effortlessly with simple commands.  This article will guide you through creating a form using **Fluent Forms AI**.
 
-> Remember, this is Fluent Forms' free default AI feature for quick and easy form creation, and it also supports Form Creation using OpenAI ChatGPT.
+> Remember, this is Fluent Forms' free default AI feature for quick and easy form creation, and it also supports Form Creation using [OpenAI ChatGPT](/docs/how-to-create-a-form-with-openai-chatgpt).
 
 ## Create Forms using Fluent Forms AI
 
@@ -54,7 +54,7 @@ e. **Duplicate**: Click this button and the field will be duplicated.
 
 f. **Delete**: Click this **Trash Icon** and your field will be deleted.
 
-> Remember, separate documentation is available for each Input Field under the Field Type category. Read them thoroughly to understand the detailed use of each field. To learn more details about the other options of the form Editor, read this Documentation.
+> Remember, separate documentation is available for each Input Field under the Field Type category. Read them thoroughly to understand the detailed use of each field. To learn more details about the available fields, see the [Form Fields overview](/docs/form-fields-overview).
 
 ![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/5.-Input-Customization-scaled.webp)
 

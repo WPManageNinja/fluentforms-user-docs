@@ -71,7 +71,7 @@ To learn how to integrate Airtable into any specific Form in Fluent Forms, follo
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Airtable,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/9.-Open-desired-Form-Settings-scaled.webp)
 
@@ -97,7 +97,7 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 1. Enable Instant Responder: Check this option, and Airtable will send any instant responders set up when the contact is added to the list. This option is not available to users on a free trial.
 
-1. Conditional Logics: This option allows Airtable integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows Airtable integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

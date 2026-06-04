@@ -1,6 +1,6 @@
 # Section Break in Fluent Forms
 
-**The Section Break** field in Fluent Forms helps organize long forms by dividing them into **structured sections**. It also improves **readability** and **user experience** by clearly defining different parts of the form.
+**The Section Break** field in Fluent Forms helps organize long forms by dividing them into **structured sections**, similar to building a [multi-step form](/docs/creating-a-multi-step-form-in-fluent-forms). It also improves **readability** and **user experience** by clearly defining different parts of the form.
 
 This article will guide you through adding the **Section Break** field in your Fluent Forms for your WordPress Site.
 
@@ -44,7 +44,7 @@ You will find various settings options for customizing the field. Located in the
 
 **B. Description:** Enter a subtitle/short section description here to better understand the user.
 
-**C. Dynamic SmartCodes:** Display dynamic content using shortcodes. 
+**C. Dynamic SmartCodes:** Display dynamic content using [smart codes](/docs/form-editor-smart-codes). 
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
@@ -58,7 +58,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **A. Element Class:** Add custom CSS classes to the input field.
 
-**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this[ Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/section-break-in-fluent-forms/advanced-options-04-scaled.webp)
 

@@ -36,7 +36,7 @@ You can also customize the border by setting its color, width, and style (solid,
 
 **File Upload Field**: You can style the File Upload button by customizing its color, shape, typography, and border. Use the available options to adjust font size, weight, alignment, border style, width, and radius to match your design.
 
-**Multi-step Forms:** For multi-step forms, you can style a **Section Break** and a **Progress Bar** to divide the form into steps and help users track their progress easily.
+**Multi-step Forms:** For [multi-step forms](/docs/creating-a-multi-step-form-in-fluent-forms), you can style a **Section Break** and a **Progress Bar** to divide the form into steps and help users track their progress easily.
 
 ![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Textera-05-scaled.webp)
 

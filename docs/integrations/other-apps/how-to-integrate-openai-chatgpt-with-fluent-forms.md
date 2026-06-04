@@ -4,7 +4,7 @@ ChatGPT, developed by OpenAI, is an AI system chatbot trained to follow instruct
 
 Fluent Forms now integrates OpenAI ChatGPT, making it easier for users to create Forms effortlessly with simple commands and set up AI-generated confirmation messages or emails and even PDF feeds for form submissions.
 
-This article will guide you through integrating [OpenAI ChatGPT](https://openai.com/) with [Fluent Forms](https://fluentforms.com/).
+This article will guide you through integrating [OpenAI ChatGPT](https://openai.com/) with Fluent Forms. To build an entire form from a prompt instead, see [How to Create a Form with OpenAI ChatGPT](/docs/how-to-create-a-form-with-openai-chatgpt).
 
 ## Enabling OpenAI ChatGPT Integration
 
@@ -64,7 +64,7 @@ To learn how to integrate OpenAI ChatGPT into any specific Form in Fluent Forms,
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **OpenAI ChatGPT,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/9.-Open-desired-form-Settings-scaled.webp)
 
@@ -82,7 +82,7 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 1. Write Query: Here, provide the proper instructions on how you want ChatGPT to send a confirmation message to your customers after each form submission. You can also use shortcodes to fetch dynamic form data using the ShortCode button in the right corner.
 
-1. Conditional Logics: This option allows OpenAI ChatGPT integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows OpenAI ChatGPT integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

@@ -36,7 +36,7 @@ Now, to add a global inventory item to a form, first, open the specific form whe
 
 Add a field that supports inventory tracking, such as:
 
-- Payment Item
+- [Payment Item](/docs/add-payment-item-field-in-payment-forms)
 
 - Checkbox
 
@@ -56,7 +56,7 @@ Now, configure the inventory settings. Navigate to the **Advanced Options** of t
 
 Select the appropriate **inventory item** from the **Global Inventory drop-down**. Next, customize the **Stock-Out Message** and other settings based on your requirements.
 
-If you want to learn a detailed guide of global inventory setting, then read this [article](/docs/fluent-forms-inventory-module).
+For a detailed guide on every inventory setting, read the [Fluent Forms Inventory Module](/docs/fluent-forms-inventory-module) documentation.
 
 ![](/images/modules/global-inventory-manager-in-fluent-forms/glob-al-inventory-settings-04-scaled.webp)
 

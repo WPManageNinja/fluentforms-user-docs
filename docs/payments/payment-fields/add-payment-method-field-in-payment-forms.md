@@ -8,7 +8,7 @@ To learn how to add the Payment Method field to the Fluent Forms, follow the ste
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
+> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
 
 ![](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/1.-Open-desired-form-scaled.webp)
 
@@ -38,7 +38,7 @@ Here, you will get various settings options for customizing the field. All the *
 
 **C. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default.** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
-- Payment Methods: Here you will get all the available Payment Method Platforms. Now, select the desired Payment Platform/s by clicking the Checkbox/es that you want to use for collecting payments through the form submissions.But, remember, the added payment method/s in your Form will not function unless you properly complete the payment configuration process. To learn the detailed guidelines on How to configure Payment methods in Fluent Forms, read all the documentation under the Payment Integration category thoroughly.
+- Payment Methods: Here you will get all the available Payment Method Platforms. Now, select the desired Payment Platform/s by clicking the Checkbox/es that you want to use for collecting payments through the form submissions.But, remember, the added payment method/s in your Form will not function unless you properly complete the payment configuration process. To learn the detailed guidelines on How to configure Payment methods in Fluent Forms, read the gateway guides in the [Payments overview](/docs/payments-overview) thoroughly.
 
 **D. Default Value:** If you would like to pre-populate the value of a field, enter it here. [View All the smart codes here](/docs/form-editor-smart-codes).
 

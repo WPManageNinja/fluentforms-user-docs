@@ -1,6 +1,6 @@
 # Dynamic Field in Fluent Form
 
-With Fluent Forms **Dynamic Fields**, you can create fields that automatically pull in content like posts, users, taxonomy terms, or form data, giving users customized options and building form flexibility. 
+With Fluent Forms **Dynamic Fields**, you can create fields that automatically pull in content like posts, users, [taxonomy terms](/docs/add-categories-taxonomy-field-in-post-forms), or form data, giving users customized options and building form flexibility. 
 
 This guide will teach you how to set up and customize Dynamic Fields to make your forms more user-friendly.
 
@@ -120,7 +120,7 @@ You will choose **Label** and **Values** from the dropdown options. You can also
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 
-**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding of Dynamic Default Value, [read this article.](/docs/dynamic-default-value-in-fluent-forms) 
+**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). 
 
 You can add the default value by clicking the **Three-Dot** option on the right side.
 
@@ -132,7 +132,7 @@ You can add the default value by clicking the **Three-Dot** option on the right 
 
 **E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Advanced-options-11-scaled.webp)
 

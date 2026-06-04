@@ -63,7 +63,7 @@ To learn how to integrate Sendinblue into any specific Form in Fluent Forms, fol
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Sendinblue,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms/Open-Desired-Form-Settings-2-scaled-2.webp)
 
@@ -89,7 +89,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 1. Other Fields: Using this option, you can also link the Fluent Forms fields with their respective Sendinblue Custom fields. But, remember, Custom Date fields support only MM/DD/YYYY format. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
 
-1. Conditional Logics: This option allows Sendinblue integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows Sendinblue integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

@@ -38,7 +38,7 @@ After selecting the **Create Post Form**, a new pop-up will appear with two basi
 
 Once you select the **Post** and **continue**, it will take you to the **Form Editor** page.
 
-Now, go to the **Input Fields** in the right sidebar, and you will see the **Post Fields** and **Taxonomy Fields** (this module also lets you add taxonomy fields where you can add **Categories**, **Tags**, and **Formats**.) modules are added to help you create a Post Form. 
+Now, go to the **Input Fields** in the right sidebar, and you will see the **Post Fields** and **Taxonomy Fields** (this module also lets you add taxonomy fields where you can add [Categories](/docs/add-categories-taxonomy-field-in-post-forms), [Tags](/docs/add-tags-taxonomy-field-in-post-forms), and **Formats**.) modules are added to help you create a Post Form. 
 
 > Remember, separate documentation is available for each field in the Post Fields and Taxonomy Fields module. Read them thoroughly to understand the detailed use of each field.
 
@@ -50,15 +50,15 @@ Now, you need to click the **Arrow Icon** to open the fields modules and add the
 
 Once you open the Post Fields module, you will get the following **Post Fields.** 
 
-- Post Title
+- [Post Title](/docs/add-post-title-field-in-post-forms)
 
-- Post Content
+- [Post Content](/docs/add-post-content-field-in-post-forms)
 
-- Post Excerpt
+- [Post Excerpt](/docs/add-post-excerpt-field-in-post-forms)
 
-- Featured Image
+- [Featured Image](/docs/add-featured-image-field-in-post-forms)
 
-- Post Update
+- [Post Update](/docs/add-post-update-field-in-post-forms)
 
 Now, select the necessary fields by **clicking** on them or **Drag & Drop** them into the editor.
 **For example**, I added the **Post Title**, **Post Content**, and **Featured Image** fields to show you the further process.  
@@ -128,7 +128,7 @@ Then, a pop-up page will appear with various settings options for configuring th
 
 **I. Meta Fields Mapping**:
 
-**J. Enable Conditional Logic**: This option allows your Post Feed to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this [Documentation](/docs/conditional-email-notification-in-fluent-forms). 
+**J. Enable Conditional Logic**: This option allows your Post Feed to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 Once the setup is done, click the **Save Feed** button and your ActiveCampaign will be integrated into this specific form!
 

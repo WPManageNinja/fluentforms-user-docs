@@ -10,7 +10,7 @@ To learn how to add the Subscription field to the Fluent Forms, follow the steps
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
+> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
 
 ![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/1.-Open-desired-form-5-scaled.webp)
 
@@ -112,7 +112,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 ![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/7.-Advanced-options-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
+Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Recurring billing is supported by gateways such as [Stripe](/docs/how-to-integrate-stripe-with-fluent-forms) and [PayPal](/docs/how-to-integrate-paypal-with-fluent-forms), so make sure one of them is configured.
 
 > Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
 

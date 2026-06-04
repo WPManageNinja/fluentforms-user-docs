@@ -1,6 +1,6 @@
 # Terms & Conditions Field in Fluent Forms
 
-The **Terms & Conditions** field in Fluent Forms allows you to collect user consent before submission of the form. When users check the consent box, the system records their response along with the Terms & Conditions title and description at the time of submission.
+The **Terms & Conditions** field in Fluent Forms allows you to collect user consent before submission of the form. For data-collection consent, you can also use the [GDPR Agreement field](/docs/gdpr-agreement-field-in-fluent-forms). When users check the consent box, the system records their response along with the Terms & Conditions title and description at the time of submission.
 
 This article will guide you through adding the **Terms & Conditions** field in **Fluent Forms** for your WordPress site.
 
@@ -44,7 +44,7 @@ You will find various settings options for customizing the field. Located in the
 
 **C. Terms & Conditions**: Enter the content for the consent checkbox by using HTML.
 
-**D. Dynamic Smartcodes:** Display dynamic content using shortcodes. 
+**D. Dynamic Smartcodes:** Display dynamic content using [smart codes](/docs/form-editor-smart-codes). 
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
@@ -62,7 +62,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/terms-conditions-field-in-fluent-forms/Advanced-options-05-12-scaled.webp)
 

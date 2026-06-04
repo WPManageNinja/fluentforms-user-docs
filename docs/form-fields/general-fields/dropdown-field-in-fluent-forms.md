@@ -14,7 +14,7 @@ To learn how to add the Dropdown field to the Fluent Forms, follow the steps wit
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/edit-form-01-1-scaled.webp)
 
@@ -60,7 +60,7 @@ You will find various settings options for customizing the field. Located in the
 
 - Add/Delete Options: Use the Plus icon to add new options or insert options between existing ones.
 
-**F. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform calculations using Show and Calc Values.
+**F. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform [numeric calculations](/docs/numeric-calculation-in-fluent-forms) using Show and Calc Values.
 
 **G. Bulk Edit/Predefined Data Sets:** You can choose from a predefined data set for the dropdown field, so you don’t have to add each item manually.
 
@@ -80,7 +80,7 @@ When this option is selected, a search option appears, allowing the user to sear
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 
-**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read this [article](https://wpmanageninja.com/docs/fluent-form/miscellaneous/default-value-in-wp-fluent-forms/) to better understand Dynamic Default values[.](https://wpmanageninja.com/docs/fluent-form/miscellaneous/default-value-in-wp-fluent-forms/)
+**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -90,7 +90,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Advanced-options-05-3-scaled.webp)
 

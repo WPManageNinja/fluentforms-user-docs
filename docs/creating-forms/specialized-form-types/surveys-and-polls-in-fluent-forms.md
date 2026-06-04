@@ -1,6 +1,6 @@
 # Surveys and Polls in Fluent Forms
 
-Fluent Forms offers a robust and user-friendly solution for creating surveys and polls in WordPress. With its drag-and-drop builder and pre-built templates, you can design responsive, mobile-friendly surveys with interactive features like NPS surveys, real-time polls, and many more.
+Fluent Forms offers a robust and user-friendly solution for creating surveys and polls in WordPress. With its drag-and-drop builder and pre-built templates, you can design responsive, mobile-friendly surveys with interactive features like [NPS surveys](/docs/net-promoter-score-in-fluent-forms), real-time polls, and many more.
 
 This article will show how to create Surveys and Polls in Fluent Forms.
 
@@ -12,15 +12,15 @@ This article will show how to create Surveys and Polls in Fluent Forms.
 
 To build your survey or poll, add input fields such as:
 
-- Radio Fields
+- [Radio Fields](/docs/radio-field-in-fluent-forms)
 
-- Checkboxes
+- [Checkboxes](/docs/checkbox-field-in-fluent-forms)
 
-- Multiple Choice
+- [Multiple Choice](/docs/multiple-choice-field-in-fluent-forms)
 
-- Dropdown Field
+- [Dropdown Field](/docs/dropdown-field-in-fluent-forms)
 
-- Range Slider Field
+- [Range Slider Field](/docs/range-slider-field-in-fluent-forms)
 
 These fields will define the structure and interactivity of your survey or poll.
 

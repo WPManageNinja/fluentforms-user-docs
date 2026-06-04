@@ -16,7 +16,7 @@ Now click **Advanced Options** from the **Input Customization** options. Scroll 
 
 ### Customizing the Validation Message
 
-You can set a custom error message for duplicate entries. When a user enters duplicate data in the unique field, the error message will display, informing them to provide unique input.
+You can set a custom [error message](/docs/error-message-customization-with-fluent-forms) for duplicate entries. When a user enters duplicate data in the unique field, the error message will display, informing them to provide unique input.
 
 Once the validation message is entered, click the **Save Form** button.
 

@@ -4,17 +4,17 @@ hCaptcha is a privacy-focused anti-bot solution that helps prevent spam and pass
 
 This article will guide you through adding the **hCaptcha** field in **Fluent Forms** for your WordPress site.
 
-> Fluent Forms supports hCaptcha in both General Forms and Conversational Forms templates.
+> Fluent Forms supports hCaptcha in both General Forms and [Conversational Forms](/docs/how-to-create-a-conversational-form) templates.
 
 ### Adding hCaptcha Field
 
 To learn how to add the **hCaptcha** field to Fluent Forms, follow the steps below:
 
-Before using hCaptcha, you must configure it with a **Site Key** and **Secret key**. If you want to learn more details, read the hCaptcha Integration Guideline [article](/docs/how-to-integrate-hcaptcha-with-fluent-forms).
+Before using hCaptcha, you must configure it with a **Site Key** and **Secret key**. To learn more, read [How to Integrate hCaptcha with Fluent Forms](/docs/how-to-integrate-hcaptcha-with-fluent-forms).
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
 
 ![](/images/security-spam/hcaptcha-in-fluent-forms/edit-form-01-9-scaled.webp)
 

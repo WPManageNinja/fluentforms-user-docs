@@ -1,6 +1,6 @@
 # Repeat Input Field in Fluent Forms
 
-The **Repeat Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform) allows users to duplicate an input field dynamically. This is useful for forms where users may need to add multiple entries, such as contact details, addresses, or product lists.
+The **Repeat Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform) allows users to duplicate an input field dynamically. This is useful for forms where users may need to add multiple entries, such as contact details, addresses, or product lists. You can even [add calculation values on the Repeat field](/docs/how-to-add-calc-values-on-the-repeat-field) to total up rows automatically.
 
 This guide will walk you through adding and customizing the **Repeat Input** field in Fluent Forms.
 
@@ -50,7 +50,7 @@ All the settings under the **Repeat Input Field** mentioned above are briefly ex
 
 - Label: Name the Label of the Column.
 
-- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read this article.
+- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms).
 
 You can add the **Default** value by clicking the **Three-Dot** option from the right side.
 
@@ -68,7 +68,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **D. Max Repeat Inputs:** Set the maximum number of rows users can add to this repeated field. Leave blank or set to 0 for unlimited entries.
 

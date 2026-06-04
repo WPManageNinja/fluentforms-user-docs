@@ -20,7 +20,7 @@ Now, turn on the **Toggle** to enable the **Inventory** module.
 
 Once the module is enabled, you can create a new form or edit an existing one to add inventory-related fields such as:
 
-- Payment items
+- [Payment items](/docs/add-payment-item-field-in-payment-forms)
 
 - Radio buttons
 
@@ -64,7 +64,7 @@ The Inventory Settings will be visible in the **Advanced Options** field when se
 
 ### Global Inventory Settings
 
-When you select the Global option, the Inventory Settings will be visible in the field’s Advanced Options. A drop-down with more options will appear.
+When you select the Global option, the Inventory Settings will be visible in the field’s Advanced Options. A drop-down with more options will appear. Global inventory lets you share stock across multiple forms; see [Global Inventory Manager in Fluent Forms](/docs/global-inventory-manager-in-fluent-forms) to set it up.
 
 **A. Global Inventory:** You can select your item Global Inventory from the dropdown options.
 

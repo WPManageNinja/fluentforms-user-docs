@@ -1,6 +1,6 @@
 # Rich Text Input Field in Fluent Forms
 
-The **Rich Text Input Field** allows users to submit text with formatting options like **bold, italics, underline,** and **more**. It also enables users to submit their forms with rich text content.
+The **Rich Text Input Field** allows users to submit text with formatting options like **bold, italics, underline,** and **more**. For plain, unformatted multi-line input, use the [Text Area field](/docs/adding-a-text-area-input-field) instead. It also enables users to submit their forms with rich text content.
 
 This guide will walk you through adding and customizing the **Rich Text Input** field in Fluent Forms.
 
@@ -58,7 +58,7 @@ All the settings under the **Rich Text Input Field** mentioned above are briefly
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To better understand Dynamic Default Value, [read this article.](/docs/dynamic-default-value-in-fluent-forms) You can add the default value by **Shortcode** from the right side.
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To better understand it, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). You can add the default value by **Shortcode** from the right side.
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -70,7 +70,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **F. Max text length:** Limit the maximum number of characters a user can enter.
 
-**G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Advanced-options-05-21-scaled.webp)
 

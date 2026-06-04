@@ -62,7 +62,7 @@ After adding the desired custom field in the ACF, it is time to use this in a Po
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> Remember, you can use the ACF Field only in a Post Form. To learn the whole process of creating a Post Form, read this Documentation.
+> Remember, you can use the ACF Field only in a Post Form. To learn the whole process of creating a Post Form, read the [Post Form guide](/docs/how-to-create-a-post-form-with-fluent-forms).
 
 ![](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/7.-Open-desired-form-scaled.webp)
 
@@ -104,7 +104,7 @@ Next, go back to the post form’s **Editor** where you added the Custom Field. 
 
 Now, you can **Edit** or **Customize** this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer you the options for customizing the field. 
 
-> To learn more about the customization of the Text Area field, click here.
+> To learn more about the customization of the Text Area field, read the [Text Area Input Field guide](/docs/adding-a-text-area-input-field).
 
 ![](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/11.-Input-Customization-option-of-Textarea-field-scaled.webp)
 

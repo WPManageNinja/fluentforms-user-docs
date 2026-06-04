@@ -18,7 +18,7 @@ To learn how to integrate Discord into any specific Form in Fluent Forms, follow
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Discord,** and click the **Settings** button.
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/2.-Open-desired-Form-Settings-scaled.webp)
 
@@ -32,7 +32,7 @@ Now, a pop-up page will appear with various settings options for configuring Dis
 
 1. Name: Here, you can set a name according to your preference for your feed. This field is required to be filled in.
 
-1. Webhook URL: Here, you need to provide the desired Discord Channels’ Webhook URL where you want to send the notification. To learn how to get the Webhook URL, click here and follow the process accordingly.
+1. Webhook URL: Here, you need to provide the desired Discord Channels’ Webhook URL where you want to send the notification. To learn how to get the Webhook URL, see the [Getting Webhook URL from Discord](#getting-webhook-url-from-discord) section below and follow the process accordingly.
 
 1. Description: Here you can set the texts and information you want to send to the Discord Channel as a notification. Also, you can use the Shortcode button to set the user data from form entries that you want to send to your Discord Channel.
 
@@ -40,7 +40,7 @@ Now, a pop-up page will appear with various settings options for configuring Dis
 
 1. Footer: Here you can set the texts and information you want to add as a footer in the notification. Also, you can use the Shortcode button to set the user data from form entries that you want to add as a footer to your Discord Channel.
 
-1. Conditional Logics: This option allows Discord integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows Discord integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

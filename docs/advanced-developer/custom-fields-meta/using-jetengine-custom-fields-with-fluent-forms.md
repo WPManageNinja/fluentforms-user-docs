@@ -1,6 +1,6 @@
 # Using JetEngine Custom Fields with Fluent Forms
 
-Fluent Forms integrates with JetEngine, allowing you to create and map custom fields for your Post Forms. This article will guide you through setting up Custom Fields using JetEngine within Fluent Forms Post Forms.
+Fluent Forms integrates with JetEngine, allowing you to create and map custom fields for your [Post Forms](/docs/how-to-create-a-post-form-with-fluent-forms). This article will guide you through setting up Custom Fields using JetEngine within Fluent Forms Post Forms.
 
 To create a custom field in your WordPress Post Form, install the[ JetEngine Premium](https://crocoblock.com/plugins/jetengine/) plugin on your website. 
 
@@ -68,7 +68,7 @@ You’ll now see the **Create New Feed** page, where you can manage and map your
 
 Start by giving your **Feed Name**. Below that, you’ll find additional settings for your Feed.
 
-In the **JetEngine Meta Mapping** section, map your JetEngine fields to the corresponding Fluent Forms fields. A **three-dot** button is available here to insert shortcodes to map your Fluent Forms fields. 
+In the **JetEngine Meta Mapping** section, map your JetEngine fields to the corresponding Fluent Forms fields. A **three-dot** button is available here to insert [smart codes](/docs/form-editor-smart-codes) to map your Fluent Forms fields. 
 
 For example, if you want to populate the ‘**Job Title**’ custom field with data from the ‘**Post Title**’ form field, select the ‘**input.post.title**’ shortcode in the Form Field Value. 
 

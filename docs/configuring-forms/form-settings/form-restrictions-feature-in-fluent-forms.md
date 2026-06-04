@@ -14,7 +14,7 @@ To access the settings, go to **Forms** from the top Navbar, and **open** the **
 
 ## Enable Entry Restrictions
 
-Inside the form editor, click on the **Settings & Integrations** tab at the top menu bar. Stay in the **Settings** section and scroll down to find **Scheduling and Restrictions** option.
+Inside the form editor, click on the **Settings & Integrations** tab at the top menu bar. Stay in the **Settings** section and scroll down to find **Scheduling and Restrictions** option. The same panel also controls [form scheduling](/docs/form-scheduling-feature-in-fluent-forms).
 
 ![](/images/configuring-forms/form-settings/form-restrictions-feature-in-fluent-forms/access-settings-01-scaled.webp)
 

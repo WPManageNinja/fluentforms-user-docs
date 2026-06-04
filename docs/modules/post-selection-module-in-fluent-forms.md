@@ -8,7 +8,7 @@ This article will show you the details of the **Post Selection Module** feature 
 
 This feature lets users view and select posts from your site directly in a form dropdown. For example:
 
-- If you create a post-edit form, you can display all posts authored by the logged-in user for selection.
+- If you create a [post-edit form](/docs/how-to-create-a-post-form-with-fluent-forms), you can display all posts authored by the logged-in user for selection.
 
 - Users can choose a specific post and submit additional data.
 
@@ -16,7 +16,7 @@ You can even customize the posts displayed in the dropdown using **Query Paramet
 
 ## Add the Post/CPT Selection Field
 
-Go to your form in **Fluent Forms**. Add the **Post/CPT Selection** field from the **Advanced Fields** section. 
+Go to your form in **Fluent Forms**. Add the **Post/CPT Selection** field from the [**Advanced Fields**](/docs/form-fields-overview) section. 
 
 ![](/images/modules/post-selection-module-in-fluent-forms/post-selection-module-01-scaled.webp)
 

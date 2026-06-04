@@ -20,7 +20,7 @@ Now, enable the **User Registration** or **Update** module.
 
 Before configuring the user update feed, you must move a particular form or create a new form for your user update.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Once the module is enabled, proceed with the form settings. Click the forms **Settings & Integration** tab. Then click the **Configure Integrations** section from the scroll down.
 
@@ -44,7 +44,7 @@ You can add multiple meta keys by clicking the **Plus Icon.**
 
 > User Meta Key is the form field’s name attribute!
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your conditional logic set. To learn more, read this[ Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your conditional logic set. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **F. Status:** Enable this feed option to activate the integration.
 
@@ -52,7 +52,7 @@ Once the setup is done, finally, click the **Save Feed** button.
 
 Your User Registration form or Update will be integrated into this specific form!
 
-> Users can register in a single form. Users can register using a single form. Read the article to learn more about User registration.
+> Users can register in a single form. Read [How to Create a WordPress User Registration Form With Fluent Forms](/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms) to learn more about user registration.
 
 ![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/add-new-user-update-03-scaled.webp)
 

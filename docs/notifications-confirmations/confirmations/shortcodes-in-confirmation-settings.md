@@ -1,6 +1,6 @@
 # Shortcodes in Confirmation Settings
 
-Fluent Forms provides **Smart Shortcodes** that allow users to dynamically display submitted data on the Confirmation Page, emails, PDFs, Custom posts, and **Quiz** submissions. 
+Fluent Forms provides **Smart Shortcodes** that allow users to dynamically display submitted data on the Confirmation Page, emails, [PDFs](/docs/fluent-forms-pdf-module), Custom posts, and [**Quiz**](/docs/fluent-forms-quiz-module) submissions. 
 
 This article explains each available shortcode and how it functions within Fluent Forms.
 
@@ -125,4 +125,4 @@ If you want to show a specific form submission’s specific entry using a shortc
 
 `[[ff_entry form_id='1' entry_id='{submission.id}' field='url' is_html=false]]`
 
-Smart Shortcodes in Fluent Forms allow you to display **dynamic content** based on user inputs, payments, and WordPress-related data. If you need **customized confirmation pages, automated email notifications,** or **PDF reports**, these shortcodes make it easy to use your forms.
+Smart Shortcodes in Fluent Forms allow you to display **dynamic content** based on user inputs, payments, and WordPress-related data. If you need **customized confirmation pages, automated email notifications,** or **PDF reports**, these shortcodes make it easy to use your forms. For more dynamic options, see [Using Helper Shortcodes](/docs/using-helper-shortcodes-in-fluent-forms).

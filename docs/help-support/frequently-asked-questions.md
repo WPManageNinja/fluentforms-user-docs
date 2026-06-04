@@ -6,7 +6,7 @@ Quick answers to the most common questions about **Fluent Forms**. If you can't 
 
 ### Is Fluent Forms free?
 
-Yes. The core plugin is free and available on the WordPress plugin directory. The **Pro Add-on** unlocks premium fields, integrations, payments, conversational forms, and more.
+Yes. The core plugin is free and available on the WordPress plugin directory. The [**Pro Add-on**](/docs/upgrade-to-fluent-forms-pro-add-on) unlocks premium fields, integrations, payments, conversational forms, and more.
 
 ### Do I need to install Fluent Forms before installing the Pro Add-on?
 
@@ -18,13 +18,13 @@ Yes. Fluent Forms has built-in importers for Contact Form 7, WPForms, Gravity Fo
 
 ### Where is form submission data stored?
 
-All entries are stored in your own WordPress database. Fluent Forms does not send your data to any third-party server.
+All [entries](/docs/managing-entries-in-fluent-forms) are stored in your own WordPress database. Fluent Forms does not send your data to any third-party server.
 
 ## Forms & Fields
 
 ### How many forms can I create?
 
-Unlimited. There is no cap on forms, fields, or submissions.
+Unlimited. There is no cap on forms, fields, or submissions. See [How to Create a Form](/docs/how-to-create-a-form-with-fluent-forms) to get started.
 
 ### Can I create multi-step forms?
 
@@ -38,11 +38,11 @@ Yes — see [Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-flu
 
 ### Which payment gateways are supported?
 
-Stripe, PayPal, Mollie, RazorPay, and Square. See the [Payment Integrations](/docs/how-to-integrate-stripe-with-fluent-forms) section.
+[Stripe](/docs/how-to-integrate-stripe-with-fluent-forms), [PayPal](/docs/how-to-integrate-paypal-with-fluent-forms), [Mollie](/docs/how-to-integrate-mollie-with-fluent-forms), [RazorPay](/docs/how-to-integrate-razorpay-with-fluent-forms), and [Square](/docs/how-to-integrate-square-with-fluent-forms-inline-payment-integration). See the [Payments Overview](/docs/payments-overview) to get started.
 
 ### Which email marketing tools are supported?
 
-Mailchimp, ActiveCampaign, ConvertKit, MailerLite, Brevo (Sendinblue), GetResponse, Constant Contact, and 20+ others. See [Email Marketing Integrations](/docs/how-to-integrate-mailchimp-with-fluent-forms).
+[Mailchimp](/docs/how-to-integrate-mailchimp-with-fluent-forms), [ActiveCampaign](/docs/how-to-integrate-activecampaign-with-fluent-forms), [ConvertKit](/docs/how-to-integrate-kit-former-convertkit-with-fluent-forms), [MailerLite](/docs/how-to-integrate-mailerlite-with-fluent-forms), [Brevo (Sendinblue)](/docs/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms), [GetResponse](/docs/how-to-integrate-getresponse-with-fluent-forms), [Constant Contact](/docs/how-to-integrate-constant-contact-with-fluent-forms), and 20+ others. See the [Integrations Overview](/docs/integrations-overview) for the full list.
 
 ## Troubleshooting
 

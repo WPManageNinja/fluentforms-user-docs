@@ -2,7 +2,7 @@
 
 [Alternative Heading: Use Conditional Logic in Input Fields with Fluent Forms]  
 
-**Fluent Forms** offers the **Conditional Logic** feature inside **Input Fields** to **display**/hide them based on specific conditions in your forms. This article will guide you through using **[Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms)** in any **Input Fields** with **Fluent Forms**.
+**Fluent Forms** offers the **Conditional Logic** feature inside **Input Fields** to **display**/hide them based on specific conditions in your forms. This article will guide you through using **Conditional Logic** in any **Input Fields** with **Fluent Forms**.
 
 ## Enabling Conditional Logic in a Field
 

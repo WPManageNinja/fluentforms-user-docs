@@ -2,7 +2,7 @@
 
 [FluentCRM](https://fluentcrm.com/) is a self-hosted Email Marketing Automation Plugin for WordPress. Manage your leads and customers, email campaigns, automated email sequencing, monitor user activities, and many more in one place!
 
-FluentCRM's WebHooks feature allows you to transfer leads collected through Fluent Forms on one domain to FluentCRM on another.
+FluentCRM's WebHooks feature allows you to transfer leads collected through Fluent Forms on one domain to FluentCRM on another. If both plugins live on the same site, you can use the [FluentCRM integration](/docs/fluentcrm-integration-with-fluent-forms) instead.
 
 This article will show you how to collect leads of Fluent Forms from one domain with FluentCRM to another domain.
 
@@ -40,7 +40,7 @@ Now, go to the Fluent Forms dashboard on the domain where the forms are installe
 
 ![](/images/account-license/connecting-fluent-forms-from-one-domain-with-fluent-crm-to-another-domain/Form-04-scaled.webp)
 
-Then, go to **Integrations** from the Fluent Forms Navbar, search for **Webhook** in the search bar, and download the **Webhook integration module**.
+Then, go to **Integrations** from the Fluent Forms Navbar, search for **Webhook** in the search bar, and download the [Webhook integration module](/docs/how-to-integrate-webhook-with-fluent-forms).
 
 Now, turn on the **Toggle** to enable the **Webhook** module.
 
@@ -66,7 +66,7 @@ Here appears a new window. Now you will fill in the details.
 
 Map the form fields (Name, Email) to the corresponding WebHook keys by copying the key values from FluentCRM and pasting them into the Value field.
 
-**G. Conditional Logic:** If you want to allow **Webhook** integration conditionally based on your submission values, then **Enable Conditional Logic** options. To know more about this conditional logic, read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**G. Conditional Logic:** If you want to allow **Webhook** integration conditionally based on your submission values, then **Enable Conditional Logic** options. To know more about this, read the [conditional logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 After completing all the fields, click the **Save Feed** button to save the setup.
 

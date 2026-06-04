@@ -20,7 +20,7 @@ Here are the Ready Classes built into the Fluent Forms default stylesheet, which
 
 #### ff_list_2col
 
-This turns a Radio/checkbox list into an equally-spaced 2-column format. It only applies to Radio/checkbox lists and works with any form label position settings.
+This turns a [Radio](/docs/radio-field-in-fluent-forms)/[checkbox](/docs/checkbox-field-in-fluent-forms) list into an equally-spaced 2-column format. It only applies to Radio/checkbox lists and works with any form label position settings.
 
 #### ff_list_3col
 
@@ -50,7 +50,7 @@ This turns a Radio/checkbox list into an inline horizontal list (not evenly spac
 
 This converts an HTML field into a box with a fixed height that will automatically show a scroll bar if there's a large amount of text. 
 
-This is useful if you want to show a large amount of content to the user but don’t want to have to link to it or make the form very long to show it (Terms of Service Agreements, etc.). This class only works on section breaks and with any form label position settings.
+This is useful if you want to show a large amount of content to the user but don’t want to have to link to it or make the form very long to show it (Terms of Service Agreements, etc.). This class only works on [section breaks](/docs/section-break-in-fluent-forms) and with any form label position settings.
 
 ![](/images/design-styling/how-to-use-css-ready-classes/scroll-text-03-scaled.webp)
 
@@ -70,4 +70,4 @@ This class restricts the input fields from being edited; they can only be viewed
 
 This will keep the input field hidden, where this field is visible to the admin.
 
-> CSS classes are not compatible with Conversational Forms.
+> CSS classes are not compatible with [Conversational Forms](/docs/how-to-create-a-conversational-form).

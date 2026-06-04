@@ -16,7 +16,7 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-If you want to learn more about the **Numeric Input Field**, read this[ article](/docs/numeric-input-field-in-fluent-forms).
+If you want to learn more about the **Numeric Input Field**, read the [Numeric Input Field](/docs/numeric-input-field-in-fluent-forms) documentation.
 
 ![](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/editor-form-scaled.webp)
 
@@ -62,7 +62,7 @@ Here is a preview of the form with the Numeric calculation.
 
 ### Conversational Forms Support
 
-Fluent Forms also supports calculations in **Conversational Forms**, enabling dynamic responses based on user input.
+Fluent Forms also supports calculations in [Conversational Forms](/docs/how-to-create-a-conversational-form), enabling dynamic responses based on user input.
 
 **Example**
 

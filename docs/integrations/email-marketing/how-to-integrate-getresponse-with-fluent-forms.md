@@ -67,7 +67,7 @@ To learn how to integrate GetResponse into any specific Form in Fluent Forms, fo
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **GetResponse** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/how-to-integrate-getresponse-with-fluent-forms/Open-Desired-Form-Settings-4-scaled.webp)
 
@@ -92,7 +92,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 1. Autoresponder Cycle: This allows you to set the day on which the contacts will be in the Autoresponder cycle. Otherwise, keep them empty to not include them in the autoresponder.
 
-1. Conditional Logics: This option allows GetResponse integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows GetResponse integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

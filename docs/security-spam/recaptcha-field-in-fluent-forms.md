@@ -4,7 +4,7 @@ reCAPTCHA in Fluent Forms helps to protect your website from spam and bots by ve
 
 This article will guide you through adding the **reCAPTCHA** field in **Fluent Forms** for your WordPress site.
 
-Before adding reCAPTCHA to your form, you will need to **integrate** it with: **reCAPTCHA v2** (Checkbox: "I'm not a robot") or **reCAPTCHA v3**  (Invisible verification). If you know more about reCAPTCHA read this [article](/docs/how-to-integrate-recaptcha-with-fluent-forms).
+Before adding reCAPTCHA to your form, you will need to **integrate** it with: **reCAPTCHA v2** (Checkbox: "I'm not a robot") or **reCAPTCHA v3**  (Invisible verification). To learn more, read [How to Integrate reCAPTCHA with Fluent Forms](/docs/how-to-integrate-recaptcha-with-fluent-forms).
 
 ## Add reCAPTCHA to Your Form
 
@@ -12,7 +12,7 @@ To learn how to add the reCAPTCHA field to the Fluent Forms, follow the steps wi
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
 
 ![](/images/security-spam/recaptcha-field-in-fluent-forms/edit-form-01-11-scaled.webp)
 
@@ -38,7 +38,7 @@ A reCAPTCHA field has been added. You can edit this field by **hovering over it*
 
 Once you have customized the reCAPTCHA field, click the **Save Form** button to save your changes. To preview the form, click **Preview & Design** in the middle of the page.
 
-To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. You can also [embed the form directly in the Gutenberg layout](/docs/how-to-embed-your-forms-directly-in-gutenberg-layout). 
 
 ![](/images/security-spam/recaptcha-field-in-fluent-forms/Save-Form-04-scaled.webp)
 

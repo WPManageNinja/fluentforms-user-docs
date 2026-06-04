@@ -1,6 +1,6 @@
 # Using Helper Shortcodes in Fluent Forms
 
-Fluent Forms offers powerful helper shortcodes that enable you to display dynamic form data, including submission counts, entry details, and payment statuses, anywhere on your website. The helper shortcodes and all of their attributes are listed below.
+Fluent Forms offers powerful helper shortcodes that enable you to display dynamic form data, including submission counts, [entry details](/docs/managing-entries-in-fluent-forms), and [payment statuses](/docs/payment-reports), anywhere on your website. The helper shortcodes and all of their attributes are listed below.
 
 This guide will walk you through the available shortcodes and their attributes.
 
@@ -64,7 +64,7 @@ You can specify whether to include or exclude entries that are in the trash.
 
 ### Show Remaining Submission Slots (Subtract From)
 
-If you have set a maximum entry limit in the form settings, you can display how many submission slots are still available.
+If you have set a maximum entry limit using the [form restrictions feature](/docs/form-restrictions-feature-in-fluent-forms), you can display how many submission slots are still available.
 
 Use the **subtract_from** attribute with your maximum limit. For example, if you set a limit of 20 entries:
 

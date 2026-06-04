@@ -1,6 +1,6 @@
 # Fluent Forms Quiz Module
 
-The **Quiz Module** in Fluent Forms allows you to create mutual quizzes, calculate scores, and display results as grades, points, fractions, or percentages. This feature is ideal for tests, assessments, and educational purposes.
+The **Quiz Module** in Fluent Forms allows you to create mutual quizzes, calculate scores, and display results as grades, points, fractions, or percentages. This feature is ideal for tests, assessments, and educational purposes. If you want to score traits instead of right answers, see [Creating a Personality Quiz Form in Fluent Forms](/docs/creating-a-personality-quiz-form-in-fluent-forms).
 
 This article will guide you in creating a successful **Quiz Module** with fluent forms.
 
@@ -24,7 +24,7 @@ Now, create a new form or edit an existing one. Add relevant fields such as **Ra
 
 **Quiz Score** is a hidden advanced field that calculates quiz scores.
 
-This field is only visible to the admin and can be used in confirmation messages or email notifications. If you want to learn more about quiz scores then read this [article](/docs/quiz-score-in-fluent-forms).
+This field is only visible to the admin and can be used in confirmation messages or email notifications. To learn more, read the [Quiz Score in Fluent Forms](/docs/quiz-score-in-fluent-forms) guide.
 
 ![](/images/modules/fluent-forms-quiz-module/quiz-score-02-scaled.webp)
 
@@ -34,7 +34,7 @@ To configure the quiz settings, navigate to the Form **Settings** options and cl
 
 ![](/images/modules/fluent-forms-quiz-module/enable-quiz-setting-03-scaled.webp)
 
-**A. Append Result:** Ensure that turn on **Show result on confirmation message** option. This option helps display the quiz result on the confirmation page after submission.
+**A. Append Result:** Ensure that turn on **Show result on confirmation message** option. This option helps display the quiz result on the [confirmation message](/docs/setup-form-submission-confirmation-message-in-fluent-forms) page after submission.
 
 **B. Randomize Questions:** If you enable this option, the order of the questions will be randomly generated every time the quiz is loaded.
 

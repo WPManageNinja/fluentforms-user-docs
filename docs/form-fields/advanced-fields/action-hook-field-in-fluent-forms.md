@@ -1,6 +1,6 @@
 # Action Hook Field in Fluent Forms
 
-The **Action Hook** field in Fluent Forms allows developers to insert dynamic elements into forms.  
+The **Action Hook** field in Fluent Forms allows [developers](/docs/advanced-developer-overview) to insert dynamic elements into forms.  
 
 This guide will walk you through adding and customizing the **Action Hook Field** in Fluent Forms for your WordPress site.
 
@@ -53,7 +53,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **A. Element Class:** Add custom CSS classes to the input field.
 
-**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/Advanced-option-05.png)
 

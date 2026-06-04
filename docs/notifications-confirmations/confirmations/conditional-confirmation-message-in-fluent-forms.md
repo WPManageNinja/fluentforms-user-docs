@@ -1,6 +1,6 @@
 # Conditional Confirmation Message in Fluent Forms
 
-Sometimes, you can display confirmation messages based on user input. Fluent Forms allows you to set up **Conditional Confirmation Messages** so that users receive individualized feedback based on specific conditions.
+Sometimes, you can display confirmation messages based on user input. Fluent Forms allows you to set up **Conditional Confirmation Messages** so that users receive individualized feedback based on specific conditions. If you are new to confirmations, start with the [form submission confirmation message](/docs/setup-form-submission-confirmation-message-in-fluent-forms) setup first.
 
 In this documentation, we will walk you through setting up a conditional confirmation message with fluent Forms.
 
@@ -16,7 +16,7 @@ To learn how to set conditional confirmation message, follow the steps below –
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditional confirmation message.
 
-> If you do not have any existing forms, read  Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read  [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
 
 Once inside the form editor, click on **Settings & Integrations** tab for the selected form. Now from the left sidebar, select **Conditional Confirmation** under the **Settings** section.
 

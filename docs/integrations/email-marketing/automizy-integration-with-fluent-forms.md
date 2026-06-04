@@ -44,7 +44,7 @@ Then, go to the **Configuration Integrations** tab, click the **Add New Integrat
 
 - Configure the fields and map them to the Automizy list’s corresponding rows.
 
-- Enable Conditional Logic if required. Learn more about Fluent Forms Conditional logic here.
+- Enable Conditional Logic if required. Learn more about [Fluent Forms Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 - Click on Create Automizy Feed when the configuration is done.
 

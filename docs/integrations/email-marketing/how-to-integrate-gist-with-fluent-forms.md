@@ -1,6 +1,6 @@
 # How to Integrate Gist with Fluent Forms
 
-Integrating [Gist](http://getgist.com) with **Fluent Forms** allows you to build your Gist email list through the users of Fluent Forms. This article will guide you through integrating **Gist** with **Fluent Forms** on your **WordPress Site**.  
+Integrating [Gist](http://getgist.com) with **Fluent Forms** allows you to build your Gist email list through the users of Fluent Forms. This article will guide you through integrating **Gist** with **Fluent Forms** on your **WordPress Site**. For an alternative walkthrough, see the [GetGist integration guide](/docs/gist-integration-with-fluent-forms).  
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/j6Bs2TrcjjI" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -53,7 +53,7 @@ To learn how to integrate GetGist into any specific Form in Fluent Forms, follow
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **GetGist,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/Open-Desired-Form-Settings-scaled-2.webp)
 
@@ -75,7 +75,7 @@ Once you select the integration, a page will appear with various settings option
 
 1. Push IP Address: When this option is enabled, FluentForm will pass the “last_seen_ip” to the gist.
 
-1. Conditional Logics: This option allows GetGist integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows GetGist integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

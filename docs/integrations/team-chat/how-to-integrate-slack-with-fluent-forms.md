@@ -18,7 +18,7 @@ To learn how to integrate **Slack** into any specific **Form** in **Fluent** **F
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Slack,** and click the **Settings** button.
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/team-chat/how-to-integrate-slack-with-fluent-forms/2.-Open-desired-Form-Settings-1-scaled.webp)
 
@@ -28,7 +28,7 @@ Once you are on **Settings & Integrations**, go to **Slack** from the left menu,
 
 **A. Slack Title**: Here you can set the text and information to add as a notification title for sending to the desired Slack channel.
 
-**B. Webhook URL**: Here, you need to provide the desired **Slack channel’s Webhook URL** where you want to send the notification. To learn how to get the **Webhook URL**, [click here](/docs/how-to-integrate-slack-with-fluent-forms) and follow the steps accordingly.
+**B. Webhook URL**: Here, you need to provide the desired **Slack channel’s Webhook URL** where you want to send the notification. To learn how to get the **Webhook URL**, see the [Getting Webhook URL from Slack](#getting-webhook-url-from-slack) section below and follow the steps accordingly.
 
 **C. Select Fields**: Here, you can also select which input fields' information you want to send to the Slack Channel by checking the box/es. Also, you can select all the fields at once by clicking the **Check All** box.
 

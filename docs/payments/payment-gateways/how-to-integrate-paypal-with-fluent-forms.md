@@ -28,7 +28,7 @@ Finally, press the **Save PayPal Settings** button and your PayPal account will 
 
 ## Setup PayPal IPN Settings
 
-After configuring PayPal, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in **PayPal**.
+After configuring PayPal, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in **PayPal**. Recurring billing is collected through the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
 
 **IPN (Instant Payment Notification)** is a post-message notification sent by **PayPal** after a successful transaction for standard merchant accounts, containing all the payment transaction details. Setting up [PayPal](https://www.paypal.com/) IPN with Fluent Forms allows you to receive Instant Payment Notifications from PayPal.
 
@@ -77,7 +77,7 @@ Plus, if you want to disable the PayPal IPN, simply click the **Turn Off IPN** b
 
 Once you finish setting up your **PayPal** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
 
-> If you do not have any existing Payment Forms, read this Documentation to learn how to create one.
+> If you do not have any existing Payment Forms, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to learn how to create one.
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
@@ -91,7 +91,7 @@ Now, go to the **Payment Methods**, check the **PayPal** option, click the **Dro
 
 - Require Shipping Address: Check this box if you want to make providing the Shipping Address information mandatory for your users to submit the forms.
 
-> To learn more details about the Payment Method field, read this Documentation.
+> To learn more details, see the Payment Method field guide linked above.
 
 ![](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/9.-Check-PayPal-payment-method-in-a-desired-form-scaled.webp)
 

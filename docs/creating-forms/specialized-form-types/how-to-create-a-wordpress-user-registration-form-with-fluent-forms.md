@@ -18,13 +18,13 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Use
 
 Once you enable the user registration form, now create a registration form.  Go to the **Fluent Forms Dashboard** and **Create a new form**.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Now, we recommend to add the following fields to the form:
 
-**Email**: Required for user registration.
-**Name**: Optional but recommended.
-**Password**: Required for account creation.
+**[Email](/docs/email-address-input-field-in-fluent-forms)**: Required for user registration.
+**[Name](/docs/name-input-field-in-fluent-forms)**: Optional but recommended.
+**[Password](/docs/password-input-field-in-fluent-forms)**: Required for account creation.
 
 You can add additional fields as needed, but these three fields are essential.
 
@@ -60,7 +60,7 @@ A new Window page will appear. Now, customize the User Registration feed accordi
 
 **H. Form Validation:** Enabling this option prevents duplicate registrations by checking if the user already exists in the database.
 
-**I. Conditional Logics**: This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**I. Conditional Logics**: This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **J. Status:** Enable this feed option to activate the integration.
 

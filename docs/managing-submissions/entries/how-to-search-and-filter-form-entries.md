@@ -1,6 +1,6 @@
 # How to Search and Filter Form Entries
 
-Fluent Forms provides a simple and effective way to search and filter form entries, allowing you to quickly find specific data and manage your submissions with ease.
+Fluent Forms provides a simple and effective way to search and filter form entries, allowing you to quickly find specific data and [manage your submissions](/docs/managing-entries-in-fluent-forms) with ease.
 
 This guide explains step-by-step how to use these features.
 

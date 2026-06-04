@@ -54,7 +54,7 @@ Name the feed and select from the dropdown the ClickSend SMS Service that you wa
 
 Select a **Message Body**, **To** (number in which SMS will be sent), and other optional fields like Message, SMS Template, and SMS Schedule.
 
-Enable **Conditional Logic** if required. Learn more about Fluent Forms Conditional logic [**here**](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+Enable **Conditional Logic** if required. Learn more about [Fluent Forms Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 Click on **Create ClickSend SMS Feed** when the configuration is done.
 

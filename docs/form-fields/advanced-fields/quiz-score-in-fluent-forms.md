@@ -1,12 +1,12 @@
 # Quiz Score in Fluent Forms
 
-The **Quiz Score** field in Fluent Forms is an **Advanced Hidden Field** that calculates and stores the total score for a quiz or specific quiz questions. 
+The **Quiz Score** field in Fluent Forms is an **Advanced** [Hidden Field](/docs/hidden-input-field-in-fluent-forms) that calculates and stores the total score for a quiz or specific quiz questions. 
 
 This guide will walk you through adding and customizing the **Quiz Score Input** field in Fluent Forms.
 
 > The Quiz Score Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
 
-To use this field, you must first **Enable the Quiz Module**. For configuration details, read the[ **Quiz Module documentation**](https://docs.google.com/document/d/1jV_sg7MUDTHxUmRAD4W9317R83WumY4l4nzngq9jQkM/edit?tab=t.0).
+To use this field, you must first **Enable the Quiz Module**. For configuration details, read the [Quiz Module documentation](/docs/fluent-forms-quiz-module).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/bPjDXR0y_Oo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -58,7 +58,7 @@ All the settings under the Quiz Score Input Field mentioned above are briefly ex
 
 - Percentage: When the score type is set to a Percentage in the Quiz score input field, the results will be shown as a percentage of the correct answers. For example, if you have five questions and have given 3 correct answers, your result will be 60.00%.
 
-- Personality: You can create a Personal Quiz with Fluent Form. To learn more, read this article.
+- Personality: You can create a Personal Quiz with Fluent Form. To learn more, read the [Personality Quiz Form documentation](/docs/creating-a-personality-quiz-form-in-fluent-forms).
 
 ![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Quiz-Score-field-04-scaled.webp)
 

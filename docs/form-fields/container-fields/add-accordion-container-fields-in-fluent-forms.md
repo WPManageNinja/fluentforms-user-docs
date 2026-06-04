@@ -12,7 +12,7 @@ First, go to the **Forms** section from the **Fluent Forms** Navbar, choose a de
 
 ![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/edit-form-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** Icon in your form editor and open the **Container** input fields module. The Container option is also in the right sidebar under the **Input** **Fields** tab. 
+Once you are on the **Editor** page, click the **Plus** Icon in your form editor and open the [Container](/docs/add-container-fields-in-fluent-forms) input fields module. The Container option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Accordion Container** by clicking on it or Drag & Drop it into your editor.
 
@@ -74,7 +74,7 @@ Here is how the Accordion Container will look and function for your users on the
 
 - Expanded View: Once expanded, the icon will change to a Minus Icon (-). A user can click this icon or the title bar again to collapse the section, hiding the fields.
 
-> Note: The Plus (+) and Minus (-) icons on an Accordion Container are only for expanding and collapsing that one section. To allow users to duplicate or repeat a set of fields, you would use the Repeater Field instead.
+> Note: The Plus (+) and Minus (-) icons on an Accordion Container are only for expanding and collapsing that one section. To allow users to duplicate or repeat a set of fields, you would use the [Repeat Container](/docs/add-repeat-container-field-in-fluent-forms) instead.
 
 ![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/final-form-07.webp)
 

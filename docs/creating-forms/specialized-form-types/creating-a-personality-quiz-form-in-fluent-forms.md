@@ -16,13 +16,13 @@ Now, turn on the **Toggle** to enable the **Quiz** module.
 
 ## Create Your Quiz Questions
 
-**Now,** use the **Radio Field** to craft your quiz questions. For each question, provide multiple answer options. Then, customize each question and its options by clicking on **Input Customization**.
+**Now,** use the [Radio Field](/docs/radio-field-in-fluent-forms) to craft your quiz questions. For each question, provide multiple answer options. Then, customize each question and its options by clicking on **Input Customization**.
 
 ![](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form-in-fluent-forms/question-02-scaled.webp)
 
 ### Add a Quiz Score Field
 
-Add the **Quiz Score****Field** from the **Advanced Fields** section to enable result calculation.
+Add the [Quiz Score Field](/docs/quiz-score-in-fluent-forms) from the **Advanced Fields** section to enable result calculation.
 
 ![](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form-in-fluent-forms/quiz-score-field-03-scaled.webp)
 

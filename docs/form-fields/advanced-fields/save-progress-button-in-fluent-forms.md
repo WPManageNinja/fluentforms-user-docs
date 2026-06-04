@@ -84,9 +84,9 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-**E. Send Email on Partial Entry Created**: If you want to enable the user to receive an email when they initially save the progress, select the **Yes** options, or if you don’t receive an email when they initially save progress, select the **No** options.
+**E. Send Email on Partial Entry Created**: If you want to enable the user to receive an email when they initially save the progress as a [partial entry](/docs/partial-entries-for-step-forms), select the **Yes** options, or if you don’t receive an email when they initially save progress, select the **No** options.
 
 **F. Send Email on Partial Entry Updated**: If you want users not to receive an email when they update their saved progress, select the **No** option, or if you're going to receive an email when they update their saved progress, select the **Yes** option.
 
@@ -98,7 +98,7 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-> The Save Progress Button is equally applicable to the Step Form.
+> The Save Progress Button is equally applicable to the [Multi-Step Form](/docs/creating-a-multi-step-form-in-fluent-forms).
 
 ![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Save-Form-07-1-scaled.webp)
 

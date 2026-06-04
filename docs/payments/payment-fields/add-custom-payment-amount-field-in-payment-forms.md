@@ -8,7 +8,7 @@ To learn how to add the Custom Payment Amount field to the Fluent Forms, follow 
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
+> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
 
 ![](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/1.-Open-desired-form-1-scaled.webp)
 
@@ -68,7 +68,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **H. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-**I. Calculation Field Settings**: Enable this and provide formula expression if you want this field as calculated based on other numeric field value
+**I. Calculation Field Settings**: Enable this and provide formula expression if you want this field as calculated based on other numeric field value. To learn more, read [Numeric Calculation in Fluent Forms](/docs/numeric-calculation-in-fluent-forms).
 
 ![](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/5.-Advanced-Options-1-scaled.webp)
 

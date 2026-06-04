@@ -113,7 +113,7 @@ To learn how to configure the **Payment Settings** for a specific payment form, 
 
 First, go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of the desired **Payment** **Form**. 
 
-> If you don't have an existing Payment Form, read this documentation to crate a new one.
+> If you don't have an existing Payment Form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one.
 
 ![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/Open-Form-Settings-3-scaled.webp)
 
@@ -137,11 +137,11 @@ Do not forget to click the **Save Settings** button to save all your changes.
 
 On this page, you will also get **Three** major **Payment Method Settings** options that you can customize according to your needs, specifically for this form. These are:
 
-1. Stripe: To learn more details about the Stripe Settings, click here.
+1. Stripe: To learn more details, read [How to Integrate Stripe with Fluent Forms](/docs/how-to-integrate-stripe-with-fluent-forms).
 
-2. PayPal: To learn more details about the PayPal Settings, click here.
+2. PayPal: To learn more details, read [How to Integrate PayPal with Fluent Forms](/docs/how-to-integrate-paypal-with-fluent-forms).
 
-3. Paddle: To learn more details about the Paddle Settings, click here.
+3. Paddle: To learn more details, read [How to Integrate Paddle with Fluent Forms](/docs/how-to-integrate-paddle-with-fluent-forms).
 
 Do not forget to click the **Save Settings** button to save all your changes. 
 

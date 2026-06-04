@@ -8,7 +8,7 @@ Fluent Forms now integrates OpenAI ChatGPT, making it easier for users to create
 
 Before starting the process of creating a **Form** using **OpenAI ChatGPT**, you need to make sure the **OpenAI ChatGPT** module is enabled. Otherwise, you will not automatically get this module in your **Fluent Forms.**
 
-To enable the **OpenAI ChatGPT** module in your **Fluent Forms**, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**.
+To enable the **OpenAI ChatGPT** module in your **Fluent Forms**, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**. For the full setup, see [How to Integrate OpenAI ChatGPT with Fluent Forms](/docs/how-to-integrate-openai-chatgpt-with-fluent-forms).
 
 Now, search for **OpenAI ChatGPT** through the search bar, turn on the **Toggle**, and your **OpenAI ChatGPT** module will be enabled.
 
@@ -28,7 +28,7 @@ Now, a pop-up will appear with various options. Click the **Create using AI** ta
 
 Now, a new popup will appear with the **OpenAI ChatGPT** option for form creation
 
-> Remember this “OpenAI ChatGPT” tab won’t appear in your Fluent Forms if you don’t enable the OpenAI ChatGPT module. Also, in the left side you will get the Fluent Forms' default free 'Fluent Forms AI Assisted' feature for form creation.
+> Remember this “OpenAI ChatGPT” tab won’t appear in your Fluent Forms if you don’t enable the OpenAI ChatGPT module. Also, in the left side you will get the Fluent Forms' default free ['Fluent Forms AI Assisted'](/docs/how-to-create-a-form-with-fluent-forms-ai) feature for form creation.
 
 A brief explanation of the features mentioned in the screenshot is given below:
 
@@ -64,7 +64,7 @@ d. **Duplicate**: Click this button and the field will be duplicated.
 
 e. **Delete**: Click this **Trash Icon** and your field will be deleted.
 
-> Remember, separate documentation is available for each Input Field under the Field Type category. Read them thoroughly to understand the detailed use of each field. To learn more details about the other options of the form Editor, read this Documentation.
+> Remember, separate documentation is available for each Input Field under the Field Type category. Read them thoroughly to understand the detailed use of each field. To learn more details about the available fields, see the [Form Fields overview](/docs/form-fields-overview).
 
 ![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-openai-chatgpt/6.-Input-Customization-tab-scaled.webp)
 

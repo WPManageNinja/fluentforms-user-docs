@@ -20,7 +20,7 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Container** input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 
 
-Under the **Container** module, you will see that **Six Types** of **Container** fields are available. Each types types of container have the same functionality except the number of added columns.
+Under the **Container** module, you will see that **Six Types** of **Container** fields are available. Each types types of container have the same functionality except the number of added columns. For collapsible sections use the [Accordion Container](/docs/add-accordion-container-fields-in-fluent-forms), and for repeatable sets of fields use the [Repeat Container](/docs/add-repeat-container-field-in-fluent-forms).
 
 Now, choose the desired **Column Layout** by clicking on it or **Drag & Drop** it into your editor. **For example**, I selected **Three Column Cotainer**.
 
@@ -50,9 +50,9 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 A. **Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
-B. **Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+B. **Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-C. **Column Width**: Using this option, you can set the width of the columns. The minimum column width is 10%.
+C. **Column Width**: Using this option, you can set the width of the columns. The minimum column width is 10%. You can also drag the column borders to resize them visually with the [Resizeable Container](/docs/resizeable-container-in-fluent-forms).
 
 D. **Auto Width**: Enable the automatic width calculation for columns by clicking the **Yes** button. Otherwise, click the **No** button to adjust the width according to your preference.
 

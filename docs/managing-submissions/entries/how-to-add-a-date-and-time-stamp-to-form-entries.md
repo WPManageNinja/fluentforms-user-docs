@@ -6,7 +6,7 @@ This documentation will show you how to add a date and time stamp to form entrie
 
 ## Check Default Timestamps
 
-First, navigate to the **Entries** section in your Fluent Forms dashboard. Each submission includes a **Submitted at** timestamp, showing the date and time when the form was submitted.
+First, navigate to the [Entries](/docs/managing-entries-in-fluent-forms) section in your Fluent Forms dashboard. Each submission includes a **Submitted at** timestamp, showing the date and time when the form was submitted.
 
 To view more details, hover over the displayed timestamp to reveal the precise **month**, **day**, and **time**.
 
@@ -14,7 +14,7 @@ To view more details, hover over the displayed timestamp to reveal the precise *
 
 ## Add Custom Date and Time Stamps
 
-To add a more customized timestamp to your forms, open the form editor and add a **Hidden Field** from the **Advanced Fields** section.
+To add a more customized timestamp to your forms, open the form editor and add a [Hidden Field](/docs/hidden-input-field-in-fluent-forms) from the **Advanced Fields** section.
 
 ![](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/Hidden-field-02-scaled.webp)
 

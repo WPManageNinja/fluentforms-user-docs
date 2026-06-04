@@ -4,7 +4,7 @@ Fluent Forms integrates with Salesflare, an email marketing automation tool that
 
 This article will guide you through integrating Salesflare with Fluent Forms on your WordPress Site.
 
-> Remember, Salesflare is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> Remember, Salesflare is the Premium Feature of the Fluent Forms Plugin. So, you need to [upgrade to Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on) to integrate this.
 
 ## Enable the Salesflare Integration
 
@@ -58,7 +58,7 @@ To learn how to integrate salesflare into any specific Form in Fluent Forms, fol
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your salesflare and click the **Settings** button. 
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/integrations/crm/salesflare-integration-with-fluent-forms/Form-Setting-amoCRM-1-scaled.webp)
 
@@ -78,7 +78,7 @@ Also you can add multiple fields dynamically by clicking the **Plus Icon**.
 
 **D. Tag:** With this option, you can add tags to your **Salesflare** contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use **ShortCodes** as the tag.
 
-**E. Conditional Logic:**  If you want to allow **Salesflare** integration conditionally based on your submission values then **Enable Conditional Logic** options. To learn more about this conditional logic, read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**E. Conditional Logic:**  If you want to allow **Salesflare** integration conditionally based on your submission values then **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **F. Status:** Enable this feed option to activate the integration.
 
@@ -99,7 +99,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 Here, you can see a preview of the added Salesflare contacts through the Form entries that I set up during the integration.
 
-You can see these form submissions from the **Entries** section of this particular form.
+You can see these form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
 ![](/images/integrations/crm/salesflare-integration-with-fluent-forms/Forms-Entries-10-scaled.webp)
 

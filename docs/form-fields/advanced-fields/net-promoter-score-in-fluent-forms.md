@@ -1,6 +1,6 @@
 # Net Promoter Score in Fluent Forms
 
-The **Net Promoter Score (NPS)** is a customer **loyalty and satisfaction** measurement system that helps businesses judge how likely customers are to recommend their products or services. The score is collected by asking **customers to** **rate** their likelihood of recommending a product or service on a **scale from** **0 to 10**.
+The **Net Promoter Score (NPS)** is a customer **loyalty and satisfaction** measurement system that helps businesses judge how likely customers are to recommend their products or services. It is a popular choice for [surveys and polls](/docs/surveys-and-polls-in-fluent-forms). The score is collected by asking **customers to** **rate** their likelihood of recommending a product or service on a **scale from** **0 to 10**.
 
 This guide will walk you through adding and customizing the **Net Promoter Score** field in Fluent Forms for your WordPress site.
 
@@ -64,7 +64,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/advanced-options-05-20-scaled.webp)
 

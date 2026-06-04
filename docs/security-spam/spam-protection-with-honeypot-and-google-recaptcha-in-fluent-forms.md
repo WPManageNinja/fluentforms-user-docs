@@ -1,6 +1,6 @@
 # Spam Protection With Honeypot and Google reCAPTCHA in Fluent Forms
 
-[Fluent Forms](https://fluentforms.com/) offers **Honeypot Security** and **reCAPTCHA** to protect your form entries from spambots and keep your contact lists spam-free. This article will guide you through the process of **Spam Protection** using **Honeypot** **Security** and **reCAPTCHA**.
+**Fluent Forms** offers **Honeypot Security** and **reCAPTCHA** to protect your form entries from spambots and keep your contact lists spam-free. This article will guide you through the process of **Spam Protection** using **Honeypot** **Security** and **reCAPTCHA**.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/w7xV1Mnt-EI" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -44,7 +44,7 @@ To do this, go to **Global Settings** from the **FluentForms Navbar**, open the 
 
 Now, select the desired **Version** of reCAPTCHA, provide the **Site & Secret Keys,** and click the **Save Settings** button.
 
-> To learn the detailed process of collecting Site & Secret Keys to integrate reCAPTCHA with Fluent Forms, read this Documentation.
+> To learn the detailed process of collecting Site & Secret Keys to integrate reCAPTCHA with Fluent Forms, read [How to Integrate reCAPTCHA with Fluent Forms](/docs/how-to-integrate-recaptcha-with-fluent-forms).
 
 ![](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms/3.-reCAPTCHA-Settings-scaled.webp)
 
@@ -56,7 +56,7 @@ To do this, go to **Forms** from the top navbar, and **open** the **Editor** pag
 
 ![](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms/4.-desired-Form-Editor-scaled.webp)
 
-Now, go to **Settings & Integrations** from the top navbar, open the **Scheduling & Restrictions** tab, and turn on the **Login Requirement Settings** and **Empty Submission Blocking** toggle.
+Now, go to **Settings & Integrations** from the top navbar, open the **Scheduling & Restrictions** tab, and turn on the [Login Requirement Settings](/docs/user-login-requirement-in-fluent-forms) and **Empty Submission Blocking** toggle.
 
 - Login Requirement Settings: Once you enable this option, it will stop non-logged users from submitting the form.
 

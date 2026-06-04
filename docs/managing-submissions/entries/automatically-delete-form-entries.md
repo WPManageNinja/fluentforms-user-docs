@@ -16,11 +16,11 @@ On the settings page, look for the **Compliance Settings** tab in the left-hand 
 
 ### Delete Entries Right After Submission
 
-This option is perfect for when you need the form to act (like sending an email notification or a CRM integration) but don't need to store the entry data in WordPress.
+This option is perfect for when you need the form to act (like sending an [email notification](/docs/how-to-setup-adminuser-email-notifications) or a [CRM integration](/docs/integrations-overview)) but don't need to store the entry data in WordPress.
 
 In the **Compliance Settings**, check the box next to **Delete entry data after form submission**.
 
-> Important: When this option is enabled, the entry is deleted immediately. This means no entry data, analytics, or visual reporting will be saved or available for this form.
+> Important: When this option is enabled, the entry is deleted immediately. This means no entry data, analytics, or [visual reporting](/docs/visual-representation-of-form-entries-in-fluent-forms) will be saved or available for this form.
 
 After that, click the **Save Settings** button to apply the change.
 

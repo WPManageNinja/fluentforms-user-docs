@@ -16,7 +16,7 @@ Add the input fields where the value must be set from the URL parameter or selec
 
 ## Enable GET Parameter for Field
 
-Click the **Three-dot** **Icon** of the **Default Value** field. Then, select the first option, **Populate by GET Param**. Don’t forget the **Name Attribut**e, which is email in this case.
+Click the **Three-dot** **Icon** of the **Default Value** field. Then, select the first option, **Populate by GET Param**. This is one of the [Dynamic Default Value](/docs/dynamic-default-value-in-fluent-forms) options available for input fields. Don’t forget the **Name Attribut**e, which is email in this case.
 
 ![](/images/configuring-forms/conditional-logic/set-default-form-value-from-url-parameters/URL-populate-01-1-scaled.webp)
 
@@ -52,6 +52,6 @@ https://yourdomain.com/your page/?**email**=mnb@mail.com&**age**=90
 
 ### URL Parameter on your Landing Page
 
-You can also set a default form value from a URL parameter on your **Landing Page** as same way. To know more about the landing page in fluent form, read this [article](/docs/dedicated-landing-page-in-fluent-forms).
+You can also set a default form value from a URL parameter on your **Landing Page** as same way. To know more about the landing page in fluent form, read the [Dedicated Landing Page in Fluent Forms](/docs/dedicated-landing-page-in-fluent-forms) documentation.
 
 ![](/images/configuring-forms/conditional-logic/set-default-form-value-from-url-parameters/333-scaled.webp)

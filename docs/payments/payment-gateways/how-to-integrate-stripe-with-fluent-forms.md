@@ -42,7 +42,7 @@ But, if you prefer the traditional **API Key method for the integration,** you c
 
 ## Configuring Webhook to Set Up Stripe IPN
 
-After configuring Stripe, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in Stripe.
+After configuring Stripe, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in Stripe. Recurring billing is collected through the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
 
 **IPN (Instant Payment Notification)** is a post-message notification sent by [Stripe](http://stripe.com) after a successful subscription or recurring payment. For Stripe to function completely for subscription/recurring payments, you must configure your Stripe webhooks.
 
@@ -104,7 +104,7 @@ And, the **Stripe Webhooks** will be configured with your WordPress Site!
 
 Once you finish setting up your **Stripe** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
 
-> If you do not have any existing Payment Forms, read this Documentation to learn how to create one.
+> If you do not have any existing Payment Forms, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to learn how to create one.
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
@@ -120,7 +120,7 @@ Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dro
 
 - Verify Zip/Postal Code: Check this box if you want to make providing the Zip/Postal Code information mandatory for your users to submit the forms.
 
-> To learn more details about the Payment Method field, read this Documentation.
+> To learn more details, see the Payment Method field guide linked above.
 
 ![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/10.-Embed-checkout-scaled.webp)
 

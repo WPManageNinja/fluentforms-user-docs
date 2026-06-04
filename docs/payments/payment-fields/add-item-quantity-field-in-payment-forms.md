@@ -8,7 +8,7 @@ To learn how to add the Item Quantity field to the Fluent Forms, follow the step
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
+> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
 
 ![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/1.-Open-desired-form-2-scaled.webp)
 
@@ -40,7 +40,7 @@ Here, you will get various settings options for customizing the field. All the *
 
 **D. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the **Item Quantity** field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
 
-**E. Product Field Mapping**:  You need to map the **Payment Item** from the item/s added to your form for which you want to use this Item Quantity field. Remember, ensure that you use a separate "Item Quantity" field for each "Payment Item" field.”
+**E. Product Field Mapping**:  You need to map the [Payment Item](/docs/add-payment-item-field-in-payment-forms) from the item/s added to your form for which you want to use this Item Quantity field. Remember, ensure that you use a separate "Item Quantity" field for each "Payment Item" field.”
 
 **F. Required**: Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in.
 

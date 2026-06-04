@@ -10,7 +10,7 @@ To learn how to add the Payment Item field to the Fluent Forms, follow the steps
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
+> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
 
 ![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/1.-Open-desired-form-4-scaled.webp)
 
@@ -112,13 +112,13 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **D. Layout**: Select the Layout for checkable items. 
 
-**E. Dynamic Default Value**: If you would like to pre-populate the value of a field, enter it here.
+**E. Dynamic Default Value**: If you would like to pre-populate the value of a field, enter it here. To learn more, read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
 
 **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/9.-Advanced-Options-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](https://fluentforms.com/wp-admin/post.php?post=48578&action=edit) field.
+Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
 
 > Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
 

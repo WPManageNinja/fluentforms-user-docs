@@ -1,6 +1,6 @@
 # Submission Reports
 
-The **Reports** **Submissions** tab provides a detailed look at the performance and status of your form entries. You can use this dashboard to track submission volume, monitor engagement through read rates, and identify trends over time.
+The **Reports** **Submissions** tab provides a detailed look at the performance and status of your form entries. You can use this dashboard to track submission volume, monitor engagement through read rates, and identify trends over time. For revenue and transaction analytics, see [Payment Reports](/docs/payment-reports).
 
 ## Accessing the Submission Reports
 
@@ -54,4 +54,4 @@ Use the dropdown menu at the top-right of the table to change the analysis type.
 
 ![](/images/managing-submissions/reports/submission-reports/submission-analysis-by-forms-03-scaled.webp)
 
-This dashboard offers powerful insights into how users interact with your forms.
+This dashboard offers powerful insights into how users interact with your forms. For per-field charts on a single form, see [Visual Representation of Form Entries](/docs/visual-representation-of-form-entries-in-fluent-forms).

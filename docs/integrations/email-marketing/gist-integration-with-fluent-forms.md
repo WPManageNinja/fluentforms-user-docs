@@ -1,6 +1,6 @@
 # Gist Integration with Fluent Forms
 
-**Fluent Forms** integrates with GetGist, an email marketing tool that helps you collect customer leads. This article will guide you through integrating **GetGist** with **Fluent Forms** on your **WordPress Site**.  
+**Fluent Forms** integrates with GetGist, an email marketing tool that helps you collect customer leads. This article will guide you through integrating **GetGist** with **Fluent Forms** on your **WordPress Site**. You can also follow the [Gist integration guide](/docs/how-to-integrate-gist-with-fluent-forms) for a video walkthrough.  
 
 > Remember, GetGist is a Premium Feature of the Fluent Forms Plugin. So, to integrate it, you need the Fluent Forms Pro plugin.
 
@@ -46,7 +46,7 @@ To learn how to integrate GetGist into any specific Form in Fluent Forms, follow
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your GetGist, and click the **Settings** button. 
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/gist-integration-with-fluent-forms/form-settings-06-scaled.webp)
 
@@ -64,7 +64,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 **D. Push IP Address:** Enable this option to send the submitter's last seen IP address to the Gist lead.
 
-**E. Conditional Logic:** If you want to allow **Insightly** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**E. Conditional Logic:** If you want to allow **Insightly** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **F. Status:** Enable this feed option to activate the integration.
 

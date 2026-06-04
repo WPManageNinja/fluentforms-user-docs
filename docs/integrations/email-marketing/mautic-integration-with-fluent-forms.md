@@ -91,7 +91,7 @@ To learn how to add the Mautic Integration feed in a specific form to list its e
 
 First, go to the **Forms** section from the **Fluent Forms Navbar**, and click the **Settings** button of your desired form where you want to add the feed.
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/14.-Desired-forms-Settings-scaled.webp)
 
@@ -113,7 +113,7 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** tab,
 
 **F. Push IP Address:** When this option is enabled, FluentForm will pass the ipAddress to Mautic.
 
-**G. Conditional Logics:**  This option allows Mautic integration to work conditionally based on your form submission values. To learn more about Fluent Forms Conditional logic [click here](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**G. Conditional Logics:**  This option allows Mautic integration to work conditionally based on your form submission values. To learn more, read the [Fluent Forms Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **H. Status**: Uncheck the **Enable This Feed** box if you want to save this **Mautic Feed** as Draft. Otherwise, enable this box to make this feed functional.
 

@@ -110,7 +110,7 @@ When the change is complete, click the **Save Feed** button, and the **PDF Feed*
 
 ## Downloading a Form Entry as a PDF
 
-Once you have customized the form and added the PDF Feed, go to the **Entries** section of the chosen form.
+Once you have customized the form and added the PDF Feed, go to the [**Entries**](/docs/managing-entries-in-fluent-forms) section of the chosen form.
 
 Now, select any submission entry you wish to work on and click the **View Icon** of that entry.
 
@@ -128,7 +128,7 @@ To automatically send form entries as PDFs in emails, navigate to **Email Notifi
 
 When a user submits the form, this PDF Feed will be sent to the **Admin Email**.
 
-If you want to know about email notifications, then read this[ article](/docs/how-to-setup-adminuser-email-notifications).
+To learn more, read [How to Setup Admin/User Email Notifications](/docs/how-to-setup-adminuser-email-notifications).
 
 ![](/images/modules/fluent-forms-pdf-module/11-scaled.webp)
 

@@ -50,7 +50,7 @@ To learn how to integrate Google Sheets into any specific Form in Fluent Forms, 
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Google Sheets,** and click the **Settings** button.
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/7.-Open-desired-Form-Settings-scaled.webp)
 

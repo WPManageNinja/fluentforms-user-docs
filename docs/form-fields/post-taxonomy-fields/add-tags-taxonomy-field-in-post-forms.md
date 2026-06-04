@@ -4,7 +4,7 @@
 
 > Remember, you will get this Taxonomy Fields Module only in a Post Form. You can also use your own Custom Taxonomy Fields. To learn how to add custom Taxonomy Fields, read this Documentation.
 
-This article will guide you through adding the **Tags Taxonomy Field** in your Fluent Forms for your WordPress Site. This **Tags** field will allow your users to write a Tag and submit their posts under the set tag directly in your WordPress Site Tag through the form.
+This article will guide you through adding the **Tags Taxonomy Field** in your Fluent Forms for your WordPress Site. This **Tags** field will allow your users to write a Tag and submit their posts under the set tag directly in your WordPress Site Tag through the form. To let users group posts by section instead, add the [Categories Taxonomy Field](/docs/add-categories-taxonomy-field-in-post-forms).
 
 ## Add Tags Field
 
@@ -12,7 +12,7 @@ To learn how to add the Tags field to the Post Forms in Fluent Forms, follow the
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> If you don’t have an existing Post Form, read this Documentation to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will only get the Tags field under the Post Forms.
+> If you don’t have an existing Post Form, read [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will only get the Tags field under the Post Forms.
 
 ![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/1.-Open-desired-Post-form-6-scaled.webp)
 
@@ -52,7 +52,7 @@ All the **Settings** under the **Tags** tab mentioned in the screenshot are brie
 
 All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
 
-**A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
+**A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read [Form Editor Smart Codes](/docs/form-editor-smart-codes). 
 
 **B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -62,7 +62,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **E. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 ![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/5.-Advanced-Options-9-scaled.webp)
 
@@ -70,7 +70,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
-> Click here to learn how to use other settings options to complete the Post Feed Configuration process.
+> Configure the **Post Feed** with all its settings options to complete the Post Feed Configuration process.
 
 ## Embed the Form into Frontend
 

@@ -14,7 +14,7 @@ To learn how to add the custom HTML field to the Fluent Forms, follow the steps 
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/edit-form-01-2-scaled.webp)
 
@@ -36,13 +36,13 @@ For example:
 
 `<p style="color:blue;">Welcome to our registration form!</p>`
 
-**B. Dynamic SmartCodes:** By using Smartcodes, the user can show data from any input. 
+**B. Dynamic SmartCodes:** By using [Smart Codes](/docs/form-editor-smart-codes), the user can show data from any input. 
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
 > Other ShortCodes will work in this field as well as.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **D. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper. This can be used to style the current element.
 

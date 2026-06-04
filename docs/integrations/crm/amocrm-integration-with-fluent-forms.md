@@ -4,7 +4,7 @@ AmoCRM is an email marketing tool designed to help you manage customer leads, ta
 
 This article will guide you through integrating **amoCRM** with **Fluent Forms** on your **WordPress Site**.  
 
-> Remember, amoCRM is a Premium Feature of the Fluent Forms Plugin. So, to integrate it, you need the Fluent Forms Pro plugin.
+> Remember, amoCRM is a Premium Feature of the Fluent Forms Plugin. So, to integrate it, you need to [upgrade to Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the amoCRM Integration
 
@@ -66,7 +66,7 @@ To learn how to integrate amoCRM into any specific Form in Fluent Forms, follow 
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your amoCRM and click the **Settings** button. 
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/integrations/crm/amocrm-integration-with-fluent-forms/Form-Setting-amoCRM-scaled.webp)
 
@@ -82,7 +82,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Click the **Dropdown Arrow** to add mapping values.
 
-**C. Conditional Logic:** If you want to allow amoCRM integration conditionally based on your submission values, then **Enable Conditional Logic** options. To know more about this conditional logic read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**C. Conditional Logic:** If you want to allow amoCRM integration conditionally based on your submission values, then **Enable Conditional Logic** options. To know more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **D. Status:** Enable this feed option to activate the integration.
 
@@ -98,7 +98,7 @@ You can modify your feed anytime by clicking the **Settings Icon** and delete it
 
 Here, you can see the preview of the added contacts of amoCRM through the Form entries that I set up during the integration.
 
-You can see four form submissions from the **Entries** section of this particular form.
+You can see four form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
 ![](/images/integrations/crm/amocrm-integration-with-fluent-forms/amocrm-preview-10-scaled.webp)
 

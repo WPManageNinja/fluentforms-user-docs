@@ -8,7 +8,7 @@ To learn how to add the Post Update field to the Post Forms in Fluent Forms, fol
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> If you don’t have an existing Post Form, read this Documentation to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will only get the Post Update field under the Post Forms.
+> If you don’t have an existing Post Form, read [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will only get the Post Update field under the Post Forms.
 
 ![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/1.-Open-desired-Post-form-4-scaled.webp)
 
@@ -42,7 +42,7 @@ All the **Settings** under the **Post Update** tab mentioned in the screenshot a
 
 **E. Filter Posts**: Here, you can select which Posts you want to show in your form. 
 
-**F. Extra Query Parameter**: Here, you can provide the **Post Query Parameter** for further filtering. To learn more details about the Extra Query Parameter, [click here](/docs/post-selection-module-in-fluent-forms).
+**F. Extra Query Parameter**: Here, you can provide the **Post Query Parameter** for further filtering. To learn more details about the Extra Query Parameter, see the [Post Selection Module in Fluent Forms](/docs/post-selection-module-in-fluent-forms).
 
 ![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/4.-Post-Update-option-scaled.webp)
 
@@ -52,7 +52,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
+**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read [Form Editor Smart Codes](/docs/form-editor-smart-codes). 
 
 **C. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
 
@@ -60,7 +60,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **E. Element Class**: Add custom CSS classes to the input field itself. This is used for adding Custom CSS/JS for a specific input field of a form.
 
-**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **G. Enable Searchable Smart Options**: If you enable this option, it will be searchable by the select2 js library.
 
@@ -74,7 +74,7 @@ Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post F
 
 First, go to **Settings & Integrations** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
 
-> If you don’t have an existing post feed, you can add a new one by clicking the + Add Post Feed button. To learn the details process of adding a new post feed, click here. For example, I used an existing Feed to show the process.
+> If you don’t have an existing post feed, you can add a new one by clicking the + Add Post Feed button. For example, I used an existing Feed to show the process.
 
 ![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/6.-Add-Post-Feed-scaled.webp)
 
@@ -82,7 +82,7 @@ Then, a pop-up page will appear with various settings options for configuring th
 
 **Remember**, here, you need to select **"Update Post"** as the **Submission Type** to access all existing posts from your WordPress Site and make the form functional. Otherwise, the **Post Update** field won’t appear in your **Post Form**.
 
-> Click here to learn how to use other settings options to complete the Post Feed Configuration process.
+> See the Post Feed configuration steps above to learn how to use the other settings options and complete the Post Feed Configuration process.
 
 Once the setup is done, click the **Save Feed** button and your **Post Feed** will be configured. Now, your Post Update will function successfully!
 

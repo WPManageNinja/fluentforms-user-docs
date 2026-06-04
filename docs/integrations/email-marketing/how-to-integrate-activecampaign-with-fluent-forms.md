@@ -57,7 +57,7 @@ To learn how to integrate ActiveCampaign into any specific Form in Fluent Forms,
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ActiveCampaign** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/6.-Desired-Form-Settings-scaled.webp)
 
@@ -90,7 +90,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 1. Enable Send the last broadcast campaign: Check this option, and ActiveCampaign will send the last campaign to the list or add the contact. This option is also not available to users on a free trial.
 
-1. Conditional Logics: This option allows ActiveCampaign integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows ActiveCampaign integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option to ensure this integration feed remains enabled, and all its actions function properly.
 

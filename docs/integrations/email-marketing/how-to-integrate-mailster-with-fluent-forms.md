@@ -22,7 +22,7 @@ Once the Mailster Integration module is enabled, you can integrate it with any d
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailster** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/email-marketing/how-to-integrate-mailster-with-fluent-forms/3.-Open-desired-form-Settings-scaled.webp)
 
@@ -46,7 +46,7 @@ Now, a page will appear with various settings options for configuring the Mailst
 
 1. Custom Fields: Using this option, you can also link the Fluent Forms fields with their respective Mailster custom fields. But, remember. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
 
-1. Conditional Logics: This option allows Mailster integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows Mailster integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

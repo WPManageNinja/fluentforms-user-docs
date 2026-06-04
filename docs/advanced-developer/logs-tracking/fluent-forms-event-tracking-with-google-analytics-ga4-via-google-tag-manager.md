@@ -4,7 +4,7 @@
 
 This document applies to the latest Google Analytics: GA4.
 
-> Notice: This method works for both classic and conversational forms.
+> Notice: This method works for both classic and [conversational forms](/docs/how-to-create-a-conversational-form).
 
 #### Overview
 
@@ -133,7 +133,7 @@ Again, go **to** **Tags** and select **Google Tag** as below:
 
 ![](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-1-scaled.png)
 
-Now, here you have to give **[Google Analytics 4 Measurement ID](https://fluentforms.com/?post_type=docs&p=56283#google-analytics-4-measurement-id)** and then configure the settings variable.
+Now, here you have to give **[Google Analytics 4 Measurement ID](#google-analytics-4-measurement-id)** and then configure the settings variable.
 
 ![](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/2-1-scaled.webp)
 
@@ -219,6 +219,6 @@ There is a super-advanced feature of Google Analytics 4 that we will explore for
 
 ![](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-debug-view-wpmn-107.png)
 
-That’s it. Now you will get events to Google Analytics for all the Fluent Forms on your website.
+That’s it. Now you will get events to Google Analytics for all the Fluent Forms on your website. To analyze conversions directly inside WordPress alongside GA4, see the [Submission Reports](/docs/submission-reports).
 
 Enjoy **Fluent Forms** as the most powerful form plugin for WordPress!

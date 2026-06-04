@@ -8,7 +8,7 @@ To learn how to design a conversational form, follow the steps with screenshots 
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the desired Conversational Form you want to design, and click the **Edit** option.
 
-> If you do not have any existing conversational form, read this Documentation to create a new one.
+> If you do not have any existing conversational form, read [How to Create a Conversational Form](/docs/how-to-create-a-conversational-form) to create a new one.
 
 ![](/images/creating-forms/conversational-forms/how-to-design-a-conversational-form/1.-Open-desired-form-Editor-scaled.webp)
 

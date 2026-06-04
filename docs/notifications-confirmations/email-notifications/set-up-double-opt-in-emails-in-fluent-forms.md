@@ -60,13 +60,13 @@ Also, you can enter the email body as you want.
 
 If you want to **Disable Double Opt-In for the logged-in-user** check the box.
 
-And if you want to **Disable Double Opt-in if the contact email is subscribed in FluentCRM**, check the box.
+And if you want to **Disable Double Opt-in if the contact email is subscribed in FluentCRM**, check the box. To connect your forms with the CRM, see the [FluentCRM Integration](/docs/fluentcrm-integration-with-fluent-forms) documentation.
 
 After all settings are set, click the **Save Settings** button.
 
 ![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/04-3-scaled.webp)
 
-After the user confirms their subscription from email the form confirmation will be displayed; see the example below where you can edit the **Confirmation Message**.
+After the user confirms their subscription from email the form confirmation will be displayed; see the example below where you can edit the [Confirmation Message](/docs/setup-form-submission-confirmation-message-in-fluent-forms).
 
 ![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/initial-message-02.webp)
 

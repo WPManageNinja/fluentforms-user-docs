@@ -56,7 +56,7 @@ To learn how to integrate Notion into any specific Form in Fluent Forms, follow 
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Notion,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/other-apps/how-to-integrate-notion-with-fluent-forms/8.-Open-desired-Form-Settings-scaled.webp)
 
@@ -72,7 +72,7 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 1. Notion Database: Using the Arrow Icon, you can select the Notion Database where you want to add your form submission information. You can also change this anytime if needed.Once you select the database, all the columns from your chosen Notion Database will appear here as fields (e.g., you can see the Email, Country, and Name fields). Now, use all the fields under this option to properly link your Notion Databases with the Form Fields. You can easily select the value for the form fields based on the Notion fields using the Shortcode Arrow.
 
-1. Conditional Logics: This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

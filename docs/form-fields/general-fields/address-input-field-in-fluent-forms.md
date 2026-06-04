@@ -4,7 +4,7 @@ The Address input field in[ Fluent Forms](https://fluentforms.com/) offers a sui
 
 This guide will walk you through adding and customizing the **Address Input Field** in Fluent Forms for your WordPress site.
 
-> You can autocomplete your address field using Google map integrations, see this documentation.
+> You can autocomplete your address field using Google Maps integration, see [How to Integrate Google Maps with Fluent Forms](/docs/how-to-integrate-google-maps-with-fluent-forms).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/qlYfmqCujKE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -16,7 +16,7 @@ To learn how to add the **Address** field to Fluent Forms, follow the steps belo
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/edit-form-01-8-scaled.webp)
 
@@ -56,7 +56,7 @@ You will find various settings options for customizing the field. Located in the
 
 - Default: There’s a text box where you can set a default value for the Address field, which would pre-populate the field when the form is loaded.
 
-A text box provides additional options or actions related to the default value. You can clear the field, use a dynamic value, or select another advanced setting by clicking and selecting the **Three Vertical Dots** menu on the right side.
+A text box provides additional options or actions related to the default value. You can clear the field, use a [dynamic value](/docs/dynamic-default-value-in-fluent-forms), or select another advanced setting by clicking and selecting the **Three Vertical Dots** menu on the right side.
 
 ![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/adrees-line1-06-scaled.webp)
 
@@ -76,7 +76,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this[ Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Advanced-options-08-1-scaled.webp)
 

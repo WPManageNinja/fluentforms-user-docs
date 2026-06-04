@@ -108,7 +108,7 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **Post/CP
 
 Now, turn on the Hubspot **Enabled** button**.**
 
-Now, select an existing **Post Form** from the Fluent Forms dashboard or create a new one. 
+Now, select an existing [**Post Form**](/docs/how-to-create-a-post-form-with-fluent-forms) from the Fluent Forms dashboard or create a new one. 
 
 ![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/create-post-form-10-scaled.webp)
 
@@ -160,7 +160,7 @@ Taxonomies (like tags or categories) and featured images will also map automatic
 
 In the **Advanced Fields** section, select the custom field from **Meta Box** in the dropdown on the left. Choose the corresponding **Form field** from the dropdown on the right.
 
-**F. Enable Conditional Logic:** If you want to allow **MetaBox Post** conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more about this conditional logic, read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**F. Enable Conditional Logic:** If you want to allow **MetaBox Post** conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more about this conditional logic, read the [Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms) guide.
 
 Once all done, click the **Save Feed** button.
 

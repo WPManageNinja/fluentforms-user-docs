@@ -1,6 +1,6 @@
 # Fluent Forms Styling/Custom CSS
 
-Fluent Forms lets you easily style your forms using custom CSS and JavaScript. Whether it’s adjusting buttons, fonts, or input fields, you have full control over how your forms look and behave.
+Fluent Forms lets you easily style your forms using custom CSS and JavaScript. Whether it’s adjusting buttons, fonts, or input fields, you have full control over how your forms look and behave. If you prefer a no-code approach, try the visual [Form Styler](/docs/official-form-styler-of-fluent-forms) instead.
 
 In this guide, you’ll learn how to apply custom CSS and JavaScript to your Fluent Forms.
 
@@ -87,7 +87,7 @@ form.fluent_form_149 .ff-el-input--label{
     box-shadow: 0 0 0 3px rgba(255, 0, 129, 0.25);
 }`
 
-**Step Button and Rating:** Redesign multi-step navigation buttons and rating stars.
+**Step Button and Rating:** Redesign [multi-step](/docs/creating-a-multi-step-form-in-fluent-forms) navigation buttons and [rating stars](/docs/ratings-input-field-in-fluent-forms).
 
 `/ *Change Rating Star Color* /
 form.fluent_form_149 .ff-el-ratings label.active svg {

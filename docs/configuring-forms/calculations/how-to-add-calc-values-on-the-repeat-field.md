@@ -1,6 +1,6 @@
 # How to add Calc Values on the Repeat Field
 
-Fluent Form offers a feature that allows you to add calculations to Repeat Fields, making it easy to perform math automatically inside forms. 
+Fluent Form offers a feature that allows you to add [calculations](/docs/numeric-calculation-in-fluent-forms) to Repeat Fields, making it easy to perform math automatically inside forms. 
 
 This article will provide a step-by-step guide on how you can add calc values to the repeat field with fluent Form.
 
@@ -32,7 +32,7 @@ Also you can add **Calculation Values** for each column based on your requiremen
 
 After that, you can add the Calculate the Total Number of Repeat Fields. Add a new numeric field to calculate the total number of repeat rows. Use {repeat.repeater_field} as the **Calculation Expression** for this total.
 
-If you want to know more about **Repeat Field** then read this [article](/docs/repeat-input-field-in-fluent-forms).
+If you want to know more about **Repeat Field** then read the [Repeat Field](/docs/repeat-input-field-in-fluent-forms) documentation.
 
 After that, click the **Save Form** button. Preview and test it by filling it out.
 

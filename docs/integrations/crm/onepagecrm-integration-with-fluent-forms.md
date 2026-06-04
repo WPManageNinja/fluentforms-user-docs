@@ -2,7 +2,7 @@
 
 Integrating OnePageCRM with Fluent Forms helps automate your business growth by managing leads and customer actions smoothly. This article guides you through integrating OnepageCRM with Fluent Forms on your WordPress SIte.
 
-> Remember, OnePageCRM is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> Remember, OnePageCRM is the Premium Feature of the Fluent Forms Plugin. So, you need to [upgrade to Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on) to integrate this.
 
 ## Enable the OnePageCRM Integration
 
@@ -56,7 +56,7 @@ To learn how to integrate OnePageCRM into any specific Form in Fluent Forms, fol
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your OnePageCRM and click the **Settings** button. 
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/integrations/crm/onepagecrm-integration-with-fluent-forms/Form-Setting-08-scaled.webp)
 
@@ -72,7 +72,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Click the **Dropdown Arrow** to add mapping values.
 
-**C. Conditional Logic:** If you want to allow **OnePageCrm** integration conditionally based on your  submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the[ article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**C. Conditional Logic:** If you want to allow **OnePageCrm** integration conditionally based on your  submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **D. Status:** Enable this feed option to activate the integration.
 
@@ -90,7 +90,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 Here, you can see a preview of the added OnePageCrm contacts through the Form entries that I set up during the integration.
 
-You can see these form submissions from the **Entries** section of this particular form.
+You can see these form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
 ![](/images/integrations/crm/onepagecrm-integration-with-fluent-forms/Entries-of-onepagecrm-12-scaled.webp)
 

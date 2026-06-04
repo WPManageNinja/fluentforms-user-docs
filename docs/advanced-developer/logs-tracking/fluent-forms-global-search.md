@@ -10,7 +10,7 @@ First, to access this feature, simply go to the **Fluent Forms** plugin from the
 
 Once you are on the **Fluent Forms Dashboard**, you will find the Global Search option in the top right corner as shown in the screenshot below.
 
-You will find this search bar under any section (e.g., Forms, Entries, Payments, etc.) or feature in Fluent Forms, allowing you to search for relevant and necessary items. 
+You will find this search bar under any section (e.g., Forms, [Entries](/docs/managing-entries-in-fluent-forms), Payments, etc.) or feature in Fluent Forms, allowing you to search for relevant and necessary items. 
 
 ![](/images/advanced-developer/logs-tracking/fluent-forms-global-search/1.-Global-Search-option-scaled.webp)
 

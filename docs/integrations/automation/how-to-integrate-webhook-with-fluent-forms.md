@@ -18,7 +18,7 @@ To learn how to integrate Webhook into any specific Form in Fluent Forms, follow
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Webhook** and click the **Settings** button.
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
 
 ![](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/2.-Open-desired-Form-Settings-2-scaled.webp)
 
@@ -42,7 +42,7 @@ Now, a pop-up page will appear with various settings options for configuring Web
 
 1. Request Body: Select body if you want to send any specific body text with the webhook request, otherwise, all fields will be sent.
 
-1. Conditional Logics: This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+1. Conditional Logics: This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 Once the setup is done, click the **Save Feed** button, and your Webhook will be integrated into this specific form!
 

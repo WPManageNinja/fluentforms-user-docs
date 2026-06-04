@@ -62,13 +62,13 @@ To learn how to add the **Coupon Field** in a specific form, follow the steps wi
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
+> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
 
 ![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/5.-Open-desired-form-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Coupon** field.
 
-> If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it. Also, don’t forget to add the Payment Method field to collect the payments. Plus to collect the recurring payments, you can add the Subscription field. Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
+> If you don’t have the Payment Fields Module enabled in your Fluent Forms, enable it from the Global Settings as shown above. Also, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field. Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
 
 ![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/6.-Add-Coupon-field-scaled.webp)
 

@@ -24,7 +24,7 @@ Now, a pop-up will appear with three options. Click the **Create Conversational 
 
 Now you are on the **Editor** page of your newly created conversational form. Here you can see four fields are already added that you can customize. Also, you can add other fields according to your needs. 
 
-> Container Fields are not supported in Conversational forms
+> [Container Fields](/docs/add-container-fields-in-fluent-forms) are not supported in Conversational forms
 
 To customize an added field, **hover over it** and the customization options will appear. These are:
 
@@ -49,6 +49,8 @@ Click the **Preview & Design** button in the middle to see a preview of your for
 ![](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/4.-Save-Form-button-scaled.webp)
 
 ## Preview of Form
+
+Once your form is ready, learn how to style it in [How to Design a Conversational Form](/docs/how-to-design-a-conversational-form).
 
 Here is the preview of the newly created conversational form.
 

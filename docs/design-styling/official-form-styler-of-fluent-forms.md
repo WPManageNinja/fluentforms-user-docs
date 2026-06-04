@@ -1,8 +1,8 @@
 # Official Form Styler of Fluent Forms
 
-Fluent Forms is designed to look great & fit with any WordPress theme. With the built-in **Form Styler**, you can easily create a custom design that perfectly matches your site's branding without coding knowledge.
+Fluent Forms is designed to look great & fit with any WordPress theme. With the built-in **Form Styler**, you can easily create a custom design that perfectly matches your site's branding without coding knowledge. If you need finer control, you can also apply your own [custom CSS](/docs/fluent-forms-stylingcustom-css).
 
-> Form Styler is a Pro feature. To use it, make sure you have Fluent Forms Pro.
+> Form Styler is a Pro feature. To use it, make sure you have [Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 This guide walks you through how to **design, style,** and **customize** your forms visually in Fluent Forms.
 
@@ -58,7 +58,7 @@ These customizations can be applied to both the **Normal** state and the **Hover
 
 **Submit Button Style:** Fluent Forms sets the default Submit button color to a vibrant dodger blue. However, you’re not restricted to this; you can easily customize the Submit button to suit your preferences and match your website's design.
 
-The styling options for the **Submit button** are the same as those for the **Next** and **Previous** buttons in multi-page forms. 
+The styling options for the **Submit button** are the same as those for the **Next** and **Previous** buttons in [multi-page forms](/docs/creating-a-multi-step-form-in-fluent-forms). 
 
 You can personalize the button’s background color, text color, typography, border options, and even add box shadows. 
 

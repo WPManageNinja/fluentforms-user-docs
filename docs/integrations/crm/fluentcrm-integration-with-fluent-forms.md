@@ -2,7 +2,7 @@
 
 [FluentCRM](https://fluentcrm.com/) is a popular self-hosted CRM plugin for WordPress, designed to help small businesses manage their subscribers effectively. By integrating FluentCRM with Fluent Forms, you can seamlessly grow your subscriber list through form submissions.
 
-This guide will walk you through integrating FluentCRM with Fluent Forms on your WordPress site.
+This guide will walk you through integrating FluentCRM with Fluent Forms on your WordPress site. You can also [pre-fill form fields with FluentCRM data](/docs/pre-fill-form-fields-with-fluentcrm-data) for logged-in contacts.
 
 > Ensure both Fluent Forms and FluentCRM plugins are installed and activated. No additional settings are needed to integrate them.
 
@@ -22,7 +22,7 @@ To learn how to integrate FluentCRM into any specific Form in Fluent Forms, foll
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your FluentCRM and click the **Settings** button. 
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
 
 ![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Form-Settings-02-scaled.webp)
 
@@ -50,11 +50,11 @@ Once you select FluentCRM integration, you will need to configure the following-
 
 - Skip name update if existing contact has old data: If you want to retain existing contact names even if new data is submitted then check the checkboxes of skip name update if existing contact have old data (per primary) options.
 
-- Enable Double Opt-In for a new Contact: Enable this option to send a double opt-in email for new contacts.
+- Enable Double Opt-In for a new Contact: Enable this option to send a [double opt-in email](/docs/set-up-double-opt-in-emails-in-fluent-forms) for new contacts.
 
 - Enable Force subscribe if contact is not in subscribed status: Check the checkboxes to enable this to subscribe existing contacts that are not already subscribed.
 
-**F. Conditional logic:** If you want to allow FluentCRM integration conditionally based on your submission values then **Enable Conditional Logic** options. To know more about this conditional logic read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**F. Conditional logic:** If you want to allow FluentCRM integration conditionally based on your submission values then **Enable Conditional Logic** options. To know more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **G. Remove Contact Tags:** If you want to remove a contact's tags in FluentCRM, select the desired tags from the dropdown list.
 
@@ -146,7 +146,7 @@ Note: The settings options of this New Form Submission (Fluent Form) trigger wor
 
 ### Preview of Integrated FluentCRM
 
-Once the integration is complete, you can preview the contacts added to **FluentCRM** from form entries. These will be visible in the **Entries** section of the form.
+Once the integration is complete, you can preview the contacts added to **FluentCRM** from form entries. These will be visible in the **Entries** section of the form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
 ![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/entries-form-07-scaled.webp)
 

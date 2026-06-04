@@ -34,7 +34,7 @@ Here, **Paste** the **API Token** that was copied before from ClearOut.
 
 Ensure that you choose **Fluent Forms** as the select form option. Click the **Apply** button to save the changes.
 
-This connection ensures all email fields in Fluent Forms are automatically validated by ClearOut's service.
+This connection ensures all [Email Address fields](/docs/email-address-input-field-in-fluent-forms) in Fluent Forms are automatically validated by ClearOut's service.
 
 ![](/images/integrations/other-apps/email-validation-with-clearout/enable-fluent-form-05-scaled.webp)
 
