@@ -37,9 +37,7 @@ Once added, you can customize the field. **Hover over the field** and click the 
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Simple Text** field.
 
-**All the Settings under the Simple Text Field mentioned above are briefly explained below –** 
-
-**A. Element Label:**This is the field title the users will see when filling out the **Simple Text** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** This is the field title the users will see when filling out the **Simple Text** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
 
@@ -55,7 +53,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value,[ read this article.](/docs/dynamic-default-value-in-fluent-forms)
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value,read this [article.](/docs/dynamic-default-value-in-fluent-forms)
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 
@@ -73,7 +71,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **I. Max Text Length:** You can set the maximum number of characters that the input field can accept. This is ideal for limiting responses like postal codes or short codes.
 
-**Validate as Unique:** Ensure the input value is unique among all submissions. If not unique, users will receive an error message. 
+   **Validate as Unique:** Ensure the input value is unique among all submissions. If not unique, users will receive an error message. 
 
 **J. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this[ Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
