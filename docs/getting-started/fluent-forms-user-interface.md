@@ -64,9 +64,6 @@ The Form Builder allows you to create and customize forms using a drag-and-drop 
 * **Preview:** Click the Preview button to see how your form will look on the front end.
 * **Save Form:** After making changes, click the Save Form button to save your form to your website.
 
-> [!Note]
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms in Fluent Forms](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
-
 ![Form Builder](/images/getting-started/fluent-forms-user-interface/Form-builder-scaled.webp)
 
 ## Form Template

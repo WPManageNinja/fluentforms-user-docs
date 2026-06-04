@@ -84,8 +84,6 @@ You can also **Disconnect** Hubspot API here by clicking the **Disconnect Hubspo
 
 After setting up the Access Token, go to **All Forms** and select the form you want to integrate with the HubSpot account or create a new One.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
 ![](/images/integrations/crm/hubspot-integration-with-fluent-forms/Forms-Fluent-settings-y-scaled.webp)
 
 Now, go to the particular form’s settings for the entries you want listed in **HubSpot**. Click on **Add New Integration** and select **HubSpot Integration** from the dropdown options.

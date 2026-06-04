@@ -36,8 +36,6 @@ To learn how to integrate BuddyBoss into any specific Form in Fluent Forms, foll
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
-
 ![](/images/integrations/other-apps/how-to-integrate-buddyboss-with-fluent-forms/4.-open-desired-forms-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **User Registration or Update Integration** feed from the dropdown list. 

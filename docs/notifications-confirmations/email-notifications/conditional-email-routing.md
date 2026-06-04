@@ -10,8 +10,6 @@ To learn how to configure conditional email routing, follow the steps below –
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditions.
 
-> If you do not have any existing forms, read the [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
-
 ![](/images/notifications-confirmations/email-notifications/conditional-email-routing/1.-desired-Form-Editor-2-scaled.webp)
 
 Now, go to **Settings & Integrations** from the top navbar and open the **Email Notifications** tab. 

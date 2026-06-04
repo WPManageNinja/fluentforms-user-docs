@@ -10,7 +10,7 @@ To learn how to add the Payment Summary field to the Fluent Forms, follow the st
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
+> For example, I choose an existing form to show the whole process.
 
 ![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/1.-Open-desired-form-3-scaled.webp)
 

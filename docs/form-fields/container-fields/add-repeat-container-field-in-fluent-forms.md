@@ -14,10 +14,6 @@ To learn how to add the Repeat Container field to the Fluent Forms, follow the s
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose the desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
-
-> 
-
 ![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/edit-form-1-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the [Container](/docs/add-container-fields-in-fluent-forms) input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 

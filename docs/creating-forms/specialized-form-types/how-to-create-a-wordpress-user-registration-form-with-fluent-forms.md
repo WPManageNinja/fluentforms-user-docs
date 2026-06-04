@@ -18,8 +18,6 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Use
 
 Once you enable the user registration form, now create a registration form.  Go to the **Fluent Forms Dashboard** and **Create a new form**.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
-
 Now, we recommend to add the following fields to the form:
 
 **[Email](/docs/email-address-input-field-in-fluent-forms)**: Required for user registration.

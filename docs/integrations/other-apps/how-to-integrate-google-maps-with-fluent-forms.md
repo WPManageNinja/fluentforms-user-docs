@@ -80,7 +80,7 @@ To learn how to integrate Google Maps into any specific Form in Fluent Forms, fo
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** a **Form** that has an **Address** field where you want to integrate your **Google Maps,** and click the **Editor** button.
 
-> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one. Also, to learn more detail about the process of adding and customizing the Address field, read the Address field documentation linked above.
+> Also, to learn more detail about the process of adding and customizing the Address field, read the Address field documentation linked above.
 
 ![](/images/integrations/other-apps/how-to-integrate-google-maps-with-fluent-forms/13.-Open-desired-form-Editor-scaled.webp)
 

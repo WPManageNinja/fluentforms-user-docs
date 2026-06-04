@@ -44,8 +44,6 @@ To enable PDF export for a specific form, follow these steps-
 
 Open the form where you want to allow **PDF Export**. Navigate to the **Settings & Integrations** tab.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
-
 Now click on **PDF Feeds** from the left sidebar. Then click the **Add PDF Feed** button.
 
 ![](/images/modules/fluent-forms-pdf-module/enable-PDF-Settings-06-1-scaled.webp)

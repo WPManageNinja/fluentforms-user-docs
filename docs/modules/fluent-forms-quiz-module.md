@@ -16,8 +16,6 @@ First, go to **the Fluent Forms** dashboard **Integration** sections from the to
 
 Now, create a new form or edit an existing one. Add relevant fields such as **Radio**, **Checkbox**, **Multi-select**, or **Dropdown** fields.
 
-> If you do not have any existing forms, read  Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
-
 ![](/images/modules/fluent-forms-quiz-module/edit-form-01-2-scaled-2.webp)
 
 ## Quiz Score Field

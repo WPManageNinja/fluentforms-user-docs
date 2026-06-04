@@ -16,8 +16,6 @@ To learn how to set conditional confirmation message, follow the steps below –
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditional confirmation message.
 
-> If you do not have any existing forms, read  [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
-
 Once inside the form editor, click on **Settings & Integrations** tab for the selected form. Now from the left sidebar, select **Conditional Confirmation** under the **Settings** section.
 
 ![](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/Confirmation-Settings-01-scaled.webp)

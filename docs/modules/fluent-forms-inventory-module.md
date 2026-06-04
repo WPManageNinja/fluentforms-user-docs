@@ -32,8 +32,6 @@ Once the module is enabled, you can create a new form or edit an existing one to
 
 You can use a [Checkbox Field](/docs/checkbox-field-in-fluent-forms) to demonstrate Inventory Management.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
-
 ![](/images/modules/fluent-forms-inventory-module/inventory-02-scaled.webp)
 
 ## Configuring Inventory Settings

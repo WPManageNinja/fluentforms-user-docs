@@ -8,8 +8,6 @@ To learn how to create Payment Forms with Fluent Forms, follow the steps with th
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing form, refer to the articles below, to learn how to Create a Form from Scratch or Create a Form using Templates.
-
 For example, I chose an existing form to show the whole process.
 
 ![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/1.-Open-desired-form-Editor-1-scaled.webp)

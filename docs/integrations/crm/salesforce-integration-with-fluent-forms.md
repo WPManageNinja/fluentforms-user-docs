@@ -94,8 +94,6 @@ To learn how to integrate Salesforce into any specific Form in Fluent Forms, fol
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **Salesforce** and click the **Settings** button. 
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
 ![](/images/integrations/crm/salesforce-integration-with-fluent-forms/Form-settings-13-scaled.webp)
 
 Once on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Salesforce Integration** feed from the dropdown list. 

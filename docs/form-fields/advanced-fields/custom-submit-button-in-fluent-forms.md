@@ -14,8 +14,6 @@ To learn how to add the **Custom Submit Button** field to Fluent Forms, follow t
 
 First, look for the **Forms** section in the Fluent Forms menu. Then, choose the form you want to work on and click the **Edit Icon** to get to the page where you can change it.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
-
 ![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/form-editor-01-2-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 

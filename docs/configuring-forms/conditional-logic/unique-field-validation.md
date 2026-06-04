@@ -8,8 +8,6 @@ This documentation will walk you through how to set the unique field validation 
 
 Go to **Forms** from the top navbar, and click the **Edit** button to open the **Editor** page of your **desired form**. 
 
-“If you do not have any existing forms, read  [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.” 
-
 Now click **Advanced Options** from the **Input Customization** options. Scroll down and enable the **Validate as Unique** option. This field also works for the[ Simple Text Input Field](/docs/adding-a-simple-text-input-field).
 
 ![](/images/configuring-forms/conditional-logic/unique-field-validation/unique-validation-form-scaled.webp)

@@ -42,8 +42,6 @@ If the Reply to the field is empty, the email sent by your domain's SMTP will wo
 
 First, go to **Forms** from the top navbar. Create a new form or existing form. 
 
-“If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.”
-
 For example, a contact form has been used here.
 
 ![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/contact-form-scaled.webp)

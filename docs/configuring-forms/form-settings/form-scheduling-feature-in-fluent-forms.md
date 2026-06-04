@@ -12,8 +12,6 @@ First, go to **Forms** from the top navbar, and **open** the **Editor** page of 
 
 Now, click the **Settings & Integrations** tab at the top bar and stay in the **Settings** section. Scroll down to the **Scheduling and Restrictions** segment under the Settings section. This same segment also holds the [form restrictions](/docs/form-restrictions-feature-in-fluent-forms) options.
 
-“If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.” 
-
 ![](/images/configuring-forms/form-settings/form-scheduling-feature-in-fluent-forms/01-2-scaled-2.webp)
 
 ### Form Schedule
