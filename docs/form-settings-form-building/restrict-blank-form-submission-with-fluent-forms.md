@@ -24,7 +24,7 @@ Now, find the **Empty Submission Blocking** section and enable the option **Deny
 
 After that, define the message users will see when submitting a blank form.
 
-For example: "Your form submission is incomplete. Please fill out all required fields." This message ensures users understand why their submission was blocked.
+**For example:** "Your form submission is incomplete. Please fill out all required fields." This message ensures users understand why their submission was blocked.
 
 Once you have completed customizing the form, click the **Save Settings** button to finalize and apply the configuration.
 
