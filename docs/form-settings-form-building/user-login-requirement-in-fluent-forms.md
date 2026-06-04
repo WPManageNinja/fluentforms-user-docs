@@ -10,7 +10,7 @@ The User Login Requirement feature in Fluent Forms ensures that only logged-in o
 
 First, go to **Forms** from the Fluent Forms navbar and select the **Desired Form** for which form you want to add user login requirements features.
 
-![](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-login-form-01-scaled.webp)
+![Select form](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-login-form-01-scaled.webp)
 
 ### Enable the User login Requirement
 
@@ -18,7 +18,7 @@ Now, navigate to the **Settings & Integrations** tab of the form to which you wa
 
 After that, in the **Login Requirement Settings**, Toggle on **Require user to be logged** **in** button to enable the **Login Requirement Settings** options.
 
-![](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-login-reqiurement-02-scaled.webp)
+![Login requirement toggle](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-login-reqiurement-02-scaled.webp)
 
 ### Customize the message of the logged-out user
 
@@ -28,6 +28,6 @@ This message will guide users in logging in or signing up for an account.
 
 After completing your customization, click **Save Settings** to apply the changes.
 
-![](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-loggin-message-03-scaled.webp)
+![Logged-out user message](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-loggin-message-03-scaled.webp)
 
 By enabling the User Login Requirement, you can secure and targeted access to your forms, providing a better user experience who can submit form entries.
