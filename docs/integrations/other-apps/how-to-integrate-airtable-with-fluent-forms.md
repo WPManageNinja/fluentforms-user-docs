@@ -1,0 +1,131 @@
+# How to Integrate Airtable with Fluent Forms
+
+**Fluent Forms** integrates with [Airtable](http://airtable.com), a cloud-based platform for creating and sharing relational databases to help organize and collaborate on various information about anything, like employee directories, product inventories, and even apartment hunting.
+
+This article will guide you through integrating **Airtable** with **Fluent Forms** on your **WordPress Site**.
+
+> Remember, Airtable is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+
+## Enabling Airtable Integration
+
+To learn how to enable Airtable integration, follow the steps with the screenshots below – 
+
+First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Airtable** through the search bar, and get the **Airtable** integration module.
+
+Now, turn on the **Toggle** to enable the **Airtable** module, and click the **Settings Icon** on the right side. 
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/1.-Enabled-Airtable-module-scaled.webp)
+
+Once you enable Airtable, you will be asked for the **Airtable Access Token** of your **Airtable Account**.
+
+> Follow the steps given in the note at the beginning to integrate the Airtable successfully.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/2.-Airtable-Settings-page-scaled.webp)
+
+### Getting the Airtable Access Token
+
+To learn how to get the  **Airtable Access Token**, follow the steps with screenshots below –
+
+First, log in to your [Airtable Account](https://airtable.com/login), go to the **Profile** **Menu** from the top right corner, and click the **Builder Hub** button. 
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/3.-Profile-Builder-Hub-option-scaled.webp)
+
+Now, open the **Personal Access tokens** under the **Developers** tab and click the **+Create new token** button.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/4.-Create-New-Token-scaled-2.webp)
+
+Now, provide a **Name** for your token. Then, add the following **Scopes** by clicking the **+ Add a scope** button.
+
+- Data.records:read
+
+- Data.records:write
+
+- schema.bases:read)
+
+Also, select the workspace where you want to add from the **Access** section by clicking the **+ Add a base** button. Once you are done, click the **Create token** button.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/5.-Name-scope-base-Create-Token-button.webp)
+
+Now, a pop-up will come with your access token. Simply, copy it from here.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/6.-Copy-Token.webp)
+
+## Connecting Airtable with Fluent Forms
+
+Return to the **Airtable Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+
+Paste the **Token** you copied from **Airtable** into the **Airtable Access Token** field.
+Finally, press the **Save Setting**s button to make your **Airtable Integration** module functional. 
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/7.-Paste-Access-Token-scaled.webp)
+
+You can see your Airtable is connected to your **Fluent Forms** successfully!
+
+Now, you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect Airtable** button.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/8.-Verify-or-Disconnect-button-scaled-3.webp)
+
+## Integrating Airtable with Forms
+
+To learn how to integrate Airtable into any specific Form in Fluent Forms, follow the steps with the screenshots below –
+
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Airtable,** and click the **Settings** button. 
+
+> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/9.-Open-desired-Form-Settings-scaled.webp)
+
+Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Airtable Integration** feed from the dropdown list. 
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/10.-Add-New-Integration-button-scaled-2.webp)
+
+Here, you will find a required field to set a **Feed** **Name** for your integration feed according to your preference.
+
+Also, you must select the **Workspace** and **Table** under **Airtable Configuration** from the dropdown where you want to send the submitted form data.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/11.-Select-Table-scaled.webp)
+
+Once you select the desired table, a pop-up page will appear with various settings options for configuring the Airtable.  
+
+**All the settings options mentioned in the screenshot below are briefly explained:**
+
+1. Name: Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
+
+1. Airtable Configuration: Using the Arrow Icon, you can select the Airtable Mailing List where you want to add your contacts. You can also change this anytime if needed
+
+1. Airtable Table Dropdown: Use all the fields under this option to properly link your Airtable Fields with the Form Fields. You can easily select the value for the form fields based on the Airtable fields using the Shortcode Arrow.
+
+1. Enable Instant Responder: Check this option, and Airtable will send any instant responders set up when the contact is added to the list. This option is not available to users on a free trial.
+
+1. Conditional Logics: This option allows Airtable integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+
+1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
+
+Once the setup is done, click the **Save Feed** button, and your Airtable will be integrated into this specific form!
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/12.-Save-Feed-button-scaled-3.webp)
+
+After successful Integration, you will now see that your **Airtable Integration Feed** has been added here. 
+
+You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. 
+Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/13.-Added-Airtable-Integration-Feed-scaled.webp)
+
+## Preview of Integrated Airtable
+
+Here, you can see the preview of the added Airtable Contacts through the Form Entries based on the Integration.
+
+For example, you can see four new **Form Submissions** under the **Entries** tab on this particular form.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/14.-Entries-tab-scaled.webp)
+
+Now, go to the Airtable **All Workspaces** section from the left sidebar and open the **Desired Workspace** you integrated into **Fluent Forms**.
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/15.-Desired-worspace-scaled.webp)
+
+Here, you can see that the **users who submitted forms** in **Fluent Forms** are also automatically added to the selected **Airtable Table**. 
+
+![](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/16.-Preview-of-added-contacts-scaled.webp)
+
+This way, you can easily integrate Airtable with Fluent Forms!
