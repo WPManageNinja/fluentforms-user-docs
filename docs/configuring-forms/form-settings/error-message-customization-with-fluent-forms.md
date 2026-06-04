@@ -1,6 +1,6 @@
 # Error Message Customization with Fluent Forms
 
-Error messages in Fluent Forms help users fix mistakes when filling out a form. You can set a **global error message** for general issues. If a field has its own custom message, it will show that message first. This makes it easier for users to understand what to fix.
+Error messages in [Fluent Forms](https://wordpress.org/plugins/fluentform/) help users fix mistakes when filling out a form. You can set a **global error message** for general issues. If a field has its own custom message, it will show that message first. This makes it easier for users to understand what to fix.
 
 This guide will show you how to customize your error message easily with Fluent Forms.
 
@@ -8,78 +8,58 @@ This guide will show you how to customize your error message easily with Fluent 
   <iframe src="https://www.youtube.com/embed/3N0DMrth1NA" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-## Configure Error Messages for a Specific Field
+### Configure error messages for a field
 
-To learn how you can configure error message and customize it to any specific Form in Fluent Forms, follow the steps with the screenshots below –
+Go to **Forms** from the Fluent Forms navbar and select the form where you want to configure error messages.
 
-First, go to **Forms** from the Fluent Forms Navbar and select the **Desired Form** for which you want to configure the error message.
+![Fluent Forms form list](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/edit-form-01-6-scaled.webp)
 
-![](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/edit-form-01-6-scaled.webp)
+Navigate to the **Input Customization** tab for the field where you want to display an **error message**.
 
-Now, navigate to the **Input Customization** tab for the field where you want to display **Error Message.** 
+Ensure **Yes** is selected for **Required**. If **No** is selected, the field will not show a validation error. With **Yes** selected, the default **global error message** applies.
 
-Next, ensure that **Yes** is selected for the **Required** option. If **No** is selected, the field will not display an error message. Here, show the default **Global Error Message**.
+![Global error message](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/global-error-message-01-scaled.webp)
 
-![](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/global-error-message-01-scaled.webp)
+To use a custom message for this field only, turn off **Global Error Message**. Enter your text in **Custom Error Message**, then click **Save Form**.
 
-If you want to customize the error message, click the **Radio** button to turn off the **Global Error Message** options. Here, you will see the **Custom Error Message**. Now, you can customize your form field error message as you want.
+![Custom error message](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/custom-error-message-02-scaled.webp)
 
-Then, enter the text or instructions you want to display as the **Error Message**.
+### Global error message settings
 
-After that, click the **Save Form** button to apply the changes.
+Manage validation messages site-wide from **Global Settings**. Open **General Settings**, scroll to **Layout**, then find **Validation Messages**.
 
-![](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/custom-error-message-02-scaled.webp)
+#### Validation messages
 
-### Global Error Message Settings
+These messages appear when something goes wrong while filling out a form. The global error message is used if a field has no custom message. Use **{labels.current_field}** to insert the field label automatically.
 
-You can manage error messages from the Global Settings menu. First, go to the top menu and click **Global Settings**. Under **General Settings**, find the **Layout** section. Scroll down to see the **Validation Messages** option. Here, you can set your global error messages as needed.
+* **Required Field:** Shown when a required field is left empty.
+* **Email:** Appears if the email address format is incorrect.
+* **Numeric:** Shown when a number is required but the input is not valid.
+* **Minimum:** Appears if the value entered is too low.
+* **Maximum:** Appears if the value entered is too high.
+* **Digits:** Shown when the number includes more digits than allowed.
+* **URL:** Shown when the website link format is not valid.
+* **Allowed Image Types:** Appears if the uploaded image is not in an accepted format.
+* **Allowed File Types:** Shown when the uploaded file is not in the allowed format.
+* **Maximum File Size:** Appears if the uploaded file is too large.
+* **Maximum File Count:** Shown when too many files are uploaded.
+* **Valid Phone Number:** Shown when the phone number format is incorrect.
 
-#### Validation Messages
+![Validation messages settings](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/global-error-message-scaled.webp)
 
-These messages appear when something goes wrong while filling out a form. The global error message will be used if a custom message is not set for a field. You can use the tag **{labels.current_field}** to automatically insert the field label into your messages.
+#### Error message position
 
-**A. Required Field**: Shown when a required field is left empty.
+Error messages can be shown in different places on the form. Go to **Settings & Integrations → Form Layout** (under **Settings**), then choose a position:
 
-**B. Email**: Appears if the email address format is incorrect.
+* **Below Input Fields:** Shows the error directly below the blank or invalid field.
+* **Stacked after Form:** Lists all validation errors below the form after submit.
 
-**C. Numeric**: Shown when a number is needed, but the input isn't valid.
+Click **Save Settings** when finished.
 
-**D. Minimum**: This appears if the value entered is too low.
+![Error message position](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/error-message-position-03-scaled.webp)
 
-**E. Maximum**: This appears if the value entered is too high.
+Here is a front-end **preview** of how error messages appear to visitors.
 
-**F. Digits**: Shown when the number includes more digits than allowed.
+![Error message preview](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/error-message-preview-04-1024x505.webp)
 
-**G. URL**: Shown when the website link format is not valid.
-
-**H. Allowed Image Types**: This appears if the uploaded image is not in an accepted format.
-
-**I. Allowed File Types**: Shown when the uploaded file is not in the allowed format.
-
-**J. Maximum File Size**: This appears if the uploaded file is too large.
-
-**K. Maximum File Count**: Shown when too many files are uploaded.
-
-**L. Valid Phone Number**: Shown when the phone number format is incorrect.
-
-![](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/global-error-message-scaled.webp)
-
-### Customization of the Error Message position
-
-You can be positioned and presented with your **Error Message** in different ways. To do this, navigate the **Settings & Integrations** tab and click the **Form Layout** from the left sidebar under the **Settings** section. 
-
-Now, you can choose the Error Message position you want. 
-
-- Below Input Fields: Displays the error message directly below the blank or invalid input field.
-
-- Stacked after Form: Choosing Stacked after Form will present a list of all the required fields that have yet to be filled below the form.
-
-Once you’ve chosen your preferred placement, click **Save Settings** to finalize the customization.
-
-![](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/error-message-position-03-scaled.webp)
-
-The preview of the form error message is shown in the screenshot below.
-
-![](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/error-message-preview-04-1024x505.webp)
-
-Customizing error messages in Fluent Forms ensures your users can quickly identify and address issues, making their form submission process smoother and more intuitive!
+Customizing error messages in Fluent Forms helps users spot and fix issues quickly, so form submission feels smoother and clearer.

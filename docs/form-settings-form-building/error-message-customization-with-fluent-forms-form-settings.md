@@ -4,25 +4,27 @@ Error messages in [Fluent Forms](https://wordpress.org/plugins/fluentform/) help
 
 This guide will show you how to customize your error message easily with Fluent Forms.
 
+> The published version of this guide is at [Error Message Customization](/docs/error-message-customization-with-fluent-forms).
+
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/3N0DMrth1NA" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Configure Error Messages for a Field
+### Configure error messages for a field
 
 Go to **Forms** from the Fluent Forms navbar and select the form where you want to configure error messages.
 
-![Fluent Forms form list](/images/form-settings-form-building/error-message-customization-with-fluent-forms/edit-form-01-6-scaled.webp)
+![Fluent Forms form list](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/edit-form-01-6-scaled.webp)
 
 Navigate to the **Input Customization** tab for the field where you want to display an **error message**.
 
 Ensure **Yes** is selected for **Required**. If **No** is selected, the field will not show a validation error. With **Yes** selected, the default **global error message** applies.
 
-![Global error message](/images/form-settings-form-building/error-message-customization-with-fluent-forms/global-error-message-01-scaled.webp)
+![Global error message](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/global-error-message-01-scaled.webp)
 
 To use a custom message for this field only, turn off **Global Error Message**. Enter your text in **Custom Error Message**, then click **Save Form**.
 
-![Custom error message](/images/form-settings-form-building/error-message-customization-with-fluent-forms/custom-error-message-02-scaled.webp)
+![Custom error message](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/custom-error-message-02-scaled.webp)
 
 ### Global error message settings
 
@@ -45,7 +47,7 @@ These messages appear when something goes wrong while filling out a form. The gl
 * **Maximum File Count:** Shown when too many files are uploaded.
 * **Valid Phone Number:** Shown when the phone number format is incorrect.
 
-![Validation messages settings](/images/form-settings-form-building/error-message-customization-with-fluent-forms/global-error-message-scaled.webp)
+![Validation messages settings](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/global-error-message-scaled.webp)
 
 #### Error message position
 
@@ -56,10 +58,10 @@ Error messages can be shown in different places on the form. Go to **Settings & 
 
 Click **Save Settings** when finished.
 
-![Error message position](/images/form-settings-form-building/error-message-customization-with-fluent-forms/error-message-position-03-scaled.webp)
+![Error message position](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/error-message-position-03-scaled.webp)
 
 Here is a front-end **preview** of how error messages appear to visitors.
 
-![Error message preview](/images/form-settings-form-building/error-message-customization-with-fluent-forms/error-message-preview-04-1024x505.webp)
+![Error message preview](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/error-message-preview-04-1024x505.webp)
 
 Customizing error messages in Fluent Forms helps users spot and fix issues quickly, so form submission feels smoother and clearer.

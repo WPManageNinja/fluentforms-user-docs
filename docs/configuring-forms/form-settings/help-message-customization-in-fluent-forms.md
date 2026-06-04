@@ -21,13 +21,13 @@ Under the **Global Layout Settings** section, locate the **Help Message Placemen
 
 Click **Save** in the top right corner to apply these layout updates globally.
 
-![Help message placement](/images/form-settings-form-building/help-message-customization-in-fluent-forms/global-settings-1-scaled.webp)
+![Help message placement](/images/configuring-forms/form-settings/help-message-customization-in-fluent-forms/global-settings-1-scaled.webp)
 
 ### Add Help Message to a Form Field
 
 Go to **Forms** from the Fluent Forms Navbar and select the **Desired Form** for which you want to customize the help message.
 
-![Select form](/images/form-settings-form-building/help-message-customization-in-fluent-forms/edit-form-01-5-scaled.webp)
+![Select form](/images/configuring-forms/form-settings/help-message-customization-in-fluent-forms/edit-form-01-5-scaled.webp)
 
 Now, navigate to the **Input Customization** tab for the field where you want to add a Help Message. Next, click on the **Advanced Options** section and locate the **Help Message** field.
 
@@ -35,7 +35,7 @@ Then, enter the text or instructions you want to display as the **Help Message**
 
 After that, click the **Save Form** button to apply the changes.
 
-![Help message field](/images/form-settings-form-building/help-message-customization-in-fluent-forms/access-advanced-customization-01-scaled.webp)
+![Help message field](/images/configuring-forms/form-settings/help-message-customization-in-fluent-forms/access-advanced-customization-01-scaled.webp)
 
 ### Customization of the Help Message position
 
@@ -50,10 +50,10 @@ Now, you can choose the Help Message position you want.
 
 After making your selection, click **Save Settings** to finalize your customization.
 
-![Help message position](/images/form-settings-form-building/help-message-customization-in-fluent-forms/Form-Layout-02-scaled.webp)
+![Help message position](/images/configuring-forms/form-settings/help-message-customization-in-fluent-forms/Form-Layout-02-scaled.webp)
 
 Once you are all done, the form preview of the help message is shown in the screenshot below.
 
-![Help message preview](/images/form-settings-form-building/help-message-customization-in-fluent-forms/Preview-help-message-03.webp)
+![Help message preview](/images/configuring-forms/form-settings/help-message-customization-in-fluent-forms/Preview-help-message-03.webp)
 
 Help Messages in Fluent Forms make your forms more user-friendly by offering helpful guidance exactly when and where users need it!
