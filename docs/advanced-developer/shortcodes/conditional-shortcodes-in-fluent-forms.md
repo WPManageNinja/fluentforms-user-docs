@@ -17,7 +17,7 @@ If you want to show a message based on user input, you can use a simple shortcod
 [/ff_if]]
 `
 
-![](/images/advanced-developer/shortcodes/conditional-shortcodes-in-fluent-forms/Conditional-shortcode-01-scaled.webp)
+![Conditional Shortcode](/images/advanced-developer/shortcodes/conditional-shortcodes-in-fluent-forms/Conditional-shortcode-01-scaled.webp)
 
 There are three key parameters when using conditional shortcodes-
 
@@ -93,7 +93,7 @@ Suppose our radio field has two values, which is ‘**ABC**’ and ‘**XYZ**’
 [/ff_if]]
 `
 
-![](/images/advanced-developer/shortcodes/conditional-shortcodes-in-fluent-forms/show-value-02.webp)
+![Show Value](/images/advanced-developer/shortcodes/conditional-shortcodes-in-fluent-forms/show-value-02.webp)
 
 You can use as many conditions as you want. For example, if you want to show different messages based on user feedback:
 

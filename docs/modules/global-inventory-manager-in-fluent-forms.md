@@ -14,25 +14,26 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **Invento
 
 Now, turn on the **Toggle** to enable the **Inventory** module.
 
-![](/images/modules/global-inventory-manager-in-fluent-forms/enable-inventory-module-01-scaled.webp)
+![Enable Inventory Module Global Inventory Manager](/images/modules/global-inventory-manager-in-fluent-forms/enable-inventory-module-01-scaled.webp)
 
 ## Accessing the Inventory Manager
 
 To access the inventory manager, navigate to the **Fluent Forms Global Settings** section. Then, select **Inventory Manager** from left sidebar. Now, click the **Add Inventory** button to add items.
 
-![](/images/modules/global-inventory-manager-in-fluent-forms/access-inventory-manager-02-scaled.webp)
+![Access Inventory Manager](/images/modules/global-inventory-manager-in-fluent-forms/access-inventory-manager-02-scaled.webp)
 
 ## Adding an Inventory Item
 
 After clicking the **Add Inventory** button, a pop-up will appear. Now, enter the **Inventory Name** and set the **Total Quantity** that shows the available quantity in your inventory. Next, click the **Save** button to store the item in the **Inventory Manager**.
 
-![](/images/modules/global-inventory-manager-in-fluent-forms/10-scaled.webp)
+![Global Inventory Manager step](/images/modules/global-inventory-manager-in-fluent-forms/10-scaled.webp)
 
 ## Adding a Global Inventory Item to a Form
 
 Now, to add a global inventory item to a form, first, open the specific form where you want to use the **Global Inventory Item**.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Add a field that supports inventory tracking, such as:
 
@@ -48,7 +49,7 @@ In this example, we use the [**Checkbox Field**.](/docs/checkbox-field-in-fluent
 
 Within the **Checkbox** field options, add Items to connect with your **Global Inventory Items**. 
 
-![](/images/modules/global-inventory-manager-in-fluent-forms/03-2-scaled.webp)
+![Global Inventory Manager step](/images/modules/global-inventory-manager-in-fluent-forms/03-2-scaled.webp)
 
 ## Configuring Inventory Settings
 
@@ -58,7 +59,7 @@ Select the appropriate **inventory item** from the **Global Inventory drop-down*
 
 For a detailed guide on every inventory setting, read the [Fluent Forms Inventory Module](/docs/fluent-forms-inventory-module) documentation.
 
-![](/images/modules/global-inventory-manager-in-fluent-forms/glob-al-inventory-settings-04-scaled.webp)
+![Glob Al Inventory Settings](/images/modules/global-inventory-manager-in-fluent-forms/glob-al-inventory-settings-04-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -66,7 +67,7 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/modules/global-inventory-manager-in-fluent-forms/save-form-05-1-scaled-2.webp)
+![Save Global Inventory Manager](/images/modules/global-inventory-manager-in-fluent-forms/save-form-05-1-scaled-2.webp)
 
 ## Viewing Inventory Details
 
@@ -74,6 +75,6 @@ To monitor your inventory, go to **Global Settings Inventory Manager** section. 
 
 The report will display **remaining stock levels** and the forms through which items were sold. If needed, you can **reset the inventory** from this section.
 
-![](/images/modules/global-inventory-manager-in-fluent-forms/view-inventory-item-06-scaled.webp)
+![View Inventory Item](/images/modules/global-inventory-manager-in-fluent-forms/view-inventory-item-06-scaled.webp)
 
 In this process, you can easily manage your inventory across multiple forms using the **Global Inventory Manager** in Fluent Forms.

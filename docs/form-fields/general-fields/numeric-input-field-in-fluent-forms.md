@@ -14,15 +14,13 @@ To learn how to add the Numeric input field to the Fluent Forms, follow the step
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/edit-fluent-form-01-scaled.webp)
+![Edit Numeric Input Field](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/edit-fluent-form-01-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Numeric Field** field by clicking on it or **Drag & Drop** it into your editor.
 
-![](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/new-9-scaled.webp)
+![Numeric Input Field step](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/new-9-scaled.webp)
 
 ## Customizing the Numeric Input Field
 
@@ -32,7 +30,7 @@ After adding the field, you can **customize it**. **Hover over the field** and c
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/input-customization-03-7-scaled.webp)
+![Input Customization](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/input-customization-03-7-scaled.webp)
 
 ### Numeric Field Options
 
@@ -70,7 +68,7 @@ You will find various settings options for customizing the field. Located in the
 
 - Telephone (0-9, *, #): Displays a dialer pad.
 
-![](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/numeric-field-option-scaled.webp)
+![Numeric Field Option](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/numeric-field-option-scaled.webp)
 
 ### Advanced Options
 
@@ -100,7 +98,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **J. Calculation Field Settings:** Enable this to dynamically calculate the field's value based on other numeric field values. Add a **formula expression** to implement calculations. To learn more, read [Numeric Calculation in Fluent Forms](/docs/numeric-calculation-in-fluent-forms).
 
-![](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/Advanced-options-05-6-scaled.webp)
+![Advanced Options](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/Advanced-options-05-6-scaled.webp)
 
 ## Embedding the Form on Your Website
 
@@ -108,12 +106,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/Save-form-06-8-scaled.webp)
+![Save Numeric Input Field](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/Save-form-06-8-scaled.webp)
 
 ## Preview of Added Numeric Field
 
 Here is the preview of the added **Numeric** field under the Form. 
 
-![](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/preview-form-07-1.webp)
+![Preview Numeric Input Field](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/preview-form-07-1.webp)
 
 With these configurations, your Numeric Input Field is ready to capture precise numerical data from users!

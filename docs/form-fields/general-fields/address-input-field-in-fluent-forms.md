@@ -16,15 +16,13 @@ To learn how to add the **Address** field to Fluent Forms, follow the steps belo
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/edit-form-01-8-scaled.webp)
+![Edit Address Input Field](/images/form-fields/general-fields/address-input-field-in-fluent-forms/edit-form-01-8-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Address Input** field by clicking on it or **Drag & Drop** it into your editor.
 
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/new-13-scaled.webp)
+![Address Input Field step](/images/form-fields/general-fields/address-input-field-in-fluent-forms/new-13-scaled.webp)
 
 ## Customizing the Address Input Field
 
@@ -36,7 +34,7 @@ You can personalize the input field using the following options in the Input Cus
 
 - Advanced options
 
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Input-Customization-03-13-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Input-Customization-03-13-scaled.webp)
 
 ### Address Input Options
 
@@ -48,7 +46,7 @@ You will find various settings options for customizing the field. Located in the
 
 **C. Address Field:** Here, you will see each part of the address field. There are **six** options. Click the drop-down button beside these fields to select the **Input Field Label**, **Default**, **Placeholder**, **Help Message**, and **Required choices**. If you don’t want any option, uncheck the checkbox.
 
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Adress-line-05-scaled.webp)
+![Adress Line](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Adress-line-05-scaled.webp)
 
 - Label: You can change the field label as you wish.
 
@@ -58,7 +56,7 @@ You will find various settings options for customizing the field. Located in the
 
 A text box provides additional options or actions related to the default value. You can clear the field, use a [dynamic value](/docs/dynamic-default-value-in-fluent-forms), or select another advanced setting by clicking and selecting the **Three Vertical Dots** menu on the right side.
 
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/adrees-line1-06-scaled.webp)
+![Adrees Line1](/images/form-fields/general-fields/address-input-field-in-fluent-forms/adrees-line1-06-scaled.webp)
 
 - Placeholder: You can also include a placeholder where users will view the field topic. Add placeholder text, like “Enter your street address,” to guide users in what to input.
 
@@ -66,7 +64,7 @@ A text box provides additional options or actions related to the default value. 
 
 - Required: Decide whether users must select at least one option before submission. If you hit the Radio button and pick Yes, the field is compulsory, and the user must answer by submitting the form. By default, it selected No options.
 
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/address-line1-07-scaled.webp)
+![Address Line1](/images/form-fields/general-fields/address-input-field-in-fluent-forms/address-line1-07-scaled.webp)
 
 ### Advanced Options
 
@@ -78,7 +76,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Advanced-options-08-1-scaled.webp)
+![Advanced Options](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Advanced-options-08-1-scaled.webp)
 
 ## Embed the Form into the front
 
@@ -88,12 +86,12 @@ To display the form on a specific page or post, **Copy** the **Shortcode** from 
 
 Now, preview the form, click **Preview & Design** in the middle of the page.
 
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Save-Form-09-scaled.webp)
+![Save Address Input Field](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Save-Form-09-scaled.webp)
 
 ### Preview of Added Address Input Field
 
 Here is a preview of the form with the **Address Input** field:
 
-![](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Preview-10.webp)
+![Preview Address Input Field](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Preview-10.webp)
 
 And that's it! You have successfully added and customized an Address Input Field in Fluent Forms.

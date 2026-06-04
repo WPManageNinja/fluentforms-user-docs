@@ -10,7 +10,7 @@ First, download the **Opt-in Form JSON file** from the provided [link](https://s
 
 Then, click the **Import** **Forms** button from the left side bar. Now, click the **Choose File** to upload the import form under the **Select File** options. After that, click the **Import** **Forms** button to import your downloaded form. For more details, see [How to Import and Export Fluent Forms](/docs/how-to-import-and-export-fluent-forms). 
 
-![](/images/creating-forms/specialized-form-types/inline-opt-in-form-using-fluent-forms/import-inline-01-scaled.webp)
+![Import inline form](/images/creating-forms/specialized-form-types/inline-opt-in-form-using-fluent-forms/import-inline-01-scaled.webp)
 
 ## Connect to Your Email Service
 
@@ -18,7 +18,7 @@ Open the imported form in the **Form Editor**. Go to the **Settings & Integratio
 
 After saving, **copy** the **form shortcode** from the top-right corner of the editor.
 
-![](/images/creating-forms/specialized-form-types/inline-opt-in-form-using-fluent-forms/02-1-scaled-2.webp)
+![Inline opt-in preview](/images/creating-forms/specialized-form-types/inline-opt-in-form-using-fluent-forms/02-1-scaled-2.webp)
 
 ## Add the Form to Your Page or Template
 

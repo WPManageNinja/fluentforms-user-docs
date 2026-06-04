@@ -10,7 +10,7 @@ First, navigate to the **Fluent** **Forms** [**Tools**](/docs/fluent-forms-user-
 
 Alternatively, you can import data from an individual form's [**Entries**](/docs/managing-entries-in-fluent-forms) page section.
 
-![](/images/import-export-migration/importing-entries-in-fluent-forms/access-import-entries-01-scaled.webp)
+![Access Import Entries](/images/import-export-migration/importing-entries-in-fluent-forms/access-import-entries-01-scaled.webp)
 
 ### Choosing File Type and Source
 
@@ -20,7 +20,7 @@ Now, use the **Select Form** field dropdown to choose the target form. Next, cho
 
 Once the form is selected or uploaded, click the **Next** **(Map Columns)** button.
 
-![](/images/import-export-migration/importing-entries-in-fluent-forms/select-form-02-scaled.webp)
+![Select Importing Entries](/images/import-export-migration/importing-entries-in-fluent-forms/select-form-02-scaled.webp)
 
 ### CSV File Import
 
@@ -30,7 +30,7 @@ Then, Choose the **CSV Delimiter** (Comma or Semicolon) from the dropdown option
 
 Once the form is uploaded, click the **Next** button to proceed.
 
-![](/images/import-export-migration/importing-entries-in-fluent-forms/Tools-_-Demo-_-WordPress-04-09-2025_03_00_PM-scaled.webp)
+![Tools Wordpress Fluent Forms](/images/import-export-migration/importing-entries-in-fluent-forms/Tools-_-Demo-_-WordPress-04-09-2025_03_00_PM-scaled.webp)
 
 ### Mapping Fields for Import
 
@@ -42,10 +42,10 @@ Selecting the **Delete Existing Submission** option will replace current submiss
 
 Now, click the **Import** button to finalize the import.
 
-![](/images/import-export-migration/importing-entries-in-fluent-forms/unnamed-4-2.webp)
+![Unnamed](/images/import-export-migration/importing-entries-in-fluent-forms/unnamed-4-2.webp)
 
 Once completed, a **confirmation message** and a **View Entries** button will appear, allowing you to review the imported data.
 
-![](/images/import-export-migration/importing-entries-in-fluent-forms/view-entries-04-1-scaled.webp)
+![View Entries](/images/import-export-migration/importing-entries-in-fluent-forms/view-entries-04-1-scaled.webp)
 
 So, this is the process of importing entries in fluent forms.

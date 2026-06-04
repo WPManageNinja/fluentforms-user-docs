@@ -14,7 +14,7 @@ Now, install and activate the plugin on your website. A new tab ( Fluent Forms P
 
 It will automatically install the add-on from **wp.org**.
 
-![](/images/modules/fluent-forms-pdf-module/pdf-generator-plugin-01-scaled.webp)
+![PDF Generator Plugin](/images/modules/fluent-forms-pdf-module/pdf-generator-plugin-01-scaled.webp)
 
 ## Install and Activate the PDF Feed
 
@@ -24,11 +24,11 @@ Wait for the installation to complete. A success message will confirm the setup.
 
 > Do not close the window until the installation finishes.
 
-![](/images/modules/fluent-forms-pdf-module/PDF-module-integration-02-scaled.webp)
+![PDF Module Integration](/images/modules/fluent-forms-pdf-module/PDF-module-integration-02-scaled.webp)
 
 Your **Fluent PDF Module** is active, so you can now use the **PDF Feed** of Fluent Form.
 
-![](/images/modules/fluent-forms-pdf-module/Fluent-Form-PDF-04-1-scaled.webp)
+![PDF](/images/modules/fluent-forms-pdf-module/Fluent-Form-PDF-04-1-scaled.webp)
 
 ## Configure Global PDF Settings
 
@@ -36,7 +36,7 @@ To configure Global PDF Settings, go to your WordPress dashboard, hover over Flu
 
 Now, click on **PDF Settings**. Here, you will need to configure **PDF** settings globally. Note that each form can override this setting.
 
-![](/images/modules/fluent-forms-pdf-module/PDF-Setting-05-scaled.webp)
+![PDF Setting](/images/modules/fluent-forms-pdf-module/PDF-Setting-05-scaled.webp)
 
 ## Setting Up a PDF Feed for a Form
 
@@ -44,17 +44,18 @@ To enable PDF export for a specific form, follow these steps-
 
 Open the form where you want to allow **PDF Export**. Navigate to the **Settings & Integrations** tab.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Now click on **PDF Feeds** from the left sidebar. Then click the **Add PDF Feed** button.
 
-![](/images/modules/fluent-forms-pdf-module/enable-PDF-Settings-06-1-scaled.webp)
+![Enable PDF Settings Fluent Forms PDF Module](/images/modules/fluent-forms-pdf-module/enable-PDF-Settings-06-1-scaled.webp)
 
 ### Customizing the PDF Feed
 
 A popup will appear asking you to choose a **PDF Template**. Select the available template.
 
-![](/images/modules/fluent-forms-pdf-module/Select-a-PDf-Template-07-scaled.webp)
+![Select PDF Template Fluent Forms PDF Module](/images/modules/fluent-forms-pdf-module/Select-a-PDf-Template-07-scaled.webp)
 
 #### PDF Content
 
@@ -72,7 +73,7 @@ Fluent Forms also provides an HTML editor for full control over the PDF layout a
 
 **F. Shortcode:** You can use this shortcode on the submission message to generate a **PDF** link.
 
-![](/images/modules/fluent-forms-pdf-module/3333-scaled.webp)
+![Fluent Forms PDF Module step](/images/modules/fluent-forms-pdf-module/3333-scaled.webp)
 
 #### Appearance
 
@@ -106,7 +107,7 @@ I. **Watermark Image:** Upload an image as a **background watermark**.
 
 When the change is complete, click the **Save Feed** button, and the **PDF Feed** will be added to your form.
 
-![](/images/modules/fluent-forms-pdf-module/Appearance-09-scaled.webp)
+![Appearance Fluent Forms](/images/modules/fluent-forms-pdf-module/Appearance-09-scaled.webp)
 
 ## Downloading a Form Entry as a PDF
 
@@ -114,11 +115,11 @@ Once you have customized the form and added the PDF Feed, go to the [**Entries**
 
 Now, select any submission entry you wish to work on and click the **View Icon** of that entry.
 
-![](/images/modules/fluent-forms-pdf-module/entries-10-scaled.webp)
+![Entries Fluent Forms](/images/modules/fluent-forms-pdf-module/entries-10-scaled.webp)
 
 From here, you will see the Download option for your PDF Feed preview. Then click the **Download PDF** button to generate and save the file. 
 
-![](/images/modules/fluent-forms-pdf-module/PDf-download-10-1-scaled.webp)
+![PDF Download](/images/modules/fluent-forms-pdf-module/PDf-download-10-1-scaled.webp)
 
 ## Sending Form Entries as PDFs via Email
 
@@ -130,6 +131,6 @@ When a user submits the form, this PDF Feed will be sent to the **Admin Email**.
 
 To learn more, read [How to Setup Admin/User Email Notifications](/docs/how-to-setup-adminuser-email-notifications).
 
-![](/images/modules/fluent-forms-pdf-module/11-scaled.webp)
+![Fluent Forms PDF Module step](/images/modules/fluent-forms-pdf-module/11-scaled.webp)
 
 Now you can create, download, and email a PDF Template feed in your Fluent Form.

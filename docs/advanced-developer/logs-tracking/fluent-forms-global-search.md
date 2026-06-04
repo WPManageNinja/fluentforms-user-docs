@@ -12,10 +12,10 @@ Once you are on the **Fluent Forms Dashboard**, you will find the Global Search 
 
 You will find this search bar under any section (e.g., Forms, [Entries](/docs/managing-entries-in-fluent-forms), Payments, etc.) or feature in Fluent Forms, allowing you to search for relevant and necessary items. 
 
-![](/images/advanced-developer/logs-tracking/fluent-forms-global-search/1.-Global-Search-option-scaled.webp)
+![Global Search Option](/images/advanced-developer/logs-tracking/fluent-forms-global-search/1.-Global-Search-option-scaled.webp)
 
 Now, click on the search button, and a pop-up will appear, showing you all the things you can search for.
 
 Whether it’s Forms, Entries, Support, Integrations, or Global Settings, you can find it all with the Global Search option. So, go ahead, explore, and make the most of this awesome feature in Fluent Forms!
 
-![](/images/advanced-developer/logs-tracking/fluent-forms-global-search/2.-Search-Popup-scaled.webp)
+![Search Popup Fluent Forms](/images/advanced-developer/logs-tracking/fluent-forms-global-search/2.-Search-Popup-scaled.webp)

@@ -12,15 +12,16 @@ To learn how to add the **Rich Text Input Field** to Fluent Forms, follow the st
 
 First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** icon to open the Editor page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Form-Edit-01-2-scaled.webp)
+![Edit Rich Text Input Field](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Form-Edit-01-2-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Rich Text Input** field by clicking or dragging it and dropping it into your editor.
 
-![](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Adding-Rich-Text-02-scaled.webp)
+![Adding Rich Text](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Adding-Rich-Text-02-scaled.webp)
 
 ## Customizing the Rich Text Input Field
 
@@ -30,7 +31,7 @@ Once you add the **Rich Text Input** field, you can customize it by hovering ove
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Input-Customization-03-29-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Input-Customization-03-29-scaled.webp)
 
 ### Rich Text Field Options
 
@@ -52,7 +53,7 @@ All the settings under the **Rich Text Input Field** mentioned above are briefly
 
 **G. Required:** Decide whether users must select at least one option before submission.
 
-![](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Rich-Text-Input-04-scaled.webp)
+![Rich Text Input](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Rich-Text-Input-04-scaled.webp)
 
 ### Advanced Options
 
@@ -72,7 +73,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Advanced-options-05-21-scaled.webp)
+![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Advanced-options-05-21-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -80,12 +81,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Save-Form-06-27-scaled.webp)
+![Save Rich Text Input Field](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Save-Form-06-27-scaled.webp)
 
 ## Preview of Added Rich Text Field
 
 Here is the preview of the added **Rich Text** field under the Form. 
 
-![](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Preview-07-18.webp)
+![Preview Rich Text Input Field](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Preview-07-18.webp)
 
 Congratulations! You have successfully added a Rich Text field to your Fluent Forms form.

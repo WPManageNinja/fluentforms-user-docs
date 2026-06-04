@@ -12,7 +12,7 @@ Now login to [ipinfo.io](http://ipinfo.io) account. The free plan includes up to
 
 Once logged in, navigate to the **Token** section in the left sidebar. Now, copy your **Access Token** displayed on the page.
 
-![](/images/advanced-developer/logs-tracking/phone-field-geo-location-provider/Access-token-ipinfo-01-scaled.webp)
+![Access Token Ipinfo](/images/advanced-developer/logs-tracking/phone-field-geo-location-provider/Access-token-ipinfo-01-scaled.webp)
 
 ### Configure GEO-Location Provider in Fluent Forms
 
@@ -20,6 +20,6 @@ To configure GEO-Location, go to your **Fluent Forms** and click on **Global Set
 
 Now, paste the **Access Token** that you copied from the **IPinfo** account and click **Save Settings** to apply the GEO-location functionality.
 
-![](/images/advanced-developer/logs-tracking/phone-field-geo-location-provider/GEO-location-02-scaled.webp)
+![Geo Location](/images/advanced-developer/logs-tracking/phone-field-geo-location-provider/GEO-location-02-scaled.webp)
 
 Once configured, phone fields in your forms will automatically suggest the correct country code based on the user’s IP location.

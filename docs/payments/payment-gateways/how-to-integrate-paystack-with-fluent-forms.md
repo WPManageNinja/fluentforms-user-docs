@@ -2,7 +2,8 @@
 
 [Paystack](http://paystack.com) is an amazing payment method for your webshop that allows **Fluent Forms** a smooth online payment transaction. This article will guide you through integrating **Paystack** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
 
-> Remember, Paystack Integration is a Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Paystack** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Paystack Payment Method
 
@@ -10,7 +11,7 @@ First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Pa
 
 Now, go to **Paystack** in the top navbar and click **Enable PayStack Payment Method.** The **Paystack Payment Method** will be enabled globally for all forms. 
 
-![](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/1.-enable-Paystack-module-scaled.webp)
+![Enable Paystack Module Integrate Paystack](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/1.-enable-Paystack-module-scaled.webp)
 
 ## Configure Paystack with Fluent Forms
 
@@ -20,7 +21,7 @@ Before starting the configuration, select any **Payment Mode** between **Test** 
 
 Then, you need to obtain the **API  Key** and **API Secret** from your **Paystack Account**.
 
-![](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/2.-API-Credentials-scaled.webp)
+![API Credentials Fluent Forms](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/2.-API-Credentials-scaled.webp)
 
 ### Get the API Credentials from Paystack
 
@@ -30,7 +31,7 @@ First, log into your [Paystack Account](https://dashboard.paystack.com/#/login).
 
 Once you log into the **Paystack Dashboard**, go to the **Settings** section from the left sidebar, and click the **API Keys & Webhooks** tab. Now, copy the  **Secret key** and **Public key.**
 
-![](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/3.-Copy-secret-and-API-key-scaled.webp)
+![Copy Secret And API Key](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/3.-Copy-secret-and-API-key-scaled.webp)
 
 **Now,** return to the **Paystack Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
 
@@ -38,25 +39,21 @@ Then, paste the **Public Key** and **Secret Key** you copied from Paystack into 
 
 Finally, press the **Save Settings** button and your Paystack account will be configured with **Fluent Forms** for your WordPress Site.
 
-![](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/4.-Paste-API-key-and-API-Secret-scaled.webp)
+![Paste API Key And API Secret](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/4.-Paste-API-key-and-API-Secret-scaled.webp)
 
 ## Integrate Paystack in Forms
 
 Once you finish setting up your **Paystack** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
 
-> If you do not have any existing Payment Forms, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to learn how to create one.
-
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
-![](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/Open-desired-form-5-scaled.webp)
+![Open Integrate Paystack](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/Open-desired-form-5-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by clicking the **Pencil Icon**.
 
 Now, go to the **Payment Methods**, check the **PayStack** option, click the **Dropdown Arrow,** and you will get the option to change the **Method Label** based on your preference.
 
-> To learn more details, see the Payment Method field guide linked above.
-
-![](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/5.-add-paystack-to-the-desired-form-scaled.webp)
+![Add Paystack Integrate Paystack](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/5.-add-paystack-to-the-desired-form-scaled.webp)
 
 Once you complete the edit, press the **Save Form** button to save all the changes.
 
@@ -64,10 +61,10 @@ Now, to embed and display the form on a specific **Page/Post**, **copy** this **
 
 Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
 
-![](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/6.-Save-Form-scaled-2.webp)
+![Save Integrate Paystack](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/6.-Save-Form-scaled-2.webp)
 
 ## Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to **Paystack** to complete the payment process. 
 
-![](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/7.-Form-Preview-2.webp)
+![Preview Integrate Paystack](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/7.-Form-Preview-2.webp)

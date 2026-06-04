@@ -4,7 +4,8 @@ Fluent Form helps migrate forms and form entries data easily and hassle-free wit
 
 This guide will walk you through the migration process of any form into fluent forms with just a few steps.
 
-> Remember that previously imported forms and entries will be reset and updated during a new migration.
+> [!Warning]
+> Running the migrator again **resets and updates** previously imported forms and entries. Back up your data first.
 > 
 > 
 > 
@@ -18,12 +19,12 @@ Now, click the **Import All Forms** button to import all forms at once.
 
 Alternatively, you can select **Specific** forms from the list and import only those.
 
-![](/images/import-export-migration/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms/Forms-Migrate-scaled.webp)
+![Migrate Fluent Forms](/images/import-export-migration/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms/Forms-Migrate-scaled.webp)
 
 A successful message that the Form has been imported will show up in the top right corner of the page after the Form has been imported. Imported Forms will be displayed at the bottom of the page..
 
 Now click the **Import Entries** button to transfer all associated entries for the imported forms into Fluent Forms. Once migrated, you can review and organize them from the [Entries](/docs/managing-entries-in-fluent-forms) page.
 
-![](/images/import-export-migration/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms/migrate-form-entry-03-scaled.webp)
+![Migrate Entry](/images/import-export-migration/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms/migrate-form-entry-03-scaled.webp)
 
 So, it is easy to fill out forms with other form plugins.

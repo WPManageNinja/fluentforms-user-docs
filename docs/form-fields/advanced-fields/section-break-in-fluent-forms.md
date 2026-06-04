@@ -14,15 +14,16 @@ To learn how to add the section break field to the Fluent Forms, follow the step
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/section-break-in-fluent-forms/edit-form-01-12-scaled.webp)
+![Edit Section Break](/images/form-fields/advanced-fields/section-break-in-fluent-forms/edit-form-01-12-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Section Break** **Input** field by **clicking** on it or **Dragging** and **Dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/section-break-in-fluent-forms/new-17-scaled.webp)
+![Section Break step](/images/form-fields/advanced-fields/section-break-in-fluent-forms/new-17-scaled.webp)
 
 ## Customizing the Section Breaks Field
 
@@ -32,7 +33,7 @@ A Break field has been added. You can edit this field by **hovering over it** an
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/section-break-in-fluent-forms/input-customization-02-1-scaled.webp)
+![Input Customization](/images/form-fields/advanced-fields/section-break-in-fluent-forms/input-customization-02-1-scaled.webp)
 
 #### Section Break Options
 
@@ -50,7 +51,7 @@ For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
 **D. Content Alignment:** You can adjust the alignment of the **title and description** (Left, Center, or Right).
 
-![](/images/form-fields/advanced-fields/section-break-in-fluent-forms/Basic-options-03-scaled.webp)
+![Basic Options](/images/form-fields/advanced-fields/section-break-in-fluent-forms/Basic-options-03-scaled.webp)
 
 #### Advanced Options
 
@@ -60,7 +61,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/section-break-in-fluent-forms/advanced-options-04-scaled.webp)
+![Advanced Options](/images/form-fields/advanced-fields/section-break-in-fluent-forms/advanced-options-04-scaled.webp)
 
 ## Embed the Form into Front
 
@@ -68,12 +69,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/form-fields/advanced-fields/section-break-in-fluent-forms/save-form-05-2-scaled.webp)
+![Save Section Break](/images/form-fields/advanced-fields/section-break-in-fluent-forms/save-form-05-2-scaled.webp)
 
 ### Preview of Added Section Break Field
 
 Here is the **Form Preview** to test the section break field functionality.
 
-![](/images/form-fields/advanced-fields/section-break-in-fluent-forms/Preview-06-1.webp)
+![Preview Section Break](/images/form-fields/advanced-fields/section-break-in-fluent-forms/Preview-06-1.webp)
 
 Congratulations! You will successfully add the Section Break field in your Form.

@@ -2,7 +2,8 @@
 
 In **Fluent Forms**, the **Subscription** field allows you to create forms with **Subscription** **Items** to accept **Recurring Payments.** This article will guide you through adding the **Subscription** field in your Fluent Forms for your WordPress Site.
 
-> Remember, Subscription is a premium feature and you need Fluent Forms Pro Plugin to use this field.
+> [!Note]
+> **Subscription** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Add Subscription Field
 
@@ -10,15 +11,16 @@ To learn how to add the Subscription field to the Fluent Forms, follow the steps
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
+For example, I choose an existing form to show the whole process.
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/1.-Open-desired-form-5-scaled.webp)
+![Open Subscription Field in Payment](/images/payments/payment-fields/add-subscription-field-in-payment-forms/1.-Open-desired-form-5-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Subscription** field.
 
-> If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it.
+> [!Note]
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/2.-Add-Subcription-field-scaled.webp)
+![Add Subcription Field Subscription Field in Payment](/images/payments/payment-fields/add-subscription-field-in-payment-forms/2.-Add-Subcription-field-scaled.webp)
 
 You can see that a **Subscription** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
@@ -28,13 +30,13 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/3.-Input-Customization-tab-2-scaled.webp)
+![Input Customization Tab](/images/payments/payment-fields/add-subscription-field-in-payment-forms/3.-Input-Customization-tab-2-scaled.webp)
 
 ### 1. Subscription
 
 Here, you will get various settings options for customizing the field. 
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/4.-Subscription-customization-tab-scaled.webp)
+![Subscription Customization Tab](/images/payments/payment-fields/add-subscription-field-in-payment-forms/4.-Subscription-customization-tab-scaled.webp)
 
 **All the Settings under the Subscription mentioned above are briefly explained below –** 
 
@@ -76,7 +78,7 @@ Select this plan if you want to offer one pricing plan to your users for collect
 
 - Total Billing Times: Here, you can set how many times your website will pull funds from customers’ accounts. Keep the field blank or put 0 (Zero) for billing for an unlimited time.
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/5.-Single-recurring-plan.webp)
+![Single Recurring Plan](/images/payments/payment-fields/add-subscription-field-in-payment-forms/5.-Single-recurring-plan.webp)
 
 ##### 2. Multiple Pricing Plans
 
@@ -90,7 +92,7 @@ To add multiple pricing plans, click the **Add New Plan** button, and to delete 
 
 Also, if you want a pricing plan to be selected by default from all your pricing plans, enable the **Default** **Toggle** for that plan. 
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/6.-Multiple-Pricing-Plan.webp)
+![Multiple Pricing Plan](/images/payments/payment-fields/add-subscription-field-in-payment-forms/6.-Multiple-Pricing-Plan.webp)
 
 #### E. Required
 
@@ -110,13 +112,14 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/7.-Advanced-options-scaled.webp)
+![Advanced Options Fluent Forms](/images/payments/payment-fields/add-subscription-field-in-payment-forms/7.-Advanced-options-scaled.webp)
 
 Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Recurring billing is supported by gateways such as [Stripe](/docs/how-to-integrate-stripe-with-fluent-forms) and [PayPal](/docs/how-to-integrate-paypal-with-fluent-forms), so make sure one of them is configured.
 
-> Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
+> [!Note]
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/8.-Add-Payment-Method-field-scaled.webp)
+![Add Payment Method Field Subscription Field in Payment](/images/payments/payment-fields/add-subscription-field-in-payment-forms/8.-Add-Payment-Method-field-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -124,12 +127,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/9.-Save-Form-scaled.webp)
+![Save Subscription Field in Payment](/images/payments/payment-fields/add-subscription-field-in-payment-forms/9.-Save-Form-scaled.webp)
 
 ## Preview of Subscription field
 
 Here, is the preview of the added **Subscription** field under the Payment Form. 
 
-![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/10.-Form-preview.webp)
+![Preview Subscription Field in Payment](/images/payments/payment-fields/add-subscription-field-in-payment-forms/10.-Form-preview.webp)
 
 This way you can easily add the **Subscription** fields in Fluent Forms!

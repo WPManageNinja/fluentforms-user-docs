@@ -10,15 +10,16 @@ To learn how to add the Payment Summary field to the Fluent Forms, follow the st
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
+For example, I choose an existing form to show the whole process.
 
-![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/1.-Open-desired-form-3-scaled.webp)
+![Open Payment Summary Field in](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/1.-Open-desired-form-3-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Payment Summary** field.
 
-> If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it.
+> [!Note]
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
-![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/2.-Add-Payment-Summary-field-scaled.webp)
+![Add Payment Summary Field](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/2.-Add-Payment-Summary-field-scaled.webp)
 
 You can see that a **Payment Summary** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
@@ -28,7 +29,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/3.-Input-Customization-tab-scaled.webp)
+![Input Customization Tab](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/3.-Input-Customization-tab-scaled.webp)
 
 ### 1. Payment Summary
 
@@ -36,7 +37,7 @@ Here, you will get the following setting option for customizing the field.
 
 - Empty Payment Selected Text: Here, you can set a text you want to show when no payment item has been selected yet.
 
-![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/4.-Payment-Summary-customization--scaled.webp)
+![Payment Summary Customization](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/4.-Payment-Summary-customization--scaled.webp)
 
 ### 2. Advanced Options
 
@@ -46,13 +47,14 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
-![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/5.-Advanced-Summary-options-scaled.webp)
+![Advanced Summary Options](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/5.-Advanced-Summary-options-scaled.webp)
 
 Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
 
-> Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
+> [!Note]
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
-![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/6.-Add-Payment-Method-field-scaled.webp)
+![Add Payment Method Field](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/6.-Add-Payment-Method-field-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -60,12 +62,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 
-![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/7.-Save-Form-button-scaled.webp)
+![Save Button Payment Summary Field in](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/7.-Save-Form-button-scaled.webp)
 
 ## Preview of Payment Summary field
 
 Here, is the preview of the added **Payment Summary** field under the Payment Form. 
 
-![](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/8.-Form-Preview-.webp)
+![Preview Payment Summary Field in](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/8.-Form-Preview-.webp)
 
 This way you can easily add the **Payment Summary** fields in Fluent Forms!

@@ -10,13 +10,13 @@ First, navigate to the [Entries](/docs/managing-entries-in-fluent-forms) section
 
 To view more details, hover over the displayed timestamp to reveal the precise **month**, **day**, and **time**.
 
-![](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/defualt-date-and-time-01-scaled.webp)
+![Defualt Date And Time](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/defualt-date-and-time-01-scaled.webp)
 
 ## Add Custom Date and Time Stamps
 
 To add a more customized timestamp to your forms, open the form editor and add a [Hidden Field](/docs/hidden-input-field-in-fluent-forms) from the **Advanced Fields** section.
 
-![](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/Hidden-field-02-scaled.webp)
+![Hidden Field](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/Hidden-field-02-scaled.webp)
 
 Now click the **three-dot menu** in the **Input Customization** section. Select one of the predefined formats:
 
@@ -25,10 +25,10 @@ Date (dd/mm/yyyy)`
 
 After setting the desired format, click the **Save Form** button.
 
-![](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/03-1-scaled.webp)
+![a Date and Time Stamp to Form Entries step](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/03-1-scaled.webp)
 
 When a user submits the form, the custom date and time stamp will automatically appear in the **Entries** section.
 
-![](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/04-scaled.webp)
+![a Date and Time Stamp to Form Entries step](/images/managing-submissions/entries/how-to-add-a-date-and-time-stamp-to-form-entries/04-scaled.webp)
 
 Adding a date and time stamp to your form entries is simple and highly useful for tracking user activity.

@@ -14,15 +14,16 @@ To learn how to add the **Password** field to Fluent Forms, follow the steps bel
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/form-editor-01-1-scaled.webp)
+![Editor](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/form-editor-01-1-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Password** **Input** field by **clicking** or **dragging** it and **dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/adding-password-field-02-scaled.webp)
+![Adding Password Field](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/adding-password-field-02-scaled.webp)
 
 ## Customizing the Password Field
 
@@ -32,7 +33,7 @@ Once you add the Password field, you can customize it by hovering over it and cl
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/input-customization-03-23-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/input-customization-03-23-scaled.webp)
 
 #### Password Options
 
@@ -50,7 +51,7 @@ All the Settings under the **Password Input Field** mentioned above are briefly 
 
 **E. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
 
-![](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/Password-input-options-04-scaled.webp)
+![Password Input Options](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/Password-input-options-04-scaled.webp)
 
 #### Advanced Options
 
@@ -72,7 +73,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/password-advanced-option-scaled.webp)
+![Password Advanced Option](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/password-advanced-option-scaled.webp)
 
 ## Embed the Form into the Front
 
@@ -80,12 +81,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/Save-form-06-23-scaled.webp)
+![Save Password Input Field](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/Save-form-06-23-scaled.webp)
 
 ### Preview of Added Password Input Field
 
 Here is a preview of the form with the **Password input** field.
 
-![](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/Preview-07-14.webp)
+![Preview Password Input Field](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/Preview-07-14.webp)
 
 Congratulations! You have successfully added the Password Input Field to your Fluent Forms form.

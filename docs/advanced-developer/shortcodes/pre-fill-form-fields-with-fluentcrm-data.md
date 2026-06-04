@@ -14,7 +14,7 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **FluentC
 
 Now, turn on the **Toggle** to enable the **FluentCRM** module.
 
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/enable-FluentCRM-module-01-scaled.webp)
+![Enable FluentCRM Module Pre-Fill Form Fields with](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/enable-FluentCRM-module-01-scaled.webp)
 
 ## Using FluentCRM Data Smartcode
 
@@ -22,23 +22,21 @@ To pre-fill the FluentCRM data in your form fields, follow the steps given below
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/form-editor-02-scaled.webp)
+![Editor Fluent Forms](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/form-editor-02-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and choose the desired **Field** by clicking on it or **Dragging & Drop**ping it into your editor.
 
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/add-field-03-scaled.webp)
+![Add Field Pre-Fill Form Fields with](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/add-field-03-scaled.webp)
 
 Now, hover over the newly added field and click the **Pencil Icon**. Navigate to the **Input Customization** tab on the right sidebar. Scroll to **Advanced Options** and find the **Default Value** drop-down. In some **Input Fields**, you will find this **Default Value** option as [**Dynamic Default**](/docs/dynamic-default-value-in-fluent-forms).
 
 In the **Default Value** field, add FluentCRM shortcodes to automatically fetch and populate data from FluentCRM contact information into the form fields.
 
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/access-default-value-04-scaled.webp)
+![Access Default Value](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/access-default-value-04-scaled.webp)
 
 Click the **Three-dot Icon**, then scroll down to locate **FluentCRM Data**. Then, click on the smartcode, and it will be automatically generated in your field.
 
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/FluentCRM-Data-smartcode-05-scaled.webp)
+![FluentCRM Data Smartcode](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/FluentCRM-Data-smartcode-05-scaled.webp)
 
 ## Insert FluentCRM Data into Fields
 
@@ -50,7 +48,7 @@ Once done, the **email field** will be pre-filled with data from FluentCRM. You 
 
 If you want to pre-fill **Custom Fields** data from FluentCRM, first add the **desired field** to your form. Then, use the shortcode **{fluentcrm.data}** and modify it with the specific **Custom Field slug**. To learn how to find the **Custom Field slug**, check out the [FluentCRM global custom contact fields documentation](https://fluentcrm.com/docs/global-custom-contact-fields/).
 
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/email-field-06-scaled.webp)
+![Email Field](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/email-field-06-scaled.webp)
 
 ### Embed the Form into the Front
 
@@ -58,18 +56,18 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 After that, copy the **Shortcode** from the top-right corner. **Paste** it into the **page** or **post** where you want the form to appear.
 
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/save-form-07-2-scaled.webp)
+![Save Pre-Fill Form Fields with](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/save-form-07-2-scaled.webp)
 
 ### Pre-populated FluentCRM Data Field Preview
 
 After embedding, you can preview the form with the pre-populated FluentCRM data fields. Here you will see the fields are automatically filled with **FluentCRM Data**.
 
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/preview-08-2.webp)
+![Preview Pre-Fill Form Fields with](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/preview-08-2.webp)
 
 ## FluentCRM Contact Data
 
 To verify pre-populated data, go to the **FluentCRM** contacts. Locate the contact with the custom profile data. Now, match the field **slug** with the **FluentCRM** smartcode used in the form. If you want to learn the custom profile data read the [FluentCRM custom contact fields documentation](https://fluentcrm.com/docs/global-custom-contact-fields/#:~:text=When%20you%20need%20additional%20fields,as%20in%20the%20below%20screenshot.).
 
-![](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/custom-fluentcrm-data-09-scaled.webp)
+![Custom FluentCRM Data](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/custom-fluentcrm-data-09-scaled.webp)
 
 So, this feature helps your user auto-fille your users details and helps to not re enter the data again and again.

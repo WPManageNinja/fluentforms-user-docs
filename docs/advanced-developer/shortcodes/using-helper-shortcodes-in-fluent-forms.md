@@ -18,13 +18,13 @@ Use the info attribute to display general information about the form. The availa
 
 - Total Submissions: Use the info="submission_count" attribute to show the total number of times the form has been submitted. It will show total submission at the bottom of the form.
 
-![](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/Submission-info.webp)
+![Submission Info Fluent Forms](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/Submission-info.webp)
 
 - Creation Date: Use the info="created_at" attribute to show the date the form was created. It will show the creation date below the form.
 
 `[[fluentform_info id="9" info="created_at"]]`
 
-![](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/creation-date.webp)
+![Creation Date Fluent Forms](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/creation-date.webp)
 
 - Last Updated Date: Use the info="updated_at" attribute to show the date the form was last modified.
 
@@ -52,7 +52,7 @@ You can filter the submission count based on its status (read or unread).
 
 - Show Unread Entries: [fluentform_info id="9" status="unread"]
 
-![](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/Entry-Status-scaled.webp)
+![Entry Status Fluent Forms](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/Entry-Status-scaled.webp)
 
 ### Trashed Entries
 
@@ -70,7 +70,7 @@ Use the **subtract_from** attribute with your maximum limit. For example, if you
 
 `[[fluentform_info id="9" info="submission_count" substract_from="20"]]`
 
-![](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/Maximum-number-of-entries-scaled.webp)
+![Maximum Number Entries](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/Maximum-number-of-entries-scaled.webp)
 
 If 5 entries have been submitted, this will display "15".
 
@@ -78,7 +78,7 @@ You can also make the count disappear when it reaches zero by adding the **hide_
 
 `[[fluentform_info id="9" info="submission_count" substract_from="20" hide_on_zero="yes"]]`
 
-![](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/all-entries.webp)
+![All Entries Fluent Forms](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/all-entries.webp)
 
 ### Show Total Entries Based on Payment Status
 
@@ -94,7 +94,7 @@ For payment forms, you can filter the entries shown based on their payment statu
 
 To show the total payment amount with a formatted currency symbol (e.g., $10.00), add the **currency_formatted="yes"** attribute.
 
-![](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/Payment-Status-scaled.webp)
+![Payment Status Fluent Forms](/images/advanced-developer/shortcodes/using-helper-shortcodes-in-fluent-forms/Payment-Status-scaled.webp)
 
 ### Other Shortcodes
 

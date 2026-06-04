@@ -8,9 +8,7 @@ To learn how to set conditional logic for email notifications, follow the steps 
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditions.
 
-> If you do not have any existing forms, read the [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
-
-![](/images/notifications-confirmations/email-notifications/conditional-email-notification-in-fluent-forms/1.-desired-Form-Editor-scaled.webp)
+![Editor Fluent Forms](/images/notifications-confirmations/email-notifications/conditional-email-notification-in-fluent-forms/1.-desired-Form-Editor-scaled.webp)
 
 Now, go to **Settings & Integrations** from the top navbar and open the **Email Notifications** tab. 
 
@@ -20,7 +18,7 @@ Or, create a new one by clicking the **+ Add Notification** button. To learn how
 
 **For example**, I used the existing notification to show you the whole process. 
 
-![](/images/notifications-confirmations/email-notifications/conditional-email-notification-in-fluent-forms/2.-Settings-Integration-Email-Notification-Add-new-notification-scaled.webp)
+![Settings Integration Email Notification Add Notification Conditional Email Notification](/images/notifications-confirmations/email-notifications/conditional-email-notification-in-fluent-forms/2.-Settings-Integration-Email-Notification-Add-new-notification-scaled.webp)
 
 ### Enabling Conditional Logic
 
@@ -40,4 +38,4 @@ This way you can add as many conditional logics as you need by clicking the **Pl
 
 Once you complete, click the **Save Settings** button to make the condition/s functional.
 
-![](/images/notifications-confirmations/email-notifications/conditional-email-notification-in-fluent-forms/3.-Enable-Conditional-Logics-.webp)
+![Enable Conditional Logics](/images/notifications-confirmations/email-notifications/conditional-email-notification-in-fluent-forms/3.-Enable-Conditional-Logics-.webp)

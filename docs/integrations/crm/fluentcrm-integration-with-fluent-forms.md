@@ -14,7 +14,7 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **FluentC
 
 Now, turn on the **Toggle** to enable the **FluentCRM** module, and click the **Settings Icon** on the right side.
 
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/fluentcrm-integration-with-fluent-form-01-scaled.webp)
+![FluentCRM Integration With](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/fluentcrm-integration-with-fluent-form-01-scaled.webp)
 
 ### Integrate FluentCRM with FluentForms
 
@@ -22,13 +22,11 @@ To learn how to integrate FluentCRM into any specific Form in Fluent Forms, foll
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your FluentCRM and click the **Settings** button. 
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Form-Settings-02-scaled.webp)
+![Settings FluentCRM integration](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Form-Settings-02-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **FluentCRM Integration** feed from the dropdown list.
 
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Add-FluentCRM-Integration-03-scaled.webp)
+![Add FluentCRM Integration](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Add-FluentCRM-Integration-03-scaled.webp)
 
 ### Configure FluentCRM Integration Feed
 
@@ -62,14 +60,14 @@ Once you select FluentCRM integration, you will need to configure the following-
 
 After configuring the integration, Click the **Save Feed** button to finalize your FluentCRM integration.
 
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/5-2.webp)
+![FluentCRM integration step](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/5-2.webp)
 
 After successful Integration, you will see your **FluentCRM** **Integration** **Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/enable-06-scaled.webp)
+![Enable FluentCRM integration](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/enable-06-scaled.webp)
 
 ### Automation Trigger with Fluent Form
 
@@ -89,7 +87,7 @@ Now, all the **Fluent Form Triggers** for creating an automation funnel are orga
 
 Once you select your desired **Trigger**, click the **Continue** button, and put a **Title** under the **Internal Label** field for this automation funnel so you can easily find it later.
 
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Automation-Funnels-FluentCRM-04-08-2025_01_17_PM-scaled.webp)
+![Automation Funnels FluentCRM](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Automation-Funnels-FluentCRM-04-08-2025_01_17_PM-scaled.webp)
 
 ### Subscription Cancelled (Fluent Form) Automation
 
@@ -111,7 +109,7 @@ This trigger starts the automation when a subscription is canceled. Once you sel
 
 Once you are done, click the **Save Settings** button to save all your changes.
 
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Subscription-cancelled-funnel-05-scaled.webp)
+![Subscription Cancelled Funnel](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Subscription-cancelled-funnel-05-scaled.webp)
 
 ### Subscription Payment Received (Fluent Form)
 
@@ -135,7 +133,7 @@ This trigger activates when a subscription payment is received. Once you select 
 
 Once you are done, click the **Save Settings** button to save all your changes.
 
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/555-scaled.webp)
+![FluentCRM integration step](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/555-scaled.webp)
 
 ### New Form Submission (Fluent Form)
 
@@ -148,6 +146,6 @@ Note: The settings options of this New Form Submission (Fluent Form) trigger wor
 
 Once the integration is complete, you can preview the contacts added to **FluentCRM** from form entries. These will be visible in the **Entries** section of the form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
-![](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/entries-form-07-scaled.webp)
+![Entries Fluent Forms](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/entries-form-07-scaled.webp)
 
 By integrating Fluent Forms with FluentCRM, you can easily sync user submissions with your CRM system, manage subscribers, and trigger automation workflows based on user actions.

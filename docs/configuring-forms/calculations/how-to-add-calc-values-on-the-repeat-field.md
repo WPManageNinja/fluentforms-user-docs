@@ -8,11 +8,12 @@ This article will provide a step-by-step guide on how you can add calc values to
 
 To add calculations in repeat fields, go to the **Fluent Forms dashboard**. Create a new form or open an existing one.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Now, drag and drop the **Repeat Field** into your form. Add the fields you want inside the **Repeat** **Field** (numeric fields, dropdowns, etc.).
 
-![](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/calc-repeat-field-01-scaled.webp)
+![Calc Repeat Field](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/calc-repeat-field-01-scaled.webp)
 
 ## Enable Calculations for Fields
 
@@ -24,11 +25,11 @@ Click the **Edit Icon** on a field inside the **Repeat Field**. Now scroll down 
 
 You can add as many columns as needed and update their calculation expressions accordingly.
 
-![](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/calculation-field-settings-02-scaled.webp)
+![Calculation Field Settings](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/calculation-field-settings-02-scaled.webp)
 
 Also you can add **Calculation Values** for each column based on your requirements. Enable the **Calc Values** options and enter the value you want to.
 
-![](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/calc-value-03.webp)
+![Calc Value](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/calc-value-03.webp)
 
 After that, you can add the Calculate the Total Number of Repeat Fields. Add a new numeric field to calculate the total number of repeat rows. Use {repeat.repeater_field} as the **Calculation Expression** for this total.
 
@@ -36,6 +37,6 @@ If you want to know more about **Repeat Field** then read the [Repeat Field](/do
 
 After that, click the **Save Form** button. Preview and test it by filling it out.
 
-![](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/Preview-calc-value-form-04-scaled.webp)
+![Preview Calc Value](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/Preview-calc-value-form-04-scaled.webp)
 
 Now you can use Calc Values with Repeat Fields in Fluent Forms!

@@ -12,11 +12,11 @@ First, go to **Plugins** in the **WordPress Admin Panel** on the left side, clic
 
 Now, click the **Install** button, and your Akismet plugin will be installed on your site.
 
-![](/images/security-spam/integrate-akismet-with-fluent-forms/1.-Install-Akismat-scaled.webp)
+![Install Akismat Fluent Forms](/images/security-spam/integrate-akismet-with-fluent-forms/1.-Install-Akismat-scaled.webp)
 
 Then, click the **Activate** button, and the Akismet plugin will be activated and ready to function.
 
-![](/images/security-spam/integrate-akismet-with-fluent-forms/2.-Active-Akismet-scaled.webp)
+![Active Akismet Fluent Forms](/images/security-spam/integrate-akismet-with-fluent-forms/2.-Active-Akismet-scaled.webp)
 
 ## Integrating Akismet with Fluent Forms
 
@@ -30,4 +30,4 @@ First, go to **Global Settings** from the **WordPress Left Sidebar** or **Fluent
 
 Lastly, don’t forget to click the **Save Settings** button to make all the setup functional. 
 
-![](/images/security-spam/integrate-akismet-with-fluent-forms/3.-Global-Settings-Miscellaneous-Enable-Akismet-scaled.webp)
+![Global Settings Miscellaneous Enable Akismet](/images/security-spam/integrate-akismet-with-fluent-forms/3.-Global-Settings-Miscellaneous-Enable-Akismet-scaled.webp)

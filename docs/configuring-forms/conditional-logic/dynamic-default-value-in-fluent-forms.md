@@ -8,9 +8,10 @@ In this article you will learn about the Dynamic Default value in fluent form.
 
 First, go to **Forms** from the top navbar, click the Edit button to **open** the **Editor** page of your **desired form.** 
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/configuring-forms/conditional-logic/dynamic-default-value-in-fluent-forms/edit-form-01-1-scaled-2.webp)
+![Edit Dynamic Default Value](/images/configuring-forms/conditional-logic/dynamic-default-value-in-fluent-forms/edit-form-01-1-scaled-2.webp)
 
 ## Choose a Dynamic Value (Shortcode)
 
@@ -64,4 +65,4 @@ The shortcode is –{random_string.your_prefix}. You can change the prefix to an
 
 Once set, **Save** the **Form**, and the field will populate dynamically during use.
 
-![](/images/configuring-forms/conditional-logic/dynamic-default-value-in-fluent-forms/default-value-scaled1.webp)
+![Default Value Scaled1](/images/configuring-forms/conditional-logic/dynamic-default-value-in-fluent-forms/default-value-scaled1.webp)

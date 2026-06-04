@@ -8,7 +8,7 @@ This guide explains step-by-step how to use these features.
 
 Go to the **Entries** section of your specific form. Now, locate the **Search Bar** on the top-right corner of the page. Use keywords like a name, email, or other relevant details to find specific entries instantly.
 
-![](/images/managing-submissions/entries/how-to-search-and-filter-form-entries/01-scaled.webp)
+![Search and Filter Form Entries step](/images/managing-submissions/entries/how-to-search-and-filter-form-entries/01-scaled.webp)
 
 ## Filter Entries
 
@@ -24,8 +24,8 @@ There are four types of filters available. You can choose any of them to sort th
 
 - Trashed: Displays deleted entries.
 
-![](/images/managing-submissions/entries/how-to-search-and-filter-form-entries/02-scaled.webp)
+![Search and Filter Form Entries step](/images/managing-submissions/entries/how-to-search-and-filter-form-entries/02-scaled.webp)
 
 **Date Filter:** Click on the **Date Filter** dropdown. Here options include pre-defined timeframes or custom date ranges using the **Select a Timeframe** option.
 
-![](/images/managing-submissions/entries/how-to-search-and-filter-form-entries/03-scaled.webp)
+![Search and Filter Form Entries step](/images/managing-submissions/entries/how-to-search-and-filter-form-entries/03-scaled.webp)

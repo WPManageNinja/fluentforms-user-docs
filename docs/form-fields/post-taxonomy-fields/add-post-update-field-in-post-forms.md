@@ -8,13 +8,11 @@ To learn how to add the Post Update field to the Post Forms in Fluent Forms, fol
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> If you don’t have an existing Post Form, read [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will only get the Post Update field under the Post Forms.
-
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/1.-Open-desired-Post-form-4-scaled.webp)
+![Open Post](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/1.-Open-desired-Post-form-4-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Fields** on the right sidebar and open the **Post Fields** dropdown list by clicking the **Arrow Icon**. Now, choose the **Post Update** field by clicking on it or **Drag & Drop** it into your editor.
 
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/2.-Add-Post-Update-field-scaled.webp)
+![Add Post Update Field](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/2.-Add-Post-Update-field-scaled.webp)
 
 ## Customize Post Update Field
 
@@ -26,7 +24,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/3.-Input-Customization-6-scaled.webp)
+![Input Customization](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/3.-Input-Customization-6-scaled.webp)
 
 ### 1. Post Update
 
@@ -44,7 +42,7 @@ All the **Settings** under the **Post Update** tab mentioned in the screenshot a
 
 **F. Extra Query Parameter**: Here, you can provide the **Post Query Parameter** for further filtering. To learn more details about the Extra Query Parameter, see the [Post Selection Module in Fluent Forms](/docs/post-selection-module-in-fluent-forms).
 
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/4.-Post-Update-option-scaled.webp)
+![Post Update Option](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/4.-Post-Update-option-scaled.webp)
 
 ### 2. Advanced Options
 
@@ -64,7 +62,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **G. Enable Searchable Smart Options**: If you enable this option, it will be searchable by the select2 js library.
 
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/5.-Advanced-Options-7-scaled.webp)
+![Advanced Options](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/5.-Advanced-Options-7-scaled.webp)
 
 ## Configure Post Feed Settings
 
@@ -76,7 +74,7 @@ First, go to **Settings & Integrations** from the **Editor** page, open the **Po
 
 > If you don’t have an existing post feed, you can add a new one by clicking the + Add Post Feed button. For example, I used an existing Feed to show the process.
 
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/6.-Add-Post-Feed-scaled.webp)
+![Add Post Feed](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/6.-Add-Post-Feed-scaled.webp)
 
 Then, a pop-up page will appear with various settings options for configuring the Post Feed.
 
@@ -86,7 +84,7 @@ Then, a pop-up page will appear with various settings options for configuring th
 
 Once the setup is done, click the **Save Feed** button and your **Post Feed** will be configured. Now, your Post Update will function successfully!
 
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/7.-Update-Post-option-scaled.webp)
+![Update Post Option](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/7.-Update-Post-option-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -95,13 +93,13 @@ To embed and display the form on a specific Page/Post on your site, **copy** the
 Once you complete the customization, click the **Save** **Form** button to save all your changes.
 Also, to see the form preview, click the **Preview & Design** button in the middle.
 
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/8.-Save-Form-scaled-2.webp)
+![Save Post Update Field in](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/8.-Save-Form-scaled-2.webp)
 
 ## Preview of Post Update field
 
 Here is the preview of the added **Post Update** field in a Post Form.
 Now, click the **Arrow Icon** to view all available posts on your site and select the one you need.
 
-![](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/9.-Form-Preview-scaled.webp)
+![Preview Post Update Field in](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/9.-Form-Preview-scaled.webp)
 
 This way you can easily add the **Post Update** fields in Fluent Forms!

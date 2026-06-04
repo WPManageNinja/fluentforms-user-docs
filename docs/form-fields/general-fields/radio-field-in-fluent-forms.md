@@ -14,15 +14,13 @@ To learn how to add the radio field to the Fluent Forms, follow the steps with t
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/Editor-Form-01-scaled.webp)
+![Editor Fluent Forms](/images/form-fields/general-fields/radio-field-in-fluent-forms/Editor-Form-01-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Radio Field** by clicking or **drag and drop** it into your editor.
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/new-10-scaled.webp)
+![Radio Field step](/images/form-fields/general-fields/radio-field-in-fluent-forms/new-10-scaled.webp)
 
 ## Customizing the Radio Field
 
@@ -32,7 +30,7 @@ After adding the field, customize it. **Hover over the field** and click the **P
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/Input-customization-03-8-scaled.webp)
+![Input Customization](/images/form-fields/general-fields/radio-field-in-fluent-forms/Input-customization-03-8-scaled.webp)
 
 ### Radio Field Options
 
@@ -70,7 +68,7 @@ You can also save time by importing predefined datasets instead of manually addi
 
 **H. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/Basic-options-04-8-scaled.webp)
+![Basic Options](/images/form-fields/general-fields/radio-field-in-fluent-forms/Basic-options-04-8-scaled.webp)
 
 ### Advanced Options
 
@@ -90,7 +88,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/Advanced-option-05-1-1024x439.webp)
+![Advanced Option X439](/images/form-fields/general-fields/radio-field-in-fluent-forms/Advanced-option-05-1-1024x439.webp)
 
 ## Embedding the Form on Your Website
 
@@ -98,26 +96,26 @@ Once customization is complete, click the **Save** **Form** button to save all y
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/Save-Form-06-9-scaled.webp)
+![Save Radio Field](/images/form-fields/general-fields/radio-field-in-fluent-forms/Save-Form-06-9-scaled.webp)
 
 ## Preview of Radio Button Field
 
 Here is the preview of the added **Radio Button** field under the Form. 
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/preview-07-4.webp)
+![Preview Radio Field](/images/form-fields/general-fields/radio-field-in-fluent-forms/preview-07-4.webp)
 
 ### Image Button Layout
 
 First, enable the **Photo** Option from your radio field’s options. Then, **Upload** images for each option in the **Photo** setting.
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/Photo-08-1-scaled.webp)
+![Photo](/images/form-fields/general-fields/radio-field-in-fluent-forms/Photo-08-1-scaled.webp)
 
 After that, Customize the **Layout**. Now, navigate **Advanced Options** and select the desired **Button Layout** from the dropdown menu.
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/button-layout-09-scaled.webp)
+![Button Layout Radio Field](/images/form-fields/general-fields/radio-field-in-fluent-forms/button-layout-09-scaled.webp)
 
 Once configured, the radio button field will display with clickable image options.
 
-![](/images/form-fields/general-fields/radio-field-in-fluent-forms/button-style-preview-10.webp)
+![Button Style Preview Radio Field](/images/form-fields/general-fields/radio-field-in-fluent-forms/button-style-preview-10.webp)
 
 **Congratulations!** Your **Radio Button Field** is now ready for use, with **custom layouts, images, and logic settings**.

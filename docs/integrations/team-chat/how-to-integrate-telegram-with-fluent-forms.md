@@ -2,7 +2,8 @@
 
 **Fluent Forms** allows you to integrate with [Telegram](https://telegram.org/) to send desired information as instant notifications to your Telegram channel or group when a form is submitted. This article will guide you through integrating **Telegram** in **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Telegram is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Telegram** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Telegram Integration
 
@@ -12,11 +13,11 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Tel
 
 Now, turn on the **Toggle** to enable **Telegram**, and click the **Settings Icon** on the right side. 
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/1.-Enabled-Telegram-module-scaled.webp)
+![Enabled Telegram Module](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/1.-Enabled-Telegram-module-scaled.webp)
 
 Once you enable Telegram, you will be asked for the **Bot Token** and the **Default Channel/Group Chat ID** of your **Telegram Account**.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/2.-Telegram-Settings-page-scaled.webp)
+![Telegram Settings Page](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/2.-Telegram-Settings-page-scaled.webp)
 
 ### Getting the Bot Token and Chat ID from Telegram
 
@@ -26,15 +27,15 @@ To learn how to get the **Bot Token** and **Chat ID** of the Channel/Group from 
 
 First, log in to your **Telegram Account**, go to the [@Bot](https://t.me/BotFather)[Father](https://t.me/BotFather) chat, and click the **Start** button to start the bot in your Telegram application.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/3.-BotFather-Start-button-scaled.webp)
+![Botfather Start Button](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/3.-BotFather-Start-button-scaled.webp)
 
 Then **create a new bot** by sending the **‘/newbot’** command using the help message.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/4.-Create-a-new-bot.webp)
+![Create Bot Fluent Forms](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/4.-Create-a-new-bot.webp)
 
 Provide a relevant **Name** and a **Username** for your bot (**username** must end with the text **‘Bot’** or **‘bot’**). After finishing these steps, **@BotFather** will provide the **Bot Token**. Simply, copy it.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/5.-Copy-Bot-Token.webp)
+![Copy Bot Token](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/5.-Copy-Bot-Token.webp)
 
 #### Getting Channel/Group Chat ID
 
@@ -44,15 +45,16 @@ First, **add** the **Bot** you created through **@BotFather** in the previous st
 
 Once you make your Bot Admin, you can see the preview from **View group info** by clicking the **Three-dots icon** on the right side of the **Group page**.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/6.-Fluent-Forms-group-view.webp)
+![Group View Fluent Forms](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/6.-Fluent-Forms-group-view.webp)
 
 Finally, to get the **Chat ID** of your group, add [@GetIdsBot](https://t.me/getidsbot) as a member of the same group.
 
 After adding the **GetIDs Bot as a member**, you will receive a message to the group with the Group **Chat ID**. Simply, copy it.
 
-> Remember, the Chat ID starts with a Minus sign (-), and you would have to copy the code exactly provided by the GetIDs bot.
+> [!Note]
+> **Chat ID** starts with a minus sign (`-`). Copy it exactly as shown by the GetIDs bot.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/7.-Copy-Chat-ID.webp)
+![Copy Chat ID](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/7.-Copy-Chat-ID.webp)
 
 ## Connecting Telegram with Fluent Forms
 
@@ -63,17 +65,17 @@ Paste the **Bot Token** and **Chat ID** you copied from **Telegram** into the **
 Plus, to check whether integration is successful, enter any text in the **Test Message (optional)** field.
 Finally, press the **Save Setting**s button, and your **Telegram Integration** module will be enabled.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/8.-Paste-Bot-Token-and-Chat-ID-scaled.webp)
+![Paste Bot Token And Chat ID](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/8.-Paste-Bot-Token-and-Chat-ID-scaled.webp)
 
 Here, you can see that the test message has been successfully sent to the Telegram Group, indicating the integration is now functional.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/9.-Preview-of-Test-Message.webp)
+![Preview Test Message Integrate Telegram](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/9.-Preview-of-Test-Message.webp)
 
 Finally, you can see that your Telegram is connected to your **Fluent Forms** successfully!
 
 Now, you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect Telegram** buttons.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/10.-Verify-or-Disconnect-button-scaled.webp)
+![Verify Or Disconnect Button](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/10.-Verify-or-Disconnect-button-scaled.webp)
 
 ## Integrating Telegram with Forms
 
@@ -81,13 +83,11 @@ To learn how to integrate Telegram into any specific Form in Fluent Forms, follo
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Telegram,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
-
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/11.-Open-desired-Form-Settings-scaled.webp)
+![Open Settings Integrate Telegram](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/11.-Open-desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Telegram Integration** feed from the dropdown list. 
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/12.-Add-new-integration-button-scaled.webp)
+![Add Integration Button Integrate Telegram](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/12.-Add-new-integration-button-scaled.webp)
 
 Now, a pop-up page will appear with various settings options for configuring Telegram. 
 
@@ -105,13 +105,13 @@ Now, a pop-up page will appear with various settings options for configuring Tel
 
 Once the setup is done, click the **Save Feed** button, and your Telegram will be integrated into this specific form!
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/13.-Save-Feed-button-scaled.webp)
+![Save Feed Button Integrate Telegram](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/13.-Save-Feed-button-scaled.webp)
 
 After successful Integration, you will see that your **Telegram Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/14.-Added-Telegram-Integration-Feed-scaled.webp)
+![Added Telegram Integration Feed](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/14.-Added-Telegram-Integration-Feed-scaled.webp)
 
 ## Preview of Integrated Telegram
 
@@ -119,10 +119,10 @@ Here, you can see the preview of added Telegram Notifications through the Form E
 
 **For example**, you can see two new **Form Submissions** under the **Entries** tab on this particular form.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/15.-Entries-tab-scaled.webp)
+![Entries Tab Fluent Forms](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/15.-Entries-tab-scaled.webp)
 
 Now, go to the **Telegram Group** you integrated and you can see the preview of the notification messages of Telegram through the Form entries.
 
-![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/16.-Preview-of-added-notification.webp)
+![Preview Added Notification Integrate Telegram](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/16.-Preview-of-added-notification.webp)
 
 This way, you can easily integrate Telegram with Fluent Forms!

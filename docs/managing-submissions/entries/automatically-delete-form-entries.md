@@ -8,11 +8,11 @@ You can choose to delete entries right after they’re submitted or after a set 
 
 First, you need to navigate to the correct settings panel for the form you want to configure. From your WordPress dashboard, go to **Fluent Forms**. Hover over the title of the form you want to edit and click on **Settings**.
 
-![](/images/managing-submissions/entries/automatically-delete-form-entries/Forms-settings-01-scaled.webp)
+![Settings Automatically Delete Form Entries](/images/managing-submissions/entries/automatically-delete-form-entries/Forms-settings-01-scaled.webp)
 
 On the settings page, look for the **Compliance Settings** tab in the left-hand menu and click on it. 
 
-![](/images/managing-submissions/entries/automatically-delete-form-entries/Compailance-settings-02-scaled.webp)
+![Compailance Settings](/images/managing-submissions/entries/automatically-delete-form-entries/Compailance-settings-02-scaled.webp)
 
 ### Delete Entries Right After Submission
 
@@ -24,7 +24,7 @@ In the **Compliance Settings**, check the box next to **Delete entry data after 
 
 After that, click the **Save Settings** button to apply the change.
 
-![](/images/managing-submissions/entries/automatically-delete-form-entries/delete-entry-data-after-form-submission-03-scaled.webp)
+![Delete Entry Data After Submission](/images/managing-submissions/entries/automatically-delete-form-entries/delete-entry-data-after-form-submission-03-scaled.webp)
 
 ### Delete Old Entries After a Specific Time
 
@@ -36,7 +36,7 @@ In the **Compliance Settings**, check the box next to **Enable auto delete old e
 
 After that, click the **Save Settings** button to activate your new auto-deletion rule.
 
-![](/images/managing-submissions/entries/automatically-delete-form-entries/enable-auto-delete-old-entries-04-scaled.webp)
+![Enable Auto Delete Old Entries Automatically Delete Form Entries](/images/managing-submissions/entries/automatically-delete-form-entries/enable-auto-delete-old-entries-04-scaled.webp)
 
 And that's it! You've successfully set up your form to automatically manage its entries. You can change these settings anytime by simply unchecking the box and saving the form.
 

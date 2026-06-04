@@ -12,15 +12,16 @@ To learn how to add the **Action Hook** field to Fluent Forms, follow the steps 
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/form-editor-01.png)
+![Editor Fluent Forms](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/form-editor-01.png)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 yYou can select the desired **Action Hook** **Input** field by **clicking** on it or **Dragging** and **Dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/add-action-hook-02-1024x500.png)
+![Add Action Hook 1024x500](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/add-action-hook-02-1024x500.png)
 
 ## Customizing the Action Hook Field
 
@@ -30,7 +31,7 @@ Once you add the action hook field, you can customize it by hovering over it and
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/AD_4nXcfzLitBhLasEJrZHRSs-EtWGfmnRGGbzuXeqthf4HW-fG6ukOrNURYJMYtbJC1YqrZx462LjYmx59rSvlwn1tg3mDTtO03_DasAJg-zAgMmmu7_15sDP-BkzggW0i9EK-AKzCWFQ.png)
+![Ad 4nxcfzlitbhlasejrzhrss Etwgfmnrggbzuxeqthf4hw Fg6ukornuryjmytbjc1yqrzx462ljymx59rsvlwn1tg3mdtto03](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/AD_4nXcfzLitBhLasEJrZHRSs-EtWGfmnRGGbzuXeqthf4HW-fG6ukOrNURYJMYtbJC1YqrZx462LjYmx59rSvlwn1tg3mDTtO03_DasAJg-zAgMmmu7_15sDP-BkzggW0i9EK-AKzCWFQ.png)
 
 #### Action Hook Input Options
 
@@ -45,7 +46,7 @@ function your_function_name( $form ) {
   // do whatever you want
 }
 
-![](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/action-Hook-options-04.png)
+![Action Hook Options](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/action-Hook-options-04.png)
 
 #### Advanced Options
 
@@ -55,7 +56,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/Advanced-option-05.png)
+![Advanced Option](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/Advanced-option-05.png)
 
 ## Embed the Form into the Front
 
@@ -65,6 +66,6 @@ To display the form on a specific page or post, **Copy** the **Shortcode** from 
 
 To preview the form, click **Preview & Design** in the middle of the page.
 
-![](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/Save-Form-06.png)
+![Save Action Hook Field](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/Save-Form-06.png)
 
 Your **Action Hook** field is now successfully integrated into your Fluent Form.

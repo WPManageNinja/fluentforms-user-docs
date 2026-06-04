@@ -14,15 +14,16 @@ To learn how to add the **GDPR Agreement** field to Fluent Forms, follow the ste
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/editor-form-01-2-scaled.webp)
+![Editor](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/editor-form-01-2-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **GDPR Agreement** **Input** field by clicking on it or **dragging** it and **dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/adding-GDPR-agreement-02-scaled.webp)
+![Adding GDPR Agreement](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/adding-GDPR-agreement-02-scaled.webp)
 
 ### Customizing the GDPR Agreement Field
 
@@ -32,7 +33,7 @@ Once you add the GDPR agreement field, you can customize it by hovering over it 
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Input-Customization-03-22-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Input-Customization-03-22-scaled.webp)
 
 #### GDPR Agreement Options
 
@@ -48,7 +49,7 @@ You will find various settings options for customizing the field. Located in the
 
 **D. Description:** In this part of the GDPR Agreement Field, enter the consent statement users must agree to. This statement explains how data will be collected, stored, and used.
 
-![](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/GDPR-agreement-options-04-scaled.webp)
+![GDPR Agreement Options](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/GDPR-agreement-options-04-scaled.webp)
 
 #### Advanced Options
 
@@ -60,7 +61,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Advanced-options-05-18-scaled.webp)
+![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Advanced-options-05-18-scaled.webp)
 
 ### Embed the Form into the Front
 
@@ -70,12 +71,12 @@ To display the form on a specific page or post, **Copy** the **Shortcode** from 
 
 To preview the form, click **Preview & Design** in the middle of the page.
 
-![](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Save-Form-06-21-scaled.webp)
+![Save GDPR Agreement Field](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Save-Form-06-21-scaled.webp)
 
 ### Preview of Added GDPR Agreement Field
 
 Here is a preview of the form with the **GDPR Agreement** field.
 
-![](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Preview-07-13.webp)
+![Preview GDPR Agreement Field](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Preview-07-13.webp)
 
 Congratulations! You have successfully added the GDPR Agreement Field to your Fluent Forms form.

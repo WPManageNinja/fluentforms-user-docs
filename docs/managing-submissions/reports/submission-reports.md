@@ -28,13 +28,13 @@ This chart provides a quick overview of your submission activity for the selecte
 
 - Overall Read Rate: The percentage of total submissions that have been marked as read.
 
-![](/images/managing-submissions/reports/submission-reports/Submission-01.webp)
+![Submission Fluent Forms](/images/managing-submissions/reports/submission-reports/Submission-01.webp)
 
 ### Analyzing the Submissions Chart
 
 The **Submissions** bar chart visualizes entry volume and status over time. The color-coded bars correspond to the legend on the right, which includes statuses like **Read**, **Unread**, **Spam**, and **Trashed**. This helps you see which days had the most activity and the status of those entries.
 
-![](/images/managing-submissions/reports/submission-reports/submission-cahrts-02.webp)
+![Submission Cahrts](/images/managing-submissions/reports/submission-reports/submission-cahrts-02.webp)
 
 ### Using the Submission Analysis Table
 
@@ -52,6 +52,6 @@ Use the dropdown menu at the top-right of the table to change the analysis type.
 
 - Submission Date
 
-![](/images/managing-submissions/reports/submission-reports/submission-analysis-by-forms-03-scaled.webp)
+![Submission Analysis By](/images/managing-submissions/reports/submission-reports/submission-analysis-by-forms-03-scaled.webp)
 
 This dashboard offers powerful insights into how users interact with your forms. For per-field charts on a single form, see [Visual Representation of Form Entries](/docs/visual-representation-of-form-entries-in-fluent-forms).

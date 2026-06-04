@@ -8,17 +8,17 @@ Integrate your **Automizy** account easily with **[Fluent Forms Pro](/docs/up
 
 Go to the **WordPress Left Sidebar**, **Fluent Forms** plugin, click the **Integrations**, and turn on the **Automizy** Module, as shown in the screenshot below.
 
-![](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Integrations-_E2_80_B9-Fluent-Forms-Test-_E2_80_94-WordPress-2.png)
+![Integrations E2 B9 Test E2 Wordpress](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Integrations-_E2_80_B9-Fluent-Forms-Test-_E2_80_94-WordPress-2.png)
 
 Once you enable **Automizy**, you will be asked for the **Automizy API Token**.
 
-![](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Integrations-_E2_80_B9-Fluent-Forms-Test-_E2_80_94-WordPress-1-1.png)
+![Integrations E2 B9 Test E2 Wordpress](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Integrations-_E2_80_B9-Fluent-Forms-Test-_E2_80_94-WordPress-1-1.png)
 
 ### Get your Automizy API Token
 
 First, click this [Link](https://app.automizy.com/signin), log into your **Automizy**, go to **Settings**, click the **API Token**, and a **New API Token** will generate. Simply, copy the API Token.
 
-![](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Automizy-api.png)
+![Automizy API Fluent Forms](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Automizy-api.png)
 
 ## Connect Automizy with Fluent Forms
 
@@ -28,7 +28,7 @@ Then, paste the **API Token** you copied from **Automizy** into the **Automizy A
 
 Finally, press the **Save Settings** button to save all your changes.
 
-![](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/auto.png)
+![Auto Fluent Forms](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/auto.png)
 
 ## Integrate Automizy Feed in Forms
 
@@ -38,7 +38,7 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 Then, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Automizy Integration** feed from the dropdown list. 
 
-![](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Form-Integrations-Fluent-Forms-1.png)
+![Integrations Fluent Forms](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Form-Integrations-Fluent-Forms-1.png)
 
 - Name the feed and select the Automizy fields from the dropdown.
 
@@ -48,4 +48,4 @@ Then, go to the **Configuration Integrations** tab, click the **Add New Integrat
 
 - Click on Create Automizy Feed when the configuration is done.
 
-![](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Automizy-feed.png)
+![Automizy Feed Fluent Forms](/images/integrations/email-marketing/automizy-integration-with-fluent-forms/Automizy-feed.png)

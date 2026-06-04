@@ -16,7 +16,7 @@ First, go to **Global Settings** from the **FluentForms Navbar**, open the **Sec
 
 Now, select the desired **Version** of **reCAPTCHA** and provide the **Site Key** and **Secret Key** of your chosen reCAPTCHA version. **For example**, I chose V3 to show the process. 
 
-![](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/1.-Global-Settings-Security-reCAPTCHA-Settings-scaled.webp)
+![Global Settings Security reCAPTCHA Settings](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/1.-Global-Settings-Security-reCAPTCHA-Settings-scaled.webp)
 
 ### Get the reCAPTCHA Site and Secret Key
 
@@ -24,7 +24,7 @@ To learn how to get the reCAPTCHA Site and Secret keys, follow the steps with th
 
 First, go to the [Google reCAPTCHA Site](https://www.google.com/recaptcha/admin/), and click the **Plus Icon**.  
 
-![](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/2.-Plus-Icon-scaled.webp)
+![Plus Icon Fluent Forms](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/2.-Plus-Icon-scaled.webp)
 
 Now, put a **Name** into the **Label** field to identify your website in the future and choose the **reCAPTCHA type** you prefer (v2 or v3). For example, I have chosen reCAPTCHA V3. 
 
@@ -32,13 +32,13 @@ Then, enter your website/s address in the **Domains** field to register your dom
 
 Once you provide all the necessary information, click the **Submit** button, and you will get your desired Site key and Secret key.
 
-![](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/3.-Register-a-new-site-page.webp)
+![Register Site Page](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/3.-Register-a-new-site-page.webp)
 
 Here, you will get your desired Site key and Secret key. Simply, copy them by clicking the **Copy Site Key** and **Copy Secret Key** buttons.
 
 For additional settings, click the **Go To Settings** button, and the settings page will appear. 
 
-![](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/4.-copy-site-and-secret-key.webp)
+![Copy Site And Secret Key](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/4.-copy-site-and-secret-key.webp)
 
 ## Connecting reCAPTCHA with Fluent Forms
 
@@ -48,7 +48,7 @@ Now, paste the **Keys** you copied from the **Google reCAPTCHA Site** into the *
 
 Finally, press the **Save Setting**s button to make your **reCAPTCHA Integration** functional. 
 
-![](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/5.-paste-keys-scaled.webp)
+![Paste Keys Fluent Forms](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/5.-paste-keys-scaled.webp)
 
 ## Integrating reCAPTCHA with Forms
 
@@ -56,14 +56,13 @@ To learn the process of integrating the reCAPTCHA in a specific form, follow the
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this reCAPTCHA protection.
 
-> If you do not have any existing forms, read the [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
-
-![](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/6.-desired-Form-Editor-scaled.webp)
+![Editor Fluent Forms](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/6.-desired-Form-Editor-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Fields** on the right side, open the **Advanced Fields** dropdown list, and click the [reCAPTCHA input field](/docs/recaptcha-field-in-fluent-forms).
 
 Finally, click the **Save Form** button to integrate your configured reCAPTCHA into this form.
 
-> Remember, you can not add the reCaptcha field for a specific form if you already enabled it globally for all forms.
+> [!Note]
+> You cannot add a per-form **reCAPTCHA** field when reCAPTCHA is already enabled globally for all forms.
 
-![](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/7.-reCAptcha-input-field-Save-Form-button-scaled.webp)
+![reCAPTCHA Input Field Save Button](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/7.-reCAptcha-input-field-Save-Form-button-scaled.webp)

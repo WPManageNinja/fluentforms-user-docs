@@ -8,23 +8,22 @@
 
 ## Creating Conversational Forms
 
-To learn how to create a conversational form, follow the steps with screenshots below – 
-
-To start, log in to your **WordPress Dashboard**. Now, navigate to the **Fluent Forms** **Plugin** and click the **New Form** button from the left sidebar. 
+From your **WordPress Dashboard**, navigate to the **Fluent Forms** **Plugin** and click the **New Form** button from the left sidebar. 
 
 Or, go to **Fluent Forms > Forms** from the **WordPress Dashboard** and click the **+ Add New Form** button. 
 
-![](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/1.-New-Form-or-Add-New-Form-button-scaled.webp)
+![Add new form](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/1.-New-Form-or-Add-New-Form-button-scaled.webp)
 
 Now, a pop-up will appear with three options. Click the **Create Conversational Form** tab.
 
-![](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/2.-Create-Conversational-Form-tab-scaled.webp)
+![Conversational form tab](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/2.-Create-Conversational-Form-tab-scaled.webp)
 
 ### Customizing Form
 
 Now you are on the **Editor** page of your newly created conversational form. Here you can see four fields are already added that you can customize. Also, you can add other fields according to your needs. 
 
-> [Container Fields](/docs/add-container-fields-in-fluent-forms) are not supported in Conversational forms
+> [!Note]
+> Container Fields are not supported in Conversational forms
 
 To customize an added field, **hover over it** and the customization options will appear. These are:
 
@@ -38,7 +37,7 @@ d. **Delete**: Click this **Trash Icon** and your field will be deleted.
 
 e. **Add new field**: Click this **Plus Icon** to add a new input field/s to your form. You can also add new fields using the **Input Fields tab** from the right sidebar.
 
-![](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/3.-Move-Edit-Duplicate-Delete-and-Plus-buttons-scaled.webp)
+![Conversational field tools](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/3.-Move-Edit-Duplicate-Delete-and-Plus-buttons-scaled.webp)
 
 ## Embedding Form into Frontend
 
@@ -46,7 +45,7 @@ After customization, click the **Save Form** button in the top right corner to s
 
 Click the **Preview & Design** button in the middle to see a preview of your form. You can also copy the **Form ShortCode** from the top bar to display it on the front end. 
 
-![](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/4.-Save-Form-button-scaled.webp)
+![Save conversational form](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/4.-Save-Form-button-scaled.webp)
 
 ## Preview of Form
 
@@ -54,4 +53,4 @@ Once your form is ready, learn how to style it in [How to Design a Conversationa
 
 Here is the preview of the newly created conversational form.
 
-![](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/5.-Form-Preview.webp)
+![Conversational form preview](/images/creating-forms/conversational-forms/how-to-create-a-conversational-form/5.-Form-Preview.webp)

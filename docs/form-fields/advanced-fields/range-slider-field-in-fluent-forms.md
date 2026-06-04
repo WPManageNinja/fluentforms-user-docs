@@ -16,15 +16,16 @@ To add the Range Slider Field in Fluent Forms, follow the easy steps below:
 
 First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** **Icon** to open the Editor page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Form-Editor-01-3-scaled.webp)
+![Editor](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Form-Editor-01-3-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.zz
 
 Now, select the **Range Slider** field by clicking on it or dragging and dropping it into your editor.
 
-![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Adding-Range-Slider-02-scaled.webp)
+![Adding Range Slider](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Adding-Range-Slider-02-scaled.webp)
 
 ## Customizing the Range Slider Field
 
@@ -34,7 +35,7 @@ Once you add the **Range Slider** fiezld, you can customize it by hovering over 
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Input-Customization-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Input-Customization-scaled.webp)
 
 ### Range Slider Options
 
@@ -62,7 +63,7 @@ You can add **a default value** by clicking the **Three-Dot** option on the righ
 
 **I. Enable Quantity Mapping:** Select the Yes button to Enable Quantity Mapping. It indicates that this field is mapped to a [product quantity](/docs/add-item-quantity-field-in-payment-forms) (likely for e-commerce or order forms). After that, **Choose a Target Product Field** to ensure correct quantity mapping.
 
-![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Rage-Slider-03-1-scaled.webp)
+![Rage Slider](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Rage-Slider-03-1-scaled.webp)
 
 ### Advanced Options
 
@@ -78,7 +79,7 @@ Advanced settings allow furtherz customization to meet specific use cases. All t
 
 **E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Advanced-Options-04-1-scaled.webp)
+![Advanced Options](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Advanced-Options-04-1-scaled.webp)
 
 ## Embed the Form into Front
 
@@ -86,12 +87,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Save-Form-05-4-scaled.webp)
+![Save Range Slider Field](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Save-Form-05-4-scaled.webp)
 
 ## Preview of Added Range Slider Field
 
 Here is the preview of the added **Range Slider** field under the Form. 
 
-![](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/preview-06-2.webp)
+![Preview Range Slider Field](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/preview-06-2.webp)
 
 Congratulations! You have successfully added range slider input to your **Fluent** **Forms** form.

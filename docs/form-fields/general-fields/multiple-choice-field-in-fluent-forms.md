@@ -14,15 +14,13 @@ To learn how to add the multiple choice field to the Fluent Forms, follow the st
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/edit-form-01-4-scaled.webp)
+![Edit Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/edit-form-01-4-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Multiple Choice** field by clicking on it or **Drag and Drop** it into your editor.
 
-![](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/new-8-scaled.webp)
+![Multiple Choice Field step](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/new-8-scaled.webp)
 
 ## Customizing the Multiple Choice Field
 
@@ -32,7 +30,7 @@ After adding the field, customize the field. Now **Hover over the field** and cl
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/input-customization-03-6-scaled.webp)
+![Input Customization](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/input-customization-03-6-scaled.webp)
 
 ### Multiple Choice Options
 
@@ -70,7 +68,7 @@ You can also save time by importing predefined datasets instead of manually addi
 
 **H. Required:** Decide whether users must select at least one option before submission.
 
-![](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Basic-options-04-6-scaled.webp)
+![Basic Options](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Basic-options-04-6-scaled.webp)
 
 ### Advanced Options
 
@@ -88,7 +86,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Advance-doptions-05-scaled.webp)
+![Advance Doptions](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Advance-doptions-05-scaled.webp)
 
 ## Embedding the Form into Frontend
 
@@ -96,7 +94,7 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/save-form-06-7-scaled.webp)
+![Save Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/save-form-06-7-scaled.webp)
 
 ## Preview of Added Multiple Choice Field
 
@@ -104,6 +102,6 @@ Here is the preview of the added **Multiple Choice** field under the Form.
 
 > You can get the visual representation of this Form. To learn more, read [Visual Representation of Form Entries in Fluent Forms](/docs/visual-representation-of-form-entries-in-fluent-forms).
 
-![](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Preview-07-3.webp)
+![Preview Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Preview-07-3.webp)
 
 **Congratulations!** Your **Multiple Choice Field** is now ready to collect user selections effectively.

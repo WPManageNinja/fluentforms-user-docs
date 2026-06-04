@@ -2,7 +2,8 @@
 
 Integrating **CleverReach** with **Fluent Forms** allows you to grow your CleverReach Subscriber list through the users of Fluent Forms. This article will guide you through integrating **CleverReach** with **Fluent Forms** on your **WordPress Site**.
 
-> Remember, CleverReach is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **CleverReach** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable CleverReach Integration
 
@@ -13,11 +14,11 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Cle
 Now, turn on the **Toggle** to enable the **CleverReach**.
 Then, you will see the CleverReach’s **Settings Icon** on the right side, click on it. 
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/1.-Enabled-CleverReach-scaled.webp)
+![Enabled Cleverreach Fluent Forms](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/1.-Enabled-CleverReach-scaled.webp)
 
 Once you enable CleverReach, you will be asked for the **CleverReach Client ID** and **CleverReach Client Secret** of your **CleverReach Account**. 
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/2.-CleverReach-Client-ID-and-Secret-scaled.webp)
+![Cleverreach Client ID And Secret](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/2.-CleverReach-Client-ID-and-Secret-scaled.webp)
 
 ### Get the CleverReach Client ID and Secret
 
@@ -25,27 +26,27 @@ To learn how to get the  **CleverReach Client ID** and **CleverReach Client Secr
 
 First, log in to your [CleverReach Account](https://www.cleverreach.com/en-de/login/), go to **Profile** from the top right corner, and click the **My Account** button. 
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/3.-Profile-Icon-My-Account-page-scaled.webp)
+![Profile Icon My Account Page](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/3.-Profile-Icon-My-Account-page-scaled.webp)
 
 Now, open the **Interfaces** dropdown list and go to the **Rest API** option.
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/4.-Rest-API-option-scaled.webp)
+![Rest API Option](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/4.-Rest-API-option-scaled.webp)
 
 Click the **Create OAuth2 app** button.
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/5.-Create-Oath2-App.webp)
+![Create Oath2 App](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/5.-Create-Oath2-App.webp)
 
 Then give your OAuth **App** a **Name**, choose **REST API Version 3** from the dropdown list, keep the **Redirect URL ( * )**,  select the** Scopes **as** Recipients **and** Forms**, and press the** Create Now** button. 
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/6.-Create-Now-button.webp)
+![Create Now Button](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/6.-Create-Now-button.webp)
 
 Once you created the OAuth2 app, click the **Three-dot Icon** in the right corner, and go to the **Edit** page of that app. 
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/7.-Edit-button-of-newly-created-rest-API.webp)
+![Edit Button Newly Created Rest API Integrate CleverReach](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/7.-Edit-button-of-newly-created-rest-API.webp)
 
 Now go to the **Oauth2 App Data** tab and copy the **Client ID** and **Client Secret** by clicking the **Copy Icon**.
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/8.-Copy-Client-ID-and-Secret-1.webp)
+![Copy Client ID And Secret](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/8.-Copy-Client-ID-and-Secret-1.webp)
 
 ## Connect CleverReach with Fluent Forms
 
@@ -55,22 +56,22 @@ Paste the **Client ID** and **Client Secret** you copied from **CleverReach** in
 
 Finally, press the **Save Setting**s button to save your all changes.
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/9.-Paste-Client-ID-and-Secret-scaled.webp)
+![Paste Client ID And Secret](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/9.-Paste-Client-ID-and-Secret-scaled.webp)
 
 Once you click the **Save Settings**, it will redirect you to the **CleverReach Login Portal** again to connect it with **Fluent Forms** and make the integration functional. 
 
 Now, provide your **Login Information** (**Customer ID, User Name**, and **User password**), and click the **login now & connect the Fluent Forms** button.
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/10.-Login-now-and-connect-Fluent-Form-button.webp)
+![Login Now And Connect Button](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/10.-Login-now-and-connect-Fluent-Form-button.webp)
 
 You can find your **CleverReach** **Customer ID** under the **Profile Menu** beside the **Account** option. 
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/11.-Customer-ID-or-Account-Number-scaled.webp)
+![Customer ID Or Account Number](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/11.-Customer-ID-or-Account-Number-scaled.webp)
 
 Now, you can see, your **CleverReach** is connected to your **Fluent Forms** successfully.
 You can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect CleverReach** buttons if needed.  
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/12.-Verify-or-Disconnect-button-scaled.webp)
+![Verify Or Disconnect Button](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/12.-Verify-or-Disconnect-button-scaled.webp)
 
 ## Integrate CleverReach into Fluent Forms
 
@@ -78,18 +79,16 @@ To learn how to integrate CleverReach into any specific Form in Fluent Forms, fo
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **CleverReach,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
-
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/Open-Desired-Form-Settings-scaled.webp)
+![Open Settings Integrate CleverReach](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/Open-Desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **CleverReach Integration** feed from the dropdown list. 
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/14.-Add-New-Integration-button-scaled.webp)
+![Add Integration Button Integrate CleverReach](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/14.-Add-New-Integration-button-scaled.webp)
 
 Here, you will find a required field to set a **Name** for your integration feed according to your preference.
 Also, you need to select the **CleverReach List** from the dropdown where you want to send the submitted form data. 
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/15.-CleverReach-List-scaled.webp)
+![Cleverreach List Fluent Forms](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/15.-CleverReach-List-scaled.webp)
 
 Once you select the form, a pop-up page will appear with various settings options for configuring the CleverReach.
 
@@ -108,13 +107,13 @@ Once you select the form, a pop-up page will appear with various settings option
 Once the setup is done, finally, click the **Save Feed** button.
 And, your CleverReach will be integrated into this specific form!
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/16.-Save-Feed-button-1-scaled.webp)
+![Save Feed Button Integrate CleverReach](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/16.-Save-Feed-button-1-scaled.webp)
 
 After successful integration, now you will see that your **CleverReach Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. 
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/17.-Added-CleverRech-Integration-Feed-scaled.webp)
+![Added Cleverrech Integration Feed](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/17.-Added-CleverRech-Integration-Feed-scaled.webp)
 
 This way you can easily integrate CleverReach with Fluent Forms!

@@ -14,15 +14,13 @@ To learn how to add the checkbox field to the Fluent Forms, follow the steps wit
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/form-editor-01-scaled.webp)
+![Editor Fluent Forms](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/form-editor-01-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Checkbox** field by clicking on it or **Drag & Drop** it into your editor.
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/new-1-scaled.webp)
+![CheckBox Field step](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/new-1-scaled.webp)
 
 ## Customizing the Checkbox Field
 
@@ -32,7 +30,7 @@ A checkbox field has been added. You can edit this field by **hovering over it**
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/Edit-checkbox-field-03-scaled.webp)
+![Edit Checkbox Field](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/Edit-checkbox-field-03-scaled.webp)
 
 ### Checkbox Field Options
 
@@ -66,13 +64,13 @@ Also, you can add photos by clicking on the **Photo** option for the field.
 
 You can also save time by importing predefined datasets instead of manually adding each option. (Useful for dropdowns like countries or states.)
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/bulk-scaled.webp)
+![Bulk Fluent Forms](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/bulk-scaled.webp)
 
 **G. Shuffle the available options:** You can enable the shuffle of your dropdown list or select field options so that every user sees a randomized option.
 
 **H. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/Basic-options-04-scaled.webp)
+![Basic Options](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/Basic-options-04-scaled.webp)
 
 ### Advanced Options
 
@@ -90,7 +88,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/advanced-options-05-1-scaled.webp)
+![Advanced Options](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/advanced-options-05-1-scaled.webp)
 
 ## Embed the Form into the Front
 
@@ -98,7 +96,7 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/save-form-06-1-scaled.webp)
+![Save CheckBox Field](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/save-form-06-1-scaled.webp)
 
 ## Preview of Added Checkbox Field
 
@@ -106,20 +104,20 @@ Here is the preview of the added **Checkbox** field under the Form.
 
 You can get the visual representation of this Form. To learn more, read [Visual Representation of Form Entries in Fluent Forms](/docs/visual-representation-of-form-entries-in-fluent-forms).
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/preview-checkbox-form-07.webp)
+![Preview Checkbox](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/preview-checkbox-form-07.webp)
 
 ### Image Button Layout
 
 First, enable the **Photo** Option from the checkbox field’s options, as shown in the screenshot. Now**, Upload** images for each option in the **Photo** setting.
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/photo-08-scaled.webp)
+![Photo Fluent Forms](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/photo-08-scaled.webp)
 
 After that, Customize the **Layout** option. Now, navigate **Advanced Options** and select the desired **Button Layout** from the dropdown menu.
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/button-layout-style-09-scaled.webp)
+![Button Layout Style CheckBox Field](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/button-layout-style-09-scaled.webp)
 
 Once configured, the radio button field will display with clickable image options.
 
-![](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/0111.webp)
+![CheckBox Field step](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/0111.webp)
 
 The **Checkbox Field** in Fluent Forms is a flexible and customizable input type, ideal for multiple-choice forms.

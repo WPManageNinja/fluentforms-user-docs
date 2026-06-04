@@ -12,15 +12,13 @@ Follow these steps to add a **Simple Text** field to your form:
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/form-fields/general-fields/adding-a-simple-text-input-field/edit-form-01-5-scaled-2.webp)
+![Edit a Simple Text Input](/images/form-fields/general-fields/adding-a-simple-text-input-field/edit-form-01-5-scaled-2.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Simple Text** field by clicking on it or **Drag and Drop** it into your editor.
 
-![](/images/form-fields/general-fields/adding-a-simple-text-input-field/new-12-scaled.webp)
+![a Simple Text Input Field step](/images/form-fields/general-fields/adding-a-simple-text-input-field/new-12-scaled.webp)
 
 ## Customizing the Simple Text Field
 
@@ -30,7 +28,7 @@ Once added, you can customize the field. **Hover over the field** and click the 
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/adding-a-simple-text-input-field/Input-Customization-03-10-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/general-fields/adding-a-simple-text-input-field/Input-Customization-03-10-scaled.webp)
 
 ### Simple Text Options
 
@@ -48,7 +46,7 @@ You will find various settings options for customizing the field. Located in the
 
 **E. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
 
-![](/images/form-fields/general-fields/adding-a-simple-text-input-field/Basic-Options-04-10-scaled.webp)
+![Basic Options Fluent Forms](/images/form-fields/general-fields/adding-a-simple-text-input-field/Basic-Options-04-10-scaled.webp)
 
 ### Advanced Options
 
@@ -76,7 +74,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **J. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. 
 
-![](/images/form-fields/general-fields/adding-a-simple-text-input-field/Advanced-options-05-8-scaled.webp)
+![Advanced Options](/images/form-fields/general-fields/adding-a-simple-text-input-field/Advanced-options-05-8-scaled.webp)
 
 ## Embedding the Form on Your Website
 
@@ -84,12 +82,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/adding-a-simple-text-input-field/Save-Form-06-11-scaled.webp)
+![Save Fluent Forms](/images/form-fields/general-fields/adding-a-simple-text-input-field/Save-Form-06-11-scaled.webp)
 
 ## Preview of Added Simple Text Field
 
 Here is the preview of the added **simple text** field under the Form. 
 
-![](/images/form-fields/general-fields/adding-a-simple-text-input-field/Preview-07-6.webp)
+![Preview a Simple Text Input](/images/form-fields/general-fields/adding-a-simple-text-input-field/Preview-07-6.webp)
 
 **Congratulations!** Your **Simple Text Input Field** is now ready to collect single-line responses from users.

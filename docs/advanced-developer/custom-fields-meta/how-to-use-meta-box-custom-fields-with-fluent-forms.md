@@ -8,25 +8,25 @@ This article will guide you on integrating **Meta Box Custom Fields** with **Flu
 
 **Meta Box Plugin**: Install and activate the **Meta Box** plugin and the **Meta Box Builde**r plugin to create custom fields.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Metabox-custom-field-01-scaled.webp)
+![Meta Box Custom Field](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Metabox-custom-field-01-scaled.webp)
 
 **CMB2 Plugin**: Ensure this plugin is installed to build custom fields.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/cmb2-02-scaled.webp)
+![Cmb2 Fluent Forms](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/cmb2-02-scaled.webp)
 
 ## Add Field Groups in Meta Box
 
 To add field groups in meta box, click the **Add New Field Group** button on the **Meta Box Plugin** to create a new Field Group.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/custom-field-add-03-scaled.webp)
+![Custom Field Add](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/custom-field-add-03-scaled.webp)
 
 Now, Provide a suitable **Title** for the field group. Click the **+Add Fields** button to add custom fields.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Fiel-Custom-04-scaled.webp)
+![Fiel Custom](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Fiel-Custom-04-scaled.webp)
 
 After clicking add fields, **scroll down to select a field type** that meets your requirements, or you can **search** the field from the search box.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/select-field-05-scaled.webp)
+![Select Field use Meta Box Custom](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/select-field-05-scaled.webp)
 
 There are two types of tabs available for one field: the **General Tab** and the **Advanced Tab**. You can customize each tab option easily. 
 
@@ -60,7 +60,7 @@ There are two types of tabs available for one field: the **General Tab** and the
 
 **Cloneable**: Allows this field to be duplicated within the form if necessary.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Genral-Tab-06-scaled.webp)
+![Genral Tab](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Genral-Tab-06-scaled.webp)
 
 ### Advanced Tab
 
@@ -82,7 +82,7 @@ There are two types of tabs available for one field: the **General Tab** and the
 
 After that, click the **Publish** button to save your custom fields.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/advanced-tab-07-04-10-2025_04_00_PM-scaled.webp)
+![Advanced Tab](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/advanced-tab-07-04-10-2025_04_00_PM-scaled.webp)
 
 ### Settings
 
@@ -98,7 +98,7 @@ You can add **Additional Settings** from here as your required options.
 
 After all this is done, click the **Update** or **Publish** button.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Settings-09-scaled.webp)
+![Settings use Meta Box Custom](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Settings-09-scaled.webp)
 
 ## Enable Post/CPT Module
 
@@ -110,13 +110,13 @@ Now, turn on the Hubspot **Enabled** button**.**
 
 Now, select an existing [**Post Form**](/docs/how-to-create-a-post-form-with-fluent-forms) from the Fluent Forms dashboard or create a new one. 
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/create-post-form-10-scaled.webp)
+![Create Post](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/create-post-form-10-scaled.webp)
 
 ## Map Meta Box Custom Fields
 
 Now, navigate to **Settings & Integration** in the post form settings. Go to the **Post Feed** page and click the **+Add New Post** button. Scroll down to the **Meta Box Plugin Mapping** section.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Post-Feed-11-scaled.webp)
+![Post Feed](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Post-Feed-11-scaled.webp)
 
 ### Create a New Feed
 
@@ -154,7 +154,7 @@ Or if you uncheck the **Allowed** button, it limits post submission to logged-in
 
 Taxonomies (like tags or categories) and featured images will also map automatically if present in the form.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Create-new-feed-12-scaled.webp)
+![Create Feed](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Create-new-feed-12-scaled.webp)
 
 **E. MetaBox (MB) Plugin Mapping:** Now scroll down to the **Meta Box Plugin Mapping** section. 
 
@@ -164,16 +164,16 @@ In the **Advanced Fields** section, select the custom field from **Meta Box** in
 
 Once all done, click the **Save Feed** button.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/map-the-metabox-feed-13.webp)
+![Map Meta Box Feed](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/map-the-metabox-feed-13.webp)
 
 Go to the **Preview Page** and add some data to the form. When you're done, click the **Submit** **Form** button.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Preview-Post-13-1-scaled.webp)
+![Preview Post use Meta Box Custom](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Preview-Post-13-1-scaled.webp)
 
 Next, go to the **Posts** page to check out your submitted post. Click on the **Edit** option of your **Post**.
 
 You’ll notice the **Metabox custom field** on the **Post** page and the value at the bottom. This is how you can apply custom fields using Fluent Forms.
 
-![](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Final-Custom-post-13-scaled.webp)
+![Final Custom Post](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Final-Custom-post-13-scaled.webp)
 
 Following this guide, you can easily integrate **Meta Box custom fields** with **Fluent Forms**, enhancing your post-creation process with custom data tailored to your needs.

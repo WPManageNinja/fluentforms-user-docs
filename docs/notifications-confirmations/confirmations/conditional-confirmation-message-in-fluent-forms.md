@@ -16,17 +16,15 @@ To learn how to set conditional confirmation message, follow the steps below –
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditional confirmation message.
 
-> If you do not have any existing forms, read  [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
-
 Once inside the form editor, click on **Settings & Integrations** tab for the selected form. Now from the left sidebar, select **Conditional Confirmation** under the **Settings** section.
 
-![](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/Confirmation-Settings-01-scaled.webp)
+![Confirmation Settings](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/Confirmation-Settings-01-scaled.webp)
 
 ## Add a New Confirmation Message
 
 Here appears a new window. Now click the **Add Confirmation** button in the top right corner.
 
-![](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/Add-confirmation-02-scaled.webp)
+![Add Confirmation Conditional Confirmation Message](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/Add-confirmation-02-scaled.webp)
 
 Here also appears a new window. Now enter the details below-
 
@@ -42,7 +40,7 @@ Here also appears a new window. Now enter the details below-
 
 **Message to Show:** Here enter the custom message you want to display when the condition met. You can also add shortcode or image to your message.
 
-![](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/confirmation-message-03-scaled.webp)
+![Confirmation Message](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/confirmation-message-03-scaled.webp)
 
 **Redirect Query String:** The field where you can enter the custom URL with query parameters.
 
@@ -50,7 +48,7 @@ Here also appears a new window. Now enter the details below-
 
 > For this option to be enabled you must check the Pass Field Data Via Query String box below.
 
-![](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/pass-string-query-04.webp)
+![Pass String Query](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/pass-string-query-04.webp)
 
 Suppose If you select **To a Custom URL** and enable **Pass Field Data Via Query String**, you can enter a URL like this: https://example.com/thank-you?email={email}&phone={phone}
 
@@ -86,7 +84,7 @@ If you want to add multiple conditional logic then click the plus icon on the le
 
 Once your message and logic are set, click **Save Notification** button to apply the changes.
 
-![](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/confirmation-logic-05-scaled.webp)
+![Confirmation Logic](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/confirmation-logic-05-scaled.webp)
 
 Users will see a message that matches their input by setting up these conditional confirmations, creating a more personalized and responsive experience.
 

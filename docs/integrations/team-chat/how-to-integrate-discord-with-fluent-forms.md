@@ -2,7 +2,8 @@
 
 **Fluent Forms** allows you to integrate with [Discord](http://discord.com) to send desired information as instant notifications to your Discord channel when a form is submitted. This article will guide you through integrating **Discord** in **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Discord is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Discord** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Discord Integration
 
@@ -10,7 +11,7 @@ To learn how to enable Discord integration, follow the steps with the screenshot
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Discord** through the search bar, and enable the **Discord** integration module by turning on the **Toggle**.
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/1.-Enabled-Discord-module-scaled.webp)
+![Enabled Discord Module](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/1.-Enabled-Discord-module-scaled.webp)
 
 ## Integrating Discord with Forms
 
@@ -18,13 +19,11 @@ To learn how to integrate Discord into any specific Form in Fluent Forms, follow
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Discord,** and click the **Settings** button.
 
-> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
-
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/2.-Open-desired-Form-Settings-scaled.webp)
+![Open Settings Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/2.-Open-desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Discord Integration** feed from the dropdown list. 
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/3.-Add-new-integration-button-scaled.webp)
+![Add Integration Button Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/3.-Add-new-integration-button-scaled.webp)
 
 Now, a pop-up page will appear with various settings options for configuring Discord. 
 
@@ -46,13 +45,13 @@ Now, a pop-up page will appear with various settings options for configuring Dis
 
 Once the setup is done, click the **Save Feed** button, and your Discord will be integrated into this specific form!
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/4.-Save-Feed-button-scaled.webp)
+![Save Feed Button Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/4.-Save-Feed-button-scaled.webp)
 
 After successful Integration, you will now see that your **Discord Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**.  Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/5.-Added-Discord-Integration-Feed-scaled.webp)
+![Added Discord Integration Feed](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/5.-Added-Discord-Integration-Feed-scaled.webp)
 
 ### Getting Webhook URL from Discord
 
@@ -60,20 +59,20 @@ To learn how to get the Webhook URL, follow the steps with screenshots below –
 
 First, go to your **Discord App** or open **Discord** in your browser.  Now, you can create a new server by clicking the **Plus Icon (+)**, or you can use any existing server. 
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/6.-Add-Servar-Plus-Icon.webp)
+![Add Servar Plus Icon Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/6.-Add-Servar-Plus-Icon.webp)
 
 **For example**, I am using an existing channel to show you the whole process.
 First, go to the desired channel settings by clicking the **Settings Icon** on the right side of the channel name.
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/7.-Settings-of-desired-Servar.webp)
+![Settings Servar Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/7.-Settings-of-desired-Servar.webp)
 
 Then, select the **Integrations** from the left sidebar and click the **Create Webhook** button.
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/8.-Create-Webhook.webp)
+![Create Webhook Fluent Forms](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/8.-Create-Webhook.webp)
 
 Finally, click the **Arrow Icon** next to **Captain Hook** to get your desired **Webhook URL** inside the **Copy Webhook URL** button. Simply click it, and your **Webhook URL** will be copied.
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/9.-Copy-Webhook-URL.webp)
+![Copy Webhook URL](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/9.-Copy-Webhook-URL.webp)
 
 ## Preview of Integrated Discord
 
@@ -81,10 +80,10 @@ Here, you can see the preview of added Discord Notifications through the Form En
 
 **For example**, you can see three new **Form Submissions** under the **Entries** tab on this particular form.
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/10.-Entries-tab-scaled.webp)
+![Entries Tab Fluent Forms](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/10.-Entries-tab-scaled.webp)
 
 Now, go to the **Discord Channel** you integrated and you can see the preview of the notification messages of Discord through the Form entries.
 
-![](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/11.-Preview-of-added-notifications.webp)
+![Preview Added Notifications Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/11.-Preview-of-added-notifications.webp)
 
 This way, you can easily integrate Discord with Fluent Forms!

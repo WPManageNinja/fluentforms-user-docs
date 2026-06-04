@@ -8,13 +8,11 @@ To learn how to add the Post Title field to the Post Forms in Fluent Forms, foll
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> If you don’t have an existing Post Form, read [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will get the Post Title field only under the Post Forms.
-
-![](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/1.-Open-desired-Post-form-scaled.webp)
+![Open Post Fluent Forms](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/1.-Open-desired-Post-form-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Fields** on the right sidebar and open the **Post Fields** dropdown list by clicking the **Arrow Icon**. Now, choose the **Post Title** field by clicking on it or **Drag & Drop** it into your editor.
 
-![](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/2.-Add-Post-Title-field-scaled.webp)
+![Add Post Title Field](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/2.-Add-Post-Title-field-scaled.webp)
 
 ## Customize Post Title Field
 
@@ -26,7 +24,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/3.-Input-Customization-2-scaled.webp)
+![Input Customization](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/3.-Input-Customization-2-scaled.webp)
 
 ### 1. Post Title
 
@@ -44,7 +42,7 @@ All the **Settings** under the **Post Title** tab mentioned in the screenshot ar
 
 **F. Required:** Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in.
 
-![](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/4.-Post-Tilte-option-scaled.webp)
+![Post Tilte Option](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/4.-Post-Tilte-option-scaled.webp)
 
 ### 2. Advanced Options
 
@@ -60,7 +58,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-![](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/5.-Advanced-option-scaled.webp)
+![Advanced Option Fluent Forms](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/5.-Advanced-option-scaled.webp)
 
 ## Configure Post Feed Settings
 
@@ -74,12 +72,12 @@ To embed and display the form on a specific Page/Post on your site, **copy** the
 
 Once you complete the customization, click the **Save** **Form** button to save all your changes. Also, to see the form preview, click the **Preview & Design** button in the middle.
 
-![](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/6.-Save-Form-1-scaled.webp)
+![Save Post Title Field in](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/6.-Save-Form-1-scaled.webp)
 
 ## Preview of Post Title field
 
 Here is the preview of the added **Post Title** field under the Post Form. 
 
-![](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/7.-Form-Preview-1.webp)
+![Preview Post Title Field in](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/7.-Form-Preview-1.webp)
 
 This way you can easily add the **Post Title** fields in Fluent Forms!

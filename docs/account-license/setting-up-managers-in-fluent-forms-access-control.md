@@ -10,7 +10,7 @@ This article will guide you through creating a **Manager** and setting their per
 
 Go to the Fluent Forms dashboards. From the navigation bar, click on **Global Settings** and select **Managers** from the left sidebar. You will now see the Manager Settings.
 
-![](/images/account-license/setting-up-managers-in-fluent-forms-access-control/setting-up-manager-01-scaled.webp)
+![Setting Up Manager](/images/account-license/setting-up-managers-in-fluent-forms-access-control/setting-up-manager-01-scaled.webp)
 
 ### Role-Based
 
@@ -22,7 +22,7 @@ In the Advanced section of the Manager, you can designate specific users as the 
 
 Now, click on the **Add Manager** button to add specific users as a Manager. 
 
-![](/images/account-license/setting-up-managers-in-fluent-forms-access-control/manage-02.png)
+![Manage Fluent Forms](/images/account-license/setting-up-managers-in-fluent-forms-access-control/manage-02.png)
 
 A popup will appear, allowing you to select the manager and set the permissions of that manager. 
 
@@ -50,10 +50,10 @@ A popup will appear, allowing you to select the manager and set the permissions 
 
 Now, click the **Save** button to finalize the manager's permissions.
 
-![](/images/account-license/setting-up-managers-in-fluent-forms-access-control/03-2-scaled-2.webp)
+![Fluent Forms](/images/account-license/setting-up-managers-in-fluent-forms-access-control/03-2-scaled-2.webp)
 
 Once you've configured the Manager's permissions, you'll see their details and the assigned permissions, as shown in the screenshot below.
 
 You can edit or delete the Manager by clicking the corresponding **Edit** or **Delete** icon button next to their name and permission details.
 
-![](/images/account-license/setting-up-managers-in-fluent-forms-access-control/manage-04.png)
+![Manage Fluent Forms](/images/account-license/setting-up-managers-in-fluent-forms-access-control/manage-04.png)

@@ -8,15 +8,16 @@ To learn how to add the Item Quantity field to the Fluent Forms, follow the step
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read [How to Create a Payment Form](/docs/how-to-create-a-payment-form-with-fluent-form) to create a new one. For example, I choose an existing form to show the whole process.
+For example, I choose an existing form to show the whole process.
 
-![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/1.-Open-desired-form-2-scaled.webp)
+![Open Item Quantity Field in](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/1.-Open-desired-form-2-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Item Quantity** field.
 
-> If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it.
+> [!Note]
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
-![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/2.-Add-Item-Quantity-field-scaled.webp)
+![Add Item Quantity Field](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/2.-Add-Item-Quantity-field-scaled.webp)
 
 You can see that an **Item Quantity** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
@@ -26,7 +27,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/3.-Input-Customization--scaled.webp)
+![Input Customization Fluent Forms](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/3.-Input-Customization--scaled.webp)
 
 ### 1. Item Quantity
 
@@ -48,7 +49,7 @@ Here, you will get various settings options for customizing the field. All the *
 
 **H. Max Value**: With this option, you can specify the maximum quantity users can select. You can also, add the error message by enabling the Toggle button.
 
-![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/4.-Item-Quantity-customizarion-tab-scaled.webp)
+![Item Quantity Customizarion Tab](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/4.-Item-Quantity-customizarion-tab-scaled.webp)
 
 ### 2. Advanced Options
 
@@ -72,13 +73,14 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **I. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/5.-Advanced-Options-2-scaled.webp)
+![Advanced Options](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/5.-Advanced-Options-2-scaled.webp)
 
 Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
 
-> Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
+> [!Note]
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
-![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/6.-Payment-Method-fields-scaled.webp)
+![Payment Method Fields](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/6.-Payment-Method-fields-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -86,12 +88,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 
-![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/7.-Save-Form-1-scaled.webp)
+![Save Item Quantity Field in](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/7.-Save-Form-1-scaled.webp)
 
 ## Preview of Item Quantity field
 
 Here, is the preview of the added **Item Quantity** field under the Payment Form. 
 
-![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/8.-Form-Preview-1.webp)
+![Preview Item Quantity Field in](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/8.-Form-Preview-1.webp)
 
 This way you can easily add the **Item Quantity** fields in Fluent Forms!

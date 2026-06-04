@@ -8,15 +8,15 @@ This guide will show you how to customize and publish forms using the Fluent For
 
 First, install and activate the **[Oxygen Builder](https://oxygenbuilder.com/)** plugin on your WordPress site. Then, create a new page and click the **Edit with** **Oxygen** button to open the **Oxygen** editor.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Add-page-with-Oxygen-builder-scaled.webp)
+![Add Page With Oxygen Builder Fluent Forms with Oxygen](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Add-page-with-Oxygen-builder-scaled.webp)
 
 To add element, click the **Plus Icon (+)** in the top left and type **Fluent Form** into the search bar. Then, click on the **Fluent Form** block to add it.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/search-fluent-form-02.webp)
+![Search Fluent Forms](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/search-fluent-form-02.webp)
 
 If you already have forms, just choose one from the dropdown. If not, create a new form in [Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) first.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Select-a-form-04.webp)
+![Select Fluent Forms with Oxygen](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Select-a-form-04.webp)
 
 ## Customizing Form Appearance
 
@@ -28,7 +28,7 @@ In the **Primary** section, you can modify your form as you want.
 
 You can also customize the border by setting its color, width, and style (solid, dashed, dotted, or none). Additionally, adjust the border-radius to round the corners as needed.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/container-scaled.webp)
+![Container Fluent Forms](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/container-scaled.webp)
 
 **Labels**: Use the color picker to choose the text and asterisk colors. Customize typography settings such as font family, size, weight, color, alignment, letter spacing, line height, decoration, and style to match your design preferences.
 
@@ -38,25 +38,25 @@ You can also customize the border by setting its color, width, and style (solid,
 
 **Multi-step Forms:** For [multi-step forms](/docs/creating-a-multi-step-form-in-fluent-forms), you can style a **Section Break** and a **Progress Bar** to divide the form into steps and help users track their progress easily.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Textera-05-scaled.webp)
+![Textera Fluent Forms](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Textera-05-scaled.webp)
 
 **Box Shadow**: Box Shadow lets you add a shadow around your form to create a soft depth effect. You can easily adjust the shadow color, direction, blur, and spread to match your design.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Box--scaled.webp)
+![Box Fluent Forms](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Box--scaled.webp)
 
 **Submit Button:** You can style the submit button by changing its color, width, margin, padding, and more to fit the look of your form.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/submit-button-06-2-scaled.webp)
+![Submit Button](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/submit-button-06-2-scaled.webp)
 
 ## Advanced
 
 In the **Advanced** section, you can add simple effects like animations, text shadows, transitions, and change the opacity of your form and submit button. You can also use basic filters and transformations to engage your form more.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/advanced-07.webp)
+![Advanced Fluent Forms](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/advanced-07.webp)
 
 Once you've finished designing your form, click **Apply Params** and the **Save** button to save all your changes.
 
-![](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/apply--scaled.webp)
+![Apply Fluent Forms](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/apply--scaled.webp)
 
 ### Publishing Your Form
 

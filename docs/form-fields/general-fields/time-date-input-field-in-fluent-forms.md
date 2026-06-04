@@ -14,15 +14,13 @@ To add a Time & Date field to your form, follow these steps below-
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/form-edit-01-scaled.webp)
+![Edit Time & Date Input](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/form-edit-01-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Time & Date** field by clicking or **dragging** and **dropping** it into your editor.
 
-![](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/adding-time-date-02-scaled.webp)
+![Adding Time Date](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/adding-time-date-02-scaled.webp)
 
 ## Customizing the Time & Date Field
 
@@ -32,7 +30,7 @@ A Time & Date field has been added. You can edit this field by **hovering over i
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/input-customization-03-20-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/input-customization-03-20-scaled.webp)
 
 ### Time & Date Field options
 
@@ -52,7 +50,7 @@ You will find various settings options for customizing the field. Located in the
 
 **F. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
 
-![](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/Time-Date-options-04-scaled.webp)
+![Time Date Options](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/Time-Date-options-04-scaled.webp)
 
 ### Advanced Options
 
@@ -68,7 +66,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-![](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/Advanced-Options-05-15-scaled.webp)
+![Advanced Options Fluent Forms](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/Advanced-Options-05-15-scaled.webp)
 
 **F. Advanced Data Configuration:** Fluent Forms uses the [**Flatpickr**](https://flatpickr.js.org/) **JavaScript library** for the **Date & Time Picker**. Advanced users can modify field settings using custom configuration objects. 
 
@@ -125,6 +123,6 @@ For instance, you can add the start of the week date. You can do this with the h
 
 Here is the preview of the added **Time & Date** field under the Form. 
 
-![](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/Preview-form-07-2.webp)
+![Preview Time & Date Input](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/Preview-form-07-2.webp)
 
 **Congratulations!** You have successfully added a **Time & Date field** to your Fluent Form.

@@ -4,7 +4,8 @@ Create a user-friendly registration form with Fluent Forms to make the WordPress
 
 This article will guide you through creating a **User Registration Form** with **Fluent Forms** on your WordPress site step by step.
 
-> Remember, for testing the user registration fucntionality, you need to submit the form in logged-out or incognito mode.
+> [!Note]
+> To test **user registration**, submit the form while **logged out** or in an **incognito/private** browser window.
 
 ## Enable the User Registration Module
 
@@ -12,13 +13,11 @@ To learn how to enable the WordPress user registration form, follow the easy ste
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **User Registration** through the search bar, and get the **User Registration or Update** module. Now, Enable the **User Registration or Update** module.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/User-Registration-01-scaled.webp)
+![Enable registration](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/User-Registration-01-scaled.webp)
 
 ## Create a Registration Form
 
 Once you enable the user registration form, now create a registration form.  Go to the **Fluent Forms Dashboard** and **Create a new form**.
-
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Now, we recommend to add the following fields to the form:
 
@@ -28,7 +27,7 @@ Now, we recommend to add the following fields to the form:
 
 You can add additional fields as needed, but these three fields are essential.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/registration-form-02-scaled.webp)
+![Registration fields](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/registration-form-02-scaled.webp)
 
 ## Add the User Registration Feed
 
@@ -36,7 +35,7 @@ Once created, a registration form is configured for the user registration form. 
 
 Now, hover over the **Add New Integration** button and select the **User Registration or Update** **Integration** option shown in the screenshot below.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/Configure-the-user-registration-03-scaled.webp)
+![Registration settings](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/Configure-the-user-registration-03-scaled.webp)
 
 ### Configure the User Registration Feed
 
@@ -52,7 +51,8 @@ A new Window page will appear. Now, customize the User Registration feed accordi
 
 **E. User Meta**: Use the **User Meta** section to add custom user meta fields. In the first column, type the **meta key**. In the second column, select the corresponding **form field value**. You can add multiple meta keys by clicking the **Plus Icon.**
 
-> Remember, User Meta Key is the form field’s name attribute!
+> [!Note]
+> The **User Meta** key must match the form field’s **name attribute**.
 
 **F. Auto Login:** If you want to allow the user to log in automatically after submitting the form, enable the option "**Allow the user to log in automatically after registration**."
 
@@ -69,14 +69,14 @@ Once the setup is done, finally, click the **Save Feed** button.
 Your **User Registration** form or **Update** will be integrated into this specific form!
 The users can register and Update in a single form.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/Add-New-User-Registration-Integration-Feed-Fluent-Forms-02-26-2025_05_17_PM-scaled.webp)
+![Registration feed](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/Add-New-User-Registration-Integration-Feed-Fluent-Forms-02-26-2025_05_17_PM-scaled.webp)
 
 After successful Integration, you will see that your **User Registration** or **Update Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
 Also, you can **disable** or **enable** this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/user-registration-enabled-07-scaled.webp)
+![Registration enabled](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/user-registration-enabled-07-scaled.webp)
 
 ## Preview the User Registration Form
 
@@ -84,6 +84,6 @@ Here, you can see the preview of the added contacts for the **User Registration*
 
 You can see form submissions from the **Entries** section of this particular form.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/demo-08-scaled.webp)
+![Registration preview](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/demo-08-scaled.webp)
 
 Following this guide, you can easily enable user registrations and updates while customizing the form to fit your specific requirements.

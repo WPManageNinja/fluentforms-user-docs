@@ -16,7 +16,7 @@ If you want to bring in entries from another source, click the **Import Entries*
 
 The Entries Dashboard makes it simple to search, filter, and manage your form submissions, all from one place.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/entries-dashboards-scaled.webp)
+![Entries Dashboards Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/entries-dashboards-scaled.webp)
 
 #### Show Chart
 
@@ -24,7 +24,7 @@ To view a visual chart on your **Entries** **Dashboard**, click the **Show Chart
 
 If you want to remove the chart view, click **Hide Chart** to turn it off anytime.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/show-chart-scaled.webp)
+![Show Chart Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/show-chart-scaled.webp)
 
 #### Filter
 
@@ -32,11 +32,11 @@ You will find a **Filter** option in the top right corner of the entries dashboa
 
 With it, you can filter your submissions by **Today**, **Yesterday**, **Last Week**, or **Last Month**. You can also use the **Date Range** option to select and view entries from a specific period.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/Entries-filter-scaled.webp)
+![Entries Filter Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/Entries-filter-scaled.webp)
 
 You can view your form entries by adjusting the pagination at the bottom of the page to display a maximum of a hundred pages.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/Pagination-scaled.webp)
+![Pagination Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/Pagination-scaled.webp)
 
 ## View Submitted Form Entries
 
@@ -48,15 +48,15 @@ There are three ways to view submitted forms easily.
 
 First, navigate to **Fluent Forms** → **All Forms** in your WordPress dashboard. Click the **Entries** link under the form title.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-1.webp)
+![Unnamed Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-1.webp)
 
 Open the form editor by clicking **Edit** under your desired form. Once in the editor, click **Entries** from the top bar.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-2.webp)
+![Unnamed Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-2.webp)
 
 Go to the **Entries** section in the Fluent Forms sidebar. Use the dropdown menu to select a specific form and view its entries.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-3-2.webp)
+![Unnamed](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-3-2.webp)
 
 ## Managing Entries
 
@@ -68,7 +68,7 @@ Fluent Forms offers a powerful entry management system for handling form submiss
 
 You can also click the **+OR** button to add multiple conditions. To remove a filter, click the **Delete** icon, or click the Clear Filters button to **clear** **all filters** at once.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/advanced-filter-01-scaled.webp)
+![Advanced Filter](/images/managing-submissions/entries/managing-entries-in-fluent-forms/advanced-filter-01-scaled.webp)
 
 **Search box:** Use the search box to quickly find entries by typing a **name**, **email**, or **submission ID**.
 
@@ -78,7 +78,7 @@ You can also click the **+OR** button to add multiple conditions. To remove a fi
 
 To view the details of an entry, click the **View (eye)** icon next to it. If you want to delete a submission, simply click the **Delete** icon.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/entries-advanced-filter-scaled.webp)
+![Entries Advanced Filter](/images/managing-submissions/entries/managing-entries-in-fluent-forms/entries-advanced-filter-scaled.webp)
 
 After clicking the **View** icon, you will be taken to the detailed page of the selected entry, where you can see all the information at a glance.
 
@@ -94,7 +94,7 @@ If needed, you can also change the submission status by clicking the **Change St
 
 **Print Entries:** To print individual form submissions, click the **Print** icon located on the right side of the submission information.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-4.webp)
+![Unnamed Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-4.webp)
 
 ### Export Entries
 
@@ -102,6 +102,6 @@ Fluent Forms makes exporting your form entries quick and easy. You can export en
 
 Whether you want to export all entries, only favorites, or just unread submissions, Fluent Forms gives you full control for easy data analysis or sharing.
 
-![](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-5.webp)
+![Unnamed Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/unnamed-5.webp)
 
 Now, you can easily organize, manage, and process all your submitted entries in Fluent Forms.

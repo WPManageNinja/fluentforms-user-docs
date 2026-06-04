@@ -14,15 +14,16 @@ To learn how to add the **Custom Submit Button** field to Fluent Forms, follow t
 
 First, look for the **Forms** section in the Fluent Forms menu. Then, choose the form you want to work on and click the **Edit Icon** to get to the page where you can change it.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/form-editor-01-2-scaled.webp)
+![Editor](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/form-editor-01-2-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Custom Submit Button Input** field by **clicking** or **dragging** it and **dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/adding-custom-submit-button-02-scaled.webp)
+![Adding Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/adding-custom-submit-button-02-scaled.webp)
 
 ## Customizing the Custom Submit Button Field
 
@@ -32,7 +33,7 @@ Once you add the Custom Submit Button field, you can customize it by hovering ov
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Input-customization-03-24-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Input-customization-03-24-scaled.webp)
 
 ### Custom Submit Button Options
 
@@ -58,7 +59,7 @@ All the settings under the **Custom Submit Button** Field mentioned above are br
 
 **Hover State Styling:** You can apply the same styling options for the button’s hover state by clicking the **Hover State** tab and adjusting the styles accordingly.
 
-![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Custom-Submit-button-04-scaled.webp)
+![Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Custom-Submit-button-04-scaled.webp)
 
 #### Advanced Options
 
@@ -70,7 +71,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, see the Conditional Logic documentation linked above. 
 
-![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Advanced-Options-05-19-scaled.webp)
+![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Advanced-Options-05-19-scaled.webp)
 
 ## Embed the Form into the Front
 
@@ -78,12 +79,12 @@ Once you complete the customization, click the **Save Form** button to save all 
 
 To integrate and display the form on a specific **Page** or **Post**, copy the **Shortcode** from the top right side and paste it into your desired **Page** or **Post**.
 
-![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Save-Form-06-25-scaled.webp)
+![Save Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Save-Form-06-25-scaled.webp)
 
 ## Preview of Added Custom Submit Button
 
 Here is a preview of the form with the **Custom Submit Button input** field.
 
-![](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Preview-07-15.webp)
+![Preview Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Preview-07-15.webp)
 
 **Congratulations!** You have successfully added a **Custom Submit Button** field to your **Fluent** **Forms** form.

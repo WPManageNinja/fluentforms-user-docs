@@ -24,4 +24,4 @@ Once you are on the **Editor** page of your desired form, go to the **Settings &
 
 Once you are done, press the **Save & JS** button and the Scroll Offset will be set in your desired forms.
 
-![](/images/configuring-forms/conditional-logic/set-scroll-offset-of-form-steps/Custom-CSS-JS-Fluent-Forms-12-06-2024_05_14_PM1-scaled.webp)
+![Custom CSS Js](/images/configuring-forms/conditional-logic/set-scroll-offset-of-form-steps/Custom-CSS-JS-Fluent-Forms-12-06-2024_05_14_PM1-scaled.webp)

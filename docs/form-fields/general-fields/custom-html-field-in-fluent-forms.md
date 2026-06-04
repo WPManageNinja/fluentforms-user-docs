@@ -14,21 +14,19 @@ To learn how to add the custom HTML field to the Fluent Forms, follow the steps 
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/edit-form-01-2-scaled.webp)
+![Edit Custom HTML Field](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/edit-form-01-2-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Select the desired **Custom HTML** field by **Dragging** or **Dropping** it into your editor.
 
-![](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/new-5-scaled.webp)
+![Custom HTML Field step](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/new-5-scaled.webp)
 
 ## Customizing the Custom HTML Field
 
 A custom HTML field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
-![](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/input-customization-03-3-scaled.webp)
+![Input Customization](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/input-customization-03-3-scaled.webp)
 
 **A. HTML Code:** In the HTML Code section, you can add any valid HTML code that will be displayed as regular content within the form.
 
@@ -46,7 +44,7 @@ For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
 **D. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper. This can be used to style the current element.
 
-![](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/Customization-04-scaled.webp)
+![Customization Fluent Forms](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/Customization-04-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -54,12 +52,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/save-form-05-scaled.webp)
+![Save Custom HTML Field](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/save-form-05-scaled.webp)
 
 ## Preview of Added Custom HTML Field
 
 Here is the **Preview** of the **Form** to test the custom HTML field functionality.
 
-![](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/preview-06.webp)
+![Preview Custom HTML Field](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/preview-06.webp)
 
 Congratulations. You will successfully add the Custom HTML field in your Form.

@@ -2,7 +2,8 @@
 
 Integrating **Mailjet** with **Fluent Forms** to automate email marketing, manage subscribers, and streamline email campaigns effortlessly. This article will guide you through integrating **Mailjet** with **Fluent Forms** on your **WordPress Site**. 
 
-> Remember, Mailjet is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Mailjet** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Mailjet Integration
 
@@ -12,13 +13,13 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Mai
 
 Now, turn on the **Toggle** to enable **Mailjet**. Then, you will see the Mailjet’s **Settings icon** on the right side, click on it. 
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/1.-Enable-Mailjet--scaled.webp)
+![Enable Mailjet Integrate Mailjet](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/1.-Enable-Mailjet--scaled.webp)
 
 Once you enable **Mailjet**, you will be asked for the **API Key** and the **Secret Key** of your **Mailjet Account**.
 
 > To get the credentials, click the Here link in the Instructions Guide at the top under Mailjet Settings.
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/2.-Mailjet-Settings-scaled.webp)
+![Mailjet Settings Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/2.-Mailjet-Settings-scaled.webp)
 
 ### Get the Mailjet API and Secret Key
 
@@ -28,21 +29,21 @@ First, click this [Link](https://app.mailjet.com/signin?redirect=aHR0cHM6Ly9hcHA
 
 > If you don't have an existing Mailjet account, you can sign up for one here.
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/3.-Account-Settings-scaled.webp)
+![Account Settings Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/3.-Account-Settings-scaled.webp)
 
 Now, go to the **REST API** tab and click the **API Key Management (Primary and subaccount)** option. 
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/4.-Rest-API-Key-API-Key-Management-scaled.webp)
+![Rest API Key API Key Management](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/4.-Rest-API-Key-API-Key-Management-scaled.webp)
 
 Once you are on the **API Key Management** page, you will find your **API Key**. Copy it.
 
 Now, to get the Secret Key, click the **Generate Secret Key** button on the right side. 
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/5.-Generate-Secret-Key-button-scaled.webp)
+![Generate Secret Key Button](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/5.-Generate-Secret-Key-button-scaled.webp)
 
 Now, copy the **API Key** and **Secret Key** by clicking the **Copy Icon** on the right side, and press the **Done** button.  
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/6.-Copy-API-and-Secret-Key.webp)
+![Copy API And Secret Key](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/6.-Copy-API-and-Secret-Key.webp)
 
 ## Connect Mailjet with Fluent Forms
 
@@ -52,13 +53,13 @@ Then, paste the **API Key** and **Secret Key** you copied from **Mailjet** into 
 
 Finally, press the **Save Settings** button to save all your changes. 
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/7.-Paste-API-Keys-scaled.webp)
+![Paste API Keys](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/7.-Paste-API-Keys-scaled.webp)
 
 Now, you can see that your **Mailjet** has been successfully connected to your **Fluent Forms**.
 
 You can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect Mailjet** button.  
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/8.-verify-or-Disconnect-Mailjet-scaled.webp)
+![Verify Or Disconnect Mailjet](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/8.-verify-or-Disconnect-Mailjet-scaled.webp)
 
 ## Integrate Mailjet in Forms
 
@@ -66,13 +67,11 @@ To learn how to integrate Mailjet into any specific Form in Fluent Forms, follow
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailjet,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
-
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/9.-Open-desired-form-Settings-1-scaled.webp)
+![Open Settings Integrate Mailjet](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/9.-Open-desired-form-Settings-1-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Mailjet Integration** feed from the dropdown list. 
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/10.-Add-new-integration-dropdown-1-scaled.webp)
+![Add Integration Dropdown Integrate Mailjet](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/10.-Add-new-integration-dropdown-1-scaled.webp)
 
 Now, a page will appear with various settings options for configuring the Mailjet. 
 
@@ -94,13 +93,13 @@ Now, a page will appear with various settings options for configuring the Mailje
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Mailjet will be integrated into this specific form!
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/11.-Save-Feed--scaled.webp)
+![Save Feed Integrate Mailjet](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/11.-Save-Feed--scaled.webp)
 
 After successful Integration, now you will see that your **Mailjet Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/12.-Added-Mailjet-Integration-Feed--scaled.webp)
+![Added Mailjet Integration Feed](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/12.-Added-Mailjet-Integration-Feed--scaled.webp)
 
 ## Preview of Integrated Mailjet
 
@@ -108,12 +107,12 @@ Here, you can see the preview of added **Contacts** of **Mailjet** through the F
 
 For example, you can see four new **Form Submissions** under the **Entries** tab on this particular form.
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/13.-Form-Entries-1-scaled.webp)
+![Entries Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/13.-Form-Entries-1-scaled.webp)
 
 Now, go to your [Mailjet](http://mailjet.com) account, open the **Contacts** dropdown from the left sidebar, and click the **All Contacts** tab.
 
 You can see that the **users who submitted forms** in **Fluent Forms** are also automatically added to the selected **Mailjet** **Contacts**. 
 
-![](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/14.-Mailjet-Contact-Preview-scaled.webp)
+![Mailjet Contact Preview](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/14.-Mailjet-Contact-Preview-scaled.webp)
 
 This way you can easily integrate Mailjet with Fluent Forms!

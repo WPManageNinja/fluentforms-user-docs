@@ -12,13 +12,11 @@ This guide explains creating dynamic and visually appealing forms using the Flue
 
 First, open the [Elementor](https://elementor.com/) editor for the page where you want to add your form. Go to the **Search Bar** and type **Fluent Forms**. Then, select the **Fluent Forms** widget, which will create a **block** for your form.
 
-![](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/01-3.webp)
+![embed your forms using Elementor Widget step](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/01-3.webp)
 
 Now, choose the form you want to add to the page from the drop-down menu in the widget. If you have pre-built forms, you’ll see them in the dropdown menu, and you can **Select a Fluent Forms** here. If not, you can create a new form using Fluent Forms.
 
-> If you do not have any existing forms, read [How to create a form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/02-9.webp)
+![embed your forms using Elementor Widget step](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/02-9.webp)
 
 ## Customizing Form Style
 
@@ -48,7 +46,7 @@ The Fluent Forms widget lets you style your form to fit your site’s look and f
 
 - Box Shadow: Add a shadow around the form and adjust its horizontal/vertical offset, blur, and spread.
 
-![](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/04-5.webp)
+![embed your forms using Elementor Widget step](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/04-5.webp)
 
 **Input & Textarea**: Input & Textarea you can customize as needed.
 
@@ -62,7 +60,7 @@ The Fluent Forms widget lets you style your form to fit your site’s look and f
 
 You can also adjust text indent, field width/height, textarea width/height, padding, spacing, and more.
 
-![](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/05-1.webp)
+![embed your forms using Elementor Widget step](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/05-1.webp)
 
 **Submit Button:** You can easily customize the submit button using these options:
 
@@ -72,7 +70,7 @@ You can also adjust text indent, field width/height, textarea width/height, padd
 
 - Typography: Customize the font style to match your brand’s look.
 
-![](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/06.webp)
+![embed your forms using Elementor Widget step](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/06.webp)
 
 Also, you can customize the color of your form's link and image background.
 

@@ -14,19 +14,17 @@ First, go to **Integrations** from the Fluent Forms **Navbar**, search for **Use
 
 Now, enable the **User Registration** or **Update** module.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/unnamed-1-1.webp)
+![Enable user update](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/unnamed-1-1.webp)
 
 ## Configure the User Update Feed
 
 Before configuring the user update feed, you must move a particular form or create a new form for your user update.
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
-
 Once the module is enabled, proceed with the form settings. Click the forms **Settings & Integration** tab. Then click the **Configure Integrations** section from the scroll down.
 
 Now, click the **Add New Integration** button and select the **User Registration** or **Update** **Integration** option shown in the screenshot below.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/2.webp)
+![User update fields](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/2.webp)
 
 ## Customize the User Update Feed
 
@@ -54,14 +52,14 @@ Your User Registration form or Update will be integrated into this specific form
 
 > Users can register in a single form. Read [How to Create a WordPress User Registration Form With Fluent Forms](/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms) to learn more about user registration.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/add-new-user-update-03-scaled.webp)
+![User update feed](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/add-new-user-update-03-scaled.webp)
 
 After successful Integration, you will see that your User Registration or Update Feed has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/4.webp)
+![User update settings](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/4.webp)
 
 ## Preview the User Registration Form
 
@@ -69,6 +67,6 @@ Here, you can see the preview of the added contacts for the **User Registration*
 
 You can see form submissions from the **Entries** section of this particular form.
 
-![](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/5.webp)
+![User update preview](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/5.webp)
 
 Following this guide, you can easily enable user registrations and updates while customizing the form to fit your specific requirements.

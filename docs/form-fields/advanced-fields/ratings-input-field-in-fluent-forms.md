@@ -16,15 +16,16 @@ To learn how to add the **Rating** field to Fluent Forms, follow the steps below
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** **Icon** to open the **Editor** page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/edit-form-01-10-scaled.webp)
+![Edit Ratings Input Field](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/edit-form-01-10-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Ratings** **Input** field by **clicking** on it or **Dragging** and **Dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/new-15-scaled.webp)
+![Ratings Input Field step](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/new-15-scaled.webp)
 
 ## Customizing the Ratings Input Field
 
@@ -34,7 +35,7 @@ A Rating field has been added. You can edit this field by **hovering over it** a
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/input-customization-03-15-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/input-customization-03-15-scaled.webp)
 
 #### Ratings Input field Options
 
@@ -66,7 +67,7 @@ Also, you can edit bulk by clicking the **Bulk Edit** options.
 
 **F. Required:** Decide whether users must select at least one option before submission.
 
-![](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Basic-options-04-13-scaled.webp)
+![Basic Options Fluent Forms](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Basic-options-04-13-scaled.webp)
 
 #### Advanced Options
 
@@ -78,7 +79,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Advanced-options-05-11-scaled.webp)
+![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Advanced-options-05-11-scaled.webp)
 
 ## Embed the Form into the Front
 
@@ -88,12 +89,12 @@ To display the form on a specific page or post, **Copy** the **Shortcode** from 
 
 To preview the form, click **Preview & Design** in the middle of the page.
 
-![](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Save-Form-06-15-scaled.webp)
+![Save Ratings Input Field](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Save-Form-06-15-scaled.webp)
 
 ### Preview of Added Ratings Input Field
 
 Here is a preview of the form with the **Ratings Input** field:
 
-![](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/preview-07-8.webp)
+![Preview Ratings Input Field](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/preview-07-8.webp)
 
 Congratulations! You have successfully added rating input to your Fluent Forms form.

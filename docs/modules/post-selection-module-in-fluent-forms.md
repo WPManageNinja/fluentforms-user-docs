@@ -18,11 +18,11 @@ You can even customize the posts displayed in the dropdown using **Query Paramet
 
 Go to your form in **Fluent Forms**. Add the **Post/CPT Selection** field from the [**Advanced Fields**](/docs/form-fields-overview) section. 
 
-![](/images/modules/post-selection-module-in-fluent-forms/post-selection-module-01-scaled.webp)
+![Post Selection Module](/images/modules/post-selection-module-in-fluent-forms/post-selection-module-01-scaled.webp)
 
 A dropdown showing all posts on your site will appear by default. However, you can select any other post-type data on your site.
 
-![](/images/modules/post-selection-module-in-fluent-forms/select-post-type-02-scaled.webp)
+![Select Post Type](/images/modules/post-selection-module-in-fluent-forms/select-post-type-02-scaled.webp)
 
 Use the Extra Query Parameter field to display specific posts based on author, category, or tags.
 
@@ -40,11 +40,11 @@ In wp_query, it works as below-
 
 We will also convert it in our own way. We will grab the key and value from above.
 
-![](/images/modules/post-selection-module-in-fluent-forms/WP_Query-03-scaled.webp)
+![WP Query](/images/modules/post-selection-module-in-fluent-forms/WP_Query-03-scaled.webp)
 
 You can write this way.
 
-![](/images/modules/post-selection-module-in-fluent-forms/04-4-scaled.webp)
+![Post Selection Module step](/images/modules/post-selection-module-in-fluent-forms/04-4-scaled.webp)
 
 #### Multiple Parameter
 

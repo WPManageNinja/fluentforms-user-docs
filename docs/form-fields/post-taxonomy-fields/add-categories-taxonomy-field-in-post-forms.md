@@ -2,7 +2,8 @@
 
 **Fluent Forms** offers **Taxonomy Fields** that allow you to group your posts based on categories, tags, and other taxonomies available on your WordPress site. 
 
-> Remember, you will get this Taxonomy Fields Module only in a Post Form.
+> [!Note]
+> **Taxonomy Fields** are available only in **Post Forms**. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
 
 This article will guide you through adding the **Categories Taxonomy Field** in your Fluent Forms for your WordPress Site. This **Categories** field will allow your users to select any of your existing categories and submit their posts under the selected category directly through the form. To let users assign keywords as well, add the [Tags Taxonomy Field](/docs/add-tags-taxonomy-field-in-post-forms).
 
@@ -12,13 +13,11 @@ To learn how to add the Categories field to the Post Forms in Fluent Forms, foll
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> If you don’t have an existing Post Form, read [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will only get the Categories field under the Post Forms.
-
-![](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/1.-Open-desired-Post-form-5-scaled.webp)
+![Open Post Categories Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/1.-Open-desired-Post-form-5-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Fields** on the right sidebar and open the **Taxonomy Fields** dropdown list by clicking the **Arrow Icon**. Now, choose the **Categories** field by clicking on it or **Drag & Drop** it into your editor.
 
-![](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/2.-Add-Categories-field-scaled.webp)
+![Add Categories Field](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/2.-Add-Categories-field-scaled.webp)
 
 ## Customize Categories Field
 
@@ -30,7 +29,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/3.-Input-Customization-7-scaled.webp)
+![Input Customization](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/3.-Input-Customization-7-scaled.webp)
 
 ### 1. Categories
 
@@ -56,7 +55,7 @@ All the **Settings** under the **Categories** tab mentioned in the screenshot ar
 
 - Checkbox: Select this option if you want to display the category selection as a checkbox, allowing users to choose one or more categories from all available options.
 
-![](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/4.-Categories-options-scaled.webp)
+![Categories Options Fluent Forms](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/4.-Categories-options-scaled.webp)
 
 ### 2. Advanced Options
 
@@ -74,7 +73,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-![](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/5.-Advanced-Options-8-scaled.webp)
+![Advanced Options](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/5.-Advanced-Options-8-scaled.webp)
 
 ## Configure Post Feed Settings
 
@@ -89,12 +88,12 @@ To embed and display the form on a specific Page/Post on your site, **copy** the
 Once you complete the customization, click the **Save** **Form** button to save all your changes.
 Also, to see the form preview, click the **Preview & Design** button in the middle. 
 
-![](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/6.-Save-Form-5-scaled.webp)
+![Save Categories Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/6.-Save-Form-5-scaled.webp)
 
 ## Preview of Categories field
 
 Here is the preview of the added **Categories** field under the Post Form. Now, click the **Arrow Icon** to view all available categories on your site and select the one you need.
 
-![](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/7.-Form-Preview-2-scaled.webp)
+![Preview Categories Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/7.-Form-Preview-2-scaled.webp)
 
 This way, you can easily add the **Categories** fields in Fluent Forms!

@@ -4,13 +4,13 @@
 
 ## Creating Forms using Pre-built Templates
 
-To start, log in to your **WordPress Dashboard**. Now, navigate to the **Fluent Forms** > **Forms** from the left sidebar. Then click on the **+ Add New Form** button in the Forms Section.  
+First, log in to your **WordPress Dashboard**. Now, navigate to the **Fluent Forms** > **Forms** from the left sidebar. Then click on the **+ Add New Form** button in the Forms Section.  
 
-![](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/1.-Add-new-form-button-1-scaled.webp)
+![Add new form](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/1.-Add-new-form-button-1-scaled.webp)
 
 Now, a pop-up will appear with three options. Click the **Choose Template** tab.
 
-![](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Choose-a-template-pre-built.webp)
+![Choose template tab](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Choose-a-template-pre-built.webp)
 
 A new popup, **Predefined Form Templates**, also appears here. Now, you can choose a pre-made form template as per your wish to get started quickly. If you would rather build from scratch instead, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms). These templates are categorized into different categories. 
 
@@ -36,10 +36,9 @@ A new popup, **Predefined Form Templates**, also appears here. Now, you can choo
 
 - Healthcare
 
-Browse through categories or search for the desired one by entering its name in the **Search Bar**.
-Then, click on the form you need to use.
+Browse through categories or search for the desired one by entering its name in the **Search Bar**. Then, click on the form you need to use.
 
-![](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/pre-built-Form-Template.webp)
+![Form templates](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/pre-built-Form-Template.webp)
 
 ## Pre-built Form Customization
 
@@ -47,23 +46,24 @@ Fluent Forms offers various options for customizing the fields you plan to use. 
 
 To customize an added field, **hover over it** and click the **Pencil**/**Edit** **Icon**, and it will take you to the **Input Customization** tab on the right sidebar which offers the options for customization.
 
-![](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Editor-Fluentform-6-scaled.webp)
+![Template editor](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Editor-Fluentform-6-scaled.webp)
 
 ## Embedding Form into Frontend
 
 After customization, click the **Save Form** button in the top right corner to save all the changes.
+
 Also, click the **Preview & Design** button in the middle if you want to see the preview of your form.
 
 Then, copy the **Form** **ShortCode** from the top bar to display it on the front end. 
 
-![](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Save-form-button-scaled.webp)
+![Save form](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Save-form-button-scaled.webp)
 
-Paste the shortcode in your desired **Page/Post** where you want this shortcode to appear on your WordPress Site.
+**Paste** the shortcode in your desired **Page/Post** where you want this shortcode to appear on your WordPress Site.
 
-![](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/job-listing-form-scaled.webp)
+![Embed shortcode](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/job-listing-form-scaled.webp)
 
 Here is the preview of the newly created form.
 
-![](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Job-Listing-information-collect-form.webp)
+![Template form preview](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Job-Listing-information-collect-form.webp)
 
 This way you can create as many forms as you want with **Fluent** **Forms** within minutes.

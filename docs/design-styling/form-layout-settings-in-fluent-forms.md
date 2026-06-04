@@ -14,7 +14,7 @@ To learn how to set up form layout individually, follow the steps below –
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditions.
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/1.-desired-Form-Editor-1-scaled.webp)
+![Editor Fluent Forms](/images/design-styling/form-layout-settings-in-fluent-forms/1.-desired-Form-Editor-1-scaled.webp)
 
 Once you are on the **Editor Page**, go to **Settings & Integrations** from the top navbar and open the **Form Layout** tab under the **Settings** option. 
 
@@ -30,7 +30,7 @@ Here, you will get **Four** options to customize the basic layout of your form. 
 
 Once you complete the setup, click the **Save Settings** button to save all your changes.
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/2.-Form-Layout-settings-scaled.webp)
+![Layout Settings Fluent Forms](/images/design-styling/form-layout-settings-in-fluent-forms/2.-Form-Layout-settings-scaled.webp)
 
 **All the settings mentioned above are briefly explained below:**
 
@@ -46,11 +46,11 @@ Clicking the **Arrow Icon** will provide three options for setting the **Placeme
 
 - Right: Choose this to set the label’s placement to the right of an input field.
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/3.-Label-Alignment-option.webp)
+![Label Alignment Option](/images/design-styling/form-layout-settings-in-fluent-forms/3.-Label-Alignment-option.webp)
 
 For example, I selected the **“Top”** alignment for the input fields. You can see that all the **Field Labels** are placed on the top of the fields. 
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/4.-preview-of-Label-alignment.webp)
+![Preview Label Alignment Form Layout Settings](/images/design-styling/form-layout-settings-in-fluent-forms/4.-preview-of-Label-alignment.webp)
 
 ## 2. Help Message Position
 
@@ -66,12 +66,12 @@ Clicking th**e Arrow Icon** will provide four options for setting the **Placemen
 
 - Before input: Choose this to set the Help Message’s placement before the input field.
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/5.-Help-message-option.webp)
+![Help Message Option](/images/design-styling/form-layout-settings-in-fluent-forms/5.-Help-message-option.webp)
 
 For example, I selected the **“Beside Label (Tooltip)”** position for the **Help Message**.
 You can see that the **Help Message** of the **Email** **Field** is placed beside the **Field Labe**l as a **Tooltip**. 
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/6.-preview-of-help-message.webp)
+![Preview Help Message Form Layout Settings](/images/design-styling/form-layout-settings-in-fluent-forms/6.-preview-of-help-message.webp)
 
 ### 3. Error Message Position
 
@@ -83,12 +83,12 @@ Clicking th**e Arrow Icon** will provide two options for setting the **Placement
 
 - Stacked after Form: Choose this option to place the Error Message stacked after the form submit button.
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/7.-Error-message-option.webp)
+![Error Message Option](/images/design-styling/form-layout-settings-in-fluent-forms/7.-Error-message-option.webp)
 
 For example, I selected the **“Below input Fields”** position for the **Error Message**.
 You can see that the **Error Message** is displayed below the **Email** **Field** due to an invalid email address.
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/8.-preview-of-error-message.webp)
+![Preview Error Message Form Layout Settings](/images/design-styling/form-layout-settings-in-fluent-forms/8.-preview-of-error-message.webp)
 
 ### 4. Asterisk Position
 
@@ -102,10 +102,10 @@ Clicking th**e Arrow Icon** will provide three options for setting the **Placeme
 
 - Right to Label: Choose this option to place the Asterisk Marker to the right of the Required Field Labels.
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/9.-Asterisk-position-option.webp)
+![Asterisk Position Option](/images/design-styling/form-layout-settings-in-fluent-forms/9.-Asterisk-position-option.webp)
 
 For example, I selected the **“Right to Label”** position for the **Asterisk**.
 
 You can see that the **Asterisk ( * ) **is displayed right next to the** Required Fields **(e.g.,** Email **and** Country** as both are the required fields ).
 
-![](/images/design-styling/form-layout-settings-in-fluent-forms/10.-preview-of-asterisk-marker-position.webp)
+![Preview Asterisk Marker Position Form Layout Settings](/images/design-styling/form-layout-settings-in-fluent-forms/10.-preview-of-asterisk-marker-position.webp)

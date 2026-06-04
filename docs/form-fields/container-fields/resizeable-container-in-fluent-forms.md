@@ -8,7 +8,7 @@ This article will guide you in adding resizeable containers in fluent forms.
 
 First, open **Fluent Forms** and **drag and drop** to add a container field, or click the **Plus Icon** to add the [Container](/docs/add-container-fields-in-fluent-forms) field to your form. Add the necessary fields inside the container ( **Name**, **Email**, **Radio** **Button**, **Custom** **Submit Button** **etc**.).
 
-![](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/resizable-container-01-scaled.webp)
+![Resizable Container](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/resizable-container-01-scaled.webp)
 
 Now, click and **drag** the column borders **left** or **right** to adjust the width. If needed, use the **Undo** option to revert any changes. 
 
@@ -16,7 +16,7 @@ Once satisfied with your column layout, **save** your **settings**.
 
 The container will adjust to maintain proper **spacing** based on the selected column width.
 
-![](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/gif.gif)
+![Resizeable Container step](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/gif.gif)
 
 ## Embed the Form into Frontend
 
@@ -24,10 +24,10 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/7.webp)
+![Resizeable Container step](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/7.webp)
 
 ### Preview of the Resizable Container
 
 Preview your form to see how the container adapts to the new column width. 
 
-![](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/unnamed-2-3.webp)
+![Unnamed](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/unnamed-2-3.webp)

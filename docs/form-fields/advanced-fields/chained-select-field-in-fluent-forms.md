@@ -12,15 +12,16 @@ To learn how to add the **Chained Select Field** to Fluent Forms, follow the ste
 
 First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** **Icon** to open the Editor page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/edit-form-01-17-scaled.webp)
+![Edit Chained Select Field](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/edit-form-01-17-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Chained Select** field by **clicking** or **dragging** it and **dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Adding-chained-select-field-02-scaled.webp)
+![Adding Chained Select Field](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Adding-chained-select-field-02-scaled.webp)
 
 Chained Select Field gives you **three drop-down fields**. There are **Parent**, **Child**, and **Grand** **Child**. When the **Parent** drop-down is selected, the **Child** drop-down will only show options that belong to the **Parent** field.
 
@@ -37,7 +38,7 @@ It will take you to the **Input Customization** tab on the right, which offers t
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Input-Customization-03-26-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Input-Customization-03-26-scaled.webp)
 
 ### Chained Select Field Options
 
@@ -59,13 +60,13 @@ You can add the default value by clicking the **Three-Dot** option from the righ
 
 **F. CSV Data Source:** **Click** the **"upload**" button to upload a **CSV** file from the dropdown under the **File Upload** options. If the data is hosted externally, provide a remote **CSV URL**.
 
-![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/chained-csv-options-05-scaled.webp)
+![Chained CSV Options](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/chained-csv-options-05-scaled.webp)
 
 If you want to download the Sample CSV file, click **Download Sample CSV** options.
 
 Here is a screenshot of the demo data. First-column names are placeholders for drop-down fields.
 
-![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/CSV-data-file-04.webp)
+![CSV Data File](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/CSV-data-file-04.webp)
 
 #### Advanced Options
 
@@ -85,7 +86,7 @@ A search option appears when this option is selected, allowing the user to searc
 
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Advanced-Options-06-scaled.webp)
+![Advanced Options](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Advanced-Options-06-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -93,12 +94,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/save-form-07-scaled.webp)
+![Save Chained Select Field](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/save-form-07-scaled.webp)
 
 ## Preview of Chained Select Field
 
 Here is the preview of the added **Chained Select** field under the Form. 
 
-![](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Preview-form-08.webp)
+![Preview Chained Select Field](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/Preview-form-08.webp)
 
 Congratulations! You have successfully added a chained select field to your Fluent Forms form.

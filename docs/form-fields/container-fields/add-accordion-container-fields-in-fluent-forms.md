@@ -8,15 +8,16 @@ To learn how to add the Accordion Container input fields, follow the steps with 
 
 First, go to the **Forms** section from the **Fluent Forms** Navbar, choose a desired Form to which you wish to add the Accordion Container field, and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> Note: If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one. For example, here I choose an existing form to show the whole process.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/edit-form-scaled.webp)
+![Edit Accordion Container Fields](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/edit-form-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** Icon in your form editor and open the [Container](/docs/add-container-fields-in-fluent-forms) input fields module. The Container option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Accordion Container** by clicking on it or Drag & Drop it into your editor.
 
-![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/accordion-field-02-scaled.webp)
+![Accordion Field](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/accordion-field-02-scaled.webp)
 
 ## Configure the Accordion Settings
 
@@ -28,7 +29,7 @@ Here is a breakdown of each setting:
 
 **B.** **Description:** This adds a line of smaller helper text directly below the title. This is an optional field.
 
-![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/Input-customization-03-scaled.webp)
+![Input Customization](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/Input-customization-03-scaled.webp)
 
 **C. Display Mode:** This option enables you to select the appearance of the forms in the display. Here you will find two options.
 
@@ -36,11 +37,11 @@ Here is a breakdown of each setting:
 
 1.
 
-![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/accordion-display-04-scaled.webp)
+![Accordion Display](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/accordion-display-04-scaled.webp)
 
 1. Tabs: This mode creates a horizontal tab. The Title you set becomes the label for a clickable tab. When a user clicks the tab, the form shows the fields for that section.
 
-![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/tabs-display-05-scaled.webp)
+![Tabs Display](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/tabs-display-05-scaled.webp)
 
 **D**. **Accordion/Tab Type:** This setting controls how multiple accordions or tabs are grouped. To create a stack of sections, you must use more than one Accordion/Tab field and configure their **Type**:
 
@@ -62,7 +63,7 @@ Once you complete the customization, click the **Save Form** button in the top-r
 
 To display the form on a page or post, copy the **Shortcode** (e.g., [fluentform id="1"]) from the top of the editor and paste it into a "Shortcode" block in the Gutenberg editor or any page builder.
 
-![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/Preview-and-save-06-scaled.webp)
+![Preview And Save Accordion Container Fields](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/Preview-and-save-06-scaled.webp)
 
 ### Preview of the Accordion Container
 
@@ -76,6 +77,6 @@ Here is how the Accordion Container will look and function for your users on the
 
 > Note: The Plus (+) and Minus (-) icons on an Accordion Container are only for expanding and collapsing that one section. To allow users to duplicate or repeat a set of fields, you would use the [Repeat Container](/docs/add-repeat-container-field-in-fluent-forms) instead.
 
-![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/final-form-07.webp)
+![Final Fluent Forms](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/final-form-07.webp)
 
 This way, you can easily add the Accordion Container fields in Fluent Forms!

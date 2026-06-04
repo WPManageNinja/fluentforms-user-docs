@@ -4,7 +4,8 @@ Pipedrive is a deal-driven CRM solution designed to manage the entire sales proc
 
 This article will guide you through integrating Pipedrive with Fluent Forms on your WordPress Site.
 
-> Remember, Pipedrive is the Premium Feature of the Fluent Forms Plugin. So, you need to [upgrade to Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on) to integrate this.
+> [!Note]
+> **Pipedrive** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Pipedrive Integration
 
@@ -14,13 +15,13 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **Pipedri
 
 Now, turn on the **Toggle** to enable the **Pipedrive** module, and click the **Settings Icon** on the right side.
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Pipedrive-integration-01-scaled.webp)
+![Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Pipedrive-integration-01-scaled.webp)
 
 Once you enable Pipedrive, you will be asked for the **Pipedrive API Token** of your **Pipedrive Account**.
 
 > If you don’t have an existing account, click the sign up for one here button to create a new one.
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Configure-pipedrive-02-scaled.webp)
+![Configure Pipedrive](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Configure-pipedrive-02-scaled.webp)
 
 ### Get the Pipedrive API Token
 
@@ -30,7 +31,7 @@ First, log in to your [Pipedrive Account](https://www.pipedrive.com/en/register)
 
 Now, click **Personal preferences** and then select the **API** sections. Here, you will find the **API Token**. **Copy** the API token for later use. 
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/API-Token-03-scaled.webp)
+![API Token](/images/integrations/crm/pipedrive-integration-with-fluent-forms/API-Token-03-scaled.webp)
 
 ### Connect Pipedrive with Fluent Forms
 
@@ -40,11 +41,11 @@ Now, paste the **API Token** that you copied before**.**
 
 Press the **Verify Pipedrive API Token** button to make your **Pipedrive Integration** module functional.
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/paste-pipedrive-api-token-04-scaled.webp)
+![Paste Pipedrive API Token](/images/integrations/crm/pipedrive-integration-with-fluent-forms/paste-pipedrive-api-token-04-scaled.webp)
 
 Here you can see your **Pipedrive API integration is up and running**. Also you can disconnect to click the **Disconnect Pipedrive** button.
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Disconnect-pipedrive-05-scaled.webp)
+![Disconnect Pipedrive](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Disconnect-pipedrive-05-scaled.webp)
 
 ### Integrate Pipedrive into Fluent Forms
 
@@ -52,13 +53,11 @@ To learn how to integrate Pipedrive into any specific Form in Fluent Forms, foll
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Pipedrive and click the **Settings** button. 
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Settings-06-scaled.webp)
+![Settings Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Settings-06-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Pipedrive Integration** feed from the dropdown list. 
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/add-new-integration-07-1-scaled.webp)
+![Add Integration Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/add-new-integration-07-1-scaled.webp)
 
 ### Configure Pipedrive Integration Feed
 
@@ -67,7 +66,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Use all the fields under this option to properly link your **Pipedrive Fields** with the **Form Fields**. You can easily select the **value** for the **Form Fields** based on the **Pipedrive fields** using the **Shortcode Arrow**. 
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/add-new-integration-feed-08-scaled.webp)
+![Add Integration Feed Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/add-new-integration-feed-08-scaled.webp)
 
 **C. Conditional Logic:** If you want to allow **Pipedrive** integration conditionally based on your  submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
@@ -75,13 +74,13 @@ Use all the fields under this option to properly link your **Pipedrive Fields** 
 
 Now, click the **Save Feed** button to save the integration feed.
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/add-new-integration-feed-09-scaled.webp)
+![Add Integration Feed Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/add-new-integration-feed-09-scaled.webp)
 
 After successful Integration, you will see your Pipedrive integration Feed has been added here. You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
 
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Enable-or-disable-integration-10-scaled.webp)
+![Enable Or Disable Integration Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Enable-or-disable-integration-10-scaled.webp)
 
 ### Preview of Integrated Pipedrive
 
@@ -89,6 +88,6 @@ Here, you can see a preview of the added Pipedrive contacts through the Form ent
 
 You can see the forms submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
-![](/images/integrations/crm/pipedrive-integration-with-fluent-forms/preview-entries-11-scaled.webp)
+![Preview Entries Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/preview-entries-11-scaled.webp)
 
 This way you can easily integrate Pipedrive with Fluent Forms!

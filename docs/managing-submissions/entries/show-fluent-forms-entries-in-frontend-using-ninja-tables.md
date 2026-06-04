@@ -10,11 +10,11 @@ First, go to **Plugins** in the **WordPress Admin Panel** on the left side, clic
 
 Now, click the **Install** button, and your **Ninja Table** plugin will be installed on your site.
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/3.-Install-Ninja-Table-scaled.webp)
+![Install Ninja Table](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/3.-Install-Ninja-Table-scaled.webp)
 
 Then, click the **Activate** button, and the Ninja Table plugin will be activated and ready to function.
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/4.-Activate-Ninja-Table-scaled.webp)
+![Activate Ninja Table](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/4.-Activate-Ninja-Table-scaled.webp)
 
 ## Configuring Fluent Forms into Ninja Tables
 
@@ -22,15 +22,15 @@ Now it’s time to configure a desired form in a table to showcase its entries o
 
 First, go to **Tables** from **Ninja Tables Left Sidebar** or **All Tables** from **Ninja Tables Navbar,** and click the **Add Table** button in the top right corner. 
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/5.-Add-Table-scaled.webp)
+![Add Table Show Fluent Forms Entries](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/5.-Add-Table-scaled.webp)
 
 Open the **Connect Fluent Forms** option from the left menu of the pop-up page and get the configuration option.
 
 Now, provide a **Title** for the table you are creating. Then select the preferred Fluent Forms' **Form** you want to configure with this table using the **Arrow Icon**.  
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one. Plus, to learn more details about form entries, read [Managing Entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+> To learn more details about form entries, read [Managing Entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/6.-Connect-Fluent-Forms-Select-desired-form-scaled.webp)
+![Connect Select Fluent Forms](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/6.-Connect-Fluent-Forms-Select-desired-form-scaled.webp)
 
 ### Select Form’s Entry Fields
 
@@ -42,7 +42,7 @@ You can also set the number of **Maximum** **Entries** you want to display using
 
 Once you are done, click the **Save** button, and your table will be created.
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/7.-Save-the-form.webp)
+![Save Show Fluent Forms Entries](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/7.-Save-the-form.webp)
 
 ### Edit Table Settings
 
@@ -50,28 +50,28 @@ Here, you can see that all the submission data from the chosen form has been dis
 
 You can **edit your table settings** by clicking the Arrow Icon on the top right side if needed.
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/8.-Form-entries-in-Ninja-Table-scaled.webp)
+![Entries Ninja Table](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/8.-Form-entries-in-Ninja-Table-scaled.webp)
 
 Now, you’ll see a new “**Show current submission only at frontend**” option. **Enable** this option if you want to display only the most recent form submission entries on the frontend.
 
 Always click the **Update** button after making any changes to the settings to save them.
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/9.-Edit-Table-Settings-scaled.webp)
+![Edit Table Settings Show Fluent Forms Entries](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/9.-Edit-Table-Settings-scaled.webp)
 
 ## Embedding the Table into the Frontend
 
 Now, to embed or display the table into the frontend, copy your table’s **Shortcode** from the top.
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/10.-Copy-shortcode-scaled.webp)
+![Copy Shortcode Fluent Forms](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/10.-Copy-shortcode-scaled.webp)
 
 Then, **paste** the shortcode into the desired **Page/Post** where you want to display the table.   
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/11.-Paste-Shortcode-scaled.webp)
+![Paste Shortcode Fluent Forms](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/11.-Paste-Shortcode-scaled.webp)
 
 ## Preview of Integrated Table
 
 Here is the preview of the added **Table** where the **Form** was integrated.
 
-![](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/12.-preview-of-Form-Entries-in-a-Page-using-Ninja-Table.webp)
+![Preview Entries Page Using Ninja Table Show Fluent Forms Entries](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/12.-preview-of-Form-Entries-in-a-Page-using-Ninja-Table.webp)
 
 This is how you can Show Entries on the Frontend with Ninja Tables!

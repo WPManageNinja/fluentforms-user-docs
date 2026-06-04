@@ -10,13 +10,13 @@ In this article, you will learn how to show your form on a dedicated landing pag
 
 To enable the Landing page Module, go to the **Integrations** Modules from Fluent Forms (WordPress admin panel sidebar) and turn on the **Landing Pages** **Module** by clicking the **Toggle** button.
 
-![](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/enable-landing-module-01-scaled.webp)
+![Enable Landing Module Dedicated Landing Page](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/enable-landing-module-01-scaled.webp)
 
 ### Configuring Your Form for a Dedicated Landing Page
 
 After the landing pages option is enabled, you can configure your existing forms or create new ones to appear as dedicated landing pages.
 
-![](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/edit-form-02-scaled.webp)
+![Edit Dedicated Landing Page](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/edit-form-02-scaled.webp)
 
 Once you are in the form editor, go to the **Settings & Integrations** tab. In the left sidebar, click on **Landing Page**.
 
@@ -24,7 +24,7 @@ Now, on the Landing Page settings screen, **enable** the **Form Landing Page Mod
 
 You will now see two distinct sections for customizing your landing page: **Design** and **Share**.
 
-![](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/enable-form-landing-page-mode-03-scaled.webp)
+![Enable Landing Page Mode Dedicated Landing Page](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/enable-form-landing-page-mode-03-scaled.webp)
 
 ### Design Your Landing Page
 
@@ -40,7 +40,7 @@ Click the **Radio** button here to select whether you want the Page Design Style
 
 **C. Media Alt Text:** Enter descriptive alt text for accessibility.
 
-![](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/layout-type-04-scaled.webp)
+![Layout Type](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/layout-type-04-scaled.webp)
 
 **BG Color:** Choose a background color for your form page.
 
@@ -54,7 +54,7 @@ Click the **Radio** button here to select whether you want the Page Design Style
 
 **Featured Image:** Set a featured image that will serve as a thumbnail when your landing page is shared on social media platforms.
 
-![](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/shadow-05-scaled.webp)
+![Shadow Fluent Forms](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/shadow-05-scaled.webp)
 
 **Page Headings:** Add a compelling page heading that will be displayed at the top of your page.
 
@@ -64,7 +64,7 @@ Click the **Radio** button here to select whether you want the Page Design Style
 
 Now click the **Save Settings** button to save the form design.
 
-![](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/design-save-settings-06-scaled.webp)
+![Design Save Settings](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/design-save-settings-06-scaled.webp)
 
 ### Share Your Landing Page
 
@@ -76,12 +76,12 @@ Once you've designed your landing page, the **Share** section provides various w
 
 **Embed via HTML Code:** Use the provided HTML to embed the landing page on external websites or other platforms that support HTML.
 
-![](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/share-07-scaled.webp)
+![Share Fluent Forms](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/share-07-scaled.webp)
 
 ### Preview the Dedicated Landing page
 
 This is how it will look on the dedicated landing page.
 
-![](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/Blank-Form-26-ADHD.webp)
+![Blank Adhd](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/Blank-Form-26-ADHD.webp)
 
 You’ve successfully created a **dedicated landing page** using Fluent Forms that designed, styled, and ready to share with the world.

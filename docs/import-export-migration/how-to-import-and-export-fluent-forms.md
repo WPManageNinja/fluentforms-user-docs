@@ -18,7 +18,7 @@ Once a form is selected, click the **Export** button. You can also export all th
 
 You can also select multiple forms after clicking and **selecting all** the forms you need. 
 
-![](/images/import-export-migration/how-to-import-and-export-fluent-forms/export-form-01-1-scaled.webp)
+![Export](/images/import-export-migration/how-to-import-and-export-fluent-forms/export-form-01-1-scaled.webp)
 
 ## Import Fluent Forms
 
@@ -32,10 +32,10 @@ Before importing, you can check the **Apply default form style to imported forms
 
 After selecting the file and configuring your options, click the **Import Forms** button.
 
-![](/images/import-export-migration/how-to-import-and-export-fluent-forms/Imported-Forms-scaled.webp)
+![Imported Fluent Forms](/images/import-export-migration/how-to-import-and-export-fluent-forms/Imported-Forms-scaled.webp)
 
 A success message will confirm that the form has been imported. It is shown in the screenshot below. You will also see all **Imported** forms in the **All Forms** Section.
 
-![](/images/import-export-migration/how-to-import-and-export-fluent-forms/imported-forms-03-scaled.webp)
+![Imported Fluent Forms](/images/import-export-migration/how-to-import-and-export-fluent-forms/imported-forms-03-scaled.webp)
 
 With these steps, you can easily migrate your forms between sites without needing to recreate them from scratch.

@@ -4,7 +4,8 @@
 
 This article will step by step guide you through integrating Zoho CRM with Fluent Forms on your WordPress Site.
 
-> Remember, Zoho CRM is the Premium Feature of the Fluent Forms Plugin. So, you need to [upgrade to Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on) to integrate this.
+> [!Note]
+> **Zoho CRM** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Zoho CRM Integration
 
@@ -14,7 +15,7 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **Zoho CR
 
 Now, turn on the **Toggle** to enable the **ZohoCRM** module and click the **Settings Icon** on the right.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/enable-zohocrm-01-scaled.webp)
+![Enable Zoho CRM](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/enable-zohocrm-01-scaled.webp)
 
 Once you enable ZohoCRM, you will be asked for the **Account URL, Zoho CRM Client ID,** and **Zoho CRM Client Secret** of your **Zoho CRM Account**.
 
@@ -22,7 +23,7 @@ Here **Copy** the **Homepage URL** and **Authorized Redirect URL** for **later**
 
 If you don’t have an existing account or application registered, click[ **Zoho Developer Console**](https://api-console.zoho.com/) to register your application.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/fdsgdh.webp)
+![Fdsgdh Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/fdsgdh.webp)
 
 ## Get the Zoho CRM Credentials
 
@@ -30,19 +31,19 @@ To learn how to get the **Account URL, Zoho CRM Client ID,** and **Zoho CRM Clie
 
 Choose the client type that **Server-based Applications** from the **API Console**.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/choose-server-type-02-1-scaled.webp)
+![Choose Server Type](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/choose-server-type-02-1-scaled.webp)
 
 A popup will appear. Now, Enter the **Client Name**. **Paste** the **Homepage URL** and **Authorized Redirect URLs** that were copied before. Press the **Create** button.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/create-new-client-03-scaled.webp)
+![Create Client](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/create-new-client-03-scaled.webp)
 
 Now, You will be provided with the **Client ID** and **Client Secret. Copy** the Client ID and Client Secret for **later** use.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Client-ID-and-Client-Secret-04.webp)
+![Client ID And Client Secret](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Client-ID-and-Client-Secret-04.webp)
 
 Then go to **Settings** and **Enable** the **Data Centers** as you need.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Settings-05-scaled.webp)
+![Settings Zoho CRM Integration](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Settings-05-scaled.webp)
 
 ## Connect Zoho CRM with Fluent Forms
 
@@ -52,15 +53,15 @@ Now, paste the **Account URL, Client ID,** and **Client Secret** that you copied
 
 After that, click the **Save Settings** button.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Global-Settings-08-scaled.webp)
+![Global Settings](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Global-Settings-08-scaled.webp)
 
 Then it is redirect to your Zoho CRM account for your confirmation. Click the **Accept** button.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/accept-07.webp)
+![Accept Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/accept-07.webp)
 
 Here, you will see that your **Zoho CRM API integration is up and running**. You can also disconnect by clicking the **Disconnect Zoho CRM** button.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/disconect-09-scaled.webp)
+![Disconect Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/disconect-09-scaled.webp)
 
 ## Integrate Zoho CRM into Fluent Forms
 
@@ -68,13 +69,11 @@ To learn how to integrate Zoho CRM into any specific Form in Fluent Forms, follo
 
 First, go to **Forms** from the **Fluent Forms Navbar**, select the **Desired Form** where you want to integrate your Zoho CRM and click the **Settings** button. 
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Fluent-Form-Zoho-forms-10-scaled.webp)
+![Zoho Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Fluent-Form-Zoho-forms-10-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Zoho CRM Integration** feed from the dropdown list. 
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/add-new-configuration-11-scaled.webp)
+![Add Configuration Zoho CRM Integration](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/add-new-configuration-11-scaled.webp)
 
 ### Configure Zoho CRM Integration Feed
 
@@ -92,13 +91,13 @@ Once the setup is complete, click the **Save Feed** button.
 
 Now, your Zoho CRM will be integrated into this specific form!
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/add-new-zoho-13-scaled.webp)
+![Add Zoho](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/add-new-zoho-13-scaled.webp)
 
 After successful Integration, you will see that your Zoho CRM integration Feed has been added here. You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
 
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/14-scaled.webp)
+![Zoho CRM Integration step](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/14-scaled.webp)
 
 ### Preview of Integrated Zoho CRM
 
@@ -108,6 +107,6 @@ Here, you can see a preview of the added Zoho CRM contacts through the Form entr
 
 You can see form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
-![](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Zoho-entries-scaled.webp)
+![Zoho Entries Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Zoho-entries-scaled.webp)
 
 Following this simple steps, you can easily integrate Zoho CRM with Fluent Forms!

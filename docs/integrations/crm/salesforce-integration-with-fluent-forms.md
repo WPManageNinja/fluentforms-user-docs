@@ -4,7 +4,8 @@ Salesforce is a popular customer relationship management (CRM) platform. It help
 
 This article will guide you through integrating **Salesforce** with **Fluent Forms** on your **WordPress Site**.  
 
-> Remember, Salesforce is a Premium Feature of the Fluent Forms Plugin. So, to integrate it, you need to [upgrade to Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on).
+> [!Note]
+> **Salesforce** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 Salesforce provides API Access to these four account editions only:
 
@@ -24,7 +25,7 @@ First, go to **Integrations** from the **Fluent Forms Navba**r, search for **Sal
 
 Now, turn on the **Toggle** to enable the **Salesforce** module and click the **Settings Icon** on the right.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/unnamed-1-2-2.webp)
+![Unnamed](/images/integrations/crm/salesforce-integration-with-fluent-forms/unnamed-1-2-2.webp)
 
 Once you enable **Salesforce**, you will be asked for the **Sandbox Account**, **Salesforce Domain URL**, **Salesforce Consumer Ke**y, and **Salesforce Consumer Secret** of your **Salesforce Account**.
 
@@ -32,7 +33,7 @@ Once you enable **Salesforce**, you will be asked for the **Sandbox Account**, *
 
 Now, copy the **callback URL** from the top for later use, as shown in the screenshot.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/enable-salesforce-integration-01-scaled.webp)
+![Enable Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/enable-salesforce-integration-01-scaled.webp)
 
 ## Get the Salesforce Integration Credentials
 
@@ -40,39 +41,39 @@ Follow the steps in the screenshots below to learn how to get the Salesforce Int
 
 First, log into your [Salesforce Account](https://login.salesforce.com/). A **Home page** will appear here. Click on the **Settings Icon** button and then select the **Open Advanced Setup.** 
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/Salesforce-Settings-03-scaled.webp)
+![Salesforce Settings](/images/integrations/crm/salesforce-integration-with-fluent-forms/Salesforce-Settings-03-scaled.webp)
 
 Here appears a new window page. Select the **App Manager** from the left sidebar under the **Apps** section. Click on the **New Connected App** button.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/App-Manager-04-scaled.webp)
+![App Manager](/images/integrations/crm/salesforce-integration-with-fluent-forms/App-Manager-04-scaled.webp)
 
 After clicking the New Connect App button, a pop-up will appear. Now choose the **Create a Connected App** option and click the **Continue** button.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/Create-a-connect-app-05-scaled.webp)
+![Create Connect App](/images/integrations/crm/salesforce-integration-with-fluent-forms/Create-a-connect-app-05-scaled.webp)
 
 A new window page also appears here. Now, set the **Connected App Name**, **API Name**, and **Contact Email**.
 
 Check **Enable OAuth Settings** and **paste** the **Callback URL** that you will get from the **Global Setting** of the Fluent Forms Salesforce integration settings.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/new-connected-api-06-scaled.webp)
+![Connected API](/images/integrations/crm/salesforce-integration-with-fluent-forms/new-connected-api-06-scaled.webp)
 
 Now, Select the OAuth scopes: “**Manage user data via APIs (API)** and **Perform requests at any time (refresh_token, offline_access)**“. 
 
 After that, **save** the connected app and wait a few minutes for it to be activated. You can also click the **Continue** button to proceed to the next step.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/selected-Oauth-scope-07-scaled.webp)
+![Selected Oauth Scope](/images/integrations/crm/salesforce-integration-with-fluent-forms/selected-Oauth-scope-07-scaled.webp)
 
 Click the **Manage Consumer Details** button to collect the **Consumer Key** and **Secret** under the **API (Enable OAuth Settings)** options.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/07-scaled-2.webp)
+![Salesforce Integration step](/images/integrations/crm/salesforce-integration-with-fluent-forms/07-scaled-2.webp)
 
 Here are Consumer Details. **Copy** the **Consumer Key** and **Consumer Secret** to use in the future.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/Consumer-details-08-scaled.webp)
+![Consumer Details](/images/integrations/crm/salesforce-integration-with-fluent-forms/Consumer-details-08-scaled.webp)
 
 Get your **domain URL** by clicking your **Profile Icon** at the top right. **Copy** the **URL** and make sure you add **'https://'** before the domain URL.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/domain-url-copy-09-scaled.webp)
+![Domain URL Copy](/images/integrations/crm/salesforce-integration-with-fluent-forms/domain-url-copy-09-scaled.webp)
 
 ## Connect Salesforce with Fluent Forms
 
@@ -82,11 +83,11 @@ Paste your Salesforce **Domain URL**, **Consumer Key**, and **Consumer Secret** 
 
 Press the **Save Settings** button to make your **Salesforce Integration** module functional.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/paste-consumer-10-scaled.webp)
+![Paste Consumer](/images/integrations/crm/salesforce-integration-with-fluent-forms/paste-consumer-10-scaled.webp)
 
 Here, you can see your **Salesforce API integration** is **up and running**. To disconnect, click the **Disconnect Salesforce** button.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/disconnect-salesforce-11-scaled.webp)
+![Disconnect Salesforce](/images/integrations/crm/salesforce-integration-with-fluent-forms/disconnect-salesforce-11-scaled.webp)
 
 ## Integrate Salesforce into Fluent Forms
 
@@ -94,19 +95,17 @@ To learn how to integrate Salesforce into any specific Form in Fluent Forms, fol
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **Salesforce** and click the **Settings** button. 
 
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
-
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/Form-settings-13-scaled.webp)
+![Settings Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/Form-settings-13-scaled.webp)
 
 Once on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Salesforce Integration** feed from the dropdown list. 
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/add-new-integration-13-scaled.webp)
+![Add Integration Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/add-new-integration-13-scaled.webp)
 
 You will find a required field to set a **Feed** **Name** for your integration feed according to your preference.
 
 Also, you must select **Salesforce Services** from the dropdown where you want to send the submitted form data.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/Add-New-Salesforce-Integration-14-scaled.webp)
+![Add Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/Add-New-Salesforce-Integration-14-scaled.webp)
 
 Once you select the Salesforce services, a pop-up page with various settings options for configuring the Salesforce will appear. 
 
@@ -124,13 +123,13 @@ Here, I will select Salesforce service **Contact** options. You can choose **Sal
 
 After that, click the **Save Feed** button to save the integration feed.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/unnamed-2-1.webp)
+![Unnamed](/images/integrations/crm/salesforce-integration-with-fluent-forms/unnamed-2-1.webp)
 
 After successful Integration, now you will see that your Salesforce integration Feed has been added here. You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
 
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/add-new-integration-15-scaled.webp)
+![Add Integration Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/add-new-integration-15-scaled.webp)
 
 ## Preview of Integrated Salesforce
 
@@ -138,10 +137,10 @@ Here, you can see a preview of the added Salesforce contacts through the Form en
 
 You can see four form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/entries-16-scaled.webp)
+![Entries Fluent Forms](/images/integrations/crm/salesforce-integration-with-fluent-forms/entries-16-scaled.webp)
 
 Go to the **Salesforce Contacts** section from the left sidebar to see the integrated contact list into Fluent Forms.
 
-![](/images/integrations/crm/salesforce-integration-with-fluent-forms/all-contacts-from-salesforce-17-scaled.webp)
+![All Contacts From Salesforce](/images/integrations/crm/salesforce-integration-with-fluent-forms/all-contacts-from-salesforce-17-scaled.webp)
 
 This way, you can easily integrate Salesforce with Fluent Forms!

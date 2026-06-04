@@ -24,7 +24,7 @@ A post form might include fields like:
 
 > [ACF (Advanced Custom Fields)](/docs/use-acf-to-add-a-custom-field-in-the-post-form) mapping requires the use of mapped meta fields.
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/Create-post-form-01-scaled.webp)
+![Create Post](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/Create-post-form-01-scaled.webp)
 
 ### Setup Custom Meta Fields with ACF
 
@@ -32,7 +32,7 @@ To map the meta field, follow the simple steps given below-
 
 First, use a plugin like **Advanced Custom Fields (ACF)** to create a field group for your WordPress posts. Then, copy the **Name Attributes** of the fields from the **Custom Fields plugin**.
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/unnamed-7.webp)
+![Unnamed Fluent Forms](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/unnamed-7.webp)
 
 ### Map Meta Fields in Fluent Forms
 
@@ -42,7 +42,7 @@ Now, Click +**Add Meta Field** button and paste the copied meta keys into the de
 
 After adding all the required meta keys, click the **Save Feed** button to save your configuration. Fill out and submit the form.
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/post-field-and-meta-field-02-scaled.webp)
+![Post Field And Meta Field](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/post-field-and-meta-field-02-scaled.webp)
 
 ### Verify Submission
 
@@ -50,7 +50,7 @@ To verify, go to **Posts** in WordPress. Locate the newly created post (**Demo P
 
 Open the post and check if the **Post Title**, **Post Author**, and other values are mapped correctly.
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/MEta-Key-Field-03-scaled.webp)
+![Meta Key Field](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/MEta-Key-Field-03-scaled.webp)
 
 ## Mapping Meta Fields with a Product Form
 
@@ -66,7 +66,7 @@ Now, add the Add Product-Specific Fields. Include fields such as:
 
 - Product Status
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/product-form-04-scaled.webp)
+![Product Fluent Forms](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/product-form-04-scaled.webp)
 
 ### Add Custom Fields with ACF
 
@@ -78,18 +78,18 @@ Now, click the +**Add Meta Field** button and paste the copied meta keys into th
 
 Before adding custom meta fields, ensure that default post fields, such as **Post Title** and **Post** **Content**, are mapped in the form settings.
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/add-product-field-05-scaled.webp)
+![Add Product Field Mapping Meta Fields with](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/add-product-field-05-scaled.webp)
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/add-meta-field-06-scaled.webp)
+![Add Meta Field Mapping Meta Fields with](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/add-meta-field-06-scaled.webp)
 
 After adding all the required meta keys, click the **Save Feed** button to save your configuration. Fill out and submit the form.
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/unnamed-1-4.webp)
+![Unnamed](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/unnamed-1-4.webp)
 
 ### Verify Submission
 
 Go to **Posts** in the WordPress Dashboard. Then, check if the **Product Title** and **Product Status** appear correctly in the post entry.
 
-![](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/preview-product-meta-key-07-scaled.webp)
+![Preview Product Meta Key Mapping Meta Fields with](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/preview-product-meta-key-07-scaled.webp)
 
 Following these steps, you can easily map **Meta Fields** using **Meta Keys** in Fluent Forms.
