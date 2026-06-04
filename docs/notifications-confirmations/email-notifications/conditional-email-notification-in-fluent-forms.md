@@ -8,7 +8,8 @@ To learn how to set conditional logic for email notifications, follow the steps 
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditions.
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Editor Fluent Forms](/images/notifications-confirmations/email-notifications/conditional-email-notification-in-fluent-forms/1.-desired-Form-Editor-scaled.webp)
 

@@ -8,13 +8,15 @@ To learn how to add the Item Quantity field to the Fluent Forms, follow the step
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
+> [!Note]
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 ![Open Item Quantity Field in](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/1.-Open-desired-form-2-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Item Quantity** field.
 
-> If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it.
+> [!Note]
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 ![Add Item Quantity Field](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/2.-Add-Item-Quantity-field-scaled.webp)
 

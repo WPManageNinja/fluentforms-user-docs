@@ -10,7 +10,8 @@ To learn how to add the Name field to the Fluent Forms, follow the steps with th
 
 First, go to the **Forms** section from the **Fluent Forms Navbar** and click the **Add New Form** button to create a new form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Add Name Input Field](/images/form-fields/general-fields/name-input-field-in-fluent-forms/add-new-form-scaled.webp)
 

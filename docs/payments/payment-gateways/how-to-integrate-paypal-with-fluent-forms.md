@@ -78,7 +78,8 @@ Plus, if you want to disable the PayPal IPN, simply click the **Turn Off IPN** b
 
 Once you finish setting up your **PayPal** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
 
-> If you do not have any existing Payment Forms, read this Documentation to learn how to create one.
+> [!Note]
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
@@ -92,7 +93,8 @@ Now, go to the **Payment Methods**, check the **PayPal** option, click the **Dro
 
 - Require Shipping Address: Check this box if you want to make providing the Shipping Address information mandatory for your users to submit the forms.
 
-> To learn more details about the Payment Method field, read this Documentation.
+> [!Note]
+> For **Payment Method** field details, see [Add Payment Method Field in Payment Forms](/docs/add-payment-method-field-in-payment-forms).
 
 ![Check Paypal Payment Method](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/9.-Check-PayPal-payment-method-in-a-desired-form-scaled.webp)
 

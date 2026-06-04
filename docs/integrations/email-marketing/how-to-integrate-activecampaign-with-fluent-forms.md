@@ -58,7 +58,8 @@ To learn how to integrate ActiveCampaign into any specific Form in Fluent Forms,
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ActiveCampaign** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Settings Integrate ActiveCampaign](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/6.-Desired-Form-Settings-scaled.webp)
 

@@ -6,7 +6,8 @@ To make form editing faster and more efficient, Fluent Forms provides essential 
 
 Go to the Fluent Forms Dashboard and open the **Forms** section. Now choose an existing form or create a new one and then go to the **Editor** section of the form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Keyboard Navigation & Shortcuts](/images/configuring-forms/form-settings/keyboard-navigation-shortcuts-in-fluent-forms/edit-form-01-scaled-2.webp)
 

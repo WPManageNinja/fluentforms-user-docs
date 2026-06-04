@@ -72,7 +72,8 @@ Finally, press the **Save Settings** button, and your Square account will be con
 
 Once you finish setting up your **Square** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
 
-> If you do not have any existing Payment Forms, read this Documentation to learn how to create one.
+> [!Note]
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
@@ -86,7 +87,8 @@ Now, go to the **Payment Methods**, check the **Square** option, click the **Dro
 
 - Embedded Checkout: Check this box to activate Square as an inline payment option.
 
-> To learn more details about the Payment Method field, read this Documentation.
+> [!Note]
+> For **Payment Method** field details, see [Add Payment Method Field in Payment Forms](/docs/add-payment-method-field-in-payment-forms).
 
 ![Set Up Payment Method Field](/images/payments/payment-gateways/how-to-integrate-square-with-fluent-forms-inline-payment-integration/12.-set-up-Payment-Method-field-scaled.webp)
 

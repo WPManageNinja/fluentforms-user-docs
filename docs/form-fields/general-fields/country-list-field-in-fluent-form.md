@@ -16,7 +16,8 @@ To learn how to add the country list to Fluent Forms, follow the steps below:
 
 First, go to the **Forms** section from the **Fluent Forms Navbar**, choose a desired **Form**, and click the **Edit Icon** to open the Editor page of that form.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit From Country List Field in](/images/form-fields/general-fields/country-list-field-in-fluent-form/edit-from-01-scaled.webp)
 

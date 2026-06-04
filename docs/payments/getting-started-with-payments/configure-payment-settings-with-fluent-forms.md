@@ -114,7 +114,8 @@ To learn how to configure the **Payment Settings** for a specific payment form, 
 
 First, go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of the desired **Payment** **Form**. 
 
-> If you don't have an existing Payment Form, read this documentation to crate a new one.
+> [!Note]
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 ![Open Settings Configure Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/Open-Form-Settings-3-scaled.webp)
 

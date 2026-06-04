@@ -45,7 +45,8 @@ Finally, press the **Save Settings** button and your Paystack account will be co
 
 Once you finish setting up your **Paystack** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
 
-> If you do not have any existing Payment Forms, read this Documentation to learn how to create one.
+> [!Note]
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
@@ -55,7 +56,8 @@ Once you are on the **Editor** page, go to the **Input** **Customization** menu 
 
 Now, go to the **Payment Methods**, check the **PayStack** option, click the **Dropdown Arrow,** and you will get the option to change the **Method Label** based on your preference.
 
-> To learn more details about the Payment Method field, read this Documentation.
+> [!Note]
+> For **Payment Method** field details, see [Add Payment Method Field in Payment Forms](/docs/add-payment-method-field-in-payment-forms).
 
 ![Add Paystack Integrate Paystack](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/5.-add-paystack-to-the-desired-form-scaled.webp)
 

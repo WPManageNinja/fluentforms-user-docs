@@ -37,7 +37,8 @@ To learn how to integrate BuddyBoss into any specific Form in Fluent Forms, foll
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and click the **Settings** button. 
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Open Settings Integrate BuddyBoss](/images/integrations/other-apps/how-to-integrate-buddyboss-with-fluent-forms/4.-open-desired-forms-Settings-scaled.webp)
 
@@ -47,7 +48,8 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Once you select the list, a pop-up page will appear with various settings options for configuring the User Registration feed.
 
-> To learn the detailed configuration process of User registration or Update integration feed, read this Documentation.
+> [!Note]
+> For **User Registration** or **User Update** feeds, see [How to Create a WordPress User Registration Form With Fluent Forms](/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms) and [How to Create a WordPress User Update Form With Fluent Forms](/docs/how-to-create-a-wordpress-user-update-form-with-fluent-forms).
 
 Finally, scroll down to the BuddyBoss Settings section, and you will get the following options to integrate it with the form.
 

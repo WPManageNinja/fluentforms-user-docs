@@ -8,13 +8,15 @@ To learn how to add the Payment Method field to the Fluent Forms, follow the ste
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-> If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
+> [!Note]
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 ![Open Payment Method Field in](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/1.-Open-desired-form-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Payment Method** field.
 
-> If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it.
+> [!Note]
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 ![Add Payment Method](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/2.-Add-Payment-Method-scaled.webp)
 

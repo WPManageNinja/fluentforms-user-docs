@@ -8,7 +8,8 @@ This article guides you on how to set default form values from URL parameters in
 
 First, go to **Forms** from the top navbar and **open** the **Editor** page of the form you want to set the default form value via URL parameters. Then, click the **Edit** button to access the **Editor** page of the form you wish to modify.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Add the input fields where the value must be set from the URL parameter or select the existing one. In this case, it’s the **Email field**. Then, go to **Advanced Options** from the dropdown.
 

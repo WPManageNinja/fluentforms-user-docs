@@ -19,7 +19,8 @@ To learn how to integrate Discord into any specific Form in Fluent Forms, follow
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Discord,** and click the **Settings** button.
 
-> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Open Settings Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/2.-Open-desired-Form-Settings-scaled.webp)
 

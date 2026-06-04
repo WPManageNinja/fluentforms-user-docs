@@ -8,7 +8,8 @@ This article will guide you on restricting form entries in Fluent Forms.
 
 To access the settings, go to **Forms** from the top Navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button on which form you want to restrict to entries.
 
-> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Form Restrictions Feature](/images/configuring-forms/form-settings/form-restrictions-feature-in-fluent-forms/edit-form-01-3-scaled.webp)
 
