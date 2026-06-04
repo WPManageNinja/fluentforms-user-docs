@@ -340,6 +340,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "Overview",
+        "link": "/docs/configuring-forms-overview"
+      },
+      {
         "text": "Form Settings",
         "collapsed": true,
         "items": [
