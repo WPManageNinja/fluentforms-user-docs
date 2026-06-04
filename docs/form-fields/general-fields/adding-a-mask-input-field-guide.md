@@ -41,8 +41,6 @@ After adding the field, customize the mask input field. **Hover over the field**
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Mask** input field.
 
-**All the Settings under the Mask Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title the users will see when filling out the **Simple Text** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
@@ -89,7 +87,7 @@ License Key Mask: *-*-***. Valid Input: a9a-f0c-28Q
 
 #### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read this [article ](/docs/dynamic-default-value-in-fluent-forms)to understand Dynamic Default values better.
 

@@ -2,15 +2,14 @@
 
 The **Image Upload** input field in[ Fluent Forms](https://fluentforms.com/) allows users to submit images in different formats directly through a form. This feature validates applications, registrations, file submissions, and more.
 
-> The Image Upload field is an advanced feature of the Fluent Forms plugin. You require the Fluent Forms Pro Add-on to use it.
+> [!Note]
+> The **Image Upload** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/Yb3FSoZl9Zg" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Adding Image Upload Field
-
-To learn how to add the image upload field to the Fluent Forms, follow the steps with the screenshots below –
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
@@ -38,8 +37,6 @@ An image upload field has been added. You can edit this field by **hovering over
 ### Image Upload Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Image Upload** field.
-
-**All the Settings under the Image Upload Field mentioned above are briefly explained below –** 
 
 **A. Element Label:** This is the field title the users will see when filling out the **Image Upload** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -85,7 +82,7 @@ Define the error message to be shown if validation fails for **Allowed Image** f
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 

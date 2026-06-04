@@ -39,8 +39,6 @@ An image upload field has been added. You can edit this field by **hovering over
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **File Upload** field.
 
-**All the Settings under the File Upload Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title the users will see when filling out the **File Upload** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Button Text:** This is the text users will see on the button that allows users to browse their local directory and choose an image file.
@@ -87,7 +85,7 @@ If you want to add a **Custom Error Message**, you can disable the **Global Erro
 
 #### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 

@@ -39,8 +39,6 @@ After adding the field, customize the field. Now **Hover over the field** and cl
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Multiple Choice** field.
 
-**All the Settings under the Multiple Choice Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title the users will see when filling out the **Multiple Choice** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
@@ -75,7 +73,7 @@ You can also save time by importing predefined datasets instead of manually addi
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below.
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read this [article ](/docs/dynamic-default-value-in-fluent-forms)to better understand Dynamic Default values[.](https://wpmanageninja.com/docs/fluent-form/miscellaneous/default-value-in-wp-fluent-forms/)
 

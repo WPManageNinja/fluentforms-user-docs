@@ -35,8 +35,6 @@ A name field has been added. You can edit this field by **hovering over it** and
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Name** field.
 
-**All the Settings under the Name Field mentioned above are briefly explained below –** 
-
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.   
 
 **B. Name Field:** Here, you will find Name Fields categorized by three options: First Name, Middle Name, and Last Name.
@@ -61,7 +59,7 @@ The options for **Middle Name** and **Last Name** are the same as for **First Na
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 

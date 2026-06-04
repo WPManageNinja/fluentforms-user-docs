@@ -37,8 +37,6 @@ A Phone/Mobile field has been added. You can edit this field by **hovering over 
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Phone/Mobile** field.
 
-**All the Settings under the Phone/Mobile Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title users will see when filling out the **Phone/Mobile** field in a form. You can enter any text here to help users understand the field's purpose.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
@@ -79,7 +77,7 @@ You can select **Yes** to notify a user that he needs to add a Valid Phone Numbe
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 

@@ -65,7 +65,7 @@ The default error message displayed is that his field is **required**.
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the Settings under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 

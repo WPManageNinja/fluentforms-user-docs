@@ -51,7 +51,7 @@ You will find various settings options for customizing the field. Located in the
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value,read this [article.](/docs/dynamic-default-value-in-fluent-forms)
 

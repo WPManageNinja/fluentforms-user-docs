@@ -71,7 +71,7 @@ A text box provides additional options or actions related to the default value. 
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Element Class:** Add custom CSS classes to the input field.
 

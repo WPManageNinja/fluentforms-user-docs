@@ -39,8 +39,6 @@ A dropdown field has been added. You can edit this field by **hovering over it**
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Dropdown** input field.
 
-**All the Settings under the Dropdown Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title users will see when filling out the **Dropdown** field in a form. You can enter any text here to help users understand the field's purpose.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
@@ -79,7 +77,7 @@ When this option is selected, a search option appears, allowing the user to sear
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read this [article](https://wpmanageninja.com/docs/fluent-form/miscellaneous/default-value-in-wp-fluent-forms/) to better understand Dynamic Default values[.](https://wpmanageninja.com/docs/fluent-form/miscellaneous/default-value-in-wp-fluent-forms/)
 
