@@ -1,8 +1,8 @@
 # Inline Opt-in Form using Fluent Forms
 
-Want to add a clean, horizontal email opt-in form to your WordPress site? Fluent Forms makes it quick and easy. 
+An inline opt-in form lets you collect email subscribers directly inside your page content no popup, no redirect, just a clean horizontal form embedded wherever you need it. With Fluent Forms, you can set one up in minutes using a pre-built template and connect it to your favorite email marketing platform. 
 
-This guide shows you how to build a horizontal Email Opt-in Form with Fluent Forms.
+This guide walks you through importing the form, connecting your email service, and embedding it on any page.
 
 ## Import the Pre-built Opt-in Form
 
@@ -28,6 +28,7 @@ After that, open the **Page Editor** (or Template Editor) where you'd like to di
 
 Insert a new section into your layout and use the following CSS styles to give it a clean background and center alignment-
 
+```
 .section {
 
     background-color: #f0f0f0;
@@ -35,11 +36,13 @@ Insert a new section into your layout and use the following CSS styles to give i
     align-items: center;
 
 }
+```
 
 #### Add a Heading
 
 Now it’s time to add a **Heading**. ou can use an `<h2>` or `<h3>` tag styled like this:
 
+```
 .heading {
 
     color: #566d8f;
@@ -47,11 +50,13 @@ Now it’s time to add a **Heading**. ou can use an `<h2>` or `<h3>` tag styled 
     font-size: 20px;
 
 }
+```
 
 #### Insert the Form Shortcode
 
 Now add a shortcode block or component to the section. **Paste** the shortcode you copied earlier. Style the container for better layout control-
 
+```
 .shortcode {
 
     margin-top: 20px;
@@ -61,5 +66,6 @@ Now add a shortcode block or component to the section. **Paste** the shortcode y
     max-width: 600px;
 
 }
+```
 
 Once you’re done, **save your page** to apply the changes. Your horizontal opt-in form should now be live and styled to fit your page.
