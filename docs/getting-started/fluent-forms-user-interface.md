@@ -56,7 +56,7 @@ You can filter your forms by category using the drop-down menu. This helps you q
 
 The Form Builder allows you to create and customize forms using a drag-and-drop system.
 
-* **Field Panel:** The sidebar that shows all available form fields, including general and advanced types like text input, checkboxes, and dropdowns. Drag any field from here into your form.
+* **Field Panel:** The sidebar that shows [all available form fields](/docs/form-fields-overview), including general and advanced types like text input, checkboxes, and dropdowns. Drag any field from here into your form.
 * **Customization:** On the right side, options to customize each field after adding it to the form.
 * **Form Canvas:** The main workspace where you design and arrange your form.
 * **Field Settings:** When you click on a field, you can edit its label, placeholder, validation rules, and other options.

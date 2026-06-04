@@ -5,7 +5,7 @@ Fluent Forms Pro offers a variety of advanced features that are unavailable in t
 To unlock the ultimate potential of Fluent Forms, you need to upgrade to the Pro add-on. Here is how you can upgrade Fluent Forms. 
 
 > [!Note]
-> To use **Fluent Forms Pro**, you must first install and activate Fluent Forms (free). To know more about Fluent Forms free vs pro, read this [article](https://fluentforms.com/fluent-forms-free-vs-pro-everything-you-need-to-know/).
+> To use **Fluent Forms Pro**, you must first [install and activate Fluent Forms (free)](/docs/how-to-install-fluent-forms). To know more about Fluent Forms free vs pro, read this [article](https://fluentforms.com/fluent-forms-free-vs-pro-everything-you-need-to-know/).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/LYRD4PoTyDo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -33,7 +33,7 @@ Then go to the **Dashboard**, and you will find **Fluent Forms** **Pro** zip und
 
 ![Download](/images/getting-started/upgrade-to-fluent-forms-pro-add-on/fluentforms-pro-download-scaled.webp)
 
-To access your Fluent Forms license, navigate to **Licenses** in the left sidebar. You’ll find your Fluent Forms license key there. You’ll need this key later when activating the plugin. If you miss it now, you can always come back and retrieve it from your WPManageNinja Dashboard.
+To access your Fluent Forms license, navigate to **Licenses** in the left sidebar. You’ll find your Fluent Forms license key there. You’ll need this key later when activating the plugin. If you miss it now, you can always come back and retrieve it from your WPManageNinja Dashboard. To move this license to a different site later, see [How to Transfer a License to a New Domain](/docs/how-to-transfer-a-license-to-a-new-domain).
 
 Click **View List** to see all active sites currently using this license key.
 
@@ -72,4 +72,4 @@ Now, check if any updates are available. If yes, click on the **Update** button.
 
 ![Update Fluent Forms](/images/getting-started/upgrade-to-fluent-forms-pro-add-on/Update-Fluent-Forms-04-25-2025_12_43_PM-scaled.webp)
 
-Congratulations! Now, you can explore all the fantastic features of Fluent Forms.
+Congratulations! Now, you can start [building powerful forms](/docs/creating-forms-overview) and explore all the fantastic features of Fluent Forms.

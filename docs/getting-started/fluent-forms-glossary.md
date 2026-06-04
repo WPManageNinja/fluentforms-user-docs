@@ -36,7 +36,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Coupon Field:** A payment field that lets users apply discount codes at checkout. See [Add Coupon Field in Payment Forms](/docs/add-coupon-field-in-payment-forms).
 
-* **CRM Integrations:** Connections that push leads and submission data into CRMs such as HubSpot, Salesforce, FluentCRM, Pipedrive, and Zoho CRM. Browse the **CRM Integrations** section in the documentation sidebar.
+* **CRM Integrations:** Connections that push leads and submission data into CRMs such as HubSpot, Salesforce, FluentCRM, Pipedrive, and Zoho CRM. See the [Integrations overview](/docs/integrations-overview) for every CRM connection.
 
 * **Custom CSS:** Additional styling rules you add to override or extend the built-in form design. See [Fluent Forms Styling/Custom CSS](/docs/fluent-forms-stylingcustom-css).
 
@@ -72,7 +72,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Field Panel:** The left sidebar in the Form Builder listing all available fields, grouped into categories such as General, Advanced, Payment, and Post.
 
-* **Fields (General and Advanced):** Input elements users fill out—text, email, dropdowns, file uploads, ratings, repeaters, and more. The free plugin includes core fields; Pro adds payment, quiz, post-creation, and advanced field types.
+* **Fields (General and Advanced):** Input elements users fill out—text, email, dropdowns, file uploads, ratings, repeaters, and more. The free plugin includes core fields; Pro adds payment, quiz, post-creation, and advanced field types. See the [Form Fields overview](/docs/form-fields-overview).
 
 * **FluentBooking Field:** An advanced field that connects forms to FluentBooking for appointment scheduling. See [FluentBooking Field in Fluent Form](/docs/fluentbooking-field-in-fluent-form).
 
@@ -146,7 +146,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Net Promoter Score (NPS):** A rating field type used to measure customer loyalty on a standard NPS scale. See [Net Promoter Score in Fluent Forms](/docs/net-promoter-score-in-fluent-forms).
 
-* **Notification Integrations:** Channel integrations such as **Slack**, **Discord**, and **Telegram** that alert teams when forms are submitted. See the **Notifications** section in the documentation sidebar.
+* **Notification Integrations:** Channel integrations such as **Slack**, **Discord**, and **Telegram** that alert teams when forms are submitted. See the [Notifications & Confirmations overview](/docs/notifications-confirmations-overview).
 
 ## O
 
@@ -158,9 +158,9 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Partial Entries:** Incomplete multi-step submissions saved before the user finishes all steps. See [Partial Entries for Step Forms](/docs/partial-entries-for-step-forms).
 
-* **Payment Fields:** Fields used in payment forms: items, quantities, coupons, subscriptions, payment method, summary, and custom amounts. See the **Payment Fields** section in the documentation sidebar.
+* **Payment Fields:** Fields used in payment forms: items, quantities, coupons, subscriptions, payment method, summary, and custom amounts. See the [Payments overview](/docs/payments-overview).
 
-* **Payment Gateway:** A service that processes card or wallet payments—Stripe, PayPal, Mollie, Razorpay, Square, Paystack, Paddle, and Authorize.Net. See **Payment Integrations** in the documentation sidebar.
+* **Payment Gateway:** A service that processes card or wallet payments—Stripe, PayPal, Mollie, Razorpay, Square, Paystack, Paddle, and Authorize.Net. See the [Payments overview](/docs/payments-overview).
 
 * **Payment Reports:** Analytics and charts for revenue and transaction status across payment forms. See [Payment Reports](/docs/payment-reports).
 
