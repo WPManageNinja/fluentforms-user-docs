@@ -14,7 +14,7 @@ To utilize dynamic input values, first, create a multi-step form. Read this arti
 
 For this example, I will create a multi-step form where the user enters their **Name** in the first step. In the second step, we will dynamically display their name as a personalized greeting.
 
-![](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/add-form-step-01-scaled.webp)
+![Add Step Dynamic Input Values In](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/add-form-step-01-scaled.webp)
 
 ## Adding Custom HTML Input Field
 
@@ -22,7 +22,7 @@ Add a **Custom HTML** input field from the **General Field** section to populate
 
 You will find an innovative code sample at the bottom right of the **HTML** input areas. If you want to learn more about the **Custom HTML** field, read this[ article](/docs/custom-html-field-in-fluent-forms).
 
-![](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/custom-html-field-add-02-scaled.webp)
+![Custom HTML Field Add](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/custom-html-field-add-02-scaled.webp)
 
 ### Using the SmartCode
 
@@ -32,7 +32,7 @@ Now, using the Smart codes, you can show the content of the previous input. For 
 
 To find the **Name Attribute** of the input field, click on the **Input Field** (Name Field). Now, on the right-side panel, navigate to **Advanced Options**. Here, you’ll find the **Name Attribute** assigned to the input field. For a better understanding, see the screenshot below.
 
-![](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/name-attributes-03-scaled.webp)
+![Name Attributes](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/name-attributes-03-scaled.webp)
 
 ## Adding Smart Code in the HTML Field
 
@@ -42,7 +42,7 @@ Hello {dynamic.names}, welcome to Fluent Forms!
 
 Where **names** is the **Name Attribute** of the Name Field.
 
-![](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/smartcode-04-scaled.webp)
+![Smartcode Fluent Forms](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/smartcode-04-scaled.webp)
 
 ## Embed the Form into the Front
 
@@ -50,12 +50,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/save-form-05-2-scaled-2.webp)
+![Save Dynamic Input Values In](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/save-form-05-2-scaled-2.webp)
 
 ### Preview of Dynamic Input Values In Form Steps
 
 After embedding, you can preview the form with the dynamic input values in form steps.
 
-![](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/dynamic-input-values-names-06.webp)
+![Dynamic Input Values Names](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps-fluent-forms/dynamic-input-values-names-06.webp)
 
 Your multi-step form will display a personalized message using the name entered in the first step.

@@ -15,13 +15,13 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Tre
 
 Now, turn on the **Toggle** to enable **Trello**, and click the **Settings Icon** on the right side. 
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/1.-enabled-Trello-module-scaled.webp)
+![Enabled Trello Module](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/1.-enabled-Trello-module-scaled.webp)
 
 Once you enable Trello, you will be asked for the **Trello Access Key** of your **Trello Account**.
 
 > If you don’t have an existing account, click the sign up for one here link to create a new one.
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/2.-Trello-API-Settings-scaled.webp)
+![Trello API Settings](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/2.-Trello-API-Settings-scaled.webp)
 
 ### Getting the Trello API Access Key
 
@@ -29,11 +29,11 @@ To learn how to get the  **Trello API URL** and **Trello API Key** from **Trello
 
 To start, click the [Get Access Token](https://trello.com/1/authorize?expiration=never&name=FluentForm%20Pro&scope=read,write,account&response_type=token&key=f79dfb43d0becc887dc488e99bed0687) to authenticate Trello. This will redirect you to Trello’s page, where you need to press the **Allow** button to grant access to your account.
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/3.-Allow-button.webp)
+![Allow Button Fluent Forms](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/3.-Allow-button.webp)
 
 Once you click allow, Trello will provide the access key. Now, simply copy it. 
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/4.-Copy-API-Key-2.webp)
+![Copy API Key](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/4.-Copy-API-Key-2.webp)
 
 ## Connecting Trello with Fluent Forms
 
@@ -42,13 +42,13 @@ Return to the **Trello API Settings** page under the **Configure Integrations** 
 Paste the **Access Key** you copied from **Trello** into the **Trello Access Key** field.
 Finally, press the **Save Setting**s button to make your **Trello Integration** functional. 
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/5.-Paste-API-Key-scaled.webp)
+![Paste API Key](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/5.-Paste-API-Key-scaled.webp)
 
 You can see that your Trello is connected to your **Fluent Forms** successfully!
 
 Now, you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect Trello** button.
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/6.-Verify-or-Disconnect-button-scaled-2.webp)
+![Verify Or Disconnect Button](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/6.-Verify-or-Disconnect-button-scaled-2.webp)
 
 ## Integrating Trello with Forms
 
@@ -58,11 +58,11 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 > If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/7.-Open-desired-Form-Settings-1-scaled.webp)
+![Open Settings Integrate Trello](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/7.-Open-desired-Form-Settings-1-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Trello Integration** feed from the dropdown list. 
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/8.-Add-New-Integration-button-1-scaled.webp)
+![Add Integration Button Integrate Trello](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/8.-Add-New-Integration-button-1-scaled.webp)
 
 Now, a pop-up page will appear with various settings options for configuring Trello.
 
@@ -84,14 +84,14 @@ Now, a pop-up page will appear with various settings options for configuring Tre
 
 Once the setup is done, click the **Save Feed** button, and your Trello will be integrated into this specific form! 
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/9.-Save-Feed-button-2-scaled.webp)
+![Save Feed Button Integrate Trello](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/9.-Save-Feed-button-2-scaled.webp)
 
 After successful Integration, you will now see that your **Trello Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**.
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/10.-Added-Trello-Integration-Feed-scaled.webp)
+![Added Trello Integration Feed](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/10.-Added-Trello-Integration-Feed-scaled.webp)
 
 ## Preview of Integrated Trello
 
@@ -99,16 +99,16 @@ Here, you can see the preview of the added Trello Contacts through the Form Entr
 
 **For example**, you can see four new **Form Submissions** under the **Entries** tab on this particular form.
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/11.-Entries-tab.webp)
+![Entries Tab Fluent Forms](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/11.-Entries-tab.webp)
 
 Now, go to the **Trello** **Workspace** section from the left sidebar, open the desired **Board**, and view the desired **List** you integrated with **Fluent Forms**.
 
 Then, you can see that the **users who submitted the forms** in **Fluent Forms** are automatically added to the selected **Trello List**. 
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/12.-preview-of-Added-cards-scaled.webp)
+![Preview Added Cards Integrate Trello](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/12.-preview-of-Added-cards-scaled.webp)
 
 You can also see the details of one user by clicking the desired card of that user.
 
-![](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/13.-Preview-of-details-of-a-specific-card.webp)
+![Preview Details Specific Card Integrate Trello](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/13.-Preview-of-details-of-a-specific-card.webp)
 
 This way, you can easily integrate Trello with Fluent Forms!

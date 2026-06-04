@@ -19,7 +19,7 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose the 
 
 > 
 
-![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/edit-form-1-scaled.webp)
+![Edit Repeat Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/edit-form-1-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Container** input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 
 
@@ -27,7 +27,7 @@ Now, choose the desired **Repeat Container** by clicking on it or **Drag & Drop*
 
 ***Note:** Only specific field types can be used within the Repeater Container. For example, the standard Name field is not supported; use a **Simple Text** field instead for name inputs.*
 
-![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/repeater-container-field-2-scaled.webp)
+![Repeater Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/repeater-container-field-2-scaled.webp)
 
 ## Customize Repeat Container Field
 
@@ -39,7 +39,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/input-customization-3-scaled.webp)
+![Input Customization](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/input-customization-3-scaled.webp)
 
 ### 1. Repeat Container
 
@@ -57,7 +57,7 @@ All the **Settings** under the **Repeat Container** tab mentioned in the screens
 
 **F. Auto Width:** Enable the automatic width calculation for columns by clicking the **Yes** button. Otherwise, click the **No** button to adjust the width according to your preference.
 
-![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/repeat-container-4-scaled.webp)
+![Repeat Container](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/repeat-container-4-scaled.webp)
 
 ### 2. Advanced Options
 
@@ -71,13 +71,13 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **D. Max Repeat inputs**: Using this option, you can specify the maximum number of times users can duplicate the fields within the Repeater Container.
 
-![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/advanced-5-scaled.webp)
+![Advanced Fluent Forms](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/advanced-5-scaled.webp)
 
 Now, click the **Plus Icon** to add three different fields horizontally inside three columns. Plus, you can adjust the position of the fields by dragging them. 
 
 You can also customize the fields you added inside the columns by **hovering** over them and clicking the Pencil Icon. It will take you to the Input Customization tab for the selected field and provide options for customization.
 
-![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/container-field-6-scaled.webp)
+![Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/container-field-6-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -85,12 +85,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 
-![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/save-form-7-scaled.webp)
+![Save Repeat Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/save-form-7-scaled.webp)
 
 ## Preview of Repeat Container field
 
 Here is the preview of the added **Repeat Container** field under the Payment Form. 
 
-![](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/preview-8.webp)
+![Preview Repeat Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/preview-8.webp)
 
 This way, you can easily add the **Repeat Container** fields in Fluent Forms!

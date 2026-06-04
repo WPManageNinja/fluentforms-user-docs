@@ -12,13 +12,13 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/1.-Open-desired-form-4-scaled.webp)
+![Open Payment Item Field in](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/1.-Open-desired-form-4-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** dropdown section, and add the **Payment Item** field.
 
 > If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it.
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/2.-Add-Payment-Item-field-scaled.webp)
+![Add Payment Item Field](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/2.-Add-Payment-Item-field-scaled.webp)
 
 You can see that a **Payment Item** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
@@ -28,13 +28,13 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/3.-Input-Customization-tab-1-scaled.webp)
+![Input Customization Tab](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/3.-Input-Customization-tab-1-scaled.webp)
 
 ### 1. Payment Item
 
 Here, you will get various settings options for customizing the field. 
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/4.-Payment-Item-customization-option-scaled.webp)
+![Payment Item Customization Option](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/4.-Payment-Item-customization-option-scaled.webp)
 
 **The Settings under the Payment Item mentioned above are briefly explained below –** 
 
@@ -70,7 +70,7 @@ Select this option if you want to offer one Item/Product to your user for collec
 
 - Amount Label: Here, you can set the Label for your Payment Amount.
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/5.-Single-tab.webp)
+![Single Tab Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/5.-Single-tab.webp)
 
 ##### Radio
 
@@ -78,13 +78,13 @@ Select this option if you want to offer multiple items to your users for choosin
 
 - Payment Items: You can add as many items as you want with fixed prices. Click the Plus icon to add items and the Minus icon in the right corner to delete them. Enable the Photo checkbox in the top-right corner to add product images. To set the default product/s, check the radio button next to it. To clear all default selections, click Clear Selection at the bottom-left corner. You can also rearrange product rows using the drag-and-drop feature.
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/6.-Radio-tab.webp)
+![Radio Tab Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/6.-Radio-tab.webp)
 
 ##### Checkbox
 
 This option exactly works like the Radio Option except it allows you to display the item selection as **Checkboxes**. This option also offer multiple items to your users for choosing one or more item/s when making a payment.
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/7.-Checkbox-tab.webp)
+![Checkbox Tab Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/7.-Checkbox-tab.webp)
 
 ##### Select
 
@@ -94,7 +94,7 @@ Select this option if you want your users to choose only one item among multiple
 
 - Placeholder: Here, you can set a desired text to guide your users about the purpose of the Payment Item field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/8.-Select-any-one-item-tab.webp)
+![Select Any One Item Tab Payment Item Field in](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/8.-Select-any-one-item-tab.webp)
 
 #### E. Required
 
@@ -116,14 +116,14 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/9.-Advanced-Options-scaled.webp)
+![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/9.-Advanced-Options-scaled.webp)
 
 Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](https://fluentforms.com/wp-admin/post.php?post=48578&action=edit) field.
 
 > [!Note]
 > Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/10.-Payment-Method-field-scaled.webp)
+![Payment Method Field](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/10.-Payment-Method-field-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -131,12 +131,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/11.-Save-Form-scaled.webp)
+![Save Payment Item Field in](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/11.-Save-Form-scaled.webp)
 
 ## Preview of Payment Item field
 
 Here, is the preview of the added **Payment Item** field under the Payment Form. 
 
-![](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/12.-Form-Preview.webp)
+![Preview Payment Item Field in](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/12.-Form-Preview.webp)
 
 This way you can easily add the **Payment Item** fields in Fluent Forms!

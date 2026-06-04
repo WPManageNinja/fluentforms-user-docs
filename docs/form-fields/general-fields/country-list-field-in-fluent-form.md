@@ -18,13 +18,13 @@ First, go to the **Forms** section from the **Fluent Forms Navbar**, choose a de
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/edit-from-01-scaled.webp)
+![Edit From Country List Field in](/images/form-fields/general-fields/country-list-field-in-fluent-form/edit-from-01-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Country List** **Input** field by **clicking** on it or **dragging** and **dropping** it into your editor.
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/adding-country-list-02-scaled.webp)
+![Adding Country List](/images/form-fields/general-fields/country-list-field-in-fluent-form/adding-country-list-02-scaled.webp)
 
 ## Customizing the Country List Field
 
@@ -34,7 +34,7 @@ Once added, you can customize the field. **Hover over the field** and click the 
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/input-customization-03-scaled.webp)
+![Input Customization](/images/form-fields/general-fields/country-list-field-in-fluent-form/input-customization-03-scaled.webp)
 
 ### Country List Options
 
@@ -50,7 +50,7 @@ You will find various settings options for customizing the field. Located in the
 
 Suppose your country is the United States (US), type ‘UN’ to see a list of UN-related countries. Scroll down to your country and then select it. You can also search for the country's full name.
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/searchable-options-04.webp)
+![Searchable Options](/images/form-fields/general-fields/country-list-field-in-fluent-form/searchable-options-04.webp)
 
 **D. Placeholder:** You can also have a placeholder by which users will perceive the field's subject.
 
@@ -60,7 +60,7 @@ Suppose your country is the United States (US), type ‘UN’ to see a list of U
 
 The default error message displayed is that his field is **required**.
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/Country-list-options-04-scaled.webp)
+![Country List Options](/images/form-fields/general-fields/country-list-field-in-fluent-form/Country-list-options-04-scaled.webp)
 
 ### Advanced Options
 
@@ -78,7 +78,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 - Hide These: Hide specific countries if needed. You can choose multiple countries in the same way.
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/Hide-these-06-scaled.webp)
+![Hide These](/images/form-fields/general-fields/country-list-field-in-fluent-form/Hide-these-06-scaled.webp)
 
 - Only Show These: Pick this option if you only want to show a few countries.
 
@@ -86,7 +86,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 This country will rank first in the search results. Two additional options exist: the **Primary** **Countries Label** and the **Other Countries Label**. Users can choose their **Primary** and **Country** labels on the priority list.
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/prority-based-07-scaled.webp)
+![Prority Based](/images/form-fields/general-fields/country-list-field-in-fluent-form/prority-based-07-scaled.webp)
 
 **E. Help Message:** This option allows you to guide your user thoroughly. Just add your text here, and it will be shown as a help message to the user. For example, you could add a note like ‘**Select the country you are from’** to help users understand what to do.
 
@@ -94,7 +94,7 @@ This country will rank first in the search results. Two additional options exist
 
 **G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this[ Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/advanced-options-05-scaled.webp)
+![Advanced Options](/images/form-fields/general-fields/country-list-field-in-fluent-form/advanced-options-05-scaled.webp)
 
 ### Embedding the Form on Your Website
 
@@ -102,12 +102,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/save-form-08-scaled.webp)
+![Save Country List Field in](/images/form-fields/general-fields/country-list-field-in-fluent-form/save-form-08-scaled.webp)
 
 ### Preview of Added Country List Field
 
 Here is the preview of the added country list field under the Form. 
 
-![](/images/form-fields/general-fields/country-list-field-in-fluent-form/preview-country-list-09-1024x488.webp)
+![Preview Country List 1024x488](/images/form-fields/general-fields/country-list-field-in-fluent-form/preview-country-list-09-1024x488.webp)
 
 **Congratulations!** Your **Country List Input Field** is now ready to collect single-line responses from users.

@@ -14,13 +14,13 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/edit-form-01-scaled.webp)
+![Edit Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/edit-form-01-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Phone/Mobile** field by **dragging** or **dropping** it into your editor.
 
-![](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/new-2-scaled.webp)
+![Phone/Mobile Input Field step](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/new-2-scaled.webp)
 
 ## Customizing the Phone/Mobile Field
 
@@ -30,7 +30,7 @@ A Phone/Mobile field has been added. You can edit this field by **hovering over 
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/input-customization-03-scaled-2.webp)
+![Input Customization](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/input-customization-03-scaled-2.webp)
 
 ### Phone/Mobile Field Options
 
@@ -52,7 +52,7 @@ You can click the **Three-Dot** option from the right to add a default value wit
 
 **F. Required:** Decide whether users must select at least one option before submission.
 
-![](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/Basic-options-04-1-scaled.webp)
+![Basic Options](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/Basic-options-04-1-scaled.webp)
 
 **G. Validate Phone Number:** The option allows you to validate a phone number using the country code.
 
@@ -74,7 +74,7 @@ You can select **Yes** to notify a user that he needs to add a Valid Phone Numbe
 
 - Priority Based: This option allows users to choose the country they want to prioritize. This country will rank first in the search results. There are two additional options. The Primary Countries Label and the Other Countries Label are the two options. Users can choose their Primary and Country labels on the priority list.
 
-![](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/012.webp)
+![Phone/Mobile Input Field step](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/012.webp)
 
 ### Advanced Options
 
@@ -90,7 +90,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this[ Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/Advanced-options-05-2-scaled.webp)
+![Advanced Options](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/Advanced-options-05-2-scaled.webp)
 
 ## Embed the Form into the Front
 
@@ -98,12 +98,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/Save-Form-06-2-scaled.webp)
+![Save Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/Save-Form-06-2-scaled.webp)
 
 ## Preview of Added Phone/Mobile Field
 
 Here is the **Preview** of the **Form** to test the phone/mobile field functionality.
 
-![](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/preview-07.webp)
+![Preview Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/preview-07.webp)
 
 Congratulations. You will successfully add the Phone/Mobile field in your Form.

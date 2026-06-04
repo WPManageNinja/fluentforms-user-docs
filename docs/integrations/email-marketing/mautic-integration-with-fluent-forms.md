@@ -13,11 +13,11 @@ To learn how to integrate Mautic with Fluent Forms, follow the steps accordingly
 
 First, go to **Plugins** from the **WordPress Left Sidebar**, click the **Add New Plugin**, search for **Mautic Integration For Fluent Forms**, and click the **Install Now** button. 
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/1.-Mautic-Add-on-in-Plugins-scaled.webp)
+![Mautic Add On Plugins](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/1.-Mautic-Add-on-in-Plugins-scaled.webp)
 
 Now, click the **Activate** button, and your **Mautic Integration Add-on** will be **Installed** and **Activated** successfully on your WordPress Site.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/2.-Active-Mautic-Add-on-scaled.webp)
+![Active Mautic Add On](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/2.-Active-Mautic-Add-on-scaled.webp)
 
 ### Enable Mautic Integration
 
@@ -25,13 +25,13 @@ From your **Fluent Forms Dashboard**, go to **Integrations**, search for **Mauti
 
 Then, click the **Settings Icon** to make the integration functional.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/3.-Enabled-Mautic-IntegrationModule-scaled.webp)
+![Enabled Mautic Integrationmodule](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/3.-Enabled-Mautic-IntegrationModule-scaled.webp)
 
 Now, under **Mautic Settings**, provide all the required credentials (**Mautic Account URL**, **Client ID**, and **Client Secret**). Then, press the **Save Settings** button and your **Mautic** will be Integrated.
 
 > To learn how you can get all the required credentials from Mautic, follow the instructions carefully under the “To Authentic Mautic you have to enable your API first” section. Also, copy the URL shown in the screenshot for later use.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/4.-Copy-Mautic-URL-scaled.webp)
+![Copy Mautic URL](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/4.-Copy-Mautic-URL-scaled.webp)
 
 #### Get the Required Mautic Credentials
 
@@ -41,30 +41,30 @@ First, log in to your **Mautic Account Dashboard,** click the **Settings** **Ico
 
 > If you do not have a Mautic Account, sign up from here.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/5.-Settings-icon-and-Configuration-button-scaled.webp)
+![Settings Icon And Configuration Button Mautic Integration](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/5.-Settings-icon-and-Configuration-button-scaled.webp)
 
 To access the **API** **Credentials** tab, click the **Yes** button to enable the **API Settings.**  
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/6.-Yes-button-to-enable-API-Credentials.webp)
+![Yes Button Enable API Credentials](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/6.-Yes-button-to-enable-API-Credentials.webp)
 
 Again, go to the **Settings** **Icon** in the top right corner, expand the **Integration** dropdown, and click the **API Credentials** button in the left-side settings bar.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/7.-API-Credentials-button-scaled.webp)
+![API Credentials Button](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/7.-API-Credentials-button-scaled.webp)
 
 Click on the **New** button to create a new **API Credentials**.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/8.-New-button.webp)
+![Button Mautic Integration](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/8.-New-button.webp)
 
 Now, select **OAuth 2** as the **Authorization Protocol** and provide a **Name** for your API Credentials.
 Then, paste the **Redirect URL** you copied from **FluentForms Global Settings.**
 
 Finally, click the **Save** button in the top right corner.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/9.-Paste-Redirect-URL.webp)
+![Paste Redirect URL](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/9.-Paste-Redirect-URL.webp)
 
 Finally, you will get your required **Client ID** and **Client Secret**. **Copy** them and press the **Save** button to save all the Mautic API Credentials.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/10.-copy-Client-ID-and-Client-Secret.webp)
+![Copy Client ID And Client Secret](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/10.-copy-Client-ID-and-Client-Secret.webp)
 
 ### Connect Mautic with Fluent Forms
 
@@ -76,15 +76,15 @@ Then, paste the **Client ID** and **Client Secret** you copied from Mautic into 
 
 Once you complete the configuration process, press the **Save Settings** button.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/11.-Paste-Client-ID-Client-Secret--scaled.webp)
+![Paste Client ID Client Secret](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/11.-Paste-Client-ID-Client-Secret--scaled.webp)
 
 Finally, click the **Accept** button to permit **Fluent Forms** to connect with your **Mautic Account.**
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/12.-Accept-Button.webp)
+![Accept Button Fluent Forms](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/12.-Accept-Button.webp)
 
 Here, you can see your **Mautic Integration** feed is enabled and ready to use!
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/13.-Configured-Mautic-Integration-scaled.webp)
+![Configured Mautic Integration](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/13.-Configured-Mautic-Integration-scaled.webp)
 
 ### Integrate Mautic into Fluent Forms
 
@@ -94,11 +94,11 @@ First, go to the **Forms** section from the **Fluent Forms Navbar**, and click t
 
 > If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/14.-Desired-forms-Settings-scaled.webp)
+![Settings Mautic Integration](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/14.-Desired-forms-Settings-scaled.webp)
 
 Open the **Configure Integrations** tab, expand the **Add New Integration** tab, and click the **Mautic Integration** feed.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/15.-Add-Mautic-Integration-Feed-1024x319.webp)
+![Add Mautic Integration Feed 1024x319](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/15.-Add-Mautic-Integration-Feed-1024x319.webp)
 
 **Now, set up your Mautic Integration Feed according to your needs using all the following available settings options.**
 
@@ -120,13 +120,13 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** tab,
 
 Once you are done, click the **Save Feed** button to save all your setup.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/16.-Add-new-Mautic-Integration-Feed-page.webp)
+![Add Mautic Integration Feed Page](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/16.-Add-new-Mautic-Integration-Feed-page.webp)
 
 Here, you can see the Mautic Integration Feed has been added!
 
 You can disable the feed anytime by clicking the **Toggle** button if needed. 
 Also, you can customize the feed anytime by clicking the **Settings** icon, and delete it by clicking the **Trash** icon.
 
-![](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/17.-Enabled-Mautic-Integration-Feed-scaled.webp)
+![Enabled Mautic Integration Feed](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/17.-Enabled-Mautic-Integration-Feed-scaled.webp)
 
 This is how you can integrate **Mautic** with **Fluent** **Forms**!

@@ -10,19 +10,19 @@ Once you are on your desired Page/Post, start adding Fluent Forms using the **Gu
 
 First, click the **Plus (+)** **Icon** to add a new block, search for Fluent Forms, and simply click on it.
 
-![](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/Add-Fluent-Form-scaled.webp)
+![Add embed your forms directly](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/Add-Fluent-Form-scaled.webp)
 
 After adding the block, select a saved Fluent Forms from the **dropdown menu**.
 
 Once selected, the form will automatically appear inside the editor preview. Click **Update** or **Publish** to save your changes.
 
-![](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/select-a-form.webp)
+![Select embed your forms directly](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/select-a-form.webp)
 
 Here, you can see the preview of an embedded Fluent Forms using Gutenberg Block.
 
 > You can also add the form in Gutenberg by pasting the form ShortCode into the Gutenberg ShortCode block or HTML block.
 
-![](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/Form-Embeded-success.webp)
+![Embeded Success Fluent Forms](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/Form-Embeded-success.webp)
 
 ## Customize Form Styling
 
@@ -56,7 +56,7 @@ This tab controls the styling for individual fields and elements within your for
 
 - Border
 
-![](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/General-tab.webp)
+![General Tab Fluent Forms](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/General-tab.webp)
 
 ### Misc Tab
 
@@ -70,4 +70,4 @@ This tab controls the styling for individual fields and elements within your for
 
 - Form Border Settings: Add and style a border around the entire form.
 
-![](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/Misc-tab-scaled.webp)
+![Misc Tab Fluent Forms](/images/publishing-embedding/how-to-embed-your-forms-directly-in-gutenberg-layout/Misc-tab-scaled.webp)

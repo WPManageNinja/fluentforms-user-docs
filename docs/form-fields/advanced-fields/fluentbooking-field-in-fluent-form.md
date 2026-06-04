@@ -14,13 +14,13 @@ First, go to the **Forms** section from the **Fluent Forms** navbar**,** choose 
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Form-edit-01-4-scaled.webp)
+![Edit FluentBooking Field in Fluent](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Form-edit-01-4-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** icon button in your form editor and open the **Advanced Fields** section.
 
 You can select the desired **FluentBooking Field** by clicking on it or drag and drop it into your editor.
 
-![](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/adding-Fluent-Booking-02-scaled.webp)
+![Adding Booking](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/adding-Fluent-Booking-02-scaled.webp)
 
 ## Customizing the FluentBooking Field
 
@@ -30,7 +30,7 @@ Once you add the action hook field, you can customize it by hovering over it and
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Input-Customization-03-33-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Input-Customization-03-33-scaled.webp)
 
 ### FluentBooking Field
 
@@ -52,7 +52,7 @@ You will find various settings options for customizing the field. Located in the
 
 **G. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
 
-![](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Fluent-booking-options-04-scaled.webp)
+![Booking Options](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Fluent-booking-options-04-scaled.webp)
 
 ### Advanced Options
 
@@ -64,7 +64,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Advanced-options-05-22-scaled.webp)
+![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Advanced-options-05-22-scaled.webp)
 
 ## Embed the Form into the Frontend
 
@@ -74,12 +74,12 @@ To display the form on a specific page or post, copy the **Shortcode** from the 
 
 To preview the form, click **Preview & Design** in the middle of the page.
 
-![](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Save-Form-06-28-scaled.webp)
+![Save FluentBooking Field in Fluent](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Save-Form-06-28-scaled.webp)
 
 ## Preview of Added FluentBooking Field
 
 Here is a preview of the form with the **FluentBooking** field.
 
-![](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Preview-07-19-scaled.webp)
+![Preview FluentBooking Field in Fluent](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Preview-07-19-scaled.webp)
 
 Congratulations! You have successfully added a **FluentBooking Field** to your Fluent Forms form.

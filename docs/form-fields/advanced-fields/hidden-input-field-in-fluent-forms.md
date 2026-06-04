@@ -16,19 +16,19 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/edit-form-01.png)
+![Edit Hidden Input Field](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/edit-form-01.png)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Hidden Input** field by **clicking** on it or **Dragging** and **Dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/new.png)
+![Hidden Input Field step](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/new.png)
 
 ## Customizing the Hidden Field
 
 A Hidden field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
-![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/input-customization-03.png)
+![Input Customization](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/input-customization-03.png)
 
 You will now find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **hidden** field.
 
@@ -40,7 +40,7 @@ You will now find various settings options for customizing the field. Located in
 
 **C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/customization-04.png)
+![Customization Fluent Forms](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/customization-04.png)
 
 ## Embed the Form into Frontend
 
@@ -48,16 +48,16 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/save-form-05.png)
+![Save Hidden Input Field](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/save-form-05.png)
 
 ### Preview of Added Hidden Field
 
 Here is the **Preview** of the **Form** to test the hidden field functionality.
 
-![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/preview-06-1.png)
+![Preview Hidden Input Field](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/preview-06-1.png)
 
 After that, click the **Entries** section of this form. You will see the entry result for your **Hidden fields**.
 
-![](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/input-hidden-07.png)
+![Input Hidden](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/input-hidden-07.png)
 
 Congratulations! You will successfully add the Hidden field in your Form.

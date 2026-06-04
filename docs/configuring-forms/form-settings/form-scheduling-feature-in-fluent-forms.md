@@ -14,7 +14,7 @@ Now, click the **Settings & Integrations** tab at the top bar and stay in the **
 
 “If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.” 
 
-![](/images/configuring-forms/form-settings/form-scheduling-feature-in-fluent-forms/01-2-scaled-2.webp)
+![Fluent Forms](/images/configuring-forms/form-settings/form-scheduling-feature-in-fluent-forms/01-2-scaled-2.webp)
 
 ### Form Schedule
 
@@ -30,6 +30,6 @@ First, enable the **Form Schedule** options.
 
 **Form Expired Message**:  Enter the message for the displayed user when the form expires for the user.
 
-![](/images/configuring-forms/form-settings/form-scheduling-feature-in-fluent-forms/02-6-scaled-2.webp)
+![Fluent Forms](/images/configuring-forms/form-settings/form-scheduling-feature-in-fluent-forms/02-6-scaled-2.webp)
 
 Once complete the form scheduling, then **Save** the form.

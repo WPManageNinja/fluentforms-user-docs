@@ -10,13 +10,13 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
 
-![](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/1.-Open-desired-form-scaled.webp)
+![Open Payment Method Field in](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/1.-Open-desired-form-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Payment Method** field.
 
 > If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it.
 
-![](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/2.-Add-Payment-Method-scaled.webp)
+![Add Payment Method](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/2.-Add-Payment-Method-scaled.webp)
 
 You can see that a **Payment Method** field is added to the form. You can edit this field by hovering over it and clicking the **Pencil Icon**.
 
@@ -26,7 +26,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/3.-Input-Customization-scaled.webp)
+![Input Customization Fluent Forms](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/3.-Input-Customization-scaled.webp)
 
 ### 1. Payment Method
 
@@ -44,7 +44,7 @@ Here, you will get various settings options for customizing the field. All the *
 
 **E. Required**: Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in.
 
-![](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/4.-Payment-Method-customization-option-scaled.webp)
+![Payment Method Customization Option](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/4.-Payment-Method-customization-option-scaled.webp)
 
 ### 2. Advanced Options
 
@@ -58,7 +58,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **D. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/5.-Advanced-Options-scaled.webp)
+![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/5.-Advanced-Options-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -66,12 +66,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 
-![](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/6.-Save-Form-scaled.webp)
+![Save Payment Method Field in](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/6.-Save-Form-scaled.webp)
 
 ## Preview of Payment Method field
 
 Here, is the preview of the added **Payment Method** field under the Payment Form. 
 
-![](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/7.-Form-Preview.webp)
+![Preview Payment Method Field in](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/7.-Form-Preview.webp)
 
 This way, you can easily add the **Payment Methods** fields in Fluent Forms!

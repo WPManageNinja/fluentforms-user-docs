@@ -14,15 +14,15 @@ To begin, you must first deactivate the license from your existing domain. You c
 
 3. On this screen, you will see your license status. Click the Deactivate License button to remove the license from this domain, as shown in the screenshot below.
 
-![](/images/account-license/how-to-transfer-a-license-to-a-new-domain/deactivate-license-scaled.webp)
+![Deactivate License Fluent Forms](/images/account-license/how-to-transfer-a-license-to-a-new-domain/deactivate-license-scaled.webp)
 
 First, log in to your **[WPManageNinja](https://wpmanageninja.com/login/)** dashboard. Next, click on the **License** tab. From there, click the **View List** button to see all of your activated domains.
 
-![](/images/account-license/how-to-transfer-a-license-to-a-new-domain/WPMN-Account-scaled.webp)
+![Wpmn Account Fluent Forms](/images/account-license/how-to-transfer-a-license-to-a-new-domain/WPMN-Account-scaled.webp)
 
 From the list of your activated licenses, click the **Delete** icon next to the domain you wish to deactivate, and then click the **Confirm** button to finalize the action.
 
-![](/images/account-license/how-to-transfer-a-license-to-a-new-domain/WPMN-Dashboard-License-activation-scaled.webp)
+![Wpmn Dashboard License Activation](/images/account-license/how-to-transfer-a-license-to-a-new-domain/WPMN-Dashboard-License-activation-scaled.webp)
 
 Once the license is deactivated, it is free to be used on a new domain.
 
@@ -40,6 +40,6 @@ Now you can activate the license on your new website.
 
 5. Paste your copied license key into the license field and click the Activate License button.
 
-![](/images/account-license/how-to-transfer-a-license-to-a-new-domain/activate-license-scaled.webp)
+![Activate License Fluent Forms](/images/account-license/how-to-transfer-a-license-to-a-new-domain/activate-license-scaled.webp)
 
 A success message will confirm that your license is now active on the new domain. With these steps, you can easily manage and transfer your license between sites with just a few clicks.

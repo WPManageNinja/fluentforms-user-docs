@@ -14,13 +14,13 @@ First, go to the **Forms** section from the Fluent Forms Navbar, choose a desire
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Form-Edit-01-1-scaled.webp)
+![Edit Repeat Input Field](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Form-Edit-01-1-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Repeat Input** field by **clicking** or **dragging** it and **dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Adding-Repeat-Field-02-scaled.webp)
+![Adding Repeat Field](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Adding-Repeat-Field-02-scaled.webp)
 
 ## Customizing the Repeat Input Field
 
@@ -30,7 +30,7 @@ Once you add the **Repeat Input** field, you can customize it by hovering over i
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Input-Customization-03-28-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Input-Customization-03-28-scaled.webp)
 
 ### Repeat Field Options
 
@@ -58,7 +58,7 @@ You can add the **Default** value by clicking the **Three-Dot** option from the 
 
 - Required: Decide whether users must select at least one option before submission.
 
-![](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/unnamed-1-2.webp)
+![Unnamed](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/unnamed-1-2.webp)
 
 ### Advanced Options
 
@@ -72,7 +72,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **D. Max Repeat Inputs:** Set the maximum number of rows users can add to this repeated field. Leave blank or set to 0 for unlimited entries.
 
-![](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Advanced-Options-04-3-scaled.webp)
+![Advanced Options](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Advanced-Options-04-3-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -80,12 +80,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Save-Form-05-6-scaled.webp)
+![Save Repeat Input Field](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Save-Form-05-6-scaled.webp)
 
 ## Preview of Repeat Input Field
 
 Here is the preview of the added **Repeat Input** field under the Form. 
 
-![](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Preview-06-3.webp)
+![Preview Repeat Input Field](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Preview-06-3.webp)
 
 Congratulations! You have successfully added a repeat field to your Fluent Forms form.

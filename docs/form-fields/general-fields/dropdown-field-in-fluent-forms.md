@@ -16,13 +16,13 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/edit-form-01-1-scaled.webp)
+![Edit Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/edit-form-01-1-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Dropdown** field by clicking or **dragging** and **dropping** it into your editor.
 
-![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/new-3-scaled.webp)
+![Dropdown Field step](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/new-3-scaled.webp)
 
 ## Customizing the Dropdown Field
 
@@ -32,7 +32,7 @@ A dropdown field has been added. You can edit this field by **hovering over it**
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Input-Customization-03-1-scaled.webp)
+![Input Customization](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Input-Customization-03-1-scaled.webp)
 
 ### Dropdown Field Options
 
@@ -74,7 +74,7 @@ When this option is selected, a search option appears, allowing the user to sear
 
 **J. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
 
-![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Basic-options-04-2-scaled.webp)
+![Basic Options](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Basic-options-04-2-scaled.webp)
 
 ### Advanced Options
 
@@ -92,7 +92,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Advanced-options-05-3-scaled.webp)
+![Advanced Options](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Advanced-options-05-3-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -100,12 +100,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Save-Form-06-3-scaled.webp)
+![Save Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Save-Form-06-3-scaled.webp)
 
 ## Preview of Added Dropdown Field
 
 Here is the preview of the added **dropdown** field under the Form. 
 
-![](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Preview-07-1.webp)
+![Preview Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Preview-07-1.webp)
 
 With these configurations, your Dropdown Field can capture precise numerical user data!

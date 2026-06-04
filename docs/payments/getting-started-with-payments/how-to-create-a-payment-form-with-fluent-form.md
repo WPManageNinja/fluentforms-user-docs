@@ -12,11 +12,11 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 For example, I chose an existing form to show the whole process.
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/1.-Open-desired-form-Editor-1-scaled.webp)
+![Open Editor Create a Payment Form](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/1.-Open-desired-form-Editor-1-scaled.webp)
 
 Once you open the **Editor** page, you need to add the necessary fields from the **Payment Fields** module. 
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/2.-Payment-Fields-scaled.webp)
+![Payment Fields Fluent Forms](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/2.-Payment-Fields-scaled.webp)
 
 ## Enabling Payment Module
 
@@ -26,7 +26,7 @@ If not, go to the **Global Settings** from the **Fluent** **Forms Navbar to enab
 
 Now, open the **Payment** tab, click the **Settings** option, and check the **Enable** **Payment** **Module**. This will activate all the payment-related fields within the **Payment** **Module** for every form.
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/3.-Enable-payment-module-scaled.webp)
+![Enable Payment Module Create a Payment Form](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/3.-Enable-payment-module-scaled.webp)
 
 Once you ensure the **Payment Module** is **Enabled**, select the necessary fields for your Payment Form. 
 
@@ -35,7 +35,7 @@ Once you ensure the **Payment Module** is **Enabled**, select the necessary fiel
 >
 > Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms), then follow the guide for your chosen gateway.
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/4.-Payment-Item-and-Payment-Method-fields-scaled.webp)
+![Payment Item And Payment Method Fields](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/4.-Payment-Item-and-Payment-Method-fields-scaled.webp)
 
 ## Customizing Payment Method Field
 
@@ -51,7 +51,7 @@ To learn how to edit the **Payment Item** and **Choose Payment Method** field sp
 
 Also, you can choose your preferred payment method/s by checking the desired payment platforms under the **Payment Methods** section on the right-side customization menu.
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/5.-EditPencil-icon-of-payment-itel-field-scaled.webp)
+![Editpencil Icon Payment Itel Field](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/5.-EditPencil-icon-of-payment-itel-field-scaled.webp)
 
 ### Enabling Payment Methods
 
@@ -61,7 +61,7 @@ Once you open the **Payment** tab and click the **Payment Methods** option, you 
 
 Now, go to your desired payment platform/s and check the **Enable** **Payment** **Method**. This will activate all the payment methods within the **Payment** **Fields** module for every form.
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/6.-Enable-desired-payment-methods-globally-for-all-forms-scaled.webp)
+![Enable Payment Methods Globally For All Create a Payment Form](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/6.-Enable-desired-payment-methods-globally-for-all-forms-scaled.webp)
 
 ## Customizing Payment Settings
 
@@ -76,16 +76,16 @@ Also, to see the form preview, click the **Preview & Design** button in the midd
 
 Finally, to integrate and display the form on a specific **Page**/**Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page**/**Post**. 
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/9.-Save-Payment-Form-scaled.webp)
+![Save Payment Create a Payment Form](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/9.-Save-Payment-Form-scaled.webp)
 
 Then, open a desired page/post, **paste** the **shortcode**, and press the **Save** button.
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/10.-Paste-shortcode-on-dsired-page-scaled.webp)
+![Paste Shortcode On Dsired Page](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/10.-Paste-shortcode-on-dsired-page-scaled.webp)
 
 ## Preview of Payment Form
 
 Here is the **preview** of the **Payment Form** that we just created.
 
-![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/11.-Preview-of-Payment-form.webp)
+![Preview Payment Create a Payment Form](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/11.-Preview-of-Payment-form.webp)
 
 This way, you can easily create the Payment Forms in Fluent Forms!

@@ -12,11 +12,11 @@ In this guide, you’ll learn how to apply custom CSS and JavaScript to your Flu
 
 Go to **Forms** from the top menu and open the **Editor** page of your desired form by clicking the **Edit** button. 
 
-![](/images/design-styling/fluent-forms-stylingcustom-css/Form-Edit-1-scaled.webp)
+![Edit Fluent Forms Styling/Custom CSS](/images/design-styling/fluent-forms-stylingcustom-css/Form-Edit-1-scaled.webp)
 
 In the **Settings & Integrations** tab (top right of the editor), select **Custom CSS/JS**. You’ll see a field for adding custom CSS, along with your form's **unique class** (e.g. `.fluent_form_40`)
 
-![](/images/design-styling/fluent-forms-stylingcustom-css/02-5-scaled.webp)
+![Fluent Forms Styling/Custom CSS step](/images/design-styling/fluent-forms-stylingcustom-css/02-5-scaled.webp)
 
 ### Using the Unique Form Class
 

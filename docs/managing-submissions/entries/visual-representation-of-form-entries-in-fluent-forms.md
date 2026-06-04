@@ -16,30 +16,30 @@ There are three ways to access the entries for visual representation.
 
 First, navigate to the Fluent Forms **Forms** sections. Click on the **Entries** below your desired form.
 
-![](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/visual-form-entries-scaled.webp)
+![Visual Entries Fluent Forms](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/visual-form-entries-scaled.webp)
 
 Click **Edit** under the form, then select **Entries** from the top bar.
 
-![](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/entries-02-scaled.webp)
+![Entries Fluent Forms](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/entries-02-scaled.webp)
 
 Navigate to **Fluent Forms Entries** sections and select a form from the dropdown menu.
 
-![](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/entries-03-scaled.webp)
+![Entries Fluent Forms](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/entries-03-scaled.webp)
 
 ## View the Visual Report
 
 Once you click the **Entries** option, click **Visual Report** in the top-right corner of the page. This opens the visual report section for the selected form.
 
-![](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/111-04-10-2025_10_12_AM.webp)
+![Visual Representation of Form Entries step](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/111-04-10-2025_10_12_AM.webp)
 
 Here you’ll see visual data for choice fields such as **checkboxes**, **dropdowns**, and **radio** fields. The report displays total submissions and the percentage for each selected input.
 
-![](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/chart-05.webp)
+![Chart Fluent Forms](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/chart-05.webp)
 
 Using the chart icons, you can switch between Bar chart, Column chart, and Pie chart. Also, you can print reports with the **Print Report** button.
 
 The **Other info** sections will show the total number of form entries, the browser that was used during submission, and the device name. Also, you can use the **Filter Data by Status** (read, unread, favourite, and Trashed) to refine the report.
 
-![](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/print-report-06-scaled.webp)
+![Print Report](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/print-report-06-scaled.webp)
 
 > Only choice fields support chart generation. Suppose checkbox, dropdown, and radio field etc.

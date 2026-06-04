@@ -12,7 +12,7 @@ Now, From the **Advanced Options** tab, you’ll see an input called **Container
 
 > This feature does not update live in the form builder.
 
-![](/images/design-styling/how-to-use-css-ready-classes/321-scaled.webp)
+![use CSS Ready Classes step](/images/design-styling/how-to-use-css-ready-classes/321-scaled.webp)
 
 ## Ready Class Names
 
@@ -28,11 +28,11 @@ This turns a Radio/checkbox list into an equally-spaced 3-column format. This on
 
 A Forms preview that without Container Class
 
-![](/images/design-styling/how-to-use-css-ready-classes/Preview-02.webp)
+![Preview use CSS Ready Classes](/images/design-styling/how-to-use-css-ready-classes/Preview-02.webp)
 
 A preview Forms with **Container class**.
 
-![](/images/design-styling/how-to-use-css-ready-classes/02-2.webp)
+![use CSS Ready Classes step](/images/design-styling/how-to-use-css-ready-classes/02-2.webp)
 
 #### ff_list_4col
 
@@ -52,7 +52,7 @@ This converts an HTML field into a box with a fixed height that will automatical
 
 This is useful if you want to show a large amount of content to the user but don’t want to have to link to it or make the form very long to show it (Terms of Service Agreements, etc.). This class only works on section breaks and with any form label position settings.
 
-![](/images/design-styling/how-to-use-css-ready-classes/scroll-text-03-scaled.webp)
+![Scroll Text](/images/design-styling/how-to-use-css-ready-classes/scroll-text-03-scaled.webp)
 
 #### ff_force_hide
 

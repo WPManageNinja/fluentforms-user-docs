@@ -20,4 +20,4 @@ Now, you can see the **Enable Email Summaries** toggle is turned on by default a
 
 Don’t forget to click the **Save Settings** button to make all the setup functional. 
 
-![](/images/notifications-confirmations/email-notifications/weekly-email-summary/1.-Email-Summaries-scaled.webp)
+![Email Summaries Fluent Forms](/images/notifications-confirmations/email-notifications/weekly-email-summary/1.-Email-Summaries-scaled.webp)

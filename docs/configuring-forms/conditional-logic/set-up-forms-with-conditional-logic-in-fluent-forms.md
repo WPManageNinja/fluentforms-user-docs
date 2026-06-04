@@ -14,7 +14,7 @@ First, go to the **Forms** from the **Fluent Forms Navbar** or **WordPress Left 
 
 For example, I chose an existing form to show the whole process.
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/1.-Open-Desired-form-scaled.webp)
+![Open Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/1.-Open-Desired-form-scaled.webp)
 
 Once you open the **Editor** page, choose the desired **Input Field** that you want to **hide/display** based on the set condition/s. **For example**, I selected the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to show you the process.
 
@@ -22,7 +22,7 @@ Now, hover over the chosen field, click the **Pencil/Edit** Icon, and you’ll b
 
 Then, open the **Advanced Options** by clicking the **Arrow Icon**, scroll down to **Conditional Logic**, and select the **Yes** button.
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/2.-Input-Customization-scaled.webp)
+![Input Customization Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/2.-Input-Customization-scaled.webp)
 
 ## Conditional Match
 
@@ -44,7 +44,7 @@ To add as many conditions as you need, click the **Plus Icon,** and to delete an
 
 Once you complete it, click the **Save Form** button to make the condition/s functional. To see the preview, click the **Preview & Design** button. 
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/3.-Conditional-Match-scaled.webp)
+![Conditional Match Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/3.-Conditional-Match-scaled.webp)
 
 ## Example of Each Conditional Match
 
@@ -56,11 +56,11 @@ To provide you with an in-depth understanding, all three conditional matches are
 
 As I have selected the "**Any**" conditional match here, when users either provide an email address containing **“@gmail.com”** or select the “**Fluent Forms”** product to submit the form, the **Payment Method** field will be visible to them. Otherwise, this field will remain hidden.
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/4.-Any-conditional.webp)
+![Any Conditional Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/4.-Any-conditional.webp)
 
 Here is a **preview** of a form where the user met one **(selecting Fluent Forms product)** condition. As a result, the **Payment Method** field is visible here.  
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/5.-Preview-of-Any-condional-scaled.webp)
+![Preview Any Condional Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/5.-Preview-of-Any-condional-scaled.webp)
 
 ### B. All Conditional Match
 
@@ -68,11 +68,11 @@ Here is a **preview** of a form where the user met one **(selecting Fluent Forms
 
 As I have selected the "**All**" conditional match here, when users both provide an email address containing **“@gmail.com”** and select the “**Fluent Forms”** product to submit the form, the **Payment Method** field will be visible to them. Otherwise, this field will remain hidden. 
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/6.-All-condional.webp)
+![All Condional Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/6.-All-condional.webp)
 
 Here is a **preview** of a form where the user met all the **( providing email that includes @gmail.com and selecting Fluent Forms product)** conditions. As a result, the **Payment Method** field is visible here.
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/7.-Preview-of-All-Conditional.webp)
+![Preview All Conditional Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/7.-Preview-of-All-Conditional.webp)
 
 ### C. Group Conditional Match
 
@@ -84,14 +84,14 @@ On the contrary, in Group 2, I selected “**Name [First Name]**”,  **"Email"*
 
 As I have selected the "**Group**" conditional match here, when users meet either the conditions in **Group 1** (i.e., provide an email address containing “**@gmail.com**” and select the “**Fluent Forms**” product) or the conditions in **Group 2** (i.e., enter a first name starting with “**Z**,” provide an email address containing “**@yahoo.com**,” and select the “**Fluent Forms**” product), the **Payment Method** field will be visible to them. Otherwise, the field will remain hidden.
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/8.-Group-Conditional.webp)
+![Group Conditional Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/8.-Group-Conditional.webp)
 
 Here is a **preview** of a form where the user met **All Conditions** under **Group 1** **(**providing an email address including **“@gmail.com”** and selecting the **“Fluent Forms”** product**)**. As a result, the **Payment Method** field is visible here.
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/9.-Preview-of-Group-one-codinitional.webp)
+![Preview Group One Codinitional Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/9.-Preview-of-Group-one-codinitional.webp)
 
 Here is a **preview** of a form where the user met **All Conditions** under **Group 2** (entering first name starting with **“Z”**, providing an email address including **“@gmail.com”**,  and selecting the **“Fluent Forms”** product) condition. As a result, the **Payment Method** field is visible here. 
 
-![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/10.-Preview-of-Group-two-Conditionals.webp)
+![Preview Group Two Conditionals Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/10.-Preview-of-Group-two-Conditionals.webp)
 
 This way, you can easily use Conditional Logic in any field of Fluent Forms!

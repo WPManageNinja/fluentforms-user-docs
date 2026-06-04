@@ -16,13 +16,13 @@ First, go to the **Forms** section from the **Fluent Forms Navbar** and click th
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/adding-the-form-01-scaled.webp)
+![Adding Fluent Forms](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/adding-the-form-01-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Email Address** field by clicking or **drag** and **drop** it into your editor.
 
-![](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/new-4-scaled.webp)
+![Email Address Input Field step](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/new-4-scaled.webp)
 
 ## Customizing the Email Address Input Field
 
@@ -32,7 +32,7 @@ An email field has been added. You can edit this field by **hovering over it** a
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/input-customization-03-2-scaled.webp)
+![Input Customization](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/input-customization-03-2-scaled.webp)
 
 ### Email Field Options
 
@@ -52,7 +52,7 @@ You will find various settings options for customizing the field. Located in the
 
 **F. Validate Email:** You can select **Yes** to notify a user that he needs to add a Valid Email; otherwise, an Error message will show. Or you can choose **No**.
 
-![](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Basic-Options-04-3-scaled.webp)
+![Basic Options](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Basic-Options-04-3-scaled.webp)
 
 #### Advanced Options
 
@@ -74,7 +74,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **H. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Advanced-option-05-scaled.webp)
+![Advanced Option](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Advanced-option-05-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -82,12 +82,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Save-Form-06-4-scaled.webp)
+![Save Email Address Input Field](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Save-Form-06-4-scaled.webp)
 
 ## Preview of Added Email Address Field
 
 Here is the preview of the added **Email Address** field under the Form. 
 
-![](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Preview-08.webp)
+![Preview Email Address Input Field](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Preview-08.webp)
 
 These are the total configuration processes for the Email Address input field.

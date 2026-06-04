@@ -18,7 +18,7 @@ To display a form in a popup, first, you must use a unique shortcode that is dif
 Now, Replace "228" with the actual form ID of your form. You can find the form ID by navigating Fluent Forms and clicking **All Forms**. 
 Then click the **fluent form ID** you want to replace and copy it.
 
-![](/images/design-styling/modalpopuplightbox-in-fluent-forms/Editor-Fluentform.webp)
+![Editor Fluent Forms](/images/design-styling/modalpopuplightbox-in-fluent-forms/Editor-Fluentform.webp)
 
 Now paste it into the page or post where you want the popup to appear.
 
@@ -36,6 +36,6 @@ Next**, add custom CSS classes** to your popup. If you want to style the button 
 
 These will add the CSS class to the button, as shown in the screenshot below, so you can customize your button to your style.
 
-![](/images/design-styling/modalpopuplightbox-in-fluent-forms/Contact-zoro-04-22-2025_06_07_PM.webp)
+![Contact Zoro Fluent Forms](/images/design-styling/modalpopuplightbox-in-fluent-forms/Contact-zoro-04-22-2025_06_07_PM.webp)
 
 > You can use any popup builder, such as Popup Maker or Elementor Popup. You need to add the Fluent Forms shortcode inside the Popup builder.

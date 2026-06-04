@@ -14,13 +14,13 @@ First, go to the **Forms** section from the Fluent Forms Navbar, choose a desire
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Form-editor-01-5-scaled.webp)
+![Editor](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Form-editor-01-5-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Save & Resume** Input field by clicking or dragging it and dropping it into your editor.
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Adding-Save-Resume-field-02-scaled.webp)
+![Adding Save Resume Field](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Adding-Save-Resume-field-02-scaled.webp)
 
 ## Customizing the Save & Resume Input Field
 
@@ -30,7 +30,7 @@ Once you add the **Save & Resume** Input field, you can customize it by hovering
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Input-Customization-03-30-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Input-Customization-03-30-scaled.webp)
 
 ### Rich Save & Resume Options
 
@@ -54,7 +54,7 @@ If you select the **Image** option, you can add an image as your button with the
 
 - Min-Width: You can give a minimum width to the button in pixels and percentages, whichever suits your form. A 100% min-width will be a full-width button.
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Button-Style-04-scaled.webp)
+![Button Style Save Progress Button](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Button-Style-04-scaled.webp)
 
 **C. Button Size:** Select the button size suitable for your form. There are three options: Small, Medium, and large. You can choose one option.
 
@@ -72,7 +72,7 @@ If you select the **Image** option, you can add an image as your button with the
 
 > You can also use the same style features for the Hover States of the button. Click on the hover state and apply the same styling features that suit the active state styles.
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Save-Resume-05-scaled.webp)
+![Save Resume](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Save-Resume-05-scaled.webp)
 
 ### Advanced Options
 
@@ -90,7 +90,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **F. Send Email on Partial Entry Updated**: If you want users not to receive an email when they update their saved progress, select the **No** option, or if you're going to receive an email when they update their saved progress, select the **Yes** option.
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Advanced-Options-06-1-scaled.webp)
+![Advanced Options](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Advanced-Options-06-1-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -100,16 +100,16 @@ To integrate and display the form on a specific Page or Post, **copy** the **Sho
 
 > The Save Progress Button is equally applicable to the Step Form.
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Save-Form-07-1-scaled.webp)
+![Save](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Save-Form-07-1-scaled.webp)
 
 ## Preview of Save & Resume Field
 
 Here is the added **Save & Resume** field preview under the form.
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/preview-01-08.webp)
+![Preview Save Progress Button](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/preview-01-08.webp)
 
 Admin may now add this form's shortcode to any page. Users can see the form, and after hitting the **Save Progress Button**, a **link** will be generated so that they can use this link to view the form from any browser at any time. For a better understanding, see the screenshot below.
 
-![](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/preview-of-save-progress-button.webp)
+![Preview Save Progress Button](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/preview-of-save-progress-button.webp)
 
 Congratulations! You have successfully added a Save & Resume field to your Fluent Forms form.

@@ -12,7 +12,7 @@ Navigate to **Global Settings** in Fluent Forms, accessible from the left sideba
 
 Now, check the box to **Enable Double Opt-In Module**.
 
-![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/double-optionemail-settings-02-scaled.webp)
+![Double Optionemail Settings](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/double-optionemail-settings-02-scaled.webp)
 
 ### Configure Global Double Opt-In Settings
 
@@ -36,7 +36,7 @@ If the Reply to the field is empty, the email sent by your domain's SMTP will wo
 
 > The confirmation message will not work if your outgoing email and reply to an email address are already set to a different one than the one you set in fluent forms. So make sure they match.
 
-![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/03-3-scaled-2.webp)
+![Fluent Forms](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/03-3-scaled-2.webp)
 
 ### Enable Double Opt In Your Form
 
@@ -46,7 +46,7 @@ First, go to **Forms** from the top navbar. Create a new form or existing form.
 
 For example, a contact form has been used here.
 
-![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/contact-form-scaled.webp)
+![Contact Fluent Forms](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/contact-form-scaled.webp)
 
 Now go to the Settings & Integrations tab. Scroll down and check the option to **Enable Double Opt-In Confirmation before Form Data Processing**.
 
@@ -64,14 +64,14 @@ And if you want to **Disable Double Opt-in if the contact email is subscribed in
 
 After all settings are set, click the **Save Settings** button.
 
-![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/04-3-scaled.webp)
+![Set up Double Opt-in emails step](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/04-3-scaled.webp)
 
 After the user confirms their subscription from email the form confirmation will be displayed; see the example below where you can edit the **Confirmation Message**.
 
-![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/initial-message-02.webp)
+![Initial Message](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/initial-message-02.webp)
 
 When the user confirms their subscription, an email notification will be triggered, completing the process.
 
-![](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/email-confirmation-01.webp)
+![Email Confirmation](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/email-confirmation-01.webp)
 
 So, this is the process to set up and customize Double Opt-In Emails in Fluent Forms.

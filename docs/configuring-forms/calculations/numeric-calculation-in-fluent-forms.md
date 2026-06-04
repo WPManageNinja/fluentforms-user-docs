@@ -18,11 +18,11 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 If you want to learn more about the **Numeric Input Field**, read this[ article](/docs/numeric-input-field-in-fluent-forms).
 
-![](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/editor-form-scaled.webp)
+![Editor Fluent Forms](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/editor-form-scaled.webp)
 
 Now add **two numeric fields** ( "Number One" and "Number Two"). Then, add a **third numeric field** to display the calculation result ("Result").
 
-![](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/three-numeric-field-02-scaled.webp)
+![Three Numeric Field](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/three-numeric-field-02-scaled.webp)
 
 ## Enable Calculation Expression
 
@@ -30,7 +30,7 @@ Now hover over the **Result** field (where you want to show the result) and clic
 
 Now, click on the **Enable Calculation option** from the **Advanced Option** to activate the calculation box.
 
-![](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/Enable-calculations-expression-03-scaled.webp)
+![Enable Calculations Expression Numeric Calculation](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/Enable-calculations-expression-03-scaled.webp)
 
 ## Define the Calculation
 
@@ -44,7 +44,7 @@ Select the numeric fields to be used in the calculation ( Number One, Number Two
 
 > Avoid spaces between fields and operators. For a better understanding, see the screenshot below.
 
-![](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/Document-icon-04-scaled.webp)
+![Document Icon](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/Document-icon-04-scaled.webp)
 
 ## Embed the Form into the Front
 
@@ -52,13 +52,13 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/save-form-05-3-scaled.webp)
+![Save Numeric Calculation](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/save-form-05-3-scaled.webp)
 
 ### Preview of Added Numeric Calculation
 
 Here is a preview of the form with the Numeric calculation.
 
-![](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/preview-of-numeric-calculation-06.webp)
+![Preview Numeric Calculation](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/preview-of-numeric-calculation-06.webp)
 
 ### Conversational Forms Support
 

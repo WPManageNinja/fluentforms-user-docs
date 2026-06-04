@@ -16,11 +16,11 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Gis
 
 Now, turn on the **Toggle** to enable the **Gist**. Then, you will see the Gist’s **Settings Icon** on the right side, click on it.
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/1.-Enabled-GetGist-scaled.webp)
+![Enabled Getgist Fluent Forms](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/1.-Enabled-GetGist-scaled.webp)
 
 Once you enable GetGist, you will be asked for the **Gist API Key** of your **Gist Account**.
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/2.-GetGist-Settings-scaled.webp)
+![Getgist Settings Fluent Forms](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/2.-GetGist-Settings-scaled.webp)
 
 ### Get the Gist API URL and API Key
 
@@ -30,7 +30,7 @@ First, log in to your [Gist Account](https://app.getgist.com/users/sign_in) and 
 
 Now, go to Settings from the top navbar, open the **API & Webhooks** dropdown, click the **API Key** and you will get your desired **API Key.** Simply, copy the **API Key** by clicking the **Copy** button.
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/3.-Copy-API-Key-scaled.webp)
+![Copy API Key](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/3.-Copy-API-Key-scaled.webp)
 
 ## Connect Gist with Fluent Forms
 
@@ -39,13 +39,13 @@ Then, return to the **Gist API Settings** page under the **Configure Integration
 Paste the **API Key** you copied from **Gist** into the **Gist API Key** field.
 Finally, press the **Save Setting**s button to make your **Gist Integration** module functional.
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/4.-Paste-API-Key-scaled.webp)
+![Paste API Key](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/4.-Paste-API-Key-scaled.webp)
 
 You can see, your GetGist is connected to your **Fluent Forms** successfully.
 
 Now, you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect GetGist** button. 
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/5.-Verify-or-Disconnect-button-scaled.webp)
+![Verify Or Disconnect Button](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/5.-Verify-or-Disconnect-button-scaled.webp)
 
 ## Integrate GetGist into Fluent Forms
 
@@ -55,11 +55,11 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 > If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/Open-Desired-Form-Settings-scaled-2.webp)
+![Open Settings Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/Open-Desired-Form-Settings-scaled-2.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **GetGist Integration** from the dropdown list. 
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/6.-Add-New-Integration-button-1-scaled.webp)
+![Add Integration Button Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/6.-Add-New-Integration-button-1-scaled.webp)
 
 Once you select the integration, a page will appear with various settings options for configuring the GetGist.
 
@@ -81,14 +81,14 @@ Once you select the integration, a page will appear with various settings option
 
 Once the setup is done, finally, click the **Save Feed** button. And, your GetGist will be integrated into this specific form!
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/7.-Save-Feed-button-1-scaled.webp)
+![Save Feed Button Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/7.-Save-Feed-button-1-scaled.webp)
 
 After successful Integration, now you will see that your **GetGist Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**.
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/8.-Added-GetGist-Integration-feed-scaled.webp)
+![Added Getgist Integration Feed](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/8.-Added-GetGist-Integration-feed-scaled.webp)
 
 ## Preview of Integrated GetGist
 
@@ -96,12 +96,12 @@ Here, you can see the preview of the added contacts of GetGist through the Form 
 
 From the **Entries** section of this particular form, you can see four form submissions.
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/9.-Form-Entries--scaled.webp)
+![Entries Fluent Forms](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/9.-Form-Entries--scaled.webp)
 
 Now, go to the **Contacts** section from the top navbar, and open the **Contacts** tab.
 
 And, you can see that the **users who submitted forms** in **Fluent Forms** are added automatically added in the selected **GetGist Contact List.** 
 
-![](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/10.-Preview-of-added-contacts-scaled.webp)
+![Preview Added Contacts Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/10.-Preview-of-added-contacts-scaled.webp)
 
 This way you can easily integrate GetGist with Fluent Forms!

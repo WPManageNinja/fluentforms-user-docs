@@ -11,11 +11,11 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 > [!Note]
 > Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Featured Image** field is available only in Post Forms.
 
-![](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/1.-Open-desired-Post-form-3-scaled.webp)
+![Open Post Featured Image Field in](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/1.-Open-desired-Post-form-3-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Fields** on the right sidebar and open the **Post Fields** dropdown list by clicking the **Arrow Icon**. Now, choose the **Featured Image** field by clicking on it or **Drag & Drop** it into your editor.
 
-![](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/2.-Add-Featured-Image-field-scaled.webp)
+![Add Featured Field](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/2.-Add-Featured-Image-field-scaled.webp)
 
 ## Customize Featured Image Field
 
@@ -27,7 +27,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/3.-Input-Customization-5-scaled.webp)
+![Input Customization](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/3.-Input-Customization-5-scaled.webp)
 
 ### 1. Featured Image
 
@@ -53,7 +53,7 @@ All the **Settings** under the **Featured Image** tab mentioned in the screensho
 
 **J. Allowed Images:** Here you can select in which format you want your users to upload the file.
 
-![](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/4.-Featured-Image-option.webp)
+![Featured Option Fluent Forms](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/4.-Featured-Image-option.webp)
 
 ### 2. Advanced Options
 
@@ -69,7 +69,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/5.-Advanced-Options-6-scaled.webp)
+![Advanced Options](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/5.-Advanced-Options-6-scaled.webp)
 
 ## Configure Post Feed Settings
 
@@ -83,7 +83,7 @@ To embed and display the form on a specific Page/Post on your site, **copy** the
 
 Once you complete the customization, click the **Save** **Form** button to save all your changes. Also, to see the form preview, click the **Preview & Design** button in the middle.
 
-![](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/6.-Save-Form-4-scaled.webp)
+![Save Featured Image Field in](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/6.-Save-Form-4-scaled.webp)
 
 ## Preview of Featured Image field
 
@@ -91,6 +91,6 @@ Here is the preview of the added **Featured Image** field under the Post Form.
 
 Now, you can **add the desired file** by clicking the **Choose File** button. Plus, you can **delete** the uploaded file if needed by clicking the **Cross Icon** in the left corner.
 
-![](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/7.-Field-Preview-2.webp)
+![Field Preview Featured Image Field in](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/7.-Field-Preview-2.webp)
 
 This way you can easily add the **Featured Image** fields in Fluent Forms!

@@ -11,13 +11,13 @@ Before starting the process of adding a coupon field, you need to enable the **C
 
 First, go to **Global** **Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, click the **Coupons**, and press the **Enable Coupon Module** button. 
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/1.-Enable-Coupon-Field-scaled.webp)
+![Enable Coupon Field](/images/payments/payment-fields/add-coupon-field-in-payment-forms/1.-Enable-Coupon-Field-scaled.webp)
 
 ## Create a Coupon
 
 If you don’t have an existing coupon on the available Coupons page, create a new one. To create a **Coupon**, click the **+ Add New Coupon** button. 
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/2.-Add-new-coupon-button-scaled.webp)
+![Add Coupon Button](/images/payments/payment-fields/add-coupon-field-in-payment-forms/2.-Add-new-coupon-button-scaled.webp)
 
 **Now, fill in the following necessary information to create a new coupon code:**
 
@@ -49,13 +49,13 @@ If you don’t have an existing coupon on the available Coupons page, create a n
 
 Once you are done, click the **Save Coupon** button and the coupon will be created.
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/3.-Add-a-new-coupon-pop-up-page.webp)
+![Add Coupon Pop Up Page](/images/payments/payment-fields/add-coupon-field-in-payment-forms/3.-Add-a-new-coupon-pop-up-page.webp)
 
 Once you create a new coupon, you will always find it under the **Available Coupons** page.
 
 Also, you can **edit/delete** any coupon anytime if needed by clicking the **Pencil/Trash** Icon. **Remember**, always press the **Save Coupon** button after any edit to save all the updates.
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/4.-EditDelete-added-coupon-code-scaled.webp)
+![Editdelete Added Coupon Code](/images/payments/payment-fields/add-coupon-field-in-payment-forms/4.-EditDelete-added-coupon-code-scaled.webp)
 
 ## Integrate Coupon Field in a Form
 
@@ -65,7 +65,7 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you don’t have an existing payment form, read this Documentation to create a new one. For example, I choose an existing form to show the whole process.
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/5.-Open-desired-form-scaled.webp)
+![Open Coupon Field in Payment](/images/payments/payment-fields/add-coupon-field-in-payment-forms/5.-Open-desired-form-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Coupon** field.
 
@@ -74,7 +74,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 >
 > Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/6.-Add-Coupon-field-scaled.webp)
+![Add Coupon Field](/images/payments/payment-fields/add-coupon-field-in-payment-forms/6.-Add-Coupon-field-scaled.webp)
 
 ## Customize the Coupon Field
 
@@ -86,7 +86,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/7.-Input-Customization-tab-scaled.webp)
+![Input Customization Tab](/images/payments/payment-fields/add-coupon-field-in-payment-forms/7.-Input-Customization-tab-scaled.webp)
 
 ### 1. Coupon
 
@@ -102,7 +102,7 @@ All the **Settings** under the **Coupon** tab mentioned in the screenshot are br
 
 **e. Suffix Label**: Provide Input Suffix Label. It will show in the input field as a suffix label.
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/8.-Coupon-customization-tab-scaled.webp)
+![Coupon Customization Tab](/images/payments/payment-fields/add-coupon-field-in-payment-forms/8.-Coupon-customization-tab-scaled.webp)
 
 ### 2. Advanced Options
 
@@ -118,7 +118,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **e. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/9.-Advanced-option-scaled.webp)
+![Advanced Option Fluent Forms](/images/payments/payment-fields/add-coupon-field-in-payment-forms/9.-Advanced-option-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -126,12 +126,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/10.-Save-Form-scaled.webp)
+![Save Coupon Field in Payment](/images/payments/payment-fields/add-coupon-field-in-payment-forms/10.-Save-Form-scaled.webp)
 
 ## Preview of Coupon Field
 
 Here, is the preview of the added Coupon field under the Payment Form.
 
-![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/11.-Form-Preview.webp)
+![Preview Coupon Field in Payment](/images/payments/payment-fields/add-coupon-field-in-payment-forms/11.-Form-Preview.webp)
 
 This way you can easily add the **Coupon Code** field to your payment form!

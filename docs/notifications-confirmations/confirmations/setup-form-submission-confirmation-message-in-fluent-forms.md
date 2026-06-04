@@ -12,7 +12,7 @@ To set up a customized form submission confirmation message, follow the steps be
 
 First, go to **Forms** from the top navbar, and open the **Editor** page of your desired form by clicking the **Edit** button where you want to set the notifications, or you can create a new form. 
 
-![](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/1.-desired-Form-Editor-4-scaled.webp)
+![Editor Fluent Forms](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/1.-desired-Form-Editor-4-scaled.webp)
 
 Now, go to **Settings & Integrations** from the top navbar and open the **Confirmation Settings** tab under the **Settings** option.
 
@@ -26,7 +26,7 @@ Here, you can see three **Confirmation Types** for setting up the **Confirmation
 
 Once you complete the setup, click the **Save Settings** button to save all your changes.
 
-![](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/2.-Confirmation-Settings-option-scaled.webp)
+![Confirmation Settings Option](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/2.-Confirmation-Settings-option-scaled.webp)
 
 **All three confirmation types mentioned above are briefly explained below:**
 
@@ -40,7 +40,7 @@ This option is selected by default. It enables you to show the confirmation mess
 
 Finally, click the **Save Settings** button to save all your changes.
 
-![](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/3.-Same-Page-confirmation-type.webp)
+![Same Page Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/3.-Same-Page-confirmation-type.webp)
 
 ### 2. To a Page
 
@@ -54,7 +54,7 @@ The option allows you to redirect your subscribers to a designated page on your 
 
 Once you are done, click the **Save Settings** button to save all your changes.
 
-![](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/4.-To-a-Page-confirmation-type.webp)
+![Page Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/4.-To-a-Page-confirmation-type.webp)
 
 ### 3. To a Custom URL
 
@@ -76,4 +76,4 @@ Suppose you have a form with a field like **Name**. If you enable **Pass Field D
 
 Once you are done, click the **Save Settings** button to save all your changes.
 
-![](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/5.-To-a-Custom-URL-confirmation-Type.webp)
+![Custom URL Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message-in-fluent-forms/5.-To-a-Custom-URL-confirmation-Type.webp)

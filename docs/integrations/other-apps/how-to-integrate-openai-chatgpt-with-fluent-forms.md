@@ -16,13 +16,13 @@ First, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Fo
 
 Now, turn on the **Toggle** to enable the **OpenAI ChatGPT** module, and click the **Settings Icon** on the right side. 
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/1.-Enable-OpenAI-ChatGPT-scaled.webp)
+![Enable OpenAI ChatGPT Integrate OpenAI ChatGPT](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/1.-Enable-OpenAI-ChatGPT-scaled.webp)
 
 Once you enable OpenAI ChatGPT, you will be asked for the **Access Code** of your **ChatGPT Account**.
 
 > Click the Get OpenAI ChatGPT API Keys link to collect the Access Code and integrate the ChatGPT successfully.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/2.-Access-Code-scaled.webp)
+![Access Code Fluent Forms](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/2.-Access-Code-scaled.webp)
 
 ### Getting the OpenAI ChatGPT Access Code
 
@@ -30,19 +30,19 @@ To learn how to get the OpenAI ChatGPT **Access Code**, follow the steps with sc
 
 First, [click here](https://platform.openai.com/account/api-keys), it will redirect to a page where you need to **Log in** or **Sign up** for your **OpenAI ChatGPT** **Account** that you want to integrate with Fluent Forms.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/3.-Login-or-Signup-to-ChatGPT-account-scaled.webp)
+![Login Or Signup ChatGPT Account](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/3.-Login-or-Signup-to-ChatGPT-account-scaled.webp)
 
 Once you are on your account’s **Dashboard**, go to the **API keys** from the left menu, and click the **+ Create new secret key** button in the top right corner.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/4.-Create-New-Secret-Key-scaled.webp)
+![Create Secret Key](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/4.-Create-New-Secret-Key-scaled.webp)
 
 Now, a pop-up will appear where you need to fill in all the fields with the necessary information and click the **Create secret key** button.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/5.-Create-secret-key-button.webp)
+![Create Secret Key Button](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/5.-Create-secret-key-button.webp)
 
 Finally, you will get the **OpenAI API key.** Copy it by clicking the **Copy** button to integrate the OpenAI ChatGPT with Fluent Forms.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/6.-Copy-access-code.webp)
+![Copy Access Code](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/6.-Copy-access-code.webp)
 
 ## Connecting OpenAI ChatGPT with Fluent Forms
 
@@ -50,13 +50,13 @@ Return to the **OpenAI ChatGPT Integration** page under the **Configure Integrat
 
 Finally, press the **Verify OpenAI ChatGPT** button to make your **ChatGPT Integration** module functional. 
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/7.-Paste-access-code-scaled.webp)
+![Paste Access Code](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/7.-Paste-access-code-scaled.webp)
 
 You can see that your **OpenAI ChatGPT** is connected to your **Fluent Forms** successfully!
 
 Now, you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect OpenAI ChatGPT** button.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/8.-Verify-or-Disconnect-chatgpt-connection-scaled.webp)
+![Verify Or Disconnect ChatGPT Connection](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/8.-Verify-or-Disconnect-chatgpt-connection-scaled.webp)
 
 ## Integrating OpenAI ChatGPT with Forms
 
@@ -66,11 +66,11 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 > If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/9.-Open-desired-form-Settings-scaled.webp)
+![Open Settings Integrate OpenAI ChatGPT](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/9.-Open-desired-form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **OpenAI ChatGPT** integration feed from the dropdown list. 
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/10.-Add-new-integration-dropdown-scaled.webp)
+![Add Integration Dropdown Integrate OpenAI ChatGPT](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/10.-Add-new-integration-dropdown-scaled.webp)
 
 Once you select the desired table, a pop-up page will appear with various settings options for configuring the OpenAI ChatGPT.  
 
@@ -91,13 +91,13 @@ Once you are done, click the **Save Feed** button, and your OpenAI ChatGPT will 
 > [!Warning]
 > Do not include passwords, API keys, or other sensitive data in **ChatGPT** query instructions.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/11.-Save-Feed-scaled.webp)
+![Save Feed Integrate OpenAI ChatGPT](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/11.-Save-Feed-scaled.webp)
 
 After successful Integration, you will now see that your **OpenAI ChatGPT Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon,** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/12.-Added-OpenAI-ChatGPT-Integraton-Feed-scaled.webp)
+![Added OpenAI ChatGPT Integraton Feed](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/12.-Added-OpenAI-ChatGPT-Integraton-Feed-scaled.webp)
 
 ## Adding Shortcode for Submission Confirmation
 
@@ -112,11 +112,11 @@ First, go to **Settings & Integrations** and open the **Confirmation Settings** 
 
 Now, click the **Add Shortcodes** dropdown arrow in the right corner under the **Message to show** the option. Then, select **Chat GPT** and click the **ChatGPT Feed** you created a while ago. 
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/13.-Confirmation-Settings-scaled.webp)
+![Confirmation Settings Fluent Forms](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/13.-Confirmation-Settings-scaled.webp)
 
 Once the shortcode is added under the **Message to Show** option, click the **Save** **Settings** to save all your changes.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/14.-Save-Settings-scaled.webp)
+![Save Settings Integrate OpenAI ChatGPT](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/14.-Save-Settings-scaled.webp)
 
 ## Embedding Form into Frontend
 
@@ -126,16 +126,16 @@ Now**, copy** the **Shortcode** from the top right side and **paste** it into yo
 
 Once you are done, click the **Save** **Form** button to save all your changes. 
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/15.-Save-Form-1-scaled.webp)
+![Save Integrate OpenAI ChatGPT](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/15.-Save-Form-1-scaled.webp)
 
 ## Preview of Integrated OpenAI ChatGPT
 
 Here, you can see the preview of the added form. 
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/16.-Form-Preview-scaled.webp)
+![Preview Integrate OpenAI ChatGPT](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/16.-Form-Preview-scaled.webp)
 
 Now, when a customer orders food and submits the Form, he/she will get the confirmation message as shown below.
 
-![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/17.-ChatGPT-response-preview-1024x248.webp)
+![ChatGPT Response Preview 1024x248](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/17.-ChatGPT-response-preview-1024x248.webp)
 
 This way, you can easily integrate OpenAI ChatGPT with Fluent Forms!

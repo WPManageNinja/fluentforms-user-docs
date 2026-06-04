@@ -20,13 +20,13 @@ First, go to the **Forms** section from the Fluent Forms Navbar, choose a desire
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Form-Edit-01-3-scaled.webp)
+![Edit Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Form-Edit-01-3-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Quiz Score Input** field by clicking or dragging it and dropping it into your editor.
 
-![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/adding-quiz-score-02-scaled.webp)
+![Adding Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/adding-quiz-score-02-scaled.webp)
 
 ## Customizing the Quiz Score Field
 
@@ -36,7 +36,7 @@ Once you add the **Quiz Score Input** field, you can customize it by hovering ov
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Input-Customization-03-31-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Input-Customization-03-31-scaled.webp)
 
 ### Quiz Score Field Options
 
@@ -60,7 +60,7 @@ All the settings under the Quiz Score Input Field mentioned above are briefly ex
 
 - Personality: You can create a Personal Quiz with Fluent Form. To learn more, read this article.
 
-![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Quiz-Score-field-04-scaled.webp)
+![Quiz Score Field](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Quiz-Score-field-04-scaled.webp)
 
 ### Advanced Options
 
@@ -68,7 +68,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/unnamed-2-2.webp)
+![Unnamed](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/unnamed-2-2.webp)
 
 ## Embed the Form into Frontend
 
@@ -76,16 +76,16 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Save-Form-05-7-scaled.webp)
+![Save Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Save-Form-05-7-scaled.webp)
 
 ## Preview of Added Quiz Score Field
 
 Here is the preview of the added **Quiz Score** field under the Form. 
 
-![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/preview-01.webp)
+![Preview Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/preview-01.webp)
 
 After submitting the form see as the screenshot below.
 
-![](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/preview-02.webp)
+![Preview Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/preview-02.webp)
 
 Congratulations! You have successfully added a Quiz Score field to your Fluent Forms form.

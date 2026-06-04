@@ -20,13 +20,13 @@ First, go to the **Forms** section from the Fluent Forms Navbar, choose a desire
 
 > If you do not have any existing forms, read Create a Form from Scratch orCreate a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/edit-form-01-18-scaled.webp)
+![Edit Dynamic Field in Fluent](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/edit-form-01-18-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Dynamic Input** field by clicking or dragging it and dropping it into your editor.
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Adding-dynamic--scaled.webp)
+![Adding Dynamic Fluent Forms](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Adding-dynamic--scaled.webp)
 
 ## Customizing the Dynamic Field
 
@@ -36,7 +36,7 @@ Once you add the **Dynamic Input** field, you can customize it by hovering over 
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/dynamic-field-customization-scaled.webp)
+![Dynamic Field Customization](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/dynamic-field-customization-scaled.webp)
 
 ### Dynamic Field Options
 
@@ -62,7 +62,7 @@ All the settings under the **Dynamic Input Field** mentioned above are briefly e
 
 > Note: The Text Auto Complete feature is available in the Pro version of Fluent Forms.
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/dynamic-field-options-scaled.webp)
+![Dynamic Field Options](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/dynamic-field-options-scaled.webp)
 
 #### Types of Dynamic Fields
 
@@ -74,29 +74,29 @@ After selecting a source, you can get more specific with your data by using filt
 
 **Filter** the specific post types to display, such as **Posts**, **Pages**, **Products**, etc. By clicking the **ADD** button on the downside, you can set multiple filters to show only relevant posts.
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/unnamed.gif)
+![Unnamed Fluent Forms](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/unnamed.gif)
 
 **2. Taxonomy Terms:** With the **Taxonomy Term** of dynamic fields, you can add the necessary taxonomy information you want to include to your group. You can add multiple taxonomy term groups by clicking the **Add Filter Group** button to make your dynamic taxonomy terms field more specific.
 
 If you want to add multiple categories from the dropdown, click the **Plus Icon**, or if you want to delete a category, click the **Minus Icon**. You can edit the category name by clicking the **Edit** **icon** on the left side.
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Texonomy-scaled.webp)
+![Texonomy Fluent Forms](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Texonomy-scaled.webp)
 
 **3. Users Type:** Show WordPress users' roles filtered by roles like **Administrator**, **Editor**, or **Subscriber**.
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/user-07-scaled.webp)
+![User Fluent Forms](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/user-07-scaled.webp)
 
 **4. Form Submissions:** Show data from specific form submissions. 
 
 **Form and Field Selection:** Choose the form and specific field whose data you want to display. Additional filtering options are available to refine the data shown.
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Form-Submission-08-scaled.webp)
+![Submission Fluent Forms](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Form-Submission-08-scaled.webp)
 
 **5. Dynamic CSV:** You will use data from a **Google Sheet** or a **CSV** file in this field.
 
 **CSV Setup:** For Google Sheets, publish the sheet as a CSV and use the published link in the **URL** section. Go to **File > Share > Publish to Web**. Make sure the sheet is publicly accessible.
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/dynamic-CSV-09-scaled.webp)
+![Dynamic CSV](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/dynamic-CSV-09-scaled.webp)
 
 **Only Show Unique result:** If you enable two options with the same values now, only one option will be shown in your **Dynamic** field. 
 
@@ -114,7 +114,7 @@ You will choose **Label** and **Values** from the dropdown options. You can also
 
 **Shuffle the Available Options:** If enabled, the options will be shuffled. 
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Result-limit-10-scaled.webp)
+![Result Limit](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Result-limit-10-scaled.webp)
 
 ### Advanced Options
 
@@ -134,7 +134,7 @@ You can add the default value by clicking the **Three-Dot** option on the right 
 
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Advanced-options-11-scaled.webp)
+![Advanced Options](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Advanced-options-11-scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -142,12 +142,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Save-Form-12-scaled.webp)
+![Save Dynamic Field in Fluent](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Save-Form-12-scaled.webp)
 
 ## Preview of Added Dynamic Field
 
 Here is the preview of the added **Dynamic** field under the Form. 
 
-![](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Preview-13-1.webp)
+![Preview Dynamic Field in Fluent](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Preview-13-1.webp)
 
 Congratulations! You have successfully added a Dynamic Field to your Fluent Forms form.

@@ -18,13 +18,13 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Mask-input-field-01-scaled.webp)
+![Mask Input Field](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Mask-input-field-01-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **Mask Input** field by clicking on it or **Dragging and Dropping** it into your editor.
 
-![](/images/form-fields/general-fields/adding-a-mask-input-field-guide/new-11-scaled.webp)
+![a Mask Input Field step](/images/form-fields/general-fields/adding-a-mask-input-field-guide/new-11-scaled.webp)
 
 ## Customizing the Mask Input Field
 
@@ -34,7 +34,7 @@ After adding the field, customize the mask input field. **Hover over the field**
 
 - Advanced Options
 
-![](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Input-Customization-03-9-scaled.webp)
+![Input Customization](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Input-Customization-03-9-scaled.webp)
 
 ### Mask Input Options
 
@@ -84,7 +84,7 @@ License Key Mask: *-*-***. Valid Input: a9a-f0c-28Q
 
 **G. Required:** Decide whether users must select at least one option before submission.
 
-![](/images/form-fields/general-fields/adding-a-mask-input-field-guide/mask-input-options-scaled.webp)
+![Mask Input Options](/images/form-fields/general-fields/adding-a-mask-input-field-guide/mask-input-options-scaled.webp)
 
 #### Advanced Options
 
@@ -108,7 +108,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Advanced-Options-05-7-scaled.webp)
+![Advanced Options](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Advanced-Options-05-7-scaled.webp)
 
 ## Embedding the Form on Your Website
 
@@ -116,12 +116,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Save-Form-06-10-scaled.webp)
+![Save Fluent Forms](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Save-Form-06-10-scaled.webp)
 
 ## Preview of Added Mask Input Field
 
 Here is the preview of the added **Mask Input** field under the Form. 
 
-![](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Preview-07-5.webp)
+![Preview a Mask Input Field](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Preview-07-5.webp)
 
 **Congratulations!** Your **Mask Input Field** is now ready to ensure users enter data in the correct format.

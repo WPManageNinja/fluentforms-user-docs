@@ -12,7 +12,7 @@ Go to **Forms** from the top navbar, and click the **Edit** button to open the *
 
 Now click **Advanced Options** from the **Input Customization** options. Scroll down and enable the **Validate as Unique** option. This field also works for the[ Simple Text Input Field](/docs/adding-a-simple-text-input-field).
 
-![](/images/configuring-forms/conditional-logic/unique-field-validation/unique-validation-form-scaled.webp)
+![Unique Validation Fluent Forms](/images/configuring-forms/conditional-logic/unique-field-validation/unique-validation-form-scaled.webp)
 
 ### Customizing the Validation Message
 

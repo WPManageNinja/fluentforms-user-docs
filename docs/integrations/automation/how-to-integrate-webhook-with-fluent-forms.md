@@ -11,7 +11,7 @@ To learn how to enable Webhook integration, follow the steps with the screenshot
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Webhooks** through the search bar, and enable the **Webhooks** integration module by turning on the **Toggle**.
 
-![](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/1.-Enabled-Webhooks-option-scaled.webp)
+![Enabled Webhooks Option](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/1.-Enabled-Webhooks-option-scaled.webp)
 
 ## Integrating Webhook with Forms
 
@@ -21,11 +21,11 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 > If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/2.-Open-desired-Form-Settings-2-scaled.webp)
+![Open Settings Integrate Webhook](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/2.-Open-desired-Form-Settings-2-scaled.webp)
 
 Once you are on **Settings & Integrations**, go to the **WebHook** from the left menu, and click the **+ Add New** button.
 
-![](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/3.-Add-New-webhook-scaled.webp)
+![Add Webhook Integrate Webhook](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/3.-Add-New-webhook-scaled.webp)
 
 Now, a pop-up page will appear with various settings options for configuring Webhook. 
 
@@ -47,6 +47,6 @@ Now, a pop-up page will appear with various settings options for configuring Web
 
 Once the setup is done, click the **Save Feed** button, and your Webhook will be integrated into this specific form!
 
-![](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/4.-Webhook-Integration-Feed-scaled.webp)
+![Webhook Integration Feed](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/4.-Webhook-Integration-Feed-scaled.webp)
 
 This way you can easily integrate Webhook with Fluent Forms!

@@ -15,17 +15,17 @@ To learn how to integrate MailPoet with Fluent Forms, follow the steps according
 
 First, go to **Plugins** from the **WordPress Left Sidebar**, click the **Add New Plugin**, search for **Fluent Forms Connector for MailPoet**, and click the **Install Now** button. 
 
-![](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/1.-Install-Fluent-Forms-Connector-for-MailPoet-scaled.webp)
+![Install Connector For MailPoet](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/1.-Install-Fluent-Forms-Connector-for-MailPoet-scaled.webp)
 
 Now, click the **Activate** button, and your **Fluent Forms Connector for MailPoet Add-on** will be **Installed** and **Activated** successfully on your WordPress Site.
 
-![](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/2.-Activate-Fluent-Forms-Connector-for-MailPoet-scaled.webp)
+![Activate Connector For MailPoet](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/2.-Activate-Fluent-Forms-Connector-for-MailPoet-scaled.webp)
 
 ### Enable MailPoet Integration
 
 From your **Fluent Forms Dashboard**, go to **Integrations**, search for **MailPoet**, and click the **Toggle** button to enable the **MailPoet** **Integration** module in your **FluentForms**.
 
-![](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/3.-Enable-MailPoet-scaled.webp)
+![Enable MailPoet Fluent Forms](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/3.-Enable-MailPoet-scaled.webp)
 
 ### Integrate MailPoet in Fluent Forms
 
@@ -35,11 +35,11 @@ Go to **Forms** from the **Fluent Forms Dashboard** and click the **Settings** b
 
 > If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/4.-Desired-Forms-Settings-scaled.webp)
+![Settings MailPoet Integration](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/4.-Desired-Forms-Settings-scaled.webp)
 
 Open the **Configure Integrations** tab, expand the **Add New Integration** dropdown, and click the **MailPoet Integration** feed.
 
-![](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/5.-Configure-Integrations-Add-new-integration-MailPoet-scaled.webp)
+![Configure Integrations Add Integration MailPoet](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/5.-Configure-Integrations-Add-new-integration-MailPoet-scaled.webp)
 
 **Now, set up your Mautic Integration Feed according to your needs using all the following available settings options.**
 
@@ -59,13 +59,13 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 
 Don’t forget to click the **Save Feed** button when the configuration is done.
 
-![](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/6.-MailPoet-Integration-Feed-Fluent-Forms.webp)
+![MailPoet Integration Feed](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/6.-MailPoet-Integration-Feed-Fluent-Forms.webp)
 
 Here, you can see the MailPoet Integration Feed has been added!
 
 You can disable the feed anytime by clicking the **Toggle** button if needed. 
 Also, you can customize the feed at any time by clicking the **Settings** icon or delete it by clicking the **Trash** icon.
 
-![](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/7.-Added-MailPoet-integration-feed-scaled.webp)
+![Added MailPoet Integration Feed](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/7.-Added-MailPoet-integration-feed-scaled.webp)
 
 This is how you can integrate **MailPoet** with **Fluent** **Forms**!

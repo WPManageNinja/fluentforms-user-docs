@@ -15,11 +15,11 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **Drip** 
 
 Now, turn on the **Toggle** to enable the **Drip** module and click the **Settings Icon** on the right.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/enable-drip-integration-01-scaled.webp)
+![Enable Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/enable-drip-integration-01-scaled.webp)
 
 Once you enable **Drip**, you will be asked for the **Drip API Token** and **Drip Account ID** of your **Drip Account**.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/Drip-integration-02-scaled.webp)
+![Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/Drip-integration-02-scaled.webp)
 
 ## Get the Drip Credentials
 
@@ -29,19 +29,19 @@ First, log in to your[ Drip account](https://www.drip.com/), go to **Settings** 
 
 Now, Click the **Setting** section from the bottom left corner and click the **User settings** options.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/user-settings-03-scaled.webp)
+![User Settings](/images/integrations/crm/drip-integration-with-fluent-forms/user-settings-03-scaled.webp)
 
 You can get the API token from the User Info page. **Copy** the **API Token** for future use.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/api-token-900.webp)
+![API Token](/images/integrations/crm/drip-integration-with-fluent-forms/api-token-900.webp)
 
 Next, **Back to the Dashboard** and click the **Accounts** options from the **Settings** sections. 
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/account-settings-04-2-scaled.webp)
+![Account Settings](/images/integrations/crm/drip-integration-with-fluent-forms/account-settings-04-2-scaled.webp)
 
 Now, scroll down and you will find the **Account ID** here. Just **Copy** it for **later** use.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/account-ID-05-2-1024x515.webp)
+![Account ID X515](/images/integrations/crm/drip-integration-with-fluent-forms/account-ID-05-2-1024x515.webp)
 
 ## Connect Drip with Fluent Forms
 
@@ -51,11 +51,11 @@ Now, paste the **Drip API Token** and **Drip Account ID** that was copied before
 
 Press the **Save Settings** button to make your **Drip Integration** module functional.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/paste-api-and-id-06-scaled.webp)
+![Paste API And ID](/images/integrations/crm/drip-integration-with-fluent-forms/paste-api-and-id-06-scaled.webp)
 
 Here, you can see your **Drip API integration is up and running**. To disconnect, click the **Disconnect Drip** button.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/drip-success-06-1-scaled.webp)
+![Drip Success](/images/integrations/crm/drip-integration-with-fluent-forms/drip-success-06-1-scaled.webp)
 
 ### Integrate Drip into Fluent Forms
 
@@ -65,11 +65,11 @@ First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form**
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/form-setting-07-scaled.webp)
+![Setting Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/form-setting-07-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Drip Integration** feed from the dropdown list. 
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/drip-inttegration-02.webp)
+![Drip Inttegration](/images/integrations/crm/drip-integration-with-fluent-forms/drip-inttegration-02.webp)
 
 ### Configure Drip Integration Feed
 
@@ -97,13 +97,13 @@ Once the setup is done, finally, click the **Save Feed** button.
 
 Now, your Drip will be integrated into this specific form!
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/add-new-configuration-08-1.webp)
+![Add Configuration Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/add-new-configuration-08-1.webp)
 
 After successful Integration, you will see your Drip integration Feed has been added here. You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
 
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/Done-integration-fields-09-scaled.webp)
+![Done Integration Fields](/images/integrations/crm/drip-integration-with-fluent-forms/Done-integration-fields-09-scaled.webp)
 
 ### Preview of Integrated Drip
 
@@ -111,14 +111,14 @@ Here, you can see a preview of the added Drip contacts through the Form entries 
 
 You can see the form submissions from the **Entries** section of this particular form.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/Entries-10-scaled.webp)
+![Entries Fluent Forms](/images/integrations/crm/drip-integration-with-fluent-forms/Entries-10-scaled.webp)
 
 Go to the **People** section from the left sidebar and click the **Active** button to view contacts on the selected list you integrated into Fluent Forms.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/Drip-active-11-scaled.webp)
+![Drip Active](/images/integrations/crm/drip-integration-with-fluent-forms/Drip-active-11-scaled.webp)
 
 Here, you can see that the **users who submitted forms** in **Fluent Form** are automatically added to the selected **Drip Contact List**.
 
-![](/images/integrations/crm/drip-integration-with-fluent-forms/Contact-list-of-drip-12-scaled.webp)
+![Contact List Drip](/images/integrations/crm/drip-integration-with-fluent-forms/Contact-list-of-drip-12-scaled.webp)
 
 Following this guide, you can easily integrate Drip with Fluent Forms!

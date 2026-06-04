@@ -14,7 +14,7 @@ To learn how to set up admin/user email notifications, follow the steps below â€
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the Email Notification.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/1.-desired-Form-Editor-3-scaled.webp)
+![Editor Fluent Forms](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/1.-desired-Form-Editor-3-scaled.webp)
 
 Now, go to **Settings & Integrations** from the top navbar and open the **Email Notifications** tab.
 
@@ -22,11 +22,11 @@ Here, you can see one **Admin Notification Email** is already created by default
 
 Or, you can **Create** a new one by clicking the **+ Add Notification** button. **For example**, I created a new notification to show you the whole process of adding email notifications for Admin/User. 
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/2.-Settings-Integration-Email-Notification-Add-new-notification-2-scaled.webp)
+![Settings Integration Email Notification Add Notification Setup Admin/User Email Notifications](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/2.-Settings-Integration-Email-Notification-Add-new-notification-2-scaled.webp)
 
 Once you are on the **Email Notifications** page, fill in all the necessary settings as per your needs, click the **Save Notification** button, and your admin/user notification will be set.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/3.-Email-Notfications-Page-scaled.webp)
+![Email Notfications Page](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/3.-Email-Notfications-Page-scaled.webp)
 
 **All the settings mentioned above are briefly explained below:**
 
@@ -55,7 +55,7 @@ If you prefer to specify a different admin email manually, choose the **Enter Em
 
 You can also send notifications to multiple recipients by separating email addresses with a comma (,).
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/Email-Notifications-Admin-scaled.webp)
+![Email Notifications Admin](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/Email-Notifications-Admin-scaled.webp)
 
 ## Setup User Notification Using Select a Field
 
@@ -63,7 +63,7 @@ Now, select the **Select a Field** option in the **Send To** field and define an
 
 You can select the **Email** field by clicking the **drop-down arrow** beside the **Send To Field**.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/5.-Select-a-Field-option.webp)
+![Select Field Option Setup Admin/User Email Notifications](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/5.-Select-a-Field-option.webp)
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/VBZ7cqgciBk" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -73,7 +73,7 @@ You can select the **Email** field by clicking the **drop-down arrow** beside th
 
 Here, you can set a subject for your email notification. You can also add data from submitted entries through the input fields using the **Three-dot-icon** dropdown list in the right corner.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/6.-Subject-option.webp)
+![Subject Option Fluent Forms](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/6.-Subject-option.webp)
 
 ### D. Email Body
 
@@ -82,13 +82,13 @@ Here, you can set the body for your email according to your requirements.
 You can use the **Add Shortcodes** drop-down arrow on the right corner to add dynamic data. 
 Also for advanced customization, you can edit the email body in **HTML Codes** through the **Text** tab.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/7.-Email-Body-option.webp)
+![Email Body Option](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/7.-Email-Body-option.webp)
 
 #### Send Email as Raw HTML Format
 
 Similar to the **Text** tab, this option lets you send the email body in **HTML format**. Here, click the **Note Icon** in the right corner to add the desired ShortCode/s.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/8.-Send-email-as-Raw-HTML-Format.webp)
+![Send Email As Raw HTML Format](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/8.-Send-email-as-Raw-HTML-Format.webp)
 
 ### E. Conditional Logics
 
@@ -96,7 +96,7 @@ Enabling this option allows you to set specific conditions for sending email not
 
 > To learn more detail use of this Conditional Logics, read this Documentation.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/9.-Conditional-Logics.webp)
+![Conditional Logics Fluent Forms](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/9.-Conditional-Logics.webp)
 
 ### F. Media File Attachments
 
@@ -104,7 +104,7 @@ Enabling this option allows you to set specific conditions for sending email not
 
 > You should use SMTP so send the attachment via email otherwise, It may go to spam.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/10.-Media-File-Attachments-option.webp)
+![Media File Attachments Option](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/10.-Media-File-Attachments-option.webp)
 
 ### G. Advanced
 
@@ -118,4 +118,4 @@ Use this setting if you want to configure someone else who also needs to be noti
 
 Finally, click the **Save Notification** button when you complete all the setup.
 
-![](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/11.-Advanced-option.webp)
+![Advanced Option Fluent Forms](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/11.-Advanced-option.webp)

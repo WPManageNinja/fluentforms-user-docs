@@ -13,7 +13,7 @@ First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Pa
 
 Now, go to **Razorpay** in the top navbar and click **Enable Razorpay Payment Method.** The **Razorpay Payment Method** will be enabled globally for all forms. 
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/1.-Enable-Razorpay-method-scaled.webp)
+![Enable Razorpay Method Integrate Razorpay](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/1.-Enable-Razorpay-method-scaled.webp)
 
 ## Configure Razorpay with Fluent Forms
 
@@ -25,7 +25,7 @@ C. Checkout Style
 
 Always press the **Save Settings** button to save the changes you made.
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/2.-Test-API-Credentials-scaled.webp)
+![Test API Credentials](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/2.-Test-API-Credentials-scaled.webp)
 
 **All the Razorpay Settings options mentioned above are briefly explained below:**
 
@@ -45,17 +45,17 @@ First, log into your [RazorPay Account](http://dashboard.razorpay.com/signin). I
 
 Once you log in to the **RazorPay Dashboard**, go to the **Accounts & Settings** section from the **Left sidebar**, and click the **API keys** tab. 
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/3.-API-Keys-scaled.webp)
+![API Keys Fluent Forms](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/3.-API-Keys-scaled.webp)
 
 > To get the Key ID and Key Secret, you need to generate a new key.
 
 Click the **Regenerate Test Key** button and new keys will be generated for the configuration.
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/4.-Regenerate-Test-Key-button-scaled.webp)
+![Regenerate Test Key Button](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/4.-Regenerate-Test-Key-button-scaled.webp)
 
 Here, you will get your desired **Key ID** and **Key Secret**, and copy them. 
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/5.-Copy-Key-ID-and-Key-Secret.webp)
+![Copy Key ID And Key Secret](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/5.-Copy-Key-ID-and-Key-Secret.webp)
 
 **Now,** return to the **Razorpay Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
 
@@ -63,7 +63,7 @@ Then, paste the **Key ID** and **Key Secret** into the **API Key** and **API Sec
 
 Finally, press the **Save Settings** button and your Razorpay account will be configured with **Fluent Forms** for your WordPress Site.
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/6.-Paste-API-Key-and-Secret-scaled.webp)
+![Paste API Key And Secret](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/6.-Paste-API-Key-and-Secret-scaled.webp)
 
 ### C. Checkout Style Type
 
@@ -79,7 +79,7 @@ This checkout style lets you collect payments on your site.
 
 You can also choose a custom brand theme color for the Razorpay checkout popup or leave it blank to use the default Razorpay theme. 
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/7.-Modal-Checkout-Style.webp)
+![Modal Checkout Style](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/7.-Modal-Checkout-Style.webp)
 
 #### Hosted to razorpay.com
 
@@ -91,7 +91,7 @@ You can select both **SMS** and **Email**, or any one of them by simply checking
 
 **Remember**, always press the **Save Settings** button to save the changes you made.
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/8.-Hosted-to-Razorpay.com_.webp)
+![Hosted Razorpay.com Fluent Forms](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/8.-Hosted-to-Razorpay.com_.webp)
 
 ## Integrate Razorpay in Forms
 
@@ -101,7 +101,7 @@ Once you finish setting up your **Razorpay** payment method, you can easily add 
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/Open-desired-form-3-scaled.webp)
+![Open Integrate Razorpay](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/Open-desired-form-3-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by clicking the **Pencil Icon**.
 
@@ -109,7 +109,7 @@ Now, go to the **Payment Methods**, check the **Razorpay** option, click the **D
 
 > To learn more details about the Payment Method field, read this Documentation.
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/9.-Check-Razorpay-payment-method-scaled.webp)
+![Check Razorpay Payment Method](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/9.-Check-Razorpay-payment-method-scaled.webp)
 
 Once you complete the edit, press the **Save Form** button to save all the changes.
 
@@ -117,14 +117,14 @@ Now, to embed and display the form on a specific **Page/Post**, **copy** this **
 
 Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/10.-Save-Form-button-scaled.webp)
+![Save Button Integrate Razorpay](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/10.-Save-Form-button-scaled.webp)
 
 ## Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to **Razorpay** to complete the payment process. 
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/11.-Form-Preview-.webp)
+![Preview Integrate Razorpay](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/11.-Form-Preview-.webp)
 
 Here is the preview of the **Razorpay Checkout Modal**. 
 
-![](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/12.-Razorpay-payment-popup-1024x575.webp)
+![Razorpay Payment Popup 1024x575](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/12.-Razorpay-payment-popup-1024x575.webp)

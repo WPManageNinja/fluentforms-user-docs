@@ -14,13 +14,13 @@ First, go to the **Forms** section from the Fluent Forms Navbar, choose a desire
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/form-editor-01-4-scaled.webp)
+![Editor](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/form-editor-01-4-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Color Picker** field by **clicking** or **dragging** it and **dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/adding-color-picker-field-02-scaled.webp)
+![Adding Color Picker Field](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/adding-color-picker-field-02-scaled.webp)
 
 ### Customizing the Color Picker Field
 
@@ -30,7 +30,7 @@ Once you add the **Color Picker** field, you can customize it by hovering over i
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/Input-Customization-03-27-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/Input-Customization-03-27-scaled.webp)
 
 ### Color Picker Field Options
 
@@ -54,7 +54,7 @@ If you select the **Default** option, it will represent your **Global** label pl
 
 **F. Required:** Decide whether users must select at least one option before submission.
 
-![](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/unnamed.webp)
+![Unnamed Fluent Forms](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/unnamed.webp)
 
 ### Advanced Options
 
@@ -70,7 +70,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/Advanced-Options-04-2-scaled.webp)
+![Advanced Options](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/Advanced-Options-04-2-scaled.webp)
 
 ### Embed the Form into Frontend
 
@@ -78,12 +78,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 
-![](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/Save-Form-05-5-scaled.webp)
+![Save Color Picker Field](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/Save-Form-05-5-scaled.webp)
 
 ### Preview of Added Color Picker Field
 
 Here is the preview of the added **Color Picker** field under the Form. 
 
-![](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/Preview-07-17-scaled.webp)
+![Preview Color Picker Field](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/Preview-07-17-scaled.webp)
 
 You’re all set to use the **Color Picker** field in Fluent Forms.

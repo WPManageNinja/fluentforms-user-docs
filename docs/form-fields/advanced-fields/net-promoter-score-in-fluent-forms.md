@@ -14,13 +14,13 @@ First, go to the **Forms** section from the Fluent Forms Navbar, choose a desire
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Editor-Form-01-3-scaled.webp)
+![Editor](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Editor-Form-01-3-scaled.webp)
 
 Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Net Promoter Score** field by **Clicking** on it or **Dragging** and **Dropping** it into your editor.
 
-![](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Adding-net-promoter-02-scaled.webp)
+![Adding Net Promoter](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Adding-net-promoter-02-scaled.webp)
 
 ## Customizing the Net Promoter Score Field
 
@@ -30,7 +30,7 @@ Once you add the **Net Promoter Score** field, you can customize it by hovering 
 
 - Advanced Options
 
-![](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/input-customization-03-25-scaled.webp)
+![Input Customization Fluent Forms](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/input-customization-03-25-scaled.webp)
 
 ### Net Promoter Score Input Options
 
@@ -50,7 +50,7 @@ All the settings under the **Net Promoter Score Field** mentioned above are brie
 
 **D. Promoter End Text:** Set the ending text for the rating scale. 
 
-![](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/net-promoter-score-04-scaled.webp)
+![Net Promoter Score](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/net-promoter-score-04-scaled.webp)
 
 ### Advanced Options
 
@@ -66,7 +66,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-![](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/advanced-options-05-20-scaled.webp)
+![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/advanced-options-05-20-scaled.webp)
 
 ## Embed the Form into Front
 
@@ -74,12 +74,12 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Save-Form-06-26-scaled.webp)
+![Save Net Promoter Score](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Save-Form-06-26-scaled.webp)
 
 ## Preview of Added Net Promoter Score Field
 
 Here is the added **Net Promoter Score** field preview under the Form. 
 
-![](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Preview-07-16.webp)
+![Preview Net Promoter Score](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Preview-07-16.webp)
 
 Congratulations! You have successfully added a net promoter score field to your Fluent Forms form.

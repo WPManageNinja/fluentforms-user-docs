@@ -14,7 +14,7 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **Invento
 
 Now, turn on the **Toggle** to enable the **Inventory** module.
 
-![](/images/modules/fluent-forms-inventory-module/enable-module-01-scaled.webp)
+![Enable Module Fluent Forms Inventory Module](/images/modules/fluent-forms-inventory-module/enable-module-01-scaled.webp)
 
 ## Setting Up Inventory in a Form
 
@@ -34,13 +34,13 @@ You can use a [Checkbox Field](/docs/checkbox-field-in-fluent-forms) to demonstr
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/modules/fluent-forms-inventory-module/inventory-02-scaled.webp)
+![Inventory Fluent Forms](/images/modules/fluent-forms-inventory-module/inventory-02-scaled.webp)
 
 ## Configuring Inventory Settings
 
 **Inventory Settings** will appear in the **Advanced Options** field when the **Inventory Module** is active. By default, these settings are **Disabled**. You will also see **Simple** and **Global** options. You can choose any of them.
 
-![](/images/modules/fluent-forms-inventory-module/Inventory-Settings-03-scaled.webp)
+![Inventory Settings](/images/modules/fluent-forms-inventory-module/Inventory-Settings-03-scaled.webp)
 
 ### Simple Inventory Settings
 
@@ -60,7 +60,7 @@ The Inventory Settings will be visible in the **Advanced Options** field when se
 
 **G. Inventory Label:** Set up your inventory label using this **{remaining_quantity}** shortcode. This shortcode will show how many of the items are still available.
 
-![](/images/modules/fluent-forms-inventory-module/Simple-Inventory-Settings-04-scaled.webp)
+![Simple Inventory Settings](/images/modules/fluent-forms-inventory-module/Simple-Inventory-Settings-04-scaled.webp)
 
 ### Global Inventory Settings
 
@@ -80,13 +80,13 @@ When you select the Global option, the Inventory Settings will be visible in the
 
 **G. Inventory Label:** Set up your inventory label using this **{remaining_quantity}** shortcode. This shortcode will show how many of the items are still available.
 
-![](/images/modules/fluent-forms-inventory-module/unnamed-6.webp)
+![Unnamed Fluent Forms](/images/modules/fluent-forms-inventory-module/unnamed-6.webp)
 
 ### View Inventory Item
 
 To view the inventory items, click the **Entries** option at the top bar of the form. Here, you will see the inventory items in **Stock** and their **Total** **Numbers**.
 
-![](/images/modules/fluent-forms-inventory-module/view-inventory--scaled.webp)
+![View Inventory Fluent Forms](/images/modules/fluent-forms-inventory-module/view-inventory--scaled.webp)
 
 ## Embed the Form into Frontend
 
@@ -94,7 +94,7 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-![](/images/modules/fluent-forms-inventory-module/save-form-05-scaled-2.webp)
+![Save Fluent Forms Inventory Module](/images/modules/fluent-forms-inventory-module/save-form-05-scaled-2.webp)
 
 ## Preview of the Inventory Module Form
 
@@ -108,6 +108,6 @@ Consider a form with Story Book, Kids Story Book, and Fantasy Story Book as Chec
 
 - If Hide Choice When Stock is Out is enabled, Orange will no longer appear in the form.
 
-![](/images/modules/fluent-forms-inventory-module/preview.webp)
+![Preview Fluent Forms Inventory Module](/images/modules/fluent-forms-inventory-module/preview.webp)
 
 With these settings, you can easily track orders and manage inventory in real time! Start using Fluent Forms Inventory Management today to streamline your order process.

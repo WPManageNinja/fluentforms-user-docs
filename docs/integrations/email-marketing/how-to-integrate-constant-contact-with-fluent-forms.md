@@ -13,13 +13,13 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Con
 
 Now, turn on the **Toggle** to enable **Constant Contact V3**. Then, you will see the Constant Contact’s **Settings Icon** on the right side, click on it. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/1.-Enable-Constant-Contact-V3-scaled.webp)
+![Enable Constant Contact V3 Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/1.-Enable-Constant-Contact-V3-scaled.webp)
 
 Once you enable **Constant Contact V3**, you will be asked for the **Constant Contact Client ID** and **the Constant Contact Client Secret** of your **Constant Contact Account**.
 
 > To get the credentials, follow the Instructions Guide provided at the top under Constant Contact V3 API step-by-step.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/2.-Constant-Contact-V3-API-Settings-page-scaled.webp)
+![Constant Contact V3 API Settings Page](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/2.-Constant-Contact-V3-API-Settings-page-scaled.webp)
 
 ### Get the Constant Contact Client ID and Client Secret
 
@@ -29,32 +29,32 @@ First, click this [Link](https://app.constantcontact.com/pages/dma/portal/), log
 
 > If you don't have an existing Constant Contact account, you can sign up for one here.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/3.-New-Application-Button-scaled.webp)
+![Application Button Fluent Forms](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/3.-New-Application-Button-scaled.webp)
 
 Now, give your **New** **Application** a **Name**, choose “**Authentication Code Flow and Implicit Flow”** and **Rotating Refresh Token** options from the **Application OAuth2 Settings**, and press the **Create** button. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/4.-Create-button-scaled.webp)
+![Create Button Fluent Forms](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/4.-Create-button-scaled.webp)
 
 Once you created the new app, click the **Edit** button in the right corner. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/5.-Edit-button-scaled.webp)
+![Edit Button Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/5.-Edit-button-scaled.webp)
 
 Now go to the **Details** tab and copy the **Client ID** from the **API Key (Client ID)** field by clicking the **Copy Icon**. 
 
 Then, click the **Generate** **Client Secret** button next to the Client ID to generate the Client Secret.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/6.-Copy-Client-ID-Generate-Client-Secret-scaled.webp)
+![Copy Client ID Generate Client Secret](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/6.-Copy-Client-ID-Generate-Client-Secret-scaled.webp)
 
 Now, copy the **Client Secret** by clicking the **Copy Icon** on the right side, and press the Close button.
 
 > [!Note]
 > **Client Secret** is shown only once. Copy and store it securely before leaving the page.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/7.-Copy-Client-Secret.webp)
+![Copy Client Secret](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/7.-Copy-Client-Secret.webp)
 
 Now it is time to enter the **Redirect URL** provided in **Fluent Forms** by clicking the **Pencil Icon** and opening the editor page of the **Redirect URL** field.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/8.-Edit-Icon-of-Redirect-URL.webp)
+![Edit Icon Redirect URL Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/8.-Edit-Icon-of-Redirect-URL.webp)
 
 #### Collecting the Redirect URL from Fluent Forms
 
@@ -62,15 +62,15 @@ First, go to the **Constant Contact V3 API Settings** page under the **Configure
 
 Then copy the **Redirect URL** provided under the **Constant Contact V3 API** instruction guide at the top. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/9.-Copy-Redirect-URL-scaled.webp)
+![Copy Redirect URL](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/9.-Copy-Redirect-URL-scaled.webp)
 
 Finally, **paste** the copied **Redirect URL** from the **Constant Contact V3 API Settings** page in **Fluent Forms**, and click the **Confirm** button. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/10.-Paste-Redirect-URL.webp)
+![Paste Redirect URL](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/10.-Paste-Redirect-URL.webp)
 
 After copying the Client ID & Client Secret, setting up the Redirect URL, click the **Save** button to make the integration functional.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/11.-Save-button-scaled.webp)
+![Save Button Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/11.-Save-button-scaled.webp)
 
 ## Connect Constant Contact with Fluent Forms
 
@@ -80,17 +80,17 @@ Then, paste the **Client ID** and **Client Secret** you copied from **Constant C
 
 Finally, press the **Verify Constant Contact** button to save all your changes.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/12.-Paste-Client-ID-and-Client-Secret-scaled.webp)
+![Paste Client ID And Client Secret](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/12.-Paste-Client-ID-and-Client-Secret-scaled.webp)
 
 Once you click the **Verify Constant Contact**, it will redirect you to the **Constant Contact** page again asking for **permission** to connect it with **Fluent Forms**. Now, click the **Allow Access** button to make the integration functional. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/13.-Allow-access.webp)
+![Allow Access Fluent Forms](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/13.-Allow-access.webp)
 
 Now, you can see, your **Constant Contact** is connected to your **Fluent Forms** successfully.
 
 You can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect Constant Contact** button.  
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/14.-Verfy-or-Disconnect-button-scaled.webp)
+![Verfy Or Disconnect Button](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/14.-Verfy-or-Disconnect-button-scaled.webp)
 
 ## Integrate Constant Contact in Forms
 
@@ -100,11 +100,11 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 > If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/15.-Open-Desired-Form-Settings-scaled.webp)
+![Open Settings Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/15.-Open-Desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Constant Contact V3 Integration** feed from the dropdown list. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/16.-Add-new-integration-feed-dropdown-scaled.webp)
+![Add Integration Feed Dropdown Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/16.-Add-new-integration-feed-dropdown-scaled.webp)
 
 Now, a page will appear with various settings options for configuring the Constant Contact. 
 
@@ -126,13 +126,13 @@ Now, a page will appear with various settings options for configuring the Consta
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Constant Contact will be integrated into this specific form!
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/17.-Save-Feed-button-scaled.webp)
+![Save Feed Button Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/17.-Save-Feed-button-scaled.webp)
 
 After successful Integration, now you will see that your **Constant Contact V3 Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/18.-Added-Constant-Contact-V3-Integration-Feed-scaled.webp)
+![Added Constant Contact V3 Integration Feed](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/18.-Added-Constant-Contact-V3-Integration-Feed-scaled.webp)
 
 ## Preview of Integrated Constant Contact
 
@@ -140,22 +140,22 @@ Here, you can see the preview of added **Contacts** of **Constant Contact** thro
 
 **For example**, you can see four new **Form Submissions** under the **Entries** tab on this particular form.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/19.-Form-Entries-scaled.webp)
+![Entries Fluent Forms](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/19.-Form-Entries-scaled.webp)
 
 Now, go to your [Constant Contact](http://constantcontact.com) account, open the **Contacts** dropdown from the left sidebar, click the **Lists** tab, and press the desired **List** you integrated into **Fluent Forms**.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/20.-Desired-Constant-Contact-List-scaled.webp)
+![Constant Contact List](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/20.-Desired-Constant-Contact-List-scaled.webp)
 
 You can see that the **users who submitted forms** in **Fluent Forms** are also automatically added to the selected **Contact List**. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/21.-Preview-of-Contact-List.webp)
+![Preview Contact List Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/21.-Preview-of-Contact-List.webp)
 
 Similarly, go to the desired **Tag/s** you integrated into **Fluent Forms**.
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/22.-Desired-Tag-list-scaled.webp)
+![Tag List Fluent Forms](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/22.-Desired-Tag-list-scaled.webp)
 
 You can see that the **users who submitted forms** in **Fluent Forms** are also automatically added to the selected **Tag/s**. 
 
-![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/23.-Preview-of-Tag-list.webp)
+![Preview Tag List Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/23.-Preview-of-Tag-list.webp)
 
 This way you can easily integrate Constant Contact with Fluent Forms!

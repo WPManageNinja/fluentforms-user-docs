@@ -11,7 +11,7 @@ First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Pa
 
 Now, go to **Mollie** in the top navbar and click **Enable Mollie Payment Method.** The **Mollie Payment Method** will be enabled globally for all forms. 
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/1.-Enable-Mollie-payment-method-scaled.webp)
+![Enable Mollie Payment Method Integrate Mollie](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/1.-Enable-Mollie-payment-method-scaled.webp)
 
 ## Configure Mollie with Fluent Forms
 
@@ -21,7 +21,7 @@ Before starting the configuration, select any **Payment Mode** between **Test** 
 
 Then, you need to obtain the **API  Key** from your **Mollie Account**.
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/2.-Test-API-Key-scaled.webp)
+![Test API Key](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/2.-Test-API-Key-scaled.webp)
 
 ### Get the API Credentials from Mollie
 
@@ -31,13 +31,13 @@ First, log in to your Mollie account from [here](https://my.mollie.com/dashboard
 
 Once you log in to the **Mollie Dashboard**, go to the **Browse** section from the **Navbar**, and click the **Developers** option.
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/3.-Developers-tab.webp)
+![Developers Tab Fluent Forms](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/3.-Developers-tab.webp)
 
 Here, you will get your desired **API key** from the **Test API key** row, and copy it.
 
 > Copy the Live API Key to activate Live mode if Live is chosen as the payment mode.
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/4.-Copy-API-Key-1.webp)
+![Copy API Key](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/4.-Copy-API-Key-1.webp)
 
 **Now,** return to the **Mollie Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
 
@@ -45,7 +45,7 @@ Then, paste the **API Key** you copied from Mollie.
 
 Finally, press the **Save Settings** button and your Mollie account will be configured with **Fluent Forms** for your WordPress Site.
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/5.-Paste-API-Key-1-scaled.webp)
+![Paste API Key](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/5.-Paste-API-Key-1-scaled.webp)
 
 ## Integrate Mollie in Forms
 
@@ -55,7 +55,7 @@ Once you finish setting up your **Mollie** payment method, you can easily add th
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/Open-desired-form-4-scaled.webp)
+![Open Integrate Mollie](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/Open-desired-form-4-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by clicking the **Pencil Icon**.
 
@@ -63,7 +63,7 @@ Now, go to the **Payment Methods**, check the **Mollie** option, click the **Dro
 
 > To learn more details about the Payment Method field, read this Documentation.
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/6.-Add-Mollie-in-desired-form-1-scaled.webp)
+![Add Mollie Integrate Mollie](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/6.-Add-Mollie-in-desired-form-1-scaled.webp)
 
 Once you complete the edit, press the **Save Form** button to save all the changes.
 
@@ -71,14 +71,14 @@ Now, to embed and display the form on a specific **Page/Post**, **copy** this **
 
 Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/7.-Save-Form-scaled-3.webp)
+![Save Integrate Mollie](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/7.-Save-Form-scaled-3.webp)
 
 ## Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to **Mollie** to complete the payment process. 
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/8.-Submit-form.webp)
+![Submit Fluent Forms](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/8.-Submit-form.webp)
 
 Here is the preview of the **Mollie Checkout Modal**. 
 
-![](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/9.-Preview-of-Mollie-.webp)
+![Preview Mollie Integrate Mollie](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/9.-Preview-of-Mollie-.webp)

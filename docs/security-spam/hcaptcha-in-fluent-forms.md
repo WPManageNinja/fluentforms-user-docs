@@ -16,13 +16,13 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
-![](/images/security-spam/hcaptcha-in-fluent-forms/edit-form-01-9-scaled.webp)
+![Edit hCaptcha](/images/security-spam/hcaptcha-in-fluent-forms/edit-form-01-9-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, select the desired **hCaptcha** **Input** field by **Clicking** on it or **Dragging** and **Dropping** it into your editor.
 
-![](/images/security-spam/hcaptcha-in-fluent-forms/new-14-scaled.webp)
+![hCaptcha step](/images/security-spam/hcaptcha-in-fluent-forms/new-14-scaled.webp)
 
 ## Customizing the hCaptcha Field
 
@@ -30,7 +30,7 @@ Once you add the hCaptcha field, you can customize it by hovering over it and cl
 
 This will open the **Input Customization** tab, where you can modify the following settings:
 
-![](/images/security-spam/hcaptcha-in-fluent-forms/input-customization-03-14-scaled.webp)
+![Input Customization Fluent Forms](/images/security-spam/hcaptcha-in-fluent-forms/input-customization-03-14-scaled.webp)
 
 Now, Located in the **Input Customization Tab**, these settings allow you to configure the essential aspects of the hCaptcha field:
 
@@ -38,7 +38,7 @@ Now, Located in the **Input Customization Tab**, these settings allow you to con
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-![](/images/security-spam/hcaptcha-in-fluent-forms/input-customize-04-scaled.webp)
+![Input Customize](/images/security-spam/hcaptcha-in-fluent-forms/input-customize-04-scaled.webp)
 
 ## Embed the Form into the Frontend
 
@@ -48,12 +48,12 @@ To display the form on a specific page or post, **Copy** the **Shortcode** from 
 
 Now, preview the form, click **Preview & Design** in the middle of the page.
 
-![](/images/security-spam/hcaptcha-in-fluent-forms/save-form-05-1-scaled.webp)
+![Save hCaptcha](/images/security-spam/hcaptcha-in-fluent-forms/save-form-05-1-scaled.webp)
 
 ### Preview of Added hCaptcha Field
 
 Here is a preview of the form with the **hCaptcha** field:
 
-![](/images/security-spam/hcaptcha-in-fluent-forms/preview-form-06.webp)
+![Preview hCaptcha](/images/security-spam/hcaptcha-in-fluent-forms/preview-form-06.webp)
 
 Congratulations! You have successfully added hCaptcha to your form in Fluent Forms.

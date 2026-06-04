@@ -16,11 +16,11 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 > [!Note]
 > Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Tags** field is available only in Post Forms.
 
-![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/1.-Open-desired-Post-form-6-scaled.webp)
+![Open Post Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/1.-Open-desired-Post-form-6-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Fields** on the right sidebar and open the **Taxonomy Fields** dropdown list by clicking the **Arrow Icon**. Now, choose the **Tags** field by clicking on it or **Drag & Drop** it into your editor.
 
-![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/2.-Add-Tags-field-scaled.webp)
+![Add Tags Field](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/2.-Add-Tags-field-scaled.webp)
 
 ## Customize Tags Field
 
@@ -32,7 +32,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 2. Advanced Options
 
-![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/3.-Input-Customization-tab-3-scaled.webp)
+![Input Customization Tab](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/3.-Input-Customization-tab-3-scaled.webp)
 
 ### 1. Tags
 
@@ -48,7 +48,7 @@ All the **Settings** under the **Tags** tab mentioned in the screenshot are brie
 
 **E. Required:** Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in. 
 
-![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/4.-Tags-option-scaled.webp)
+![Tags Option Fluent Forms](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/4.-Tags-option-scaled.webp)
 
 ### 2. Advanced Options
 
@@ -66,7 +66,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/5.-Advanced-Options-9-scaled.webp)
+![Advanced Options](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/5.-Advanced-Options-9-scaled.webp)
 
 ## Configure Post Feed Settings
 
@@ -81,12 +81,12 @@ To embed and display the form on a specific Page/Post on your site, **copy** the
 Once you complete the customization, click the **Save** **Form** button to save all your changes.
 Also, to see the form preview, click the **Preview & Design** button in the middle.
 
-![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/6.-Save-Form-6-scaled.webp)
+![Save Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/6.-Save-Form-6-scaled.webp)
 
 ## Preview of Tags field
 
 Here is the preview of the added **Tags** field under the Post Form.
 
-![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/7.-Form-Preview--scaled.webp)
+![Preview Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/7.-Form-Preview--scaled.webp)
 
 This way you can easily add the **Tags** fields in Fluent Forms!

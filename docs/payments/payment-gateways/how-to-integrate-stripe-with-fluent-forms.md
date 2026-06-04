@@ -13,7 +13,7 @@ First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Pa
 
 Now, go to **Stripe** in the top navbar and click **Enable** **Stripe Payment Method.** The **Stripe Payment Method** will be enabled globally for all forms. 
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/1.-Enable-Stripe-Payment-method-scaled.webp)
+![Enable Stripe Payment Method Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/1.-Enable-Stripe-Payment-method-scaled.webp)
 
 ## Configuring Stripe with Fluent Forms
 
@@ -25,13 +25,13 @@ Then, click the **Connect with Stripe** button to redirect you to the **Stripe L
 
 Do not forget to press the **Save Stripe Settings** button to save all your changes. 
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/2.-Connect-with-Stripe-scaled.webp)
+![Connect With Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/2.-Connect-with-Stripe-scaled.webp)
 
 Here, provide the login credentials of your desired **Stripe Account** that you want to connect with **Fluent Forms**, click the **Submit** button, and your **Stripe** account will be configured. 
 
 > If you do not have an existing Stripe Account, click here to open a new account.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/3.-Submit-button.webp)
+![Submit Button Fluent Forms](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/3.-Submit-button.webp)
 
 **Remember**, **Fluent Forms** offers the above-mentioned **Connect with** **Stripe** option by default for secure and easy integration with **Stripe**. Also, Fluent Forms recommends using this option for all Stripe Verified Partners.
 
@@ -57,15 +57,15 @@ Then, copy the **Webhook URL** and the recommended **Webhook Events** for smooth
 
 Do not forget to press the **Save Stripe Settings** button to save all your changes. 
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/4.-Add-stripe-webhook-URL-scaled.webp)
+![Add Stripe Webhook URL Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/4.-Add-stripe-webhook-URL-scaled.webp)
 
 Now, visit your [Stripe Account Dashboard](https://dashboard.stripe.com/account/webhooks), click the **Developers** from the bottom-left corner, and press the **Webhooks**.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/5.-Developers-Webhooks-scaled.webp)
+![Developers Webhooks Fluent Forms](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/5.-Developers-Webhooks-scaled.webp)
 
 Click the **+ Add destination** button.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/6.-Add-Destination-button-scaled.webp)
+![Add Destination Button Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/6.-Add-Destination-button-scaled.webp)
 
 Now, choose the events recommended by the **Fluent Forms** for **Stripe** to send to your endpoint. 
 
@@ -89,17 +89,17 @@ You can find your **desired events** by entering their **Name** or **Description
 
 Once you select all the suggested **Webhook Events**, click the **Continue** button.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/7.-Select-Events-scaled.webp)
+![Select Events Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/7.-Select-Events-scaled.webp)
 
 Then, select the **Webhook endpoint** and again click the **Continue** button.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/8.-Webhook-endpoint-scaled.webp)
+![Webhook Endpoint Fluent Forms](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/8.-Webhook-endpoint-scaled.webp)
 
 Finally, paste the **Webhook URL** you copied from the **Stripe Settings** page into the **Endpoint URL** field and click the **Create destination** button. 
 
 And, the **Stripe Webhooks** will be configured with your WordPress Site!
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/9.-Create-Destination-button-scaled.webp)
+![Create Destination Button](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/9.-Create-Destination-button-scaled.webp)
 
 ## Integrating Stripe in Forms
 
@@ -109,7 +109,7 @@ Once you finish setting up your **Stripe** payment method, you can easily add th
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/Open-desired-form-scaled.webp)
+![Open Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/Open-desired-form-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by hovering over it and clicking the **Pencil Icon**.
 
@@ -123,7 +123,7 @@ Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dro
 
 > To learn more details about the Payment Method field, read this Documentation.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/10.-Embed-checkout-scaled.webp)
+![Embed Checkout Fluent Forms](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/10.-Embed-checkout-scaled.webp)
 
 Once you complete the edit, press the **Save Form** button to save all the changes.
 
@@ -131,13 +131,13 @@ Now, to embed and display the form on a specific **Page/Post**, **copy** this **
 
 Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/11.-Save-form-scaled.webp)
+![Save Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/11.-Save-form-scaled.webp)
 
 ## Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. 
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/12.-Form-Preview-.webp)
+![Preview Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/12.-Form-Preview-.webp)
 
 ## Form Specific Stripe Settings
 
@@ -145,13 +145,13 @@ You can also customize the **Stripe Settings** for a specific form according to 
 
 To customize the **Stripe Settings**, go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of a desired **Form**. 
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/Open-Form-Settings-scaled.webp)
+![Open Settings Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/Open-Form-Settings-scaled.webp)
 
 Once you are on the **Settings and Integrations** tab, click the **Payment Settings** option, scroll down to **Stripe Settings**, and customize it based on your needs.
 
 Do not forget to click the **Save Settings** button to save all your changes. 
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/13.-Form-Specific-Stripe-Settings-scaled.webp)
+![Specific Stripe Settings](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/13.-Form-Specific-Stripe-Settings-scaled.webp)
 
 **All the Stripe Settings options mentioned above are briefly explained below:**
 
@@ -159,13 +159,13 @@ Do not forget to click the **Save Settings** button to save all your changes.
 
 Check the **Push Form Data to Stripe** to send the form submission date to your Stripe. 
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/14.-Stripe-meta-data-option.webp)
+![Stripe Meta Data Option](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/14.-Stripe-meta-data-option.webp)
 
 ### B. Stripe Account
 
 Here, you can select which stripe account credential (**Global** or **Custom**) will be used for this form. Select the **Custom Stripe Credentials** if you want to set up a different Stripe account for this specific form.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/15.-Custom-Stripe-Credentials.webp)
+![Custom Stripe Credentials](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/15.-Custom-Stripe-Credentials.webp)
 
 ### C. Stripe Payment Receipt
 
@@ -173,10 +173,10 @@ Check this option if you want to disable the option of receiving payment receipt
 
 > But we recommend you do not disable this option if you want to keep track of your payment transactions.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/16.-Stripe-Payment-Receipt.webp)
+![Stripe Payment Receipt](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/16.-Stripe-Payment-Receipt.webp)
 
 ### D. Stripe Descriptor
 
 Here, provide the text as per your wish (Contains between 5 and 22 characters) as a statement descriptor. If you keep it empty, your Form Name will be set as a statement descriptor.
 
-![](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/17.-Statement-Descriptor.webp)
+![Statement Descriptor Fluent Forms](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/17.-Statement-Descriptor.webp)

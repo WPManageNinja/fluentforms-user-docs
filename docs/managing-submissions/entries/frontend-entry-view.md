@@ -30,7 +30,7 @@ If you enable this option by checking the box, the submission page will be **hid
 
 After setting everything up, click the Save Settings button to apply the changes.
 
-![](/images/managing-submissions/entries/frontend-entry-view/01-1-1024x552.webp)
+![1024x552 Fluent Forms](/images/managing-submissions/entries/frontend-entry-view/01-1-1024x552.webp)
 
 ## Add Fronted View URL Link
 
@@ -40,18 +40,18 @@ You can also add a button for the entry’s frontend view link. Just click on th
 
 After adding the link, click the **Save Settings** button.
 
-![](/images/managing-submissions/entries/frontend-entry-view/2-2.webp)
+![Frontend Entry View step](/images/managing-submissions/entries/frontend-entry-view/2-2.webp)
 
 Now, when someone submits the form, they’ll see a link to view their entry on the frontend, just like in the screenshot example.
 
-![](/images/managing-submissions/entries/frontend-entry-view/3.webp)
+![Frontend Entry View step](/images/managing-submissions/entries/frontend-entry-view/3.webp)
 
 If you added a button for the entry frontend view link, they’ll see it, as shown in the screenshot below. After clicking on the button, the user will be able to see the submitted entries.
 
-![](/images/managing-submissions/entries/frontend-entry-view/4-2.webp)
+![Frontend Entry View step](/images/managing-submissions/entries/frontend-entry-view/4-2.webp)
 
 ### View the Frontend Entry
 
 Visit the generated link, and you will now see the **Frontend view** of your form submission.
 
-![](/images/managing-submissions/entries/frontend-entry-view/5-3.webp)
+![Frontend Entry View step](/images/managing-submissions/entries/frontend-entry-view/5-3.webp)

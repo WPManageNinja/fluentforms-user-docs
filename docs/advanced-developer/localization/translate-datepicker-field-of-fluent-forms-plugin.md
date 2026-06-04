@@ -12,7 +12,7 @@ Now, open the functions.php file of your theme.
 
 > Use a child theme to avoid losing changes during updates.
 
-![](/images/advanced-developer/localization/translate-datepicker-field-of-fluent-forms-plugin/function.php-file-01-scaled.webp)
+![functions.php File](/images/advanced-developer/localization/translate-datepicker-field-of-fluent-forms-plugin/function.php-file-01-scaled.webp)
 
 ### Translate Month Names
 

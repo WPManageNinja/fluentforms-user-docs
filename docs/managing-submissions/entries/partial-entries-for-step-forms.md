@@ -20,12 +20,12 @@ Enable the **Resume Stop from last step form session** option, allowing users to
 
 **Example:** If the user fills up three-step from five steps forms and leaves the form or refreshes the page, he will resume in the step he left, which is the third step.
 
-![](/images/managing-submissions/entries/partial-entries-for-step-forms/Partial-Steps-scaled.webp)
+![Partial Steps Fluent Forms](/images/managing-submissions/entries/partial-entries-for-step-forms/Partial-Steps-scaled.webp)
 
 ### View Partial Entries
 
 You can track incomplete submissions by hovering over the **Settings & Entries** and click the **Partial Entries** tab in your Forms dashboard.
 
-![](/images/managing-submissions/entries/partial-entries-for-step-forms/partial-entries-show-scaled.webp)
+![Partial Entries Show](/images/managing-submissions/entries/partial-entries-for-step-forms/partial-entries-show-scaled.webp)
 
 After setting up the form your users can leave a form midway and continue later without losing their data, improving overall user experience.

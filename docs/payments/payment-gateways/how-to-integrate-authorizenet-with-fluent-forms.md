@@ -10,7 +10,7 @@ First, go to **Global Settings** from the **Fluent Forms** Navbar, open the **Pa
 
 Now, go to Authorize.Net in the top navbar and click **Enable Authorize.Net Payment Method**. The Authorize.Net Payment Method will be enabled globally for all forms. 
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/enable-authorized-scaled.webp)
+![Enable Authorized integrate Authorize.Net](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/enable-authorized-scaled.webp)
 
 ## Configure Authorize.Net with Fluent Forms
 
@@ -22,7 +22,7 @@ Then, you need to select Transaction Type, obtain the **API  Login ID**, **Trans
 
 Also, you need to set up the **Authorize.Net Webhook Setup**. Copy your website webhook URL from this page for later use.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/credentials-02-scaled.webp)
+![Credentials Fluent Forms](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/credentials-02-scaled.webp)
 
 ## Get the Credentials
 
@@ -38,25 +38,25 @@ First, log in to your Authorize account from [here](https://login.authorize.net/
 
 Next, you will find the Transaction Key from the dropdown options. To get the transaction key, click the **GENERATE NEW TRANSACTION KEY** button. 
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/API-Credentials-03-scaled.webp)
+![API Credentials](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/API-Credentials-03-scaled.webp)
 
 Here appears a new pop-up. Simply, click on the **SUBMIT** button.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/submit-button-04.webp)
+![Submit Button](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/submit-button-04.webp)
 
 Here, a new pop-up arrives. Enter the passcode from your mail and click the **CONFIRM** button.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/passcode-05.webp)
+![Passcode Fluent Forms](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/passcode-05.webp)
 
 Now your **Transaction key** has been generated. **Copy** this for future use.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/new-transaction-key-created-06.webp)
+![Transaction Key Created](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/new-transaction-key-created-06.webp)
 
 ### WebHook Signature Key
 
 To get the signature key, click on the **GENERATE NEW SIGNATURE KEY** button. Here appears a new pop-up. Then follow the steps similar to the transaction key, and you’ll get a webhook signature key. Simply copy for future use.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/new-signature-key-created-07-scaled.webp)
+![Signature Key Created](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/new-signature-key-created-07-scaled.webp)
 
 ### Required Authorize.Net Webhook Events Setup
 
@@ -64,11 +64,11 @@ For Authorize.Net to function completely for payments, you must configure your A
 
 To set up events, go to the **Accounts & API Settings** sections and scroll down, and click on the **Webhooks** section. 
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/access-webhook-08-scaled.webp)
+![Access Webhook](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/access-webhook-08-scaled.webp)
 
 Here appears a new pop-up. Now, click the **Create a Webhook notification** button.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/create-a-webhook-notification-09-scaled.webp)
+![Create Webhook Notification](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/create-a-webhook-notification-09-scaled.webp)
 
 Now, enter all the webhook information. Enter the **Webhook notification name**, the **Endpoint** **URL** that you **copied** from your website before, and select the **Status** option **Active**.
 
@@ -90,11 +90,11 @@ Then, select the **Payment Events** that are below and click the **Save** button
 
 - Fraud Declined (net.authorize.payment.fraud.declined)
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/webhook-information-added-10-scaled.webp)
+![Webhook Information Added](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/webhook-information-added-10-scaled.webp)
 
 Now, your webhook is in an active status.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/webhook-active-11-scaled.webp)
+![Webhook Active](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/webhook-active-11-scaled.webp)
 
 Now, return to the **Authorize.net Payment Method Settings** from the **Global Settings** section of Fluent Forms.
 
@@ -102,7 +102,7 @@ Then, paste the **API Login ID**, **Transaction key**, and **Webhook Signature k
 
 Finally, press the **Save Settings** button, and your Authorize.net account will be configured with Fluent Forms for your WordPress Site.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/save-settings-12-scaled.webp)
+![Save Settings integrate Authorize.Net](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/save-settings-12-scaled.webp)
 
 ## Integrate Authorize.Net in Forms
 
@@ -112,7 +112,7 @@ Note: If you do not have any existing Payment Forms, read this [Documentation](/
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/Edit-form-13-scaled.webp)
+![Edit integrate Authorize.Net](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/Edit-form-13-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Customization** menu on the right side of the added **Payment Method** field by clicking the **Pencil** Icon.
 
@@ -122,7 +122,7 @@ Now, go to the Payment Methods, check the **Authorize.Net** option, click the **
 
 To learn more details about the Payment Method field, read this [Documentation](/docs/add-payment-method-field-in-payment-forms). 
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/payment-method-label-14-scaled.webp)
+![Payment Method Label](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/payment-method-label-14-scaled.webp)
 
 Once you complete the edit, press the Save Form button to save all the changes.
 
@@ -130,10 +130,10 @@ To embed and display your form on a specific **page or post**, simply **copy the
 
 If you’d like to see how the form looks before publishing, click on the **Preview & Design** button in the middle of the page. This allows you to review and adjust the design before making it live.
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/Copy-forms-shortcode-15-scaled.webp)
+![Copy Shortcode](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/Copy-forms-shortcode-15-scaled.webp)
 
 ## Preview of Added Payment Method
 
 Here is the preview of the **Payment Method** that we just added. 
 
-![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/preview-of-authorized-payment-16.webp)
+![Preview Authorized Payment integrate Authorize.Net](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/preview-of-authorized-payment-16.webp)

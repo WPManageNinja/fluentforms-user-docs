@@ -34,7 +34,7 @@ Under this tab, you will get the following options to configure your payment set
 
 Once you are done, click **Save Settings** to save the configuration.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/1.-General-tab-under-Payment-Settings-scaled.webp)
+![General Tab Under Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/1.-General-tab-under-Payment-Settings-scaled.webp)
 
 ### 2. Currency
 
@@ -50,7 +50,7 @@ Under this tab, you will get the following options to define your currency setti
 
 Once you are done, click **Save Settings** to save the configuration.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/2.-Currency-settings-tab-scaled.webp)
+![Currency Settings Tab](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/2.-Currency-settings-tab-scaled.webp)
 
 ### 3. Pages & Subscription Management
 
@@ -59,7 +59,7 @@ Under this tab, you will get the option to display your **Payment History** and 
 Remember, this setting also functions globally for all Fluent Forms.
 Once you are done, click **Save Settings** to save the configuration.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/3.-Page-and-Subscription-Management-tab-1-scaled.webp)
+![Page And Subscription Management Tab](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/3.-Page-and-Subscription-Management-tab-1-scaled.webp)
 
 **All the settings mentioned above are briefly explained below:**
 
@@ -71,7 +71,7 @@ You can also add the **Payment History** using this shortcode **[fluentform_paym
 
 Then, click the **Save** button to save all the changes, and press the **Preview** button in the middle to see the form preview.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/4.-Payment-History-shortcode-scaled.webp)
+![Payment History Shortcode](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/4.-Payment-History-shortcode-scaled.webp)
 
 Here, you can see the **Preview** of the **Payment History Page** where you will get the following options. 
 
@@ -79,7 +79,7 @@ Here, you can see the **Preview** of the **Payment History Page** where you will
 
 - Payments: Under this section, only the logged-in users can see the Payment History of each single payment of their payment forms. From here, you can see the individual Payment Receipt by clicking the View link.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/5.-Preview-of-Payment-History.webp)
+![Preview Payment History Configure Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/5.-Preview-of-Payment-History.webp)
 
 #### B. Payment Receipt Page
 
@@ -89,16 +89,16 @@ You can also add the Payment Receipt using this shortcode **[fluentform_payment_
 
 Then, click the **Save** button to save all the changes, and press the **Preview** button in the middle to see the form preview.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/6.-Payment-Receipt-shortcode-scaled.webp)
+![Payment Receipt Shortcode](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/6.-Payment-Receipt-shortcode-scaled.webp)
 
 Here, you can see the **Preview** of a single **Payment Receipt** under the **Payment Receipt** page. 
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/7.-Form-of-a-specific-Pyment-Receipt.webp)
+![Specific Pyment Receipt](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/7.-Form-of-a-specific-Pyment-Receipt.webp)
 
 > [!Tip]
 > Open a single payment receipt from **Payments** by clicking **View** on that transaction.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/8.-Payment-History-View-button.webp)
+![Payment History View Button](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/8.-Payment-History-View-button.webp)
 
 #### C. Subscription Management
 
@@ -106,7 +106,7 @@ Enable this option if you want to allow your users to manage their own subscript
 
 Once you are done, click **Save Settings** to save the configuration.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/9.-Subscription-Management-option.webp)
+![Subscription Management Option](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/9.-Subscription-Management-option.webp)
 
 ## Configuring Payment Settings in a Specific Form
 
@@ -116,7 +116,7 @@ First, go to the **Forms** from the **Fluent Forms Navbar**, and click the **Set
 
 > If you don't have an existing Payment Form, read this documentation to crate a new one.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/Open-Form-Settings-3-scaled.webp)
+![Open Settings Configure Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/Open-Form-Settings-3-scaled.webp)
 
 Once you are on the **Settings and Integrations** tab, click the **Payment Settings** option, and you will get the following options. 
 
@@ -132,7 +132,7 @@ Once you are on the **Settings and Integrations** tab, click the **Payment Setti
 
 Do not forget to click the **Save Settings** button to save all your changes. 
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/4.-Form-specific-Payment-Settings-scaled.webp)
+![Specific Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/4.-Form-specific-Payment-Settings-scaled.webp)
 
 ### Form-specific Payment Method Settings
 
@@ -146,7 +146,7 @@ On this page, you will also get **Three** major **Payment Method Settings** opti
 
 Do not forget to click the **Save Settings** button to save all your changes. 
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/5.-Form-specific-payment-method-settings-scaled.webp)
+![Specific Payment Method Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/5.-Form-specific-payment-method-settings-scaled.webp)
 
 > [!Note]
 > Form-specific payment options appear only when the gateway is enabled under **Global Settings → Payment Methods**.
@@ -157,4 +157,4 @@ To enable the desired **Payment Methods**, go to the **Global Settings** from th
 
 Now, go to your desired payment platform/s and check the **Enable** **Payment** **Method**. This will activate all your desired payment methods within the **Payment** **Fields** module for every form.
 
-![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/7.-Enable-desired-payment-methods-globally-for-all-forms-scaled.webp)
+![Enable Payment Methods Globally For All Configure Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/7.-Enable-desired-payment-methods-globally-for-all-forms-scaled.webp)
