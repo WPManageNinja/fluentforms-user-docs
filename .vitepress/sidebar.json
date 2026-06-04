@@ -718,6 +718,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "Overview",
+        "link": "/docs/integrations-overview"
+      },
+      {
         "text": "Email Marketing",
         "collapsed": true,
         "items": [
