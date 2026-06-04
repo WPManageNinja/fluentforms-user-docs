@@ -12,7 +12,7 @@ This article will guide you through adding the **Mask** input field in your Flue
 
 ## Adding Mask Input Field
 
-To learn how to add the Mask input field to the Fluent Forms, Follow these steps below-
+To add this field to your form, follow these steps:
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
