@@ -30,6 +30,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "Overview",
+        "link": "/docs/creating-forms-overview"
+      },
+      {
         "text": "Form Builder Basics",
         "collapsed": true,
         "items": [
