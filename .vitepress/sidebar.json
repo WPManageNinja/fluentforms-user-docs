@@ -1002,6 +1002,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "Overview",
+        "link": "/docs/advanced-developer-overview"
+      },
+      {
         "text": "Shortcodes & Smart Codes",
         "collapsed": true,
         "items": [
