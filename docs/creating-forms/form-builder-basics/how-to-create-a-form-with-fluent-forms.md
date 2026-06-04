@@ -12,7 +12,7 @@ You can also start from a [pre-built template](/docs/using-and-customizing-pre-b
 
 ## Creating a New Form
 
-To start, log in to your **WordPress Dashboard**. Now, navigate to the **Fluent Forms >** **Forms** from the left sidebar. Then click on the **+ Add New Form** button in the Forms Section. 
+To start, log in to your **WordPress Dashboard**. Now, navigate to the **Fluent Forms > Forms** from the left sidebar. Then click on the **+ Add New Form** button in the Forms Section. 
 
 ![Add new form](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms/1.-Add-new-form-button-scaled.webp)
 
