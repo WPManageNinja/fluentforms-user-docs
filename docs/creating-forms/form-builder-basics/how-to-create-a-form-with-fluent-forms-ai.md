@@ -2,39 +2,36 @@
 
 Fluent Forms now integrates Fluent Forms AI, making it easier for users to create Forms effortlessly with simple commands.  This article will guide you through creating a form using **Fluent Forms AI**.
 
-> Remember, this is Fluent Forms' free default AI feature for quick and easy form creation, and it also supports Form Creation using OpenAI ChatGPT.
+> [!Note]
+> **Fluent Forms AI** is the built-in, free AI assistant for quick form creation—no extra setup required. For advanced generation with your own OpenAI API key, use **OpenAI ChatGPT** (Pro). See [How to Create a Form with OpenAI ChatGPT](/docs/how-to-create-a-form-with-openai-chatgpt).
 
 ## Create Forms using Fluent Forms AI
 
-To learn how to create a Form using Fluent Forms AI, follow the steps with screenshots below – 
-
 To start, log into your **WordPress Dashboard**. Now, navigate to the **Fluent Forms** **Plugin** and click the **New Form** button from the left sidebar.  Or, go to the **Fluent Forms** Navbar**,** click the **Forms**, and click the **+ Add New Form** button. 
 
-![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/1.-Add-new-form-button-scaled-2.webp)
+![Add new form](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/1.-Add-new-form-button-scaled-2.webp)
 
 Now, a pop-up will appear with various options. Click the **Create using AI** tab.
 
-![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/2.-Create-Using-AI-tab.webp)
+![Create using AI tab](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/2.-Create-Using-AI-tab.webp)
 
 Here, a new pop-up will appear with the following options:
 
-- Create a Form for: Here, you need to enter the Title and Purpose as prompts to specify the form you want to create (e.g., survey, payment, registration form, etc.).
-
-- Suggestions: Here, you’ll see some pre-built commands. Simply select the type of form you want and click the button. The ready-made command will automatically be added to the Create a Form field.
-
-- Including these questions: Here, you can provide extra detailed instructions about the information you want to include in your form.
+ * **Create a Form for:** Here, you need to enter the Title and Purpose as prompts to specify the form you want to create (e.g., survey, payment, registration form, etc.).
+ * **Suggestions:** Here, you’ll see some pre-built commands. Simply select the type of form you want and click the button. The ready-made command will automatically be added to the Create a Form field.
+ * **Including these questions:** Here, you can provide extra detailed instructions about the information you want to include in your form.
 
 **For example**, here you wanted to create a form for collecting reviews for your products, so you can choose the **Product Reviews** pre-built command. You can also include instructions based on your requirements.
 
 Once you are done providing your desired commands, click the **Create** button.
 
-![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/3.-Create-button.webp)
+![Fluent Forms AI create](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/3.-Create-button.webp)
 
 Here you can see that the **Product Review Form** is fully ready with less time and effort only by using a few simple commands of Fluent Forms AI!
 
 Also, you can edit the **Form Name** by clicking the **Pencil Icon** in the top left corner.
 
-![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/4.-Form-is-ready-scaled.webp)
+![AI form editor](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/4.-Form-is-ready-scaled.webp)
 
 ## Form Customization
 
@@ -54,9 +51,9 @@ e. **Duplicate**: Click this button and the field will be duplicated.
 
 f. **Delete**: Click this **Trash Icon** and your field will be deleted.
 
-> Remember, separate documentation is available for each Input Field under the Field Type category. Read them thoroughly to understand the detailed use of each field. To learn more details about the other options of the form Editor, read this Documentation.
+> **Tip:** Each field has a dedicated guide under **General Fields**, **Advanced Fields**, **Payment Fields**, and related sections in the documentation sidebar. For Form Builder layout and editor options, see [Fluent Forms User Interface](/docs/fluent-forms-user-interface) and [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms).
 
-![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/5.-Input-Customization-scaled.webp)
+![Input customization](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/5.-Input-Customization-scaled.webp)
 
 ## Add New Fields
 
@@ -66,9 +63,9 @@ To add the desired fields, click the **Plus Icon**, go to the desired **Fields**
 
 You can also **search for the desired fields** through their name using the **Search Bar.**
 
-> Remember, separate documentation is available for each Input Field under the Field Type category. Read them thoroughly to understand the detailed use of each field.
+> **Tip:** See the **General Fields**, **Advanced Fields**, and other field categories in the documentation sidebar for guides on each input type.
 
-![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/6.-Add-new-fields-scaled.webp)
+![Add form fields](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/6.-Add-new-fields-scaled.webp)
 
 ## Embed Form into Frontend
 
@@ -78,12 +75,12 @@ Also, to see the form preview, click the **Preview & Design** button in the midd
 
 Finally, press the **Save** **Form** button to save all your changes.
 
-![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/7.-Save-Form-scaled.webp)
+![Save Fluent Forms](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/7.-Save-Form-scaled.webp)
 
 ## Preview of Form
 
 Here is the **preview** of the **Form** that we just created.
 
-![](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/8.-Form-Preview-1-1.webp)
+![AI form preview](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/8.-Form-Preview-1-1.webp)
 
 This way you can easily create the Forms by using the Fluent Forms AI!
