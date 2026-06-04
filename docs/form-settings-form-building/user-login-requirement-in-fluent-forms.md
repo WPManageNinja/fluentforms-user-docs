@@ -1,33 +1,35 @@
 # User Login Requirement in Fluent Forms
 
-The User Login Requirement feature in Fluent Forms ensures that only logged-in or registered users can access and fill out specific forms. Follow these steps to enable and customize the login requirement.
+The **User Login Requirement** feature lets you restrict a form so only logged-in WordPress users can view and submit it. Visitors who are not signed in see a custom message instead of the form.
+
+This guide shows how to enable and customize the login requirement in Fluent Forms.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/ISKIlYzQ__U" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Access Form Settings
+### Select your form
 
-First, go to **Forms** from the Fluent Forms navbar and select the **Desired Form** for which form you want to add user login requirements features.
+Open **Forms** from the Fluent Forms navbar and choose the form you want to protect.
 
 ![Select form](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-login-form-01-scaled.webp)
 
-### Enable the User login Requirement
+### Enable login requirement
 
-Now, navigate to the **Settings & Integrations** tab of the form to which you want to restrict access. Then select Form **Settings** sections **Scheduling & Restrictions** options (located below the Scheduling & Restrictions section).
-
-After that, in the **Login Requirement Settings**, Toggle on **Require user to be logged** **in** button to enable the **Login Requirement Settings** options.
+Go to **Settings & Integrations → Settings → Scheduling & Restrictions**. In **Login Requirement Settings**, turn on **Require user to be logged in**.
 
 ![Login requirement toggle](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-login-reqiurement-02-scaled.webp)
 
-### Customize the message of the logged-out user
+### Customize logged-out message
 
-Now, define the message you want to display to users who are not logged in. For example: "You must be logged in to access this form. Please log in or register to continue."
+Enter the message shown to visitors who are not logged in.
 
-This message will guide users in logging in or signing up for an account.
+**For example:** “You must be logged in to access this form. Please log in or register to continue.”
 
-After completing your customization, click **Save Settings** to apply the changes.
+This text helps users sign in or create an account before they can submit the form.
+
+Click **Save Settings** to apply your changes.
 
 ![Logged-out user message](/images/form-settings-form-building/user-login-requirement-in-fluent-forms/user-loggin-message-03-scaled.webp)
 
-By enabling the User Login Requirement, you can secure and targeted access to your forms, providing a better user experience who can submit form entries.
+With **User Login Requirement** enabled, you control who can access each form and give logged-out visitors clear next steps.
