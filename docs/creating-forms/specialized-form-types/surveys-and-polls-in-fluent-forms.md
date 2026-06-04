@@ -24,13 +24,13 @@ To build your survey or poll, add input fields such as:
 
 These fields will define the structure and interactivity of your survey or poll.
 
-![](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/01-scaled-2.webp)
+![Enable survey module](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/01-scaled-2.webp)
 
 ### Configuring Survey Settings
 
 Go to **Settings & Integration** from the top navbar. From the **Settings** section, scroll down to find the **Survey Result** options. 
 
-![](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/02-1-scaled.webp)
+![Add new form](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/02-1-scaled.webp)
 
 **Append:** Now enable the Append to append survey results to the confirmation message. 
 
@@ -40,13 +40,13 @@ Go to **Settings & Integration** from the top navbar. From the **Settings** sect
 
 If you want to display form labels and counts when displaying the survey results, turn on the **Show Label** & **Show Counts** option. Then click the **Save Settings** button.
 
-![](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/03-1-scaled-2.webp)
+![Survey form fields](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/03-1-scaled-2.webp)
 
 Copy and paste the form's shortcode into the desired page or post.
 
 After submission, survey results will appear in **Chart** format, as shown in the screenshot below.
 
-![](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/04-scaled-2.webp)
+![Survey settings](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/04-scaled-2.webp)
 
 ### Displaying Survey Results on a Page
 
@@ -78,4 +78,4 @@ See the below-customized shortcode, which includes multiple fields by separating
 
 `[[fluentform_survey form_id="89" label='yes' counts='yes' field_name='input_radio','checkbox']]`
 
-![](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/05.webp)
+![Survey form preview](/images/creating-forms/specialized-form-types/surveys-and-polls-in-fluent-forms/05.webp)
