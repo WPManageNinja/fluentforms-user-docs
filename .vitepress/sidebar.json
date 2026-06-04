@@ -454,6 +454,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "Overview",
+        "link": "/docs/notifications-confirmations-overview"
+      },
+      {
         "text": "Email Notifications",
         "collapsed": true,
         "items": [
