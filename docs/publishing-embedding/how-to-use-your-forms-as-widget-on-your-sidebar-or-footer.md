@@ -10,7 +10,7 @@ This guide will walk you through the step-by-step process of adding your form as
 
 ## Access WordPress Widget Settings
 
-To access Widget Settings, first, you need to create a form that you want to use.
+To access Widget Settings, first, you need to [create a form](/docs/how-to-create-a-form-with-fluent-forms) that you want to use.
 
 Now, navigate to your WordPress Dashboard. Hover over the **Appearance** menu and click the **Widget** section. Now select the section where you want to add your form **Sidebar** or **Footer**.
 

@@ -14,7 +14,7 @@ First, open the [Elementor](https://elementor.com/) editor for the page where yo
 
 ![embed your forms using Elementor Widget step](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/01-3.webp)
 
-Now, choose the form you want to add to the page from the drop-down menu in the widget. If you have pre-built forms, you’ll see them in the dropdown menu, and you can **Select a Fluent Forms** here. If not, you can create a new form using Fluent Forms.
+Now, choose the form you want to add to the page from the drop-down menu in the widget. If you have pre-built forms, you’ll see them in the dropdown menu, and you can **Select a Fluent Forms** here. If not, you can [create a new form](/docs/how-to-create-a-form-with-fluent-forms) using Fluent Forms.
 
 ![embed your forms using Elementor Widget step](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/02-9.webp)
 
@@ -78,4 +78,4 @@ Also, you can customize the color of your form's link and image background.
 
 **Image Background**: Add an image as the form’s background for more design options.
 
-Using the Fluent Forms widget in Elementor makes adding and styling forms on your WordPress site simple.
+Using the Fluent Forms widget in Elementor makes adding and styling forms on your WordPress site simple. You can also embed forms in the [Gutenberg block editor](/docs/how-to-embed-your-forms-directly-in-gutenberg-layout) or as a [sidebar or footer widget](/docs/how-to-use-your-forms-as-widget-on-your-sidebar-or-footer).
