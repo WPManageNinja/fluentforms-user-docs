@@ -644,6 +644,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "Overview",
+        "link": "/docs/managing-submissions-overview"
+      },
+      {
         "text": "Entries",
         "collapsed": true,
         "items": [
