@@ -2,7 +2,8 @@
 
 In **Fluent Forms**, integrating **Constant Contact**, an integrated email marketing, marketing automation, and small business CRM, allows you to grow your Constant Contact list through the users of Fluent Forms.  This article will guide you through integrating **Constant Contact** with **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Constant Contact is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Constant Contact** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Constant Contact Integration
 
@@ -46,7 +47,8 @@ Then, click the **Generate** **Client Secret** button next to the Client ID to g
 
 Now, copy the **Client Secret** by clicking the **Copy Icon** on the right side, and press the Close button.
 
-> Remember, you can see the Client Secret for one time, so don’t forget to keep it safe.
+> [!Note]
+> **Client Secret** is shown only once. Copy and store it securely before leaving the page.
 
 ![](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/7.-Copy-Client-Secret.webp)
 

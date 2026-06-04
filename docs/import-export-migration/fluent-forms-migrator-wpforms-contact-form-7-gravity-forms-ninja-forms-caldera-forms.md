@@ -4,7 +4,8 @@ Fluent Form helps migrate forms and form entries data easily and hassle-free wit
 
 This guide will walk you through the migration process of any form into fluent forms with just a few steps.
 
-> Remember that previously imported forms and entries will be reset and updated during a new migration.
+> [!Warning]
+> Running the migrator again **resets and updates** previously imported forms and entries. Back up your data first.
 > 
 > 
 > 

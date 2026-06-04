@@ -2,7 +2,8 @@
 
 **Fluent Forms** offers **Taxonomy Fields** that allow you to group your posts based on categories, tags, and other taxonomies available on your WordPress site. 
 
-> Remember, you will get this Taxonomy Fields Module only in a Post Form. You can also use your own Custom Taxonomy Fields. To learn how to add custom Taxonomy Fields, read this Documentation.
+> [!Note]
+> **Taxonomy Fields** appear only in **Post Forms**. For custom taxonomies, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
 
 This article will guide you through adding the **Tags Taxonomy Field** in your Fluent Forms for your WordPress Site. This **Tags** field will allow your users to write a Tag and submit their posts under the set tag directly in your WordPress Site Tag through the form.
 
@@ -12,7 +13,8 @@ To learn how to add the Tags field to the Post Forms in Fluent Forms, follow the
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> If you don’t have an existing Post Form, read this Documentation to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will only get the Tags field under the Post Forms.
+> [!Note]
+> Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Tags** field is available only in Post Forms.
 
 ![](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/1.-Open-desired-Post-form-6-scaled.webp)
 

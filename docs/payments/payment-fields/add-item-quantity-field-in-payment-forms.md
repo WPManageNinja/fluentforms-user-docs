@@ -76,7 +76,8 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
 
-> Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
+> [!Note]
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
 ![](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/6.-Payment-Method-fields-scaled.webp)
 

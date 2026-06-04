@@ -64,6 +64,7 @@ Once you are on the **Editor** page, go to the **Input Fields** on the right sid
 
 Finally, click the **Save Form** button to integrate your configured reCAPTCHA into this form.
 
-> Remember, you can not add the reCaptcha field for a specific form if you already enabled it globally for all forms.
+> [!Note]
+> You cannot add a per-form **reCAPTCHA** field when reCAPTCHA is already enabled globally for all forms.
 
 ![](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/7.-reCAptcha-input-field-Save-Form-button-scaled.webp)

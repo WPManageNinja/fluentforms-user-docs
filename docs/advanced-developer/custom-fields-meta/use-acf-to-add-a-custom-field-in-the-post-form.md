@@ -62,7 +62,8 @@ After adding the desired custom field in the ACF, it is time to use this in a Po
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> Remember, you can use the ACF Field only in a Post Form. To learn the whole process of creating a Post Form, read this Documentation.
+> [!Note]
+> **ACF** fields work only in **Post Forms**. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
 
 ![](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/7.-Open-desired-form-scaled.webp)
 
@@ -70,7 +71,8 @@ Once you are on the Editor page, you can see [Post Title](/docs/add-post-title-f
 
 Now to add the “**Post Reviewer”** **ACF** **Field** in this form,  go to the **Input Fields** on the right sidebar and open the **General Fields** dropdown list by clicking the **Arrow Icon**. Then, choose the **Text Area** field by clicking on it or **Drag & Drop** it into your editor. 
 
-> Remember, you have to choose a similar Input Field type that you selected in the ACF Field Type. For example, you can see that I added the Text as field type in the ACF. That is why, I added the Text Area input field here.
+> [!Note]
+> Match the Fluent Forms input type to your **ACF field type** (for example, use a compatible text field when ACF is set to **Text**).
 
 ![](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/8.-Add-Text-Area-field-in-a-Post-Form-scaled.webp)
 
@@ -92,7 +94,8 @@ Under the **ACF Plugin Mapping,** you will get two types of field mapping option
 
 Also, if you want to add multiple general fields, then click the **+Add Another General Field** button in the right corner, and to delete any field, then click the **Cross Icon**.
 
-> Remember, here, you need to map your ACF Field with the corresponding Fluent Forms Field.
+> [!Note]
+> Map each **ACF field** to the matching **Fluent Forms** field in the feed settings.
 
 Once the setup is done, click the **Save Feed** button, and your Post Feed will be configured. Now, your ACF Field integration will function successfully!
 

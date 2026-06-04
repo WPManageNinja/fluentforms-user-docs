@@ -4,7 +4,8 @@ Create a user-friendly registration form with Fluent Forms to make the WordPress
 
 This article will guide you through creating a **User Registration Form** with **Fluent Forms** on your WordPress site step by step.
 
-> Remember, for testing the user registration fucntionality, you need to submit the form in logged-out or incognito mode.
+> [!Note]
+> To test **user registration**, submit the form while **logged out** or in an **incognito/private** browser window.
 
 ## Enable the User Registration Module
 
@@ -18,6 +19,7 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Use
 
 Once you enable the user registration form, now create a registration form.  Go to the **Fluent Forms Dashboard** and **Create a new form**.
 
+> [!Note]
 > If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
 
 Now, we recommend to add the following fields to the form:
@@ -52,7 +54,8 @@ A new Window page will appear. Now, customize the User Registration feed accordi
 
 **E. User Meta**: Use the **User Meta** section to add custom user meta fields. In the first column, type the **meta key**. In the second column, select the corresponding **form field value**. You can add multiple meta keys by clicking the **Plus Icon.**
 
-> Remember, User Meta Key is the form field’s name attribute!
+> [!Note]
+> The **User Meta** key must match the form field’s **name attribute**.
 
 **F. Auto Login:** If you want to allow the user to log in automatically after submitting the form, enable the option "**Allow the user to log in automatically after registration**."
 

@@ -2,7 +2,8 @@
 
 **Fluent Forms** integrates [MailerLite](http://mailerlite.com) an email marketing tool that helps you to grow your MailerLite Subscriber list through the users of Fluent Forms. This article will guide you through integrating **MailerLite** with **Fluent Forms** on your **WordPress Site**.  
 
-> Remember, MailerLite is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **MailerLite** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable MailerLite Integration
 

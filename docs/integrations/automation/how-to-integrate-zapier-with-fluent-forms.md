@@ -4,7 +4,8 @@
 
 This article will guide you through integrating **Zapier** with **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Zapier is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Zapier** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Zapier Integration
 

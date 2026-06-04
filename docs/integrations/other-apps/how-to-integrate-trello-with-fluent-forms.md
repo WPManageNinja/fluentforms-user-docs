@@ -4,7 +4,8 @@ Trello is an integrated email marketing, marketing automation, and small busines
 
 This article will guide you through integrating **Trello** with **Fluent Forms** on your **WordPress Site**. 
 
-> Remember, Trello is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Trello** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Trello Integration
 

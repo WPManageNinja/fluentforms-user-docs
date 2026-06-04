@@ -8,7 +8,8 @@ To learn how to add the Featured Image field to the Post Forms in Fluent Forms, 
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
-> If you don’t have an existing Post Form, read this Documentation to create a new one. For example, I choose an existing Post Form to show the whole process. Remember, you will get the Featured Image field only under the Post Forms.
+> [!Note]
+> Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Featured Image** field is available only in Post Forms.
 
 ![](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/1.-Open-desired-Post-form-3-scaled.webp)
 

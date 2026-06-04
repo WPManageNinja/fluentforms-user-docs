@@ -2,7 +2,8 @@
 
 [Mollie](http://mollie.com) is a fantastic payment gateway for your webshop that allows **Fluent Forms** a smooth online payment transaction. This article will guide you through integrating **Mollie** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
 
-> Remember, Mollie Integration is a Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Mollie** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Mollie Payment Method
 

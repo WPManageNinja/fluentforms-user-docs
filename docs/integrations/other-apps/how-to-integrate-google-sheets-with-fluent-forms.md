@@ -2,7 +2,8 @@
 
 **Fluent Forms** allows you to integrate with **Google Sheets** to manage and organize form responses efficiently. This article will guide you through integrating **Google Sheets** in **Fluent Forms** on your **WordPress Site**. 
 
-> Remember, Google Sheets is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Google Sheets** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Google Sheets Integration
 
@@ -61,7 +62,8 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 Now, a pop-up page will appear with various settings options for configuring the Google Sheet.
 Once you set up the page, click the **Save Feed** button, and the feed will be integrated into your form.
 
-> Remember, to function Google Sheet integration with Form properly, you must provide the Spreadsheet ID and Worksheet Name of your Google Sheets Account and set up the Spreadsheet Fields.
+> [!Note]
+> For **Google Sheets** to work, enter the **Spreadsheet ID**, **Worksheet Name**, and map **Spreadsheet Fields** in the feed.
 
 ![](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/9.-Save-Feed-button-1-scaled.webp)
 

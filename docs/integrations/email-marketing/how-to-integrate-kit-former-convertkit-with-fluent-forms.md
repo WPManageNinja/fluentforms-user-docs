@@ -8,7 +8,8 @@ This article will guide you through integrating **Kit (Former ConvertKit)** with
   <iframe src="https://www.youtube.com/embed/1K5tYyIE9aQ" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-> Remember, Kit (Former ConvertKit) is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Kit (Former ConvertKit)** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable ConvertKit Integration
 

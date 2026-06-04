@@ -2,7 +2,8 @@
 
 **Fluent Forms** allows you to integrate with [Telegram](https://telegram.org/) to send desired information as instant notifications to your Telegram channel or group when a form is submitted. This article will guide you through integrating **Telegram** in **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Telegram is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Telegram** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Telegram Integration
 
@@ -50,7 +51,8 @@ Finally, to get the **Chat ID** of your group, add [@GetIdsBot](https://t.me/get
 
 After adding the **GetIDs Bot as a member**, you will receive a message to the group with the Group **Chat ID**. Simply, copy it.
 
-> Remember, the Chat ID starts with a Minus sign (-), and you would have to copy the code exactly provided by the GetIDs bot.
+> [!Note]
+> **Chat ID** starts with a minus sign (`-`). Copy it exactly as shown by the GetIDs bot.
 
 ![](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/7.-Copy-Chat-ID.webp)
 

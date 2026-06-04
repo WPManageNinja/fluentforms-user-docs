@@ -4,7 +4,8 @@
 
 This article will guide you through integrating **Airtable** with **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Airtable is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Airtable** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Airtable Integration
 

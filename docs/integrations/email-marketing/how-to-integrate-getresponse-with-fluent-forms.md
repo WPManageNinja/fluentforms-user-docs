@@ -8,7 +8,8 @@ This article will guide you through integrating **GetResponse** with **Fluent Fo
   <iframe src="https://www.youtube.com/embed/wzQpEkVQifw" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-> Remember, GetResponse is the Premium Feature of the Fluent Forms Pro. So, you need the Fluent Forms Pro plugin for the integration.
+> [!Note]
+> **GetResponse** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable GetResponse Integration
 

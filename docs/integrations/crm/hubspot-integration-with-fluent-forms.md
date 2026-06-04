@@ -4,7 +4,8 @@ Fluent Form integrates with Hubspot, a popular marketing automation tool that he
 
 This article will guide you through integrating Hubspot with Fluent Forms on your WordPress Site.
 
-> Remember, Hubspot is a Premium Feature of the Fluent Forms Plugin. So, to integrate this, you need the Fluent Forms Pro plugin.
+> [!Note]
+> **Hubspot** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Hubspot Integration
 

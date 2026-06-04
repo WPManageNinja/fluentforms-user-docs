@@ -22,7 +22,8 @@ Don’t forget to click the **Save Settings** button to make all the setup funct
 
 ![](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms/1.-Enable-Honeypot-from-General-tab-of-global-Settings-scaled.webp)
 
-> Remember, Honeypot Security does not protect your forms against manually submitted human spam. In this case, you need to use Google reCAPTCHA to catch spam.
+> [!Note]
+> **Honeypot** blocks bots but not manual spam. Use **reCAPTCHA** or **hCaptcha** for human-submitted spam. See [Spam Protection With Honeypot and Google reCAPTCHA](/docs/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms).
 
 ## Spam Protection using reCAPTCHA
 

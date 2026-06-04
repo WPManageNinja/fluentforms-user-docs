@@ -108,8 +108,6 @@ Now, open the **Post Feeds** tab from the left sidebar and click the + **Add Pos
 
 Then, a pop-up page will appear with various settings options for configuring the Post Feed.
 
-#### All the settings options mentioned in the screenshot below are briefly explained:
-
 **A. Feed Name**: Here, you can give a name to your Post Feed to easily find it later. You can change the name anytime if needed.
 
 **B. Post Type**: You can not change the Post Type. That is why select the Post Type at the beginning of form creation. 
@@ -126,11 +124,17 @@ Then, a pop-up page will appear with various settings options for configuring th
 
 **H. Post Fields Mapping**: Use all the fields under this option to properly link your **Post Fields** with the **Form Fields**. You can easily select the **value** for the **form fields** based on the **Post Fields Shortcode** using the **Three-Dot** button on the right corner. 
 
-**I. Meta Fields Mapping**:
+**I. Meta Fields Mapping:** Save extra post data beyond title, content, and taxonomies. Post meta stores custom information on each WordPress post created from your form.
 
-**J. Enable Conditional Logic**: This option allows your Post Feed to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this [Documentation](/docs/conditional-email-notification-in-fluent-forms). 
+* **Add Meta Field:** Click **+ Add Meta Field** in the **Meta Fields Mapping** section.
+* **Meta key:** Enter the WordPress meta key (for example, from ACF **Field Name** or your custom field slug).
+* **Form field:** Use the **three-dot** button to map a form field value to that meta key.
 
-Once the setup is done, click the **Save Feed** button and your ActiveCampaign will be integrated into this specific form!
+Complete **Post Fields Mapping** first, then add custom meta fields. If you use **ACF**, **Meta Box**, or **JetEngine**, extra mapping sections may appear in the same feed. See [Mapping Meta Fields with Meta Keys in Fluent Forms](/docs/mapping-meta-fields-with-meta-keys-in-fluent-forms) for full setup with custom field plugins.
+
+**J. Enable Conditional Logic:** Run this Post Feed only when your conditions are met. See [Conditional Email Notification in Fluent Forms](/docs/conditional-email-notification-in-fluent-forms).
+
+When finished, click **Save Feed** to save your Post Feed configuration.
 
 ![Post feed settings](/images/creating-forms/specialized-form-types/how-to-create-a-post-form-with-fluent-forms/12.-Create-New-Feed-page-scaled.webp)
 

@@ -2,7 +2,8 @@
 
 Integrating **Mailster** with **Fluent Forms** allows you to automate email subscriptions, manage mailing lists, and streamline newsletter campaigns efficiently. This article will guide you through integrating **Mailster** with **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Mailster is the Premium Feature of the Fluent Forms. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Mailster** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Mailster Integration
 

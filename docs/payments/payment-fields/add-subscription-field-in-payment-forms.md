@@ -2,7 +2,8 @@
 
 In **Fluent Forms**, the **Subscription** field allows you to create forms with **Subscription** **Items** to accept **Recurring Payments.** This article will guide you through adding the **Subscription** field in your Fluent Forms for your WordPress Site.
 
-> Remember, Subscription is a premium feature and you need Fluent Forms Pro Plugin to use this field.
+> [!Note]
+> **Subscription** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Add Subscription Field
 
@@ -114,7 +115,8 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
 
-> Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
+> [!Note]
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
 ![](/images/payments/payment-fields/add-subscription-field-in-payment-forms/8.-Add-Payment-Method-field-scaled.webp)
 

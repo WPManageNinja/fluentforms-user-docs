@@ -2,7 +2,8 @@
 
 Integrating [BuddyBoss](http://buddyboss.com) with **Fluent Forms** allows you to enhance your community engagement on your WordPress site. This allows you to collect and update BuddyBoss profile fields directly through Fluent Forms. This article will guide you through integrating **BuddyBoss** with **Fluent Forms** on your **WordPress Site**.
 
-> Remember, BuddyBoss is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **BuddyBoss** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Setting up BuddyBoss in WordPress Site
 

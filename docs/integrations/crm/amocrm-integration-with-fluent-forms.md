@@ -4,7 +4,8 @@ AmoCRM is an email marketing tool designed to help you manage customer leads, ta
 
 This article will guide you through integrating **amoCRM** with **Fluent Forms** on your **WordPress Site**.  
 
-> Remember, amoCRM is a Premium Feature of the Fluent Forms Plugin. So, to integrate it, you need the Fluent Forms Pro plugin.
+> [!Note]
+> **amoCRM** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the amoCRM Integration
 

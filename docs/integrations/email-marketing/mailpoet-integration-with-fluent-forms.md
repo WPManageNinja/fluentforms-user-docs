@@ -8,7 +8,8 @@ This article will guide you through integrating [MailPoet](https://www.mailpoet.
 
 To learn how to integrate MailPoet with Fluent Forms, follow the steps accordingly with the screenshots below —
 
-> Remember, before starting the process, you must install and activate the MailPoet plugin and Fluent Forms Connector for MailPoet add-on on your WordPress Site.
+> [!Note]
+> Install and activate **MailPoet** and the **Fluent Forms Connector for MailPoet** add-on before you connect the integration.
 
 ### Install & Activate Fluent Forms Connector Add-on
 

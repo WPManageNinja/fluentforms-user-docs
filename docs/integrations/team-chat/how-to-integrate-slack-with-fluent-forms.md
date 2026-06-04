@@ -2,7 +2,8 @@
 
 **Fluent Forms** allows you to integrate with [Slack](http://slack.com) to send preferred information as instant notifications to your Slack channel when a form is submitted. This article will guide you through integrating **Slack** in **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Slack is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Slack** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Slack Integration
 

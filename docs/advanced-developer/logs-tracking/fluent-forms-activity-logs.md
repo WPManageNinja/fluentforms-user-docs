@@ -6,7 +6,8 @@ The **Activity** **Logs** feature keeps a record of actions performed in all you
 
 To learn where you can find the **Activity** **Logs** and their functionalities, follow the steps with Screenshots and GIFs below —
 
-> Remember, here you can see only those form entries’ activities that have any Action occurred within them.
+> [!Note]
+> This list shows entry activity only when an **action** was recorded for that submission.
 
 First, go to **Tools** from **WordPress Left Sidebar** or **Fluent Forms Navbar**, click the **Activity** **Logs** option in the left menu, and you can see all the activity logs of your forms on this page.
 

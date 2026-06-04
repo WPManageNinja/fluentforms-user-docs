@@ -88,7 +88,8 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 Once you are done, click the **Save Feed** button, and your OpenAI ChatGPT will be integrated into this specific form!
 
-> Remember, never pass any sensitive information on Query instructions given for ChatGPT.
+> [!Warning]
+> Do not include passwords, API keys, or other sensitive data in **ChatGPT** query instructions.
 
 ![](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/11.-Save-Feed-scaled.webp)
 
@@ -102,7 +103,8 @@ You can modify your feed anytime by clicking the **Settings Icon,** and delete i
 
 After integrating the OpenAI ChatGPT Feed, you will receive a shortcode that must be added to ensure the ChatGPT confirmation message is sent after form submission.
 
-> Remember, using the Shortcode of Chat GPT Feed, you can send the Confirmation message after Submission through Email Notification or PDF Feed as well.
+> [!Tip]
+> Use the **ChatGPT feed shortcode** in confirmation messages, email notifications, or PDF feeds.
 
 To learn how to add Shortcode for Submission Confirmation, follow the steps below – 
 

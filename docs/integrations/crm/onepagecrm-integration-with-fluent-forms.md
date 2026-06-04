@@ -2,7 +2,8 @@
 
 Integrating OnePageCRM with Fluent Forms helps automate your business growth by managing leads and customer actions smoothly. This article guides you through integrating OnepageCRM with Fluent Forms on your WordPress SIte.
 
-> Remember, OnePageCRM is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **OnePageCRM** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the OnePageCRM Integration
 

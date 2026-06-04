@@ -4,7 +4,8 @@
 
 This guide will show you how to connect **AffiliateWP** with **Fluent** **Forms** step by step.
 
-> Remember, AffiliateWP is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **AffiliateWP** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable AffiliateWP Integration
 

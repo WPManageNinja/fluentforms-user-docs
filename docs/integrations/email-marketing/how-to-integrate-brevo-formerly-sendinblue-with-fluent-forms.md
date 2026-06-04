@@ -4,7 +4,8 @@
 
 This article will guide you through integrating **Brevo (formerly Sendinblue)** with **Fluent Forms** on your WordPress Site.
 
-> Remember, Sendinblue has changed its name to Brevo. It is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin for the integration.
+> [!Note]
+> **Brevo** (formerly Sendinblue) requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Sendinblue Integration
 

@@ -30,7 +30,8 @@ Once you are on the **Email Notifications** page, fill in all the necessary sett
 
 **All the settings mentioned above are briefly explained below:**
 
-> Remember, all the settings option functions the same for both the Admin and User email notifications except the “Send To” setting.
+> [!Note]
+> Admin and user email settings work the same way, except **Send To** (admin only).
 
 ### A. Name
 

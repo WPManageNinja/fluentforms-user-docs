@@ -6,7 +6,8 @@ In **Fluent Forms**,  the **Repeat Containe**r field allows you to offer your us
 
 This article will guide you through the whole process of adding the **Repeat Container** field in your Fluent Forms for your WordPress Site.
 
-> Remember, Repeat Container is a premium feature and you need Fluent Forms Pro Plugin to use this field.
+> [!Note]
+> **Repeat Container** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Add Repeat Container Field
 

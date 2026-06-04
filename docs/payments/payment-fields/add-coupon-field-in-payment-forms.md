@@ -2,7 +2,8 @@
 
 In **Fluent Forms**, the **Coupon** feature allows you to add coupons and apply discounts to your payment form. This article will guide you through adding the **Coupon** field in your Fluent Forms for your WordPress Site. 
 
-> Remember, Coupon is a premium feature and you need Fluent Forms Pro Plugin to use this field.
+> [!Note]
+> **Coupon** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Coupon Module
 
@@ -68,7 +69,10 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Coupon** field.
 
-> If you don’t have the Payment Fields Module enabled in your Fluent Forms, read this Documentation to learn how to enable it. Also, don’t forget to add the Payment Method field to collect the payments. Plus to collect the recurring payments, you can add the Subscription field. Remember, the added payment method in your Form will not function unless you properly complete the payment configuration process.
+> [!Note]
+> Enable **Payment Fields** and add a **Payment Method** field (and **Subscription** for recurring payments). See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
+>
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
 
 ![](/images/payments/payment-fields/add-coupon-field-in-payment-forms/6.-Add-Coupon-field-scaled.webp)
 

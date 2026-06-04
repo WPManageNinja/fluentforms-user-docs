@@ -4,7 +4,8 @@
 
 This article will guide you through integrating **Square** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
 
-> Remember, Square Integration is a Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Square** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Square Payment Method
 

@@ -2,7 +2,8 @@
 
 Integrating SendFox with **Fluent Forms** allows you to build your SendFox email list through the users of Fluent Forms. This article will guide you through integrating **SendFox** with **Fluent Forms** on your **WordPress Site**.  
 
-> Remember, SendFox is the Premium Feature of the Fluent Forms. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **SendFox** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable SendFox Integration
 

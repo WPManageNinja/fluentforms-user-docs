@@ -6,7 +6,8 @@
 
 To learn how to integrate Mautic with Fluent Forms, follow the steps accordingly with the screenshots below —
 
-> Remember, before starting the process, ensure you installed and activated both the Free Version and Pro Version of Fluent Forms plugins.You can integrate Mautic with the Free version, but you will not have access to some Pro Features such as Phone Field, Conditional Logics, etc.
+> [!Note]
+> Install both **Fluent Forms** (free) and **Fluent Forms Pro**. Mautic works on the free plugin, but Pro-only features (for example **Phone** field and **Conditional Logic**) require the Pro add-on.
 
 ### Install & Activate Mautic Integration Add-on
 

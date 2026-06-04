@@ -4,7 +4,8 @@ Fluent Forms integrates with Drip, a robust e-commerce CRM (ECRM) designed for p
 
 This article will guide you through integrating **Drip** with **Fluent Forms** on your WordPress Site.
 
-> Remember, Drip is a Premium Feature of the Fluent Forms Plugin. So, to integrate it, you need the Fluent Forms Pro plugin.
+> [!Note]
+> **Drip** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Drip Integration
 

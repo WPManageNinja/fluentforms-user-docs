@@ -12,7 +12,8 @@ To display a form in a popup, first, you must use a unique shortcode that is dif
 
 `[ fluentform_modal form_id= "228" ] `
 
-> Remember to replace the form ID by your form ID.
+> [!Note]
+> Replace the example form ID in the shortcode with your form’s ID.
 
 Now, Replace "228" with the actual form ID of your form. You can find the form ID by navigating Fluent Forms and clicking **All Forms**. 
 Then click the **fluent form ID** you want to replace and copy it.

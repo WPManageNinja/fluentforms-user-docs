@@ -4,7 +4,8 @@ Fluent Forms integrates with Insightly, an email marketing tool that helps you c
 
 This article will guide you through integrating **Insightly** with **Fluent Forms** on your WordPress Site.
 
-> Remember, Insightly is a Premium Feature of the Fluent Forms Plugin. So, to integrate it, you need the Fluent Forms Pro plugin.
+> [!Note]
+> **Insightly** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Insightly Integration
 

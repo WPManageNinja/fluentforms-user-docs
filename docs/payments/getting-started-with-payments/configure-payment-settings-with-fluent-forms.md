@@ -95,7 +95,8 @@ Here, you can see the **Preview** of a single **Payment Receipt** under the **Pa
 
 ![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/7.-Form-of-a-specific-Pyment-Receipt.webp)
 
-> Remember, you can see the individual Payment Receipt by clicking the View link of a single Payment on the Payment History page.
+> [!Tip]
+> Open a single payment receipt from **Payments** by clicking **View** on that transaction.
 
 ![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/8.-Payment-History-View-button.webp)
 
@@ -147,7 +148,8 @@ Do not forget to click the **Save Settings** button to save all your changes.
 
 ![](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/5.-Form-specific-payment-method-settings-scaled.webp)
 
-> Remember, to get these form-specific Payment Method Settings, you need to ensure these Payment Methods are globally enabled.
+> [!Note]
+> Form-specific payment options appear only when the gateway is enabled under **Global Settings → Payment Methods**.
 
 **To learn how to enable payment Methods Globally, follow the steps below –**
 

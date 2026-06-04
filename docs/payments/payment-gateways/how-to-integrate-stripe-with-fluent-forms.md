@@ -4,7 +4,8 @@
 
 This article will guide you through integrating **Stripe** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
 
-> Remember, you can integrate Stripe Payment Methods with the Free Version of Fluent Forms plugin, but a minimum platform fee of 1.9% per transaction applies. But, premium users of the Fluent Forms Pro plugin do not need to pay any extra fees for using Stripe on your site
+> [!Note]
+> **Stripe** works on the free Fluent Forms plugin with a **1.9% platform fee** per transaction. **Fluent Forms Pro** users pay no extra platform fee for Stripe on your site.
 
 ## Enabling Stripe Payment Method
 

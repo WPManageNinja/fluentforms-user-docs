@@ -30,7 +30,10 @@ Now, open the **Payment** tab, click the **Settings** option, and check the **En
 
 Once you ensure the **Payment Module** is **Enabled**, select the necessary fields for your Payment Form. 
 
-> Remember, to create a Payment Form you must add at least a Payment Item and a Payment Method field. To collect recurring payment, add Subscription field. We Always Suggest you keep the Name and Email field at the beginning of any form. Also, remember, the added payment method in your Form will not function unless you properly complete the configuration process. To Learn how to configure the Payment on your site through Fluent Forms, click here and read the desired Payment Integration Documentation you selected as a payment method.
+> [!Note]
+> A payment form needs at least a **Payment Item** and a **Payment Method** field. Add a **Subscription** field for recurring payments. Place **Name** and **Email** near the top of the form when possible.
+>
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms), then follow the guide for your chosen gateway.
 
 ![](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/4.-Payment-Item-and-Payment-Method-fields-scaled.webp)
 

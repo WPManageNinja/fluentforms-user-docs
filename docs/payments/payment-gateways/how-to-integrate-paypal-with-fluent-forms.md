@@ -2,7 +2,8 @@
 
 [PayPal](http://paypal.com) is a payment processing platform that offers **Fluent Forms** to receive payments from your users securely. This article will guide you through integrating **PayPal** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
 
-> Remember, PayPal Integration is a Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **PayPal** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable PayPal Payment Method
 

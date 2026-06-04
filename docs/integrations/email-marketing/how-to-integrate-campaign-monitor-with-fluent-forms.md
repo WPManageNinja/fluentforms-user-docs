@@ -2,7 +2,8 @@
 
 Integrating **Campaign Monitor** with **Fluent Forms** lets you manage contacts, send targeted emails, and grow your audience effortlessly. This article will guide you through integrating **Campaign Monitor** with **Fluent Forms** on your **WordPress Site**.
 
-> Remember, Campaign Monitor is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **Campaign Monitor** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Campaign Monitor Integration
 
