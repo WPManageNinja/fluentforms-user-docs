@@ -14,6 +14,8 @@ To learn how to add the **Terms & Conditions** field to Flument Forms, follow th
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
+> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+
 ![](/images/form-fields/advanced-fields/terms-conditions-field-in-fluent-forms/edit-form-01-13-scaled.webp)
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 

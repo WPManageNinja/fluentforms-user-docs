@@ -108,6 +108,8 @@ Finally, press the **Save Settings** button, and your Authorize.net account will
 
 Once you finish setting up your Authorize.Net payment method, you can easily add this payment method to any of your existing Payment Forms (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
 
+Note: If you do not have any existing Payment Forms, read this [Documentation](/docs/how-to-create-a-payment-form-with-fluent-form) to learn how to create one.
+
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
 ![](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/Edit-form-13-scaled.webp)

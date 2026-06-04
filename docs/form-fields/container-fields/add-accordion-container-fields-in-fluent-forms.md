@@ -8,7 +8,7 @@ To learn how to add the Accordion Container input fields, follow the steps with 
 
 First, go to the **Forms** section from the **Fluent Forms** Navbar, choose a desired Form to which you wish to add the Accordion Container field, and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-For example, here I choose an existing form to show the whole process.
+> Note: If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one. For example, here I choose an existing form to show the whole process.
 
 ![](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/edit-form-scaled.webp)
 

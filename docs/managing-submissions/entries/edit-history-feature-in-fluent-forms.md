@@ -8,6 +8,8 @@ In this article, we’ll show you how to use the **Edit History** feature effect
 
 To get the Edit History feature, navigate to the **Forms** section in the Fluent Forms dashboard, then click on the **Edit** option for the form you wish to modify.
 
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
+
 ![](/images/managing-submissions/entries/edit-history-feature-in-fluent-forms/Form-edit-section-scaled.webp)
 
 In the form editor, you’ll notice a **History** button see screenshot below. Simply click on it.

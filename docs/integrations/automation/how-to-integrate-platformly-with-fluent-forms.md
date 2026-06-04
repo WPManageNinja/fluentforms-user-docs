@@ -80,6 +80,8 @@ To learn how to integrate Platformly into any specific Form in Fluent Forms, fol
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Platformly,** and click the **Settings** button. 
 
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
+
 ![](/images/integrations/automation/how-to-integrate-platformly-with-fluent-forms/11.-Open-desired-form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Platformly Integration** feed from the dropdown list. 

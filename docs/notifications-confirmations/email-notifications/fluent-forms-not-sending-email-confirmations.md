@@ -10,6 +10,8 @@ The very first troubleshooting you can do is check whether your **Email Notifica
 
 First, go to **Forms** from the **Fluent Forms Navbar** and click the **Settings** of your desired form where you encountered the email deliverability issue.
 
+> If you do not have any existing forms, read the [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
+
 ![](/images/notifications-confirmations/email-notifications/fluent-forms-not-sending-email-confirmations/1.-open-desired-form-settings-scaled.webp)
 
 Once you are on the form’s **Settings & Integrations** page, open the **Email Notifications** tab from the left side, and you will see all of the **Email Notifications** you added.

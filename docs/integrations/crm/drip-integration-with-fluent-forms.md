@@ -62,6 +62,8 @@ To learn how to integrate Drip into any specific Form in Fluent Forms, follow th
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Drip and click the **Settings** button. 
 
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
+
 ![](/images/integrations/crm/drip-integration-with-fluent-forms/form-setting-07-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Drip Integration** feed from the dropdown list. 

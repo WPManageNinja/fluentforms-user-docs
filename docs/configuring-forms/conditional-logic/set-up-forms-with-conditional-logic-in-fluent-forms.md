@@ -10,6 +10,8 @@ To learn how to use conditional logic in a specific form, follow the steps with 
 
 First, go to the **Forms** from the **Fluent Forms Navbar** or **WordPress Left Sidebar,** and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to use the **Conditional Logic** feature.
 
+> If you do not have any existing forms, read  Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+
 For example, I chose an existing form to show the whole process.
 
 ![](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/1.-Open-Desired-form-scaled.webp)

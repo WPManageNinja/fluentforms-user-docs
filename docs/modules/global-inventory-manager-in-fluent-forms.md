@@ -32,6 +32,8 @@ After clicking the **Add Inventory** button, a pop-up will appear. Now, enter th
 
 Now, to add a global inventory item to a form, first, open the specific form where you want to use the **Global Inventory Item**.
 
+> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+
 Add a field that supports inventory tracking, such as:
 
 - [Payment Item](/docs/add-payment-item-field-in-payment-forms)

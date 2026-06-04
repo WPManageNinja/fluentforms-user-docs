@@ -52,6 +52,8 @@ You can also disconnect the **Twilio API** here by clicking the **Disconnect Twi
 
 After setting up the Credentials, go to **All Forms** and select the form you want to integrate with the Twilio account or create a new one.
 
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
+
 ![](/images/integrations/other-apps/twilio-integration-with-fluent-forms/settings-form-06-scaled.webp)
 
 Now, go to the particular form’s settings for the entries you want listed in **Twilio**.  Click on **Add New Integration** and select **SMS Notification by Twilio** from the dropdown.

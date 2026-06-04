@@ -8,6 +8,8 @@ This article will provide a step-by-step guide on how you can add calc values to
 
 To add calculations in repeat fields, go to the **Fluent Forms dashboard**. Create a new form or open an existing one.
 
+> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+
 Now, drag and drop the **Repeat Field** into your form. Add the fields you want inside the **Repeat** **Field** (numeric fields, dropdowns, etc.).
 
 ![](/images/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field/calc-repeat-field-01-scaled.webp)

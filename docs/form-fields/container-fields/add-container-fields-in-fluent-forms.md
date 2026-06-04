@@ -14,7 +14,7 @@ To learn how to add the **Container** input fields, follow the steps with screen
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form** to which you wish to add the **Container** field**,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
-For example, I choose an existing form to show the whole process.
+> If you do not have any existing forms, read the Create a Form from Scratch or Create a Form using Templates documentation to create a new one. For example, I choose an existing form to show the whole process.
 
 ![](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/1.-Open-desired-form-6-scaled.webp)
 

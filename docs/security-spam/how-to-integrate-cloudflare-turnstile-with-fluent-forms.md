@@ -63,6 +63,8 @@ To learn the process of integrating the Turnstile in a specific form, follow the
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this Turnstile protection.
 
+> If you do not have any existing forms, read the [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.
+
 ![](/images/security-spam/how-to-integrate-cloudflare-turnstile-with-fluent-forms/6.-desired-Form-Editor-1-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Fields** on the right side, open the **Advanced Fields** dropdown list, and click the **Turnstile** input field.

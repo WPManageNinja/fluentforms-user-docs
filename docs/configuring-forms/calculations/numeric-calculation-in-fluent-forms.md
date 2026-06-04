@@ -14,6 +14,8 @@ To learn how to add the **Numeric** field to Fluent Forms, follow the steps belo
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
+> If you do not have any existing forms, read Create a Form from Scratch or Create a Form using Templates documentation to create a new one.
+
 If you want to learn more about the **Numeric Input Field**, read the [Numeric Input Field](/docs/numeric-input-field-in-fluent-forms) documentation.
 
 ![](/images/configuring-forms/calculations/numeric-calculation-in-fluent-forms/editor-form-scaled.webp)

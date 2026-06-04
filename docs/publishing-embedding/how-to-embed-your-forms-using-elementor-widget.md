@@ -16,6 +16,8 @@ First, open the [Elementor](https://elementor.com/) editor for the page where yo
 
 Now, choose the form you want to add to the page from the drop-down menu in the widget. If you have pre-built forms, you’ll see them in the dropdown menu, and you can **Select a Fluent Forms** here. If not, you can create a new form using Fluent Forms.
 
+> If you do not have any existing forms, read [How to create a form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
+
 ![](/images/publishing-embedding/how-to-embed-your-forms-using-elementor-widget/02-9.webp)
 
 ## Customizing Form Style

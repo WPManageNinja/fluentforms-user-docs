@@ -61,6 +61,8 @@ To learn how to integrate SendFox into any specific Form in Fluent Forms, follow
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **SendFox** and click the **Settings** button. 
 
+> If you do not have any existing forms, read the [Create a Form from Scratch or Create a Form using Templates](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
+
 ![](/images/integrations/email-marketing/how-to-integrate-sendfox-with-fluent-forms/9.-Open-desired-form-settings-2-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **SendFox Integration** from the dropdown list. 

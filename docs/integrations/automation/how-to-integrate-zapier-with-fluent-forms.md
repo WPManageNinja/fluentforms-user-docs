@@ -20,6 +20,8 @@ To learn how to integrate Zapier into any specific Form in Fluent Forms, follow 
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Zapier,** and click the **Settings** button.  
 
+> If you do not have any existing forms, read the [Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) documentation to create a new one.
+
 ![](/images/integrations/automation/how-to-integrate-zapier-with-fluent-forms/2.-Open-desired-Form-Settings-scaled-2.webp)
 
 Once you are on **Settings & Integrations**, go to **Zapier** from the left menu, and click the **+ Add Webhook** button.

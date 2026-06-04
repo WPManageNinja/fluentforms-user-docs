@@ -14,6 +14,8 @@ To add a **Website URL** field to your form, follow these steps:
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) to create a new one.
+
 ![](/images/form-fields/general-fields/website-url-input-field-guide/edit-form-01-7-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
