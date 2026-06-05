@@ -8,9 +8,7 @@ This guide will walk you through **adding and customizing the Text Area field** 
   <iframe src="https://www.youtube.com/embed/yYCTJz9tQCM" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Adding Text Area Input Field
-
-To learn how to add the Text Area input field to the Fluent Forms, follow the steps with the screenshots below –
+## Adding Text Area Input Field
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 

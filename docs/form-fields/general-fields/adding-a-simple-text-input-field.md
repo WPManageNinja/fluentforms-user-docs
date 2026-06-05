@@ -8,9 +8,7 @@ The **Simple Text Input Field** in **Fluent Forms** is a versatile field for col
 
 ### Adding Simple Text Input Field
 
-Follow these steps to add a **Simple Text** field to your form:
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.

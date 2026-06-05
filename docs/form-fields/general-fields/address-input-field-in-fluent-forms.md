@@ -4,15 +4,14 @@ The Address input field in[ Fluent Forms](https://fluentforms.com/) offers a sui
 
 This guide will walk you through adding and customizing the **Address Input Field** in Fluent Forms for your WordPress site.
 
-> You can autocomplete your address field using Google map integrations, see this documentation.
+> [!Note]
+> Autocomplete the **Address** field with **Google Maps** (Fluent Forms Pro). See [How to Integrate Google Maps with Fluent Forms](/docs/how-to-integrate-google-maps-with-fluent-forms).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/qlYfmqCujKE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Adding the Address Input Field
-
-To learn how to add the **Address** field to Fluent Forms, follow the steps below-
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
@@ -51,21 +50,21 @@ You will find various settings options for customizing the field. Located in the
 
 ![Adress Line](/images/form-fields/general-fields/address-input-field-in-fluent-forms/Adress-line-05-scaled.webp)
 
-- Label: You can change the field label as you wish.
+- **Label:** You can change the field label as you wish.
 
-- Label Placement: This option determines the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the Default option, it will represent your global label placement settings.
+- **Label Placement:** This option determines the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the Default option, it will represent your global label placement settings.
 
-- Default: There’s a text box where you can set a default value for the Address field, which would pre-populate the field when the form is loaded.
+- **Default:** There’s a text box where you can set a default value for the Address field, which would pre-populate the field when the form is loaded.
 
 A text box provides additional options or actions related to the default value. You can clear the field, use a dynamic value, or select another advanced setting by clicking and selecting the **Three Vertical Dots** menu on the right side.
 
 ![Adrees Line1](/images/form-fields/general-fields/address-input-field-in-fluent-forms/adrees-line1-06-scaled.webp)
 
-- Placeholder: You can also include a placeholder where users will view the field topic. Add placeholder text, like “Enter your street address,” to guide users in what to input.
+- **Placeholder:** You can also include a placeholder where users will view the field topic. Add placeholder text, like “Enter your street address,” to guide users in what to input.
 
-- Help Message: This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+- **Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
 
-- Required: Decide whether users must select at least one option before submission. If you hit the Radio button and pick Yes, the field is compulsory, and the user must answer by submitting the form. By default, it selected No options.
+- **Required:** Decide whether users must select at least one option before submission. If you hit the Radio button and pick Yes, the field is compulsory, and the user must answer by submitting the form. By default, it selected No options.
 
 ![Address Line1](/images/form-fields/general-fields/address-input-field-in-fluent-forms/address-line1-07-scaled.webp)
 
