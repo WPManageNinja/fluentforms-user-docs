@@ -4,9 +4,7 @@ In **Fluent Forms**, the **Post Update** field allows users to select any of you
 
 ## Add Post Update Field
 
-To learn how to add the Post Update field to the Post Forms in Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to **Forms** from the Fluent Forms navbar, select your **Post Form**, and click **Edit** to open the form editor.
 
 > [!Note]
 > Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Post Update** field is available only in Post Forms.
@@ -31,7 +29,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ### 1. Post Update
 
-All the **Settings** under the **Post Update** tab mentioned in the screenshot are briefly explained below – 
+Configure **Post Update** labels and post selection options:
 
 **A. Element Label**: This is the field Update the users will see when filling out the **Post Update** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -49,7 +47,7 @@ All the **Settings** under the **Post Update** tab mentioned in the screenshot a
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Configure **Advanced** options:
 
 **A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -75,7 +73,8 @@ Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post F
 
 First, go to **Settings & Integrations** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
 
-> If you don’t have an existing post feed, you can add a new one by clicking the + Add Post Feed button. To learn the details process of adding a new post feed, click here. For example, I used an existing Feed to show the process.
+> [!Note]
+> If you do not have a **Post Feed** yet, click **+ Add Post Feed** under **Settings & Integrations → Post Feeds**. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) for the full feed setup process.
 
 ![Add Post Feed](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/6.-Add-Post-Feed-scaled.webp)
 
@@ -83,7 +82,8 @@ Then, a pop-up page will appear with various settings options for configuring th
 
 **Remember**, here, you need to select **"Update Post"** as the **Submission Type** to access all existing posts from your WordPress Site and make the form functional. Otherwise, the **Post Update** field won’t appear in your **Post Form**.
 
-> Click here to learn how to use other settings options to complete the Post Feed Configuration process.
+> [!Note]
+> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
 
 Once the setup is done, click the **Save Feed** button and your **Post Feed** will be configured. Now, your Post Update will function successfully!
 

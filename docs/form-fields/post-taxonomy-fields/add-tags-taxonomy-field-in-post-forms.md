@@ -9,9 +9,7 @@ This article will guide you through adding the **Tags Taxonomy Field** in your F
 
 ## Add Tags Field
 
-To learn how to add the Tags field to the Post Forms in Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to **Forms** from the Fluent Forms navbar, select your **Post Form**, and click **Edit** to open the form editor.
 
 > [!Note]
 > Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Tags** field is available only in Post Forms.
@@ -36,7 +34,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ### 1. Tags
 
-All the **Settings** under the **Tags** tab mentioned in the screenshot are briefly explained below – 
+Configure **Tags** labels, taxonomy display type, and validation:
 
 **A. Element Label**: This is the field Content the users will see when filling out the **Tags** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -52,7 +50,7 @@ All the **Settings** under the **Tags** tab mentioned in the screenshot are brie
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Configure **Advanced** options:
 
 **A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
 
@@ -72,7 +70,8 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
-> Click here to learn how to use other settings options to complete the Post Feed Configuration process.
+> [!Note]
+> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
 
 ## Embed the Form into Frontend
 
@@ -83,7 +82,7 @@ Also, to see the form preview, click the **Preview & Design** button in the midd
 
 ![Save Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/6.-Save-Form-6-scaled.webp)
 
-## Preview of Tags field
+### Preview of Tags field
 
 Here is the preview of the added **Tags** field under the Post Form.
 

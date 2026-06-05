@@ -4,9 +4,7 @@ In **Fluent Forms**, the **Post Title** field allows you to offer your users the
 
 ## Add Post Title Field
 
-To learn how to add the Post Title field to the Post Forms in Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to **Forms** from the Fluent Forms navbar, select your **Post Form**, and click **Edit** to open the form editor.
 
 > [!Note]
 > Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Post Title** field is available only in Post Forms.
@@ -31,7 +29,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ### 1. Post Title
 
-All the **Settings** under the **Post Title** tab mentioned in the screenshot are briefly explained below – 
+Configure **Post Title** labels and field behavior:
 
 **A. Element Label**: This is the field title the users will see when filling out the **Post Title** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -49,7 +47,7 @@ All the **Settings** under the **Post Title** tab mentioned in the screenshot ar
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Configure **Advanced** options:
 
 **A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -67,7 +65,8 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
-> Click here to learn how to configure Post Feed with the Post Form.
+> [!Note]
+> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
 
 ## Embed the Form into Frontend
 

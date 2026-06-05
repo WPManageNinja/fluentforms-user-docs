@@ -4,9 +4,7 @@ In **Fluent Forms**,  the **Post Content** field allows you to offer your users 
 
 ## Add Post Content Field
 
-To learn how to add the Post Content field to the Post Forms in Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to **Forms** from the Fluent Forms navbar, select your **Post Form**, and click **Edit** to open the form editor.
 
 > [!Note]
 > Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Post Content** field is available only in Post Forms.
@@ -31,7 +29,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ### 1. Post Content
 
-All the **Settings** under the **Post Content** tab mentioned in the screenshot are briefly explained below – 
+Configure **Post Content** labels and editor options:
 
 **A. Element Label**: This is the field Content the users will see when filling out the **Post Content** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -51,7 +49,7 @@ All the **Settings** under the **Post Content** tab mentioned in the screenshot 
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Configure **Advanced Options** options:
 
 **A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
 
@@ -73,7 +71,8 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
-> Click here to learn how to configure Post Feed with the Post Form.
+> [!Note]
+> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
 
 ## Embed the Form into Frontend
 
@@ -83,7 +82,7 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 ![Save Post Content Field in](/images/form-fields/post-taxonomy-fields/add-post-content-field-in-post-forms/6.-Save-Form-2-scaled.webp)
 
-## Preview of Post Content field
+### Preview of Post Content field
 
 Here is the preview of the added **Post Content** field under the Post Form. 
 

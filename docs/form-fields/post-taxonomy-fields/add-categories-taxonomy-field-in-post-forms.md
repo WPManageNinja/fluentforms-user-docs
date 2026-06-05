@@ -9,9 +9,7 @@ This article will guide you through adding the **Categories Taxonomy Field** in 
 
 ## Add Categories Field
 
-To learn how to add the Categories field to the Post Forms in Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to **Forms** from the Fluent Forms navbar, select your **Post Form**, and click **Edit** to open the form editor.
 
 > [!Note]
 > Create a **Post Form** first if you do not have one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms). The **Categories** field is available only in Post Forms.
@@ -34,9 +32,9 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ![Input Customization](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/3.-Input-Customization-7-scaled.webp)
 
-### 1. Categories
+### 1. Categories Option
 
-All the **Settings** under the **Categories** tab mentioned in the screenshot are briefly explained below – 
+Configure **Categories** labels, taxonomy display type, and validation:
 
 **A. Element Label**: This is the field Content that the users will see when filling out the **Categories** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -50,19 +48,19 @@ All the **Settings** under the **Categories** tab mentioned in the screenshot ar
 
 **F. Taxonomy Field Type**: Here, you will get **Four different options** to display your Categories Taxonomy Field. These are:
 
-- Radio: Select this option if you want to display the category selection as a radio button, allowing users to choose one category from all available options.
+- **Radio:** Select this option if you want to display the category selection as a radio button, allowing users to choose one category from all available options.
 
-- Select: Select this option if you want to display the category selection as a dropdown list button, allowing users to choose one category from all available options.
+- **Select:** Select this option if you want to display the category selection as a dropdown list button, allowing users to choose one category from all available options.
 
-- Multi-Select: Select this option if you want to display the category selection as a dropdown list button, allowing users to choose one or more categories from all available options.
+- **Multi-Select:** Select this option if you want to display the category selection as a dropdown list button, allowing users to choose one or more categories from all available options.
 
-- Checkbox: Select this option if you want to display the category selection as a checkbox, allowing users to choose one or more categories from all available options.
+- **Checkbox:** Select this option if you want to display the category selection as a checkbox, allowing users to choose one or more categories from all available options.
 
 ![Categories Options Fluent Forms](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/4.-Categories-options-scaled.webp)
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Configure **Advanced** options:
 
 **A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
 
