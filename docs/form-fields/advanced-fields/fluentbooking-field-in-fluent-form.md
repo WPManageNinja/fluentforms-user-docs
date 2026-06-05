@@ -4,13 +4,12 @@
 
 This guide will walk you through adding and customizing the **FluentBooking Field** in Fluent Forms on your WordPress site.
 
-> The FluentBooking Field will only be available in the Advanced Fields section after installing and activating the FluentBooking plugin.
+> [!Note]
+> Install and activate the [FluentBooking](https://fluentbooking.com/) plugin first. The **FluentBooking** field then appears under **Advanced Fields** in the form editor.
 
 ## Adding FluentBooking Field
 
-To learn how to add the **FluentBooking** field to Fluent Forms, follow the steps below-
-
-First, go to the **Forms** section from the **Fluent Forms** navbar**,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -33,11 +32,9 @@ Once you add the action hook field, you can customize it by hovering over it and
 
 ![Input Customization Fluent Forms](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Input-Customization-03-33-scaled.webp)
 
-### FluentBooking Field
+### FluentBooking Field Option
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **FluentBooking** input field.
-
-**All the Settings under the FluentBooking Field mentioned above are briefly explained below –** 
 
 **A. Element Label:** This is the field title users will see when filling out the FluentBooking field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -57,7 +54,7 @@ You will find various settings options for customizing the field. Located in the
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -77,7 +74,7 @@ To preview the form, click **Preview & Design** in the middle of the page.
 
 ![Save FluentBooking Field in Fluent](/images/form-fields/advanced-fields/fluentbooking-field-in-fluent-form/Save-Form-06-28-scaled.webp)
 
-## Preview of Added FluentBooking Field
+### Preview of Added FluentBooking Field
 
 Here is a preview of the form with the **FluentBooking** field.
 

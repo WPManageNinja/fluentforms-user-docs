@@ -4,7 +4,8 @@ The **Quiz Score** field in Fluent Forms is an **Advanced Hidden Field** that ca
 
 This guide will walk you through adding and customizing the **Quiz Score Input** field in Fluent Forms.
 
-> The Quiz Score Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Quiz Score** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 To use this field, you must first **Enable the Quiz Module**. For configuration details, read the[ **Quiz Module documentation**](https://docs.google.com/document/d/1jV_sg7MUDTHxUmRAD4W9317R83WumY4l4nzngq9jQkM/edit?tab=t.0).
 
@@ -14,9 +15,7 @@ To use this field, you must first **Enable the Quiz Module**. For configuration 
 
 ## Adding a Quiz Score Input Field
 
-To learn how to add the **Quiz Score Input Field** to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** **Icon** to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -43,23 +42,23 @@ Once you add the **Quiz Score Input** field, you can customize it by hovering ov
 
 Under the Input Customization tab, you will find various settings options for customizing the field.These options allow you to configure essential aspects of the **Quiz Score Input** field.
 
-All the settings under the Quiz Score Input Field mentioned above are briefly explained below-
-
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
 **C. Select Score Type:** The **Quiz Score** field offers several quiz score types, which you can select from the dropdown on the right side of the **Input Customization**. 
 
-- Total Point: It will define the Total Points of the answers here and evaluate the score of all the selected answers. You must Enable Advance Scoring From Quiz Settings to use this Score Type.
+- **Total Point:** It will define the Total Points of the answers here and evaluate the score of all the selected answers. You must Enable Advance Scoring From Quiz Settings to use this Score Type.
 
-- The Correct Question: Counts the number of correct answers submitted. For example, if you have 3 questions and the user has submitted 2 correct answers, the score will be 2.
+- **The Correct Question:** Counts the number of correct answers submitted. For example, if you have 3 questions and the user has submitted 2 correct answers, the score will be 2.
 
-- Grade System: Results will be shown as a Grade when the score type is set as a Grade System in the Quiz score input field.    For example, Set the minimum and maximum value for any Grade Label; if your score falls between the minimum and maximum range (75) of the B grade label, your result will be B. If your score is not included in the Grade System, your result will say Not Graded.
+- **Grade System:** Results will be shown as a Grade when the score type is set as a Grade System in the Quiz score input field.   
 
-- Percentage: When the score type is set to a Percentage in the Quiz score input field, the results will be shown as a percentage of the correct answers. For example, if you have five questions and have given 3 correct answers, your result will be 60.00%.
+ For example, Set the minimum and maximum value for any Grade Label; if your score falls between the minimum and maximum range (75) of the B grade label, your result will be B. If your score is not included in the Grade System, your result will say Not Graded.
 
-- Personality: You can create a Personal Quiz with Fluent Form. To learn more, read this article.
+- **Percentage:** When the score type is set to a Percentage in the Quiz score input field, the results will be shown as a percentage of the correct answers. For example, if you have five questions and have given 3 correct answers, your result will be 60.00%.
+
+- **Personality:** You can create a Personal Quiz with Fluent Form. To learn more, read this article.
 
 ![Quiz Score Field](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Quiz-Score-field-04-scaled.webp)
 
@@ -79,7 +78,7 @@ To integrate and display the form on a specific Page or post, **copy** the **Sho
 
 ![Save Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Save-Form-05-7-scaled.webp)
 
-## Preview of Added Quiz Score Field
+### Preview of Added Quiz Score Field
 
 Here is the preview of the added **Quiz Score** field under the Form. 
 

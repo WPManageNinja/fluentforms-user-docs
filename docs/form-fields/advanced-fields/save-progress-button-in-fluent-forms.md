@@ -4,13 +4,12 @@ The **Save & Resume** field in Fluent Forms allows users to store their form pro
 
 This guide will walk you through adding and customizing the **Save & Resume** field in Fluent Forms.
 
-> The Save & Resume Input Field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Save & Resume** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Adding a Save Progress Button Field
 
-To learn how to add the **Save & Resume Input Field** to Fluent Forms, follow the steps below-
-
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** **Icon** to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -37,23 +36,21 @@ Once you add the **Save & Resume** Input field, you can customize it by hovering
 
 Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Save & Resume** Input field.
 
-All the settings under the **Save & Resume Input Field** mentioned above are briefly explained below-
-
 **A. Button Text:** You can choose your button text **Default** or **Image**. Users can customize button text using this field if you keep button text by default. Whichever text is used for this field will be shown as the button text.
 
 If you select the **Image** option, you can add an image as your button with the image **URL**. Also, you can add **Image Alt text** for your button.
 
 **B. Button Style:**  You can choose the button style dropdown option from the right side. Also you can select **Custom** options to adjust predefined color schemes, position, and functionality. 
 
-- Background Color: Choose a suitable background colour for the button according to your website's colour scheme. In my case, the default background color is blue.
+- **Background Color:** Choose a suitable background colour for the button according to your website's colour scheme. In my case, the default background color is blue.
 
-- Text Color: Based on the background colour, you can give a smooth colour to the button text.
+- **Text Color:** Based on the background colour, you can give a smooth colour to the button text.
 
-- Border Color: The button, by default, has a one-pixel border. You can also define a color for the border.
+- **Border Color:** The button, by default, has a one-pixel border. You can also define a color for the border.
 
-- Border Radius: Enter the border-radius that suits your forms.
+- **Border Radius:** Enter the border-radius that suits your forms.
 
-- Min-Width: You can give a minimum width to the button in pixels and percentages, whichever suits your form. A 100% min-width will be a full-width button.
+- **Min-Width:** You can give a minimum width to the button in pixels and percentages, whichever suits your form. A 100% min-width will be a full-width button.
 
 ![Button Style Save Progress Button](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Button-Style-04-scaled.webp)
 
@@ -71,13 +68,14 @@ If you select the **Image** option, you can add an image as your button with the
 
 **H. Email Body:** Enter the email body text here.
 
-> You can also use the same style features for the Hover States of the button. Click on the hover state and apply the same styling features that suit the active state styles.
+> [!Tip]
+> Style the **Hover** state the same way as the default state. Select **Hover** in the button style panel and apply matching colors, borders, and typography.
 
 ![Save Resume](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Save-Resume-05-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -99,7 +97,8 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-> The Save Progress Button is equally applicable to the Step Form.
+> [!Note]
+> **Save & Resume** also works on **multi-step forms**. See [Creating a Multi-Step Form in Fluent Forms](/docs/creating-a-multi-step-form-in-fluent-forms).
 
 ![Save](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Save-Form-07-1-scaled.webp)
 

@@ -4,13 +4,12 @@ The **Net Promoter Score (NPS)** is a customer **loyalty and satisfaction** meas
 
 This guide will walk you through adding and customizing the **Net Promoter Score** field in Fluent Forms for your WordPress site.
 
-> The Net Promoter Score Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Net Promoter Score** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ### Adding Net Promoter Score Field
 
-To learn how to add the **Net Promoter Score Field** to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** **Icon** to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -37,8 +36,6 @@ Once you add the **Net Promoter Score** field, you can customize it by hovering 
 
 You will find various settings options for customizing the field under the **Input Customization** tab. These options allow you to configure essential aspects of the **Net Promoter Score** field.
 
-All the settings under the **Net Promoter Score Field** mentioned above are briefly explained below-
-
 **A. Element Label:** This is the field title the users will see when filling out the **Net Promoter Score** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
@@ -55,7 +52,7 @@ All the settings under the **Net Promoter Score Field** mentioned above are brie
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -77,7 +74,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Net Promoter Score](/images/form-fields/advanced-fields/net-promoter-score-in-fluent-forms/Save-Form-06-26-scaled.webp)
 
-## Preview of Added Net Promoter Score Field
+### Preview of Added Net Promoter Score Field
 
 Here is the added **Net Promoter Score** field preview under the Form. 
 

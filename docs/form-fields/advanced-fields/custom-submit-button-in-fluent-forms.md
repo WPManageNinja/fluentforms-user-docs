@@ -10,8 +10,6 @@ This guide will walk you through adding and customizing the **Custom Submit Fiel
 
 ## Adding Custom Submit Button Field
 
-To learn how to add the **Custom Submit Button** field to Fluent Forms, follow the steps below:
-
 First, look for the **Forms** section in the Fluent Forms menu. Then, choose the form you want to work on and click the **Edit Icon** to get to the page where you can change it.
 
 > [!Note]
@@ -61,7 +59,7 @@ All the settings under the **Custom Submit Button** Field mentioned above are br
 
 ![Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Custom-Submit-button-04-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases. 
 
@@ -81,7 +79,7 @@ To integrate and display the form on a specific **Page** or **Post**, copy the *
 
 ![Save Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/Save-Form-06-25-scaled.webp)
 
-## Preview of Added Custom Submit Button
+### Preview of Added Custom Submit Button
 
 Here is a preview of the form with the **Custom Submit Button input** field.
 

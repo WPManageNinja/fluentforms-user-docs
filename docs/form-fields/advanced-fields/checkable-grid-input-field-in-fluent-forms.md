@@ -4,7 +4,8 @@ The Checkable Grid input field in [Fluent Form](https://wordpress.org/plugins/fl
 
 This guide will walk you through adding and customizing the **Checkable Grid Field** in Fluent Forms for your WordPress site.
 
-> The Checkable Grid field is an advanced feature of the Fluent Forms plugin. To use it, you need the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Checkable Grid** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/ayI3TzXXANA" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -12,9 +13,7 @@ This guide will walk you through adding and customizing the **Checkable Grid Fie
 
 ## Adding Checkable Grid Field
 
-To learn how to add the **Checkable Grid** field to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -27,7 +26,7 @@ Now, select the desired **Checkable Grid** **Input** field by clicking or d**rag
 
 ![Adding Checkable Grid](/images/form-fields/advanced-fields/checkable-grid-input-field-in-fluent-forms/adding-checkable-grid-02-scaled.webp)
 
-### Customizing the Checkable Grid Field
+## Customizing the Checkable Grid Field
 
 Once you add the checkable grid field, you can customize it by **hovering over** it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
@@ -37,7 +36,7 @@ Once you add the checkable grid field, you can customize it by **hovering over**
 
 ![Input Customization Fluent Forms](/images/form-fields/advanced-fields/checkable-grid-input-field-in-fluent-forms/input-customization-03-21-scaled.webp)
 
-#### Checkable Grid Options
+### Checkable Grid Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Checkable Grid** input field.
 
@@ -59,13 +58,13 @@ For each click, a column will be added to the vertical grid. On the other hand, 
 
 You can customize the Grid column section.
 
-- Selection: You can Pre-select options if needed by clicking the Checkbox option.
+- **Selection:** You can Pre-select options if needed by clicking the Checkbox option.
 
-- Show Values: You can add value by enabling the Show Value option. It helps for admin convenience.
+- **Show Values:** You can add value by enabling the Show Value option. It helps for admin convenience.
 
-- Naming Options: You can set column and row labels as you want.
+- **Naming Options:** You can set column and row labels as you want.
 
-- Rearrange Options: You can rearrange them by dragging and dropping the holding marker options.
+- **Rearrange Options:** You can rearrange them by dragging and dropping the holding marker options.
 
 **F. Grid Rows:** This section allows you to add a row to your grid system. To add a row to the horizontal grid, click the **Plus**(+) **Icon**. 
 
@@ -73,19 +72,19 @@ For each click, a row will be added to the horizontal grid. On the other hand, i
 
 You can customize the Grid Rows section.
 
-- Selection: You can pre-select options if needed by clicking the Checkbox option.
+- **Selection:** You can pre-select options if needed by clicking the Checkbox option.
 
-- Show Values: You can add value by enabling the Show Value option. It helps for admin convenience.
+- **Show Values:** You can add value by enabling the Show Value option. It helps for admin convenience.
 
-- Naming Options: You can set column and row labels as you want
+- **Naming Options:** You can set column and row labels as you want
 
-- Rearrange Options: You can re-arrange them by dragging and dropping the holding marker options.
+- **Rearrange Options:** You can re-arrange them by dragging and dropping the holding marker options.
 
 **G. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
 
 ![Checkable Grid](/images/form-fields/advanced-fields/checkable-grid-input-field-in-fluent-forms/checkable-grid-04-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 

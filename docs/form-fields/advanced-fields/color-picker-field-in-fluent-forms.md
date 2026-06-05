@@ -4,13 +4,12 @@ The **Color Picker** field in Fluent Forms allows users to select a color using 
 
 This guide will walk you through adding and customizing the **Chained Select** field in Fluent Forms.
 
-> The Color Picker Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Color Picker** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ### Adding a Color Picker Field
 
-To learn how to add the **Color Picker Field** to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** icon to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -23,7 +22,7 @@ Now, select the **Color Picker** field by **clicking** or **dragging** it and **
 
 ![Adding Color Picker Field](/images/form-fields/advanced-fields/color-picker-field-in-fluent-forms/adding-color-picker-field-02-scaled.webp)
 
-### Customizing the Color Picker Field
+## Customizing the Color Picker Field
 
 Once you add the **Color Picker** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
 

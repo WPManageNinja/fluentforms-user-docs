@@ -10,9 +10,7 @@ This guide will show you step-by-step how to add and change the **Password Field
 
 ## Adding Password Input Field
 
-To learn how to add the **Password** field to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -35,11 +33,10 @@ Once you add the Password field, you can customize it by hovering over it and cl
 
 ![Input Customization Fluent Forms](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/input-customization-03-23-scaled.webp)
 
-#### Password Options
+### Password Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Password** input field.
 
-All the Settings under the **Password Input Field** mentioned above are briefly explained below – 
 
 **A. Element Label:** This is the field title users will see when filling out the **Password input** field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -53,7 +50,7 @@ All the Settings under the **Password Input Field** mentioned above are briefly 
 
 ![Password Input Options](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/Password-input-options-04-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 
