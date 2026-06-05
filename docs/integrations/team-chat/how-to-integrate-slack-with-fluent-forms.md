@@ -58,7 +58,7 @@ Give your **app a Name** to easily find it later, **choose your Workspace** from
 
 Once you create the app, open the **Incoming Webhooks** page and enable the **Toggle** button to activate it.
 
-Now, scroll down to the **Webhook URLs for Your Workspac**e section and click the **Add New Webhook to Workspace** button. 
+Now, scroll down to the **Webhook URLs for Your Workspace** section and click the **Add New Webhook to Workspace** button. 
 
 ![Incoming Webhooks Fluent Forms](/images/integrations/team-chat/how-to-integrate-slack-with-fluent-forms/7.-Incoming-Webhooks-scaled.webp)
 

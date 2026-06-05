@@ -17,7 +17,7 @@ Add the input fields where the value must be set from the URL parameter or selec
 
 ## Enable GET Parameter for Field
 
-Click the **Three-dot** **Icon** of the **Default Value** field. Then, select the first option, **Populate by GET Param**. Don’t forget the **Name Attribut**e, which is email in this case.
+Click the **Three-dot** **Icon** of the **Default Value** field. Then, select the first option, **Populate by GET Param**. Don’t forget the **Name Attribute**, which is email in this case.
 
 ![URL Populate](/images/configuring-forms/conditional-logic/set-default-form-value-from-url-parameters/URL-populate-01-1-scaled.webp)
 

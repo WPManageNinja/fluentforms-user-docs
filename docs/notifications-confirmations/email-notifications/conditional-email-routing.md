@@ -17,7 +17,7 @@ First, go to **Forms** from the top navbar, and **open** the **Editor** page of 
 
 Now, go to **Settings & Integrations** from the top navbar and open the **Email Notifications** tab. 
 
-First, you can **Enable** the default **Admin Notification** by **toggling it on.** Then**,** open its settings using the **Settings Icon** to set conditions based on your needs.
+First, you can **Enable** the default **Admin Notification** by **toggling it on.** Then, open its settings using the **Settings Icon** to set conditions based on your needs.
 
 Or, create a new one by clicking the **+ Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/docs/how-to-setup-adminuser-email-notifications).
 

@@ -22,7 +22,7 @@ Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, 
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
-Now, select the desired **Checkable Grid** **Input** field by clicking or d**ragging** it and **dropping** it into your editor.
+Now, select the desired **Checkable Grid** **Input** field by clicking or **dragging** it and **dropping** it into your editor.
 
 ![Adding Checkable Grid](/images/form-fields/advanced-fields/checkable-grid-input-field-in-fluent-forms/adding-checkable-grid-02-scaled.webp)
 

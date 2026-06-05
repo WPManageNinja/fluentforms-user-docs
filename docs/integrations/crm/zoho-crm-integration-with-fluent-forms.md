@@ -49,7 +49,7 @@ Then go to **Settings** and **Enable** the **Data Centers** as you need.
 
 Then, return to the **Zoho CRM Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
 
-Now, paste the **Account URL, Client ID,** and **Client Secret** that you copied before**.**
+Now, paste the **Account URL, Client ID,** and **Client Secret** that you copied before.
 
 After that, click the **Save Settings** button.
 

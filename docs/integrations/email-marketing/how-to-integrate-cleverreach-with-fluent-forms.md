@@ -36,7 +36,7 @@ Click the **Create OAuth2 app** button.
 
 ![Create Oath2 App](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/5.-Create-Oath2-App.webp)
 
-Then give your OAuth **App** a **Name**, choose **REST API Version 3** from the dropdown list, keep the **Redirect URL ( * )**,  select the** Scopes **as** Recipients **and** Forms**, and press the** Create Now** button. 
+Then give your OAuth **App** a **Name**, choose **REST API Version 3** from the dropdown list, keep the **Redirect URL ( * )**, select the **Scopes** as **Recipients** and **Forms**, and press the **Create Now** button. 
 
 ![Create Now Button](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/6.-Create-Now-button.webp)
 
@@ -54,7 +54,7 @@ Then, return to the **CleverReach Settings** page under the **Configure Integrat
 
 Paste the **Client ID** and **Client Secret** you copied from **CleverReach** into the **CleverReach**  **Client ID** and **CleverReach Client Secret** fields respectively.
 
-Finally, press the **Save Setting**s button to save your all changes.
+Finally, press the **Save Settings** button to save your all changes.
 
 ![Paste Client ID And Secret](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/9.-Paste-Client-ID-and-Secret-scaled.webp)
 

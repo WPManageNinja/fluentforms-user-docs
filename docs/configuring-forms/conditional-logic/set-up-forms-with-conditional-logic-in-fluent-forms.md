@@ -83,7 +83,7 @@ As I have selected the "**Group**" conditional match here, when users meet eithe
 
 ![Group Conditional Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/8.-Group-Conditional.webp)
 
-Here is a **preview** of a form where the user met **All Conditions** under **Group 1** **(**providing an email address including **“@gmail.com”** and selecting the **“Fluent Forms”** product**)**. As a result, the **Payment Method** field is visible here.
+Here is a **preview** of a form where the user met **All Conditions** under **Group 1** **(** providing an email address including **“@gmail.com”** and selecting the **“Fluent Forms”** product**)**. As a result, the **Payment Method** field is visible here.
 
 ![Preview Group One Codinitional Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/9.-Preview-of-Group-one-codinitional.webp)
 

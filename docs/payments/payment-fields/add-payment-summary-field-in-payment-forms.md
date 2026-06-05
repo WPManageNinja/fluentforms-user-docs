@@ -1,6 +1,6 @@
 # Add Payment Summary Field in Payment Forms
 
-In **Fluent Forms**, the **Payment Summary** field allows users to view a summary of their total payments based on the selected items or products and you can use it in any form**.**
+In **Fluent Forms**, the **Payment Summary** field allows users to view a summary of their total payments based on the selected items or products and you can use it in any form.
 
 This article will guide you through adding the **Payment Summary** field in your Fluent Forms for your WordPress Site.
 

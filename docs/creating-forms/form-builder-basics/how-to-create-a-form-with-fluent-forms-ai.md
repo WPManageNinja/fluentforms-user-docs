@@ -7,7 +7,7 @@ Fluent Forms now integrates Fluent Forms AI, making it easier for users to creat
 
 ## Create Forms using Fluent Forms AI
 
-To start, log into your **WordPress Dashboard**. Now, navigate to the **Fluent Forms** **Plugin** and click the **New Form** button from the left sidebar.  Or, go to the **Fluent Forms** Navbar**,** click the **Forms**, and click the **+ Add New Form** button. 
+To start, log into your **WordPress Dashboard**. Now, navigate to the **Fluent Forms** **Plugin** and click the **New Form** button from the left sidebar.  Or, go to the **Fluent Forms** Navbar, click the **Forms**, and click the **+ Add New Form** button. 
 
 ![Add new form](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/1.-Add-new-form-button-scaled-2.webp)
 

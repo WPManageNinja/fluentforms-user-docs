@@ -52,9 +52,9 @@ For example, I selected the **“Top”** alignment for the input fields. You ca
 
 ## 2. Help Message Position
 
-With this option, you can define the **Placement** for the **Help Message** of your I**nput Fields**.
+With this option, you can define the **Placement** for the **Help Message** of your **Input Fields**.
 
-Clicking th**e Arrow Icon** will provide four options for setting the **Placement** of the **Help Message**. These are:
+Clicking the **Arrow Icon** will provide four options for setting the **Placement** of the **Help Message**. These are:
 
 - **Beside Label (Tooltip):** Select this option to align the Help Message’s position right next to the Field Label as a Tooltip.
 
@@ -67,15 +67,15 @@ Clicking th**e Arrow Icon** will provide four options for setting the **Placemen
 ![Help Message Option](/images/design-styling/form-layout-settings-in-fluent-forms/5.-Help-message-option.webp)
 
 For example, I selected the **“Beside Label (Tooltip)”** position for the **Help Message**.
-You can see that the **Help Message** of the **Email** **Field** is placed beside the **Field Labe**l as a **Tooltip**. 
+You can see that the **Help Message** of the **Email** **Field** is placed beside the **Field Label** as a **Tooltip**. 
 
 ![Preview Help Message Form Layout Settings](/images/design-styling/form-layout-settings-in-fluent-forms/6.-preview-of-help-message.webp)
 
 ### 3. Error Message Position
 
-With this option, you can define the **Placement** for the **Error Message** of your I**nput Fields**.
+With this option, you can define the **Placement** for the **Error Message** of your **Input Fields**.
 
-Clicking th**e Arrow Icon** will provide two options for setting the **Placement** of the **Error Message**. These are:
+Clicking the **Arrow Icon** will provide two options for setting the **Placement** of the **Error Message**. These are:
 
 - **Below Input Fields:** Choose this option to place the Error Message below the input fields.
 
@@ -92,7 +92,7 @@ You can see that the **Error Message** is displayed below the **Email** **Field*
 
 With this option, you can define the **Asterisk Marker Position** for the **Required** **Input Fields**.
 
-Clicking th**e Arrow Icon** will provide three options for setting the **Placement** of the **Asterisk Marker**. These are:
+Clicking the **Arrow Icon** will provide three options for setting the **Placement** of the **Asterisk Marker**. These are:
 
 - **None:** Select this option if you don’t want to display Asterisk Marker for the required input fields.
 

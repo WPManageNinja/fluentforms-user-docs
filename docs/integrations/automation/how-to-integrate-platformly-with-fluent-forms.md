@@ -65,7 +65,7 @@ Return to the **Platformly API Settings** page under the **Configure Integration
 
 Paste the **API Key** and **Project ID** you copied from **Platformly** into the **Platformly API Key** and **Platformly Project ID** fields respectively.
 
-Finally, press the **Save Setting**s button to make your **Platformly Integration** module functional.  
+Finally, press the **Save Settings** button to make your **Platformly Integration** module functional.  
 
 ![Paste API Key And Project ID](/images/integrations/automation/how-to-integrate-platformly-with-fluent-forms/9.-Paste-the-API-Key-and-Project-ID-scaled.webp)
 

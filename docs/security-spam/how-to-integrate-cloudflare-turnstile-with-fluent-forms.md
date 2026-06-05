@@ -53,7 +53,7 @@ Then, select the turnstile’s **Appearance Mode** and **Theme** according to yo
 
 ![Paste Keys And Validate Turnstile](/images/security-spam/how-to-integrate-cloudflare-turnstile-with-fluent-forms/7.-Paste-keys-and-validate-turnstile-scaled.webp)
 
-Once you have verified the keys, press the **Save Setting**s button to make your **Turnstile Integration** functional. 
+Once you have verified the keys, press the **Save Settings** button to make your **Turnstile Integration** functional. 
 
 ![Save Settings Button Integrate Cloudflare Turnstile](/images/security-spam/how-to-integrate-cloudflare-turnstile-with-fluent-forms/8.-Save-Settings-button-scaled.webp)
 

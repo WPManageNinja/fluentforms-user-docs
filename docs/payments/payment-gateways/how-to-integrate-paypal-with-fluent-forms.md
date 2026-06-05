@@ -17,7 +17,7 @@ Now, go to **PayPal Standard** in the top navbar and click **Enable** **PayPal P
 
 Once you enable the **PayPal**, all the required settings will appear to configure the PayPal with Fluent Forms. 
 
-Before starting the configuration, select any **Payment Mode** between **Sandbox** (for test payments) and **Live (**for real payments) as both options follow the same configuration process, e.g., I choose the **Sandbox Mode**.
+Before starting the configuration, select any **Payment Mode** between **Sandbox** (for test payments) and **Live (** for real payments) as both options follow the same configuration process, e.g., I choose the **Sandbox Mode**.
 
 Then, enter the email you signed up with on the [PayPal Account](https://www.paypal.com/signin) into the **PayPal Email** field.
 

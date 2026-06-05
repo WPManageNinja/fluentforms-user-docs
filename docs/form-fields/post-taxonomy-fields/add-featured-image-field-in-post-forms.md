@@ -33,7 +33,7 @@ Configure **Featured Image** labels and upload options:
 
 **A. Element Label**: This is the field content the users will see when filling out the **Post Content** field in a form. You can enter any text here to help users understand the purpose of the field.
 
-**B. Admin Field Label**: The admin field label is a field Content displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option**.**
+**B. Admin Field Label**: The admin field label is a field Content displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
 
 **C. Button Text**: This is the content that will be visible as button text for uploading files.
 

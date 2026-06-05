@@ -298,7 +298,7 @@ After that, you can combine the above codes into one filter for simplicity. You 
 
 });`
 
-When using combined code, you don’t need to write multiple **add_filte**r functions and return statements.
+When using combined code, you don’t need to write multiple **add_filter** functions and return statements.
 
 After adding the code, click the **Update file** button to save the **functions.php** file.
 

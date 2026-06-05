@@ -40,7 +40,7 @@ Once you click allow, Trello will provide the access key. Now, simply copy it.
 Return to the **Trello API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
 
 Paste the **Access Key** you copied from **Trello** into the **Trello Access Key** field.
-Finally, press the **Save Setting**s button to make your **Trello Integration** functional. 
+Finally, press the **Save Settings** button to make your **Trello Integration** functional. 
 
 ![Paste API Key](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/5.-Paste-API-Key-scaled.webp)
 

@@ -47,7 +47,7 @@ Now **Copy** the Secret Key & Integration ID to use them in the next step.
 
 Then, return to the **amoCRM Settings** page under the **Global Settings > Configure Integration** tab from the **Fluent Forms** navbar.
 
-Now, paste the **Integration ID** and **Secret Key** that was copied before**.**
+Now, paste the **Integration ID** and **Secret Key** that was copied before.
 
 Press the **Save Settings** button to make your **amoCRM Integration** module functional.
 

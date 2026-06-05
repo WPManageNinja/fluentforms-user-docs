@@ -87,7 +87,7 @@ The Misc Tab styles the Form Container background, padding, and margin.
 
 **After Submit Success Message Styles:** You can also easily customize the After Submit Success Message. Fill out your form and submit it for visual viewing while designing the submit success message for testing purposes.
 
-You can customize the background and fonts. You can change the **Font Size** and weight, **Text Decoration**, **Line Height**, and **Letter Spacin**g, among other things. 
+You can customize the background and fonts. You can change the **Font Size** and weight, **Text Decoration**, **Line Height**, and **Letter Spacing**, among other things. 
 
 The box shadow of the success message box can be defined under the typography settings.
 

@@ -33,7 +33,7 @@ Don’t forget to click the **Save Settings** button to make all the setup funct
 
 First, go to **Global Settings** from the **FluentForms Navbar**, open the **General** tab from the left sidebar, and click the **Miscellaneous** option. 
 
-Now, scroll down to **Auto Load CAPTCHA**, turn on the **toggle**, select the **Google reCAPTCHA** option**,** and the **reCAPTCHA** will automatically load in all fluent forms to protect them from spam.
+Now, scroll down to **Auto Load CAPTCHA**, turn on the **toggle**, select the **Google reCAPTCHA** option, and the **reCAPTCHA** will automatically load in all fluent forms to protect them from spam.
 
 Don’t forget to click the **Save Settings** button to make all the setup functional. 
 

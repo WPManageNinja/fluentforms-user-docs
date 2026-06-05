@@ -46,7 +46,7 @@ Finally, a popup will appear with your API key. Copy it.
 Then, return to the **SendFox API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
 
 Paste the **API Key** you copied from **SendFox** into the **SendFox API Key** field.
-Finally, press the **Save Setting**s button to make your **SendFox Integration** module functional.
+Finally, press the **Save Settings** button to make your **SendFox Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/how-to-integrate-sendfox-with-fluent-forms/7.-Paste-API-Key-scaled-3.webp)
 

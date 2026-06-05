@@ -43,7 +43,7 @@ Return to the **ActiveCampaign API Settings** page under the **Configure Integra
 
 Paste the **API URL** and **API Key** you copied from **ActiveCampaign** into the **ActiveCampaign API URL** and **ActiveCampaign API Key** fields respectively. 
 
-Finally, press the **Save Setting**s button to make your **ActiveCampaign Integration** module functional.
+Finally, press the **Save Settings** button to make your **ActiveCampaign Integration** module functional.
 
 ![Paste API URL And Key](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/4.-Paste-API-URL-and-Key-scaled.webp)
 
@@ -115,7 +115,7 @@ For example, you can see four new **Form Submissions** under the **Entries** tab
 
 ![Entries Fluent Forms](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/11.-New-Entries-scaled.webp)
 
-Now, go to the **ActiveCampaign** **Contacts** section from the left sidebar, open the **Lists** tab, and click on the **Desired Lis**t you integrated into **Fluent Forms**.
+Now, go to the **ActiveCampaign** **Contacts** section from the left sidebar, open the **Lists** tab, and click on the **Desired List** you integrated into **Fluent Forms**.
 
 ![Contacts Lists Activecampaign](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/12.-Contacts-Lists-ActiveCampaign-scaled.webp)
 

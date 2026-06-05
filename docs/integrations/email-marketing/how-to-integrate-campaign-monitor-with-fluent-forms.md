@@ -33,7 +33,7 @@ Now, click the **API** Keys option.
 
 ![API Keys Fluent Forms](/images/integrations/email-marketing/how-to-integrate-campaign-monitor-with-fluent-forms/4.-API-Keys-scaled.webp)
 
-Then, click the **Generate API Key** button**.**
+Then, click the **Generate API Key** button.
 
 ![Generate API Key](/images/integrations/email-marketing/how-to-integrate-campaign-monitor-with-fluent-forms/5.-Generate-API-Key-scaled.webp)
 

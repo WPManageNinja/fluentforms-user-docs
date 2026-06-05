@@ -37,7 +37,7 @@ Now, click **Personal preferences** and then select the **API** sections. Here, 
 
 Then, return to the **Pipedrive Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
 
-Now, paste the **API Token** that you copied before**.**
+Now, paste the **API Token** that you copied before.
 
 Press the **Verify Pipedrive API Token** button to make your **Pipedrive Integration** module functional.
 

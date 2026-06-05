@@ -1,6 +1,6 @@
 # Add Item Quantity Field in Payment Forms
 
-In **Fluent Forms**, the **Item Quantity** field enables users to select a single item or product in multiple quantities based on their needs**.** This article will guide you through adding the **Item Quantity** field in your Fluent Forms for your WordPress Site.
+In **Fluent Forms**, the **Item Quantity** field enables users to select a single item or product in multiple quantities based on their needs. This article will guide you through adding the **Item Quantity** field in your Fluent Forms for your WordPress Site.
 
 ## Add Item Quantity Field
 
@@ -66,7 +66,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **E. Step**: Please provide the step attribute for this field.
 
-**F. Prefix Labe**l: Use this option to provide a Prefix Label in your input field. It will show in the input field as a Prefix label.
+**F. Prefix Label**: Use this option to provide a Prefix Label in your input field. It will show in the input field as a Prefix label.
 
 **G. Suffix Label**: Use this option to provide a Suffix Label in your input field. It will show in the input field as a Suffix label.
 

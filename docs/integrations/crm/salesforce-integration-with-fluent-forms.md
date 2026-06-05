@@ -21,13 +21,13 @@ Salesforce provides API Access to these four account editions only:
 
 To learn how to enable Salesforce integration, follow the steps with the screenshots below – 
 
-First, go to **Integrations** from the **Fluent Forms Navba**r, search for **Salesforce** through the search bar, and get the **Salesforce integration module**.
+First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Salesforce** through the search bar, and get the **Salesforce integration module**.
 
 Now, turn on the **Toggle** to enable the **Salesforce** module and click the **Settings Icon** on the right.
 
 ![Unnamed](/images/integrations/crm/salesforce-integration-with-fluent-forms/unnamed-1-2-2.webp)
 
-Once you enable **Salesforce**, you will be asked for the **Sandbox Account**, **Salesforce Domain URL**, **Salesforce Consumer Ke**y, and **Salesforce Consumer Secret** of your **Salesforce Account**.
+Once you enable **Salesforce**, you will be asked for the **Sandbox Account**, **Salesforce Domain URL**, **Salesforce Consumer Key**, and **Salesforce Consumer Secret** of your **Salesforce Account**.
 
 > If you use a Sandbox Account, check the Salesforce Sandbox Account checkbox.
 

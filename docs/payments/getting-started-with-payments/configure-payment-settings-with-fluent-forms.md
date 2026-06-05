@@ -20,7 +20,7 @@ First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Pa
 
 ### 1. General
 
-Under this tab, you will get the following options to configure your payment settings. Remember, this **General Setting** will function globally for all **Fluent Form**s.
+Under this tab, you will get the following options to configure your payment settings. Remember, this **General Setting** will function globally for all **Fluent Forms**.
 
 **A. Enable Payment Module**: This option is enabled by default, giving you access to the Payment Module (i.e., all payment-related input fields) among all forms. If you uncheck the box, the **Payment Module** will be disabled for all forms. But if you want to accept payment through Fluent Forms, you need to keep it enabled.
 

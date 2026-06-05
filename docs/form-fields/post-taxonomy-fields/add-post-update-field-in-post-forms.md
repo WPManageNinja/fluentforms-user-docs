@@ -33,7 +33,7 @@ Configure **Post Update** labels and post selection options:
 
 **A. Element Label**: This is the field Update the users will see when filling out the **Post Update** field in a form. You can enter any text here to help users understand the purpose of the field.
 
-**B. Admin Field Label**: The admin field label is a field Update displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option**.**
+**B. Admin Field Label**: The admin field label is a field Update displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
 
 **C. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
 

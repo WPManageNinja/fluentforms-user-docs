@@ -57,7 +57,7 @@ Then, return to the **iContact API Settings** page under the **Configure Integra
 
 Paste all the required information you copied from iContact into the respective fields (**Application ID** into **Application Key**, **Username/Email Address** into **Account Email Address**, **Password** into **API Password**, **Account ID**, and **Client Folder ID** fields).
 
-Finally, press the **Save Setting**s button to make your **iContact Integration** module functional.
+Finally, press the **Save Settings** button to make your **iContact Integration** module functional.
 
 ![Paste All Copied Information](/images/integrations/email-marketing/how-to-integrate-icontact-with-fluent-forms/7.-Paste-all-copied-information-scaled.webp)
 

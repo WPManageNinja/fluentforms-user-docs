@@ -31,7 +31,7 @@ First, log in to your [GetGist Account](https://app.getgist.com/login), then go 
 
 Then, return to the **GetGist Settings** page under the **Global Settings Configure Integration tab** from the **Fluent Forms Navbar**.
 
-Now, **paste** the Getgist **API Key** that was copied before**.**
+Now, **paste** the Getgist **API Key** that was copied before.
 
 Press the **Save Settings** button to activate your **GetGist Integration** module.
 
