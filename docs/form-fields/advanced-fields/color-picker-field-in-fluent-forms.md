@@ -36,8 +36,6 @@ Once you add the **Color Picker** field, you can customize it by hovering over i
 
 Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Color Picker** field.
 
-All the settings under the **Color Picker Field** mentioned above are briefly explained below-
-
 **A. Element Label:** This is the field title the users will see when filling out the **Color Picker** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
@@ -58,7 +56,7 @@ If you select the **Default** option, it will represent your **Global** label pl
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 

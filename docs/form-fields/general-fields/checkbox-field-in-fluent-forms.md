@@ -97,7 +97,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save CheckBox Field](/images/form-fields/general-fields/checkbox-field-in-fluent-forms/save-form-06-1-scaled.webp)
 
-## Preview of Added Checkbox Field
+### Preview of Added Checkbox Field
 
 Here is the preview of the added **Checkbox** field under the Form. 
 

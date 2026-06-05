@@ -12,8 +12,6 @@ So let’s get started.
 
 ## Adding Country List Field
 
-To learn how to add the country list to Fluent Forms, follow the steps below:
-
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]

@@ -95,7 +95,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/save-form-06-7-scaled.webp)
 
-## Preview of Added Multiple Choice Field
+### Preview of Added Multiple Choice Field
 
 Here is the preview of the added **Multiple Choice** field under the Form. 
 

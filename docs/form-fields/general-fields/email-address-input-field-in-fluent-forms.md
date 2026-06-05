@@ -81,7 +81,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Email Address Input Field](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Save-Form-06-4-scaled.webp)
 
-## Preview of Added Email Address Field
+### Preview of Added Email Address Field
 
 Here is the preview of the added **Email Address** field under the Form. 
 

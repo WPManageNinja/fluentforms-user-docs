@@ -104,7 +104,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Image Upload Input Field](/images/form-fields/general-fields/image-upload-input-field-in-fluent-form/Save-Form-06-6-scaled.webp)
 
-## Preview of Added Image Upload Field
+### Preview of Added Image Upload Field
 
 Here is the **Preview** of the **Form** to test the image upload functionality.
 

@@ -40,8 +40,6 @@ Once you add the checkable grid field, you can customize it by **hovering over**
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Checkable Grid** input field.
 
-All the Settings under the **Checkable Grid Field** mentioned above are briefly explained below – 
-
 **A. Element Label:** This is the field title users will see when filling out the **Checkable Grid** field in a form. You can enter any text here to help users understand the field's purpose.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
@@ -86,7 +84,7 @@ You can customize the Grid Rows section.
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
