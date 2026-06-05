@@ -70,12 +70,8 @@ Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post F
 
 First, go to **Settings & Integrations** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
 
-<<<<<<< HEAD
-> If you don’t have an existing post feed, you can add a new one by clicking the + Add Post Feed button. For example, I used an existing Feed to show the process.
-=======
 > [!Note]
 > If you do not have a **Post Feed** yet, click **+ Add Post Feed** under **Settings & Integrations → Post Feeds**. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) for the full feed setup process.
->>>>>>> tajulauthlab
 
 ![Add Post Feed](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/6.-Add-Post-Feed-scaled.webp)
 
@@ -83,12 +79,8 @@ Then, a pop-up page will appear with various settings options for configuring th
 
 **Remember**, here, you need to select **"Update Post"** as the **Submission Type** to access all existing posts from your WordPress Site and make the form functional. Otherwise, the **Post Update** field won’t appear in your **Post Form**.
 
-<<<<<<< HEAD
-> See the Post Feed configuration steps above to learn how to use the other settings options and complete the Post Feed Configuration process.
-=======
 > [!Note]
 > Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
->>>>>>> tajulauthlab
 
 Once the setup is done, click the **Save Feed** button and your **Post Feed** will be configured. Now, your Post Update will function successfully!
 

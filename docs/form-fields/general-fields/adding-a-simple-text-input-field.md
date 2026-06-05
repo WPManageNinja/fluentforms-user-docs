@@ -48,11 +48,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-<<<<<<< HEAD
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
-=======
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value,read this [article.](/docs/dynamic-default-value-in-fluent-forms)
->>>>>>> tajulauthlab
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 
@@ -70,11 +66,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **I. Max Text Length:** You can set the maximum number of characters that the input field can accept. This is ideal for limiting responses like postal codes or short codes.
 
-<<<<<<< HEAD
 **Validate as Unique:** Ensure the input value is unique among all submissions. If not unique, users will receive an error message. Learn more in [Unique Field Validation](/docs/unique-field-validation). 
-=======
-   **Validate as Unique:** Ensure the input value is unique among all submissions. If not unique, users will receive an error message. 
->>>>>>> tajulauthlab
 
 **J. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. 
 

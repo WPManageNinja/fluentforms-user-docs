@@ -97,12 +97,8 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 To integrate and display the form on a specific Page or Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 
-<<<<<<< HEAD
-> The Save Progress Button is equally applicable to the [Multi-Step Form](/docs/creating-a-multi-step-form-in-fluent-forms).
-=======
 > [!Note]
 > **Save & Resume** also works on **multi-step forms**. See [Creating a Multi-Step Form in Fluent Forms](/docs/creating-a-multi-step-form-in-fluent-forms).
->>>>>>> tajulauthlab
 
 ![Save](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Save-Form-07-1-scaled.webp)
 

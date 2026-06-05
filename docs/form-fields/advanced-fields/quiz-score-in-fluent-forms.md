@@ -56,13 +56,7 @@ Under the Input Customization tab, you will find various settings options for cu
 
  For example, Set the minimum and maximum value for any Grade Label; if your score falls between the minimum and maximum range (75) of the B grade label, your result will be B. If your score is not included in the Grade System, your result will say Not Graded.
 
-<<<<<<< HEAD
 - Personality: You can create a Personal Quiz with Fluent Form. To learn more, read the [Personality Quiz Form documentation](/docs/creating-a-personality-quiz-form-in-fluent-forms).
-=======
-- **Percentage:** When the score type is set to a Percentage in the Quiz score input field, the results will be shown as a percentage of the correct answers. For example, if you have five questions and have given 3 correct answers, your result will be 60.00%.
-
-- **Personality:** You can create a Personal Quiz with Fluent Form. To learn more, read this article.
->>>>>>> tajulauthlab
 
 ![Quiz Score Field](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Quiz-Score-field-04-scaled.webp)
 

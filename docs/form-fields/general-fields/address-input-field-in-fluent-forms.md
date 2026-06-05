@@ -4,12 +4,8 @@ The Address input field in[ Fluent Forms](https://fluentforms.com/) offers a sui
 
 This guide will walk you through adding and customizing the **Address Input Field** in Fluent Forms for your WordPress site.
 
-<<<<<<< HEAD
-> You can autocomplete your address field using Google Maps integration, see [How to Integrate Google Maps with Fluent Forms](/docs/how-to-integrate-google-maps-with-fluent-forms).
-=======
 > [!Note]
 > Autocomplete the **Address** field with **Google Maps** (Fluent Forms Pro). See [How to Integrate Google Maps with Fluent Forms](/docs/how-to-integrate-google-maps-with-fluent-forms).
->>>>>>> tajulauthlab
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/qlYfmqCujKE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -23,12 +23,8 @@ Once you are on the **Editor** page, click the **Plus** **Icon** in your form ed
 
 Now, choose the desired **Repeat Container** by clicking on it or **Drag & Drop** it into your editor.
 
-<<<<<<< HEAD
-***Note:** Only specific field types can be used within the Repeater Container. For example, the standard Name field is not supported; use a [Simple Text](/docs/adding-a-simple-text-input-field) field instead for name inputs.*
-=======
 >[!Note]
 >Only specific field types can be used within the Repeater Container. For example, the standard Name field is not supported; use a **Simple Text** field instead for name inputs.
->>>>>>> tajulauthlab
 
 ![Repeater Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/repeater-container-field-2-scaled.webp)
 
@@ -70,11 +66,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **B. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-<<<<<<< HEAD
-**C. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-=======
 **C. Conditional Logic**: This option allows the **Repeat Container** field to run only when your conditions match. To learn more, see [Set Up Forms With Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
->>>>>>> tajulauthlab
 
 **D. Max Repeat inputs**: Using this option, you can specify the maximum number of times users can duplicate the fields within the Repeater Container. To total numeric values entered across the repeated rows, see [How to Add Calc Values on the Repeat Field](/docs/how-to-add-calc-values-on-the-repeat-field).
 

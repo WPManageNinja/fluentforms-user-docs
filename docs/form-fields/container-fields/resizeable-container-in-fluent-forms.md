@@ -6,11 +6,7 @@ This article will guide you in adding resizeable containers in fluent forms.
 
 ## Add a Container Field
 
-<<<<<<< HEAD
 First, open **Fluent Forms** and **drag and drop** to add a container field, or click the **Plus Icon** to add the [Container](/docs/add-container-fields-in-fluent-forms) field to your form. Add the necessary fields inside the container ( **Name**, **Email**, **Radio** **Button**, **Custom** **Submit Button** **etc**.).
-=======
-First, open **Fluent Forms** and **drag and drop** to add a container field, or click the **Plus Icon** to add the **Container** field to your form. Add the necessary fields inside the container ( **Name**, **Email**, **Radio** **Button**, **Custom** **Submit Button** **etc**).
->>>>>>> tajulauthlab
 
 ![Resizable Container](/images/form-fields/container-fields/resizeable-container-in-fluent-forms/resizable-container-01-scaled.webp)
 

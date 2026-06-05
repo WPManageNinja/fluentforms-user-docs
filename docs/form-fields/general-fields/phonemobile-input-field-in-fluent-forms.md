@@ -4,12 +4,8 @@ The **Phone/Mobile** input field in Fluent Forms is essential for collecting use
 
 This article will guide you through adding the **Phone/Mobile** field to Fluent Forms on your WordPress Site.
 
-<<<<<<< HEAD
-> The Phone/Mobile field is an advanced feature of the Fluent Forms plugin. You require the [Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on) to use it.
-=======
 > [!Note]
 > The **Phone/Mobile** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
->>>>>>> tajulauthlab
 
 ## Adding Phone/Mobile Field
 

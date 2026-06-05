@@ -96,12 +96,8 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 Here is the preview of the added **Multiple Choice** field under the Form. 
 
-<<<<<<< HEAD
-> You can get the visual representation of this Form. To learn more, read [Visual Representation of Form Entries in Fluent Forms](/docs/visual-representation-of-form-entries-in-fluent-forms).
-=======
 > [!Tip]
 > View entry data as charts and reports. See [Visual Representation of Form Entries in Fluent Forms](/docs/visual-representation-of-form-entries-in-fluent-forms).
->>>>>>> tajulauthlab
 
 ![Preview Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Preview-07-3.webp)
 

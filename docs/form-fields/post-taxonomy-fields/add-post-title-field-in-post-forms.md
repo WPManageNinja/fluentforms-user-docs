@@ -62,12 +62,8 @@ Configure **Advanced** options:
 
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
-<<<<<<< HEAD
-> Configure the **Post Feed** with the Post Form to make it functional.
-=======
 > [!Note]
 > Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
->>>>>>> tajulauthlab
 
 ## Embed the Form into Frontend
 

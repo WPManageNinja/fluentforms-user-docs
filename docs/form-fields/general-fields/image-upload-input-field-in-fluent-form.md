@@ -2,12 +2,8 @@
 
 The **Image Upload** input field in[ Fluent Forms](https://fluentforms.com/) allows users to submit images in different formats directly through a form. This feature validates applications, registrations, file submissions, and more.
 
-<<<<<<< HEAD
-> The Image Upload field is an advanced feature of the Fluent Forms plugin. You require the [Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on) to use it.
-=======
 > [!Note]
 > The **Image Upload** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
->>>>>>> tajulauthlab
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/Yb3FSoZl9Zg" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

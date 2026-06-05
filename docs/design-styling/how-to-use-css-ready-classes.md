@@ -71,9 +71,5 @@ This class restricts the input fields from being edited; they can only be viewed
 
 This will keep the input field hidden, where this field is visible to the admin.
 
-<<<<<<< HEAD
-> CSS classes are not compatible with [Conversational Forms](/docs/how-to-create-a-conversational-form).
-=======
 >[!Note]
 > CSS classes are not compatible with Conversational Forms.
->>>>>>> tajulauthlab

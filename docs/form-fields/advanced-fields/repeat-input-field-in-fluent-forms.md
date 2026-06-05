@@ -50,11 +50,7 @@ Under the Input Customization tab, you will find various settings options for cu
 
 - **Label:** Name the Label of the Column.
 
-<<<<<<< HEAD
 - Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms).
-=======
-- **Default:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read this article.
->>>>>>> tajulauthlab
 
 You can add the **Default** value by clicking the **Three-Dot** option from the right side.
 

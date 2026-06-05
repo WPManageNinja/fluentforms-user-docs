@@ -71,12 +71,8 @@ Here is how the Accordion Container will look and function for your users on the
 
 - **Expanded View:** Once expanded, the icon will change to a **Minus Icon (-)**. A user can click this icon or the title bar again to collapse the section, hiding the fields.
 
-<<<<<<< HEAD
-> Note: The Plus (+) and Minus (-) icons on an Accordion Container are only for expanding and collapsing that one section. To allow users to duplicate or repeat a set of fields, you would use the [Repeat Container](/docs/add-repeat-container-field-in-fluent-forms) instead.
-=======
 > [!Note]
 > The **+** and **−** icons expand or collapse one accordion section only. To let users add duplicate rows of fields, use the [Repeat Container Field](/docs/add-repeat-container-field-in-fluent-forms) or [Repeat Input Field](/docs/repeat-input-field-in-fluent-forms) instead.
->>>>>>> tajulauthlab
 
 ![Final Fluent Forms](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/final-form-07.webp)
 

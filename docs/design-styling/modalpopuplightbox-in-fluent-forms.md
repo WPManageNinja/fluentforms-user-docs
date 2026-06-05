@@ -4,12 +4,8 @@ Fluent Forms offers you to built-in popup feature makes displaying forms in a mo
 
 In this documentation you will learn how to create and customize a popup form using Fluent Forms.
 
-<<<<<<< HEAD
-> This is a Pro feature of Fluent Forms. To use it, you’ll need to have [Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on) installed and activated.
-=======
 > [!Note]
 > **Modal/Popup/Lightbox** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
->>>>>>> tajulauthlab
 
 ## Displaying the Popup Form
 
@@ -51,9 +47,5 @@ These will add the CSS class to the button, as shown in the screenshot below, so
 
 ![Contact Zoro Fluent Forms](/images/design-styling/modalpopuplightbox-in-fluent-forms/Contact-zoro-04-22-2025_06_07_PM.webp)
 
-<<<<<<< HEAD
-> You can use any popup builder, such as Popup Maker or [Elementor](/docs/how-to-embed-your-forms-using-elementor-widget) Popup. You need to add the Fluent Forms shortcode inside the Popup builder.
-=======
 >[!Note]
 > You can use any popup builder, such as Popup Maker or Elementor Popup. You need to add the Fluent Forms shortcode inside the Popup builder.
->>>>>>> tajulauthlab

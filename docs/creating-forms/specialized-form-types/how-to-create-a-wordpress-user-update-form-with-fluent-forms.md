@@ -42,11 +42,7 @@ You can add multiple meta keys by clicking the **Plus Icon.**
 > [!Note]
 > The **User Meta** key must match the form field’s **name attribute**.
 
-<<<<<<< HEAD
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your conditional logic set. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
-=======
 **E. Conditional Logic:** This option allows the feed to run only when your conditions match. To learn more, see [Set Up Forms With Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab
 
 **F. Status:** Enable this feed option to activate the integration.
 
@@ -54,12 +50,8 @@ Once the setup is done, finally, click the **Save Feed** button.
 
 Your User Registration form or Update will be integrated into this specific form!
 
-<<<<<<< HEAD
-> Users can register in a single form. Read [How to Create a WordPress User Registration Form With Fluent Forms](/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms) to learn more about user registration.
-=======
 > [!Note]
 > One form can include both **User Registration** and **User Update** feeds. To set up new account sign-up, see [How to Create a WordPress User Registration Form With Fluent Forms](/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms).
->>>>>>> tajulauthlab
 
 ![User update feed](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/add-new-user-update-03-scaled.webp)
 

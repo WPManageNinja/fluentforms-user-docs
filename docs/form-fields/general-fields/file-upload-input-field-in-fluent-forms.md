@@ -2,12 +2,8 @@
 
 The **File Upload** input field in [Fluent Forms](https://fluentforms.com/) allows users to submit various file types directly through a form. This feature is ideal for document submissions, job applications, customer support, and more.
 
-<<<<<<< HEAD
-> The File Upload field is an advanced feature of the Fluent Forms plugin. To use it, you require the [Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
-=======
 > [!Note]
 > The **File Upload** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
->>>>>>> tajulauthlab
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/bXbTbNPM_4k" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
