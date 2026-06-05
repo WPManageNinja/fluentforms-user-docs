@@ -10,6 +10,7 @@ First, edit your form in the Form Builder and select the field where you want to
 
 Now, From the **Advanced Options** tab, you’ll see an input called **Container Class**. Add the **Ready Class** name or names you want to add to the field and click the **Save Form** button.
 
+>[!Note]
 > This feature does not update live in the form builder.
 
 ![use CSS Ready Classes step](/images/design-styling/how-to-use-css-ready-classes/321-scaled.webp)
@@ -70,4 +71,5 @@ This class restricts the input fields from being edited; they can only be viewed
 
 This will keep the input field hidden, where this field is visible to the admin.
 
+>[!Note]
 > CSS classes are not compatible with Conversational Forms.

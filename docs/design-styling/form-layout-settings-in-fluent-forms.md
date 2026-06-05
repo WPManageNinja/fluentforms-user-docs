@@ -10,9 +10,7 @@ This article will guide you through setting up the **Form Layout** in **Fluent F
 
 ## Form Layout Settings
 
-To learn how to set up form layout individually, follow the steps below – 
-
-First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditions.
+Go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditions.
 
 ![Editor Fluent Forms](/images/design-styling/form-layout-settings-in-fluent-forms/1.-desired-Form-Editor-1-scaled.webp)
 
@@ -40,11 +38,11 @@ With this option, you can define the alignment position for the **Label** of you
 
 Clicking the **Arrow Icon** will provide three options for setting the **Placement** of the **Field Label**. These are:
 
-- Top: Select this option to align the label’s position to the top/above the input field.
+- **Top:** Select this option to align the label’s position to the top/above the input field.
 
-- Left: Choose this option to set the label’s placement to the left of an input field.
+- **Left:** Choose this option to set the label’s placement to the left of an input field.
 
-- Right: Choose this to set the label’s placement to the right of an input field.
+- **Right:** Choose this to set the label’s placement to the right of an input field.
 
 ![Label Alignment Option](/images/design-styling/form-layout-settings-in-fluent-forms/3.-Label-Alignment-option.webp)
 
@@ -58,13 +56,13 @@ With this option, you can define the **Placement** for the **Help Message** of y
 
 Clicking th**e Arrow Icon** will provide four options for setting the **Placement** of the **Help Message**. These are:
 
-- Beside Label (Tooltip): Select this option to align the Help Message’s position right next to the Field Label as a Tooltip.
+- **Beside Label (Tooltip):** Select this option to align the Help Message’s position right next to the Field Label as a Tooltip.
 
-- Below Input Fields: Choose this option to set the Help Message’s placement below the input field.
+- **Below Input Fields:** Choose this option to set the Help Message’s placement below the input field.
 
-- Focus on Element: Choose this to set the label’s placement to the right of an input field.
+- **Focus on Element:** Choose this to set the label’s placement to the right of an input field.
 
-- Before input: Choose this to set the Help Message’s placement before the input field.
+- **Before input:** Choose this to set the Help Message’s placement before the input field.
 
 ![Help Message Option](/images/design-styling/form-layout-settings-in-fluent-forms/5.-Help-message-option.webp)
 
@@ -79,9 +77,9 @@ With this option, you can define the **Placement** for the **Error Message** of 
 
 Clicking th**e Arrow Icon** will provide two options for setting the **Placement** of the **Error Message**. These are:
 
-- Below Input Fields: Choose this option to place the Error Message below the input fields.
+- **Below Input Fields:** Choose this option to place the Error Message below the input fields.
 
-- Stacked after Form: Choose this option to place the Error Message stacked after the form submit button.
+- **Stacked after Form:** Choose this option to place the Error Message stacked after the form submit button.
 
 ![Error Message Option](/images/design-styling/form-layout-settings-in-fluent-forms/7.-Error-message-option.webp)
 
@@ -96,16 +94,16 @@ With this option, you can define the **Asterisk Marker Position** for the **Requ
 
 Clicking th**e Arrow Icon** will provide three options for setting the **Placement** of the **Asterisk Marker**. These are:
 
-- None: Select this option if you don’t want to display Asterisk Marker for the required input fields.
+- **None:** Select this option if you don’t want to display Asterisk Marker for the required input fields.
 
-- Left to Label: Choose this option to place the Asterisk Marker to the left of the Required Field Labels.
+- **Left to Label:** Choose this option to place the Asterisk Marker to the left of the Required Field Labels.
 
-- Right to Label: Choose this option to place the Asterisk Marker to the right of the Required Field Labels.
+- **Right to Label:** Choose this option to place the Asterisk Marker to the right of the Required Field Labels.
 
 ![Asterisk Position Option](/images/design-styling/form-layout-settings-in-fluent-forms/9.-Asterisk-position-option.webp)
 
 For example, I selected the **“Right to Label”** position for the **Asterisk**.
 
-You can see that the **Asterisk ( * ) **is displayed right next to the** Required Fields **(e.g.,** Email **and** Country** as both are the required fields ).
+You can see that the **Asterisk ( * )** is displayed right next to the Required Fields **(e.g., Email and Country as both are the required fields ).
 
 ![Preview Asterisk Marker Position Form Layout Settings](/images/design-styling/form-layout-settings-in-fluent-forms/10.-preview-of-asterisk-marker-position.webp)

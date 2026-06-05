@@ -4,13 +4,16 @@ Fluent Forms offers you to built-in popup feature makes displaying forms in a mo
 
 In this documentation you will learn how to create and customize a popup form using Fluent Forms.
 
-> This is a Pro feature of Fluent Forms. To use it, you’ll need to have Fluent Forms Pro installed and activated.
+> [!Note]
+> **Modal/Popup/Lightbox** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Displaying the Popup Form
 
 To display a form in a popup, first, you must use a unique shortcode that is different from the usual one. The basic shortcode format is: 
 
-`[ fluentform_modal form_id= "228" ] `
+```
+[ fluentform_modal form_id= "228" ] 
+```
 
 > [!Note]
 > Replace the example form ID in the shortcode with your form’s ID.
@@ -24,18 +27,25 @@ Now paste it into the page or post where you want the popup to appear.
 
 Then customize the text displayed on the popup trigger button and add btn_text="**Click Me**" to your shortcode:
 
-`[ fluentform_modal form_id="228" btn_text="Click Me" ]`
+```
+[ fluentform_modal form_id="228" btn_text="Click Me" ]
+```
 
 Now, you will change the **Background Color.** To change the background color of the popup, add bg_color="**red**" (or your preferred color):
 
-`[ fluentform_modal form_id="27" btn_text="Subscribe" bg_color="green" ]`
+```
+[ fluentform_modal form_id="27" btn_text="Subscribe" bg_color="green" ]
+```
 
-Next**, add custom CSS classes** to your popup. If you want to style the button with custom CSS, use the css_class parameter:
+Next, add custom CSS classes to your popup. If you want to style the button with custom CSS, use the css_class parameter:
 
-`[ fluentform_modal form_id="228" btn_text="Subscribe" css_class="myClass myClassAgain" bg_color="red" ]`
+```
+[ fluentform_modal form_id="228" btn_text="Subscribe" css_class="myClass myClassAgain" bg_color="red" ]
+```
 
 These will add the CSS class to the button, as shown in the screenshot below, so you can customize your button to your style.
 
 ![Contact Zoro Fluent Forms](/images/design-styling/modalpopuplightbox-in-fluent-forms/Contact-zoro-04-22-2025_06_07_PM.webp)
 
+>[!Note]
 > You can use any popup builder, such as Popup Maker or Elementor Popup. You need to add the Fluent Forms shortcode inside the Popup builder.
