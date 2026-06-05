@@ -4,13 +4,16 @@ The **Phone/Mobile** input field in Fluent Forms is essential for collecting use
 
 This article will guide you through adding the **Phone/Mobile** field to Fluent Forms on your WordPress Site.
 
+<<<<<<< HEAD
 > The Phone/Mobile field is an advanced feature of the Fluent Forms plugin. You require the [Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on) to use it.
+=======
+> [!Note]
+> The **Phone/Mobile** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+>>>>>>> tajulauthlab
 
 ## Adding Phone/Mobile Field
 
-To learn how to add the phone/mobile field to the Fluent Fortms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/edit-form-01-scaled.webp)
 
@@ -33,8 +36,6 @@ A Phone/Mobile field has been added. You can edit this field by **hovering over 
 ### Phone/Mobile Field Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Phone/Mobile** field.
-
-**All the Settings under the Phone/Mobile Field mentioned above are briefly explained below –** 
 
 **A. Element Label:** This is the field title users will see when filling out the **Phone/Mobile** field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -64,19 +65,19 @@ You can select **Yes** to notify a user that he needs to add a Valid Phone Numbe
 
 **Country List:** The admin has four options in the country list. Only one option can be selected.
 
-- Show all: Choosing this will show users all the countries on the list.
+- **Show all:** Choosing this will show users all the countries on the list.
 
-- Hide these: This will let admins hide certain countries from the list and show others.
+- **Hide these:** This will let admins hide certain countries from the list and show others.
 
-- Only show these: This option enables admins to show the handpicked countries.
+- **Only show these:** This option enables admins to show the handpicked countries.
 
-- Priority Based: This option allows users to choose the country they want to prioritize. This country will rank first in the search results. There are two additional options. The Primary Countries Label and the Other Countries Label are the two options. Users can choose their Primary and Country labels on the priority list.
+- **Priority Based:** This option allows users to choose the country they want to prioritize. This country will rank first in the search results. There are two additional options. The Primary Countries Label and the Other Countries Label are the two options. Users can choose their Primary and Country labels on the priority list.
 
 ![Phone/Mobile Input Field step](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/012.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -98,7 +99,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/Save-Form-06-2-scaled.webp)
 
-## Preview of Added Phone/Mobile Field
+### Preview of Added Phone/Mobile Field
 
 Here is the **Preview** of the **Form** to test the phone/mobile field functionality.
 

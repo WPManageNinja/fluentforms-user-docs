@@ -4,13 +4,12 @@ The **Action Hook** field in Fluent Forms allows [developers](/docs/advanced-dev
 
 This guide will walk you through adding and customizing the **Action Hook Field** in Fluent Forms for your WordPress site.
 
-> The Action Hook field is an advanced feature of the Fluent Forms plugin. To use it, you need the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Action Hook** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ### Adding Action Hook Field
 
-To learn how to add the **Action Hook** field to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -33,7 +32,7 @@ Once you add the action hook field, you can customize it by hovering over it and
 
 ![Ad 4nxcfzlitbhlasejrzhrss Etwgfmnrggbzuxeqthf4hw Fg6ukornuryjmytbjc1yqrzx462ljymx59rsvlwn1tg3mdtto03](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/AD_4nXcfzLitBhLasEJrZHRSs-EtWGfmnRGGbzuXeqthf4HW-fG6ukOrNURYJMYtbJC1YqrZx462LjYmx59rSvlwn1tg3mDTtO03_DasAJg-zAgMmmu7_15sDP-BkzggW0i9EK-AKzCWFQ.png)
 
-#### Action Hook Input Options
+### Action Hook Input Options
 
 Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Action Hook** input field.
 
@@ -48,7 +47,7 @@ function your_function_name( $form ) {
 
 ![Action Hook Options](/images/form-fields/advanced-fields/action-hook-field-in-fluent-forms/action-Hook-options-04.png)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 

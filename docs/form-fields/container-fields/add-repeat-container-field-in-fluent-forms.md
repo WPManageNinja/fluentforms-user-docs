@@ -11,14 +11,11 @@ This article will guide you through the whole process of adding the **Repeat Con
 
 ## Add Repeat Container Field
 
-To learn how to add the Repeat Container field to the Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose the desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor. 
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-> 
 
 ![Edit Repeat Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/edit-form-1-scaled.webp)
 
@@ -26,7 +23,12 @@ Once you are on the **Editor** page, click the **Plus** **Icon** in your form ed
 
 Now, choose the desired **Repeat Container** by clicking on it or **Drag & Drop** it into your editor.
 
+<<<<<<< HEAD
 ***Note:** Only specific field types can be used within the Repeater Container. For example, the standard Name field is not supported; use a [Simple Text](/docs/adding-a-simple-text-input-field) field instead for name inputs.*
+=======
+>[!Note]
+>Only specific field types can be used within the Repeater Container. For example, the standard Name field is not supported; use a **Simple Text** field instead for name inputs.
+>>>>>>> tajulauthlab
 
 ![Repeater Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/repeater-container-field-2-scaled.webp)
 
@@ -34,7 +36,7 @@ Now, choose the desired **Repeat Container** by clicking on it or **Drag & Drop*
 
 You can see that a **Repeat Container** field is added to the form. You can edit/customize this field by **hovering** **over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+It will take you to the **Input Customization** tab on the right side with options for customizing the **Repeat Container** field. 
 
 1. Repeat Container
 
@@ -44,7 +46,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ### 1. Repeat Container
 
-All the **Settings** under the **Repeat Container** tab mentioned in the screenshot are briefly explained below – 
+Configure labels, columns, and width from the **Input Customization** tab:
 
 **A. Element Label**: This is the field title that the users will see when filling out the **Repeat Container** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -62,13 +64,17 @@ All the **Settings** under the **Repeat Container** tab mentioned in the screens
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
 **B. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
+<<<<<<< HEAD
 **C. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+=======
+**C. Conditional Logic**: This option allows the **Repeat Container** field to run only when your conditions match. To learn more, see [Set Up Forms With Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+>>>>>>> tajulauthlab
 
 **D. Max Repeat inputs**: Using this option, you can specify the maximum number of times users can duplicate the fields within the Repeater Container. To total numeric values entered across the repeated rows, see [How to Add Calc Values on the Repeat Field](/docs/how-to-add-calc-values-on-the-repeat-field).
 
@@ -88,7 +94,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ![Save Repeat Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/save-form-7-scaled.webp)
 
-## Preview of Repeat Container field
+### Preview of Repeat Container field
 
 Here is the preview of the added **Repeat Container** field under the Payment Form. 
 

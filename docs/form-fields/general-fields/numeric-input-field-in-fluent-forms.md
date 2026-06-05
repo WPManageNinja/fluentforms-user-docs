@@ -10,9 +10,7 @@ This article will guide you through adding the **Numeric** input field in your F
 
 ## Adding Numeric Input Field
 
-To learn how to add the Numeric input field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Numeric Input Field](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/edit-fluent-form-01-scaled.webp)
 
@@ -35,8 +33,6 @@ After adding the field, you can **customize it**. **Hover over the field** and c
 ### Numeric Field Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Numeric** input field.
-
-**All the Settings under the Numeric Field mentioned above are briefly explained below –** 
 
 **A. Element Label:** This is the field title the users will see when filling out the **Numeric** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -62,17 +58,17 @@ You will find various settings options for customizing the field. Located in the
 
 **J. Mobile Keyboard Type:** Select the specific keyboard layout that will appear for mobile users when they tap this field. Options include:
 
-- Numeric (0-9): Displays a standard number pad.
+- **Numeric (0-9):** Displays a standard number pad.
 
-- Decimal (0-9 with .): Displays a numeric pad with a decimal point.
+- **Decimal (0-9 with .):** Displays a numeric pad with a decimal point.
 
-- Telephone (0-9, *, #): Displays a dialer pad.
+- **Telephone (0-9, *, #):** Displays a dialer pad.
 
 ![Numeric Field Option](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/numeric-field-option-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
@@ -108,7 +104,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Numeric Input Field](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/Save-form-06-8-scaled.webp)
 
-## Preview of Added Numeric Field
+### Preview of Added Numeric Field
 
 Here is the preview of the added **Numeric** field under the Form. 
 

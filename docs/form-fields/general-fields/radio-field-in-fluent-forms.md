@@ -10,9 +10,7 @@ This article will guide you through adding the **Radio Field** to your WordPress
 
 ## Adding Radio Field
 
-To learn how to add the radio field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Editor Fluent Forms](/images/form-fields/general-fields/radio-field-in-fluent-forms/Editor-Form-01-scaled.webp)
 
@@ -36,8 +34,6 @@ After adding the field, customize it. **Hover over the field** and click the **P
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Radio Field.**
 
-**All the Settings under the Radio Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title the users will see when filling out the **Radio** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
@@ -46,15 +42,15 @@ You will find various settings options for customizing the field. Located in the
 
 **D. Options:** Define the dropdown options:
 
-- Create Options: Add the items for users to choose from.
+- **Create Options:** Add the items for users to choose from.
 
-- Set Default Options: Checkmark an option to set it as the default selection.
+- **Set Default Options:** Checkmark an option to set it as the default selection.
 
-- Show Values: Display values for admin ease during submissions.
+- **Show Values:** Display values for admin ease during submissions.
 
-- Rearrange Options: Drag and drop options to reorder them.
+- **Rearrange Options:** Drag and drop options to reorder them.
 
-- Add/Delete Options: Use the Plus icon to add new options or insert options between existing ones.
+- **Add/Delete Options:** Use the Plus icon to add new options or insert options between existing ones.
 
 **E. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform [numeric calculations](/docs/numeric-calculation-in-fluent-forms) using Show Values and Calc Values.
 
@@ -72,7 +68,7 @@ You can also save time by importing predefined datasets instead of manually addi
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
@@ -98,7 +94,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Radio Field](/images/form-fields/general-fields/radio-field-in-fluent-forms/Save-Form-06-9-scaled.webp)
 
-## Preview of Radio Button Field
+### Preview of Radio Button Field
 
 Here is the preview of the added **Radio Button** field under the Form. 
 

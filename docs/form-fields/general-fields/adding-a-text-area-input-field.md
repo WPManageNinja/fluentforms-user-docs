@@ -8,11 +8,9 @@ This guide will walk you through **adding and customizing the Text Area field** 
   <iframe src="https://www.youtube.com/embed/yYCTJz9tQCM" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Adding Text Area Input Field
+## Adding Text Area Input Field
 
-To learn how to add the Text Area input field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit a Text Area Input](/images/form-fields/general-fields/adding-a-text-area-input-field/Edit-form-01-6-scaled.webp)
 
@@ -36,8 +34,6 @@ Once added, you can customize the field. **Hover over the field** and click the 
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Text Area** input field.
 
-**All the Settings under the Text Area Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title the users will see when filling out the **Text Area** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
@@ -56,7 +52,7 @@ You will find various settings options for customizing the field. Located in the
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 

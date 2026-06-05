@@ -2,7 +2,12 @@
 
 The **Image Upload** input field in[ Fluent Forms](https://fluentforms.com/) allows users to submit images in different formats directly through a form. This feature validates applications, registrations, file submissions, and more.
 
+<<<<<<< HEAD
 > The Image Upload field is an advanced feature of the Fluent Forms plugin. You require the [Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on) to use it.
+=======
+> [!Note]
+> The **Image Upload** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+>>>>>>> tajulauthlab
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/Yb3FSoZl9Zg" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -10,9 +15,7 @@ The **Image Upload** input field in[ Fluent Forms](https://fluentforms.com/) all
 
 ## Adding Image Upload Field
 
-To learn how to add the image upload field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Image Upload Input Field](/images/form-fields/general-fields/image-upload-input-field-in-fluent-form/Edit-Form-01-3-scaled.webp)
 
@@ -35,8 +38,6 @@ An image upload field has been added. You can edit this field by **hovering over
 ### Image Upload Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Image Upload** field.
-
-**All the Settings under the Image Upload Field mentioned above are briefly explained below –** 
 
 **A. Element Label:** This is the field title the users will see when filling out the **Image Upload** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -74,15 +75,15 @@ Define the error message to be shown if validation fails for **Allowed Image** f
 
 **J. File Location Type: As Per Global Settings** & **Custom**, you will see two options here.
 
-- As Per Global Settings: This option is selected by default, and the Global Settings determine the file location.
+- **As Per Global Settings:** This option is selected by default, and the Global Settings determine the file location.
 
-- Custom: If you select Custom, two options are available: Fluentforms Default & Media Library. In Custom options, uploaded files can be stored in the Media Library, Fluent Forms Default, or both. You can select the Media Library to upload the files in the WordPress Media Library.
+- **Custom:** If you select Custom, two options are available: Fluentforms Default & Media Library. In Custom options, uploaded files can be stored in the Media Library, Fluent Forms Default, or both. You can select the Media Library to upload the files in the WordPress Media Library.
 
 ![Basic Options](/images/form-fields/general-fields/image-upload-input-field-in-fluent-form/Basic-Options-04-5-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 

@@ -4,13 +4,12 @@ The Chained Select in Fluent Form is a powerful feature that allows you to creat
 
 This guide will walk you through adding and customizing the **Chained Select** field in Fluent Forms.
 
-> The Chained Select Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Chained Select** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ### Adding a Chained Select Field
 
-To learn how to add the **Chained Select Field** to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** **Icon** to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -68,7 +67,7 @@ Here is a screenshot of the demo data. First-column names are placeholders for d
 
 ![CSV Data File](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/CSV-data-file-04.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 
@@ -96,7 +95,7 @@ To integrate and display the form on a specific Page or post, **copy** the **Sho
 
 ![Save Chained Select Field](/images/form-fields/advanced-fields/chained-select-field-in-fluent-forms/save-form-07-scaled.webp)
 
-## Preview of Chained Select Field
+### Preview of Chained Select Field
 
 Here is the preview of the added **Chained Select** field under the Form. 
 

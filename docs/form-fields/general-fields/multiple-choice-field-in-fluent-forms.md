@@ -10,9 +10,7 @@ This article will guide you through adding the **multiple-choice** field in your
 
 ## Adding Multiple Choice Field
 
-To learn how to add the multiple choice field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/edit-form-01-4-scaled.webp)
 
@@ -35,8 +33,6 @@ After adding the field, customize the field. Now **Hover over the field** and cl
 ### Multiple Choice Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Multiple Choice** field.
-
-**All the Settings under the Multiple Choice Field mentioned above are briefly explained below –** 
 
 **A. Element Label:** This is the field title the users will see when filling out the **Multiple Choice** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -72,7 +68,7 @@ You can also save time by importing predefined datasets instead of manually addi
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below.
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
@@ -100,7 +96,12 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 Here is the preview of the added **Multiple Choice** field under the Form. 
 
+<<<<<<< HEAD
 > You can get the visual representation of this Form. To learn more, read [Visual Representation of Form Entries in Fluent Forms](/docs/visual-representation-of-form-entries-in-fluent-forms).
+=======
+> [!Tip]
+> View entry data as charts and reports. See [Visual Representation of Form Entries in Fluent Forms](/docs/visual-representation-of-form-entries-in-fluent-forms).
+>>>>>>> tajulauthlab
 
 ![Preview Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Preview-07-3.webp)
 

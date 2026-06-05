@@ -14,7 +14,7 @@ This article will guide you through adding the **Mask** input field in your Flue
 
 To add this field to your form, follow these steps:
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Mask Input Field](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Mask-input-field-01-scaled.webp)
 
@@ -38,8 +38,6 @@ After adding the field, customize the mask input field. **Hover over the field**
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Mask** input field.
 
-**All the Settings under the Mask Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title the users will see when filling out the **Simple Text** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
@@ -52,11 +50,11 @@ You will find various settings options for customizing the field. Located in the
 
 Follow the format rules:
 
-- 0-9/ #: Numerical character
+- **0-9/ #:** Numerical character
 
-- A: Alphabetical character
+- **A:** Alphabetical character
 
-- *: Alphanumeric character
+- ***:** Alphanumeric character
 
 - Literal characters are automatically displayed
 
@@ -72,21 +70,21 @@ License Key Mask: *-*-***. Valid Input: a9a-f0c-28Q
 
 **F. Mobile Keyboard Type:** Select the specific keyboard layout that will appear for mobile users when they tap this field. You can choose from:
 
-- Standard Keyboard: The default full alphanumeric keyboard.
+- **Standard Keyboard:** The default full alphanumeric keyboard.
 
-- Numeric (0-9): A number-only pad.
+- **Numeric (0-9):** A number-only pad.
 
-- Decimal (0-9 with .): A numeric pad with a decimal point.
+- **Decimal (0-9 with .):** A numeric pad with a decimal point.
 
-- Telephone (0-9, ; #): A standard phone dialer pad.
+- **Telephone (0-9, ; #):** A standard phone dialer pad.
 
 **G. Required:** Decide whether users must select at least one option before submission.
 
 ![Mask Input Options](/images/form-fields/general-fields/adding-a-mask-input-field-guide/mask-input-options-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to understand Dynamic Default values better.
 

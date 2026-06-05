@@ -4,7 +4,8 @@ With Fluent Forms **Dynamic Fields**, you can create fields that automatically p
 
 This guide will teach you how to set up and customize Dynamic Fields to make your forms more user-friendly.
 
-> The Dynamic Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Dynamic** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 **Fluent Forms: Boost Form Efficiency with Dynamic Fields**
 
@@ -14,9 +15,8 @@ This guide will teach you how to set up and customize Dynamic Fields to make you
 
 ### Adding a Dynamic Input Field
 
-To learn how to add the **Dynamic Field** to Fluent Forms, follow the steps below.
 
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** icon to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -55,17 +55,18 @@ All the settings under the **Dynamic Input Field** mentioned above are briefly e
 
 **E. Field Type:** Choose from five types to determine how users interact with the dynamic data: **Radio, Checkbox, Select (dropdown), Multi-Select,** and **Text Autocomplete**.
 
-- Radio/Checkbox: Users can respond using standard radio buttons or checkboxes.
+- **Radio/Checkbox:** Users can respond using standard radio buttons or checkboxes.
 
-- Select/Multi-Select: Users can choose one or multiple options from a dropdown menu.
+- **Select/Multi-Select:** Users can choose one or multiple options from a dropdown menu.
 
-- Text Autocomplete: This type allows users to type into the field while the form suggests matching results dynamically from the source data.
+- **Text Autocomplete:** This type allows users to type into the field while the form suggests matching results dynamically from the source data.
 
-> Note: The Text Auto Complete feature is available in the Pro version of Fluent Forms.
+> [!Note]
+> **Text Autocomplete** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ![Dynamic Field Options](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/dynamic-field-options-scaled.webp)
 
-#### Types of Dynamic Fields
+### Types of Dynamic Fields
 
 Fluent Forms offers five types of dynamic fields. After you've added a Dynamic Field to your form, you can choose the dynamic data you want to show in the field from the dropdown in the **Source** options.
 
@@ -145,7 +146,7 @@ To integrate and display the form on a specific Page or post, **copy** the **Sho
 
 ![Save Dynamic Field in Fluent](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Save-Form-12-scaled.webp)
 
-## Preview of Added Dynamic Field
+### Preview of Added Dynamic Field
 
 Here is the preview of the added **Dynamic** field under the Form. 
 

@@ -10,9 +10,7 @@ This guide will walk you through **adding** and **customizing the Website URL fi
 
 ## Adding a Website URL Field
 
-To add a **Website URL** field to your form, follow these steps:
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Website URL Input Field](/images/form-fields/general-fields/website-url-input-field-guide/edit-form-01-7-scaled.webp)
 
@@ -36,8 +34,6 @@ A website URL field has been added. You can edit this field by **hovering over i
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Website URL** field.
 
-**All the Settings under the Website URL Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title the users will see when filling out the **Website URL** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
@@ -54,7 +50,7 @@ You will find various settings options for customizing the field. Located in the
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
@@ -82,7 +78,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Website URL Input Field](/images/form-fields/general-fields/website-url-input-field-guide/Save-Form-06-13-scaled.webp)
 
-## Preview of Website URL Field
+### Preview of Website URL Field
 
 Here is the preview of the added **Website URL** field under the Form. 
 

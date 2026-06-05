@@ -10,9 +10,7 @@ This article will guide you through adding the **Terms & Conditions** field in *
 
 ## Adding Terms & Conditions Field
 
-To learn how to add the **Terms & Conditions** field to Flument Forms, follow the steps below:
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -35,7 +33,7 @@ Once you add the captcha field, you can customize it by hovering over it and cli
 
 ![Input Customization Fluent Forms](/images/form-fields/advanced-fields/terms-conditions-field-in-fluent-forms/input-customization-03-16-scaled.webp)
 
-#### Terms & Conditions Options
+### Terms & Conditions Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Terms & Conditions** field.
 
@@ -53,9 +51,9 @@ For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
 ![Basic Options Fluent Forms](/images/form-fields/advanced-fields/terms-conditions-field-in-fluent-forms/Basic-options-04-14-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 

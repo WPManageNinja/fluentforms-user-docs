@@ -14,7 +14,7 @@ So let’s get started.
 
 To learn how to add the country list to Fluent Forms, follow the steps below:
 
-First, go to the **Forms** section from the **Fluent Forms Navbar**, choose a desired **Form**, and click the **Edit Icon** to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit From Country List Field in](/images/form-fields/general-fields/country-list-field-in-fluent-form/edit-from-01-scaled.webp)
 
@@ -62,7 +62,7 @@ The default error message displayed is that his field is **required**.
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the Settings under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 
@@ -72,15 +72,15 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **D. Country List Options:** Customize which countries are visible in the dropdown. You can only select one option from these four options.
 
-- Show All: Display all countries. This is a default option.
+- **Show All:** Display all countries. This is a default option.
 
-- Hide These: Hide specific countries if needed. You can choose multiple countries in the same way.
+- **Hide These:** Hide specific countries if needed. You can choose multiple countries in the same way.
 
 ![Hide These](/images/form-fields/general-fields/country-list-field-in-fluent-form/Hide-these-06-scaled.webp)
 
-- Only Show These: Pick this option if you only want to show a few countries.
+- **Only Show These:** Pick this option if you only want to show a few countries.
 
-- Priority Based: You can highlight certain countries at the top of the list. For example, if most of your users are from the US, UK, and Canada, you can prioritize these.
+- **Priority Based:** You can highlight certain countries at the top of the list. For example, if most of your users are from the US, UK, and Canada, you can prioritize these.
 
 This country will rank first in the search results. Two additional options exist: the **Primary** **Countries Label** and the **Other Countries Label**. Users can choose their **Primary** and **Country** labels on the priority list.
 

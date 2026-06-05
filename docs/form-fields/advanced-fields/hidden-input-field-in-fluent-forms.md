@@ -10,9 +10,7 @@ This article will guide you through adding the **Hidden** field in your Fluent F
 
 ## Adding the Hidden Field
 
-To learn how to add the hidden field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** **Icon** to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -32,8 +30,6 @@ A Hidden field has been added. You can edit this field by **hovering over it** a
 ![Input Customization](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/input-customization-03.png)
 
 You will now find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **hidden** field.
-
-**All the Settings under the Hidden Field mentioned above are briefly explained below –** 
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. This means that you can configure this option to show a different field label for your admin users when they view the form submissions. 
 

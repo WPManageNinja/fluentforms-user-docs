@@ -10,9 +10,7 @@ This guide will walk you through adding and customizing the **GDPR Agreement Fie
 
 ### Adding GDPR Agreement Field
 
-To learn how to add the **GDPR Agreement** field to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -25,7 +23,7 @@ Now, select the desired **GDPR Agreement** **Input** field by clicking on it or 
 
 ![Adding GDPR Agreement](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/adding-GDPR-agreement-02-scaled.webp)
 
-### Customizing the GDPR Agreement Field
+## Customizing the GDPR Agreement Field
 
 Once you add the GDPR agreement field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
@@ -35,11 +33,9 @@ Once you add the GDPR agreement field, you can customize it by hovering over it 
 
 ![Input Customization Fluent Forms](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Input-Customization-03-22-scaled.webp)
 
-#### GDPR Agreement Options
+### GDPR Agreement Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **GDPR Agreement** input field.
-
-**All the Settings under the GDPR Agreement Field mentioned above are briefly explained below –** 
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
 
@@ -51,7 +47,7 @@ You will find various settings options for customizing the field. Located in the
 
 ![GDPR Agreement Options](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/GDPR-agreement-options-04-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 

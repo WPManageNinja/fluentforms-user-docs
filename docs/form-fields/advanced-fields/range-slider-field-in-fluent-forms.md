@@ -4,7 +4,8 @@ The Range Slider Field allows users to select a number from a pre-defined range 
 
 This guide will walk you through adding and customizing the **Range Slider Field** in Fluent Forms for your WordPress site.
 
-> The Range Slider Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Range Slider** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/RaY2VcPWk6I" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -12,9 +13,7 @@ This guide will walk you through adding and customizing the **Range Slider Field
 
 ## Adding Range Slider Field
 
-To add the Range Slider Field in Fluent Forms, follow the easy steps below:
-
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** **Icon** to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -41,8 +40,6 @@ Once you add the **Range Slider** fiezld, you can customize it by hovering over 
 
 You will find various settings options for customizing the field under the **Input Customization** tab. These options allow you to configure essential aspects of the **Range Slider** field.
 
-All the settings under the **Range Slider Field** mentioned above are briefly explained below-
-
 **A. Element Label:** This is the field title the users will see when filling out the **Range Slider** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
@@ -67,7 +64,7 @@ You can add **a default value** by clicking the **Three-Dot** option on the righ
 
 ### Advanced Options
 
-Advanced settings allow furtherz customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow furtherz customization to meet specific use cases. 
 
 **A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -89,7 +86,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Range Slider Field](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Save-Form-05-4-scaled.webp)
 
-## Preview of Added Range Slider Field
+### Preview of Added Range Slider Field
 
 Here is the preview of the added **Range Slider** field under the Form. 
 

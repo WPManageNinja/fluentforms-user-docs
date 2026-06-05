@@ -4,13 +4,12 @@ The **Rich Text Input Field** allows users to submit text with formatting option
 
 This guide will walk you through adding and customizing the **Rich Text Input** field in Fluent Forms.
 
-> The Rich Text Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Rich Text** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Adding a Rich Text Input Field
 
-To learn how to add the **Rich Text Input Field** to Fluent Forms, follow the steps below:
-
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** icon to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -37,8 +36,6 @@ Once you add the **Rich Text Input** field, you can customize it by hovering ove
 
 Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Rich Text Input** field.
 
-All the settings under the **Rich Text Input Field** mentioned above are briefly explained below-
-
 **A. Element Label:** This is the field title the users will see when filling out the **Rich Text Input** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. 
@@ -57,7 +54,7 @@ All the settings under the **Rich Text Input Field** mentioned above are briefly
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To better understand it, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). You can add the default value by **Shortcode** from the right side.
 
@@ -83,7 +80,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Rich Text Input Field](/images/form-fields/advanced-fields/rich-text-input-field-in-fluent-forms/Save-Form-06-27-scaled.webp)
 
-## Preview of Added Rich Text Field
+### Preview of Added Rich Text Field
 
 Here is the preview of the added **Rich Text** field under the Form. 
 

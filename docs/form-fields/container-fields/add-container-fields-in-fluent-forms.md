@@ -2,7 +2,8 @@
 
 In **Fluent Forms**, the **Container** field allows you to add multiple fields horizontally in one row instead of a new row for each field for your **Fluent Forms**, and make them look more compact and organized to your users. This article will guide you through adding the **Container** input fields to your **Fluent Forms** for your **WordPress Site**.
 
-> Also, the Container filed allows you to create a straightforward, simple, and easy-to-use Iinline Form (i,e., the forms can be embedded within a line of text, a paragraph, or any other content area without breaking the page layout).
+> [!Note]
+> Use the **Container** field to build compact **inline forms** that sit inside text, paragraphs, or other content without breaking your page layout. See [Inline Opt-in Form Using Fluent Forms](/docs/inline-opt-in-form-using-fluent-forms).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/S0FDgz5hTP4" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -10,9 +11,7 @@ In **Fluent Forms**, the **Container** field allows you to add multiple fields h
 
 ## Add Container Fields
 
-To learn how to add the **Container** input fields, follow the steps with screenshots below – 
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form** to which you wish to add the **Container** field**,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one. For example, I choose an existing form to show the whole process.
@@ -35,7 +34,8 @@ Now, click the **Plus Icon** to add three different desired fields horizontally 
 
 Also, you can simply **Drag & Drop** the **Name**, **Email**, and **Custom Submit** **Button** fields in the columns.
 
-> Note that the default Submit button below each form will disappear when you add the Custom Submit Button field to the third container.
+> [!Note]
+> Adding a [Custom Submit Button](/docs/custom-submit-button-in-fluent-forms) to a container hides the form’s default **Submit** button. Only the custom button is shown.
 
 ![Entering Input Fields Columns Copy](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/4.-Entering-input-fields-in-columns-copy.gif)
 
@@ -61,7 +61,8 @@ D. **Auto Width**: Enable the automatic width calculation for columns by clickin
 
 You can also customize the fields you added under the columns by **hovering over them** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab of the selected field and offer you the options for customizing that field. 
 
-> If you’d like to change the appearance of the form to fit the website design, you can follow our CSS Guide on how to design the form. Also, have a look at how to style a Fluent Forms form.
+> [!Tip]
+> Match the form to your site design with the [Official Form Styler of Fluent Forms](/docs/official-form-styler-of-fluent-forms) or custom CSS in [Fluent Forms Styling/Custom CSS](/docs/fluent-forms-stylingcustom-css).
 
 ![Plencil Icon Customize Fields](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/7.-Plencil-Icon-to-customize-fields-scaled.webp)
 
@@ -73,7 +74,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ![Save Button Container Fields](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/8.-Save-Form-button-scaled.webp)
 
-## Preview of Container field
+### Preview of Container field
 
 Here, is the preview of the added **Container** field under the Fluent Form. 
 

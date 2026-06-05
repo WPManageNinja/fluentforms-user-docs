@@ -10,9 +10,7 @@ This article will guide you through adding the **Section Break** field in your F
 
 ## Adding Section Break Field
 
-To learn how to add the section break field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -35,11 +33,9 @@ A Break field has been added. You can edit this field by **hovering over it** an
 
 ![Input Customization](/images/form-fields/advanced-fields/section-break-in-fluent-forms/input-customization-02-1-scaled.webp)
 
-#### Section Break Options
+### Section Break Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Section Break** field.
-
-**All the Settings under the Section Break Field mentioned above are briefly explained below –** 
 
 **A. Element Label:** This is the field title the users will see when filling out the **Section Break** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -53,7 +49,7 @@ For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
 ![Basic Options](/images/form-fields/advanced-fields/section-break-in-fluent-forms/Basic-options-03-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases. 
 

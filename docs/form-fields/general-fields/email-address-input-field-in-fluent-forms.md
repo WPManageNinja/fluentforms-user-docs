@@ -10,9 +10,7 @@ Below is a comprehensive guide on configuring the Email Address input field.
 
 ## Adding the Email Field
 
-To learn how to add the Email Address field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar** and click the **Add New Form** button to create a new form or click the existing forms **Edit** options.
+Go to **Forms** from the Fluent Forms navbar, then click **Add New Form** to create a form or **Edit** on an existing form to open the editor.
 
 ![Adding Fluent Forms](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/adding-the-form-01-scaled.webp)
 
@@ -36,8 +34,6 @@ An email field has been added. You can edit this field by **hovering over it** a
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Email Address** field.
 
-**All the Settings under the Email Address Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title the users will see when filling out the **Email** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
@@ -52,9 +48,9 @@ You will find various settings options for customizing the field. Located in the
 
 ![Basic Options](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Basic-Options-04-3-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
 

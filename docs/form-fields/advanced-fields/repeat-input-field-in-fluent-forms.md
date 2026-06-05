@@ -4,13 +4,14 @@ The **Repeat Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform)
 
 This guide will walk you through adding and customizing the **Repeat Input** field in Fluent Forms.
 
-> The Repeat Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Repeat Input** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Adding a Repeat Input Field
 
 To add the **Repeat Input Field** in Fluent Forms, follow the simple steps below:
 
-First, go to the **Forms** section from the Fluent Forms Navbar, choose a desired form, and click the **Edit** **Icon** to open the Editor page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -37,8 +38,6 @@ Once you add the **Repeat Input** field, you can customize it by hovering over i
 
 Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Repeat Input** field.
 
-All the settings under the **Repeat Input Field** mentioned above are briefly explained below-
-
 **A. Element Label:** This is the field title the users will see when filling out the **Repeat Input** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. 
@@ -47,23 +46,27 @@ All the settings under the **Repeat Input Field** mentioned above are briefly ex
 
 **D. Repeat Field Columns:** To add multiple columns, click the **Plus Icon**, and to remove any column, click the **Minus Icon** from the **Column’s** right side. Click on the **Chevron Down Icon** to configure column settings.
 
-- Filed Type: Choose the Field Type dropdown options.
+- **Filed Type:** Choose the Field Type dropdown options.
 
-- Label: Name the Label of the Column.
+- **Label:** Name the Label of the Column.
 
+<<<<<<< HEAD
 - Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms).
+=======
+- **Default:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read this article.
+>>>>>>> tajulauthlab
 
 You can add the **Default** value by clicking the **Three-Dot** option from the right side.
 
-- Placeholder: When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute.
+- **Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute.
 
-- Required: Decide whether users must select at least one option before submission.
+- **Required:** Decide whether users must select at least one option before submission.
 
 ![Unnamed](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/unnamed-1-2.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -83,7 +86,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Repeat Input Field](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Save-Form-05-6-scaled.webp)
 
-## Preview of Repeat Input Field
+### Preview of Repeat Input Field
 
 Here is the preview of the added **Repeat Input** field under the Form. 
 

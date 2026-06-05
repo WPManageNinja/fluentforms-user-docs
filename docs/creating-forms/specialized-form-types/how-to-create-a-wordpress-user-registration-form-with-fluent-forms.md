@@ -9,8 +9,6 @@ This article will guide you through creating a **User Registration Form** with *
 
 ## Enable the User Registration Module
 
-To learn how to enable the WordPress user registration form, follow the easy steps with the screenshots below- 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **User Registration** through the search bar, and get the **User Registration or Update** module. Now, Enable the **User Registration or Update** module.
 
 ![Enable registration](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms/User-Registration-01-scaled.webp)
@@ -19,11 +17,22 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Use
 
 Once you enable the user registration form, now create a registration form.  Go to the **Fluent Forms Dashboard** and **Create a new form**.
 
+<<<<<<< HEAD
 Now, we recommend to add the following fields to the form:
 
 **[Email](/docs/email-address-input-field-in-fluent-forms)**: Required for user registration.
 **[Name](/docs/name-input-field-in-fluent-forms)**: Optional but recommended.
 **[Password](/docs/password-input-field-in-fluent-forms)**: Required for account creation.
+=======
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+
+Now, we recommend to add the following fields to the form:
+
+ * **Email**: Required for user registration.
+ * **Name**: Optional but recommended.
+ * **Password**: Required for account creation.
+>>>>>>> tajulauthlab
 
 You can add additional fields as needed, but these three fields are essential.
 

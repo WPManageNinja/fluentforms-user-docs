@@ -4,7 +4,8 @@ The **rating** input field in Fluent Forms allows users to provide feedback quic
 
 This guide will walk you through adding and customizing the **Rating Input Field** in Fluent Forms for your WordPress site.
 
-> The Ratings Input field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Ratings** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/YGdkNspMaEs" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,7 +15,7 @@ This guide will walk you through adding and customizing the **Rating Input Field
 
 To learn how to add the **Rating** field to Fluent Forms, follow the steps below:
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** **Icon** to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -37,7 +38,7 @@ A Rating field has been added. You can edit this field by **hovering over it** a
 
 ![Input Customization Fluent Forms](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/input-customization-03-15-scaled.webp)
 
-#### Ratings Input field Options
+### Ratings Input field Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Ratings Input** field.
 
@@ -69,9 +70,9 @@ Also, you can edit bulk by clicking the **Bulk Edit** options.
 
 ![Basic Options Fluent Forms](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Basic-options-04-13-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
 

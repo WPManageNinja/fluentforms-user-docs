@@ -12,7 +12,7 @@ This article will guide you through adding the **Dropdown input field** to **Flu
 
 To learn how to add the Dropdown field to the Fluent Forms, follow the steps with the screenshots below –
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/edit-form-01-1-scaled.webp)
 
@@ -35,8 +35,6 @@ A dropdown field has been added. You can edit this field by **hovering over it**
 ### Dropdown Field Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Dropdown** input field.
-
-**All the Settings under the Dropdown Field mentioned above are briefly explained below –** 
 
 **A. Element Label:** This is the field title users will see when filling out the **Dropdown** field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -76,7 +74,7 @@ When this option is selected, a search option appears, allowing the user to sear
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 

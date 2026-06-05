@@ -4,9 +4,7 @@ In **Fluent Forms**, the **Featured Image** field allows you to offer your users
 
 ## Add Featured Image Field
 
-To learn how to add the Featured Image field to the Post Forms in Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to **Forms** from the Fluent Forms navbar, select your **Post Form**, and click **Edit** to open the form editor.
 
 ![Open Post Featured Image Field in](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/1.-Open-desired-Post-form-3-scaled.webp)
 
@@ -28,7 +26,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ### 1. Featured Image
 
-All the **Settings** under the **Featured Image** tab mentioned in the screenshot are briefly explained below – 
+Configure **Featured Image** labels and upload options:
 
 **A. Element Label**: This is the field content the users will see when filling out the **Post Content** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -54,7 +52,7 @@ All the **Settings** under the **Featured Image** tab mentioned in the screensho
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Configure **Advanced** options:
 
 **A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -72,7 +70,12 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
+<<<<<<< HEAD
 > Configure the **Post Feed** with the Post Form to make it functional.
+=======
+> [!Note]
+> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
+>>>>>>> tajulauthlab
 
 ## Embed the Form into Frontend
 
@@ -82,7 +85,7 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 ![Save Featured Image Field in](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/6.-Save-Form-4-scaled.webp)
 
-## Preview of Featured Image field
+### Preview of Featured Image field
 
 Here is the preview of the added **Featured Image** field under the Post Form. 
 

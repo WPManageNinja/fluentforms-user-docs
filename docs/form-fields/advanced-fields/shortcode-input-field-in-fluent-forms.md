@@ -4,13 +4,14 @@
 
 This guide will walk you through adding and customizing the **Shortcode Field** in Fluent Forms for your WordPress site.
 
-> The Shortcode field is an advanced feature of the Fluent Forms plugin. To use it, you need the Fluent Forms Pro Add-on.
+> [!Note]
+> The **Shortcode** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Adding Shortcode Field
 
 To learn how to add the **Shortcode** field to Fluent Forms, follow the steps below:
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -23,7 +24,7 @@ Now, select the desired **Shortcode** **Input** field by clicking on it or **Dra
 
 ![Shortcode Input Field step](/images/form-fields/advanced-fields/shortcode-input-field-in-fluent-forms/new-21-scaled.webp)
 
-### Customizing the Shortcode Field
+## Customizing the Shortcode Field
 
 Once you add the hCaptcha field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
@@ -33,7 +34,7 @@ Once you add the hCaptcha field, you can customize it by hovering over it and cl
 
 ![Input Customization Fluent Forms](/images/form-fields/advanced-fields/shortcode-input-field-in-fluent-forms/Input-customization-03-18-scaled.webp)
 
-#### Shortcode Input Options
+### Shortcode Input Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Shortcode** field.
 
@@ -41,9 +42,9 @@ You will find various settings options for customizing the field. Located in the
 
 ![Basic Options Fluent Forms](/images/form-fields/advanced-fields/shortcode-input-field-in-fluent-forms/Basic-options-04-16-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Element Label:** This is the field title the users will see when filling out the **Shortcode** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -51,7 +52,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 ![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/shortcode-input-field-in-fluent-forms/advanced-options-05-13-scaled.webp)
 
-### Embed the Form into the Front
+## Embed the Form into the Front
 
 Once you have customized the shortcode field, click the **Save Form** button to apply the changes.
 

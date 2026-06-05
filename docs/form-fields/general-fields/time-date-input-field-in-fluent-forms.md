@@ -10,9 +10,7 @@ This guide will walk you through adding and customizing the **Time & Date Field*
 
 ## Adding Time & Date Field
 
-To add a Time & Date field to your form, follow these steps below-
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Time & Date Input](/images/form-fields/general-fields/time-date-input-field-in-fluent-forms/form-edit-01-scaled.webp)
 
@@ -36,8 +34,6 @@ A Time & Date field has been added. You can edit this field by **hovering over i
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Time & Date** input field.
 
-**All the Settings under the Time & Date Field mentioned above are briefly explained below –** 
-
 **A. Element Label:** This is the field title users will see when filling out the **Time & Date** field in a form. You can enter any text here to help users understand the field's purpose.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
@@ -54,7 +50,7 @@ You will find various settings options for customizing the field. Located in the
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. You can add default values with the **Three-Dot** option from the right side. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
@@ -72,7 +68,9 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 For instance, you can add the start of the week date. You can do this with the help of a custom code. By default, the week starts on **Sunday**. To set it to **Monday**, use this custom code given below:
 
-`{
+```
+
+{
 
     "locale": {
 
@@ -80,7 +78,8 @@ For instance, you can add the start of the week date. You can do this with the h
 
     }
 
-}`
+}
+```
 
 **Available options**
 
@@ -119,7 +118,7 @@ For instance, you can add the start of the week date. You can do this with the h
 | position | String | “auto” | Where the calendar is rendered relative to the input."auto", "above" or "below" |
 | prevArrow | String | 
 
-## Preview of Added Time & Date Field
+### Preview of Added Time & Date Field
 
 Here is the preview of the added **Time & Date** field under the Form. 
 
