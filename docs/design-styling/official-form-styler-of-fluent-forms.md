@@ -2,7 +2,8 @@
 
 Fluent Forms is designed to look great & fit with any WordPress theme. With the built-in **Form Styler**, you can easily create a custom design that perfectly matches your site's branding without coding knowledge.
 
-> Form Styler is a Pro feature. To use it, make sure you have Fluent Forms Pro.
+> [!Note]
+> **Form Styler** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 This guide walks you through how to **design, style,** and **customize** your forms visually in Fluent Forms.
 
@@ -86,7 +87,7 @@ The Misc Tab styles the Form Container background, padding, and margin.
 
 **After Submit Success Message Styles:** You can also easily customize the After Submit Success Message. Fill out your form and submit it for visual viewing while designing the submit success message for testing purposes.
 
-You can customize the **background and fonts**. You can change the **Font Size** and weight, **Text Decoration**, **Line Height**, and **Letter Spacin**g, among other things. 
+You can customize the background and fonts. You can change the **Font Size** and weight, **Text Decoration**, **Line Height**, and **Letter Spacin**g, among other things. 
 
 The box shadow of the success message box can be defined under the typography settings.
 
