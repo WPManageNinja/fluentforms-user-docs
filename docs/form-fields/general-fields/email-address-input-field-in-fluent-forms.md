@@ -10,9 +10,7 @@ Below is a comprehensive guide on configuring the Email Address input field.
 
 ## Adding the Email Field
 
-To learn how to add the Email Address field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar** and click the **Add New Form** button to create a new form or click the existing forms **Edit** options.
+Go to **Forms** from the Fluent Forms navbar, then click **Add New Form** to create a form or **Edit** on an existing form to open the editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -53,7 +51,7 @@ You will find various settings options for customizing the field. Located in the
 
 ![Basic Options](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Basic-Options-04-3-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases.
 

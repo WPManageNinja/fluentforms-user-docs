@@ -6,9 +6,7 @@ This article will guide you through how you can easily configuring the **Name In
 
 ## Adding the Name Field
 
-To learn how to add the Name field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar** and click the **Add New Form** button to create a new form.
+Go to **Forms** from the Fluent Forms navbar and click **Add New Form**.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -21,7 +19,7 @@ Now, select the desired **Name Input** field by clicking on it or **Dragging and
 
 ![Name Input Field step](/images/form-fields/general-fields/name-input-field-in-fluent-forms/new-scaled.webp)
 
-### Customizing the Name Input Field
+## Customizing the Name Input Field
 
 A name field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
@@ -31,7 +29,7 @@ A name field has been added. You can edit this field by **hovering over it** and
 
 ![Input Customization](/images/form-fields/general-fields/name-input-field-in-fluent-forms/Input-customization-02-scaled.webp)
 
-## Name Fields Options
+### Name Fields Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Name** field.
 
@@ -39,19 +37,19 @@ You will find various settings options for customizing the field. Located in the
 
 **B. Name Field:** Here, you will find Name Fields categorized by three options: First Name, Middle Name, and Last Name.
 
-- First Name: This option allows you to add a first name field in your form. Here you will get some other options. See the following:
+- **First Name:** This option allows you to add a first name field in your form. Here you will get some other options. See the following:
 
-- Label: You can set or customize the label for the First Name field.
+- **Label:** You can set or customize the label for the First Name field.
 
-- Label Placement: This option determines the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the Default option, it will represent your global label placement settings.
+- **Label Placement:** This option determines the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the Default option, it will represent your global label placement settings.
 
-- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read this article.
+- **Default:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read this article.
 
-- Placeholder: When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute.
+- **Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute.
 
-- Help Message: This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+- **Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
 
-- Required: Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
+- **Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
 
 The options for **Middle Name** and **Last Name** are the same as for **First Name**.
 

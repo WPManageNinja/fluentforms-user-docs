@@ -10,9 +10,7 @@ This guide will walk you through adding and customizing the **Time & Date Field*
 
 ## Adding Time & Date Field
 
-To add a Time & Date field to your form, follow these steps below-
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -73,7 +71,9 @@ Advanced settings allow further customization to meet specific use cases.
 
 For instance, you can add the start of the week date. You can do this with the help of a custom code. By default, the week starts on **Sunday**. To set it to **Monday**, use this custom code given below:
 
-`{
+```
+
+{
 
     "locale": {
 
@@ -81,7 +81,8 @@ For instance, you can add the start of the week date. You can do this with the h
 
     }
 
-}`
+}
+```
 
 **Available options**
 
@@ -120,7 +121,7 @@ For instance, you can add the start of the week date. You can do this with the h
 | position | String | “auto” | Where the calendar is rendered relative to the input."auto", "above" or "below" |
 | prevArrow | String | 
 
-## Preview of Added Time & Date Field
+### Preview of Added Time & Date Field
 
 Here is the preview of the added **Time & Date** field under the Form. 
 

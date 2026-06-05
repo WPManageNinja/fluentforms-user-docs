@@ -10,9 +10,7 @@ This article will guide you through adding the **multiple-choice** field in your
 
 ## Adding Multiple Choice Field
 
-To learn how to add the multiple choice field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -101,7 +99,8 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 Here is the preview of the added **Multiple Choice** field under the Form. 
 
-> You can get the visual representation of this Form. To learn more about this read this article.
+> [!Tip]
+> View entry data as charts and reports. See [Visual Representation of Form Entries in Fluent Forms](/docs/visual-representation-of-form-entries-in-fluent-forms).
 
 ![Preview Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Preview-07-3.webp)
 

@@ -2,7 +2,8 @@
 
 The **File Upload** input field in [Fluent Forms](https://fluentforms.com/) allows users to submit various file types directly through a form. This feature is ideal for document submissions, job applications, customer support, and more.
 
-> The File Upload field is an advanced feature of the Fluent Forms plugin. To use it, you require the Fluent Forms Pro Add-on.
+> [!Note]
+> The **File Upload** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/bXbTbNPM_4k" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -10,9 +11,7 @@ The **File Upload** input field in [Fluent Forms](https://fluentforms.com/) allo
 
 ### Adding File Upload Field
 
-To learn how to add the file upload field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -25,7 +24,7 @@ Select the desired **File Upload** field by clicking on it or **Dragging and Dro
 
 ![File Upload Input Field step](/images/form-fields/general-fields/file-upload-input-field-in-fluent-forms/new-6-scaled.webp)
 
-### Customizing the File Upload Field
+## Customizing the File Upload Field
 
 An image upload field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
@@ -35,7 +34,7 @@ An image upload field has been added. You can edit this field by **hovering over
 
 ![Input Customization](/images/form-fields/general-fields/file-upload-input-field-in-fluent-forms/Input-customization-03-4-scaled.webp)
 
-#### File Upload Options
+### File Upload Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **File Upload** field.
 
@@ -83,7 +82,7 @@ If you want to add a **Custom Error Message**, you can disable the **Global Erro
 
 ![Basic Options](/images/form-fields/general-fields/file-upload-input-field-in-fluent-forms/basic-options-04-4-scaled.webp)
 
-#### Advanced Options
+### Advanced Options
 
 Advanced settings allow further customization to meet specific use cases.
 

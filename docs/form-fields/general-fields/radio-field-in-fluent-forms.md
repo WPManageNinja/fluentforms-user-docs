@@ -10,9 +10,7 @@ This article will guide you through adding the **Radio Field** to your WordPress
 
 ## Adding Radio Field
 
-To learn how to add the radio field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -47,15 +45,15 @@ You will find various settings options for customizing the field. Located in the
 
 **D. Options:** Define the dropdown options:
 
-- Create Options: Add the items for users to choose from.
+- **Create Options:** Add the items for users to choose from.
 
-- Set Default Options: Checkmark an option to set it as the default selection.
+- **Set Default Options:** Checkmark an option to set it as the default selection.
 
-- Show Values: Display values for admin ease during submissions.
+- **Show Values:** Display values for admin ease during submissions.
 
-- Rearrange Options: Drag and drop options to reorder them.
+- **Rearrange Options:** Drag and drop options to reorder them.
 
-- Add/Delete Options: Use the Plus icon to add new options or insert options between existing ones.
+- **Add/Delete Options:** Use the Plus icon to add new options or insert options between existing ones.
 
 **E. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform calculations using Show Values and Calc Values.
 
@@ -99,7 +97,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Radio Field](/images/form-fields/general-fields/radio-field-in-fluent-forms/Save-Form-06-9-scaled.webp)
 
-## Preview of Radio Button Field
+### Preview of Radio Button Field
 
 Here is the preview of the added **Radio Button** field under the Form. 
 

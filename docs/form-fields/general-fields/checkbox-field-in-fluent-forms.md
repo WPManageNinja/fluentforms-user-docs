@@ -10,8 +10,6 @@ This article will guide you through adding the **Checkbox** field in your Fluent
 
 ## Adding the Checkbox Field
 
-To learn how to add the checkbox field to the Fluent Forms, follow the steps with the screenshots below –
-
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
 > [!Note]
@@ -47,15 +45,15 @@ You will find various settings options for customizing the field. Located in the
 
 **D. Options:** Define the dropdown options:
 
-- Create Options: Add the items for users to choose from.
+- **Create Options:** Add the items for users to choose from.
 
-- Set Default Options: Checkmark an option to set it as the default selection.
+- **Set Default Options:** Checkmark an option to set it as the default selection.
 
-- Show Values: Display values for admin ease during submissions.
+- **Show Values:** Display values for admin ease during submissions.
 
-- Rearrange Options: Drag and drop options to reorder them.
+- **Rearrange Options:** Drag and drop options to reorder them.
 
-- Add/Delete Options: Use the Plus icon to add new options or insert options between existing ones.
+- **Add/Delete Options:** Use the Plus icon to add new options or insert options between existing ones.
 
 **E. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform calculations using Show and Calc Values.
 

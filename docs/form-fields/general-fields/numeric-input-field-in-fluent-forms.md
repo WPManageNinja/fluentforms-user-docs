@@ -10,9 +10,7 @@ This article will guide you through adding the **Numeric** input field in your F
 
 ## Adding Numeric Input Field
 
-To learn how to add the Numeric input field to the Fluent Forms, follow the steps with the screenshots below –
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -63,11 +61,11 @@ You will find various settings options for customizing the field. Located in the
 
 **J. Mobile Keyboard Type:** Select the specific keyboard layout that will appear for mobile users when they tap this field. Options include:
 
-- Numeric (0-9): Displays a standard number pad.
+- **Numeric (0-9):** Displays a standard number pad.
 
-- Decimal (0-9 with .): Displays a numeric pad with a decimal point.
+- **Decimal (0-9 with .):** Displays a numeric pad with a decimal point.
 
-- Telephone (0-9, *, #): Displays a dialer pad.
+- **Telephone (0-9, *, #):** Displays a dialer pad.
 
 ![Numeric Field Option](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/numeric-field-option-scaled.webp)
 
@@ -109,7 +107,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Numeric Input Field](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/Save-form-06-8-scaled.webp)
 
-## Preview of Added Numeric Field
+### Preview of Added Numeric Field
 
 Here is the preview of the added **Numeric** field under the Form. 
 

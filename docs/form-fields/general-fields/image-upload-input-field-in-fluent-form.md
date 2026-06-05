@@ -11,7 +11,7 @@ The **Image Upload** input field in[ Fluent Forms](https://fluentforms.com/) all
 
 ## Adding Image Upload Field
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -74,9 +74,9 @@ Define the error message to be shown if validation fails for **Allowed Image** f
 
 **J. File Location Type: As Per Global Settings** & **Custom**, you will see two options here.
 
-- As Per Global Settings: This option is selected by default, and the Global Settings determine the file location.
+- **As Per Global Settings:** This option is selected by default, and the Global Settings determine the file location.
 
-- Custom: If you select Custom, two options are available: Fluentforms Default & Media Library. In Custom options, uploaded files can be stored in the Media Library, Fluent Forms Default, or both. You can select the Media Library to upload the files in the WordPress Media Library.
+- **Custom:** If you select Custom, two options are available: Fluentforms Default & Media Library. In Custom options, uploaded files can be stored in the Media Library, Fluent Forms Default, or both. You can select the Media Library to upload the files in the WordPress Media Library.
 
 ![Basic Options](/images/form-fields/general-fields/image-upload-input-field-in-fluent-form/Basic-Options-04-5-scaled.webp)
 
