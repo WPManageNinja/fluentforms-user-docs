@@ -21,7 +21,7 @@ Once you enable Telegram, you will be asked for the **Bot Token** and the **Defa
 
 ### Getting the Bot Token and Chat ID from Telegram
 
-To learn how to get the **Bot Token** and **Chat ID** of the Channel/Group from Telegram**,** follow the steps with screenshots below –
+To learn how to get the **Bot Token** and **Chat ID** of the Channel/Group from Telegram, follow the steps with screenshots below –
 
 #### Getting Bot Token
 
@@ -41,7 +41,7 @@ Provide a relevant **Name** and a **Username** for your bot (**username** must e
 
 To get the **Channel/Group Chat ID**, go to any **existing Telegram Channel/Group** or **create a Channel/Group**. For example, I will collect the **Chat ID** from an **existing** **Telegram Group** to show the further process.
 
-First, **add** the **Bot** you created through **@BotFather** in the previous step **as a member of the group** and give your bot **Admin Access (**i.e., simply make the bot an admin of your group chat).
+First, **add** the **Bot** you created through **@BotFather** in the previous step **as a member of the group** and give your bot **Admin Access** (i.e., simply make the bot an admin of your group chat).
 
 Once you make your Bot Admin, you can see the preview from **View group info** by clicking the **Three-dots icon** on the right side of the **Group page**.
 
@@ -63,7 +63,7 @@ Return to the **Telegram Settings** page under the **Configure Integrations** ta
 Paste the **Bot Token** and **Chat ID** you copied from **Telegram** into the **Bot Token** and **Default Channel/Group Chat ID** fields, respectively.
 
 Plus, to check whether integration is successful, enter any text in the **Test Message (optional)** field.
-Finally, press the **Save Setting**s button, and your **Telegram Integration** module will be enabled.
+Finally, press the **Save Settings** button, and your **Telegram Integration** module will be enabled.
 
 ![Paste Bot Token And Chat ID](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/8.-Paste-Bot-Token-and-Chat-ID-scaled.webp)
 

@@ -10,8 +10,6 @@ This article will guide you through adding the **Custom HTML** field to your Wor
 
 ## Adding Custom HTML Field
 
-To learn how to add the custom HTML field to the Fluent Forms, follow the steps with the screenshots below –
-
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Custom HTML Field](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/edit-form-01-2-scaled.webp)
@@ -54,7 +52,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Custom HTML Field](/images/form-fields/general-fields/custom-html-field-in-fluent-forms/save-form-05-scaled.webp)
 
-## Preview of Added Custom HTML Field
+### Preview of Added Custom HTML Field
 
 Here is the **Preview** of the **Form** to test the custom HTML field functionality.
 

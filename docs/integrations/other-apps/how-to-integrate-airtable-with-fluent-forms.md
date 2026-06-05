@@ -56,7 +56,7 @@ Now, a pop-up will come with your access token. Simply, copy it from here.
 Return to the **Airtable Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
 
 Paste the **Token** you copied from **Airtable** into the **Airtable Access Token** field.
-Finally, press the **Save Setting**s button to make your **Airtable Integration** module functional. 
+Finally, press the **Save Settings** button to make your **Airtable Integration** module functional. 
 
 ![Paste Access Token](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/7.-Paste-Access-Token-scaled.webp)
 

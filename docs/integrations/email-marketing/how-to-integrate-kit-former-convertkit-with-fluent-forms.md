@@ -44,7 +44,7 @@ Then, return to the **ConvertKit Settings** page under the **Configure Integrati
 
 Paste the **API Key** and **API Secret** you copied from **ConvertKit** into the **ConvertKit API Key** and **ConvertKit API Secret** fields respectively.
 
-Finally, press the **Save Setting**s button to make your **ConvertKit Integration** module functional.
+Finally, press the **Save Settings** button to make your **ConvertKit Integration** module functional.
 
 ![Paste API Keys](/images/integrations/email-marketing/how-to-integrate-kit-former-convertkit-with-fluent-forms/5.-Paste-the-API-Keys-scaled.webp)
 

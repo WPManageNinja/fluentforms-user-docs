@@ -37,7 +37,7 @@ Now, go to Settings from the top navbar, open the **API & Webhooks** dropdown, c
 Then, return to the **Gist API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
 
 Paste the **API Key** you copied from **Gist** into the **Gist API Key** field.
-Finally, press the **Save Setting**s button to make your **Gist Integration** module functional.
+Finally, press the **Save Settings** button to make your **Gist Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/4.-Paste-API-Key-scaled.webp)
 

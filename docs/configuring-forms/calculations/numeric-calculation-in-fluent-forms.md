@@ -1,16 +1,14 @@
 # Numeric Calculation in Fluent Forms
 
-Fluent Forms provides **built-in calculation features** for numeric fields, allowing you to perform real-time mathematical operations within your forms.
+**Numeric calculation** in Fluent Forms runs math on **Numeric** fields in real time as users fill out your form. Use it for order totals, quotes, scoring, or any case where one field should update automatically from others.
 
-This guide will walk you through adding and customizing the **Numeric Calculations** in Fluent Forms for your WordPress site.
+This guide shows you how to enable a **calculation expression**, build a formula with field shortcodes and operators (`+`, `-`, `*`, `/`), and preview the result on your site. For field basics, see [Numeric Input Field in Fluent Forms](/docs/numeric-input-field-in-fluent-forms).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/iWxLhcaQDD0" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Adding Numeric Fields
-
-To learn how to add the **Numeric** field to Fluent Forms, follow the steps below:
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 

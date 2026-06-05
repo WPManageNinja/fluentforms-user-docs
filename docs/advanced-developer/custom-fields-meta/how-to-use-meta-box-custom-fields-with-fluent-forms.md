@@ -6,7 +6,7 @@ This article will guide you on integrating **Meta Box Custom Fields** with **Flu
 
 ## Install Required Plugins
 
-**Meta Box Plugin**: Install and activate the **Meta Box** plugin and the **Meta Box Builde**r plugin to create custom fields.
+**Meta Box Plugin**: Install and activate the **Meta Box** plugin and the **Meta Box Builder** plugin to create custom fields.
 
 ![Meta Box Custom Field](/images/advanced-developer/custom-fields-meta/how-to-use-meta-box-custom-fields-with-fluent-forms/Metabox-custom-field-01-scaled.webp)
 
@@ -106,7 +106,7 @@ To learn how to enable Post/CPT Module, follow the steps with the screenshots be
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Post/CPT** through the search bar, and get the **Post/CPT** module.
 
-Now, turn on the Hubspot **Enabled** button**.**
+Now, turn on the Hubspot **Enabled** button.
 
 Now, select an existing [**Post Form**](/docs/how-to-create-a-post-form-with-fluent-forms) from the Fluent Forms dashboard or create a new one. 
 

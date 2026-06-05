@@ -88,7 +88,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Fluent Forms](/images/form-fields/general-fields/adding-a-simple-text-input-field/Save-Form-06-11-scaled.webp)
 
-## Preview of Added Simple Text Field
+### Preview of Added Simple Text Field
 
 Here is the preview of the added **simple text** field under the Form. 
 

@@ -78,8 +78,8 @@ Now, enter test data in the form on the source domain and **submit** it.
 
 ![Connecting Fluent Forms from one domain with Fluent CRM to another domain step](/images/account-license/connecting-fluent-forms-from-one-domain-with-fluent-crm-to-another-domain/08.webp)
 
-After that**,** go to FluentCRM on the destination domain and refresh the **Contacts** page. The submitted data should now appear in the contacts list.
+After that, go to FluentCRM on the destination domain and refresh the **Contacts** page. The submitted data should now appear in the contacts list.
 
 ![Connecting Fluent Forms from one domain with Fluent CRM to another domain step](/images/account-license/connecting-fluent-forms-from-one-domain-with-fluent-crm-to-another-domain/09-scaled.webp)
 
-Using **Fluent Forms** and **WebHooks**, you can create as many WebHooks as required and collect leads from multiple domains into a centralized FluentCRM database**.**
+Using **Fluent Forms** and **WebHooks**, you can create as many WebHooks as required and collect leads from multiple domains into a centralized FluentCRM database.

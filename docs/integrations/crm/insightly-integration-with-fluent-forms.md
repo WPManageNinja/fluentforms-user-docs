@@ -39,7 +39,7 @@ Now, copy the **API Key** & **API URL** **( https://api.na1.insightly.com/ )** l
 
 Then, return to the **Insightly Settings** page under the **Global Settings Configure Integration tab** from the **Fluent Forms Navbar**.
 
-Now, paste the Integration **API URL** and **API Key** that were copied before**.**
+Now, paste the Integration **API URL** and **API Key** that were copied before.
 
 Press the **Save Settings** button to activate your **Insightly Integration** module.
 

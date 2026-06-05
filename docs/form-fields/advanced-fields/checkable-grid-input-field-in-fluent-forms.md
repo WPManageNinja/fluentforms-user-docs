@@ -22,7 +22,7 @@ Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, 
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
-Now, select the desired **Checkable Grid** **Input** field by clicking or d**ragging** it and **dropping** it into your editor.
+Now, select the desired **Checkable Grid** **Input** field by clicking or **dragging** it and **dropping** it into your editor.
 
 ![Adding Checkable Grid](/images/form-fields/advanced-fields/checkable-grid-input-field-in-fluent-forms/adding-checkable-grid-02-scaled.webp)
 
@@ -39,8 +39,6 @@ Once you add the checkable grid field, you can customize it by **hovering over**
 ### Checkable Grid Options
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Checkable Grid** input field.
-
-All the Settings under the **Checkable Grid Field** mentioned above are briefly explained below – 
 
 **A. Element Label:** This is the field title users will see when filling out the **Checkable Grid** field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -86,7 +84,7 @@ You can customize the Grid Rows section.
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases.
 
 **A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 

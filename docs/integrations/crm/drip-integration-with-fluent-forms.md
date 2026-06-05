@@ -47,7 +47,7 @@ Now, scroll down and you will find the **Account ID** here. Just **Copy** it for
 
 Then, return to the **Drip Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
 
-Now, paste the **Drip API Token** and **Drip Account ID** that was copied before**.**
+Now, paste the **Drip API Token** and **Drip Account ID** that was copied before.
 
 Press the **Save Settings** button to make your **Drip Integration** module functional.
 

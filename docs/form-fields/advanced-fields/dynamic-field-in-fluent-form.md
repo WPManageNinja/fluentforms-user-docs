@@ -120,7 +120,7 @@ You will choose **Label** and **Values** from the dropdown options. You can also
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). 
 

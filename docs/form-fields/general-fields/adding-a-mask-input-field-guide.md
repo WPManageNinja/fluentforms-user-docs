@@ -114,7 +114,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Fluent Forms](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Save-Form-06-10-scaled.webp)
 
-## Preview of Added Mask Input Field
+### Preview of Added Mask Input Field
 
 Here is the preview of the added **Mask Input** field under the Form. 
 

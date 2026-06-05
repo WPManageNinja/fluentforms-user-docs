@@ -41,7 +41,7 @@ Here you will find **User ID** and **API Key** under the Configuration sections.
 
 Then, return to the **OnePageCRM Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
 
-Now, paste the **User ID** and **API Key** that was copied before**.**
+Now, paste the **User ID** and **API Key** that was copied before.
 
 Press the **Save Settings** button to make your **OnePageCRM Integration** module functional.
 

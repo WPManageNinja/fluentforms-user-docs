@@ -76,7 +76,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 
 ![Save Name Input Field](/images/form-fields/general-fields/name-input-field-in-fluent-forms/Save-Form-06-scaled.webp)
 
-## Preview of Added Name Field
+### Preview of Added Name Field
 
 Here is the preview of the added **Name** field under the Form. 
 

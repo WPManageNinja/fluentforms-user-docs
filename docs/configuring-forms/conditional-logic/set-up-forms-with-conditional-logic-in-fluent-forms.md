@@ -1,12 +1,8 @@
-# Set up Forms with Conditional Logic in Fluent Forms
-
-[Alternative Heading: Use Conditional Logic in Input Fields with Fluent Forms]  
+# Set up Forms with Conditional Logic in Fluent Forms 
 
 **Fluent Forms** offers the **Conditional Logic** feature inside **Input Fields** to **display**/hide them based on specific conditions in your forms. This article will guide you through using **Conditional Logic** in any **Input Fields** with **Fluent Forms**.
 
 ## Enabling Conditional Logic in a Field
-
-To learn how to use conditional logic in a specific form, follow the steps with the screenshots below –  
 
 First, go to the **Forms** from the **Fluent Forms Navbar** or **WordPress Left Sidebar,** and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to use the **Conditional Logic** feature.
 
@@ -35,13 +31,13 @@ Once you enable the **Conditional Logic** option, a **Conditional Match** option
 
 **C. Group**: This advanced option allows you to **create multiple conditions within groups**. Unlike the "**Any**" or "**All**" options, which determine whether all or just one condition must be met, the "**Group**" option lets you set one group of conditions against another using the “**OR**” operator. This means that an action will be triggered if at least one group of conditions is met. “Also, you can **Name** your **Groups** according to your preference.
 
-### Fields to set Conditions
+## Fields to set Conditions
 
 Once you select the **Conditional Match**, you can specify the **Parameter**, its **Operator**, and the corresponding **Value** to set condition/s.
 
 In the “**Parameter**” field (first field), select an **input field** that needs to correspond with the value provided in the “**Value**” field (last field) and set an option in the “**Operator**” field (middle field). The parameter will trigger the action if the condition is met.  
 
-To add as many conditions as you need, click the **Plus Icon,** and to delete any conditions, click the **Minus Icon** in the right corner. 
+To add as many conditions as you need, click the **Plus Icon,** and to delete any conditions, click the **Minus (-) Icon** in the right corner. 
 
 Once you complete it, click the **Save Form** button to make the condition/s functional. To see the preview, click the **Preview & Design** button. 
 
@@ -87,7 +83,7 @@ As I have selected the "**Group**" conditional match here, when users meet eithe
 
 ![Group Conditional Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/8.-Group-Conditional.webp)
 
-Here is a **preview** of a form where the user met **All Conditions** under **Group 1** **(**providing an email address including **“@gmail.com”** and selecting the **“Fluent Forms”** product**)**. As a result, the **Payment Method** field is visible here.
+Here is a **preview** of a form where the user met **All Conditions** under **Group 1** **(** providing an email address including **“@gmail.com”** and selecting the **“Fluent Forms”** product**)**. As a result, the **Payment Method** field is visible here.
 
 ![Preview Group One Codinitional Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/9.-Preview-of-Group-one-codinitional.webp)
 

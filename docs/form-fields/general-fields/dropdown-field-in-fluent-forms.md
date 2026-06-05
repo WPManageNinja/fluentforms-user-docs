@@ -10,8 +10,6 @@ This article will guide you through adding the **Dropdown input field** to **Flu
 
 ## Adding Dropdown Field
 
-To learn how to add the Dropdown field to the Fluent Forms, follow the steps with the screenshots below –
-
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 ![Edit Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/edit-form-01-1-scaled.webp)
@@ -46,15 +44,15 @@ You will find various settings options for customizing the field. Located in the
 
 **E. Options:** Define the dropdown options:
 
-- Create Options: Add the items for users to choose from.
+- **Create Options:** Add the items for users to choose from.
 
-- Set Default Options: Checkmark an option to set it as the default selection.
+- **Set Default Options:** Checkmark an option to set it as the default selection.
 
-- Show Values: Display values for admin ease during submissions.
+- **Show Values:** Display values for admin ease during submissions.
 
-- Rearrange Options: Drag and drop options to reorder them.
+- **Rearrange Options:** Drag and drop options to reorder them.
 
-- Add/Delete Options: Use the Plus icon to add new options or insert options between existing ones.
+- **Add/Delete Options:** Use the Plus icon to add new options or insert options between existing ones.
 
 **F. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform [numeric calculations](/docs/numeric-calculation-in-fluent-forms) using Show and Calc Values.
 
@@ -98,7 +96,7 @@ To integrate and display the form on a specific Page or post, **copy** the **Sho
 
 ![Save Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Save-Form-06-3-scaled.webp)
 
-## Preview of Added Dropdown Field
+### Preview of Added Dropdown Field
 
 Here is the preview of the added **dropdown** field under the Form. 
 

@@ -46,7 +46,7 @@ Return to the **Global Settings** from the **FluentForms Navbar**, open the **Se
 
 Now, paste the **Keys** you copied from the **Google reCAPTCHA Site** into the **Site Key** and **Secret Key** fields respectively. 
 
-Finally, press the **Save Setting**s button to make your **reCAPTCHA Integration** functional. 
+Finally, press the **Save Settings** button to make your **reCAPTCHA Integration** functional. 
 
 ![Paste Keys Fluent Forms](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/5.-paste-keys-scaled.webp)
 

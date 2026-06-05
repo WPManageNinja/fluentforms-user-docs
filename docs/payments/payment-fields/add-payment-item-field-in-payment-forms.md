@@ -1,6 +1,6 @@
 # Add Payment Item Field in Payment Forms
 
-In **Fluent Forms**,  the **Payment Item** field allows you to showcase single or multiple **Items (Products)** options in your form, allowing users to select and buy their desired Item/s that exist in the form**.**
+In **Fluent Forms**,  the **Payment Item** field allows you to showcase single or multiple **Items (Products)** options in your form, allowing users to select and buy their desired Item/s that exist in the form.
 
 This article will guide you through adding the **Payment Item** field in your Fluent Forms for your WordPress Site.
 

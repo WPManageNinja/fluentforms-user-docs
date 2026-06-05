@@ -1,6 +1,6 @@
 # Add Repeat Container Field in Fluent Forms
 
-In **Fluent Forms**,  the **Repeat Containe**r field allows you to offer your users the option of submitting information through **Single/Multiple Fields** repeatedly by duplicating the field/s. More specifically, it allows you to include multiple fields inside a single container, enabling users to fill multiple sets of data for the same added fields within your form.
+In **Fluent Forms**,  the **Repeat Container** field allows you to offer your users the option of submitting information through **Single/Multiple Fields** repeatedly by duplicating the field/s. More specifically, it allows you to include multiple fields inside a single container, enabling users to fill multiple sets of data for the same added fields within your form.
 
 **For example**, if you want users to submit multiple emails, phone numbers, and website URLs through Fluent Forms, you can use the **Repeat Container** field. This allows users to add as many entries as needed by duplicating the set field/s with one click. 
 
@@ -52,7 +52,7 @@ Configure labels, columns, and width from the **Input Customization** tab:
 
 **B. Label Placement**: Using this option, you can determine the position of the label title where the user will see it. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default.** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
-**C. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option**.**
+**C. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
 
 **D. Container Columns:** Here, you can select the number of columns you want to add to your Repeat Container Field. Remember, each column has the same functionality except for the number of added columns. For example, I added 3 columns.
 

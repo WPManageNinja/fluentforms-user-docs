@@ -36,7 +36,7 @@ Once you select FluentCRM integration, you will need to configure the following-
 
 **B. FluentCRM List:** Select the FluentCRM contact list you wish to integrate with. You can also change this anytime if needed.
 
-**C. Primary Fields:** Use all the fields under this option to properly link your **FluentCRM Field**s with the **Form Fields**. You can easily select the value for the form fields based on the **FluentCRM** fields using the **Shortcode Arrow**.
+**C. Primary Fields:** Use all the fields under this option to properly link your **FluentCRM Fields** with the **Form Fields**. You can easily select the value for the form fields based on the **FluentCRM** fields using the **Shortcode Arrow**.
 
 **D. Other fields:** Here you can map additional Fluent Form fields to FluentCRM fields. To add multiple fields click the **Plus (+) Icon**.
 

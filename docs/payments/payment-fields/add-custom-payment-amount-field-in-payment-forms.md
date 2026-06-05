@@ -61,7 +61,7 @@ All the **Settings** under the **Advanced Options** tab mentioned in the screens
 
 **D. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
 
-**F. Prefix Labe**l: Use this option to provide a Prefix Label in your input field. It will show in the input field as a Prefix label.
+**F. Prefix Label**: Use this option to provide a Prefix Label in your input field. It will show in the input field as a Prefix label.
 
 **G. Suffix Label**: Use this option to provide a Suffix Label in your input field. It will show in the input field as a Suffix label.
 

@@ -75,7 +75,7 @@ Now to add the “**Post Reviewer”** **ACF** **Field** in this form,  go to th
 
 ## Configuring Post Feed Settings
 
-Now, you need to c**onfigure** the **Post Feed** to make your Custom Field functional and properly integrate it into the **Post Form**. It helps you map your added post fields for data collection and allows users to create more customized posts.
+Now, you need to **configure** the **Post Feed** to make your Custom Field functional and properly integrate it into the **Post Form**. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
 **To learn how to configure Post Feed with the Post Form, follow the steps below –** 
 

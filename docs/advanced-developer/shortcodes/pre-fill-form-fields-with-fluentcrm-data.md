@@ -24,7 +24,7 @@ First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a de
 
 ![Editor Fluent Forms](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/form-editor-02-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and choose the desired **Field** by clicking on it or **Dragging & Drop**ping it into your editor.
+Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and choose the desired **Field** by clicking on it or **Dragging & Drop** ping it into your editor.
 
 ![Add Field Pre-Fill Form Fields with](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/add-field-03-scaled.webp)
 

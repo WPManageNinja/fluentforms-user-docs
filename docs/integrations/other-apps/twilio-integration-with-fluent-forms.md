@@ -15,7 +15,7 @@ To learn how to enable Twilio integration, follow the steps with the screenshots
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Twilio** through the search bar, and get the **Twilio** integration module.
 
-Now, turn on the **Toggle** button to enable Twilio**.** Then, you will see the **Settings Icon** on the right side, click on it.
+Now, turn on the **Toggle** button to enable Twilio. Then, you will see the **Settings Icon** on the right side, click on it.
 
 ![Enable Twilio](/images/integrations/other-apps/twilio-integration-with-fluent-forms/enable-twilio-01-scaled.webp)
 
@@ -39,7 +39,7 @@ Now, ​​**copy** the **Account SID** and **Auth Token** to use them later.
 
 Then, return to the **Twilio Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
 
-Now, paste the **Twilio Access SID** and **Auth Token** I copied**.** Click on the **Save Settings** button.
+Now, paste the **Twilio Access SID** and **Auth Token** I copied. Click on the **Save Settings** button.
 
 ![Globql Settings](/images/integrations/other-apps/twilio-integration-with-fluent-forms/Globql-settings-04-scaled.webp)
 

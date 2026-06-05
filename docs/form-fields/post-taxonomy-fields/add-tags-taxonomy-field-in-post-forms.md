@@ -37,7 +37,7 @@ Configure **Tags** labels, taxonomy display type, and validation:
 
 **B. Label Placement**: Using this option, you can determine the position of the label Content where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
-**C. Admin Field Label**: The admin field label is a field Content displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option**.**
+**C. Admin Field Label**: The admin field label is a field Content displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
 
 **D. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
 

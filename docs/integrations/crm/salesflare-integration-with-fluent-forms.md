@@ -43,7 +43,7 @@ After creating the API key, **copy** it for **later** use.
 
 Then, return to the **Salesflare Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
 
-Now, paste the **Api Key** that you copied before**.**
+Now, paste the **Api Key** that you copied before.
 
 After that, click the **Save Settings** button to make your **Salesflare Integration** module functional.
 

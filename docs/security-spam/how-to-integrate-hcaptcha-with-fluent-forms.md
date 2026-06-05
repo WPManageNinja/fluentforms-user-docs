@@ -62,7 +62,7 @@ After you provide the keys, a pop-up will appear to **Verify** their validity.
 
 ![Verify Button Fluent Forms](/images/security-spam/how-to-integrate-hcaptcha-with-fluent-forms/10.-Verify-button.webp)
 
-Finally, press the **Save Setting**s button to make your **hCaptcha Integration** functional. 
+Finally, press the **Save Settings** button to make your **hCaptcha Integration** functional. 
 
 ![Save Settings Button Integrate hCaptcha](/images/security-spam/how-to-integrate-hcaptcha-with-fluent-forms/11.-Save-Settings-button-scaled.webp)
 
