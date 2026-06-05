@@ -4,9 +4,7 @@ The Accordion container is a powerful feature that helps you organize long forms
 
 ## Add the Accordion Container
 
-To learn how to add the Accordion Container input fields, follow the steps with screenshots below – 
-
-First, go to the **Forms** section from the **Fluent Forms** Navbar, choose a desired Form to which you wish to add the Accordion Container field, and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
@@ -33,23 +31,21 @@ Here is a breakdown of each setting:
 
 **C. Display Mode:** This option enables you to select the appearance of the forms in the display. Here you will find two options.
 
-1. Accordion: This mode creates a collapsible section. Users see a title bar with a plus (+) icon. Clicking this bar expands the section to reveal the fields inside.
-
-1.
+ * **1. Accordion:** This mode creates a collapsible section. Users see a title bar with a **plus (+)** icon. Clicking this bar expands the section to reveal the fields inside.
 
 ![Accordion Display](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/accordion-display-04-scaled.webp)
 
-1. Tabs: This mode creates a horizontal tab. The Title you set becomes the label for a clickable tab. When a user clicks the tab, the form shows the fields for that section.
+ * **2. Tabs:** This mode creates a horizontal tab. The Title you set becomes the label for a clickable tab. When a user clicks the tab, the form shows the fields for that section.
 
 ![Tabs Display](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/tabs-display-05-scaled.webp)
 
-**D**. **Accordion/Tab Type:** This setting controls how multiple accordions or tabs are grouped. To create a stack of sections, you must use more than one Accordion/Tab field and configure their **Type**:
+**D. Accordion/Tab Type:** This setting controls how multiple accordions or tabs are grouped. To create a stack of sections, you must use more than one Accordion/Tab field and configure their **Type**:
 
-- Start: Use this for the first section in your group.
+- **Start:** Use this for the first section in your group.
 
-- Both: Use this for any middle sections. This setting tells Fluent Forms to "close the previous section and start a new one."
+- **Both:** Use this for any middle sections. This setting tells Fluent Forms to "close the previous section and start a new one."
 
-- Close: You can use both for the last section as well, or you can use Close to properly end the group.
+- **Close:** You can use both for the last section as well, or you can use Close to properly end the group.
 
 **Start Collapsed:** (Accordion Mode Only) When this box is checked, the accordion will be closed by default when the form first loads. The user must click to open it.
 
@@ -57,7 +53,7 @@ Here is a breakdown of each setting:
 
 **E. Container Class:** This field allows you to add a custom CSS class. You can then use this class in your stylesheet for advanced custom styling.
 
-### Embed the Form into Frontend
+## Embed the Form into Frontend
 
 Once you complete the customization, click the **Save Form** button in the top-right corner to save all your changes. To see a preview, click the **Preview & Design** button.
 
@@ -69,13 +65,14 @@ To display the form on a page or post, copy the **Shortcode** (e.g., [fluentform
 
 Here is how the Accordion Container will look and function for your users on the live form:
 
-- Collapsed View: If you enabled the "Start Collapsed" setting, the section will be closed when the form first loads. Users will only see the Accordion Title and Description, with a Plus Icon (+) on the right.
+- **Collapsed View:** If you enabled the "Start Collapsed" setting, the section will be closed when the form first loads. Users will only see the **Accordion Title** and **Description**, with a Plus Icon (+) on the right.
 
-- Expanding the Section: When a user clicks anywhere on the title bar or the Plus Icon (+), the container will expand. This will smoothly reveal all the fields you placed inside it (like "Textarea" or "Country").
+- **Expanding the Section:** When a user clicks anywhere on the title bar or the **Plus Icon (+)**, the container will expand. This will smoothly reveal all the fields you placed inside it (like "Textarea" or "Country").
 
-- Expanded View: Once expanded, the icon will change to a Minus Icon (-). A user can click this icon or the title bar again to collapse the section, hiding the fields.
+- **Expanded View:** Once expanded, the icon will change to a **Minus Icon (-)**. A user can click this icon or the title bar again to collapse the section, hiding the fields.
 
-> Note: The Plus (+) and Minus (-) icons on an Accordion Container are only for expanding and collapsing that one section. To allow users to duplicate or repeat a set of fields, you would use the Repeater Field instead.
+> [!Note]
+> The **+** and **−** icons expand or collapse one accordion section only. To let users add duplicate rows of fields, use the [Repeat Container Field](/docs/add-repeat-container-field-in-fluent-forms) or [Repeat Input Field](/docs/repeat-input-field-in-fluent-forms) instead.
 
 ![Final Fluent Forms](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/final-form-07.webp)
 
