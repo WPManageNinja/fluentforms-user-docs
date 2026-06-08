@@ -19,8 +19,6 @@ Once you enable GeGist, you will be asked for the **GetGist API Key** of your **
 
 ### Get the GetGist Integration API Key
 
-To learn how to get the GetGist Integration API Key from GetGist, follow the steps with screenshots below.
-
 First, log in to your [GetGist Account](https://app.getgist.com/login), then go to **Settings** from the top menu and select the API Key under the API & webhooks section in the left sidebar. Here you will find your **GetGist API Key**. Now, **Copy** the API Key.
 
 ![API Key](/images/integrations/email-marketing/gist-integration-with-fluent-forms/API-Key-03-scaled.webp)

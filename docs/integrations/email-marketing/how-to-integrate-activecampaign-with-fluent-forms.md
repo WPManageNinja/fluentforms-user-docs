@@ -4,12 +4,12 @@
 
 This article will guide you through integrating **ActiveCampaign** with **Fluent Forms** on your **WordPress Site**. 
 
+> [!Note]
+> **ActiveCampaign** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/F4i2RIyGZbM" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
-> [!Note]
-> **ActiveCampaign** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable ActiveCampaign Integration
 
@@ -63,6 +63,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 ![Configure Integrations Page Integrate ActiveCampaign](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/7.-Configure-Integrations-page-scaled.webp)
 
 Here, you will find a required field to set a **Name** for your integration feed according to your preference.
+
 Also, you must select the **ActiveCampaign List** from the dropdown where you want to send the submitted form data.
 
 ![Add Activecampaign Integration Feed Integrate ActiveCampaign](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/8.-Add-new-ActiveCampaign-Integration-Feed-scaled.webp)
@@ -75,7 +76,9 @@ Once you select the list, a pop-up page will appear with various settings option
 
 3. **Map Fileds:** Use all the fields under this option to properly link your ActiveCampaign Fields with the Form Fields. You can easily select the value for the form fields based on the ActiveCampaign fields using the Shortcode Arrow.
 
-4. **Tags:** With this option, you can add tags to your ActiveCampaign contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag. Enable Dynamic Tag Input: This option allows you to add customized tags for specific ActiveCampaign contacts based on your submission values according to your set conditions.
+4. **Tags:** With this option, you can add tags to your ActiveCampaign contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag. 
+
+  * **Enable Dynamic Tag Input:** This option allows you to add customized tags for specific ActiveCampaign contacts based on your submission values according to your set conditions.
 
 5. **Note:** This option allows you to write a note for the contacts. You can also use Shortcodes to send dynamic data to ActiveCampaign.
 
@@ -96,11 +99,12 @@ Once the setup is done, click the **Save Feed** button and, your **ActiveCampaig
 After successful integration, now you will see that your **ActiveCampaign Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. 
+
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Added Activecampaign Integration Feed](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/10.-Added-ActiveCampaign-Integration-feed-scaled.webp)
 
-## Preview of Integrated ActiveCampaign
+### Preview of Integrated ActiveCampaign
 
 Here, you can see the preview of added ActiveCampaign Contacts through the Form Entries based on the Integration.
 

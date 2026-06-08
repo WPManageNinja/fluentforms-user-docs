@@ -82,7 +82,10 @@ Once you select the list, a pop-up page will appear with various settings option
 
 3. **Map Fileds:** Use all the fields under this option to properly link your Sendinblue Fields with the Form Fields. You can easily select the value for the Form Fields based on the Sendinblue Fields using the Shortcode Arrow.
 
-4. **Other Fields:** Using this option, you can also link the Fluent Forms fields with their respective Sendinblue Custom fields. But, remember, Custom Date fields support only MM/DD/YYYY format. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
+4. **Other Fields:** Using this option, you can also link the Fluent Forms fields with their respective Sendinblue Custom fields. Click the **Plus/Minus** icon in the right corner to add or delete custom fields as needed.
+
+> [!Note]
+> **Custom date fields** accept only the **MM/DD/YYYY** format.
 
 5. **Conditional Logics:** This option allows Sendinblue integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
@@ -95,11 +98,12 @@ Once the setup is done, finally, click the **Save Feed** button. And, your Sendi
 After successful Integration, now you will see that your **Sendinblue Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**.
+
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Added Sendinblue Integration Feed](/images/integrations/email-marketing/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms/12.-Added-Sendinblue-integration-feed-scaled.webp)
 
-## Preview of Integrated Sendinblue
+### Preview of Integrated Sendinblue
 
 Here, you can see the preview of Sendinblue’s added contacts through the form entries that I set up during the integration.
 

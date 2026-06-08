@@ -115,7 +115,10 @@ Now, a page will appear with various settings options for configuring the Consta
 
 4. **Map Fileds:** Use all the fields under this option to properly link your Constant Contact Fields with the Form Fields. Also, you can easily select the Value for the Form Fields according to the Constant Contact Fields by using the Shortcode button.
 
-5. **Custom Fields:** Using this option, you can also link the Fluent Forms fields with their respective Constant Contact Custom fields. But, remember, Custom Date fields support only MM/DD/YYYY format. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
+5. **Custom Fields:** Using this option, you can also link the Fluent Forms fields with their respective Constant Contact Custom fields. Click the **Plus/Minus** icon in the right corner to add or delete custom fields as needed.
+
+> [!Note]
+> **Custom date fields** accept only the **MM/DD/YYYY** format.
 
 6. **Conditional Logics:** This option allows Constant Contact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
