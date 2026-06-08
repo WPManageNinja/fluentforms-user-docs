@@ -4,8 +4,6 @@ In [Fluent Forms](http://Fluentforms.com), you can easily create **Payment Forms
 
 ## Creating a Payment Form
 
-To learn how to create Payment Forms with Fluent Forms, follow the steps with the screenshots below –  
-
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
 > [!Note]
@@ -21,11 +19,9 @@ Once you open the **Editor** page, you need to add the necessary fields from the
 
 ## Enabling Payment Module
 
-To get the **Payment Fields** module in your **Fluent Forms**, you have to make sure that your **Payment Fields** module is enabled.
+The **Payment Fields** module must be enabled before you can add payment fields to a form.
 
-If not, go to the **Global Settings** from the **Fluent** **Forms Navbar to enable the payment options for all forms**.
-
-Now, open the **Payment** tab, click the **Settings** option, and check the **Enable** **Payment** **Module**. This will activate all the payment-related fields within the **Payment** **Module** for every form.
+Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Settings**. Turn on **Enable Payment Module** to activate payment-related fields for all forms.
 
 ![Enable Payment Module Create a Payment Form](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/3.-Enable-payment-module-scaled.webp)
 
@@ -68,7 +64,7 @@ Now, go to your desired payment platform/s and check the **Enable** **Payment** 
 
 You can also customize the payment settings **globally** for all forms or **individually** for each form based on your needs.
 
-> To learn the detail process of how to customize the payment settings, read this Documentation.
+> To learn the detail process of how to customize the payment settings, read this [Documentation](/docs/configure-payment-settings-with-fluent-forms/).
 
 ## Integrating Form in WordPress Site
 
@@ -83,7 +79,7 @@ Then, open a desired page/post, **paste** the **shortcode**, and press the **Sav
 
 ![Paste Shortcode On Dsired Page](/images/payments/getting-started-with-payments/how-to-create-a-payment-form-with-fluent-form/10.-Paste-shortcode-on-dsired-page-scaled.webp)
 
-## Preview of Payment Form
+### Preview of Payment Form
 
 Here is the **preview** of the **Payment Form** that we just created.
 
