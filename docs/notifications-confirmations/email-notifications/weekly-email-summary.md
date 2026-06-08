@@ -1,23 +1,23 @@
 # Weekly Email Summary
 
-**Fluent Forms** allows you to keep track of your form submissions based on a particular day in every week through the **Email Summaries** feature. Also, you can get an overall idea of how your forms are performing.
+The **Email Summaries** feature sends a weekly report of your form activity so you can track submissions and see how your forms are performing without opening the dashboard every day.
 
-This article will guide you through the process of setting up **Email Summaries** to **send a weekly report** on **Form Submissions** through **Emails**.
+This guide shows you how to enable weekly email summaries, choose who receives them, and set the delivery day and subject line.
 
-## Email Summaries
+## Set Up Email Summaries
 
-To learn how to send a weekly summary report on form submissions through the email notification to the admin/users, follow the steps below – 
+Go to **Global Settings** from the Fluent Forms navbar, open the **General** tab in the left sidebar, and select **Email Summaries**.
 
-First, go to **Global Settings** from the **FluentForms Navbar**, open the **General** tab from the left sidebar, and click the **Email Summaries** option.
+By default, **Enable Email Summaries** is turned on. The **Site Admin** receives the report every **Monday**. Turn the toggle off anytime if you do not want weekly summaries.
 
-Now, you can see the **Enable Email Summaries** toggle is turned on by default and the **Site Admin** will get the email every **Monday** by default as well. You can **Disable** it anytime if you want.
+Configure these options to match your needs:
 
-1. Send To: Here, you can choose where to send the email summaries. To send it to any other email besides Site Admin, click the Custom Email option and provide the Email Address/es where you want to send it. You can also use Comma (,) and add multiple email addresses where you want to send email summaries.
+- **Send To:** Choose **Site Admin** or **Custom Email**. To send summaries to other addresses, select **Custom Email** and enter one or more email addresses. Separate multiple addresses with a comma.
 
-2. Get Response On: Here, you can set the desired day when you want to send the summary email.
+- **Get Response On:** Select the day of the week when the summary email should be sent.
 
-1. Subject Line: Here you can set a subject for your weekly email summary notification.
+- **Subject Line:** Enter the subject line for the weekly summary notification.
 
-Don’t forget to click the **Save Settings** button to make all the setup functional. 
+When you finish, click **Save Settings** to apply your changes.
 
 ![Email Summaries Fluent Forms](/images/notifications-confirmations/email-notifications/weekly-email-summary/1.-Email-Summaries-scaled.webp)
