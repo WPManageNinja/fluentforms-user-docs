@@ -8,13 +8,12 @@ This article will guide you through setting up the **Payment Settings** for all 
 
 Go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, click the **Settings** option, and three options appear. These are: 
 
-1. General
+**1. General**
 
-2. Currency
+**2. Currency**
 
-3. Pages & Subscription Management
+**3. Pages & Subscription Management**
 
-**All three options are explained below:**
 
 ### 1. General
 
