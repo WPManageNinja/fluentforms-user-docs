@@ -23,7 +23,7 @@ Then, you need to obtain the **API  Key** from your **Mollie Account**.
 
 ![Test API Key](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/2.-Test-API-Key-scaled.webp)
 
-### Get the API Credentials from Mollie
+### Get the API Credentials 
 
 To learn how to get all the required API Credentials from your [Mollie](http://mollie.com), follow the steps with screenshots below – 
 
@@ -35,6 +35,7 @@ Once you log in to the **Mollie Dashboard**, go to the **Browse** section from t
 
 Here, you will get your desired **API key** from the **Test API key** row, and copy it.
 
+>[!Note]
 > Copy the Live API Key to activate Live mode if Live is chosen as the payment mode.
 
 ![Copy API Key](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/4.-Copy-API-Key-1.webp)
@@ -75,7 +76,7 @@ Also, to see the **Preview** of the form, click the **Preview & Design** button 
 
 ![Save Integrate Mollie](/images/payments/payment-gateways/how-to-integrate-mollie-with-fluent-forms/7.-Save-Form-scaled-3.webp)
 
-## Preview of Added Payment Method
+### Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to **Mollie** to complete the payment process. 
 

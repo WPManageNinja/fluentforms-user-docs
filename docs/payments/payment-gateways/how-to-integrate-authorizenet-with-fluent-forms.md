@@ -2,7 +2,8 @@
 
 Authorize.net is a global payment gateway that gives you Visa, credit card, and electronic payment services. With Fluent Forms, you can easily credit and debit your online payment.
 
-Remember, **Authorize.Net** Integration is a **Premium** Feature of the **Fluent Forms** Plugin. So, you need the [Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on) plugin to integrate this.
+> [!Note]
+> **Authorize.Net** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Authorize.net Payment Method
 
@@ -12,7 +13,7 @@ Now, go to Authorize.Net in the top navbar and click **Enable Authorize.Net Paym
 
 ![Enable Authorized integrate Authorize.Net](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/enable-authorized-scaled.webp)
 
-## Configure Authorize.Net with Fluent Forms
+## Configure Authorize.Net 
 
 Once you enable Authorize.Net, all the required settings will appear to configure Authorize.Net with Fluent Forms. 
 
@@ -26,9 +27,9 @@ Also, you need to set up the **Authorize.Net Webhook Setup**. Copy your website 
 
 ## Get the Credentials
 
-#### API Login ID, Transaction Key, and Webhook SignatureKey from the Authorize Account
+#### API Login ID, Transaction Key, and Webhook Signature Key
 
-To learn how to get all the required API Credentials from your [Authorize.net](https://www.authorize.net/), follow the steps with screenshots below – 
+Sign in to your [Authorize.net](https://www.authorize.net/) account and collect these credentials for the Fluent Forms payment settings.
 
 #### Get API Login ID
 
@@ -132,7 +133,7 @@ If you’d like to see how the form looks before publishing, click on the **Prev
 
 ![Copy Shortcode](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/Copy-forms-shortcode-15-scaled.webp)
 
-## Preview of Added Payment Method
+### Preview of Added Payment Method
 
 Here is the preview of the **Payment Method** that we just added. 
 
