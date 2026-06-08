@@ -10,6 +10,7 @@ To enable partial entries in your forms, first, Open the form editor and add the
 
 Click on the **Enable Per Step Data Save (Save & Continue)** option to save data after each step. 
 
+> [!Note]
 > Partial entries will be saved after clicking on the Next button, not on form submission.
 
 **Example:** If you have a five-step form and the user fills up the three-step and leaves the form, you will get the three-step data as partial entries. 

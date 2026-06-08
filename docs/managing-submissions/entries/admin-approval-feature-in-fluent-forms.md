@@ -6,8 +6,6 @@ This article will guide you through the admin approval feature in Fluent Forms.
 
 ## Enabling the Admin Approval Module
 
-To learn how to enable the Admin Approval Module, follow the steps with the screenshots below. 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Admin Approval Module** through the search bar, and get the **Admin module**.
 
 Now, **Enabled** it to activate the approval functionality.
@@ -20,9 +18,8 @@ To configure Global Settings, click the **Global Settings** from the top menu. T
 
 **A. Send Email Notification:** Choose between Site Admin or Custom Email for sending email notification options.
 
-- Site Admin: If you select the site admin option, it sends submission confirmation emails to the site's Admin Email for approval.
-
-- Custom Email: If you choose the custom email option, you can specify an alternative email address for approval notifications.
+   * **Site Admin:** If you select the site admin option, it sends submission confirmation emails to the site's Admin Email for approval.
+   * **Custom Email:** If you choose the custom email option, you can specify an alternative email address for approval notifications.
 
 **Enter Recipient Email Address:** When you choose the **Custom Email**, you will enter multiple email addresses separated by commas.
 
@@ -40,7 +37,7 @@ To configure Global Settings, click the **Global Settings** from the top menu. T
 
 To enable Admin Approval for a particular form, follow these steps-
 
-First, navigate to the **Settings & Integration** section for your form. Go to the **Settings** section and click the **Admin Approval** section.
+Navigate to the **Settings & Integration** section for your form. Go to the **Settings** section and click the **Admin Approval** section.
 
 Now, **enable** **Admin Approval before checking the Form Data Processing** option for that form. Customize the **Approval Pending Message** (shortcodes can be used for dynamic content).
 
@@ -68,6 +65,7 @@ Admins will receive an email with options to **approve** or **decline** form sub
 
 ![Admin Approval Feature step](/images/managing-submissions/entries/admin-approval-feature-in-fluent-forms/05-2.webp)
 
+> [!Note]
 > If your form includes a Payment Field, the Admin Approval process will be bypassed.
 
 So, you can easily manage and control form submissions using the **Fluent Forms Admin Approval** feature.

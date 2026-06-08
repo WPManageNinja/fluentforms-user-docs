@@ -4,7 +4,8 @@ Fluent Forms integrates with [Ninja Tables](http://Ninjatables.com), a table plu
 
 ## Installing & Activating Ninja Tables
 
-> Before starting the process, ensure you install and activate the Ninja Table plugin on your WordPress site.
+> [!Note]
+> Install and activate the **Ninja Tables** plugin on your WordPress site before continuing.
 
 First, go to **Plugins** in the **WordPress Admin Panel** on the left side, click **Add New Plugin**, search for the **Ninja Table** plugin using the **Search Plugins** option on the right, and the plugin will appear.
 
@@ -72,7 +73,7 @@ Then, **paste** the shortcode into the desired **Page/Post** where you want to d
 
 ![Paste Shortcode Fluent Forms](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/11.-Paste-Shortcode-scaled.webp)
 
-## Preview of Integrated Table
+### Preview of Integrated Table
 
 Here is the preview of the added **Table** where the **Form** was integrated.
 

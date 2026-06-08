@@ -18,7 +18,7 @@ The Entries Dashboard makes it simple to search, filter, and manage your form su
 
 ![Entries Dashboards Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/entries-dashboards-scaled.webp)
 
-#### Show Chart
+### Show Chart
 
 To view a visual chart on your **Entries** **Dashboard**, click the **Show Chart** button. This will display all your entries in a chart format, organized by date.
 
@@ -26,7 +26,7 @@ If you want to remove the chart view, click **Hide Chart** to turn it off anytim
 
 ![Show Chart Fluent Forms](/images/managing-submissions/entries/managing-entries-in-fluent-forms/show-chart-scaled.webp)
 
-#### Filter
+### Filter
 
 You will find a **Filter** option in the top right corner of the entries dashboard.
 

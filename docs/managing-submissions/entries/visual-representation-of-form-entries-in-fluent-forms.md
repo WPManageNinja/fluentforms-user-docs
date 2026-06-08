@@ -8,9 +8,9 @@ In this documentation, you will learn how to get a visual representation of form
 
 There are two types of entries:
 
-- All Entries: This shows a global view of all entries submitted across all forms.
+- **All Entries:** This shows a global view of all entries submitted across all forms.
 
-- Individual Form Entries: These are entries submitted to a specific form.
+- **Individual Form Entries:** These are entries submitted to a specific form.
 
 There are three ways to access the entries for visual representation. 
 
@@ -42,4 +42,5 @@ The **Other info** sections will show the total number of form entries, the bro
 
 ![Print Report](/images/managing-submissions/entries/visual-representation-of-form-entries-in-fluent-forms/print-report-06-scaled.webp)
 
-> Only choice fields support chart generation. Suppose checkbox, dropdown, and radio field etc.
+> [!Note]
+> Charts are generated only for choice fields, such as **checkbox**, **dropdown**, and **radio** fields.

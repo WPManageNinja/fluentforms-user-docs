@@ -16,13 +16,13 @@ Fluent Forms offers multiple filtering options:
 
 There are four types of filters available. You can choose any of them to sort the data. 
 
-- Unread: Displays entries not yet reviewed.
+- **Unread:** Displays entries not yet reviewed.
 
-- Read: Shows entries already viewed.
+- **Read:** Shows entries already viewed.
 
-- Favorite: Filters entries marked as favorites.
+- **Favorite:** Filters entries marked as favorites.
 
-- Trashed: Displays deleted entries.
+- **Trashed:** Displays deleted entries.
 
 ![Search and Filter Form Entries step](/images/managing-submissions/entries/how-to-search-and-filter-form-entries/02-scaled.webp)
 

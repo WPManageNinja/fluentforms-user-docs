@@ -10,23 +10,23 @@ Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** 
 
 At the top of the page, you can apply filters that affect the entire report.
 
-- All Forms: Use this dropdown to view data for all forms or select a single form to analyze.
+- **All Forms:** Use this dropdown to view data for all forms or select a single form to analyze.
 
-- Date Range: Click the date filter to select a time period, such as Last month, or choose a custom range.
+- **Date Range:** Click the date filter to select a time period, such as Last month, or choose a custom range.
 
 ### Submissions chart
 
 This chart provides a quick overview of your submission activity for the selected period.
 
-- Total: The total number of submissions received.
+- **Total:** The total number of submissions received.
 
-- Read: The count of entries that have been viewed.
+- **Read:** The count of entries that have been viewed.
 
-- Unread: The count of entries that have not yet been viewed.
+- **Unread:** The count of entries that have not yet been viewed.
 
-- Spam: The number of submissions flagged as spam.
+- **Spam:** The number of submissions flagged as spam.
 
-- Overall Read Rate: The percentage of total submissions that have been marked as read.
+- **Overall Read Rate:** The percentage of total submissions that have been marked as read.
 
 ![Submission Fluent Forms](/images/managing-submissions/reports/submission-reports/Submission-01.webp)
 
