@@ -7,8 +7,6 @@ In **Fluent Forms**, integrating **Constant Contact**, an integrated email marke
 
 ## Enable Constant Contact Integration
 
-To learn how to enable Constant Contact integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Constant Contact V3** through the search bar, and get the **Constant Contact V3** integration module.
 
 Now, turn on the **Toggle** to enable **Constant Contact V3**. Then, you will see the Constant Contact’s **Settings Icon** on the right side, click on it. 
@@ -17,7 +15,8 @@ Now, turn on the **Toggle** to enable **Constant Contact V3**. Then, you will se
 
 Once you enable **Constant Contact V3**, you will be asked for the **Constant Contact Client ID** and **the Constant Contact Client Secret** of your **Constant Contact Account**.
 
-> To get the credentials, follow the Instructions Guide provided at the top under Constant Contact V3 API step-by-step.
+> [!Tip]
+> Follow the **Instructions Guide** at the top of **Constant Contact V3 API** settings to get your credentials.
 
 ![Constant Contact V3 API Settings Page](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/2.-Constant-Contact-V3-API-Settings-page-scaled.webp)
 
@@ -27,7 +26,8 @@ To learn how to get the  **Constant Contact Client ID** and **Constant Contact C
 
 First, click this [Link](https://app.constantcontact.com/pages/dma/portal/), log into your **Constant Contact Account**, go to **My Applications** from the top navbar, and click the **New Application** button.
 
-> If you don't have an existing Constant Contact account, you can sign up for one here.
+> [!Note]
+> If you do not have a Constant Contact account, [create one here](https://www.constantcontact.com/).
 
 ![Application Button Fluent Forms](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/3.-New-Application-Button-scaled.webp)
 
@@ -47,7 +47,7 @@ Then, click the **Generate** **Client Secret** button next to the Client ID to g
 
 Now, copy the **Client Secret** by clicking the **Copy Icon** on the right side, and press the Close button.
 
-> [!Note]
+> [!Warning]
 > **Client Secret** is shown only once. Copy and store it securely before leaving the page.
 
 ![Copy Client Secret](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/7.-Copy-Client-Secret.webp)
@@ -94,12 +94,10 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate Constant Contact in Forms
 
-To learn how to integrate Constant Contact into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Constant Contact,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/15.-Open-Desired-Form-Settings-scaled.webp)
 
@@ -109,21 +107,19 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Now, a page will appear with various settings options for configuring the Constant Contact. 
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** From here, you can change the name anytime if needed.
 
-1. Name: From here, you can change the name anytime if needed.
+2. **Constant Contact List:** From here, you need to select your desired Contact List of Constant Contact to which you want to send the form submission data from Fluent Forms. Once you select the list the Map Fields option will appear. You can also change the contact list anytime if needed.
 
-1. Constant Contact List: From here, you need to select your desired Contact List of Constant Contact to which you want to send the form submission data from Fluent Forms. Once you select the list the Map Fields option will appear. You can also change the contact list anytime if needed.
+3. **Constant Contact Tag:** From here, you need to select your desired single or multiple Tag of Constant Contact to which you want to send the form submission data from Fluent Forms.  You can also change the tag/s anytime if needed.
 
-1. Constant Contact Tag: From here, you need to select your desired single or multiple Tag of Constant Contact to which you want to send the form submission data from Fluent Forms.  You can also change the tag/s anytime if needed.
+4. **Map Fileds:** Use all the fields under this option to properly link your Constant Contact Fields with the Form Fields. Also, you can easily select the Value for the Form Fields according to the Constant Contact Fields by using the Shortcode button.
 
-1. Map Fileds: Use all the fields under this option to properly link your Constant Contact Fields with the Form Fields. Also, you can easily select the Value for the Form Fields according to the Constant Contact Fields by using the Shortcode button.
+5. **Custom Fields:** Using this option, you can also link the Fluent Forms fields with their respective Constant Contact Custom fields. But, remember, Custom Date fields support only MM/DD/YYYY format. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
 
-1. Custom Fields: Using this option, you can also link the Fluent Forms fields with their respective Constant Contact Custom fields. But, remember, Custom Date fields support only MM/DD/YYYY format. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
+6. **Conditional Logics:** This option allows Constant Contact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
-1. Conditional Logics: This option allows Constant Contact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+7. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Constant Contact will be integrated into this specific form!
 

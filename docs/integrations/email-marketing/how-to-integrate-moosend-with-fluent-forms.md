@@ -6,11 +6,10 @@ Integrating **MooSend** with **Fluent Forms** allows you to collect customer inf
   <iframe src="https://www.youtube.com/embed/_t1Cvo3EUtE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-> MooSend is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
+> [!Note]
+> **MooSend** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ### Enable MooSend Integration
-
-To learn how to enable MooSend integration, follow the steps with the screenshots below – 
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **MooSend** through the search bar, and get the **MooSend** integration module.
 
@@ -54,12 +53,10 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate MooSend in Forms
 
-To learn how to integrate MooSend into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **MooSend** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate MooSend](/images/integrations/email-marketing/how-to-integrate-moosend-with-fluent-forms/Open-Desired-Form-Settings-1-scaled.webp)
 
@@ -75,19 +72,17 @@ Also, you must select the **MooSend Mailing List** from the dropdown where you w
 
 Once you select the integration, a page will appear with various settings options for configuring the MooSend.
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-1. Name: Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
+2. **MooSend Mailing Lists:** From here, you can change the MooSend Mailing List anytime if needed.
 
-1. MooSend Mailing Lists: From here, you can change the MooSend Mailing List anytime if needed.
+3. **Map Fileds:** Use all the fields under this option to properly link your MooSend Fields with the Form Fields. You can easily select the value for the Form Fields based on the MooSend fields using the Shortcode Arrow.
 
-1. Map Fileds: Use all the fields under this option to properly link your MooSend Fields with the Form Fields. You can easily select the value for the Form Fields based on the MooSend fields using the Shortcode Arrow.
+4. **Double Opt-in:** Enable this option if you want to check the validation of the user information (specifically user email).
 
-1. Double Opt-in: Enable this option if you want to check the validation of the user information (specifically user email).
+5. **Conditional Logics:** This option allows MooSend integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
-1. Conditional Logics: This option allows MooSend integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
 Once the setup is done, finally, click the **Save Feed** button. And, your MooSend will be integrated into this specific form!
 

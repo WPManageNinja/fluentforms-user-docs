@@ -13,27 +13,24 @@ This article will guide you through integrating **ActiveCampaign** with **Fluent
 
 ## Enable ActiveCampaign Integration
 
-To learn how to enable ActiveCampaign integration, follow the steps with the screenshots below – 
+Go to **Integrations** from the Fluent Forms navbar and search for **ActiveCampaign**.
 
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **ActiveCampaign** through the search bar, and get the **ActiveCampaign** integration module.
-
-Now, turn on the **Toggle** to enable the **ActiveCampaign** module, and click the **Settings Icon** on the right side. 
+Enable the **ActiveCampaign** module, then click the **Settings** icon on the right.
 
 ![Enable Activecampaign Integrate ActiveCampaign](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/1.-Enable-ActiveCampaign-scaled.webp)
 
 Once you enable ActiveCampaign, you will be asked for the **ActiveCampaign API URL** and **ActiveCampaign API Key** of your **ActiveCampaign Account**.
 
-> If you don’t have an existing account, click the sign up for one here link to create a new one.
+> [!Note]
+> If you do not have an ActiveCampaign account, [create one here](https://www.activecampaign.com/free).
 
 ![Activecampaign API Settings Page](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/2.-ActiveCampaign-API-Settings-page-scaled.webp)
 
 ### Get the ActiveCampaign API URL and API Key
 
-To learn how to get the  **ActiveCampaign API URL** and **ActiveCampaign API Key** from **ActiveCampaign**, follow the steps with screenshots below –
+Log in to your [ActiveCampaign account](https://www.activecampaign.com/login), open **Settings** from the left sidebar, and go to the **Developer** tab.
 
-First, log in to your [Active Campaign Account](https://www.activecampaign.com/login) and go to **Settings** from the left sidebar.
-
-Now, open the **Developer** tab and you copy your desired **API URL** and **API Key** by clicking the **Copy API URL** and **Copy API Key** buttons.
+Click **Copy API URL** and **Copy API Key** to copy both credentials.
 
 ![Copy Activecampaign API URL And Key](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/3.-Copy-ActiveCampaign-API-URL-and-Key-scaled.webp)
 
@@ -54,12 +51,10 @@ Also, you can verify/disconnect it anytime by clicking the **Verify Connection A
 
 ## Integrate ActiveCampaign into Fluent Forms
 
-To learn how to integrate ActiveCampaign into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ActiveCampaign** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings Integrate ActiveCampaign](/images/integrations/email-marketing/how-to-integrate-activecampaign-with-fluent-forms/6.-Desired-Form-Settings-scaled.webp)
 
@@ -74,27 +69,25 @@ Also, you must select the **ActiveCampaign List** from the dropdown where you wa
 
 Once you select the list, a pop-up page will appear with various settings options for configuring the ActiveCampaign.
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-1. Name: Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
+2. **ActiveCampaign List:** Using the Arrow Icon, you can select the ActiveCampaign Mailing List where you want to add your contacts. You can also change this anytime if needed.
 
-1. ActiveCampaign List: Using the Arrow Icon, you can select the ActiveCampaign Mailing List where you want to add your contacts. You can also change this anytime if needed.
+3. **Map Fileds:** Use all the fields under this option to properly link your ActiveCampaign Fields with the Form Fields. You can easily select the value for the form fields based on the ActiveCampaign fields using the Shortcode Arrow.
 
-1. Map Fileds: Use all the fields under this option to properly link your ActiveCampaign Fields with the Form Fields. You can easily select the value for the form fields based on the ActiveCampaign fields using the Shortcode Arrow.
+4. **Tags:** With this option, you can add tags to your ActiveCampaign contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag. Enable Dynamic Tag Input: This option allows you to add customized tags for specific ActiveCampaign contacts based on your submission values according to your set conditions.
 
-1. Tags: With this option, you can add tags to your ActiveCampaign contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag. Enable Dynamic Tag Input: This option allows you to add customized tags for specific ActiveCampaign contacts based on your submission values according to your set conditions.
+5. **Note:** This option allows you to write a note for the contacts. You can also use Shortcodes to send dynamic data to ActiveCampaign.
 
-1. Note: This option allows you to write a note for the contacts. You can also use Shortcodes to send dynamic data to ActiveCampaign.
+6. **Double Opt-In Form:** Here, you can select which ActiveCampaign Form will send the opt-in email when exporting contacts to ActiveCampaign.
 
-1. Double Opt-In Form: Here, you can select which ActiveCampaign Form will send the opt-in email when exporting contacts to ActiveCampaign.
+7. **Enable Instant Responder:** Check this option, and ActiveCampaign will send any instant responders set up when the contact is added to the list. This option is not available to users on a free trial.
 
-1. Enable Instant Responder: Check this option, and ActiveCampaign will send any instant responders set up when the contact is added to the list. This option is not available to users on a free trial.
+8. **Enable Send the last broadcast campaign:** Check this option, and ActiveCampaign will send the last campaign to the list or add the contact. This option is also not available to users on a free trial.
 
-1. Enable Send the last broadcast campaign: Check this option, and ActiveCampaign will send the last campaign to the list or add the contact. This option is also not available to users on a free trial.
+9. **Conditional Logics:** This option allows ActiveCampaign integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
-1. Conditional Logics: This option allows ActiveCampaign integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
-1. Enable This Feed: Check this option to ensure this integration feed remains enabled, and all its actions function properly.
+10. **Enable This Feed:** Check this option to ensure this integration feed remains enabled, and all its actions function properly.
 
 Once the setup is done, click the **Save Feed** button and, your **ActiveCampaign** will be integrated into this specific form.
 

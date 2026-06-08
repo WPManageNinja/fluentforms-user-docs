@@ -7,8 +7,6 @@
 
 ## Integrating Google Maps with Fluent Forms
 
-To learn how to integrate with Google Maps, follow the steps with the screenshots below – 
-
 First, go to the **Global Settings** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, open the **Configure Integrations** tab in the left menu, and click the **Google Maps Integration**. 
 
 Once you are on the **Google Maps Integration Settings,** you will be asked for the **Google Maps API Key** from your Google Account. Then, click the **Save Settings** button, and Google Maps will be connected to Fluent Forms.
@@ -73,8 +71,6 @@ Now, you can see that the Google Map has been successfully connected to your **F
 
 ## Integrating Google Maps with Address Field
 
-To learn how to integrate Google Maps into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/qwibDvaUoUo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -82,9 +78,9 @@ To learn how to integrate Google Maps into any specific Form in Fluent Forms, fo
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** a **Form** that has an **Address** field where you want to integrate your **Google Maps,** and click the **Editor** button.
 
 > [!Note]
-> [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
->
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+> [!Tip]
 > For the **Address** field, see [Address Input Field in Fluent Forms](/docs/address-input-field-in-fluent-forms).
 
 ![Open Editor Integrate Google Maps](/images/integrations/other-apps/how-to-integrate-google-maps-with-fluent-forms/13.-Open-desired-form-Editor-scaled.webp)

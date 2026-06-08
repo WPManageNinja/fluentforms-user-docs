@@ -19,8 +19,6 @@ Salesforce provides API Access to these four account editions only:
 
 ## Enable the Salesforce Integration
 
-To learn how to enable Salesforce integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Salesforce** through the search bar, and get the **Salesforce integration module**.
 
 Now, turn on the **Toggle** to enable the **Salesforce** module and click the **Settings Icon** on the right.
@@ -29,7 +27,8 @@ Now, turn on the **Toggle** to enable the **Salesforce** module and click the **
 
 Once you enable **Salesforce**, you will be asked for the **Sandbox Account**, **Salesforce Domain URL**, **Salesforce Consumer Key**, and **Salesforce Consumer Secret** of your **Salesforce Account**.
 
-> If you use a Sandbox Account, check the Salesforce Sandbox Account checkbox.
+> [!Tip]
+> If you use a Salesforce sandbox, enable the **Salesforce Sandbox Account** checkbox.
 
 Now, copy the **callback URL** from the top for later use, as shown in the screenshot.
 
@@ -91,12 +90,10 @@ Here, you can see your **Salesforce API integration** is **up and running**. To 
 
 ## Integrate Salesforce into Fluent Forms
 
-To learn how to integrate Salesforce into any specific Form in Fluent Forms, follow the steps below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **Salesforce** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/Form-settings-13-scaled.webp)
 
@@ -111,8 +108,6 @@ Also, you must select **Salesforce Services** from the dropdown where you want t
 ![Add Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/Add-New-Salesforce-Integration-14-scaled.webp)
 
 Once you select the Salesforce services, a pop-up page with various settings options for configuring the Salesforce will appear. 
-
-**All the settings options mentioned in the screenshot below are briefly explained:**
 
 **A. Feed Name:** Enter a name for your Salesforce integration feed.
 

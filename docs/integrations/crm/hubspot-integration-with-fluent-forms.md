@@ -9,8 +9,6 @@ This article will guide you through integrating Hubspot with Fluent Forms on you
 
 ## Enable Hubspot Integration
 
-To learn how to enable Hubspot integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Hubspot** through the search bar, and get the **Hubspot** integration module.
 
 Turn on the Hubspot **Enabled** button and now you will see the Hubspot’s **Settings Icon** on the right side, click on it.
@@ -86,13 +84,14 @@ You can also **Disconnect** Hubspot API here by clicking the **Disconnect Hubspo
 After setting up the Access Token, go to **All Forms** and select the form you want to integrate with the HubSpot account or create a new One.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings Y HubSpot Integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/Forms-Fluent-settings-y-scaled.webp)
 
 Now, go to the particular form’s settings for the entries you want listed in **HubSpot**. Click on **Add New Integration** and select **HubSpot Integration** from the dropdown options.
 
-> You will need static HubSpot lists to sync your fluent forms submissions. A HubSpot active list will not work with Fluent Forms.
+> [!Note]
+> Use **static HubSpot lists** to sync submissions. **Active lists** are not supported in Fluent Forms.
 
 ![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/41.webp)
 

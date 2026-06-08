@@ -9,8 +9,6 @@ This article will guide you through integrating Salesflare with Fluent Forms on 
 
 ## Enable the Salesflare Integration
 
-To learn how to enable Salesflare integration, follow the easy steps below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Salesflare** through the search bar, and get the **Salesflare integration module**.
 
 Now, turn on the **Toggle** to enable the **Salesflare** module, and click the **Settings Icon** on the right side.
@@ -19,7 +17,8 @@ Now, turn on the **Toggle** to enable the **Salesflare** module, and click the *
 
 Once you enable Salesflare, you will be asked for the **Salesflare API Token** of your **Salesflare Account**.
 
-> If you don’t have an existing account, click here to create a new one.
+> [!Note]
+> If you do not have a Salesflare account, [create one here](https://salesflare.com/).
 
 ![Configuration Salesflare](/images/integrations/crm/salesflare-integration-with-fluent-forms/Configuration-salesflare-02-scaled.webp)
 
@@ -55,12 +54,10 @@ Here, you will see that your **Salesflare API integration is up and running**. T
 
 ### Integrate Salesflare into Fluent Forms
 
-To learn how to integrate salesflare into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your salesflare and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Setting amoCRM Salesflare Integration](/images/integrations/crm/salesflare-integration-with-fluent-forms/Form-Setting-amoCRM-1-scaled.webp)
 

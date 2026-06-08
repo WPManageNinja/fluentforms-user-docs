@@ -4,11 +4,10 @@
 
 This guide will walk you through integrating FluentCRM with Fluent Forms on your WordPress site.
 
-> Ensure both Fluent Forms and FluentCRM plugins are installed and activated. No additional settings are needed to integrate them.
+> [!Note]
+> Install and activate both **Fluent Forms** and **FluentCRM**. No extra global setup is required to connect them.
 
 ### Enable the FluentCRM Integration
-
-To learn how to enable FluentCRM integration, follow the steps with the screenshots below – 
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **FluentCRM** through the search bar, and get the **FluentCRM Module**.
 
@@ -18,12 +17,10 @@ Now, turn on the **Toggle** to enable the **FluentCRM** module, and click the **
 
 ### Integrate FluentCRM with FluentForms
 
-To learn how to integrate FluentCRM into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your FluentCRM and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings FluentCRM integration](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Form-Settings-02-scaled.webp)
 

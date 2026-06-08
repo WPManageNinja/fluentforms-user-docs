@@ -7,8 +7,6 @@ Integrating **Campaign Monitor** with **Fluent Forms** lets you manage contacts,
 
 ## Enable Campaign Monitor Integration
 
-To learn how to enable Campaign Monitor integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **Campaign Monitor** through the search bar, and get the **Campaign Monitor** integration module.
 
 Now, turn on the **Toggle** to enable **Campaign Monitor**. Then, you will see the Campaign Monitor’s **Settings icon** on the right side, click on it. 
@@ -25,7 +23,8 @@ To learn how to get the **API key** from **Campaign Monitor**, follow the steps 
 
 First, click this [Link](https://login.createsend.com/l?_gl=1*im9eqd*_ga*NDI5Nzg0NjcwLjE3MzUzNjMzODg.*_ga_8S4WF1R7DZ*MTc0MjI3MTczOS43LjAuMTc0MjI3MTczOS4wLjAuMA..*_gcl_au*MjEzNTk2NzU1My4xNzM1MzYzMzg3*_ga_NWRSNKHM95*MTc0MjI3MTczOS43LjAuMTc0MjI3MTczOS42MC4wLjA.&_ga=2.73089619.1363175959.1742271739-429784670.1735363388), log into your **Campaign Monitor Account**, go to the **Profile** in the top right corner, open the dropdown list by clicking the **Arrow Icon**, and click the **Account Settings** button. 
 
-> If you don't have an existing Campaign Monitor account, you can sign up for one here.
+> [!Note]
+> If you do not have a Campaign Monitor account, [create one here](https://www.campaignmonitor.com/).
 
 ![Account Settings Campaign Monitor](/images/integrations/email-marketing/how-to-integrate-campaign-monitor-with-fluent-forms/3.-Account-Settings-of-Campaign-Monitor-scaled.webp)
 
@@ -65,12 +64,10 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate Campaign Monitor in Forms
 
-To learn how to integrate Campaign Monitor into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Campaign Monitor,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Campaign Monitor](/images/integrations/email-marketing/how-to-integrate-campaign-monitor-with-fluent-forms/10.-Open-desired-form-Settings-scaled.webp)
 
@@ -86,19 +83,17 @@ Also, you must select the **Campaign Monitor List** from the dropdown where you 
 
 Now, a page will appear with various settings options for configuring the Campaign Monitor. 
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** From here, you can change the name anytime if needed.
 
-1. Name: From here, you can change the name anytime if needed.
+2. **Campaign Monitor List:** Using the Arrow Icon, you can select the Campaign Monitor Subscriber List where you want to add your contacts. You can also change this anytime if needed
 
-1. Campaign Monitor List: Using the Arrow Icon, you can select the Campaign Monitor Subscriber List where you want to add your contacts. You can also change this anytime if needed
+3. **Map Fields:** Use all the fields under this option to properly link your Campaign Monitor Fields with the Form Fields. You can easily select the value for the form fields based on the Campaign Monitor fields using the Shortcode Arrow.
 
-1. Map Fields: Use all the fields under this option to properly link your Campaign Monitor Fields with the Form Fields. You can easily select the value for the form fields based on the Campaign Monitor fields using the Shortcode Arrow.
+4. **Resubscribe:** Use this option to enable the re-subscription and allow users to renew their access.
 
-1. Resubscribe: Use this option to enable the re-subscription and allow users to renew their access.
+5. **Conditional Logics:** This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
-1. Conditional Logics: This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Campaign Monitor will be integrated into this specific form!
 

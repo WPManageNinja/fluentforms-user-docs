@@ -4,33 +4,31 @@ Integrating [Mailchimp](https://mailchimp.com/) with **Fluent Forms** helps you 
 
 This article will guide you through integrating **Mailchimp** with **Fluent Forms** on your WordPress Site.
 
+> [!Note]
+> **Mailchimp** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/v33r-MzQgaQ" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-> Mailchimp is the Premium Feature of the Fluent Forms Plugin. So, you need the Fluent Forms Pro plugin to integrate this.
-
 ## Enable Mailchimp Integration
 
-To learn how to enable Mailchimp integration, follow the steps with the screenshots below – 
+Go to **Integrations** from the Fluent Forms navbar and search for **Mailchimp**.
 
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Mailchimp** through the search bar, and get the **Mailchimp** integration module.
-
-Now, turn on the **Toggle** to enable the **Mailchimp** module, and click the **Settings Icon** on the right side. 
+Enable the **Mailchimp** module, then click the **Settings** icon on the right.
 
 ![Enabled Mailchimp Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailchimp-with-fluent-forms/1.-Enabled-Mailchimp-scaled.webp)
 
 Once you enable Mailchimp, you will be asked for the **Mailchimp API Key** of your **Mailchimp Account**.
 
-> If you don’t have any existing account, click the sign up for one here link to create a new one.
+> [!Note]
+> If you do not have a Mailchimp account, [create one here](https://login.mailchimp.com/signup/).
 
 ![Configure Integrations Integrate Mailchimp](/images/integrations/email-marketing/how-to-integrate-mailchimp-with-fluent-forms/2.-Configure-Integrations-1-scaled.webp)
 
 ### Get the Mailchimp API Key
 
-To learn how to get the **Mailchimp API Key** from **Mailchimp**, follow the steps with screenshots below –
-
-First, log in to your  [Mailchimp Account](https://login.mailchimp.com/?locale=en), go to **Profile** from the top right corner, and click the **Profile** button.
+Log in to your  [Mailchimp Account](https://login.mailchimp.com/?locale=en), go to **Profile** from the top right corner, and click the **Profile** button.
 
 ![Profile Icon Mailchimp](/images/integrations/email-marketing/how-to-integrate-mailchimp-with-fluent-forms/3.-Profile-Icon-of-Mailchimp-scaled.webp)
 
@@ -65,12 +63,10 @@ Also you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate Mailchimp into Fluent Forms
 
-To learn how to integrate Mailchimp into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailchimp,** and click the **Settings** button. 
+Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailchimp,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Mailchimp](/images/integrations/email-marketing/how-to-integrate-mailchimp-with-fluent-forms/Open-Desired-Form-Settings-5-scaled.webp)
 
@@ -85,29 +81,27 @@ Also, you must select the **Mailchimp List** from the dropdown where you want to
 
 Once you select the list, a pop-up page will appear with various settings options for configuring the Mailchimp.
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** Change the feed name anytime if needed.
 
-1. Name: From here, you can change the name anytime if needed.
+2. **List:** Change the Mailchimp list anytime if needed.
 
-1. List: From here, you can change the Mailchimp List anytime if needed.
+3. **Map Fields:** Link your Mailchimp fields with your form fields. Select form field values for each Mailchimp field using the shortcode arrow.
 
-1. Map Fileds: Use all the fields under this option to properly link your Mailchimp Fields with the Form Fields. You can easily select the value for the form fields based on the Mailchimp Fields using the Shortcode Arrow.
+4. **Interest Group:** Map your Mailchimp interest group here.
 
-1. Interest Group: With this option, you can map your MailChimp’s Interest group here.
+5. **Tags:** Add tags to Mailchimp contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value are created as a single tag. You can also use shortcodes as tags. **Enable Dynamic Tag Input** lets Mailchimp add customized tags based on submission values according to your conditions.
 
-1. Tags: With this option, you can add tags to your ActiveCampaign contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag.Enable Dynamic Tag Input: This option allows Mailchimp to add customized tags for specific contacts based on your submission values according to your set conditions.
+6. **Notes:** Write a note for contacts. You can also use shortcodes to send dynamic data to Mailchimp.
 
-1. Notes: You can write a note for the contacts. You can also use Shortcodes to send dynamic data to Mailchimp.
+7. **Enable Double Opt-in:** Validate user information (specifically the email address) before adding the contact.
 
-1. Enable Double Opt-in: Enable this option if you want to check the validation of the user information (specifically user email).
+8. **Enable ReSubscription:** Re-add subscribers who are inactive or were previously unsubscribed to the active list.
 
-1. Enable ReSubscription: When this option is enabled, if the subscriber is in an inactive state or has previously been unsubscribed, they will be re-added to the active list.
+9. **Mark as VIP Contact:** Mark contacts as VIP when this option is enabled.
 
-1. Mark as VIP Contact: When you enable this option, contacts will be marked as VIP.
+10. **Conditional Logics:** Run this Mailchimp integration based on submission values and your conditional logic. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-1. Conditional Logics: This option allows Mailchimp integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
-1. Enable This Feed: Check this option to ensure this integration feed remains enabled, and all its actions function properly.
+11. **Enable This Feed:** Keep this integration feed enabled so all actions run properly.
 
 Once the setup is done, click the **Save Feed** button and, your **Mailchimp** will be integrated into this specific form.
 

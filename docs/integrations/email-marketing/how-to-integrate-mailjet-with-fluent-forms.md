@@ -7,8 +7,6 @@ Integrating **Mailjet** with **Fluent Forms** to automate email marketing, manag
 
 ## Enable Mailjet Integration
 
-To learn how to enable Mailjet integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Mailjet** through the search bar, and get the **Mailjet** integration module.
 
 Now, turn on the **Toggle** to enable **Mailjet**. Then, you will see the Mailjet’s **Settings icon** on the right side, click on it. 
@@ -17,7 +15,8 @@ Now, turn on the **Toggle** to enable **Mailjet**. Then, you will see the Mailje
 
 Once you enable **Mailjet**, you will be asked for the **API Key** and the **Secret Key** of your **Mailjet Account**.
 
-> To get the credentials, click the Here link in the Instructions Guide at the top under Mailjet Settings.
+> [!Tip]
+> Open the **Instructions Guide** at the top of **Mailjet Settings** to get your API credentials.
 
 ![Mailjet Settings Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/2.-Mailjet-Settings-scaled.webp)
 
@@ -27,7 +26,8 @@ To learn how to get the **API Key** and **Secret Key** from **Mailjet**, follow 
 
 First, click this [Link](https://app.mailjet.com/signin?redirect=aHR0cHM6Ly9hcHAubWFpbGpldC5jb20vfDI0fDgyMzU3ZDFmMWE4Y2NjMjc4ZWRhMzI0MDUzZTNlMjY0), log into your **Mailjet Account**, go to the **Profile** in the top right corner, open the dropdown list by clicking the **Arrow Icon**, and click the **Account Settings** button. 
 
-> If you don't have an existing Mailjet account, you can sign up for one here.
+> [!Note]
+> If you do not have a Mailjet account, [create one here](https://www.mailjet.com/).
 
 ![Account Settings Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/3.-Account-Settings-scaled.webp)
 
@@ -63,12 +63,10 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate Mailjet in Forms
 
-To learn how to integrate Mailjet into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailjet,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Mailjet](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/9.-Open-desired-form-Settings-1-scaled.webp)
 
@@ -78,21 +76,19 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Now, a page will appear with various settings options for configuring the Mailjet. 
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** From here, you can change the name anytime if needed.
 
-1. Name: From here, you can change the name anytime if needed.
+2. **Mailjet Services:** From here, you need to select your desired Mailjet Services to which you want to send the form submission data from Fluent Forms. You can also change the contact list anytime if needed.
 
-1. Mailjet Services: From here, you need to select your desired Mailjet Services to which you want to send the form submission data from Fluent Forms. You can also change the contact list anytime if needed.
+3. **Exclude the Contact:** From here, you can select whether the contact is added to the exclusion list or not by clicking the Yes or No button.
 
-1. Exclude the Contact: From here, you can select whether the contact is added to the exclusion list or not by clicking the Yes or No button.
+4. **Contact Email:** Use this field to map the Mailjet Contact’s Email fields with the Form’s Email fields. Also, you can easily select the Value for the Email Fields using the Shortcode button.
 
-1. Contact Email: Use this field to map the Mailjet Contact’s Email fields with the Form’s Email fields. Also, you can easily select the Value for the Email Fields using the Shortcode button.
+5. **Contact Name:** Use this field to map the Mailjet Contact’s Name fields with the Form’s Name fields. Also, you can easily select the Value for the Name Fields using the Shortcode button.
 
-1. Contact Name: Use this field to map the Mailjet Contact’s Name fields with the Form’s Name fields. Also, you can easily select the Value for the Name Fields using the Shortcode button.
+6. **Conditional Logics:** This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
-1. Conditional Logics: This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+7. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Mailjet will be integrated into this specific form!
 

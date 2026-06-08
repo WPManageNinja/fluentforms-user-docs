@@ -9,8 +9,6 @@ This article will guide you through integrating **Trello** with **Fluent Forms**
 
 ## Enabling Trello Integration
 
-To learn how to enable Trello integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Trello** through the search bar, and get the **Trello** integration module.
 
 Now, turn on the **Toggle** to enable **Trello**, and click the **Settings Icon** on the right side. 
@@ -19,7 +17,8 @@ Now, turn on the **Toggle** to enable **Trello**, and click the **Settings Icon*
 
 Once you enable Trello, you will be asked for the **Trello Access Key** of your **Trello Account**.
 
-> If you don’t have an existing account, click the sign up for one here link to create a new one.
+> [!Note]
+> If you do not have a Trello account, [create one here](https://trello.com/signup).
 
 ![Trello API Settings](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/2.-Trello-API-Settings-scaled.webp)
 
@@ -52,12 +51,10 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrating Trello with Forms
 
-To learn how to integrate Trello into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Trello** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Trello](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/7.-Open-desired-Form-Settings-1-scaled.webp)
 
@@ -67,21 +64,19 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Now, a pop-up page will appear with various settings options for configuring Trello.
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-1. Name: Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
+2. **Trello Configuration:** Using the Arrow Icon, you need to select the Trello Board and  List/s where you want to send the submission data of Fluent Forms. Also, you can set the color for your newly created Card Labels & Member/s who can view the cards.
 
-1. Trello Configuration: Using the Arrow Icon, you need to select the Trello Board and  List/s where you want to send the submission data of Fluent Forms. Also, you can set the color for your newly created Card Labels & Member/s who can view the cards.
+3. **Card Title:** Here, you can specify the title for your newly created cards. You can also use shortcodes to use the dynamic data as the title.
 
-1. Card Title: Here, you can specify the title for your newly created cards. You can also use shortcodes to use the dynamic data as the title.
+4. **Card Content:** With this option, you can specify the content you want to add to your cards. Here, you can also use shortcodes for your content.
 
-1. Card Content: With this option, you can specify the content you want to add to your cards. Here, you can also use shortcodes for your content.
+5. **Card Position:** Here, you can set the desired position for your cards.
 
-1. Card Position: Here, you can set the desired position for your cards.
+6. **Conditional Logics:** This option allows Trello integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
-1. Conditional Logics: This option allows Trello integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
-1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
+7. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
 Once the setup is done, click the **Save Feed** button, and your Trello will be integrated into this specific form! 
 

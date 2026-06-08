@@ -9,20 +9,16 @@ This article will guide you through integrating **Zapier** with **Fluent Forms**
 
 ## Enabling Zapier Integration
 
-To learn how to enable Zapier integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Zapier** through the search bar, and enable the **Zapier** integration module by turning it on the **Toggle**. 
 
 ![Enabled Zapier Module](/images/integrations/automation/how-to-integrate-zapier-with-fluent-forms/1.-enabled-Zapier-module-scaled.webp)
 
 ## Integrating Zapier with Forms
 
-To learn how to integrate Zapier into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Zapier,** and click the **Settings** button.  
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Zapier](/images/integrations/automation/how-to-integrate-zapier-with-fluent-forms/2.-Open-desired-Form-Settings-scaled-2.webp)
 
@@ -31,8 +27,6 @@ Once you are on **Settings & Integrations**, go to **Zapier** from the left menu
 ![Add Webhook Button Integrate Zapier](/images/integrations/automation/how-to-integrate-zapier-with-fluent-forms/3.-Add-Webhook-button-scaled.webp)
 
 Now, a pop-up page will appear with various settings options for configuring the Zapier.
-
-**All the settings options mentioned in the screenshot below are briefly explained:**
 
 - Name: Here, you can set a name according to your preference for your feed. This field is required to be filled in.
 

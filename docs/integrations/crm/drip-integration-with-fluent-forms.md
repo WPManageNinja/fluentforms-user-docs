@@ -9,8 +9,6 @@ This article will guide you through integrating **Drip** with **Fluent Forms** o
 
 ## Enable the Drip Integration
 
-To learn how to enable Drip integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Drip** through the search bar, and get the **Drip integration module**.
 
 Now, turn on the **Toggle** to enable the **Drip** module and click the **Settings Icon** on the right.
@@ -59,12 +57,10 @@ Here, you can see your **Drip API integration is up and running**. To disconnect
 
 ### Integrate Drip into Fluent Forms
 
-To learn how to integrate Drip into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Drip and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Setting Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/form-setting-07-scaled.webp)
 

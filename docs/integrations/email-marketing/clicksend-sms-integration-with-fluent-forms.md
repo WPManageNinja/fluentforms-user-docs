@@ -40,8 +40,6 @@ Finally, press the **Save Settings** button to save all your changes.
 
 ## Integrate ClickSend Feed in Forms
 
-To learn how to integrate **ClickSend** into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ClickSend** and click the **Settings** button. 
 
 Then, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **ClickSend** SMS Notification feed from the dropdown list. 

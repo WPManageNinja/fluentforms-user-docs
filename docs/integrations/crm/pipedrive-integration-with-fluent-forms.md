@@ -9,8 +9,6 @@ This article will guide you through integrating Pipedrive with Fluent Forms on y
 
 ## Enable the Pipedrive Integration
 
-To learn how to enable Pipedrive integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Pipedrive** through the search bar, and get the **Pipedrive integration module**.
 
 Now, turn on the **Toggle** to enable the **Pipedrive** module, and click the **Settings Icon** on the right side.
@@ -19,7 +17,8 @@ Now, turn on the **Toggle** to enable the **Pipedrive** module, and click the **
 
 Once you enable Pipedrive, you will be asked for the **Pipedrive API Token** of your **Pipedrive Account**.
 
-> If you don’t have an existing account, click the sign up for one here button to create a new one.
+> [!Note]
+> If you do not have a Pipedrive account, [create one here](https://www.pipedrive.com/).
 
 ![Configure Pipedrive](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Configure-pipedrive-02-scaled.webp)
 
@@ -49,12 +48,10 @@ Here you can see your **Pipedrive API integration is up and running**. Also you 
 
 ### Integrate Pipedrive into Fluent Forms
 
-To learn how to integrate Pipedrive into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Pipedrive and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Settings-06-scaled.webp)
 

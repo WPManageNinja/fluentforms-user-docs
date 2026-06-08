@@ -7,15 +7,14 @@ Integrating [Notion](http://notion.com) with **Fluent Forms** allows you to auto
 
 ## Enabling Notion Integration
 
-To learn how to enable Notion integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Notion** through the search bar, and get the **Notion** integration module. Now, turn on the **Toggle** to enable the **Notion** module, and click the **Settings Icon** on the right side. 
 
 ![Enable Notion Integrate Notion](/images/integrations/other-apps/how-to-integrate-notion-with-fluent-forms/1.-Enable-Notion-scaled.webp)
 
 Once you enable Notion, you will be asked for the **Access Code** of your **Notion Account**.
 
-> Click the Get Notion Code link to collect the Access Code and integrate Notion successfully.
+> [!Tip]
+> Click **Get Notion Code** to authorize Fluent Forms and complete the Notion integration.
 
 ![Get Acess Code](/images/integrations/other-apps/how-to-integrate-notion-with-fluent-forms/2.-Get-Acess-Code-scaled.webp)
 
@@ -53,12 +52,10 @@ You can disconnect it anytime by clicking the **Disconnect Notion** button.
 
 ## Integrating Notion with Forms
 
-To learn how to integrate Notion into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Notion,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Notion](/images/integrations/other-apps/how-to-integrate-notion-with-fluent-forms/8.-Open-desired-Form-Settings-scaled.webp)
 
@@ -68,15 +65,13 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Once you select the desired table, a pop-up page will appear with various settings options for configuring the Notion.  
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-1. Name: Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
+2. **Notion Database:** Using the Arrow Icon, you can select the Notion Database where you want to add your form submission information. You can also change this anytime if needed.Once you select the database, all the columns from your chosen Notion Database will appear here as fields (e.g., you can see the Email, Country, and Name fields). Now, use all the fields under this option to properly link your Notion Databases with the Form Fields. You can easily select the value for the form fields based on the Notion fields using the Shortcode Arrow.
 
-1. Notion Database: Using the Arrow Icon, you can select the Notion Database where you want to add your form submission information. You can also change this anytime if needed.Once you select the database, all the columns from your chosen Notion Database will appear here as fields (e.g., you can see the Email, Country, and Name fields). Now, use all the fields under this option to properly link your Notion Databases with the Form Fields. You can easily select the value for the form fields based on the Notion fields using the Shortcode Arrow.
+3. **Conditional Logics:** This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
-1. Conditional Logics: This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
-1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
+4. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
 Once the setup is done, click the **Save Feed** button, and your Notion will be integrated into this specific form!
 

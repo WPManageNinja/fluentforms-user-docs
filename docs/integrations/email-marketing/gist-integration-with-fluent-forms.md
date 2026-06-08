@@ -7,8 +7,6 @@
 
 ## Enable the GetGist Integration
 
-To learn how to enable GetGist integration, follow the steps with the screenshots below-
-
 First, navigate to **Integrations** from the Fluent Forms Navbar, search for **GetGist** using the search bar, and install the **GetGist integration module**.
 
 Now, turn on the **Toggle** to enable the **GetGist** module and click the **Settings Icon** on the right.
@@ -43,12 +41,10 @@ Here, you can see your **GetGist API integration is up and running**. To disconn
 
 ### Integrate GetGist into Fluent Forms
 
-To learn how to integrate GetGist into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your GetGist, and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings Gist Integration](/images/integrations/email-marketing/gist-integration-with-fluent-forms/form-settings-06-scaled.webp)
 

@@ -9,8 +9,6 @@ This article will guide you through integrating **amoCRM** with **Fluent Forms**
 
 ## Enable the amoCRM Integration
 
-To learn how to enable amoCRM integration, follow the step by step process below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **amoCRM** through the search bar, and get the **amoCRM integration module**.
 
 Now, **toggle** to enable the **amoCRM** module and click the **Settings Icon** button on the right.
@@ -63,12 +61,10 @@ Here, you can see your **API integration is up and running**.  To disconnect, cl
 
 ### Integrate amoCRM into Forms
 
-To learn how to integrate amoCRM into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your amoCRM and click the **Settings** button. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Setting amoCRM Fluent Forms](/images/integrations/crm/amocrm-integration-with-fluent-forms/Form-Setting-amoCRM-scaled.webp)
 
