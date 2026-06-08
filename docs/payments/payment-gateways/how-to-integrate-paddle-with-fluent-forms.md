@@ -7,9 +7,9 @@
 
 ## Enable Paddle Payment Method
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
 
-Now, go to **Paddle** in the top navbar and click **Enable Paddle Payment Method.** The **Paddle Payment Method** will be enabled globally for all forms. 
+Select **Paddle**, then click **Enable Paddle Payment Method** to activate Paddle globally for all forms.
 
 ![Enable Paddle Payment Method Integrate Paddle](/images/payments/payment-gateways/how-to-integrate-paddle-with-fluent-forms/1.-Enable-Paddle-Payment-Method-scaled.webp)
 
@@ -101,7 +101,7 @@ Also, to see the **Preview** of the form, click the **Preview & Design** button 
 
 ![Save Integrate Paddle](/images/payments/payment-gateways/how-to-integrate-paddle-with-fluent-forms/12.-Save-form-scaled.webp)
 
-## Preview of Added Payment Method
+### Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to **Paddle** to complete the payment process. 
 

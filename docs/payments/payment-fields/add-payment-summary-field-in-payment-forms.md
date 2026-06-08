@@ -1,14 +1,12 @@
 # Add Payment Summary Field in Payment Forms
 
-In **Fluent Forms**, the **Payment Summary** field allows users to view a summary of their total payments based on the selected items or products and you can use it in any form.
+The **Payment Summary** field allows users to view a summary of their total payments based on the selected items or products and you can use it in any form.
 
 This article will guide you through adding the **Payment Summary** field in your Fluent Forms for your WordPress Site.
 
 ## Add Payment Summary Field
 
-To learn how to add the Payment Summary field to the Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form editor.
 
 For example, I choose an existing form to show the whole process.
 
@@ -25,9 +23,9 @@ You can see that a **Payment Summary** field is added to the form. You can edit 
 
 It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
 
-1. Payment Summary
+**1. Payment Summary**
 
-2. Advanced Options
+**2. Advanced Options**
 
 ![Input Customization Tab](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/3.-Input-Customization-tab-scaled.webp)
 
@@ -35,13 +33,13 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 Here, you will get the following setting option for customizing the field. 
 
-- Empty Payment Selected Text: Here, you can set a text you want to show when no payment item has been selected yet.
+- **Empty Payment Selected Text:** Here, you can set a text you want to show when no payment item has been selected yet.
 
 ![Payment Summary Customization](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/4.-Payment-Summary-customization--scaled.webp)
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Each option in the **Advanced Options** tab is explained below – 
 
 **A. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
@@ -64,7 +62,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ![Save Button Payment Summary Field in](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/7.-Save-Form-button-scaled.webp)
 
-## Preview of Payment Summary field
+### Preview of Payment Summary field
 
 Here, is the preview of the added **Payment Summary** field under the Payment Form. 
 

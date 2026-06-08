@@ -7,7 +7,8 @@ Integrating [BuddyBoss](http://buddyboss.com) with **Fluent Forms** allows you t
 
 ## Setting up BuddyBoss in WordPress Site
 
-> Before starting the process, make sure the BuddyBoss plugin (both Free and Pro versions) is installed and activated on your WordPress site.
+> [!Note]
+> Install and activate the **BuddyBoss** plugin (Free or Pro) on your WordPress site before continuing.
 
 Now, go to **BuddyBoss** from the **Left Sidebar**, click the **Profiles**, and it will take you to the **Profile Fields** page.
 
@@ -23,8 +24,6 @@ Then go to the **Profile Types** page from the **Top Navbar**. Here, you can **E
 
 To integrate BuddyBoss integration, you **need to enable the User Registration or Update** integration module in your Fluent Forms. Through this integration module, you will be able to integrate BuddyBoss with Fluent Forms.
 
-**To learn how to enable the User Registration or Update module, follow the steps below –** 
-
 First, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **User Registration** through the search bar, and get the integration module.
 
 Now, turn on the **Toggle** and the **User Registration or Update** module wil be enabled.
@@ -33,10 +32,14 @@ Now, turn on the **Toggle** and the **User Registration or Update** module wil b
 
 ## Integrating BuddyBoss with Forms
 
-To learn how to integrate BuddyBoss into any specific Form in Fluent Forms, follow the steps with the screenshots below – 
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Open Settings Integrate BuddyBoss](/images/integrations/other-apps/how-to-integrate-buddyboss-with-fluent-forms/4.-open-desired-forms-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **User Registration or Update Integration** feed from the dropdown list. 

@@ -12,9 +12,7 @@ So, let's get started.
 
 ## Access the Form Settings
 
-To learn how to set conditional confirmation message, follow the steps below – 
-
-First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditional confirmation message.
+To access the form settings, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditional confirmation message.
 
 Once inside the form editor, click on **Settings & Integrations** tab for the selected form. Now from the left sidebar, select **Conditional Confirmation** under the **Settings** section.
 
@@ -26,31 +24,30 @@ Here appears a new window. Now click the **Add Confirmation** button in the top 
 
 ![Add Confirmation Conditional Confirmation Message](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/Add-confirmation-02-scaled.webp)
 
-Here also appears a new window. Now enter the details below-
+Here also appears a new window. Now enter the details -
 
-**Confirmation Name:** Give a confirmation name that describes its purpose. 
+ **Confirmation Name:** Give a confirmation name that describes its purpose. 
 
-**Confirmation Type:**  Choose where you want the confirmation message to appear. There are three Confirmation types. 
+ **Confirmation Type:**  Choose where you want the confirmation message to appear. There are three Confirmation types. 
 
-- Same Page: Displays the confirmation message on the same page as the form.
+   - **Same Page:** Displays the confirmation message on the same page as the form.
+   - **To a page:**  Redirects the user to a specific page after form submission.
+   - **To custom URL:** Redirects the user to a custom URL after form submission.
 
-- To a page:  Redirects the user to a specific page after form submission.
-
-- To custom URL: Redirects the user to a custom URL after form submission.
-
-**Message to Show:** Here enter the custom message you want to display when the condition met. You can also add shortcode or image to your message.
+ **Message to Show:** Here enter the custom message you want to display when the condition met. You can also add shortcode or image to your message.
 
 ![Confirmation Message](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/confirmation-message-03-scaled.webp)
 
-**Redirect Query String:** The field where you can enter the custom URL with query parameters.
+ **Redirect Query String:** The field where you can enter the custom URL with query parameters.
 
-- Pass Field Data Via Query String: This allows you to pass form field data as query parameters in the redirect URL.
+   - **Pass Field Data Via Query String:** This allows you to pass form field data as query parameters in the redirect URL.
 
+>[!Note]
 > For this option to be enabled you must check the Pass Field Data Via Query String box below.
 
 ![Pass String Query](/images/notifications-confirmations/confirmations/conditional-confirmation-message-in-fluent-forms/pass-string-query-04.webp)
 
-Suppose If you select **To a Custom URL** and enable **Pass Field Data Via Query String**, you can enter a URL like this: https://example.com/thank-you?email={email}&phone={phone}
+Suppose If you select **To a Custom URL** and enable **Pass Field Data Via Query String**, you can enter a URL like this: `https://example.com/thank-you?email={email}&phone={phone}`
 
 Then it will redirect the user to the **https://example.com/thank-you** page and pass the values of the phone and email fields as base of query parameters. 
 
@@ -58,6 +55,7 @@ You can use these query parameters on the thank-you page to display personalized
 
 **After Form Submission:** Now choose what should happen after the form is submitted. Options are **Hide Form** and **Reset Form**. 
 
+>[!Note]
 > This option only shows the message when you select the Same Page option in Confirmation Type.
 
 ### Enable Conditional Logic

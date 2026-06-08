@@ -9,9 +9,7 @@ This article will guide you through integrating **Brevo (formerly Sendinblue)** 
 
 ## Enable Sendinblue Integration
 
-To learn how to enable Sendinblue integration, follow the steps with the screenshots below – 
-
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Sendinblue** through the search bar, and get the **Sendinblue** integration module.
+Go to **Integrations** from the **Fluent Forms Navbar**, search for **Sendinblue** through the search bar, and get the **Sendinblue** integration module.
 
 Now, turn on the **Toggle** to enable the **Sendinblue**. Then, you will see the Sendinblue’s **Settings Icon** on the right side, click on it.
 
@@ -19,15 +17,14 @@ Now, turn on the **Toggle** to enable the **Sendinblue**. Then, you will see the
 
 Once you enable Sendinblue, you will be asked for the **Brevo V3 API Key** of your **Sendinblue Account**.
 
-> If you don’t have an existing account, click the sign up for one here link to create a new one.
+> [!Note]
+> If you do not have a Brevo account, [create one here](https://www.brevo.com/free/).
 
 ![Brevo API Settings](/images/integrations/email-marketing/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms/2.-Brevo-API-Settings-scaled.webp)
 
 ### Get the Brevo V3 API Key
 
-To learn how to get the **Brevo V3 API Key** from **Brevo/Sendinblue**, follow the steps with screenshots below –
-
-First, log into your  [Sendinblue Account](http://brevo.com), open the **Profile** from the top left corner, and click the **SMTP & API**. 
+Log into your  [Sendinblue Account](http://brevo.com), open the **Profile** from the top left corner, and click the **SMTP & API**. 
 
 ![Profile Smtp API Option](/images/integrations/email-marketing/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms/3.-Profile-SMTP-API-option--scaled.webp)
 
@@ -60,10 +57,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate Sendinblue into Fluent Forms
 
-To learn how to integrate Sendinblue into any specific Form in Fluent Forms, follow the steps with the screenshots below –
+Go to **Forms** from the Fluent Forms navbar, open the form where you want to add Brevo, and click **Settings**.
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Sendinblue,** and click the **Settings** button. 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
+>>>>>>> tajulauthlab
 ![Open Settings Integrate Brevo (Formerly Sendinblue)](/images/integrations/email-marketing/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms/Open-Desired-Form-Settings-2-scaled-2.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Sendinblue Integration** feed from the dropdown list. 
@@ -78,19 +79,24 @@ Also, you must select the **Brevo Segment** from the dropdown where you want to 
 
 Once you select the list, a pop-up page will appear with various settings options for configuring Sendinblue.
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** From here, you can change the name anytime if needed.
 
-1. Name: From here, you can change the name anytime if needed.
+2. **Brevo Segment:** From here, you can change the Brevo Subscriber List anytime if needed.
 
-1. Brevo Segment: From here, you can change the Brevo Subscriber List anytime if needed.
+3. **Map Fileds:** Use all the fields under this option to properly link your Sendinblue Fields with the Form Fields. You can easily select the value for the Form Fields based on the Sendinblue Fields using the Shortcode Arrow.
 
-1. Map Fileds: Use all the fields under this option to properly link your Sendinblue Fields with the Form Fields. You can easily select the value for the Form Fields based on the Sendinblue Fields using the Shortcode Arrow.
+4. **Other Fields:** Using this option, you can also link the Fluent Forms fields with their respective Sendinblue Custom fields. Click the **Plus/Minus** icon in the right corner to add or delete custom fields as needed.
 
-1. Other Fields: Using this option, you can also link the Fluent Forms fields with their respective Sendinblue Custom fields. But, remember, Custom Date fields support only MM/DD/YYYY format. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
+> [!Note]
+> **Custom date fields** accept only the **MM/DD/YYYY** format.
 
+<<<<<<< HEAD
 1. Conditional Logics: This option allows Sendinblue integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+=======
+5. **Conditional Logics:** This option allows Sendinblue integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+>>>>>>> tajulauthlab
 
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Sendinblue will be integrated into this specific form!
 
@@ -99,11 +105,12 @@ Once the setup is done, finally, click the **Save Feed** button. And, your Sendi
 After successful Integration, now you will see that your **Sendinblue Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**.
+
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Added Sendinblue Integration Feed](/images/integrations/email-marketing/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms/12.-Added-Sendinblue-integration-feed-scaled.webp)
 
-## Preview of Integrated Sendinblue
+### Preview of Integrated Sendinblue
 
 Here, you can see the preview of Sendinblue’s added contacts through the form entries that I set up during the integration.
 

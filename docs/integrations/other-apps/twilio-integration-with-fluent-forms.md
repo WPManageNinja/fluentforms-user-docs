@@ -11,8 +11,6 @@ The integration between Twilio and Fluent Forms allows you to send SMS notificat
 
 ## Enabling the Twilio Module
 
-To learn how to enable Twilio integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Twilio** through the search bar, and get the **Twilio** integration module.
 
 Now, turn on the **Toggle** button to enable Twilio. Then, you will see the **Settings Icon** on the right side, click on it.
@@ -29,7 +27,8 @@ To learn how to get the **Account SID** and **Auth Token** from Twilio, follow t
 
 Log in to your **Twilio** account dashboard to access the **Account SID** and **Auth Token**.
 
-> If you don’t have an existing account or application registered, click Twilio to register your application.
+> [!Note]
+> If you do not have a Twilio account, [create one here](https://www.twilio.com/try-twilio) and register your application.
 
 Now, ​​**copy** the **Account SID** and **Auth Token** to use them later.
 
@@ -53,6 +52,12 @@ You can also disconnect the **Twilio API** here by clicking the **Disconnect Twi
 
 After setting up the Credentials, go to **All Forms** and select the form you want to integrate with the Twilio account or create a new one.
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Settings Twilio Integration](/images/integrations/other-apps/twilio-integration-with-fluent-forms/settings-form-06-scaled.webp)
 
 Now, go to the particular form’s settings for the entries you want listed in **Twilio**.  Click on **Add New Integration** and select **SMS Notification by Twilio** from the dropdown.
@@ -89,6 +94,7 @@ You can see form submissions from the **Entries** section of this particular for
 
 ![Entries](/images/integrations/other-apps/twilio-integration-with-fluent-forms/entries-10-1-scaled.webp)
 
-> If you have a Trial account on Twilio, you must add and verify your phone number here before you can send a test SMS.
+> [!Warning]
+> On a Twilio trial account, verify your phone number before sending a test SMS.
 
 You can seamlessly send real-time SMS notifications for form submissions using Twilio by completing these steps.

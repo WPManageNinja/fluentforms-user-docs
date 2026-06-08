@@ -6,8 +6,6 @@ This article will guide you through integrating [MailPoet](https://www.mailpoet.
 
 ## MailPoet with Fluent Forms
 
-To learn how to integrate MailPoet with Fluent Forms, follow the steps accordingly with the screenshots below —
-
 > [!Note]
 > Install and activate **MailPoet** and the **Fluent Forms Connector for MailPoet** add-on before you connect the integration.
 
@@ -27,12 +25,14 @@ From your **Fluent Forms Dashboard**, go to **Integrations**, search for **MailP
 
 ![Enable MailPoet Fluent Forms](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/3.-Enable-MailPoet-scaled.webp)
 
-### Integrate MailPoet in Fluent Forms
+### Integrate MailPoet in Fluent FormsGo to **Forms** from the **Fluent Forms Dashboard** and click the **Settings** button of your desired form where you want to add the feed.
 
-To learn how to add the MailPoet Integration feed in a specific form to list its entries in MailPoet, follow the steps with the screenshots below – 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
-Go to **Forms** from the **Fluent Forms Dashboard** and click the **Settings** button of your desired form where you want to add the feed.
-
+>>>>>>> tajulauthlab
 ![Settings MailPoet Integration](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/4.-Desired-Forms-Settings-scaled.webp)
 
 Open the **Configure Integrations** tab, expand the **Add New Integration** dropdown, and click the **MailPoet Integration** feed.
@@ -47,9 +47,15 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 
 - Primary Fields: Associate your MailPoet Field with the appropriate Fluent Forms Field by selecting the appropriate form fields from the dropdown (you can also give your own custom value if needed).
 
-- Custom Fields: Using this option, you can add more customized fields as per your needs. To add or delete more fields use the Plus or Minus icon. Remember, to use the Custom Fields feature, you must have the MailPoet Pro Version. Otherwise, it won’t work.
+- **Custom Fields:** Add or remove fields using the **Plus** or **Minus** icon.
 
-- Send Confirmation Email: Enable this checkbox, if you want to send an Email for Confirmation. Remember, to use the Send Confirmation Email feature, you must have the MailPoet Pro Version and a Verified MailPoet Account. Otherwise, it won’t work.
+> [!Note]
+> **Custom Fields** requires **MailPoet Pro**.
+
+- **Send Confirmation Email:** Enable this checkbox to send a confirmation email to new contacts.
+
+> [!Note]
+> **Send Confirmation Email** requires **MailPoet Pro** and a verified MailPoet account.
 
 - Conditional Logic: This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more, read the [Fluent Forms Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 

@@ -7,8 +7,6 @@
 
 ## Enabling Telegram Integration
 
-To learn how to enable Telegram integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Telegram** through the search bar, and get the **Telegram** integration module.
 
 Now, turn on the **Toggle** to enable **Telegram**, and click the **Settings Icon** on the right side. 
@@ -79,10 +77,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrating Telegram with Forms
 
-To learn how to integrate Telegram into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Telegram,** and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Open Settings Integrate Telegram](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/11.-Open-desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Telegram Integration** feed from the dropdown list. 
@@ -91,17 +93,21 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Now, a pop-up page will appear with various settings options for configuring Telegram. 
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** Here, you can set a name according to your preference for your feed. This field is required to be filled in.
 
-1. Name: Here, you can set a name according to your preference for your feed. This field is required to be filled in.
+2. **Message to Send:** Here, you can set the texts and information you want to send to the Telegram channel/group as a notification. Also, you can use the Shortcode button to set the user data from form entries that you want to send to your Telegram Group/Channel.
 
-1. Message to Send: Here, you can set the texts and information you want to send to the Telegram channel/group as a notification. Also, you can use the Shortcode button to set the user data from form entries that you want to send to your Telegram Group/Channel.
+3. **Custom Chat/Channel ID:** Use this field if you want to integrate a form-specific telegram group/channel. Otherwise, keep it empty.
 
-1. Custom Chat/Channel ID: Use this field if you want to integrate a form-specific telegram group/channel. Otherwise, keep it empty.
+4. **Conditional Logics:** This option allows Telegram integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
+<<<<<<< HEAD
 1. Conditional Logics: This option allows Telegram integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
+=======
+5. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
+>>>>>>> tajulauthlab
 
 Once the setup is done, click the **Save Feed** button, and your Telegram will be integrated into this specific form!
 

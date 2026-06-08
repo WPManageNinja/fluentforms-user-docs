@@ -7,8 +7,6 @@ Integrating OnePageCRM with Fluent Forms helps automate your business growth by 
 
 ## Enable the OnePageCRM Integration
 
-To learn how to enable OnePageCRM integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **OnePageCRM**  through the search bar, and get the **OnePageCRM integration module**.
 
 Now, turn on the **Toggle** to enable the **OnePageCRM** module, and click the **Settings Icon** on the right side.
@@ -17,13 +15,12 @@ Now, turn on the **Toggle** to enable the **OnePageCRM** module, and click the *
 
 Once you enable OnePageCRM, you will be asked for the **OnePageCrm User ID** and **OnePageCrm Api Key** of your **OnePageCrm Account**.
 
-> If you don’t have an existing account, click the Link button create a new one.
+> [!Note]
+> If you do not have a OnePageCRM account, [create one here](https://www.onepagecrm.com/).
 
 ![Global Settings](/images/integrations/crm/onepagecrm-integration-with-fluent-forms/Global-Settings-02-scaled.webp)
 
 ## Get the OnePageCrm Credential
-
-To learn how to get the **User ID** and **Api Key** from OnePageCrm, follow the steps below –
 
 First, log in to your [OnePageCrm Account](https://app.onepagecrm.com/app/api), go to **Profile** from the top right corner, and select the **Apps and Integrations** sections. 
 
@@ -53,17 +50,21 @@ Here you can see your **ONePageCRM API integration is up and running**. Also you
 
 ### Integrate OnePageCRM into Fluent Forms
 
-To learn how to integrate OnePageCRM into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your OnePageCRM and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Setting OnePageCRM Integration](/images/integrations/crm/onepagecrm-integration-with-fluent-forms/Form-Setting-08-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **OnePageCRM Integration** feed from the dropdown list. 
 
 ![Add Ne Integration OnePageCRM Integration](/images/integrations/crm/onepagecrm-integration-with-fluent-forms/add-ne-integration-09-scaled.webp)
 
-### Configure OnePageCRM Integration Feed
+## Configure OnePageCRM Integration Feed
 
 **A. Feed Name**: Enter a name for your OnePageCRM integration feed.
 

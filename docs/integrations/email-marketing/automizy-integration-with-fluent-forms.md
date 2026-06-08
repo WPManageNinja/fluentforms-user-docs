@@ -32,8 +32,6 @@ Finally, press the **Save Settings** button to save all your changes.
 
 ## Integrate Automizy Feed in Forms
 
-To learn how to integrate Automizy into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Automizy** and click the **Settings** button. 
 
 Then, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Automizy Integration** feed from the dropdown list. 

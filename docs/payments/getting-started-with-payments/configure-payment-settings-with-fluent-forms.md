@@ -6,17 +6,14 @@ This article will guide you through setting up the **Payment Settings** for all 
 
 ## Configuring Payment Settings Globally
 
-To learn how to configure the Payment Settings globally for all your payment forms, follow the steps with the screenshots below – 
+Go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, click the **Settings** option, and three options appear. These are: 
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, click the **Settings** option, and three options appear. These are: 
+**1. General**
 
-1. General
+**2. Currency**
 
-2. Currency
+**3. Pages & Subscription Management**
 
-3. Pages & Subscription Management
-
-**All three options are explained below:**
 
 ### 1. General
 
@@ -61,8 +58,6 @@ Once you are done, click **Save Settings** to save the configuration.
 
 ![Page And Subscription Management Tab](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/3.-Page-and-Subscription-Management-tab-1-scaled.webp)
 
-**All the settings mentioned above are briefly explained below:**
-
 #### A. Payment (History) Management Page
 
 Through this option, you can select an existing desired page where only the logged-in users can see their **Payment History** (i.e., **single payments** and **subscriptions**).
@@ -75,9 +70,9 @@ Then, click the **Save** button to save all the changes, and press the **Preview
 
 Here, you can see the **Preview** of the **Payment History Page** where you will get the following options. 
 
-- Subscriptions: Under this section, only the logged-in users can see the Payment History of each Subscription of their payment forms. Plus, here, you can see the payment-related details by clicking the View Payments button in the left corner. Also, users can cancel their subscriptions anytime if needed by clicking the Cancel button
+- **Subscriptions:** Under this section, only the logged-in users can see the Payment History of each Subscription of their payment forms. Plus, here, you can see the payment-related details by clicking the View Payments button in the left corner. Also, users can cancel their subscriptions anytime if needed by clicking the Cancel button
 
-- Payments: Under this section, only the logged-in users can see the Payment History of each single payment of their payment forms. From here, you can see the individual Payment Receipt by clicking the View link.
+- **Payments:** Under this section, only the logged-in users can see the Payment History of each single payment of their payment forms. From here, you can see the individual Payment Receipt by clicking the View link.
 
 ![Preview Payment History Configure Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/5.-Preview-of-Payment-History.webp)
 
@@ -110,9 +105,7 @@ Once you are done, click **Save Settings** to save the configuration.
 
 ## Configuring Payment Settings in a Specific Form
 
-To learn how to configure the **Payment Settings** for a specific payment form, follow the steps with the screenshots below – 
-
-First, go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of the desired **Payment** **Form**. 
+Go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of the desired **Payment** **Form**. 
 
 ![Open Settings Configure Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings-with-fluent-forms/Open-Form-Settings-3-scaled.webp)
 
@@ -136,11 +129,19 @@ Do not forget to click the **Save Settings** button to save all your changes.
 
 On this page, you will also get **Three** major **Payment Method Settings** options that you can customize according to your needs, specifically for this form. These are:
 
+<<<<<<< HEAD
 1. Stripe: To learn more details, read [How to Integrate Stripe with Fluent Forms](/docs/how-to-integrate-stripe-with-fluent-forms).
 
 2. PayPal: To learn more details, read [How to Integrate PayPal with Fluent Forms](/docs/how-to-integrate-paypal-with-fluent-forms).
 
 3. Paddle: To learn more details, read [How to Integrate Paddle with Fluent Forms](/docs/how-to-integrate-paddle-with-fluent-forms).
+=======
+ * **1. Stripe:** To learn more details about the Stripe Settings, [click here](/docs/how-to-integrate-stripe-with-fluent-forms).
+
+ * **2. PayPal:** To learn more details about the PayPal Settings, [click here](/docs/how-to-integrate-paypal-with-fluent-forms).
+
+ * **3. Paddle:** To learn more details about the Paddle Settings, [click here](/docs/how-to-integrate-paddle-with-fluent-forms).
+>>>>>>> tajulauthlab
 
 Do not forget to click the **Save Settings** button to save all your changes. 
 

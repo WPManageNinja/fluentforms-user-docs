@@ -9,8 +9,6 @@ This article will guide you through integrating Pipedrive with Fluent Forms on y
 
 ## Enable the Pipedrive Integration
 
-To learn how to enable Pipedrive integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Pipedrive** through the search bar, and get the **Pipedrive integration module**.
 
 Now, turn on the **Toggle** to enable the **Pipedrive** module, and click the **Settings Icon** on the right side.
@@ -19,7 +17,8 @@ Now, turn on the **Toggle** to enable the **Pipedrive** module, and click the **
 
 Once you enable Pipedrive, you will be asked for the **Pipedrive API Token** of your **Pipedrive Account**.
 
-> If you don’t have an existing account, click the sign up for one here button to create a new one.
+> [!Note]
+> If you do not have a Pipedrive account, [create one here](https://www.pipedrive.com/).
 
 ![Configure Pipedrive](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Configure-pipedrive-02-scaled.webp)
 
@@ -47,19 +46,23 @@ Here you can see your **Pipedrive API integration is up and running**. Also you 
 
 ![Disconnect Pipedrive](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Disconnect-pipedrive-05-scaled.webp)
 
-### Integrate Pipedrive into Fluent Forms
-
-To learn how to integrate Pipedrive into any specific Form in Fluent Forms, follow the steps with the screenshots below –
+## Integrate Pipedrive into Fluent Forms
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Pipedrive and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Settings Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Settings-06-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Pipedrive Integration** feed from the dropdown list. 
 
 ![Add Integration Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/add-new-integration-07-1-scaled.webp)
 
-### Configure Pipedrive Integration Feed
+## Configure Pipedrive Integration Feed
 
 **A. Feed Name**: Enter a name for your Pipedrive integration feed.
 **B. Services:** Select the **Pipedrive** Services you want to map to. Click the **Dropdown Arrow** to add mapping values. Here, you can choose one of the options below: **Person**, **Leads**, **Organization**, **Deal**, **Activity**, etc. 

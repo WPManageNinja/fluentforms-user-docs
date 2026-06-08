@@ -9,9 +9,9 @@ This article will guide you through integrating **Stripe** into your **WordPress
 
 ## Enabling Stripe Payment Method
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
 
-Now, go to **Stripe** in the top navbar and click **Enable** **Stripe Payment Method.** The **Stripe Payment Method** will be enabled globally for all forms. 
+Select **Stripe**, then click **Enable Stripe Payment Method** to activate Stripe globally for all forms.
 
 ![Enable Stripe Payment Method Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/1.-Enable-Stripe-Payment-method-scaled.webp)
 
@@ -29,15 +29,18 @@ Do not forget to press the **Save Stripe Settings** button to save all your chan
 
 Here, provide the login credentials of your desired **Stripe Account** that you want to connect with **Fluent Forms**, click the **Submit** button, and your **Stripe** account will be configured. 
 
-> If you do not have an existing Stripe Account, click here to open a new account.
+> [!Note]
+> If you do not have an existing Stripe Account, [click here](https://dashboard.stripe.com/register) to open a new account.
 
 ![Submit Button Fluent Forms](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/3.-Submit-button.webp)
 
-**Remember**, **Fluent Forms** offers the above-mentioned **Connect with** **Stripe** option by default for secure and easy integration with **Stripe**. Also, Fluent Forms recommends using this option for all Stripe Verified Partners.
+> [!Note]
+> **Connect with Stripe** is enabled by default. Fluent Forms recommends this option for a secure setup, including for Stripe Verified Partners.
 
-But, if you prefer the traditional **API Key method for the integration,** you can **Disable** this **Connect with Stripe** option by adding the following code snippet to your theme’s **functions.php** file or a code snippet plugin.
+To use the traditional **API Key** method instead, disable **Connect with Stripe** by adding the following snippet to your theme's **functions.php** file or a code snippets plugin.
 
-> We recommend you use the Fluent Snippet Plugin to add any snippet code to your WordPress Site.
+> [!Note]
+> We recommend you use the [Fluent Snippet](https://fluentsnippets.com/) Plugin to add any snippet code to your WordPress Site.
 
 `**add_filter('fluentform/disable_stripe_connect', '__return_true');**`
 
@@ -46,8 +49,6 @@ But, if you prefer the traditional **API Key method for the integration,** you c
 After configuring Stripe, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in Stripe. Recurring billing is collected through the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
 
 **IPN (Instant Payment Notification)** is a post-message notification sent by [Stripe](http://stripe.com) after a successful subscription or recurring payment. For Stripe to function completely for subscription/recurring payments, you must configure your Stripe webhooks.
-
-**To learn how to configure Stripe Webhooks, follow the steps with screenshots below –**
 
 First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
 
@@ -73,19 +74,19 @@ You can find your **desired events** by entering their **Name** or **Description
 
 **The Events recommended by Fluent Forms are briefly explained below:**
 
-- charge.succeeded: This triggers when a charge is successfully processed. Basically, this event occurs when a payment is completed on Stripe.
+- **charge.succeeded:** This triggers when a charge is successfully processed. Basically, this event occurs when a payment is completed on Stripe.
 
-- charge.captured: This triggers when a previously authorized charge is successfully captured. You must use this for Hold payments.
+- **charge.captured:** This triggers when a previously authorized charge is successfully captured. You must use this for Hold payments.
 
-- invoice.payment_succeeded: This triggers when a payment for an invoice is successful. This is often used for Subscription payments.
+- **invoice.payment_succeeded:** This triggers when a payment for an invoice is successful. This is often used for Subscription payments.
 
-- charge.refunded: This triggers when a charge is refunded. This event helps track refund activity that happened on Stripe.
+- **charge.refunded:** This triggers when a charge is refunded. This event helps track refund activity that happened on Stripe.
 
-- customer.subscription.deleted: This triggers when a customer’s subscription is canceled or ends. This could be due to customer action, automatic cancellation, or a failed payment after retries.
+- **customer.subscription.deleted:** This triggers when a customer’s subscription is canceled or ends. This could be due to customer action, automatic cancellation, or a failed payment after retries.
 
-- customer.subscription.updated: This triggers when a customer’s subscription is changed or updated.
+- **customer.subscription.updated:** This triggers when a customer’s subscription is changed or updated.
 
-- Checkout.session.completed: This triggers when a checkout session is completed. This event confirms that the customer successfully paid for the session.
+- **Checkout.session.completed:** This triggers when a checkout session is completed. This event confirms that the customer successfully paid for the session.
 
 Once you select all the suggested **Webhook Events**, click the **Continue** button.
 
@@ -113,11 +114,11 @@ Once you are on the **Editor** page, go to the **Input** **Customization** menu 
 
 Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dropdown Arrow,** and you will get three options. These are:
 
-- Method Label: Here, you can change the label based on your preference for your added payment method.
+- **Method Label:** Here, you can change the label based on your preference for your added payment method.
 
-- Embedded Checkout: Check this box to activate Stripe as an inline payment option.
+- **Embedded Checkout:** Check this box to activate Stripe as an inline payment option.
 
-- Verify Zip/Postal Code: Check this box if you want to make providing the Zip/Postal Code information mandatory for your users to submit the forms.
+- **Verify Zip/Postal Code:** Check this box if you want to make providing the Zip/Postal Code information mandatory for your users to submit the forms.
 
 ![Embed Checkout Fluent Forms](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/10.-Embed-checkout-scaled.webp)
 
@@ -129,7 +130,7 @@ Also, to see the **Preview** of the form, click the **Preview & Design** button 
 
 ![Save Integrate Stripe](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/11.-Save-form-scaled.webp)
 
-## Preview of Added Payment Method
+### Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. 
 
@@ -149,7 +150,6 @@ Do not forget to click the **Save Settings** button to save all your changes.
 
 ![Specific Stripe Settings](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/13.-Form-Specific-Stripe-Settings-scaled.webp)
 
-**All the Stripe Settings options mentioned above are briefly explained below:**
 
 ### A. Stripe Meta Data
 
@@ -167,6 +167,7 @@ Here, you can select which stripe account credential (**Global** or **Custom**) 
 
 Check this option if you want to disable the option of receiving payment receipt email notifications of this form.
 
+>[!Note]
 > But we recommend you do not disable this option if you want to keep track of your payment transactions.
 
 ![Stripe Payment Receipt](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/16.-Stripe-Payment-Receipt.webp)

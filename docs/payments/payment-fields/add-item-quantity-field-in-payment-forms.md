@@ -1,12 +1,12 @@
 # Add Item Quantity Field in Payment Forms
 
-In **Fluent Forms**, the **Item Quantity** field enables users to select a single item or product in multiple quantities based on their needs. This article will guide you through adding the **Item Quantity** field in your Fluent Forms for your WordPress Site.
+The **Item Quantity** field allows users to choose how many of an item or product they want to purchase. Use it on payment forms when you sell the same product in variable amounts.
+
+This guide shows you how to add and configure the **Item Quantity** field in Fluent Forms.
 
 ## Add Item Quantity Field
 
-To learn how to add the Item Quantity field to the Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form editor.
 
 For example, I choose an existing form to show the whole process.
 
@@ -23,15 +23,15 @@ You can see that an **Item Quantity** field is added to the form. You can edit t
 
 It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
 
-1. Item Quantity
+**1. Item Quantity**
 
-2. Advanced Options
+**2. Advanced Options**
 
 ![Input Customization Fluent Forms](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/3.-Input-Customization--scaled.webp)
 
 ### 1. Item Quantity
 
-Here, you will get various settings options for customizing the field. All the **Settings** under the **Item Quantity** tab mentioned in the screenshot are briefly explained below – 
+Each option in the **Item Quantity** tab is explained below.
 
 **A. Element Label**: This is the field title the users will see when filling out the **Item Quantity** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -53,7 +53,7 @@ Here, you will get various settings options for customizing the field. All the *
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Each option in the **Advanced Options** tab is explained below.
 
 **A. Default Value:** You can set the default quantity for selecting your items.
 
@@ -90,7 +90,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ![Save Item Quantity Field in](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/7.-Save-Form-1-scaled.webp)
 
-## Preview of Item Quantity field
+### Preview of Item Quantity field
 
 Here, is the preview of the added **Item Quantity** field under the Payment Form. 
 

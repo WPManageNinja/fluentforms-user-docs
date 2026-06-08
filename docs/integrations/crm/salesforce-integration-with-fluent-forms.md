@@ -19,8 +19,6 @@ Salesforce provides API Access to these four account editions only:
 
 ## Enable the Salesforce Integration
 
-To learn how to enable Salesforce integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Salesforce** through the search bar, and get the **Salesforce integration module**.
 
 Now, turn on the **Toggle** to enable the **Salesforce** module and click the **Settings Icon** on the right.
@@ -29,7 +27,8 @@ Now, turn on the **Toggle** to enable the **Salesforce** module and click the **
 
 Once you enable **Salesforce**, you will be asked for the **Sandbox Account**, **Salesforce Domain URL**, **Salesforce Consumer Key**, and **Salesforce Consumer Secret** of your **Salesforce Account**.
 
-> If you use a Sandbox Account, check the Salesforce Sandbox Account checkbox.
+> [!Tip]
+> If you use a Salesforce sandbox, enable the **Salesforce Sandbox Account** checkbox.
 
 Now, copy the **callback URL** from the top for later use, as shown in the screenshot.
 
@@ -81,7 +80,7 @@ Then, return to the **salesforce Settings** page under the **Global Settings Con
 
 Paste your Salesforce **Domain URL**, **Consumer Key**, and **Consumer Secret** to **Salesforce's** **Global settings** tab and click the **Save Settings** button.
 
-Press the **Save Settings** button to make your **Salesforce Integration** module functional.
+Click the **Save Settings** button to make your **Salesforce Integration** module functional.
 
 ![Paste Consumer](/images/integrations/crm/salesforce-integration-with-fluent-forms/paste-consumer-10-scaled.webp)
 
@@ -91,10 +90,14 @@ Here, you can see your **Salesforce API integration** is **up and running**. To 
 
 ## Integrate Salesforce into Fluent Forms
 
-To learn how to integrate Salesforce into any specific Form in Fluent Forms, follow the steps below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **Salesforce** and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Settings Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/Form-settings-13-scaled.webp)
 
 Once on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Salesforce Integration** feed from the dropdown list. 
@@ -109,15 +112,17 @@ Also, you must select **Salesforce Services** from the dropdown where you want t
 
 Once you select the Salesforce services, a pop-up page with various settings options for configuring the Salesforce will appear. 
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
-
 **A. Feed Name:** Enter a name for your Salesforce integration feed.
 
-**B.** **Salesforce** **Services**: Using the **Arrow** **Icon**, you can select the Salesforce Services where you want to add your contacts. You can also change this anytime on your use case. 
+**B. Salesforce Services**: Using the **Arrow Icon**, you can select the Salesforce Services where you want to add your contacts. You can also change this anytime on your use case. 
 
 Here, I will select Salesforce service **Contact** options. You can choose **Salesforce Services** from the drop-down menu. Now, I am mapping the field with Salesforce. 
 
+<<<<<<< HEAD
 **C.** **Conditional Logic:** If you want to allow **Salesforce** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+=======
+**C. Conditional Logic:** If you want to allow **Salesforce** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the[ article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+>>>>>>> tajulauthlab
 
 **D. Status:** Enable this feed option to activate the integration.
 
@@ -131,7 +136,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 ![Add Integration Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/add-new-integration-15-scaled.webp)
 
-## Preview of Integrated Salesforce
+### Preview of Integrated Salesforce
 
 Here, you can see a preview of the added Salesforce contacts through the Form entries that I set up during the integration.
 

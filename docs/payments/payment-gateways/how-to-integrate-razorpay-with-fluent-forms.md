@@ -9,9 +9,9 @@ This article will guide you through integrating **Razorpay** into your **WordPre
 
 ## Enable Razorpay Payment Method
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
 
-Now, go to **Razorpay** in the top navbar and click **Enable Razorpay Payment Method.** The **Razorpay Payment Method** will be enabled globally for all forms. 
+Select **Razorpay**, then click **Enable Razorpay Payment Method** to activate Razorpay globally for all forms.
 
 ![Enable Razorpay Method Integrate Razorpay](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/1.-Enable-Razorpay-method-scaled.webp)
 
@@ -27,7 +27,6 @@ Always press the **Save Settings** button to save the changes you made.
 
 ![Test API Credentials](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/2.-Test-API-Credentials-scaled.webp)
 
-**All the Razorpay Settings options mentioned above are briefly explained below:**
 
 ### A. Payment Method
 
@@ -47,6 +46,7 @@ Once you log in to the **RazorPay Dashboard**, go to the **Accounts & Settings**
 
 ![API Keys Fluent Forms](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/3.-API-Keys-scaled.webp)
 
+> [!Note]
 > To get the Key ID and Key Secret, you need to generate a new key.
 
 Click the **Regenerate Test Key** button and new keys will be generated for the configuration.
@@ -57,7 +57,7 @@ Here, you will get your desired **Key ID** and **Key Secret**, and copy them.
 
 ![Copy Key ID And Key Secret](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/5.-Copy-Key-ID-and-Key-Secret.webp)
 
-**Now,** return to the **Razorpay Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
+Now, return to the **Razorpay Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
 
 Then, paste the **Key ID** and **Key Secret** into the **API Key** and **API Secret** fields respectively.
 
@@ -89,7 +89,8 @@ Also, using this setting option, you can configure the SMS and Email notificatio
 
 You can select both **SMS** and **Email**, or any one of them by simply checking the boxes to receive notifications.
 
-**Remember**, always press the **Save Settings** button to save the changes you made.
+> [!Tip]
+> Click **Save Settings** to apply your changes.
 
 ![Hosted Razorpay.com Fluent Forms](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/8.-Hosted-to-Razorpay.com_.webp)
 
@@ -115,7 +116,7 @@ Also, to see the **Preview** of the form, click the **Preview & Design** button 
 
 ![Save Button Integrate Razorpay](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/10.-Save-Form-button-scaled.webp)
 
-## Preview of Added Payment Method
+### Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to **Razorpay** to complete the payment process. 
 

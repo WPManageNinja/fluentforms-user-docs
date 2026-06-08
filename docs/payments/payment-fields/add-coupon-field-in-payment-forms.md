@@ -1,13 +1,13 @@
 # Add Coupon Field in Payment Forms
 
-In **Fluent Forms**, the **Coupon** feature allows you to add coupons and apply discounts to your payment form. This article will guide you through adding the **Coupon** field in your Fluent Forms for your WordPress Site. 
+The **Coupon** feature allows you to add coupons and apply discounts to your payment form. This article will guide you through adding the **Coupon** field in your Fluent Forms for your WordPress Site. 
 
 > [!Note]
 > **Coupon** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Coupon Module
 
-Before starting the process of adding a coupon field, you need to enable the **Coupon Module**. To learn how to enable the **Coupon Module**, follow the steps with the screenshots below – 
+Before starting the process of adding a coupon field, you need to enable the **Coupon Module**. 
 
 First, go to **Global** **Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, click the **Coupons**, and press the **Enable Coupon Module** button. 
 
@@ -19,33 +19,33 @@ If you don’t have an existing coupon on the available Coupons page, create a n
 
 ![Add Coupon Button](/images/payments/payment-fields/add-coupon-field-in-payment-forms/2.-Add-new-coupon-button-scaled.webp)
 
-**Now, fill in the following necessary information to create a new coupon code:**
+Now, fill in the following necessary information to create a new coupon code:
 
-**A. Coupon Title:** Add a name for your coupon into this field so that you can find it easily later.
+ **A. Coupon Title:** Add a name for your coupon into this field so that you can find it easily later. 
 
-**B. Coupon Code:** Put your coupon code in the Coupon Code box, such as FluentForm10. You can add only alphabets or numbers as coupon codes. 
+ **B. Coupon Code:** Put your coupon code in the Coupon Code box, such as FluentForm10. You can add only alphabets or numbers as coupon codes. 
 
-**C. Discount Type:** Here, you can select your discount type either based on Percent or a fixed amount.
+ **C. Discount Type:** Here, you can select your discount type either based on Percent or a fixed amount.
 
-**D. Discount Amount/Percent:** Here, enter the amount/percent you want to give a Discount to your coupon users.
+ **D. Discount Amount/Percent:** Here, enter the amount/percent you want to give a Discount to your coupon users.
 
-**E. Min Purchase Amount:** This specifies the minimum amount that must be purchased to receive any discount. Leave blank if there is no minimum amount requirement.
+ **E. Min Purchase Amount:** This specifies the minimum amount that must be purchased to receive any discount. Leave blank if there is no minimum amount requirement.
 
-**F. Stackable:** Check this **Yes** box if you want this coupon code to be used with other coupons.
+ **F. Stackable:** Check this **Yes** box if you want this coupon code to be used with other coupons.
 
-**G. Start Date:** Enter the start date for this coupon in the format of yyyy-mm-dd from. Leave blank if there is no start date.
+ **G. Start Date:** Enter the start date for this coupon in the format of yyyy-mm-dd from. Leave blank if there is no start date.
 
-**H. End Date:** Enter the end date for this coupon in the format of yyyy-mm-dd as an expiry date i.e., after that, this coupon will not work. Leave blank if there is no end date. 
+ **H. End Date:** Enter the end date for this coupon in the format of yyyy-mm-dd as an expiry date i.e., after that, this coupon will not work. Leave blank if there is no end date. 
 
-**I. Applicable Forms:** Here, you can select a single or multiple forms where this coupon will be applicable. Leave this blank if you want to apply this coupon or all forms
+ **I. Applicable Forms:** Here, you can select a single or multiple forms where this coupon will be applicable. Leave this blank if you want to apply this coupon or all forms.
 
-**J. Coupon Limit:** Here, you can set the number of times a specific user can use this coupon. Leave this field empty or enter zero if no limits are needed.
+ **J. Coupon Limit:** Here, you can set the number of times a specific user can use this coupon. Leave this field empty or enter zero if no limits are needed.
 
-**K. Success Message:** Here, you can set the success message for your coupon to send to the user after each successful coupon application. You can also use the smart codes provided right below this field.
+ **K. Success Message:** Here, you can set the success message for your coupon to send to the user after each successful coupon application. You can also use the smart codes provided right below this field.
 
-**L. Failed Message:** Use this option to set the failed messages based on different failure occurrences. 
-
-**M. Status:** Here you can set the Coupon status as Active or Inactive. 
+ **L. Failed Message:** Use this option to set the failed messages based on different failure occurrences. 
+ 
+ **M. Status:** Here you can set the Coupon status as Active or Inactive. 
 
 Once you are done, click the **Save Coupon** button and the coupon will be created.
 
@@ -59,9 +59,7 @@ Also, you can **edit/delete** any coupon anytime if needed by clicking the **Pen
 
 ## Integrate Coupon Field in a Form
 
-To learn how to add the **Coupon Field** in a specific form, follow the steps with screenshots below – 
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form editor.
 
 For example, I choose an existing form to show the whole process.
 
@@ -77,9 +75,9 @@ You can see that a coupon field is added to a payment form. You can edit this fi
 
 It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
 
-1. Coupon
+**1. Coupon**
 
-2. Advanced Options
+**2. Advanced Options**
 
 ![Input Customization Tab](/images/payments/payment-fields/add-coupon-field-in-payment-forms/7.-Input-Customization-tab-scaled.webp)
 
@@ -101,7 +99,7 @@ All the **Settings** under the **Coupon** tab mentioned in the screenshot are br
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Each option in the **Advanced Options** tab is explained below.
 
 **a. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -123,7 +121,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ![Save Coupon Field in Payment](/images/payments/payment-fields/add-coupon-field-in-payment-forms/10.-Save-Form-scaled.webp)
 
-## Preview of Coupon Field
+### Preview of Coupon Field
 
 Here, is the preview of the added Coupon field under the Payment Form.
 

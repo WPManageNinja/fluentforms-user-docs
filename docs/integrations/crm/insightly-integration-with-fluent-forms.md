@@ -9,9 +9,7 @@ This article will guide you through integrating **Insightly** with **Fluent Form
 
 ## Enable the Insightly Integration
 
-To learn how to enable Insightly integration, follow the steps with the screenshots below – 
-
-First, navigate to **Integrations** from the Fluent Forms Navbar, search for **Insightly** using the search bar, and install the **Insightly integration module**.
+Navigate to **Integrations** from the Fluent Forms Navbar, search for **Insightly** using the search bar, and install the **Insightly integration module**.
 
 Now, turn on the **Toggle** to enable the **Insightly** module and click the **Settings Icon** on the right.
 
@@ -21,7 +19,7 @@ Once you enable **Insightly**, you will be asked for the **Insightly API URL** a
 
 ![Configuratrioin Insighjtly](/images/integrations/crm/insightly-integration-with-fluent-forms/Configuratrioin-insighjtly-02.webp)
 
-### Get the Insightly API URL and Insightly API Key
+## Get the Insightly API URL and Insightly API Key
 
 To learn how to get the **API URL** and **API Key** from Insightly, follow the steps with screenshots below –
 
@@ -35,7 +33,7 @@ Now, copy the **API Key** & **API URL** **( https://api.na1.insightly.com/ )** l
 
 ![Copy API Keyapi URL](/images/integrations/crm/insightly-integration-with-fluent-forms/Copy-API-keyAPI-URl-04.webp)
 
-### Connect Insightly with Fluent Forms
+## Connect Insightly with Fluent Forms
 
 Then, return to the **Insightly Settings** page under the **Global Settings Configure Integration tab** from the **Fluent Forms Navbar**.
 
@@ -51,17 +49,21 @@ Here, you can see your **Insightly API integration is up and running**. To disco
 
 ### Integrate Insightly into Fluent Forms
 
-To learn how to integrate Insightly into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Insightly, and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Edit Insightly Integration](/images/integrations/crm/insightly-integration-with-fluent-forms/Edit-Form-07-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Insightly Integration** feed from the dropdown list. 
 
 ![Add Integration Insightly Integration](/images/integrations/crm/insightly-integration-with-fluent-forms/Add-new-Integration-08-scaled.webp)
 
-### Configure Insightly Integration Feed
+## Configure Insightly Integration Feed
 
 **A. Feed Name**: Enter a name for your Insightly integration feed.
 **B. Insightly Services:** Select the **Insightly** Services you want to map to. Click the **Dropdown Arrow** to add mapping values. Here, you can choose one of the options below: **Contact**, **Opportunity**, **Lead, Organization**, **Project**, **Task**, etc. 

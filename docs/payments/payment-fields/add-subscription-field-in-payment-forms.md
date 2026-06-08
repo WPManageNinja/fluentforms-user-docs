@@ -1,13 +1,11 @@
 # Add Subscription Field in Payment Forms
 
-In **Fluent Forms**, the **Subscription** field allows you to create forms with **Subscription** **Items** to accept **Recurring Payments.** This article will guide you through adding the **Subscription** field in your Fluent Forms for your WordPress Site.
+The **Subscription** field allows you to create forms with **Subscription** **Items** to accept **Recurring Payments.** This article will guide you through adding the **Subscription** field in your Fluent Forms for your WordPress Site.
 
 > [!Note]
 > **Subscription** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
 ## Add Subscription Field
-
-To learn how to add the Subscription field to the Fluent Forms, follow the steps with the screenshots below –  
 
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
@@ -26,9 +24,9 @@ You can see that a **Subscription** field is added to the form. You can edit thi
 
 It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
 
-1. Subscriptions
+**1. Subscriptions**
 
-2. Advanced Options
+**2. Advanced Options**
 
 ![Input Customization Tab](/images/payments/payment-fields/add-subscription-field-in-payment-forms/3.-Input-Customization-tab-2-scaled.webp)
 
@@ -36,9 +34,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 Here, you will get various settings options for customizing the field. 
 
-![Subscription Customization Tab](/images/payments/payment-fields/add-subscription-field-in-payment-forms/4.-Subscription-customization-tab-scaled.webp)
-
-**All the Settings under the Subscription mentioned above are briefly explained below –** 
+![Subscription Customization Tab](/images/payments/payment-fields/add-subscription-field-in-payment-forms/4.-Subscription-customization-tab-scaled.webp) 
 
 #### A. Element Label
 
@@ -54,43 +50,33 @@ The admin field label is a field title displayed only to admin users. That means
 
 #### D. Subscription Type
 
-Here, you will get two different **Subscription Types** to set your pricing plan for the subscription payment. These are:
+Choose how pricing is presented to users. Fluent Forms offers two subscription types:
 
-1. Single Recurring Plan
+- **Single Recurring Plan** — One plan with a fixed billing schedule.
+- **Multiple Pricing Plans** — Several plans for users to choose from.
 
-2. Multiple Pricing Plans
+##### Single Recurring Plan
 
-##### 1. Single Recurring Plan:
+Use this option when you offer one recurring plan. Configure these settings:
 
-Select this plan if you want to offer one pricing plan to your users for collecting payments. Plus, configure the following options as per your needs.
-
-- Plan Name: Give the name of your plan in this field.
-
-- Price Billing: Here, set the price for your subscription.
-
-- Billing Interval: Here, set the billing interval as Daily, Weekly, Monthly, or Yearly for the subscription.
-
-- Enable User Input Amount: Enable this feature to customize the pricing plan by setting a fixed Minimum and Default amount, along with a Label for this amount.
-
-- Has Signup Fee?: Enable this option if you want to set a custom amount as a Signup Fee. This amount will be deducted from customers’ accounts once they sign up on your website.
-
-- Has Trial Days?: Enable this option to offer users a trial period without a subscription fee.
-
-- Total Billing Times: Here, you can set how many times your website will pull funds from customers’ accounts. Keep the field blank or put 0 (Zero) for billing for an unlimited time.
+- **Plan Name:** Enter the name shown to users.
+- **Price Billing:** Set the subscription price.
+- **Billing Interval:** Choose **Daily**, **Weekly**, **Monthly**, or **Yearly**.
+- **Enable User Input Amount:** Let users enter a custom amount within your minimum and default limits. Add a **Label** for the amount field.
+- **Has Signup Fee?:** Charge a one-time signup fee when the user subscribes.
+- **Has Trial Days?:** Offer a free trial before billing starts.
+- **Total Billing Times:** Set how many times to bill the customer. Leave blank or enter **0** for unlimited billing.
 
 ![Single Recurring Plan](/images/payments/payment-fields/add-subscription-field-in-payment-forms/5.-Single-recurring-plan.webp)
 
-##### 2. Multiple Pricing Plans
+##### Multiple Pricing Plans
 
-Select this option if you want to offer multiple pricing plans to your users to choose one plan when making a subscription. Plus, configure the following options as per your needs.
+Use this option when you offer more than one plan. Configure these settings:
 
-1. Plan Display Type: With this option, you can select whether you want to set the item selection type using a radio button or select the input field (dropdown list).
+- **Plan Display Type:** Choose **Radio Button** or **Dropdown** for how users select a plan.
+- **Pricing Plans:** Each plan uses the same options as a **Single Recurring Plan**.
 
-1. Pricing Plans: The pricing plan for this option works exactly similarly to the pricing plan for the Single Recurring Plan.
-
-To add multiple pricing plans, click the **Add New Plan** button, and to delete any item, click the **Trash** icon in the right corner of the section. 
-
-Also, if you want a pricing plan to be selected by default from all your pricing plans, enable the **Default** **Toggle** for that plan. 
+Click **Add New Plan** to add a plan, or click the **Trash** icon to remove one. Enable the **Default** toggle on a plan to pre-select it.
 
 ![Multiple Pricing Plan](/images/payments/payment-fields/add-subscription-field-in-payment-forms/6.-Multiple-Pricing-Plan.webp)
 
@@ -100,7 +86,7 @@ Select the **Yes** radio button to make this field mandatory for users to fill i
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Each option in the Advanced Options tab is explained below
 
 **A. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -129,7 +115,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ![Save Subscription Field in Payment](/images/payments/payment-fields/add-subscription-field-in-payment-forms/9.-Save-Form-scaled.webp)
 
-## Preview of Subscription field
+### Preview of Subscription field
 
 Here, is the preview of the added **Subscription** field under the Payment Form. 
 

@@ -7,8 +7,6 @@ Integrating SendFox with **Fluent Forms** allows you to build your SendFox email
 
 ## Enable SendFox Integration
 
-To learn how to enable SendFox integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **SendFox** through the search bar, and get the **SendFox** integration module. 
 
 Now, turn on the **Toggle** to enable the **SendFox**. Then, you will see the SendFox’s **Settings Icon** on the right side, click on it.
@@ -58,10 +56,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate SendFox into Fluent Forms
 
-To learn how to integrate SendFox into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **SendFox** and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Open Settings Integrate SendFox](/images/integrations/email-marketing/how-to-integrate-sendfox-with-fluent-forms/9.-Open-desired-form-settings-2-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **SendFox Integration** from the dropdown list. 
@@ -75,17 +77,21 @@ Also, you must select the **SendFox Mailing List** from the dropdown where you w
 
 Once you select the list, a pop-up page will appear with various settings options for configuring the SendFox.
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-1. Name: Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
+2. **SendFox Mailing Lists:** Using the Arrow Icon, you can select the SendFox Mailing List where you want to add your contacts. You can also change this anytime if needed
 
-1. SendFox Mailing Lists: Using the Arrow Icon, you can select the SendFox Mailing List where you want to add your contacts. You can also change this anytime if needed
+3. **Map Fields:** Use all the fields under this option to properly link your SendFox Fields with the Form Fields. You can easily select the value for the Form Fields based on the SendFox fields using the Shortcode Arrow.
 
-1. Map Fields: Use all the fields under this option to properly link your SendFox Fields with the Form Fields. You can easily select the value for the Form Fields based on the SendFox fields using the Shortcode Arrow.
+4. **Conditional Logics:** This option allows SendFox integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
+<<<<<<< HEAD
 1. Conditional Logics: This option allows SendFox integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+=======
+5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+>>>>>>> tajulauthlab
 
 Once the setup is done, finally, click the **Save Feed** button. And, your SendFox will be integrated into this specific form!
 

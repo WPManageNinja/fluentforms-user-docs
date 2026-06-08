@@ -7,8 +7,6 @@ Integrating **CleverReach** with **Fluent Forms** allows you to grow your Clever
 
 ## Enable CleverReach Integration
 
-To learn how to enable CleverReach integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **CleverReach** through the search bar, and get the **CleverReach** integration module.
 
 Now, turn on the **Toggle** to enable the **CleverReach**.
@@ -75,10 +73,14 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate CleverReach into Fluent Forms
 
-To learn how to integrate CleverReach into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **CleverReach,** and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Open Settings Integrate CleverReach](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/Open-Desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **CleverReach Integration** feed from the dropdown list. 
@@ -92,17 +94,21 @@ Also, you need to select the **CleverReach List** from the dropdown where you wa
 
 Once you select the form, a pop-up page will appear with various settings options for configuring the CleverReach.
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** From here, you can change the name anytime if needed.
 
-1. Name: From here, you can change the name anytime if needed.
+2. **CleverReach List:** From here, you can change the CleverReach List anytime if needed.
 
-1. CleverReach List: From here, you can change the CleverReach List anytime if needed.
+3. **Map Fileds:** Use this option to properly link your CelverReach Field with the Form Field. You can easily select the value for the Form field based on the CelverReach Field using the Shortcode Arrow.
 
-1. Map Fileds: Use this option to properly link your CelverReach Field with the Form Field. You can easily select the value for the Form field based on the CelverReach Field using the Shortcode Arrow.
+4. **Conditional Logics:** This option allows CleverReach integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
+<<<<<<< HEAD
 1. Conditional Logics: This option allows CleverReach integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+=======
+5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+>>>>>>> tajulauthlab
 
 Once the setup is done, finally, click the **Save Feed** button.
 And, your CleverReach will be integrated into this specific form!

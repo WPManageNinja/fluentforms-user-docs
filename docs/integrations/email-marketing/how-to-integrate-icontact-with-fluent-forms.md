@@ -13,8 +13,6 @@ This article will guide you through integrating **iContact** with **Fluent Forms
 
 ## Enable iContact Integration
 
-To learn how to enable iContact integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **iContact** through the search bar, and get the **iContact** integration module.
 
 Now, turn on the **Toggle** to enable the **iContact**. 
@@ -24,7 +22,8 @@ Then, you will see the iContact’s **Settings Icon** on the right side, click o
 
 Once you enable iContact, you will be asked for the necessary information (**iContact Application key, Account Email Address, API Password, Account ID,** and **Client Folder ID)** of your **iContact Account**.
 
-> If you don’t have any existing account, click the sign up for one here link to create a new one.
+> [!Note]
+> If you do not have an iContact account, [create one here](https://www.icontact.com/).
 
 ![Icontact API Settings](/images/integrations/email-marketing/how-to-integrate-icontact-with-fluent-forms/2.-iContact-API-Settings-scaled.webp)
 
@@ -69,10 +68,14 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate iContact into Fluent Forms
 
-To learn how to integrate iContact into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **iContact** and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Open Settings Integrate iContact](/images/integrations/email-marketing/how-to-integrate-icontact-with-fluent-forms/Open-Desired-Form-Settings-2-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **iContact Integration** feed from the dropdown list. 
@@ -86,17 +89,21 @@ Also, you must select the **iContact List** from the dropdown where you want to 
 
 Once you select the list, a pop-up page will appear with various settings options for configuring the iContact.
 
-**All the settings options mentioned in the screenshot below are briefly explained:**
+1. **Name:** From here, you can change the name anytime if needed.
 
-1. Name: From here, you can change the name anytime if needed.
+2. **iContact List:** From here, you can change the iContact List anytime if needed.
 
-1. iContact List: From here, you can change the iContact List anytime if needed.
+3. **Map Fileds:** Use all the fields under this option to properly link your iContact Fields with the Form Fields. You can easily select the value for the Form Fields based on the iContact fields using the Shortcode Arrow.
 
-1. Map Fileds: Use all the fields under this option to properly link your iContact Fields with the Form Fields. You can easily select the value for the Form Fields based on the iContact fields using the Shortcode Arrow.
+4. **Conditional Logics:** This option allows iContact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
+<<<<<<< HEAD
 1. Conditional Logics: This option allows iContact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+=======
+5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+>>>>>>> tajulauthlab
 
 Once the setup is done, finally, click the **Save Feed** button.
 And, your iContact will be integrated into this specific form!

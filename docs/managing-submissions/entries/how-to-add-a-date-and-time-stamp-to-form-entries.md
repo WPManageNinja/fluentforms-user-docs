@@ -20,8 +20,10 @@ To add a more customized timestamp to your forms, open the form editor and add a
 
 Now click the **three-dot menu** in the **Input Customization** section. Select one of the predefined formats:
 
-`Date (mm/dd/yyyy)
-Date (dd/mm/yyyy)`
+```
+Date (mm/dd/yyyy)
+Date (dd/mm/yyyy)
+```
 
 After setting the desired format, click the **Save Form** button.
 

@@ -4,9 +4,7 @@ In **Fluent Forms**, the **Custom Amount** field allows users to pay any amount 
 
 ## Add Custom Payment Amount Field
 
-To learn how to add the Custom Payment Amount field to the Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+Go to **Forms** from the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form **editor**.
 
 For example, I choose an existing form to show the whole process.
 
@@ -31,7 +29,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ### 1. Custom Payment Amount
 
-Here, you will get various settings options for customizing the field. All the **Settings** under the **Custom Payment Amount** tab mentioned in the screenshot are briefly explained below – 
+Here, you will get various settings options for customizing the field. 
 
 **A. Element Label**: This is the field title the users will see when filling out the **Item Quantity** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -51,7 +49,7 @@ Here, you will get various settings options for customizing the field. All the *
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Each option in the **Advanced Options** tab is explained below.
 
 **A. Default Value:** You can set the default quantity for selecting your items.
 
@@ -88,7 +86,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ![Save Custom Payment Amount Field](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/7.-Save-Form-scaled-2.webp)
 
-## Preview of Custom Payment Amount field
+### Preview of Custom Payment Amount field
 
 Here, is the preview of the added **Custom Payment Amount** field under the Payment Form. 
 

@@ -10,21 +10,21 @@ Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** 
 
 At the top of the **Reports** page, you will find global filters to refine the data shown in all charts.
 
-- All Forms: Use this dropdown menu to view data for all of your forms or select a specific one.
+- **All Forms:** Use this dropdown menu to view data for all of your forms or select a specific one.
 
-- Date Range: Click this filter to select a predefined time period (e.g., Last 6 months) or set a custom date range.
+- **Date Range:** Click this filter to select a predefined time period (e.g., Last 6 months) or set a custom date range.
 
 ### Overview
 
 The cards at the top of the dashboard provide a quick summary of essential activity.
 
-- Total Submissions: Here, shows the total number of entries received within the selected date range.
+- **Total Submissions:** Here, shows the total number of entries received within the selected date range.
 
-- Spam Submissions: Displays the count of form entries flagged as spam.
+- **Spam Submissions:** Displays the count of form entries flagged as spam.
 
-- Unread Submissions: Lists the number of new entries you have not yet viewed.
+- **Unread Submissions:** Lists the number of new entries you have not yet viewed.
 
-- Created Forms: Shows the total number of forms you have created.
+- **Created Forms:** Shows the total number of forms you have created.
 
 ![Reports Dashboard Overview step](/images/managing-submissions/reports/reports-dashboard-overview/01-scaled-3.webp)
 
@@ -44,11 +44,11 @@ The dashboard contains several visual charts to help you interpret your form dat
 
 ![Reports Dashboard Overview step](/images/managing-submissions/reports/reports-dashboard-overview/3-1-scaled.webp)
 
-> Note: To see Views data, ensure that the ‘Disable Form Analytics’ option is turned off. If this setting is enabled, Views will not appear in your Reports dashboard.
-> 
-> 
-> 
-> To check this option, go to Fluent Forms → Global Settings → General. Then navigate to the Layout section and scroll down to the Miscellaneous area, where you’ll find the ‘Disable Form Analytics’ option. Simply disable it to start viewing the Views data.
+> [!Note]
+> To see **Views** data, turn off **Disable Form Analytics**. When this setting is enabled, **Views** will not appear in your Reports dashboard.
+
+> [!Note]
+> Open **Global Settings** from the Fluent Forms navbar, go to the **General** tab, and scroll to **Miscellaneous** under **Layout**. Disable **Disable Form Analytics** to start viewing **Views** data.
 
 ![1536x273](/images/managing-submissions/reports/reports-dashboard-overview/image-1-1536x273-1.webp)
 
@@ -58,11 +58,11 @@ You can use the **AM (12-11)** or **PM (12-11)** toggles at the top right to foc
 
 **API Logs:** Use this chart to monitor the operational status of your third-party integrations. You can filter the view by status:
 
-- Success: Shows API calls that were completed.
+- **Success:** Shows API calls that were completed.
 
-- Processing: Indicates calls that are still pending.
+- **Processing:** Indicates calls that are still pending.
 
-- Failed: Highlights any API calls that encountered an error, allowing you to quickly identify and troubleshoot integration problems.
+- **Failed:** Highlights any API calls that encountered an error, allowing you to quickly identify and troubleshoot integration problems.
 
 ![Reports Dashboard Overview step](/images/managing-submissions/reports/reports-dashboard-overview/3-2-scaled.webp)
 

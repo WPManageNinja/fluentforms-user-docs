@@ -9,8 +9,6 @@ This article will guide you through integrating **Drip** with **Fluent Forms** o
 
 ## Enable the Drip Integration
 
-To learn how to enable Drip integration, follow the steps with the screenshots below – 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Drip** through the search bar, and get the **Drip integration module**.
 
 Now, turn on the **Toggle** to enable the **Drip** module and click the **Settings Icon** on the right.
@@ -23,9 +21,7 @@ Once you enable **Drip**, you will be asked for the **Drip API Token** and **Dri
 
 ## Get the Drip Credentials
 
-To learn how to get the **API Token** and **Account ID** from Drip, follow the steps with screenshots below –
-
-First, log in to your[ Drip account](https://www.drip.com/), go to **Settings** from the left sidebar, select the **Integrations** sections, and click the **Create Integration** button at the top right corner. 
+Log in to your[ Drip account](https://www.drip.com/), go to **Settings** from the left sidebar, select the **Integrations** sections, and click the **Create Integration** button at the top right corner. 
 
 Now, Click the **Setting** section from the bottom left corner and click the **User settings** options.
 
@@ -59,10 +55,14 @@ Here, you can see your **Drip API integration is up and running**. To disconnect
 
 ### Integrate Drip into Fluent Forms
 
-To learn how to integrate Drip into any specific Form in Fluent Forms, follow the steps with the screenshots below –
-
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Drip and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Setting Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/form-setting-07-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Drip Integration** feed from the dropdown list. 
@@ -89,7 +89,7 @@ Also you can add multiple fields dynamically with click the **Plus Icon**.
 
 **H. EU Consent:** If you select the Default option, your GDPR consent is not granted. If you select the Granted option, your GDPR consent is granted. To collect consent directly on the form, add a [GDPR agreement field](/docs/gdpr-agreement-field-in-fluent-forms).
 
-I**. Status:** Enable this feed option to activate the integration.
+I. **Status:** Enable this feed option to activate the integration.
 
 Once the setup is done, finally, click the **Save Feed** button.
 

@@ -9,8 +9,6 @@ This article will step by step guide you through integrating Zoho CRM with Fluen
 
 ## Enable the Zoho CRM Integration
 
-To learn how to enable Zoho CRM integration, follow the easy steps with the screenshots below- 
-
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Zoho CRM** through the search bar, and get the **ZohoCRM integration module**.
 
 Now, turn on the **Toggle** to enable the **ZohoCRM** module and click the **Settings Icon** on the right.
@@ -27,9 +25,7 @@ If you don’t have an existing account or application registered, click[ **Zoho
 
 ## Get the Zoho CRM Credentials
 
-To learn how to get the **Account URL, Zoho CRM Client ID,** and **Zoho CRM Client Secret** from Zoho CRM, follow the steps below –
-
-Choose the client type that **Server-based Applications** from the **API Console**.
+First, choose the client type that **Server-based Applications** from the **API Console**.
 
 ![Choose Server Type](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/choose-server-type-02-1-scaled.webp)
 
@@ -65,10 +61,14 @@ Here, you will see that your **Zoho CRM API integration is up and running**. You
 
 ## Integrate Zoho CRM into Fluent Forms
 
-To learn how to integrate Zoho CRM into any specific Form in Fluent Forms, follow the easy steps below –
-
 First, go to **Forms** from the **Fluent Forms Navbar**, select the **Desired Form** where you want to integrate your Zoho CRM and click the **Settings** button. 
 
+<<<<<<< HEAD
+=======
+> [!Note]
+> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+
+>>>>>>> tajulauthlab
 ![Zoho Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Fluent-Form-Zoho-forms-10-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Zoho CRM Integration** feed from the dropdown list. 

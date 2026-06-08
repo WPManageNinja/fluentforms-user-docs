@@ -20,7 +20,12 @@ This option is perfect for when you need the form to act (like sending an [email
 
 In the **Compliance Settings**, check the box next to **Delete entry data after form submission**.
 
+<<<<<<< HEAD
 > Important: When this option is enabled, the entry is deleted immediately. This means no entry data, analytics, or [visual reporting](/docs/visual-representation-of-form-entries-in-fluent-forms) will be saved or available for this form.
+=======
+> [!Warning]
+> When enabled, entries are deleted immediately after submission. Fluent Forms will not store entry data, analytics, or visual reports for this form.
+>>>>>>> tajulauthlab
 
 After that, click the **Save Settings** button to apply the change.
 
@@ -39,5 +44,3 @@ After that, click the **Save Settings** button to activate your new auto-deletio
 ![Enable Auto Delete Old Entries Automatically Delete Form Entries](/images/managing-submissions/entries/automatically-delete-form-entries/enable-auto-delete-old-entries-04-scaled.webp)
 
 And that's it! You've successfully set up your form to automatically manage its entries. You can change these settings anytime by simply unchecking the box and saving the form.
-
->
