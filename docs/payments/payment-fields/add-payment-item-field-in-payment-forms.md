@@ -1,6 +1,6 @@
 # Add Payment Item Field in Payment Forms
 
-In **Fluent Forms**,  the **Payment Item** field allows you to showcase single or multiple **Items (Products)** options in your form, allowing users to select and buy their desired Item/s that exist in the form.
+**Payment Item** field allows you to showcase single or multiple **Items (Products)** options in your form, allowing users to select and buy their desired Item/s that exist in the form.
 
 This article will guide you through adding the **Payment Item** field in your Fluent Forms for your WordPress Site.
 
@@ -8,7 +8,8 @@ This article will guide you through adding the **Payment Item** field in your Fl
 
 Go to **Forms** from the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form editor.
 
-For example, I choose an existing form to show the whole process.
+> [!Note]
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 ![Open Payment Item Field in](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/1.-Open-desired-form-4-scaled.webp)
 
@@ -103,32 +104,16 @@ Select the **Yes** radio button to make this field mandatory for users to fill i
 
 ### 2. Advanced Options
 
-<<<<<<< HEAD
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
-
-**A. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
-
-**B. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
-
-**C. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
-
-**D. Layout**: Select the Layout for checkable items. 
-
-**E. Dynamic Default Value**: If you would like to pre-populate the value of a field, enter it here. To learn more, read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
-
-**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
-=======
  * **A. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
  * **B. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
  * **C. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
  * **D. Layout**: Select the Layout for checkable items. 
  * **E. Dynamic Default Value**: If you would like to pre-populate the value of a field, enter it here.
  * **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/9.-Advanced-Options-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
+Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](https://fluentforms.com/wp-admin/post.php?post=48578&action=edit) field.
 
 > [!Note]
 > Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
