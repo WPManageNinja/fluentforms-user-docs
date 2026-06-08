@@ -134,7 +134,7 @@ On this page, you will also get **Three** major **Payment Method Settings** opti
 
  * **1. Stripe:** To learn more details about the Stripe Settings, [click here](/docs/how-to-integrate-stripe-with-fluent-forms).
 
- * **2. PayPal:** To learn more details about the PayPal Settings, [click here](docs/how-to-integrate-paypal-with-fluent-forms).
+ * **2. PayPal:** To learn more details about the PayPal Settings, [click here](/docs/how-to-integrate-paypal-with-fluent-forms).
 
  * **3. Paddle:** To learn more details about the Paddle Settings, [click here](/docs/how-to-integrate-paddle-with-fluent-forms).
 

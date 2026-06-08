@@ -1,12 +1,10 @@
 # Add Payment Method Field in Payment Forms
 
-In **Fluent Forms**, the **Payment Method** field allows you to create forms to accept **Payments** through different payment platforms. This article will guide you through adding the **Payment Method** field to your WordPress Site's Fluent Forms.
+The **Payment Method** field allows you to create forms to accept **Payments** through different payment platforms. This article will guide you through adding the **Payment Method** field to your WordPress Site's Fluent Forms.
 
 ## Add Payment Method Field
 
-To learn how to add the Payment Method field to the Fluent Forms, follow the steps with the screenshots below –  
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Payment Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
+To add a payment method, go to **Forms** from the Fluent Forms navbar, open your **payment form**, and click the **Edit** icon to open the form editor.
 
 > [!Note]
 > If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
@@ -24,15 +22,15 @@ You can see that a **Payment Method** field is added to the form. You can edit t
 
 It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
 
-1. Payment Method
+**1. Payment Method**
 
-2. Advanced Options
+**2. Advanced Options**
 
 ![Input Customization Fluent Forms](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/3.-Input-Customization-scaled.webp)
 
 ### 1. Payment Method
 
-Here, you will get various settings options for customizing the field. All the **Settings** under the **Payment Method** tab mentioned in the screenshot are briefly explained below – 
+Here, you will get various settings options for customizing the field. Each option in the **Payment Method** tab is explained below below – 
 
 **A. Element Label**: This is the field title the users will see when filling out the **Item Quantity** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -40,7 +38,10 @@ Here, you will get various settings options for customizing the field. All the *
 
 **C. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default.** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
-- Payment Methods: Here you will get all the available Payment Method Platforms. Now, select the desired Payment Platform/s by clicking the Checkbox/es that you want to use for collecting payments through the form submissions.But, remember, the added payment method/s in your Form will not function unless you properly complete the payment configuration process. To learn the detailed guidelines on How to configure Payment methods in Fluent Forms, read all the documentation under the Payment Integration category thoroughly.
+   - **Payment Methods:** Here you will get all the available Payment Method Platforms. Now, select the desired Payment Platform/s by clicking the Checkbox/es that you want to use for collecting payments through the form submissions.
+   
+> [!Note]
+> Selected payment methods will not work until you complete payment configuration. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms), then follow the guide for your chosen gateway.
 
 **D. Default Value:** If you would like to pre-populate the value of a field, enter it here. [View All the smart codes here](/docs/form-editor-smart-codes).
 
@@ -50,7 +51,7 @@ Here, you will get various settings options for customizing the field. All the *
 
 ### 2. Advanced Options
 
-All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below – 
+Each option in the **Advanced Options** tab is explained below.
 
 **A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -70,7 +71,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ![Save Payment Method Field in](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/6.-Save-Form-scaled.webp)
 
-## Preview of Payment Method field
+### Preview of Payment Method field
 
 Here, is the preview of the added **Payment Method** field under the Payment Form. 
 

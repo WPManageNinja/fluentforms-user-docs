@@ -64,7 +64,7 @@ Now, go to your desired payment platform/s and check the **Enable** **Payment** 
 
 You can also customize the payment settings **globally** for all forms or **individually** for each form based on your needs.
 
-> To learn the detail process of how to customize the payment settings, read this [Documentation](/docs/configure-payment-settings-with-fluent-forms/).
+> To learn the detail process of how to customize the payment settings, read this [Documentation](/docs/configure-payment-settings-with-fluent-forms).
 
 ## Integrating Form in WordPress Site
 
