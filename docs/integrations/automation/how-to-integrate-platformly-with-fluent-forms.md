@@ -9,7 +9,7 @@ This article will guide you through integrating **Platformly** with **Fluent For
 
 ## Enable Platformly Integration
 
-First, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **Platformly** through the search bar, and get the **Platformly** integration module.
+Go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **Platformly** through the search bar, and get the **Platformly** integration module.
 
 Now, turn on the **Toggle** to enable the **Platformly** module, and click the **Settings Icon** on the right side. 
 
@@ -46,9 +46,7 @@ Also, you can **Edit/Delete** the API Key anytime by clicking the **Three-Dot Ic
 
 ### Getting the Platformly Project ID
 
-To learn how to get the  **Platformly Project ID** from **Platformly**, follow the steps with screenshots below – 
-
-Again go to the **Profile Icon** in the top right corner, open the **Dropdown Arrow**, and click the **Setup** option.   
+From the **Profile Icon** in the top right corner, open the **Dropdown Arrow**, and click the **Setup** option.   
 
 ![Setup Option Fluent Forms](/images/integrations/automation/how-to-integrate-platformly-with-fluent-forms/7.-Setup-option-scaled.webp)
 
@@ -121,7 +119,7 @@ You can modify your feed anytime by clicking the **Settings Icon,** and delete i
 
 ![Added Platformly Integration Feed](/images/integrations/automation/how-to-integrate-platformly-with-fluent-forms/15.-Added-Platformly-Integration-Feed-scaled.webp)
 
-## Preview of Integrated Platformly
+### Preview of Integrated Platformly
 
 Here, you can see the preview of the added Platformly Segments through the Form Entries based on the Integration.
 

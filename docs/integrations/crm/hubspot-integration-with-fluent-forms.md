@@ -53,7 +53,7 @@ A pop-up will appear. Select the **crm.objects.contacts.read** and **crm.objects
 
 ![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/2.png)
 
-Now, click the Create app button in the top right corner.
+Now, click the **Create app** button in the top right corner.
 
 ![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/3.png)
 
@@ -65,7 +65,7 @@ A new window will appear. Select **Auth** and copy the **Access Token**, as youâ
 
 ![Copy Access Token](/images/integrations/crm/hubspot-integration-with-fluent-forms/Copy-access-token-04-scaled.webp)
 
-### Connect Hubspot with Fluent Forms
+## Connect Hubspot with Fluent Forms
 
 Then, return to the **Hubspot Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
 
@@ -79,7 +79,7 @@ You can also **Disconnect** Hubspot API here by clicking the **Disconnect Hubspo
 
 ![Dissconnected Hubspot](/images/integrations/crm/hubspot-integration-with-fluent-forms/dissconnected-hubspot-11-scaled.webp)
 
-### Configure the Form with Hubspot
+## Configure the Form with Hubspot
 
 After setting up the Access Token, go to **All Forms** and select the form you want to integrate with the HubSpot account or create a new One.
 
@@ -95,7 +95,7 @@ Now, go to the particular formâ€™s settings for the entries you want listed in *
 
 ![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/41.webp)
 
-### Configure Hubspot Integration Feed
+## Configure Hubspot Integration Feed
 
 **A. Name:** Enter a unique feed name.
 

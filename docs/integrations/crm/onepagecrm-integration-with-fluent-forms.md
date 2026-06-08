@@ -22,8 +22,6 @@ Once you enable OnePageCRM, you will be asked for the **OnePageCrm User ID** and
 
 ## Get the OnePageCrm Credential
 
-To learn how to get the **User ID** and **Api Key** from OnePageCrm, follow the steps below –
-
 First, log in to your [OnePageCrm Account](https://app.onepagecrm.com/app/api), go to **Profile** from the top right corner, and select the **Apps and Integrations** sections. 
 
 ![Apps And Integration](/images/integrations/crm/onepagecrm-integration-with-fluent-forms/apps-and-integration-03-scaled.webp)
@@ -63,7 +61,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 ![Add Ne Integration OnePageCRM Integration](/images/integrations/crm/onepagecrm-integration-with-fluent-forms/add-ne-integration-09-scaled.webp)
 
-### Configure OnePageCRM Integration Feed
+## Configure OnePageCRM Integration Feed
 
 **A. Feed Name**: Enter a name for your OnePageCRM integration feed.
 

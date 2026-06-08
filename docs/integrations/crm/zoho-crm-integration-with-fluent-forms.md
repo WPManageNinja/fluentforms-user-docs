@@ -25,9 +25,7 @@ If you don’t have an existing account or application registered, click[ **Zoho
 
 ## Get the Zoho CRM Credentials
 
-To learn how to get the **Account URL, Zoho CRM Client ID,** and **Zoho CRM Client Secret** from Zoho CRM, follow the steps below –
-
-Choose the client type that **Server-based Applications** from the **API Console**.
+First, choose the client type that **Server-based Applications** from the **API Console**.
 
 ![Choose Server Type](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/choose-server-type-02-1-scaled.webp)
 

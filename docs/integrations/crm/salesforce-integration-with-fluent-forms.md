@@ -80,7 +80,7 @@ Then, return to the **salesforce Settings** page under the **Global Settings Con
 
 Paste your Salesforce **Domain URL**, **Consumer Key**, and **Consumer Secret** to **Salesforce's** **Global settings** tab and click the **Save Settings** button.
 
-Press the **Save Settings** button to make your **Salesforce Integration** module functional.
+Click the **Save Settings** button to make your **Salesforce Integration** module functional.
 
 ![Paste Consumer](/images/integrations/crm/salesforce-integration-with-fluent-forms/paste-consumer-10-scaled.webp)
 
@@ -111,11 +111,11 @@ Once you select the Salesforce services, a pop-up page with various settings opt
 
 **A. Feed Name:** Enter a name for your Salesforce integration feed.
 
-**B.** **Salesforce** **Services**: Using the **Arrow** **Icon**, you can select the Salesforce Services where you want to add your contacts. You can also change this anytime on your use case. 
+**B. Salesforce Services**: Using the **Arrow Icon**, you can select the Salesforce Services where you want to add your contacts. You can also change this anytime on your use case. 
 
 Here, I will select Salesforce service **Contact** options. You can choose **Salesforce Services** from the drop-down menu. Now, I am mapping the field with Salesforce. 
 
-**C.** **Conditional Logic:** If you want to allow **Salesforce** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the[ article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**C. Conditional Logic:** If you want to allow **Salesforce** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the[ article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **D. Status:** Enable this feed option to activate the integration.
 
@@ -129,7 +129,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 ![Add Integration Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/add-new-integration-15-scaled.webp)
 
-## Preview of Integrated Salesforce
+### Preview of Integrated Salesforce
 
 Here, you can see a preview of the added Salesforce contacts through the Form entries that I set up during the integration.
 

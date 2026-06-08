@@ -21,9 +21,7 @@ Once you enable **Drip**, you will be asked for the **Drip API Token** and **Dri
 
 ## Get the Drip Credentials
 
-To learn how to get the **API Token** and **Account ID** from Drip, follow the steps with screenshots below –
-
-First, log in to your[ Drip account](https://www.drip.com/), go to **Settings** from the left sidebar, select the **Integrations** sections, and click the **Create Integration** button at the top right corner. 
+Log in to your[ Drip account](https://www.drip.com/), go to **Settings** from the left sidebar, select the **Integrations** sections, and click the **Create Integration** button at the top right corner. 
 
 Now, Click the **Setting** section from the bottom left corner and click the **User settings** options.
 
@@ -88,7 +86,7 @@ Also you can add multiple fields dynamically with click the **Plus Icon**.
 
 **H. EU Consent:** If you select the Default option, your GDPR consent is not granted. If you select the Granted option, your GDPR consent is granted.
 
-I**. Status:** Enable this feed option to activate the integration.
+I. **Status:** Enable this feed option to activate the integration.
 
 Once the setup is done, finally, click the **Save Feed** button.
 

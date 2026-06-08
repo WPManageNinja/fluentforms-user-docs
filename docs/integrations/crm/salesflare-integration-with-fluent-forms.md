@@ -52,7 +52,7 @@ Here, you will see that your **Salesflare API integration is up and running**. T
 
 ![Disconnect Salesflare](/images/integrations/crm/salesflare-integration-with-fluent-forms/disconnect-salesflare-06-scaled.webp)
 
-### Integrate Salesflare into Fluent Forms
+## Integrate Salesflare into Fluent Forms
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your salesflare and click the **Settings** button. 
 
@@ -65,7 +65,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 ![Add Integration Salesflare Integration](/images/integrations/crm/salesflare-integration-with-fluent-forms/add-new-integration-07-scaled.webp)
 
-### Configure Salesflare Integration Feed
+## Configure Salesflare Integration Feed
 
 **A. Feed Name**: Enter a name for your Salesflare integration feed. 
 
@@ -90,6 +90,7 @@ Now, your salesflare will be integrated into this specific form!
 After successful Integration, now you will see that your Salesflare integration Feed has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
+
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Disable Or Enable Salesflare Integration](/images/integrations/crm/salesflare-integration-with-fluent-forms/Disable-or-enable-salesflare-integration-09-scaled.webp)
