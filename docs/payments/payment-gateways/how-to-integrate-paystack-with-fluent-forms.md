@@ -7,9 +7,9 @@
 
 ## Enable Paystack Payment Method
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
 
-Now, go to **Paystack** in the top navbar and click **Enable PayStack Payment Method.** The **Paystack Payment Method** will be enabled globally for all forms. 
+Select **Paystack**, then click **Enable Paystack Payment Method** to activate Paystack globally for all forms. 
 
 ![Enable Paystack Module Integrate Paystack](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/1.-enable-Paystack-module-scaled.webp)
 
@@ -23,7 +23,7 @@ Then, you need to obtain the **API  Key** and **API Secret** from your **Paystac
 
 ![API Credentials Fluent Forms](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/2.-API-Credentials-scaled.webp)
 
-### Get the API Credentials from Paystack
+### Get the API Credentials 
 
 To learn how to get all the required API Credentials from your [](http://paystack.com)[](http://paystack.com)[](http://paystack.com)[Paystack](http://paystack.com), follow the steps with screenshots below – 
 
@@ -69,7 +69,7 @@ Also, to see the **Preview** of the form, click the **Preview & Design** button 
 
 ![Save Integrate Paystack](/images/payments/payment-gateways/how-to-integrate-paystack-with-fluent-forms/6.-Save-Form-scaled-2.webp)
 
-## Preview of Added Payment Method
+### Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to **Paystack** to complete the payment process. 
 

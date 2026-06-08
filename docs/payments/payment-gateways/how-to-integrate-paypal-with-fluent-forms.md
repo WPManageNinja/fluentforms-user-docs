@@ -7,9 +7,9 @@
 
 ## Enable PayPal Payment Method
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
 
-Now, go to **PayPal Standard** in the top navbar and click **Enable** **PayPal Payment Method.** The **PayPal Payment Method** will be enabled globally for all forms. 
+Select **PayPal Standard**, then click **Enable PayPal Payment Method** to activate PayPal globally for all forms.
 
 ![Enable Paypal Payment Method Integrate PayPal](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/1.-Enable-Paypal-Payment-Method-scaled.webp)
 
@@ -33,14 +33,13 @@ After configuring PayPal, you can set up **IPN** (**Instant Payment Notification
 
 **IPN (Instant Payment Notification)** is a post-message notification sent by **PayPal** after a successful transaction for standard merchant accounts, containing all the payment transaction details. Setting up [PayPal](https://www.paypal.com/) IPN with Fluent Forms allows you to receive Instant Payment Notifications from PayPal.
 
-To learn how to set up **PayPal IPN** with **Fluent Forms**, follow the steps with the screenshots below – 
-
 First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
 
 Now, go to **PayPal Standard**, and scroll down to the **PayPal IPN Settings (Recommended for Subscription Payment)** option. 
 
 Then, copy the **IPN URL** for smooth transactions based on **PayPal** **Data** related to **Subscription/Recurring** payments. 
 
+> [!Note]
 > If you do not set up the IPN (Instant Payment Notification) then it will still work for single payments but recurring payments will not be marked as paid for PayPal subscription payments.
 
 Do not forget to press the **Save PayPal Settings** button to save all your changes. 
@@ -81,7 +80,7 @@ Once you finish setting up your **PayPal** payment method, you can easily add th
 > [!Note]
 > If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
-First, go to the **Editor** page of your desired form by clicking its **Edit** option.
+Go to the **Editor** page of your desired form by clicking its **Edit** option.
 
 ![Open Integrate PayPal](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/Open-desired-form-1-scaled.webp)
 
@@ -89,9 +88,9 @@ Once you are on the **Editor** page, go to the **Input** **Customization** menu 
 
 Now, go to the **Payment Methods**, check the **PayPal** option, click the **Dropdown Arrow,** and you will get two options. These are:
 
-- Method Label: Here, you can change the label based on your preference for your added payment method.
+- **Method Label:** Here, you can change the label based on your preference for your added payment method.
 
-- Require Shipping Address: Check this box if you want to make providing the Shipping Address information mandatory for your users to submit the forms.
+- **Require Shipping Address:** Check this box if you want to make providing the Shipping Address information mandatory for your users to submit the forms.
 
 > [!Note]
 > For **Payment Method** field details, see [Add Payment Method Field in Payment Forms](/docs/add-payment-method-field-in-payment-forms).

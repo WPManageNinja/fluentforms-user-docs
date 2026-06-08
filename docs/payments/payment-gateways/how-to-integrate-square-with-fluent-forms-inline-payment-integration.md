@@ -9,9 +9,9 @@ This article will guide you through integrating **Square** into your **WordPress
 
 ## Enable Square Payment Method
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
 
-Now, go to the **Square** in the top navbar and click **Enable Square Payment Method.** The **Square Payment Method** will be enabled globally for all forms. 
+Select **Square**, then click **Enable Square Payment Method** to activate Square globally for all forms.
 
 ![Enable Payment Methods Integrate Square](/images/payments/payment-gateways/how-to-integrate-square-with-fluent-forms-inline-payment-integration/1.-Enable-Payment-Methods-scaled.webp)
 
@@ -60,11 +60,11 @@ Now, go to the **Locations** tab from the left sidebar, and copy the **Location 
 
 ![Copy Location ID](/images/payments/payment-gateways/how-to-integrate-square-with-fluent-forms-inline-payment-integration/9.-Copy-Location-ID-scaled.webp)
 
-**Now,** return to the **Square Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
+Now, return to the **Square Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
 
 Then, paste **the Application ID**, **Access Token**, and **Location ID** in the corresponding fields.
 
-Finally, press the **Save Settings** button, and your Square account will be configured with **Fluent Forms** for your WordPress Site. 
+Finally, press the **Save Settings** button, and your Square account will be configured with Fluent Forms for your WordPress Site. 
 
 ![Paste All Credentials](/images/payments/payment-gateways/how-to-integrate-square-with-fluent-forms-inline-payment-integration/10.-Paste-all-credentials-scaled.webp)
 
@@ -83,9 +83,9 @@ Once you are on the **Editor** page, go to the **Input** **Customization** menu 
 
 Now, go to the **Payment Methods**, check the **Square** option, click the **Dropdown Arrow,** and you will get two options. These are:
 
-- Method Label: Here, you can change the label based on your preference for your added payment method.
+- **Method Label:** Here, you can change the label based on your preference for your added payment method.
 
-- Embedded Checkout: Check this box to activate Square as an inline payment option.
+- **Embedded Checkout:** Check this box to activate Square as an inline payment option.
 
 > [!Note]
 > For **Payment Method** field details, see [Add Payment Method Field in Payment Forms](/docs/add-payment-method-field-in-payment-forms).
@@ -100,7 +100,7 @@ Also, to see the **Preview** of the form, click the **Preview & Design** button 
 
 ![Save Integrate Square](/images/payments/payment-gateways/how-to-integrate-square-with-fluent-forms-inline-payment-integration/13.-Save-form-scaled.webp)
 
-## Preview of Added Payment Method
+### Preview of Added Payment Method
 
 Here is the **preview** of the **Payment Method** that we just added. 
 
