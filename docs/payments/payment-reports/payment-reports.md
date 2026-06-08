@@ -10,21 +10,21 @@ Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** 
 
 Refine the data shown on the entire dashboard using the filters located at the top of the page.
 
-- All Forms: Select this dropdown to view payment data for all forms or select a specific one.
+- **All Forms:** Select this dropdown to view payment data for all forms or select a specific one.
 
-- Date Range: Click this filter to select a time period, such as Last 3 months, or choose a custom date range.
+- **Date Range:** Click this filter to select a time period, such as Last 3 months, or choose a custom date range.
 
 ### Payments
 
 The summary cards at the top offer an at-a-glance overview of your financial activity for the selected period.
 
-- Total Paid: The total amount of completed payments.
+- **Total Paid:** The total amount of completed payments.
 
-- Total Pending: The total amount of payments that have been initiated but are not yet complete.
+- **Total Pending:** The total amount of payments that have been initiated but are not yet complete.
 
-- Total Refunded: The total amount that you have refunded to customers.
+- **Total Refunded:** The total amount that you have refunded to customers.
 
-- Total Revenue: The net income after accounting for refunds and other adjustments
+- **Total Revenue:** The net income after accounting for refunds and other adjustments
 
 ![Payments Dashboards](/images/payments/payment-reports/payment-reports/payments-dashboards-1-scaled.webp)
 
