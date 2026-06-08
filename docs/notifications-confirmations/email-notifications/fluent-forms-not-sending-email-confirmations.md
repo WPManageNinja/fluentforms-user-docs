@@ -20,7 +20,7 @@ Once you are on the form’s **Settings & Integrations** page, open the **Email 
 Now, if your desired email notification is showing **Disabled**, turn on the **Toggle** switch and the notification will be **Enabled**. 
 
 >[!Note]
-> To learn more detail about Email Notification, read this [Documentation](/docs/how-to-setup-admin-user-email-notifications/).
+> To learn more detail about Email Notification, read this [Documentation](/docs/how-to-setup-adminuser-email-notifications).
 
 ![Enable Email Notification Fluent Forms Not Sending](/images/notifications-confirmations/email-notifications/fluent-forms-not-sending-email-confirmations/2.-enable-email-notification-scaled.webp)
 
@@ -39,7 +39,7 @@ Now, open the submission entry you want to check by clicking the **Eye Icon** un
 Once you open the desired entry page, scroll down, and you will get your desired **Submission Logs** for this particular form submission.
 
 >[!Note]
-> To learn more details about submission activity logs and API calls, refer to the [Activity Logs](/docs/fluent-forms-activity-logs/) and [API Logs](/docs/fluent-form-api-logs/) documentation.
+> To learn more details about submission activity logs and API calls, refer to the [Activity Logs](/docs/fluent-forms-activity-logs) and [API Logs](/docs/fluent-form-api-logs) documentation.
 
 Now, you can see a message as **Email Notification broadcasted** (i.e., the email is successfully triggered, and Fluent Forms is working as it should).
 

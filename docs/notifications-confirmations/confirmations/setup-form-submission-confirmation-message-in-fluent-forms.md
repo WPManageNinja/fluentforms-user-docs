@@ -73,7 +73,7 @@ Suppose you have a form with a field like **Name**. If you enable **Pass Field D
  * **C. Redirect Message**: Here, you can customize the message displayed after form submission. You can also add **Shortcode/s** and **Media/s** in your confirmation message by using the **Add Media** and **Add Shortcodes** button in the right corner. Also for advanced customization, you can edit the message in **HTML Codes** through the **Text** tab.
 
 > [!Note]
-> If you want to pass data using a query string and automatically populate form fields on the redirected page, follow this [documentation](/docs/set-default-form-value-from-url-parameters/).
+> If you want to pass data using a query string and automatically populate form fields on the redirected page, follow this [documentation](/docs/set-default-form-value-from-url-parameters).
 
 Once you are done, click the **Save Settings** button to save all your changes.
 
