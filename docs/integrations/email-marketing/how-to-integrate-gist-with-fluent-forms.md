@@ -23,8 +23,6 @@ Once you enable GetGist, you will be asked for the **Gist API Key** of your **Gi
 
 ### Get the Gist API URL and API Key
 
-To learn how to get the  **Gist API URL** and **Gist API Key** from **Gist**, follow the steps with screenshots below –
-
 First, log in to your [Gist Account](https://app.getgist.com/users/sign_in) and go to **Settings** from the left sidebar.
 
 Now, go to Settings from the top navbar, open the **API & Webhooks** dropdown, click the **API Key** and you will get your desired **API Key.** Simply, copy the **API Key** by clicking the **Copy** button.
@@ -50,12 +48,9 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **GetGist,** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/Open-Desired-Form-Settings-scaled-2.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **GetGist Integration** from the dropdown list. 
@@ -74,17 +69,11 @@ Once you select the integration, a page will appear with various settings option
 
 5. **Push IP Address:** When this option is enabled, FluentForm will pass the “last_seen_ip” to the gist.
 
-6. **Conditional Logics:** This option allows GetGist integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+6. **Conditional Logics:** This option allows GetGist integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows GetGist integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+7. **Enable This Feed:** Check this option to ensure this integration feed stays enabled and all its actions run properly.
 
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
-=======
-7. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
->>>>>>> tajulauthlab
-
-Once the setup is done, finally, click the **Save Feed** button. And, your GetGist will be integrated into this specific form!
+Once the setup is done, click the **Save Feed** button. Your GetGist integration will be added to this form.
 
 ![Save Feed Button Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/7.-Save-Feed-button-1-scaled.webp)
 
@@ -95,7 +84,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 ![Added Getgist Integration Feed](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/8.-Added-GetGist-Integration-feed-scaled.webp)
 
-## Preview of Integrated GetGist
+### Preview of Integrated GetGist
 
 Here, you can see the preview of the added contacts of GetGist through the Form entries that I set up during the integration.
 

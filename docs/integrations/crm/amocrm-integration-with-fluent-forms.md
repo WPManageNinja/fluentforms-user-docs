@@ -61,12 +61,9 @@ Here, you can see your **API integration is up and running**.  To disconnect, cl
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your amoCRM and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Setting amoCRM Fluent Forms](/images/integrations/crm/amocrm-integration-with-fluent-forms/Form-Setting-amoCRM-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **amoCRM Integration** feed from the dropdown list. 

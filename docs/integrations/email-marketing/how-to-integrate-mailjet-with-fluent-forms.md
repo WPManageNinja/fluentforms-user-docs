@@ -65,12 +65,9 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailjet,** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Mailjet](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/9.-Open-desired-form-Settings-1-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Mailjet Integration** feed from the dropdown list. 
@@ -89,15 +86,9 @@ Now, a page will appear with various settings options for configuring the Mailje
 
 5. **Contact Name:** Use this field to map the Mailjet Contact’s Name fields with the Form’s Name fields. Also, you can easily select the Value for the Name Fields using the Shortcode button.
 
-6. **Conditional Logics:** This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+6. **Conditional Logics:** This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
-=======
 7. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Mailjet will be integrated into this specific form!
 

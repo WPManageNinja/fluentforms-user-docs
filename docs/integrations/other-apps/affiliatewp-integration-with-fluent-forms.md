@@ -29,12 +29,9 @@ Now, go to the **AffiliateWP** Plugin from the left menu of the dashboard, and y
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your AffiliateWP, and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Settings AffiliateWP Integration](/images/integrations/other-apps/affiliatewp-integration-with-fluent-forms/Form-Settings-03-scaled.webp)
 
 Once you are on the **Settings & Integrations**, scroll to the **Affiliate** section at the bottom. **Enable** **Allow Referrals** and configure the referral settings from the dropdown as needed.

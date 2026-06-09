@@ -34,12 +34,9 @@ Now, turn on the **Toggle** and the **User Registration or Update** module wil b
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate BuddyBoss](/images/integrations/other-apps/how-to-integrate-buddyboss-with-fluent-forms/4.-open-desired-forms-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **User Registration or Update Integration** feed from the dropdown list. 

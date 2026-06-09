@@ -69,12 +69,9 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Airtable,** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Airtable](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/9.-Open-desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Airtable Integration** feed from the dropdown list. 
@@ -97,15 +94,9 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 4. **Enable Instant Responder:** Check this option, and Airtable will send any instant responders set up when the contact is added to the list. This option is not available to users on a free trial.
 
-5. **Conditional Logics:** This option allows Airtable integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+5. **Conditional Logics:** This option allows Airtable integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows Airtable integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
-=======
 6. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, click the **Save Feed** button, and your Airtable will be integrated into this specific form!
 

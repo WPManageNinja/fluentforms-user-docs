@@ -79,12 +79,9 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Telegram,** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Telegram](/images/integrations/team-chat/how-to-integrate-telegram-with-fluent-forms/11.-Open-desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Telegram Integration** feed from the dropdown list. 
@@ -99,15 +96,9 @@ Now, a pop-up page will appear with various settings options for configuring Tel
 
 3. **Custom Chat/Channel ID:** Use this field if you want to integrate a form-specific telegram group/channel. Otherwise, keep it empty.
 
-4. **Conditional Logics:** This option allows Telegram integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+4. **Conditional Logics:** This option allows Telegram integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows Telegram integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
-=======
 5. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, click the **Save Feed** button, and your Telegram will be integrated into this specific form!
 

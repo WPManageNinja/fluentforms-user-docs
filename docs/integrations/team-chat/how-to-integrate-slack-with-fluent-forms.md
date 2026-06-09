@@ -15,12 +15,9 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Sla
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Slack,** and click the **Settings** button.
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Slack](/images/integrations/team-chat/how-to-integrate-slack-with-fluent-forms/2.-Open-desired-Form-Settings-1-scaled.webp)
 
 Once you are on **Settings & Integrations**, go to **Slack** from the left menu, and turn on the **Integrate Slack Toggle**.

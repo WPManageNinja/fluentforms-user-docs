@@ -50,12 +50,9 @@ Here you can see your **Pipedrive API integration is up and running**. Also you 
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Pipedrive and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Settings Pipedrive Integration](/images/integrations/crm/pipedrive-integration-with-fluent-forms/Settings-06-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Pipedrive Integration** feed from the dropdown list. 

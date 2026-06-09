@@ -20,12 +20,8 @@ This option is perfect for when you need the form to act (like sending an [email
 
 In the **Compliance Settings**, check the box next to **Delete entry data after form submission**.
 
-<<<<<<< HEAD
-> Important: When this option is enabled, the entry is deleted immediately. This means no entry data, analytics, or [visual reporting](/docs/visual-representation-of-form-entries-in-fluent-forms) will be saved or available for this form.
-=======
 > [!Warning]
-> When enabled, entries are deleted immediately after submission. Fluent Forms will not store entry data, analytics, or visual reports for this form.
->>>>>>> tajulauthlab
+> When enabled, entries are deleted immediately after submission. Fluent Forms will not store entry data, analytics, or [visual reports](/docs/visual-representation-of-form-entries-in-fluent-forms) for this form.
 
 After that, click the **Save Settings** button to apply the change.
 

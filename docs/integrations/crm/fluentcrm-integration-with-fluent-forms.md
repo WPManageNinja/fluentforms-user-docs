@@ -19,12 +19,9 @@ Now, turn on the **Toggle** to enable the **FluentCRM** module, and click the **
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your FluentCRM and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Settings FluentCRM integration](/images/integrations/crm/fluentcrm-integration-with-fluent-forms/Form-Settings-02-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **FluentCRM Integration** feed from the dropdown list.
@@ -51,11 +48,7 @@ Once you select FluentCRM integration, you will need to configure the following-
 
 - **Skip name update if existing contact has old data:** If you want to retain existing contact names even if new data is submitted then check the checkboxes of skip name update if existing contact have old data (per primary) options.
 
-<<<<<<< HEAD
 - Enable Double Opt-In for a new Contact: Enable this option to send a [double opt-in email](/docs/set-up-double-opt-in-emails-in-fluent-forms) for new contacts.
-=======
-- **Enable Double Opt-In for a new Contact:** Enable this option to send a double opt-in email for new contacts.
->>>>>>> tajulauthlab
 
 - **Enable Force subscribe if contact is not in subscribed status:** Check the checkboxes to enable this to subscribe existing contacts that are not already subscribed.
 

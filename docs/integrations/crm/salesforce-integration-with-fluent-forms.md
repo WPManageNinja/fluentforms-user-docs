@@ -92,12 +92,9 @@ Here, you can see your **Salesforce API integration** is **up and running**. To 
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **Salesforce** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Settings Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/Form-settings-13-scaled.webp)
 
 Once on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Salesforce Integration** feed from the dropdown list. 
@@ -118,11 +115,7 @@ Once you select the Salesforce services, a pop-up page with various settings opt
 
 Here, I will select Salesforce service **Contact** options. You can choose **Salesforce Services** from the drop-down menu. Now, I am mapping the field with Salesforce. 
 
-<<<<<<< HEAD
 **C.** **Conditional Logic:** If you want to allow **Salesforce** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-=======
-**C. Conditional Logic:** If you want to allow **Salesforce** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the[ article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
->>>>>>> tajulauthlab
 
 **D. Status:** Enable this feed option to activate the integration.
 

@@ -56,12 +56,9 @@ Here, you will see that your **Salesflare API integration is up and running**. T
 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your salesflare and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Setting amoCRM Salesflare Integration](/images/integrations/crm/salesflare-integration-with-fluent-forms/Form-Setting-amoCRM-1-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Salesflare Integration** feed from the dropdown list. 

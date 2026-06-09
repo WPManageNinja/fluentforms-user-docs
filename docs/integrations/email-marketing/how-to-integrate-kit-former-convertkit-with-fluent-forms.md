@@ -56,12 +56,9 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ConvertKit** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Kit (Former ConvertKit)](/images/integrations/email-marketing/how-to-integrate-kit-former-convertkit-with-fluent-forms/Open-Desired-Form-Settings-3-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **ConvertKit Integration** feed from the dropdown list. 
@@ -83,15 +80,9 @@ Once you select the form, a pop-up page will appear with various settings option
 
 4. **Contact Tags:** With this option, you can add tags to your ConvertKit contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag.Enable Dynamic Tag Input: This option allows ConvertKit to add customized tags for specific contacts based on your submission values according to your set conditions.
 
-5. **Conditional Logics:** This option allows ConvertKit integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+5. **Conditional Logics:** This option allows ConvertKit integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows ConvertKit integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
-=======
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, finally, click the **Save Feed** button.
 And, your ConvertKit will be integrated into this specific form!

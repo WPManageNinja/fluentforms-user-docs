@@ -58,12 +58,9 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **SendFox** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate SendFox](/images/integrations/email-marketing/how-to-integrate-sendfox-with-fluent-forms/9.-Open-desired-form-settings-2-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **SendFox Integration** from the dropdown list. 
@@ -83,15 +80,9 @@ Once you select the list, a pop-up page will appear with various settings option
 
 3. **Map Fields:** Use all the fields under this option to properly link your SendFox Fields with the Form Fields. You can easily select the value for the Form Fields based on the SendFox fields using the Shortcode Arrow.
 
-4. **Conditional Logics:** This option allows SendFox integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+4. **Conditional Logics:** This option allows SendFox integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows SendFox integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
-=======
 5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, finally, click the **Save Feed** button. And, your SendFox will be integrated into this specific form!
 

@@ -65,12 +65,9 @@ Also you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailchimp,** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Mailchimp](/images/integrations/email-marketing/how-to-integrate-mailchimp-with-fluent-forms/Open-Desired-Form-Settings-5-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Mailchimp Feed** from the dropdown list. 
@@ -98,23 +95,13 @@ Once you select the list, a pop-up page will appear with various settings option
 
 7. **Enable Double Opt-in:** Validate user information (specifically the email address) before adding the contact.
 
-<<<<<<< HEAD
-1. Enable [Double Opt-in](/docs/set-up-double-opt-in-emails-in-fluent-forms): Enable this option if you want to check the validation of the user information (specifically user email).
-=======
 8. **Enable ReSubscription:** Re-add subscribers who are inactive or were previously unsubscribed to the active list.
->>>>>>> tajulauthlab
 
 9. **Mark as VIP Contact:** Mark contacts as VIP when this option is enabled.
 
-10. **Conditional Logics:** Run this Mailchimp integration based on submission values and your conditional logic. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+10. **Conditional Logics:** Run this Mailchimp integration based on submission values and your conditional logic. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows Mailchimp integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option to ensure this integration feed remains enabled, and all its actions function properly.
-=======
 11. **Enable This Feed:** Keep this integration feed enabled so all actions run properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, click the **Save Feed** button and, your **Mailchimp** will be integrated into this specific form.
 

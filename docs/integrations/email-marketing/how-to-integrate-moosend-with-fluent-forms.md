@@ -55,12 +55,9 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **MooSend** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate MooSend](/images/integrations/email-marketing/how-to-integrate-moosend-with-fluent-forms/Open-Desired-Form-Settings-1-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **MooSend Integration** from the dropdown list. 
@@ -83,17 +80,8 @@ Once you select the integration, a page will appear with various settings option
 
 4. **Double Opt-in:** Enable this option if you want to check the validation of the user information (specifically user email).
 
-<<<<<<< HEAD
-1. [Double Opt-in](/docs/set-up-double-opt-in-emails-in-fluent-forms): Enable this option if you want to check the validation of the user information (specifically user email).
-
-1. Conditional Logics: This option allows MooSend integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
-=======
-5. **Conditional Logics:** This option allows MooSend integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
-
+5. **Conditional Logics:** This option allows MooSend integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, finally, click the **Save Feed** button. And, your MooSend will be integrated into this specific form!
 

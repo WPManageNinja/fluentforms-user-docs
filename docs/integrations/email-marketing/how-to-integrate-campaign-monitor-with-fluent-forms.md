@@ -66,12 +66,9 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Campaign Monitor,** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Campaign Monitor](/images/integrations/email-marketing/how-to-integrate-campaign-monitor-with-fluent-forms/10.-Open-desired-form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Campaign Monitor Integration** feed from the dropdown list. 
@@ -94,15 +91,9 @@ Now, a page will appear with various settings options for configuring the Campai
 
 4. **Resubscribe:** Use this option to enable the re-subscription and allow users to renew their access.
 
-5. **Conditional Logics:** This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+5. **Conditional Logics:** This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [this documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
-=======
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Campaign Monitor will be integrated into this specific form!
 

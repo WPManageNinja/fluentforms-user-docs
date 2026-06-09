@@ -15,12 +15,9 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Web
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Webhook** and click the **Settings** button.
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Webhook](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/2.-Open-desired-Form-Settings-2-scaled.webp)
 
 Once you are on **Settings & Integrations**, go to the **WebHook** from the left menu, and click the **+ Add New** button.
@@ -41,13 +38,7 @@ Now, a pop-up page will appear with various settings options for configuring Web
 
 6. **Request Body:** Select body if you want to send any specific body text with the webhook request, otherwise, all fields will be sent.
 
-<<<<<<< HEAD
-1. Request Body: Select body if you want to send any specific body text with the webhook request, otherwise, all fields will be sent.
-
-1. Conditional Logics: This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-=======
-7. **Conditional Logics:** This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
->>>>>>> tajulauthlab
+7. **Conditional Logics:** This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 Once the setup is done, click the **Save Feed** button, and your Webhook will be integrated into this specific form!
 

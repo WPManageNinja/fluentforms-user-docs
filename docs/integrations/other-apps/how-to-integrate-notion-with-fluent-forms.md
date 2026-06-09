@@ -54,12 +54,9 @@ You can disconnect it anytime by clicking the **Disconnect Notion** button.
 
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Notion,** and click the **Settings** button. 
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Open Settings Integrate Notion](/images/integrations/other-apps/how-to-integrate-notion-with-fluent-forms/8.-Open-desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Notion Integration** feed from the dropdown list. 
@@ -72,15 +69,9 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 2. **Notion Database:** Using the Arrow Icon, you can select the Notion Database where you want to add your form submission information. You can also change this anytime if needed.Once you select the database, all the columns from your chosen Notion Database will appear here as fields (e.g., you can see the Email, Country, and Name fields). Now, use all the fields under this option to properly link your Notion Databases with the Form Fields. You can easily select the value for the form fields based on the Notion fields using the Shortcode Arrow.
 
-3. **Conditional Logics:** This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+3. **Conditional Logics:** This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-1. Conditional Logics: This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-
-1. Enable This Feed: Check this option to ensure this integration feed remains enabled and all its actions function properly.
-=======
 4. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
->>>>>>> tajulauthlab
 
 Once the setup is done, click the **Save Feed** button, and your Notion will be integrated into this specific form!
 

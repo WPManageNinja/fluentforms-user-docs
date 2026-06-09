@@ -88,12 +88,9 @@ Here, you can see your **Mautic Integration** feed is enabled and ready to use!
 
 ### Integrate Mautic into Fluent FormsFirst, go to the **Forms** section from the **Fluent Forms Navbar**, and click the **Settings** button of your desired form where you want to add the feed.
 
-<<<<<<< HEAD
-=======
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
->>>>>>> tajulauthlab
 ![Settings Mautic Integration](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/14.-Desired-forms-Settings-scaled.webp)
 
 Open the **Configure Integrations** tab, expand the **Add New Integration** tab, and click the **Mautic Integration** feed.
