@@ -240,6 +240,10 @@
             "link": "/docs/range-slider-field-in-fluent-forms"
           },
           {
+            "text": "Ranking",
+            "link": "/docs/ranking-field-in-fluent-forms"
+          },
+          {
             "text": "Ratings",
             "link": "/docs/ratings-input-field-in-fluent-forms"
           },
