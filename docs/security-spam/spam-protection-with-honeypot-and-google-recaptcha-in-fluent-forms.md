@@ -57,9 +57,9 @@ To do this, go to **Forms** from the top navbar, and **open** the **Editor** pag
 
 Now, go to **Settings & Integrations** from the top navbar, open the **Scheduling & Restrictions** tab, and turn on the **Login Requirement Settings** and **Empty Submission Blocking** toggle.
 
-- Login Requirement Settings: Once you enable this option, it will stop non-logged users from submitting the form.
+- **Login Requirement Settings:** Once you enable this option, it will stop non-logged users from submitting the form.
 
-- Empty Submission Blocking: Once you enable this option, it will prevent the form from empty submissions.
+- **Empty Submission Blocking:** Once you enable this option, it will prevent the form from empty submissions.
 
 Don’t forget to click the **Save Settings** button to make all the setup functional. 
 

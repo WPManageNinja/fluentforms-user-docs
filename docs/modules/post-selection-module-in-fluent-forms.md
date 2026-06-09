@@ -34,7 +34,7 @@ But to run the same queries inside the Extra Query Parameter field, you need to 
 
 Now, assume I have a post-author named Kevin. We want to show all his posts so we can use this in our query.
 
-#### Single Parameter
+### Single Parameter
 
 In wp_query, it works as below-
 
@@ -46,13 +46,14 @@ You can write this way.
 
 ![Post Selection Module step](/images/modules/post-selection-module-in-fluent-forms/04-4-scaled.webp)
 
-#### Multiple Parameter
+### Multiple Parameter
 
 To display posts by a specific author in a category:
 
 - WP_Query example:
 
-`array(
+```
+array(
 
     'author_name' => 'kevin',
 
@@ -62,7 +63,8 @@ To display posts by a specific author in a category:
 
 Format for Fluent Forms:
 
-author_name=kevin&category_name=news`
+author_name=kevin&category_name=news
+```
 
 #### Array Parameters
 
@@ -70,7 +72,8 @@ For queries with array values, such as posts in multiple categories:
 
 - WP_Query Example:
 
-`array(
+```
+array(
 
     'category_name' => array('news', 'blog')
 
@@ -78,7 +81,8 @@ For queries with array values, such as posts in multiple categories:
 
 Format for Fluent Forms:
 
-category_name[]=news&category_name[]=blog`
+category_name[]=news&category_name[]=blog
+```
 
 #### Nested Array Parameters
 
@@ -86,7 +90,8 @@ For nested arrays, such as meta queries:
 
 - WP_Query Example
 
-`array(
+```
+array(
 
     'meta_query' => array(
 
@@ -102,10 +107,13 @@ For nested arrays, such as meta queries:
 
     )
 
-)`
+)
+```
 
 - Format for Fluent Forms
 
-`meta_query[0][key]=views&meta_query[0][value]=100&meta_query[0][compare]=>=`
+```
+meta_query[0][key]=views&meta_query[0][value]=100&meta_query[0][compare]=>=
+```
 
 Now, you can use the Post Selection module to create dynamic and user-friendly forms in Fluent Forms!
