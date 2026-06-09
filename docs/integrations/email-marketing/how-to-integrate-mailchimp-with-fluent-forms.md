@@ -75,6 +75,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 ![Add Integration Button Integrate Mailchimp](/images/integrations/email-marketing/how-to-integrate-mailchimp-with-fluent-forms/10.-Add-New-Integration-button-1-scaled.webp)
 
 Here, you will find a required field to set a **Name** for your integration feed according to your preference.
+
 Also, you must select the **Mailchimp List** from the dropdown where you want to send the submitted form data.
 
 ![Mailchimp List Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailchimp-with-fluent-forms/11.-Mailchimp-List-scaled.webp)
@@ -110,6 +111,7 @@ Once the setup is done, click the **Save Feed** button and, your **Mailchimp** w
 After successful Integration, now you will see that your **Mailchimp Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. 
+
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Added Mailchimp Integration Feed](/images/integrations/email-marketing/how-to-integrate-mailchimp-with-fluent-forms/13.-Added-Mailchimp-Integration-Feed-scaled.webp)

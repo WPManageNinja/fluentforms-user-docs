@@ -2,12 +2,12 @@
 
 [Fluent Forms](https://fluentforms.com/) now integrates **Mautic**, making **Email Marketing** easier for users. This article will guide you through the integration process of **Mautic** with **Fluent** **Forms**. 
 
-## Mautic with Fluent Forms
+### Mautic with Fluent Forms
 
 > [!Note]
 > Install both **Fluent Forms** (free) and **Fluent Forms Pro**. Mautic works on the free plugin, but Pro-only features (for example **Phone** field and **Conditional Logic**) require the Pro add-on.
 
-### Install & Activate Mautic Integration Add-on
+## Install & Activate Mautic Integration Add-on
 
 First, go to **Plugins** from the **WordPress Left Sidebar**, click the **Add New Plugin**, search for **Mautic Integration For Fluent Forms**, and click the **Install Now** button. 
 
@@ -17,7 +17,7 @@ Now, click the **Activate** button, and your **Mautic Integration Add-on** will 
 
 ![Active Mautic Add On](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/2.-Active-Mautic-Add-on-scaled.webp)
 
-### Enable Mautic Integration
+## Enable Mautic Integration
 
 From your **Fluent Forms Dashboard**, go to **Integrations**, search for **Mautic**, and click the **Toggle** button to enable the **Mautic** **Integration** module in your **FluentForms**.
 
@@ -32,11 +32,9 @@ Now, under **Mautic Settings**, provide all the required credentials (**Mautic A
 
 ![Copy Mautic URL](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/4.-Copy-Mautic-URL-scaled.webp)
 
-#### Get the Required Mautic Credentials
+## Get the Required Mautic Credentials
 
-To learn where you can get all the required Mautic credentials, follow the steps with screenshots below —
-
-First, log in to your **Mautic Account Dashboard,** click the **Settings** **Icon** in the top right corner, and press the **Configuration** button from the left-side settings bar.
+Log in to your **Mautic Account Dashboard,** click the **Settings** **Icon** in the top right corner, and press the **Configuration** button from the left-side settings bar.
 
 > [!Note]
 > If you do not have a Mautic instance, set up Mautic on your server before continuing.
@@ -86,7 +84,9 @@ Here, you can see your **Mautic Integration** feed is enabled and ready to use!
 
 ![Configured Mautic Integration](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/13.-Configured-Mautic-Integration-scaled.webp)
 
-### Integrate Mautic into Fluent FormsFirst, go to the **Forms** section from the **Fluent Forms Navbar**, and click the **Settings** button of your desired form where you want to add the feed.
+## Integrate Mautic into Fluent Forms
+
+Go to the **Forms** section from the **Fluent Forms Navbar**, and click the **Settings** button of your desired form where you want to add the feed.
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
@@ -97,7 +97,7 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** tab,
 
 ![Add Mautic Integration Feed 1024x319](/images/integrations/email-marketing/mautic-integration-with-fluent-forms/15.-Add-Mautic-Integration-Feed-1024x319.webp)
 
-**Now, set up your Mautic Integration Feed according to your needs using all the following available settings options.**
+Now, set up your Mautic Integration Feed according to your needs using all the following available settings options.
 
 **A. Feed Name**: Give a name to your feed so that you can find it later easily.
 

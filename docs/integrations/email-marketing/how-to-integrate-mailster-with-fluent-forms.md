@@ -59,7 +59,7 @@ You can modify your feed anytime by clicking the **Settings Icon,** and delete i
 
 ![Added Mailster Integration Feed](/images/integrations/email-marketing/how-to-integrate-mailster-with-fluent-forms/6.-Added-Mailster-Integration-Feed-scaled.webp)
 
-## Preview of Integrated Mailster
+### Preview of Integrated Mailster
 
 Here, you can see the preview of added **Contacts** of **Mailster** through the Form Entries based on the Integration.
 

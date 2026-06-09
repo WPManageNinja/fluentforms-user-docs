@@ -36,13 +36,12 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 
 ![Configure Integrations Add Integration MailPoet](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/5.-Configure-Integrations-Add-new-integration-MailPoet-scaled.webp)
 
-**Now, set up your Mautic Integration Feed according to your needs using all the following available settings options.**
 
-- Feed Name: Give a name to your feed so that you can find it later easily.
+- **Feed Name:** Give a name to your feed so that you can find it later easily.
 
-- MailPoet List: Select a MailPoet List from the dropdown where you wish to add your contacts.
+- **MailPoet List:** Select a MailPoet List from the dropdown where you wish to add your contacts.
 
-- Primary Fields: Associate your MailPoet Field with the appropriate Fluent Forms Field by selecting the appropriate form fields from the dropdown (you can also give your own custom value if needed).
+- **Primary Fields:** Associate your MailPoet Field with the appropriate Fluent Forms Field by selecting the appropriate form fields from the dropdown (you can also give your own custom value if needed).
 
 - **Custom Fields:** Add or remove fields using the **Plus** or **Minus** icon.
 
@@ -54,9 +53,9 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 > [!Note]
 > **Send Confirmation Email** requires **MailPoet Pro** and a verified MailPoet account.
 
-- Conditional Logic: This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more about Fluent Forms Conditional logic click here.
+- **Conditional Logic:** This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more about Fluent Forms Conditional logic click here.
 
-- Status: Uncheck the Enable This Feed box if you want to save this MailPoet Feed as Draft. Otherwise, enable this box to make this feed functional.
+- **Status:** Uncheck the Enable This Feed box if you want to save this MailPoet Feed as Draft. Otherwise, enable this box to make this feed functional.
 
 Don’t forget to click the **Save Feed** button when the configuration is done.
 
