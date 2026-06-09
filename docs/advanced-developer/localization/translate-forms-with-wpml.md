@@ -92,7 +92,7 @@ After that, you’ll see that your form has been translated into the language yo
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/12.webp)
 
-### Troubleshooting & Important Notes
+## Troubleshooting & Important Notes
 
 #### 1. Translation Toggle Not Visible in Form Settings?
 

@@ -10,6 +10,7 @@ First, log in to your **WordPress Dashboard**. Then, hover over the **Appearance
 
 Now, open the functions.php file of your theme. 
 
+>[!Note]
 > Use a child theme to avoid losing changes during updates.
 
 ![functions.php File](/images/advanced-developer/localization/translate-datepicker-field-of-fluent-forms-plugin/function.php-file-01-scaled.webp)
@@ -18,7 +19,8 @@ Now, open the functions.php file of your theme.
 
 To change the name of the months of the date picker, add the code below to your theme's **functions.php** file. You can paste the code at the end.
 
-`add_filter('fluentform/date_i18n', function ($strings) {
+```
+add_filter('fluentform/date_i18n', function ($strings) {
 
 $strings = array(
 
@@ -86,7 +88,8 @@ $strings = array(
 
 return $strings;
 
-});`
+});
+```
 
 You can change the months' shorthand and longhand as needed. You can also replace the month names ( "January") with translations in your language.
 
@@ -96,7 +99,8 @@ For example, if you want to translate this into German, you might want to change
 
 Let's translate the weekday shorthand and longhand forms. This is identical to changing the months above. Add the code below to your child themes **function.php** file.
 
-`add_filter('fluentform/date_i18n', function ($strings) {
+```
+add_filter('fluentform/date_i18n', function ($strings) {
 
 $strings = array(
 
@@ -144,7 +148,8 @@ $strings = array(
 
 return $strings;
 
-});`
+});
+```
 
 Change both shorthand and longhand on the weekdays as needed. So if you want to translate this to German, you might want to change “Thursday” to “Donnerstag” for the longhand and “Sun” as “Don” for the shorthand.
 
@@ -154,7 +159,8 @@ You can also replace the weekday names ( "Sunday") with translations in your lan
 
 Let's take a look at the AM and PM translations. They're also identical to the months and weekdays translation described earlier. Add the code below to your child themes' **functions.php** file.
 
-`add_filter('fluentform/date_i18n', function ($strings) {
+```
+add_filter('fluentform/date_i18n', function ($strings) {
 
 $strings = array(
 
@@ -170,7 +176,8 @@ $strings = array(
 
 return $strings;
 
-});`
+});
+```
 
 Now, change the AM and PM to your language as needed. For the German translation, you might want to change “AM” to “Uhr morgens” and “PM” to “Uhr.”
 
@@ -180,7 +187,8 @@ You can replace "AM" and "PM" with your preferred terms ( "Uhr morgens" and "Uhr
 
 After that, you can combine the above codes into one filter for simplicity. You can use the code below once to translate all of the months, weeks, and AM-PM without using the code for them individually.
 
-`add_filter('fluentform/date_i18n', function ($strings) {
+```
+add_filter('fluentform/date_i18n', function ($strings) {
 
      $strings = array(
 
@@ -296,7 +304,8 @@ After that, you can combine the above codes into one filter for simplicity. You 
 
     return $strings;
 
-});`
+});
+```
 
 When using combined code, you don’t need to write multiple **add_filter** functions and return statements.
 
