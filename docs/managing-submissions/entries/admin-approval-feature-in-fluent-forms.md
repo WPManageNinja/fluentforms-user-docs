@@ -65,11 +65,7 @@ Admins will receive an email with options to **approve** or **decline** form sub
 
 ![Admin Approval Feature step](/images/managing-submissions/entries/admin-approval-feature-in-fluent-forms/05-2.webp)
 
-<<<<<<< HEAD
-> If your form includes a [Payment Field](/docs/payments-overview), the Admin Approval process will be bypassed.
-=======
 > [!Note]
-> If your form includes a Payment Field, the Admin Approval process will be bypassed.
->>>>>>> tajulauthlab
+> If your form includes a [Payment Field](/docs/payments-overview), the Admin Approval process will be bypassed.
 
 So, you can easily manage and control form submissions using the **Fluent Forms Admin Approval** feature.

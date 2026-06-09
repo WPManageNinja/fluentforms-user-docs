@@ -37,14 +37,10 @@ Here, you will get various settings options for customizing the field. Each opti
 
 **C. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default.** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
-<<<<<<< HEAD
-- Payment Methods: Here you will get all the available Payment Method Platforms. Now, select the desired Payment Platform/s by clicking the Checkbox/es that you want to use for collecting payments through the form submissions.But, remember, the added payment method/s in your Form will not function unless you properly complete the payment configuration process. To learn the detailed guidelines on How to configure Payment methods in Fluent Forms, read the gateway guides in the [Payments overview](/docs/payments-overview) thoroughly.
-=======
-   - **Payment Methods:** Here you will get all the available Payment Method Platforms. Now, select the desired Payment Platform/s by clicking the Checkbox/es that you want to use for collecting payments through the form submissions.
-   
+   - **Payment Methods:** Here you will get all the available Payment Method Platforms. Now, select the desired Payment Platform/s by clicking the Checkbox/es that you want to use for collecting payments through the form submissions.
+
 > [!Note]
-> Selected payment methods will not work until you complete payment configuration. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms), then follow the guide for your chosen gateway.
->>>>>>> tajulauthlab
+> Selected payment methods will not work until you complete payment configuration. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms), then follow the guide for your chosen gateway in the [Payments overview](/docs/payments-overview).
 
 **D. Default Value:** If you would like to pre-populate the value of a field, enter it here. [View All the smart codes here](/docs/form-editor-smart-codes).
 

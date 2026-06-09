@@ -77,14 +77,10 @@ Plus, if you want to disable the PayPal IPN, simply click the **Turn Off IPN** b
 
 Once you finish setting up your **PayPal** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
 
-<<<<<<< HEAD
-First, go to the **Editor** page of your desired form by clicking its **Edit** option.
-=======
 > [!Note]
 > If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
 
 Go to the **Editor** page of your desired form by clicking its **Edit** option.
->>>>>>> tajulauthlab
 
 ![Open Integrate PayPal](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/Open-desired-form-1-scaled.webp)
 

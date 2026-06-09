@@ -129,19 +129,11 @@ Do not forget to click the **Save Settings** button to save all your changes.
 
 On this page, you will also get **Three** major **Payment Method Settings** options that you can customize according to your needs, specifically for this form. These are:
 
-<<<<<<< HEAD
-1. Stripe: To learn more details, read [How to Integrate Stripe with Fluent Forms](/docs/how-to-integrate-stripe-with-fluent-forms).
+1. **Stripe:** To learn more, see [How to Integrate Stripe with Fluent Forms](/docs/how-to-integrate-stripe-with-fluent-forms).
 
-2. PayPal: To learn more details, read [How to Integrate PayPal with Fluent Forms](/docs/how-to-integrate-paypal-with-fluent-forms).
+2. **PayPal:** To learn more, see [How to Integrate PayPal with Fluent Forms](/docs/how-to-integrate-paypal-with-fluent-forms).
 
-3. Paddle: To learn more details, read [How to Integrate Paddle with Fluent Forms](/docs/how-to-integrate-paddle-with-fluent-forms).
-=======
- * **1. Stripe:** To learn more details about the Stripe Settings, [click here](/docs/how-to-integrate-stripe-with-fluent-forms).
-
- * **2. PayPal:** To learn more details about the PayPal Settings, [click here](/docs/how-to-integrate-paypal-with-fluent-forms).
-
- * **3. Paddle:** To learn more details about the Paddle Settings, [click here](/docs/how-to-integrate-paddle-with-fluent-forms).
->>>>>>> tajulauthlab
+3. **Paddle:** To learn more, see [How to Integrate Paddle with Fluent Forms](/docs/how-to-integrate-paddle-with-fluent-forms).
 
 Do not forget to click the **Save Settings** button to save all your changes. 
 

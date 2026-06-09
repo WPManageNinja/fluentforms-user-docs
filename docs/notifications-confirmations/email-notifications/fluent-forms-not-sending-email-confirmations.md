@@ -16,12 +16,8 @@ Once you are on the form’s **Settings & Integrations** page, open the **Email 
 
 Now, if your desired email notification is showing **Disabled**, turn on the **Toggle** switch and the notification will be **Enabled**. 
 
-<<<<<<< HEAD
-> To learn more about setting up Email Notifications, read the [Admin/User Email Notifications](/docs/how-to-setup-adminuser-email-notifications) documentation.
-=======
->[!Note]
-> To learn more detail about Email Notification, read this [Documentation](/docs/how-to-setup-adminuser-email-notifications).
->>>>>>> tajulauthlab
+> [!Note]
+> To learn more about setting up email notifications, see [Admin/User Email Notifications](/docs/how-to-setup-adminuser-email-notifications).
 
 ![Enable Email Notification Fluent Forms Not Sending](/images/notifications-confirmations/email-notifications/fluent-forms-not-sending-email-confirmations/2.-enable-email-notification-scaled.webp)
 
@@ -33,21 +29,14 @@ Now, click the **Entries** of a chosen form where you faced the issue, and you w
 
 ![Open Entries Fluent Forms Not Sending](/images/notifications-confirmations/email-notifications/fluent-forms-not-sending-email-confirmations/3.-Open-desired-form-entries-scaled.webp)
 
-<<<<<<< HEAD
-Now, open the submission entry you want to check by clicking the **Eye Icon** under the **Actions** column. To learn more details about **Form Entries**, read the [Managing Entries in Fluent Forms](/docs/managing-entries-in-fluent-forms) documentation.
-=======
-Now, open the submission entry you want to check by clicking the **Eye Icon** under the **Actions** column. To learn more details about **Form Entries**, read this **[Documentation](/docs/managing-entries-in-fluent-forms)**.
->>>>>>> tajulauthlab
+Now, open the submission entry you want to check by clicking the **Eye Icon** under the **Actions** column. To learn more about **Form Entries**, see [Managing Entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
 ![Open Submission Entry Fluent Forms Not Sending](/images/notifications-confirmations/email-notifications/fluent-forms-not-sending-email-confirmations/4.-open-desired-submission-entry-scaled.webp)
 
 Once you open the desired entry page, scroll down, and you will get your desired **Submission Logs** for this particular form submission.
 
-<<<<<<< HEAD
-=======
->[!Note]
->>>>>>> tajulauthlab
-> To learn more details about submission activity logs and API calls, refer to the [Activity Logs](/docs/fluent-forms-activity-logs) and [API Logs](/docs/fluent-form-api-logs) documentation.
+> [!Note]
+> To learn more about submission activity logs and API calls, see [Activity Logs](/docs/fluent-forms-activity-logs) and [API Logs](/docs/fluent-form-api-logs).
 
 Now, you can see a message as **Email Notification broadcasted** (i.e., the email is successfully triggered, and Fluent Forms is working as it should).
 

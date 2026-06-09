@@ -1,10 +1,6 @@
 # Shortcodes in Confirmation Settings
 
-<<<<<<< HEAD
-Fluent Forms provides **Smart Shortcodes** that allow users to dynamically display submitted data on the Confirmation Page, emails, [PDFs](/docs/fluent-forms-pdf-module), Custom posts, and [**Quiz**](/docs/fluent-forms-quiz-module) submissions. 
-=======
-**Smart Shortcodes** let you insert dynamic values into confirmation messages, email notifications, PDFs, custom post submissions, and quiz results. Use them to show submitted field data, labels, payment details, and WordPress-related information without hard-coding values.
->>>>>>> tajulauthlab
+**Smart Shortcodes** let you insert dynamic values into confirmation messages, email notifications, [PDFs](/docs/fluent-forms-pdf-module), custom post submissions, and [quiz](/docs/fluent-forms-quiz-module) results. Use them to show submitted field data, labels, payment details, and WordPress-related information without hard-coding values.
 
 This guide lists every shortcode available in **Confirmation Settings** and explains what each one outputs. For shortcodes used to pre-fill form fields in the editor, see [Form Editor Smart Codes](/docs/form-editor-smart-codes).
 
@@ -127,10 +123,6 @@ To show a specific field value from a form submission on the front end, add this
 
 `[[ff_entry form_id='1' entry_id='{submission.id}' field='url' is_html=false]]`
 
-<<<<<<< HEAD
-Smart Shortcodes in Fluent Forms allow you to display **dynamic content** based on user inputs, payments, and WordPress-related data. If you need **customized confirmation pages, automated email notifications,** or **PDF reports**, these shortcodes make it easy to use your forms. For more dynamic options, see [Using Helper Shortcodes](/docs/using-helper-shortcodes-in-fluent-forms).
-=======
 Replace `form_id`, `field`, and other parameters to match your form and the field you want to display.
 
-To add shortcodes inside a confirmation message, open your form's **Settings & Integrations** tab and use **Confirmation Settings**. See [Setup Form Submission Confirmation Message in Fluent Forms](/docs/setup-form-submission-confirmation-message-in-fluent-forms) for step-by-step setup.
->>>>>>> tajulauthlab
+To add shortcodes inside a confirmation message, open your form's **Settings & Integrations** tab and use **Confirmation Settings**. See [Setup Form Submission Confirmation Message in Fluent Forms](/docs/setup-form-submission-confirmation-message-in-fluent-forms) for step-by-step setup. For more dynamic options, see [Using Helper Shortcodes](/docs/using-helper-shortcodes-in-fluent-forms).
