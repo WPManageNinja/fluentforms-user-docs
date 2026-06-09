@@ -22,17 +22,15 @@ Then, click the **Activate** button, and the ACF plugin will be activated and re
 
 After installing the ACF plugin, you need to add the field you want to use as a custom field in your Post Form. **For example**, you want to add a custom field for reviewing your posts. In this case, you can add a Post reviewer field in ACF and use it in your Post Form.
 
-**To learn how to add a field in ACF, follow the steps below –** 
-
 First, go to the **ACF** plugin from the **WordPress Left Sidebar**, click the **Field Groups**, and press the **+Add New** button in the top right or the **+Add Field Group** button.
 
 ![Add Button Create Group Field Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/3.-Add-New-button-to-create-group-field--scaled.webp)
 
 Now, give your **Field Group** a suitable **Title** to find the field easily later during the use. Then, you will get the two following options which you can use by clicking the dropdown arrow. 
 
-1. Fields: This option allows you to add your desired field/s.
+1. **Fields:** This option allows you to add your desired field/s.
 
-2. Settings: This option allows you to set location rules (i.e., determine when and where this field will be added).
+2. **Settings:** This option allows you to set location rules (i.e., determine when and where this field will be added).
 
 ![Group Field Title Fields And Settings Options](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/4.-Group-field-title-Fields-and-Settings-options-scaled.webp)
 
@@ -42,7 +40,8 @@ Here, you can select which type of field you want to add through the **Field Typ
 
 You can also set any pre-defined value for your field through the **Default Value** option. Plus, you can add multiple fields by clicking the **Close and Add Field** or **+ Add Field** button. **For example**, here you can see I added a **Text** type field for creating the **Custom** **Post Reviewer** field.
 
-> To learn more details about all the options the Fields Section has, refer to this Documentation from the ACF plugin.
+> [!Note]
+> To learn more details about all the options the Fields Section has, refer to this [Documentation](https://www.advancedcustomfields.com/resources/creating-a-field-group/#creating-a-new-field-group) from the ACF plugin.
 
 ![Fields Option Fluent Forms](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/5.-Fields-option.webp)
 
@@ -50,7 +49,8 @@ You can also set any pre-defined value for your field through the **Default Valu
 
 Here, you can select which post type you want to use this field. **For example**, I selected the **Post** as **Post Type**.
 
-> To learn more details about all the options the Settings Section has, refer to this Documentation from the ACF plugin.
+>[!Note]
+> To learn more details about all the options the Settings Section has, refer to this [Documentation](https://www.advancedcustomfields.com/resources/creating-a-field-group/#settings) from the ACF plugin.
 
 Once you are done, click the **Save Changes** button to save all your changes and make the field functional.
 
@@ -58,9 +58,9 @@ Once you are done, click the **Save Changes** button to save all your changes an
 
 ## Integrating the ACF Field in a Post Form
 
-After adding the desired custom field in the ACF, it is time to use this in a Post Form. To learn how to use the added ACF field in a post form, follow the steps below – 
+After adding the desired custom field in the ACF, it is time to use this in a Post Form. 
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
 
 > [!Note]
 > **ACF** fields work only in **Post Forms**. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
@@ -84,7 +84,8 @@ Now, you need to **configure** the **Post Feed** to make your Custom Field funct
 
 First, go to **Settings & Integrations** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
 
-> If you don’t have an existing post feed, you can add a new one by clicking the + Add Post Feed button. To learn the details process of adding a new post feed, click here. For example, I used an existing Feed to show the process.
+> [!Note]
+> If you do not have a post feed yet, click **+ Add Post Feed** to create one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) for the full setup. The steps below use an existing feed.
 
 ![Settings Integrations Post Feed Options Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/9.-Settings-Integrations-Post-Feed-options-scaled.webp)
 
@@ -107,7 +108,7 @@ Next, go back to the post form’s **Editor** where you added the Custom Field. 
 
 Now, you can **Edit** or **Customize** this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer you the options for customizing the field. 
 
-> To learn more about the customization of the Text Area field, click here.
+> To learn more about the customization of the Text Area field, [click here](/docs/adding-a-text-area-input-field).
 
 ![Input Customization Option Textarea Field](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/11.-Input-Customization-option-of-Textarea-field-scaled.webp)
 
@@ -119,7 +120,7 @@ Once you complete the customization, click the **Save** **Form** button to save 
 
 ![Save Button Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/12.-Save-form-button-scaled.webp)
 
-## Preview of ACF Field
+### Preview of ACF Field
 
 Here is the preview of the added **ACF** Field in a Post Form.
 
