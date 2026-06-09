@@ -85,11 +85,12 @@ Once the setup is done, click the **Save Feed** button, and your Trello will be 
 After successful Integration, you will now see that your **Trello Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**.
+
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Added Trello Integration Feed](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/10.-Added-Trello-Integration-Feed-scaled.webp)
 
-## Preview of Integrated Trello
+### Preview of Integrated Trello
 
 Here, you can see the preview of the added Trello Contacts through the Form Entries based on the Integration.
 

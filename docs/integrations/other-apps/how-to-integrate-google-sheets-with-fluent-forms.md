@@ -7,9 +7,9 @@
 
 ## Enabling Google Sheets Integration
 
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Google Sheets** through the search bar, and get the **Google Sheets** integration module.
+Go to **Integrations** from the **Fluent Forms Navbar**, search for **Google Sheets** in the search bar, and open the **Google Sheets** integration module.
 
-Now, turn on the **Toggle** to enable the **Google Sheets** module, and click the **Settings Icon** on the right side. 
+Turn on the **Toggle** to enable **Google Sheets**, then click the **Settings Icon** on the right to open its configuration.
 
 ![Enabled Google Sheet Module](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/1.-Enabled-Google-Sheet-module-scaled.webp)
 
@@ -21,8 +21,6 @@ Once you enable Google Sheets, you will be asked for the **Access Code** from yo
 ![Access Code Fluent Forms](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/2.-Access-Code--scaled.webp)
 
 ### Getting the Access Code from Google
-
-To learn how to get the Access Code from Google, follow the steps with screenshots below –
 
 To get the Access Code from Google, [click here](https://accounts.google.com/o/oauth2/auth?access_type=offline&approval_prompt=force&client_id=157785030834-7bkpc1olhgp9kd683c78dclei5elhoku.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Ffluentforms.com%2Fgapi%2F&response_type=code&scope=https%3A%2F%2Fspreadsheets.google.com%2Ffeeds%2F), and select the desired **Google Account** where your desired **Google Sheet** exists.
 
@@ -58,6 +56,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 ![Add Integration Button Integrate Google Sheets](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/8.-Add-new-integration-button-scaled.webp)
 
 Now, a pop-up page will appear with various settings options for configuring the Google Sheet.
+
 Once you set up the page, click the **Save Feed** button, and the feed will be integrated into your form.
 
 > [!Note]
@@ -115,7 +114,7 @@ You can modify your feed anytime by clicking the **Settings Icon** and delete it
 
 ![Added Google Sheets Integration Feed](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/11.-Added-Google-Sheets-Integration-Feed-scaled.webp)
 
-## Preview of Integrated Google Sheets
+### Preview of Integrated Google Sheets
 
 Here, you can see the preview of the added Users in Google Sheets through the Form Entries based on the Integration.
 

@@ -32,7 +32,7 @@ Now, turn on the **Toggle** and the **User Registration or Update** module wil b
 
 ## Integrating BuddyBoss with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and click the **Settings** button. 
+Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and click the **Settings** button. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
@@ -50,9 +50,9 @@ Once you select the list, a pop-up page will appear with various settings option
 
 Finally, scroll down to the BuddyBoss Settings section, and you will get the following options to integrate it with the form.
 
-- Profile Fields: Use all the fields under this option to properly link your BuddyBoss Fields with the Form Fields. You can easily select the value for the form fields based on the BuddyBoss fields using the Shortcode Arrow. Plus, you add or delete as many fields as you want by clicking the Plus or Minus icon on the right side.
+- **Profile Fields:** Use all the fields under this option to properly link your BuddyBoss Fields with the Form Fields. You can easily select the value for the form fields based on the BuddyBoss fields using the Shortcode Arrow. Plus, you add or delete as many fields as you want by clicking the Plus or Minus icon on the right side.
 
-- BuddyBoss Profile Type: Here, you can directly select your desired BuddyBoss Profile Type from the dropdown list by clicking the Arrow Icon on the right side.
+- **BuddyBoss Profile Type:** Here, you can directly select your desired BuddyBoss Profile Type from the dropdown list by clicking the Arrow Icon on the right side.
 
 Once the configuration is done, click the **Save Feed** button, and your BuddyBoss will be integrated into this specific form!
 
