@@ -22,7 +22,7 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 Once you are on **Settings & Integrations**, go to **Slack** from the left menu, and turn on the **Integrate Slack Toggle**.
 
-**Now, the settings options will appear to integrate Slack with Fluent Forms. These are:** 
+Now, the settings options will appear to integrate Slack with Fluent Forms. These are:
 
 **A. Slack Title**: Here you can set the text and information to add as a notification title for sending to the desired Slack channel.
 
@@ -66,7 +66,7 @@ Once you hit the Allow button, you will be redirected to the **Incoming Webhooks
 
 ![Copy Webhook URL](/images/integrations/team-chat/how-to-integrate-slack-with-fluent-forms/9.-Copy-Webhook-URL-1.webp)
 
-## Preview of Integrated Slack
+### Preview of Integrated Slack
 
 Here, you can see the preview of added Slack Notifications through the Form Entries based on the Integration.
 

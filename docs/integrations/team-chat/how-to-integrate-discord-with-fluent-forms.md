@@ -1,6 +1,6 @@
 # How to Integrate Discord with Fluent Forms
 
-**Fluent Forms** allows you to integrate with [Discord](http://discord.com) to send desired information as instant notifications to your Discord channel when a form is submitted. This article will guide you through integrating **Discord** in **Fluent Forms** on your **WordPress Site**.
+**Fluent Forms** allows you to integrate with [Discord](http://discord.com) to send desired information as instant notifications to your Discord channel when a form is submitted. This article will guide you through integrating **Discord** in Fluent Forms on your **WordPress Site**.
 
 > [!Note]
 > **Discord** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
@@ -46,7 +46,7 @@ Once the setup is done, click the **Save Feed** button, and your Discord will be
 
 After successful Integration, you will now see that your **Discord Integration Feed** has been added here. 
 
-You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**.  Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
+You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Added Discord Integration Feed](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/5.-Added-Discord-Integration-Feed-scaled.webp)
 
@@ -71,7 +71,7 @@ Finally, click the **Arrow Icon** next to **Captain Hook** to get your desired *
 
 ![Copy Webhook URL](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/9.-Copy-Webhook-URL.webp)
 
-## Preview of Integrated Discord
+### Preview of Integrated Discord
 
 Here, you can see the preview of added Discord Notifications through the Form Entries based on the Integration.
 
