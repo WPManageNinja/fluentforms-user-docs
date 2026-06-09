@@ -4,6 +4,7 @@ Fluent Forms allows you to pre-fill form fields using subscriber data from [**Fl
 
 This guide will walk you through the steps to automatically populate form fields with FluentCRM contact data.
 
+>[!Note]
 > Only logged in users will get pre-populate form fields with FluentCRM data.
 
 ## Enable the FluentCRM Module
@@ -18,9 +19,7 @@ Now, turn on the **Toggle** to enable the **FluentCRM** module.
 
 ## Using FluentCRM Data Smartcode
 
-To pre-fill the FluentCRM data in your form fields, follow the steps given below-
-
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
