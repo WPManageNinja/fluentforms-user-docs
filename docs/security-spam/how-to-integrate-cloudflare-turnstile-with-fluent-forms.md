@@ -6,8 +6,6 @@ This article will guide you through configuring Cloudflare Turnstile in your Wor
 
 ## Configuring CloudFlare Turnstile
 
-To learn how to configure Turnstile integration, follow the steps with screenshots below – 
-
 First, go to **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, and click the **Turnstile** option.
 
 Now, you will be asked to provide the **Site Key** and **Secret Key** of your **Turnstile Account** for the configuration.
@@ -16,11 +14,10 @@ Now, you will be asked to provide the **Site Key** and **Secret Key** of your **
 
 ### Get the Turnstile Site and Secret Key
 
-To learn how to get the Turnstile Site and Secret keys, follow the steps with the screenshots below – 
+Log in to your [Turnstile Account](https://dash.cloudflare.com/login?lang=en-gb&_gl=1*1urh3iz*_gcl_au*MjEwNTA1MTg0Ni4xNzM2NzYyNDI2*_ga*MTU3NDUxODMwMC4xNzM2NzYyNDU2*_ga_SQCRB0TXZW*MTczNjc3MTAxOC4yLjAuMTczNjc3MTAxOS41OS4wLjA.), go to **Turnstile** from the left-side menu, and click the **Add widget** button. 
 
-First, log in to your [Turnstile Account](https://dash.cloudflare.com/login?lang=en-gb&_gl=1*1urh3iz*_gcl_au*MjEwNTA1MTg0Ni4xNzM2NzYyNDI2*_ga*MTU3NDUxODMwMC4xNzM2NzYyNDU2*_ga_SQCRB0TXZW*MTczNjc3MTAxOC4yLjAuMTczNjc3MTAxOS41OS4wLjA.), go to **Turnstile** from the left-side menu, and click the **Add widget** button. 
-
-> If you don’t have a Turnstile account, you can sign up here.
+> [!Note]
+> If you do not have a Turnstile account, [sign up on Cloudflare](https://dash.cloudflare.com/sign-up).
 
 ![Add Widget Button Integrate Cloudflare Turnstile](/images/security-spam/how-to-integrate-cloudflare-turnstile-with-fluent-forms/2.-Add-Widget-button-scaled.webp)
 
@@ -35,6 +32,7 @@ Then, your domain will be added under the **Selected Hostnames**. You can remove
 ![Add Button Integrate Cloudflare Turnstile](/images/security-spam/how-to-integrate-cloudflare-turnstile-with-fluent-forms/4.-Add-button.webp)
 
 Now, you can choose your **Widget Mode** and **Pre-clearance** according to your preference.
+
 Once you are done, click the **Create** button, and the Site and Secret keys will be shown.
 
 ![Create Button Fluent Forms](/images/security-spam/how-to-integrate-cloudflare-turnstile-with-fluent-forms/5.-Create-button.webp)
@@ -58,8 +56,6 @@ Once you have verified the keys, press the **Save Settings** button to make your
 ![Save Settings Button Integrate Cloudflare Turnstile](/images/security-spam/how-to-integrate-cloudflare-turnstile-with-fluent-forms/8.-Save-Settings-button-scaled.webp)
 
 ## Integrating Turnstile with Forms
-
-To learn the process of integrating the Turnstile in a specific form, follow the steps with screenshots below – 
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this Turnstile protection.
 

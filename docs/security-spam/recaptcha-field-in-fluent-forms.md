@@ -8,8 +8,6 @@ Before adding reCAPTCHA to your form, you will need to **integrate** it with: **
 
 ## Add reCAPTCHA to Your Form
 
-To learn how to add the reCAPTCHA field to the Fluent Forms, follow the steps with the screenshots below –
-
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
 > [!Note]

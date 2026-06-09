@@ -6,21 +6,17 @@ This article will guide you through configuring reCAPTCHA in your WordPress Site
 
 ## Configuring reCAPTCHA Integration
 
-To learn how to configure reCAPTCHA integration, follow the steps with screenshots below – 
+First, go to **Global Settings** from the fluent forms navbar, open the **Security** tab from the left sidebar, click the **reCAPTCHA** option, and two options appear. These are: 
 
-First, go to **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, click the **reCAPTCHA** option, and two options appear. These are: 
+- **Version 2 (Visible reCAPTCHA):** This requires users to check a box indicating they are not a robot, i.e., it verifies the request with a challenge.
 
-- Version 2 (Visible reCAPTCHA): This requires users to check a box indicating they are not a robot, i.e., it verifies the request with a challenge.
-
-- Version 3 (Visible reCAPTCHA): This operates in the background and scores the user’s interaction to determine if they are a bot, i.e., it verifies the request with a score.
+- **Version 3 (Visible reCAPTCHA):** This operates in the background and scores the user’s interaction to determine if they are a bot, i.e., it verifies the request with a score.
 
 Now, select the desired **Version** of **reCAPTCHA** and provide the **Site Key** and **Secret Key** of your chosen reCAPTCHA version. **For example**, I chose V3 to show the process. 
 
 ![Global Settings Security reCAPTCHA Settings](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/1.-Global-Settings-Security-reCAPTCHA-Settings-scaled.webp)
 
 ### Get the reCAPTCHA Site and Secret Key
-
-To learn how to get the reCAPTCHA Site and Secret keys, follow the steps with the screenshots below – 
 
 First, go to the [Google reCAPTCHA Site](https://www.google.com/recaptcha/admin/), and click the **Plus Icon**.  
 
@@ -46,13 +42,11 @@ Return to the **Global Settings** from the **FluentForms Navbar**, open the **Se
 
 Now, paste the **Keys** you copied from the **Google reCAPTCHA Site** into the **Site Key** and **Secret Key** fields respectively. 
 
-Finally, press the **Save Settings** button to make your **reCAPTCHA Integration** functional. 
+Finally, click the **Save Settings** button to make your **reCAPTCHA Integration** functional. 
 
 ![Paste Keys Fluent Forms](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/5.-paste-keys-scaled.webp)
 
 ## Integrating reCAPTCHA with Forms
-
-To learn the process of integrating the reCAPTCHA in a specific form, follow the steps with screenshots below – 
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this reCAPTCHA protection.
 

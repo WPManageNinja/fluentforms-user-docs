@@ -6,17 +6,13 @@ This article will guide you through configuring hCaptcha in your WordPress Site 
 
 ## Configuring hCaptcha Integration
 
-To learn how to configure hCaptcha integration, follow the steps with screenshots below – 
-
-First, go to **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, and click the **hCaptcha** option.
+First, go to **Global Settings** from the fluent forms navbar, open the **Security** tab from the left sidebar, and click the **hCaptcha** option.
 
 Now, you will be asked to provide the **Site Key** and **Secret Key** of your **hCaptcha Account** for the configuration.
 
 ![hCaptcha Settings Page](/images/security-spam/how-to-integrate-hcaptcha-with-fluent-forms/1.-hCAPTCHA-Settings-page-scaled.webp)
 
 ### Getting the hCaptcha Site and Secret Key
-
-To learn how to get the hCaptcha Site and Secret keys, follow the steps with the screenshots below – 
 
 First, log in to your [hCaptcha Account](https://www.hcaptcha.com/). If you don’t have an hCaptcha account, [sign up here](https://www.hcaptcha.com/).
 
@@ -68,9 +64,7 @@ Finally, press the **Save Settings** button to make your **hCaptcha Integration*
 
 ## Integrating hCaptcha with Forms
 
-To learn the process of integrating the hCaptcha in a specific form, follow the steps with screenshots below – 
-
-First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this hCaptcha protection.
+Go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this hCaptcha protection.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.

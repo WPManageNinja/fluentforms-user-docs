@@ -4,22 +4,21 @@ hCaptcha is a privacy-focused anti-bot solution that helps prevent spam and pass
 
 This article will guide you through adding the **hCaptcha** field in **Fluent Forms** for your WordPress site.
 
-> Fluent Forms supports hCaptcha in both General Forms and Conversational Forms templates.
+> [!Note]
+> Fluent Forms supports hCaptcha in both **General Forms** and **Conversational Forms** templates.
 
-### Adding hCaptcha Field
-
-To learn how to add the **hCaptcha** field to Fluent Forms, follow the steps below:
+## Adding hCaptcha Field
 
 Before using hCaptcha, you must configure it with a **Site Key** and **Secret key**. If you want to learn more details, read the hCaptcha Integration Guideline [article](/docs/how-to-integrate-hcaptcha-with-fluent-forms).
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit hCaptcha](/images/security-spam/hcaptcha-in-fluent-forms/edit-form-01-9-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+Once you are on the **Editor** page, click the **Plus **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **InputvFields** tab. 
 
 Now, select the desired **hCaptcha** **Input** field by **Clicking** on it or **Dragging** and **Dropping** it into your editor.
 

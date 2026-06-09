@@ -12,9 +12,7 @@ Honeypot is a clever cybersecurity strategy that acts like a digital decoy, desi
 
 Basically, it prevents spam bots by incorporating a hidden field into your contact form. This field is invisible to genuine users, but bots lacking intelligence will still fill it out. By doing so, the honeypot can identify these bots and block their submissions.
 
-**To learn how to protect your forms using HoneyPot Security, follow the steps below –** 
-
-First, go to **Global Settings** from the **FluentForms Navbar**, open the **General** tab from the left sidebar, and click the **Miscellaneous** option.
+Go to **Global Settings** from the fluent forms navbar, open the **General** tab from the left sidebar, and click the **Miscellaneous** option.
 
 Now, turn on the **Enable Honeypot Security** toggle, and the security will be enabled to protect your forms from spambots. 
 
@@ -27,25 +25,25 @@ Don’t forget to click the **Save Settings** button to make all the setup funct
 
 ## Spam Protection using reCAPTCHA
 
-**reCAPTCHA** is a **CAPTCHA** system designed by **Google** to protect websites from bots by ensuring that a computer user is human with the power of machine learning.
+**reCAPTCHA** is Google's **CAPTCHA** system. It uses machine learning to distinguish humans from bots and helps block spam submissions on your forms.
 
-**To learn how to protect your forms using reCAPTCHA, follow the steps below –** 
+Go to **Global Settings** from the **Fluent Forms Navbar**, open the **General** tab, and select **Miscellaneous**.
 
-First, go to **Global Settings** from the **FluentForms Navbar**, open the **General** tab from the left sidebar, and click the **Miscellaneous** option. 
+Scroll to **Auto Load CAPTCHA**, turn on the toggle, and select **Google reCAPTCHA**. reCAPTCHA will then load on all Fluent Forms automatically.
 
-Now, scroll down to **Auto Load CAPTCHA**, turn on the **toggle**, select the **Google reCAPTCHA** option, and the **reCAPTCHA** will automatically load in all fluent forms to protect them from spam.
-
-Don’t forget to click the **Save Settings** button to make all the setup functional. 
+Click **Save Settings** to apply the change.
 
 ![Auto Load Captcha Toggle From General Tab Global Settings](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms/2.-Auto-load-CAPTCHA-toggle-from-General-tab-of-global-Settings-scaled.webp)
 
-> But, to enable this option, you need to integrate the Google reCAPTCHA with your Fluent Forms first.
+> [!Note]
+> To enable this option, integrate **Google reCAPTCHA** with Fluent Forms first.
 
 To do this, go to **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, and click the **reCAPTCHA** option.
 
 Now, select the desired **Version** of reCAPTCHA, provide the **Site & Secret Keys,** and click the **Save Settings** button.
 
-> To learn the detailed process of collecting Site & Secret Keys to integrate reCAPTCHA with Fluent Forms, read this Documentation.
+> [!Note]
+> To collect the **Site Key** and **Secret Key** for reCAPTCHA, see [How to Integrate reCAPTCHA with Fluent Forms](/docs/how-to-integrate-recaptcha-with-fluent-forms).
 
 ![reCAPTCHA Settings Fluent Forms](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms/3.-reCAPTCHA-Settings-scaled.webp)
 
