@@ -4,6 +4,7 @@ To make managing your Fluent Forms more efficient, you can assign Managers to sp
 
 This article will guide you through creating a **Manager** and setting their permissions.
 
+>[!Note]
 > By default, the WordPress Administrator will have full access to all Fluent Forms features.
 
 ## Access Manager Settings
