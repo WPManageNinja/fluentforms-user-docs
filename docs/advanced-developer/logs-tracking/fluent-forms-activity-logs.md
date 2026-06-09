@@ -4,7 +4,7 @@ The **Activity** **Logs** feature keeps a record of actions performed in all you
 
 ## Activity Logs
 
-To learn where you can find the **Activity** **Logs** and their functionalities, follow the steps with Screenshots and GIFs below —
+To learn where you can find the **Activity Logs** and their functionalities, follow the steps with Screenshots and GIFs below —
 
 > [!Note]
 > This list shows entry activity only when an **action** was recorded for that submission.
@@ -13,7 +13,7 @@ First, go to **Tools** from **WordPress Left Sidebar** or **Fluent Forms Navbar*
 
 ![Tools Activity Logs](/images/advanced-developer/logs-tracking/fluent-forms-activity-logs/1.-Tools-Activity-Logs-scaled.webp)
 
-### Filter Your Activity Logs
+## Filter Your Activity Logs
 
 However, if you want to see activities of a particular form or action, this page has four filtering options with dropdown lists to filter your forms. These are:
 

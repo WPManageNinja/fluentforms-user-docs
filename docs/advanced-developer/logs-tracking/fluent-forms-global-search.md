@@ -4,8 +4,6 @@
 
 ## Global Search
 
-To learn how to use this Global Search, follow the steps below – 
-
 First, to access this feature, simply go to the **Fluent Forms** plugin from the **WordPress Admin Panel** on the left side.
 
 Once you are on the **Fluent Forms Dashboard**, you will find the Global Search option in the top right corner as shown in the screenshot below.
