@@ -8,7 +8,7 @@ In this article, below are explanations of what type of shortcode and their use 
 
 ### Smart Shortcode
 
-This shortcode collects data from your website, user profiles, post details, and FluentCRM contacts. Want to learn more? Read the full [article](https://fluentforms.com/?post_type=docs&p=50118).
+This shortcode collects data from your website, user profiles, post details, and FluentCRM contacts. Want to learn more? Read the full [Smart Shortcodes guide](/docs/form-editor-smart-codes).
 
 ### Confirmation Settings Shortcode
 
