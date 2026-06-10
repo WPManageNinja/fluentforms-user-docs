@@ -82,7 +82,7 @@ Now, you need to **configure** the **Post Feed** to make your Custom Field funct
 First, go to **Settings & Integrations** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
 
 > [!Note]
-> If you do not have a post feed yet, click **+ Add Post Feed** to create one. See [How to Create a Post Form with Fluent Forms](/how-to-create-a-post-form-with-fluent-forms) for the full setup. The steps below use an existing feed.
+> If you do not have a post feed yet, click **+ Add Post Feed** to create one. See [How to Create a Post Form with Fluent Forms](/create-a-post-form) for the full setup. The steps below use an existing feed.
 
 ![Settings Integrations Post Feed Options Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/9.-Settings-Integrations-Post-Feed-options-scaled.webp)
 

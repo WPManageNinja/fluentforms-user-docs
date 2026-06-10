@@ -54,7 +54,7 @@ Configure **Advanced** options:
 
 **D. Element Class**: Add custom CSS classes to the input field itself. This is used for adding Custom CSS/JS for a specific input field of a form.
 
-**E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
+**E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
 
 ![Advanced Option Fluent Forms](/images/form-fields/post-taxonomy-fields/add-post-title-field-in-post-forms/5.-Advanced-option-scaled.webp)
 
@@ -63,7 +63,7 @@ Configure **Advanced** options:
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
 > [!Note]
-> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/how-to-create-a-post-form-with-fluent-forms).
+> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/create-a-post-form).
 
 ## Embed the Form into Frontend
 

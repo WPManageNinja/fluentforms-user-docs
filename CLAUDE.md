@@ -70,10 +70,10 @@ SHORT `/<slug>` form. A section either lists leaf items directly, or holds sub-g
 ```json
 [
   { "text": "Getting Started", "collapsed": true,
-    "items": [ { "text": "Install Fluent Forms", "link": "/how-to-install-fluent-forms" } ] },
+    "items": [ { "text": "Install Fluent Forms", "link": "/install-fluent-forms" } ] },
   { "text": "Form Fields", "collapsed": true, "items": [
     { "text": "General Fields", "collapsed": true,
-      "items": [ { "text": "Dropdown", "link": "/dropdown-field-in-fluent-forms" } ] }
+      "items": [ { "text": "Dropdown", "link": "/dropdown-field" } ] }
   ] }
 ]
 ```
@@ -115,7 +115,7 @@ Image folders **mirror the docs tree** (same section/sub-group path as the `.md`
 8. Pro-only features: add "(Pro)" after the name or a note.
 9. No fenced code blocks for UI instructions — plain text/bullets only.
 10. Short, direct sentences. User-facing docs, not developer prose.
-11. No support-boilerplate closers (e.g. "contact our support team", "reach out for assistance"). For help, link `[How to Get Support](/how-to-get-support)`.
+11. No support-boilerplate closers (e.g. "contact our support team", "reach out for assistance"). For help, link `[How to Get Support](/get-support)`.
 12. Maintin the writing tone with the existing documentations.
 13. Use second person 'you/your', active sentence, and present tense sentence. 
 

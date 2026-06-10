@@ -1,6 +1,6 @@
 # Partial Entries for Step Forms
 
-Long or [multi-step forms](/creating-a-multi-step-form-in-fluent-forms) can be overwhelming, and many users leave them incomplete. Fluent Forms solves this problem with its **Partial Entries (Abandoned)** feature. Now, users can save their progress step-by-step, ensuring no data is lost even if they leave mid-way. 
+Long or [multi-step forms](/creating-a-multi-step-form) can be overwhelming, and many users leave them incomplete. Fluent Forms solves this problem with its **Partial Entries (Abandoned)** feature. Now, users can save their progress step-by-step, ensuring no data is lost even if they leave mid-way. 
 
 This guide will show you how to enable this feature, helping users pick up exactly where they left off.
 
@@ -8,7 +8,7 @@ This guide will show you how to enable this feature, helping users pick up exact
 
 To enable partial entries in your forms, first, Open the form editor and add the **Form Step** field from the **Advanced Fields** section. 
 
-Click on the **Enable Per Step Data Save (Save & Continue)** option to save data after each step. This pairs with the [Save Progress Button](/save-progress-button-in-fluent-forms) when you want users to resume later.
+Click on the **Enable Per Step Data Save (Save & Continue)** option to save data after each step. This pairs with the [Save Progress Button](/save-progress-button) when you want users to resume later.
 
 > [!Note]
 > Partial entries will be saved after clicking on the Next button, not on form submission.

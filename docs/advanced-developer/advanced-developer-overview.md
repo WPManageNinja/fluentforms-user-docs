@@ -6,9 +6,9 @@ Ready to push your forms further? **Fluent Forms** gives power users and develop
 
 Insert dynamic data anywhere. Use shortcodes and smart codes to personalize forms, emails, and confirmations on the fly.
 
-- [Shortcodes Overview](/fluent-forms-shortcodes-overview) — learn how Fluent Forms shortcodes work.
-- [Helper Shortcodes](/using-helper-shortcodes-in-fluent-forms) — pull in user, post, and submission data.
-- [Conditional Shortcodes](/conditional-shortcodes-in-fluent-forms) — show content based on conditions.
+- [Shortcodes Overview](/shortcodes-overview) — learn how Fluent Forms shortcodes work.
+- [Helper Shortcodes](/using-helper-shortcodes) — pull in user, post, and submission data.
+- [Conditional Shortcodes](/conditional-shortcodes) — show content based on conditions.
 - [Smart Codes](/form-editor-smart-codes) — insert dynamic values inside the form editor.
 - [Pre-Fill from FluentCRM](/pre-fill-form-fields-with-fluentcrm-data) — auto-fill fields with FluentCRM data.
 
@@ -16,19 +16,19 @@ Insert dynamic data anywhere. Use shortcodes and smart codes to personalize form
 
 Connect to your data model. Map form input to custom fields and meta keys across popular frameworks.
 
-- [Meta Box](/how-to-use-meta-box-custom-fields-with-fluent-forms) — save submissions to Meta Box custom fields.
-- [Mapping Meta Fields](/mapping-meta-fields-with-meta-keys-in-fluent-forms) — link form fields to custom meta keys.
+- [Meta Box](/use-meta-box-custom-fields) — save submissions to Meta Box custom fields.
+- [Mapping Meta Fields](/mapping-meta-fields-with-meta-keys) — link form fields to custom meta keys.
 - [ACF Custom Fields](/use-acf-to-add-a-custom-field-in-the-post-form) — use Advanced Custom Fields in post forms.
-- [JetEngine](/using-jetengine-custom-fields-with-fluent-forms) — work with JetEngine custom fields.
+- [JetEngine](/using-jetengine-custom-fields) — work with JetEngine custom fields.
 
 ## Logs, Tracking & Utilities
 
 Stay in control. Monitor activity, track conversions, and find anything fast.
 
-- [API Logs](/fluent-form-api-logs) — review outgoing API requests and responses.
-- [Activity Logs](/fluent-forms-activity-logs) — see a record of actions on your forms.
-- [Event Tracking (GA4)](/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager) — track form events in Google Analytics 4.
-- [Global Search](/fluent-forms-global-search) — find forms, entries, and settings instantly.
+- [API Logs](/api-logs) — review outgoing API requests and responses.
+- [Activity Logs](/activity-logs) — see a record of actions on your forms.
+- [Event Tracking (GA4)](/event-tracking-with-google-analytics-ga4-via-google-tag-manager) — track form events in Google Analytics 4.
+- [Global Search](/global-search) — find forms, entries, and settings instantly.
 - [Phone Geo-Location](/phone-field-geo-location-provider) — set the geo-location provider for phone fields.
 
 ## Localization
@@ -36,13 +36,13 @@ Stay in control. Monitor activity, track conversions, and find anything fast.
 Speak your users' language. Translate forms and fields for a global audience.
 
 - [Translate with WPML](/translate-forms-with-wpml) — make your forms multilingual with WPML.
-- [Translate Datepicker](/translate-datepicker-field-of-fluent-forms-plugin) — localize the date picker field.
+- [Translate Datepicker](/translate-datepicker-field) — localize the date picker field.
 
 ## Where to go next
 
 Looking for more developer power? Explore the wider Fluent Forms ecosystem:
 
-- [Fluent Forms Shortcodes Overview](/fluent-forms-shortcodes-overview) — your starting point for dynamic content.
+- [Fluent Forms Shortcodes Overview](/shortcodes-overview) — your starting point for dynamic content.
 - [Developer Documentation](https://developers.fluentforms.com/) — hooks, filters, and the full API reference.
 
-Need a hand along the way? See [How to Get Support](/how-to-get-support).
+Need a hand along the way? See [How to Get Support](/get-support).

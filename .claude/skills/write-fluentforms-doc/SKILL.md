@@ -29,7 +29,7 @@ a clean build. Canonical conventions live in `CLAUDE.md` — this skill is the *
 8. **DO NOT** put `docs/` or the category in any link path (`/docs/<slug>`, `/docs/<category>/<slug>` are wrong).
 9. **DO NOT** use relative links (`./slug`, `../slug`).
 10. **DO NOT** leave support boilerplate ("contact our support team", "reach out … for
-    assistance"); link `[How to Get Support](/how-to-get-support)` instead.
+    assistance"); link `[How to Get Support](/get-support)` instead.
 11. **DO NOT** invent a new category folder or a new sidebar group without asking the user.
 12. **DO NOT** write `** term **` (inner-whitespace bold) — use `**term**`.
 13. **DO** keep the section overview in sync: if the new doc lands in one of the 8 sections

@@ -9,7 +9,7 @@ This article guides you on how to set default form values from URL parameters in
 Go to **Forms** from the top navbar and **open** the **Editor** page of the form you want to set the default form value via URL parameters. Then, click the **Edit** button to access the **Editor** page of the form you wish to modify.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
 
 Add the input fields where the value must be set from the URL parameter or select the existing one. In this case, it’s the **Email field**. Then, go to **Advanced Options** from the dropdown.
 
@@ -17,7 +17,7 @@ Add the input fields where the value must be set from the URL parameter or selec
 
 ## Enable GET Parameter for Field
 
-Click the **Three-dot** **Icon** of the **Default Value** field. Then, select the first option, **Populate by GET Param**. This is one of the [Dynamic Default Value](/dynamic-default-value-in-fluent-forms) options available for input fields. Don’t forget the **Name Attribut**e, which is email in this case.
+Click the **Three-dot** **Icon** of the **Default Value** field. Then, select the first option, **Populate by GET Param**. This is one of the [Dynamic Default Value](/dynamic-default-value) options available for input fields. Don’t forget the **Name Attribut**e, which is email in this case.
 
 ![URL Populate](/images/configuring-forms/conditional-logic/set-default-form-value-from-url-parameters/URL-populate-01-1-scaled.webp)
 
@@ -53,6 +53,6 @@ https://yourdomain.com/your page/?**email**=mnb@mail.com&**age**=90
 
 ### URL Parameter on your Landing Page
 
-You can also set a default form value from a URL parameter on your **Landing Page** as same way. To know more about the landing page in fluent form, read the [Dedicated Landing Page in Fluent Forms](/dedicated-landing-page-in-fluent-forms) documentation.
+You can also set a default form value from a URL parameter on your **Landing Page** as same way. To know more about the landing page in fluent form, read the [Dedicated Landing Page in Fluent Forms](/dedicated-landing-page) documentation.
 
 ![Set Default Form Value from URL Parameters step](/images/configuring-forms/conditional-logic/set-default-form-value-from-url-parameters/333-scaled.webp)

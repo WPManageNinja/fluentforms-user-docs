@@ -60,7 +60,7 @@ Configure **Advanced Options** options:
 
 **F: Max text length**: Here, you can **set** the **maximum number of characters** the **Textarea** field will occupy in the form.
 
-**G. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
+**G. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options](/images/form-fields/post-taxonomy-fields/add-post-content-field-in-post-forms/5.-Advanced-Options-4-scaled.webp)
 
@@ -69,7 +69,7 @@ Configure **Advanced Options** options:
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
 > [!Note]
-> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/how-to-create-a-post-form-with-fluent-forms).
+> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/create-a-post-form).
 
 ## Embed the Form into Frontend
 

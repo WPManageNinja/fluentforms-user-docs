@@ -54,4 +54,4 @@ Use the dropdown menu at the top-right of the table to change the analysis type.
 
 ![Submission Analysis By](/images/managing-submissions/reports/submission-reports/submission-analysis-by-forms-03-scaled.webp)
 
-This dashboard offers powerful insights into how users interact with your forms. For per-field charts on a single form, see [Visual Representation of Form Entries](/visual-representation-of-form-entries-in-fluent-forms).
+This dashboard offers powerful insights into how users interact with your forms. For per-field charts on a single form, see [Visual Representation of Form Entries](/visual-representation-of-form-entries).

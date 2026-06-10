@@ -13,7 +13,7 @@ For example, I choose an existing form to show the whole process.
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Payment Method** field.
 
 > [!Note]
-> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/how-to-create-a-payment-form-with-fluent-form).
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/create-a-payment-form).
 
 ![Add Payment Method](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/2.-Add-Payment-Method-scaled.webp)
 
@@ -40,7 +40,7 @@ Here, you will get various settings options for customizing the field. Each opti
    - **Payment Methods:** Here you will get all the available Payment Method Platforms. Now, select the desired Payment Platform/s by clicking the Checkbox/es that you want to use for collecting payments through the form submissions.
 
 > [!Note]
-> Selected payment methods will not work until you complete payment configuration. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings-with-fluent-forms), then follow the guide for your chosen gateway in the [Payments overview](/payments-overview).
+> Selected payment methods will not work until you complete payment configuration. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings), then follow the guide for your chosen gateway in the [Payments overview](/payments-overview).
 
 **D. Default Value:** If you would like to pre-populate the value of a field, enter it here. [View All the smart codes here](/form-editor-smart-codes).
 
@@ -58,7 +58,7 @@ Each option in the **Advanced Options** tab is explained below.
 
 **C. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
-**D. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**D. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/5.-Advanced-Options-scaled.webp)
 

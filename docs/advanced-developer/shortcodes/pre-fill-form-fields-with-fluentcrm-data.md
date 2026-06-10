@@ -1,6 +1,6 @@
 # Pre-Fill Form Fields with FluentCRM Data
 
-Fluent Forms allows you to pre-fill form fields using subscriber data from [**FluentCRM**](/fluentcrm-integration-with-fluent-forms). This feature is useful for personalizing form experiences and improving user engagement.
+Fluent Forms allows you to pre-fill form fields using subscriber data from [**FluentCRM**](/fluentcrm-integration). This feature is useful for personalizing form experiences and improving user engagement.
 
 This guide will walk you through the steps to automatically populate form fields with FluentCRM contact data.
 
@@ -27,7 +27,7 @@ Once you are on the **Editor** page, click the **Plus** **Icon** in your form ed
 
 ![Add Field Pre-Fill Form Fields with](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/add-field-03-scaled.webp)
 
-Now, hover over the newly added field and click the **Pencil Icon**. Navigate to the **Input Customization** tab on the right sidebar. Scroll to **Advanced Options** and find the **Default Value** drop-down. In some **Input Fields**, you will find this **Default Value** option as [**Dynamic Default**](/dynamic-default-value-in-fluent-forms).
+Now, hover over the newly added field and click the **Pencil Icon**. Navigate to the **Input Customization** tab on the right sidebar. Scroll to **Advanced Options** and find the **Default Value** drop-down. In some **Input Fields**, you will find this **Default Value** option as [**Dynamic Default**](/dynamic-default-value).
 
 In the **Default Value** field, add FluentCRM shortcodes to automatically fetch and populate data from FluentCRM contact information into the form fields.
 

@@ -42,7 +42,7 @@ export default defineConfig({
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Get Started', link: '/getting-started-with-fluent-forms' },
+      { text: 'Get Started', link: '/getting-started' },
       { text: 'Website', link: 'https://fluentforms.com/' },
       { text: 'Changelog', link: '/changelog' },
     ],

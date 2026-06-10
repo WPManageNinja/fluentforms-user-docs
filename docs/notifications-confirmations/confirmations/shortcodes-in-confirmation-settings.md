@@ -1,6 +1,6 @@
 # Shortcodes in Confirmation Settings
 
-**Smart Shortcodes** let you insert dynamic values into confirmation messages, email notifications, [PDFs](/fluent-forms-pdf-module), custom post submissions, and [quiz](/fluent-forms-quiz-module) results. Use them to show submitted field data, labels, payment details, and WordPress-related information without hard-coding values.
+**Smart Shortcodes** let you insert dynamic values into confirmation messages, email notifications, [PDFs](/pdf-module), custom post submissions, and [quiz](/quiz-module) results. Use them to show submitted field data, labels, payment details, and WordPress-related information without hard-coding values.
 
 This guide lists every shortcode available in **Confirmation Settings** and explains what each one outputs. For shortcodes used to pre-fill form fields in the editor, see [Form Editor Smart Codes](/form-editor-smart-codes).
 
@@ -125,4 +125,4 @@ To show a specific field value from a form submission on the front end, add this
 
 Replace `form_id`, `field`, and other parameters to match your form and the field you want to display.
 
-To add shortcodes inside a confirmation message, open your form's **Settings & Integrations** tab and use **Confirmation Settings**. See [Setup Form Submission Confirmation Message in Fluent Forms](/setup-form-submission-confirmation-message-in-fluent-forms) for step-by-step setup. For more dynamic options, see [Using Helper Shortcodes](/using-helper-shortcodes-in-fluent-forms).
+To add shortcodes inside a confirmation message, open your form's **Settings & Integrations** tab and use **Confirmation Settings**. See [Setup Form Submission Confirmation Message in Fluent Forms](/setup-form-submission-confirmation-message) for step-by-step setup. For more dynamic options, see [Using Helper Shortcodes](/using-helper-shortcodes).

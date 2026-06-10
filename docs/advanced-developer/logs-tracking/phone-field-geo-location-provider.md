@@ -1,6 +1,6 @@
 # Phone Field GEO-Location Provider
 
-Fluent Forms supports **GEO-location detection** for [phone number fields](/phonemobile-input-field-in-fluent-forms), allowing the form to **automatically detect a user's country** based on their IP address. This improves user experience and ensures more accurate data collection.
+Fluent Forms supports **GEO-location detection** for [phone number fields](/phonemobile-input-field), allowing the form to **automatically detect a user's country** based on their IP address. This improves user experience and ensures more accurate data collection.
 
 Follow this simple step by step process to enable this feature.
 

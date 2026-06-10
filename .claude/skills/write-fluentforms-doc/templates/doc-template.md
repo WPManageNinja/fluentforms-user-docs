@@ -26,7 +26,7 @@ SCAFFOLD NOTES — delete before saving:
 - Cross-links: /<slug> ONLY. Never /docs/<slug>, never /docs/<category>/<slug>, never ./ or ../
 - Images: store at docs/public/images/<category>/<slug>/, reference /images/<category>/<slug>/<file>
 - Pro-only features: append "(Pro)" after the feature name.
-- No support boilerplate. For help, link [How to Get Support](/how-to-get-support).
+- No support boilerplate. For help, link [How to Get Support](/get-support).
 - Bold has no inner spaces: **term** not ** term **.
 - After writing, add the page to .vitepress/sidebar.json and run npm run docs:build.
 -->

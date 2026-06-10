@@ -54,7 +54,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -70,7 +70,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **H. Max Text Length:** You can set the maximum number of characters that the input field can accept. This is ideal for limiting responses like postal codes or shortcodes.
 
-**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Textarea Advanced Option](/images/form-fields/general-fields/adding-a-text-area-input-field/textarea-advanced-option-scaled.webp)
 

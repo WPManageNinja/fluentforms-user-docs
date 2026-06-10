@@ -6,8 +6,8 @@ Turn any form into a checkout. **Fluent Forms** lets you collect one-time paymen
 
 Lay the foundation. Create your first payment form and configure how money is collected.
 
-- [Create a Payment Form](/how-to-create-a-payment-form-with-fluent-form) — build a form that accepts payments from scratch.
-- [Payment Settings](/configure-payment-settings-with-fluent-forms) — set your currency, gateways, and global payment options.
+- [Create a Payment Form](/create-a-payment-form) — build a form that accepts payments from scratch.
+- [Payment Settings](/configure-payment-settings) — set your currency, gateways, and global payment options.
 
 ## Payment Fields
 
@@ -25,14 +25,14 @@ Build flexible pricing. Mix and match fields to charge fixed prices, custom amou
 
 Get paid your way. Connect the gateways your customers already trust.
 
-- [Stripe](/how-to-integrate-stripe-with-fluent-forms) — accept cards and wallets with Stripe.
-- [PayPal](/how-to-integrate-paypal-with-fluent-forms) — take payments through PayPal.
-- [Mollie](/how-to-integrate-mollie-with-fluent-forms) — collect European payment methods with Mollie.
-- [Razorpay](/how-to-integrate-razorpay-with-fluent-forms) — accept payments in India with Razorpay.
-- [Square](/how-to-integrate-square-with-fluent-forms-inline-payment-integration) — take inline payments with Square.
-- [Paddle](/how-to-integrate-paddle-with-fluent-forms) — sell digital products with Paddle.
-- [Paystack](/how-to-integrate-paystack-with-fluent-forms) — accept payments across Africa with Paystack.
-- [Authorize.Net](/how-to-integrate-authorizenet-with-fluent-forms) — process cards with Authorize.Net.
+- [Stripe](/integrate-stripe) — accept cards and wallets with Stripe.
+- [PayPal](/integrate-paypal) — take payments through PayPal.
+- [Mollie](/integrate-mollie) — collect European payment methods with Mollie.
+- [Razorpay](/integrate-razorpay) — accept payments in India with Razorpay.
+- [Square](/integrate-square-inline-payment-integration) — take inline payments with Square.
+- [Paddle](/integrate-paddle) — sell digital products with Paddle.
+- [Paystack](/integrate-paystack) — accept payments across Africa with Paystack.
+- [Authorize.Net](/integrate-authorizenet) — process cards with Authorize.Net.
 
 ## Payment Reports
 
@@ -44,7 +44,7 @@ Stay on top of revenue. See every transaction and subscription at a glance.
 
 Pair payments with the rest of your workflow:
 
-- [Managing Entries](/managing-entries-in-fluent-forms) — review and manage every paid submission.
-- [Integrate Stripe](/how-to-integrate-stripe-with-fluent-forms) — set up the most popular gateway first.
+- [Managing Entries](/managing-entries) — review and manage every paid submission.
+- [Integrate Stripe](/integrate-stripe) — set up the most popular gateway first.
 
-Need a hand along the way? See [How to Get Support](/how-to-get-support).
+Need a hand along the way? See [How to Get Support](/get-support).

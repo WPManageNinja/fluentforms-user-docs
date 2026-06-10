@@ -5,23 +5,23 @@
     "items": [
       {
         "text": "Introduction",
-        "link": "/getting-started-with-fluent-forms"
+        "link": "/getting-started"
       },
       {
         "text": "Install Fluent Forms",
-        "link": "/how-to-install-fluent-forms"
+        "link": "/install-fluent-forms"
       },
       {
         "text": "Upgrade to Pro",
-        "link": "/upgrade-to-fluent-forms-pro-add-on"
+        "link": "/upgrade-to-pro-add-on"
       },
       {
         "text": "User Interface",
-        "link": "/fluent-forms-user-interface"
+        "link": "/user-interface"
       },
       {
         "text": "Glossary",
-        "link": "/fluent-forms-glossary"
+        "link": "/glossary"
       }
     ]
   },
@@ -39,19 +39,19 @@
         "items": [
           {
             "text": "Create a Form",
-            "link": "/how-to-create-a-form-with-fluent-forms"
+            "link": "/create-a-form"
           },
           {
             "text": "Pre-built Quick Forms",
-            "link": "/using-and-customizing-pre-built-quick-forms-in-fluent-forms"
+            "link": "/using-and-customizing-pre-built-quick-forms"
           },
           {
             "text": "Create with Fluent Forms AI",
-            "link": "/how-to-create-a-form-with-fluent-forms-ai"
+            "link": "/create-a-form-with-ai"
           },
           {
             "text": "Create with OpenAI ChatGPT",
-            "link": "/how-to-create-a-form-with-openai-chatgpt"
+            "link": "/create-a-form-with-openai-chatgpt"
           }
         ]
       },
@@ -61,11 +61,11 @@
         "items": [
           {
             "text": "Create a Conversational Form",
-            "link": "/how-to-create-a-conversational-form"
+            "link": "/create-a-conversational-form"
           },
           {
             "text": "Design a Conversational Form",
-            "link": "/how-to-design-a-conversational-form"
+            "link": "/design-a-conversational-form"
           }
         ]
       },
@@ -75,31 +75,31 @@
         "items": [
           {
             "text": "Post Form",
-            "link": "/how-to-create-a-post-form-with-fluent-forms"
+            "link": "/create-a-post-form"
           },
           {
             "text": "User Registration Form",
-            "link": "/how-to-create-a-wordpress-user-registration-form-with-fluent-forms"
+            "link": "/create-a-wordpress-user-registration-form"
           },
           {
             "text": "User Update Form",
-            "link": "/how-to-create-a-wordpress-user-update-form-with-fluent-forms"
+            "link": "/create-a-wordpress-user-update-form"
           },
           {
             "text": "Multi-Step Form",
-            "link": "/creating-a-multi-step-form-in-fluent-forms"
+            "link": "/creating-a-multi-step-form"
           },
           {
             "text": "Surveys & Polls",
-            "link": "/surveys-and-polls-in-fluent-forms"
+            "link": "/surveys-and-polls"
           },
           {
             "text": "Personality Quiz Form",
-            "link": "/creating-a-personality-quiz-form-in-fluent-forms"
+            "link": "/creating-a-personality-quiz-form"
           },
           {
             "text": "Inline Opt-in Form",
-            "link": "/inline-opt-in-form-using-fluent-forms"
+            "link": "/inline-opt-in-form"
           }
         ]
       }
@@ -127,23 +127,23 @@
           },
           {
             "text": "Name",
-            "link": "/name-input-field-in-fluent-forms"
+            "link": "/name-input-field"
           },
           {
             "text": "Email Address",
-            "link": "/email-address-input-field-in-fluent-forms"
+            "link": "/email-address-input-field"
           },
           {
             "text": "Numeric",
-            "link": "/numeric-input-field-in-fluent-forms"
+            "link": "/numeric-input-field"
           },
           {
             "text": "Phone / Mobile",
-            "link": "/phonemobile-input-field-in-fluent-forms"
+            "link": "/phonemobile-input-field"
           },
           {
             "text": "Address",
-            "link": "/address-input-field-in-fluent-forms"
+            "link": "/address-input-field"
           },
           {
             "text": "Website URL",
@@ -155,39 +155,39 @@
           },
           {
             "text": "Dropdown",
-            "link": "/dropdown-field-in-fluent-forms"
+            "link": "/dropdown-field"
           },
           {
             "text": "Radio",
-            "link": "/radio-field-in-fluent-forms"
+            "link": "/radio-field"
           },
           {
             "text": "Checkbox",
-            "link": "/checkbox-field-in-fluent-forms"
+            "link": "/checkbox-field"
           },
           {
             "text": "Multiple Choice",
-            "link": "/multiple-choice-field-in-fluent-forms"
+            "link": "/multiple-choice-field"
           },
           {
             "text": "Country List",
-            "link": "/country-list-field-in-fluent-form"
+            "link": "/country-list-field"
           },
           {
             "text": "Time & Date",
-            "link": "/time-date-input-field-in-fluent-forms"
+            "link": "/time-date-input-field"
           },
           {
             "text": "File Upload",
-            "link": "/file-upload-input-field-in-fluent-forms"
+            "link": "/file-upload-input-field"
           },
           {
             "text": "Image Upload",
-            "link": "/image-upload-input-field-in-fluent-form"
+            "link": "/image-upload-input-field"
           },
           {
             "text": "Custom HTML",
-            "link": "/custom-html-field-in-fluent-forms"
+            "link": "/custom-html-field"
           }
         ]
       },
@@ -197,87 +197,87 @@
         "items": [
           {
             "text": "Action Hook",
-            "link": "/action-hook-field-in-fluent-forms"
+            "link": "/action-hook-field"
           },
           {
             "text": "Chained Select",
-            "link": "/chained-select-field-in-fluent-forms"
+            "link": "/chained-select-field"
           },
           {
             "text": "Checkable Grid",
-            "link": "/checkable-grid-input-field-in-fluent-forms"
+            "link": "/checkable-grid-input-field"
           },
           {
             "text": "Color Picker",
-            "link": "/color-picker-field-in-fluent-forms"
+            "link": "/color-picker-field"
           },
           {
             "text": "Custom Submit Button",
-            "link": "/custom-submit-button-in-fluent-forms"
+            "link": "/custom-submit-button"
           },
           {
             "text": "Dynamic Field",
-            "link": "/dynamic-field-in-fluent-form"
+            "link": "/dynamic-field"
           },
           {
             "text": "FluentBooking",
-            "link": "/fluentbooking-field-in-fluent-form"
+            "link": "/fluentbooking-field"
           },
           {
             "text": "GDPR Agreement",
-            "link": "/gdpr-agreement-field-in-fluent-forms"
+            "link": "/gdpr-agreement-field"
           },
           {
             "text": "Hidden",
-            "link": "/hidden-input-field-in-fluent-forms"
+            "link": "/hidden-input-field"
           },
           {
             "text": "Net Promoter Score (NPS)",
-            "link": "/net-promoter-score-in-fluent-forms"
+            "link": "/net-promoter-score"
           },
           {
             "text": "Password",
-            "link": "/password-input-field-in-fluent-forms"
+            "link": "/password-input-field"
           },
           {
             "text": "Quiz Score",
-            "link": "/quiz-score-in-fluent-forms"
+            "link": "/quiz-score"
           },
           {
             "text": "Range Slider",
-            "link": "/range-slider-field-in-fluent-forms"
+            "link": "/range-slider-field"
           },
           {
             "text": "Ranking",
-            "link": "/ranking-field-in-fluent-forms"
+            "link": "/ranking-field"
           },
           {
             "text": "Ratings",
-            "link": "/ratings-input-field-in-fluent-forms"
+            "link": "/ratings-input-field"
           },
           {
             "text": "Repeat Field",
-            "link": "/repeat-input-field-in-fluent-forms"
+            "link": "/repeat-input-field"
           },
           {
             "text": "Rich Text",
-            "link": "/rich-text-input-field-in-fluent-forms"
+            "link": "/rich-text-input-field"
           },
           {
             "text": "Save Progress Button",
-            "link": "/save-progress-button-in-fluent-forms"
+            "link": "/save-progress-button"
           },
           {
             "text": "Section Break",
-            "link": "/section-break-in-fluent-forms"
+            "link": "/section-break"
           },
           {
             "text": "Shortcode",
-            "link": "/shortcode-input-field-in-fluent-forms"
+            "link": "/shortcode-input-field"
           },
           {
             "text": "Terms & Conditions",
-            "link": "/terms-conditions-field-in-fluent-forms"
+            "link": "/terms-conditions-field"
           }
         ]
       },
@@ -287,19 +287,19 @@
         "items": [
           {
             "text": "Container",
-            "link": "/add-container-fields-in-fluent-forms"
+            "link": "/add-container-fields"
           },
           {
             "text": "Accordion Container",
-            "link": "/add-accordion-container-fields-in-fluent-forms"
+            "link": "/add-accordion-container-fields"
           },
           {
             "text": "Repeat Container",
-            "link": "/add-repeat-container-field-in-fluent-forms"
+            "link": "/add-repeat-container-field"
           },
           {
             "text": "Resizeable Container",
-            "link": "/resizeable-container-in-fluent-forms"
+            "link": "/resizeable-container"
           }
         ]
       },
@@ -353,31 +353,31 @@
         "items": [
           {
             "text": "Error Messages",
-            "link": "/error-message-customization-with-fluent-forms"
+            "link": "/error-message-customization"
           },
           {
             "text": "Help Messages",
-            "link": "/help-message-customization-in-fluent-forms"
+            "link": "/help-message-customization"
           },
           {
             "text": "Restrict Blank Submission",
-            "link": "/restrict-blank-form-submission-with-fluent-forms"
+            "link": "/restrict-blank-form-submission"
           },
           {
             "text": "Require User Login",
-            "link": "/user-login-requirement-in-fluent-forms"
+            "link": "/user-login-requirement"
           },
           {
             "text": "Form Restrictions",
-            "link": "/form-restrictions-feature-in-fluent-forms"
+            "link": "/form-restrictions-feature"
           },
           {
             "text": "Form Scheduling",
-            "link": "/form-scheduling-feature-in-fluent-forms"
+            "link": "/form-scheduling-feature"
           },
           {
             "text": "Keyboard Navigation & Shortcuts",
-            "link": "/keyboard-navigation-shortcuts-in-fluent-forms"
+            "link": "/keyboard-navigation-shortcuts"
           }
         ]
       },
@@ -387,11 +387,11 @@
         "items": [
           {
             "text": "Conditional Logic",
-            "link": "/set-up-forms-with-conditional-logic-in-fluent-forms"
+            "link": "/set-up-forms-with-conditional-logic"
           },
           {
             "text": "Dynamic Default Value",
-            "link": "/dynamic-default-value-in-fluent-forms"
+            "link": "/dynamic-default-value"
           },
           {
             "text": "Default Value from URL",
@@ -399,7 +399,7 @@
           },
           {
             "text": "Dynamic Values in Steps",
-            "link": "/dynamic-input-values-in-form-steps-fluent-forms"
+            "link": "/dynamic-input-values-in-form-steps"
           },
           {
             "text": "Unique Field Validation",
@@ -417,11 +417,11 @@
         "items": [
           {
             "text": "Numeric Calculation",
-            "link": "/numeric-calculation-in-fluent-forms"
+            "link": "/numeric-calculation"
           },
           {
             "text": "Calculations on Repeat Field",
-            "link": "/how-to-add-calc-values-on-the-repeat-field"
+            "link": "/add-calc-values-on-the-repeat-field"
           }
         ]
       }
@@ -433,23 +433,23 @@
     "items": [
       {
         "text": "Official Form Styler",
-        "link": "/official-form-styler-of-fluent-forms"
+        "link": "/official-form-styler"
       },
       {
         "text": "Layout Settings",
-        "link": "/form-layout-settings-in-fluent-forms"
+        "link": "/form-layout-settings"
       },
       {
         "text": "Custom CSS",
-        "link": "/fluent-forms-stylingcustom-css"
+        "link": "/stylingcustom-css"
       },
       {
         "text": "Modal / Popup / Lightbox",
-        "link": "/modalpopuplightbox-in-fluent-forms"
+        "link": "/modalpopuplightbox"
       },
       {
         "text": "CSS Ready Classes",
-        "link": "/how-to-use-css-ready-classes"
+        "link": "/use-css-ready-classes"
       }
     ]
   },
@@ -467,11 +467,11 @@
         "items": [
           {
             "text": "Admin & User Notifications",
-            "link": "/how-to-setup-adminuser-email-notifications"
+            "link": "/setup-adminuser-email-notifications"
           },
           {
             "text": "Conditional Notifications",
-            "link": "/conditional-email-notification-in-fluent-forms"
+            "link": "/conditional-email-notification"
           },
           {
             "text": "Conditional Email Routing",
@@ -483,11 +483,11 @@
           },
           {
             "text": "Double Opt-in Emails",
-            "link": "/set-up-double-opt-in-emails-in-fluent-forms"
+            "link": "/set-up-double-opt-in-emails"
           },
           {
             "text": "Emails Not Sending (Troubleshooting)",
-            "link": "/fluent-forms-not-sending-email-confirmations"
+            "link": "/not-sending-email-confirmations"
           }
         ]
       },
@@ -497,11 +497,11 @@
         "items": [
           {
             "text": "Confirmation Message",
-            "link": "/setup-form-submission-confirmation-message-in-fluent-forms"
+            "link": "/setup-form-submission-confirmation-message"
           },
           {
             "text": "Conditional Confirmation",
-            "link": "/conditional-confirmation-message-in-fluent-forms"
+            "link": "/conditional-confirmation-message"
           },
           {
             "text": "Shortcodes in Confirmations",
@@ -517,23 +517,23 @@
     "items": [
       {
         "text": "Dedicated Landing Page",
-        "link": "/dedicated-landing-page-in-fluent-forms"
+        "link": "/dedicated-landing-page"
       },
       {
         "text": "Embed in Gutenberg",
-        "link": "/how-to-embed-your-forms-directly-in-gutenberg-layout"
+        "link": "/embed-your-forms-directly-in-gutenberg-layout"
       },
       {
         "text": "Embed in Elementor",
-        "link": "/how-to-embed-your-forms-using-elementor-widget"
+        "link": "/embed-your-forms-using-elementor-widget"
       },
       {
         "text": "Embed in Oxygen Builder",
-        "link": "/fluent-forms-with-oxygen-builder-widget"
+        "link": "/oxygen-builder-widget"
       },
       {
         "text": "Sidebar / Footer Widget",
-        "link": "/how-to-use-your-forms-as-widget-on-your-sidebar-or-footer"
+        "link": "/use-your-forms-as-widget-on-your-sidebar-or-footer"
       }
     ]
   },
@@ -551,11 +551,11 @@
         "items": [
           {
             "text": "Create a Payment Form",
-            "link": "/how-to-create-a-payment-form-with-fluent-form"
+            "link": "/create-a-payment-form"
           },
           {
             "text": "Payment Settings",
-            "link": "/configure-payment-settings-with-fluent-forms"
+            "link": "/configure-payment-settings"
           }
         ]
       },
@@ -599,35 +599,35 @@
         "items": [
           {
             "text": "Stripe",
-            "link": "/how-to-integrate-stripe-with-fluent-forms"
+            "link": "/integrate-stripe"
           },
           {
             "text": "PayPal",
-            "link": "/how-to-integrate-paypal-with-fluent-forms"
+            "link": "/integrate-paypal"
           },
           {
             "text": "Mollie",
-            "link": "/how-to-integrate-mollie-with-fluent-forms"
+            "link": "/integrate-mollie"
           },
           {
             "text": "Razorpay",
-            "link": "/how-to-integrate-razorpay-with-fluent-forms"
+            "link": "/integrate-razorpay"
           },
           {
             "text": "Square",
-            "link": "/how-to-integrate-square-with-fluent-forms-inline-payment-integration"
+            "link": "/integrate-square-inline-payment-integration"
           },
           {
             "text": "Paddle",
-            "link": "/how-to-integrate-paddle-with-fluent-forms"
+            "link": "/integrate-paddle"
           },
           {
             "text": "Paystack",
-            "link": "/how-to-integrate-paystack-with-fluent-forms"
+            "link": "/integrate-paystack"
           },
           {
             "text": "Authorize.Net",
-            "link": "/how-to-integrate-authorizenet-with-fluent-forms"
+            "link": "/integrate-authorizenet"
           }
         ]
       },
@@ -657,11 +657,11 @@
         "items": [
           {
             "text": "Managing Entries",
-            "link": "/managing-entries-in-fluent-forms"
+            "link": "/managing-entries"
           },
           {
             "text": "Search & Filter Entries",
-            "link": "/how-to-search-and-filter-form-entries"
+            "link": "/search-and-filter-form-entries"
           },
           {
             "text": "Frontend Entry View",
@@ -669,11 +669,11 @@
           },
           {
             "text": "Edit Submitted Entries",
-            "link": "/edit-user-submitted-entries-with-fluent-forms"
+            "link": "/edit-user-submitted-entries"
           },
           {
             "text": "Date & Time Stamp",
-            "link": "/how-to-add-a-date-and-time-stamp-to-form-entries"
+            "link": "/add-a-date-and-time-stamp-to-form-entries"
           },
           {
             "text": "Partial Entries",
@@ -685,19 +685,19 @@
           },
           {
             "text": "Entry Visualizations",
-            "link": "/visual-representation-of-form-entries-in-fluent-forms"
+            "link": "/visual-representation-of-form-entries"
           },
           {
             "text": "Edit History",
-            "link": "/edit-history-feature-in-fluent-forms"
+            "link": "/edit-history-feature"
           },
           {
             "text": "Admin Approval",
-            "link": "/admin-approval-feature-in-fluent-forms"
+            "link": "/admin-approval-feature"
           },
           {
             "text": "Show Entries with Ninja Tables",
-            "link": "/show-fluent-forms-entries-in-frontend-using-ninja-tables"
+            "link": "/show-entries-in-frontend-using-ninja-tables"
           }
         ]
       },
@@ -731,83 +731,83 @@
         "items": [
           {
             "text": "Mailchimp",
-            "link": "/how-to-integrate-mailchimp-with-fluent-forms"
+            "link": "/integrate-mailchimp"
           },
           {
             "text": "ActiveCampaign",
-            "link": "/how-to-integrate-activecampaign-with-fluent-forms"
+            "link": "/integrate-activecampaign"
           },
           {
             "text": "Brevo",
-            "link": "/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms"
+            "link": "/integrate-brevo-formerly-sendinblue"
           },
           {
             "text": "Campaign Monitor",
-            "link": "/how-to-integrate-campaign-monitor-with-fluent-forms"
+            "link": "/integrate-campaign-monitor"
           },
           {
             "text": "CleverReach",
-            "link": "/how-to-integrate-cleverreach-with-fluent-forms"
+            "link": "/integrate-cleverreach"
           },
           {
             "text": "Constant Contact",
-            "link": "/how-to-integrate-constant-contact-with-fluent-forms"
+            "link": "/integrate-constant-contact"
           },
           {
             "text": "GetResponse",
-            "link": "/how-to-integrate-getresponse-with-fluent-forms"
+            "link": "/integrate-getresponse"
           },
           {
             "text": "Gist",
-            "link": "/gist-integration-with-fluent-forms"
+            "link": "/gist-integration"
           },
           {
             "text": "Gist (How-to)",
-            "link": "/how-to-integrate-gist-with-fluent-forms"
+            "link": "/integrate-gist"
           },
           {
             "text": "iContact",
-            "link": "/how-to-integrate-icontact-with-fluent-forms"
+            "link": "/integrate-icontact"
           },
           {
             "text": "Kit (ConvertKit)",
-            "link": "/how-to-integrate-kit-former-convertkit-with-fluent-forms"
+            "link": "/integrate-kit-former-convertkit"
           },
           {
             "text": "MailerLite",
-            "link": "/how-to-integrate-mailerlite-with-fluent-forms"
+            "link": "/integrate-mailerlite"
           },
           {
             "text": "Mailjet",
-            "link": "/how-to-integrate-mailjet-with-fluent-forms"
+            "link": "/integrate-mailjet"
           },
           {
             "text": "Mailster",
-            "link": "/how-to-integrate-mailster-with-fluent-forms"
+            "link": "/integrate-mailster"
           },
           {
             "text": "MooSend",
-            "link": "/how-to-integrate-moosend-with-fluent-forms"
+            "link": "/integrate-moosend"
           },
           {
             "text": "SendFox",
-            "link": "/how-to-integrate-sendfox-with-fluent-forms"
+            "link": "/integrate-sendfox"
           },
           {
             "text": "Mailpoet",
-            "link": "/mailpoet-integration-with-fluent-forms"
+            "link": "/mailpoet-integration"
           },
           {
             "text": "Mautic",
-            "link": "/mautic-integration-with-fluent-forms"
+            "link": "/mautic-integration"
           },
           {
             "text": "Automizy",
-            "link": "/automizy-integration-with-fluent-forms"
+            "link": "/automizy-integration"
           },
           {
             "text": "ClickSend SMS",
-            "link": "/clicksend-sms-integration-with-fluent-forms"
+            "link": "/clicksend-sms-integration"
           }
         ]
       },
@@ -817,43 +817,43 @@
         "items": [
           {
             "text": "FluentCRM",
-            "link": "/fluentcrm-integration-with-fluent-forms"
+            "link": "/fluentcrm-integration"
           },
           {
             "text": "HubSpot",
-            "link": "/hubspot-integration-with-fluent-forms"
+            "link": "/hubspot-integration"
           },
           {
             "text": "Salesforce",
-            "link": "/salesforce-integration-with-fluent-forms"
+            "link": "/salesforce-integration"
           },
           {
             "text": "Zoho CRM",
-            "link": "/zoho-crm-integration-with-fluent-forms"
+            "link": "/zoho-crm-integration"
           },
           {
             "text": "Pipedrive",
-            "link": "/pipedrive-integration-with-fluent-forms"
+            "link": "/pipedrive-integration"
           },
           {
             "text": "Drip",
-            "link": "/drip-integration-with-fluent-forms"
+            "link": "/drip-integration"
           },
           {
             "text": "AmoCRM",
-            "link": "/amocrm-integration-with-fluent-forms"
+            "link": "/amocrm-integration"
           },
           {
             "text": "Insightly",
-            "link": "/insightly-integration-with-fluent-forms"
+            "link": "/insightly-integration"
           },
           {
             "text": "OnePageCRM",
-            "link": "/onepagecrm-integration-with-fluent-forms"
+            "link": "/onepagecrm-integration"
           },
           {
             "text": "Salesflare",
-            "link": "/salesflare-integration-with-fluent-forms"
+            "link": "/salesflare-integration"
           }
         ]
       },
@@ -863,15 +863,15 @@
         "items": [
           {
             "text": "Zapier",
-            "link": "/how-to-integrate-zapier-with-fluent-forms"
+            "link": "/integrate-zapier"
           },
           {
             "text": "Webhook",
-            "link": "/how-to-integrate-webhook-with-fluent-forms"
+            "link": "/integrate-webhook"
           },
           {
             "text": "Platformly",
-            "link": "/how-to-integrate-platformly-with-fluent-forms"
+            "link": "/integrate-platformly"
           }
         ]
       },
@@ -881,15 +881,15 @@
         "items": [
           {
             "text": "Slack",
-            "link": "/how-to-integrate-slack-with-fluent-forms"
+            "link": "/integrate-slack"
           },
           {
             "text": "Discord",
-            "link": "/how-to-integrate-discord-with-fluent-forms"
+            "link": "/integrate-discord"
           },
           {
             "text": "Telegram",
-            "link": "/how-to-integrate-telegram-with-fluent-forms"
+            "link": "/integrate-telegram"
           }
         ]
       },
@@ -899,39 +899,39 @@
         "items": [
           {
             "text": "AffiliateWP",
-            "link": "/affiliatewp-integration-with-fluent-forms"
+            "link": "/affiliatewp-integration"
           },
           {
             "text": "Airtable",
-            "link": "/how-to-integrate-airtable-with-fluent-forms"
+            "link": "/integrate-airtable"
           },
           {
             "text": "BuddyBoss",
-            "link": "/how-to-integrate-buddyboss-with-fluent-forms"
+            "link": "/integrate-buddyboss"
           },
           {
             "text": "Google Maps",
-            "link": "/how-to-integrate-google-maps-with-fluent-forms"
+            "link": "/integrate-google-maps"
           },
           {
             "text": "Google Sheets",
-            "link": "/how-to-integrate-google-sheets-with-fluent-forms"
+            "link": "/integrate-google-sheets"
           },
           {
             "text": "Notion",
-            "link": "/how-to-integrate-notion-with-fluent-forms"
+            "link": "/integrate-notion"
           },
           {
             "text": "Trello",
-            "link": "/how-to-integrate-trello-with-fluent-forms"
+            "link": "/integrate-trello"
           },
           {
             "text": "Twilio",
-            "link": "/twilio-integration-with-fluent-forms"
+            "link": "/twilio-integration"
           },
           {
             "text": "OpenAI ChatGPT",
-            "link": "/how-to-integrate-openai-chatgpt-with-fluent-forms"
+            "link": "/integrate-openai-chatgpt"
           },
           {
             "text": "ClearOut (Email Validation)",
@@ -947,31 +947,31 @@
     "items": [
       {
         "text": "Honeypot & reCAPTCHA",
-        "link": "/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms"
+        "link": "/spam-protection-with-honeypot-and-google-recaptcha"
       },
       {
         "text": "reCAPTCHA (Setup)",
-        "link": "/how-to-integrate-recaptcha-with-fluent-forms"
+        "link": "/integrate-recaptcha"
       },
       {
         "text": "reCAPTCHA Field",
-        "link": "/recaptcha-field-in-fluent-forms"
+        "link": "/recaptcha-field"
       },
       {
         "text": "hCaptcha (Setup)",
-        "link": "/how-to-integrate-hcaptcha-with-fluent-forms"
+        "link": "/integrate-hcaptcha"
       },
       {
         "text": "hCaptcha Field",
-        "link": "/hcaptcha-in-fluent-forms"
+        "link": "/hcaptcha"
       },
       {
         "text": "Cloudflare Turnstile",
-        "link": "/how-to-integrate-cloudflare-turnstile-with-fluent-forms"
+        "link": "/integrate-cloudflare-turnstile"
       },
       {
         "text": "Akismet",
-        "link": "/integrate-akismet-with-fluent-forms"
+        "link": "/integrate-akismet"
       }
     ]
   },
@@ -981,23 +981,23 @@
     "items": [
       {
         "text": "PDF Module",
-        "link": "/fluent-forms-pdf-module"
+        "link": "/pdf-module"
       },
       {
         "text": "Quiz Module",
-        "link": "/fluent-forms-quiz-module"
+        "link": "/quiz-module"
       },
       {
         "text": "Inventory Module",
-        "link": "/fluent-forms-inventory-module"
+        "link": "/inventory-module"
       },
       {
         "text": "Global Inventory Manager",
-        "link": "/global-inventory-manager-in-fluent-forms"
+        "link": "/global-inventory-manager"
       },
       {
         "text": "Post Selection Module",
-        "link": "/post-selection-module-in-fluent-forms"
+        "link": "/post-selection-module"
       }
     ]
   },
@@ -1015,15 +1015,15 @@
         "items": [
           {
             "text": "Shortcodes Overview",
-            "link": "/fluent-forms-shortcodes-overview"
+            "link": "/shortcodes-overview"
           },
           {
             "text": "Helper Shortcodes",
-            "link": "/using-helper-shortcodes-in-fluent-forms"
+            "link": "/using-helper-shortcodes"
           },
           {
             "text": "Conditional Shortcodes",
-            "link": "/conditional-shortcodes-in-fluent-forms"
+            "link": "/conditional-shortcodes"
           },
           {
             "text": "Smart Codes",
@@ -1041,11 +1041,11 @@
         "items": [
           {
             "text": "Meta Box",
-            "link": "/how-to-use-meta-box-custom-fields-with-fluent-forms"
+            "link": "/use-meta-box-custom-fields"
           },
           {
             "text": "Mapping Meta Fields",
-            "link": "/mapping-meta-fields-with-meta-keys-in-fluent-forms"
+            "link": "/mapping-meta-fields-with-meta-keys"
           },
           {
             "text": "ACF Custom Fields",
@@ -1053,7 +1053,7 @@
           },
           {
             "text": "JetEngine",
-            "link": "/using-jetengine-custom-fields-with-fluent-forms"
+            "link": "/using-jetengine-custom-fields"
           }
         ]
       },
@@ -1063,19 +1063,19 @@
         "items": [
           {
             "text": "API Logs",
-            "link": "/fluent-form-api-logs"
+            "link": "/api-logs"
           },
           {
             "text": "Activity Logs",
-            "link": "/fluent-forms-activity-logs"
+            "link": "/activity-logs"
           },
           {
             "text": "Event Tracking (GA4)",
-            "link": "/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager"
+            "link": "/event-tracking-with-google-analytics-ga4-via-google-tag-manager"
           },
           {
             "text": "Global Search",
-            "link": "/fluent-forms-global-search"
+            "link": "/global-search"
           },
           {
             "text": "Phone Geo-Location",
@@ -1093,7 +1093,7 @@
           },
           {
             "text": "Translate Datepicker",
-            "link": "/translate-datepicker-field-of-fluent-forms-plugin"
+            "link": "/translate-datepicker-field"
           }
         ]
       }
@@ -1105,15 +1105,15 @@
     "items": [
       {
         "text": "Import & Export Forms",
-        "link": "/how-to-import-and-export-fluent-forms"
+        "link": "/import-and-export-fluent-forms"
       },
       {
         "text": "Migrate from Other Plugins",
-        "link": "/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms"
+        "link": "/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms"
       },
       {
         "text": "Import Entries",
-        "link": "/importing-entries-in-fluent-forms"
+        "link": "/importing-entries"
       }
     ]
   },
@@ -1123,15 +1123,15 @@
     "items": [
       {
         "text": "Managers & Access Control",
-        "link": "/setting-up-managers-in-fluent-forms-access-control"
+        "link": "/setting-up-managers-access-control"
       },
       {
         "text": "Transfer License",
-        "link": "/how-to-transfer-a-license-to-a-new-domain"
+        "link": "/transfer-a-license-to-a-new-domain"
       },
       {
         "text": "Cross-Domain FluentCRM",
-        "link": "/connecting-fluent-forms-from-one-domain-with-fluent-crm-to-another-domain"
+        "link": "/connecting-forms-with-fluent-crm-across-domains"
       }
     ]
   },
@@ -1145,7 +1145,7 @@
       },
       {
         "text": "Get Support",
-        "link": "/how-to-get-support"
+        "link": "/get-support"
       },
       {
         "text": "Changelog",

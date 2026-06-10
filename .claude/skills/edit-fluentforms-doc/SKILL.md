@@ -27,7 +27,7 @@ Canonical conventions live in `CLAUDE.md` — this skill is the *procedure* for 
 5. **DO** end on a green `npm run docs:build`.
 6. **DO NOT** change the slug, rename, or move the file — that is restructure work.
 7. **DO NOT** introduce `docs/`-prefixed or category-in-path links (`/docs/<slug>`, `/docs/<category>/<slug>`) or relative links.
-8. **DO NOT** add closing support boilerplate; link `[How to Get Support](/how-to-get-support)`.
+8. **DO NOT** add closing support boilerplate; link `[How to Get Support](/get-support)`.
 9. **DO NOT** touch unrelated docs.
 10. **DO** Before starting editing on the doc map accurately that where and in which category which doc and what section need to update and and by matching the user journey. 
 

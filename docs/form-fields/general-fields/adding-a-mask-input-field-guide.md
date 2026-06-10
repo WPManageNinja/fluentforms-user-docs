@@ -86,7 +86,7 @@ License Key Mask: *-*-***. Valid Input: a9a-f0c-28Q
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms) to understand Dynamic Default values better.
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to understand Dynamic Default values better.
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -102,7 +102,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **H. Max Text Length:** You can set a maximum number of characters that the input field can accept. Ideal for limiting responses like postal codes or short codes.
 
-**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Advanced-Options-05-7-scaled.webp)
 
