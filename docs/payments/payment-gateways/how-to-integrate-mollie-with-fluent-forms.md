@@ -25,8 +25,6 @@ Then, you need to obtain the **API  Key** from your **Mollie Account**.
 
 ### Get the API Credentials 
 
-To learn how to get all the required API Credentials from your [Mollie](http://mollie.com), follow the steps with screenshots below – 
-
 First, log in to your Mollie account from [here](https://my.mollie.com/dashboard/login). If you do not have an account, sign up from [here](https://my.mollie.com/dashboard/signup). 
 
 Once you log in to the **Mollie Dashboard**, go to the **Browse** section from the **Navbar**, and click the **Developers** option.

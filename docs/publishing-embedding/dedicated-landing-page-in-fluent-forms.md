@@ -71,11 +71,7 @@ Switch to the **Share** tab to access distribution options:
 - **Email Share:** Open a pre-written email draft or copy the message text
 - **Embed via HTML Code:** Copy the iframe code to embed the form on another domain or outside WordPress. You can adjust the height property. Confirm your hosting server supports iframes.
 
-<<<<<<< HEAD
- **Shortcode:** A dedicated **Shortcode** is provided. Simply copy the shortcode provided and paste it into any post, page, or widget area. Once added, it will show the form using the default design and layout. For more ways to place forms with shortcodes, see the [Fluent Forms shortcodes overview](/docs/fluent-forms-shortcodes-overview).
-=======
 Click **Save** in the top right when finished.
->>>>>>> tajulauthlab
 
 ![Landing page share options](/images/publishing-embedding/dedicated-landing-page-in-fluent-forms/share-landing-page-5-scaled.webp)
 

@@ -16,7 +16,6 @@ Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
-
 ![Edit Repeat Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/edit-form-1-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the [Container](/docs/add-container-fields-in-fluent-forms) input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 

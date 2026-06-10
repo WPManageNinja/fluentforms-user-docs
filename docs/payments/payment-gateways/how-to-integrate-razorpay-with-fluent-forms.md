@@ -27,7 +27,6 @@ Always press the **Save Settings** button to save the changes you made.
 
 ![Test API Credentials](/images/payments/payment-gateways/how-to-integrate-razorpay-with-fluent-forms/2.-Test-API-Credentials-scaled.webp)
 
-
 ### A. Payment Method
 
 Before starting the configuration, select any **Payment Mode** between **Test** (for test payments) and **Live** (for real payments) as both options follow the same process, e.g., I choose the **Test Mode**.
@@ -35,8 +34,6 @@ Before starting the configuration, select any **Payment Mode** between **Test** 
 ### B. API Credentials
 
 Here, you need to provide the **API Key** and **API Secret** from your **Razorpay Account** to configure Razorpay with Fluent Forms.
-
-To learn how to get all the required API Credentials from your Razorpay, follow the steps with screenshots below – 
 
 #### Get the API Credentials from Razorpay
 

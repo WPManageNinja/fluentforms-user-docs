@@ -36,7 +36,6 @@ Here, you will get various settings options for customizing the field.
 
 ![Payment Item Customization Option](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/4.-Payment-Item-customization-option-scaled.webp)
 
-
 #### A. Element Label
 
 This is the field title the users will see when filling out the **Payment Item** field in a form. You can enter any text here to help users understand the purpose of the field.

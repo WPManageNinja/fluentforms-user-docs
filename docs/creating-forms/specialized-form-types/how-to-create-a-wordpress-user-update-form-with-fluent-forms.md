@@ -70,4 +70,3 @@ You can see form submissions from the **Entries** section of this particular for
 
 ![User update preview](/images/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms/5.webp)
 
-

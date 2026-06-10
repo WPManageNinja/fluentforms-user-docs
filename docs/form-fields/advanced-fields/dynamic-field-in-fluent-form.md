@@ -15,7 +15,6 @@ This guide will teach you how to set up and customize Dynamic Fields to make you
 
 ### Adding a Dynamic Input Field
 
-
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]

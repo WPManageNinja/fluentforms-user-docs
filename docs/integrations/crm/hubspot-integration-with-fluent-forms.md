@@ -120,11 +120,7 @@ In the form's **Settings & Integrations**, click **Add New Integration** and sel
 
 **E. Conditional Logic:** Run the integration only when specific conditions are met. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-**E. Conditional Logic:** If you want to allow Hubspot integration conditionally based on your submission values then **Enable Conditional Logic** options. To know more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-=======
 **F. Update:** Enable **Contact Update** to update existing HubSpot contacts with new form data.
->>>>>>> tajulauthlab
 
 **G. Status:** Enable the feed to activate the integration.
 
@@ -144,13 +140,9 @@ If the old list ID cannot be mapped to a Lists v3 ID, open the feed, re-select t
 
 ## Preview of Integrated HubSpot
 
-View form submissions in the form's **Entries** section.
+View form submissions in the form's **Entries** section. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
 
-<<<<<<< HEAD
-You can see the form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
-=======
 ![Form entries after HubSpot integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/15-scaled.webp)
->>>>>>> tajulauthlab
 
 In HubSpot, open **CRM → Contacts** to see contacts added to your integrated list.
 

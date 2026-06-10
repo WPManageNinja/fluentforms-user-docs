@@ -24,8 +24,6 @@ Once you enable Pipedrive, you will be asked for the **Pipedrive API Token** of 
 
 ### Get the Pipedrive API Token
 
-To learn how to get the **Api Token** from Pipedrive, follow the steps with screenshots below –
-
 First, log in to your [Pipedrive Account](https://www.pipedrive.com/en/register), go to **Profile** from the top right corner, and select the **Company Settings** sections. 
 
 Now, click **Personal preferences** and then select the **API** sections. Here, you will find the **API Token**. **Copy** the API token for later use. 

@@ -6,11 +6,7 @@ This article will guide you through how you can Import Entries to your WordPress
 
 ## Accessing the Import Entries
 
-<<<<<<< HEAD
 First, navigate to the **Fluent** **Forms** [**Tools**](/docs/fluent-forms-user-interface) section from the top menu. Then, select **Import** **Entries** from the left sidebar. It will open the import options.
-=======
-First, navigate to the **Fluent Forms Tools** section from the top menu. Then, select **Import Entries** from the left sidebar. It will open the import options.
->>>>>>> tajulauthlab
 
 Alternatively, you can import data from an individual form's [**Entries**](/docs/managing-entries-in-fluent-forms) page section.
 

@@ -25,8 +25,6 @@ Then, you need to obtain the **API  Key** and **API Secret** from your **Paystac
 
 ### Get the API Credentials 
 
-To learn how to get all the required API Credentials from your [](http://paystack.com)[](http://paystack.com)[](http://paystack.com)[Paystack](http://paystack.com), follow the steps with screenshots below – 
-
 First, log into your [Paystack Account](https://dashboard.paystack.com/#/login). If you do not have an account, sign up from [here](https://dashboard.paystack.com/#/signup). 
 
 Once you log into the **Paystack Dashboard**, go to the **Settings** section from the left sidebar, and click the **API Keys & Webhooks** tab. Now, copy the  **Secret key** and **Public key.**

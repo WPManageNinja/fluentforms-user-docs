@@ -4,12 +4,8 @@ hCaptcha is a privacy-focused anti-bot solution that helps prevent spam and pass
 
 This article will guide you through adding the **hCaptcha** field in **Fluent Forms** for your WordPress site.
 
-<<<<<<< HEAD
-> Fluent Forms supports hCaptcha in both General Forms and [Conversational Forms](/docs/how-to-create-a-conversational-form) templates.
-=======
 > [!Note]
 > Fluent Forms supports hCaptcha in both **General Forms** and **Conversational Forms** templates.
->>>>>>> tajulauthlab
 
 ## Adding hCaptcha Field
 

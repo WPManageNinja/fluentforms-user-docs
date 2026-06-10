@@ -37,7 +37,6 @@ Once you add the Password field, you can customize it by hovering over it and cl
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Password** input field.
 
-
 **A. Element Label:** This is the field title users will see when filling out the **Password input** field in a form. You can enter any text here to help users understand the field's purpose.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.

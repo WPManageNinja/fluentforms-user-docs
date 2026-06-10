@@ -24,8 +24,6 @@ Once you enable Trello, you will be asked for the **Trello Access Key** of your 
 
 ### Getting the Trello API Access Key
 
-To learn how to get the  **Trello API URL** and **Trello API Key** from **Trello**, follow the steps with screenshots below –
-
 To start, click the [Get Access Token](https://trello.com/1/authorize?expiration=never&name=FluentForm%20Pro&scope=read,write,account&response_type=token&key=f79dfb43d0becc887dc488e99bed0687) to authenticate Trello. This will redirect you to Trello’s page, where you need to press the **Allow** button to grant access to your account.
 
 ![Allow Button Fluent Forms](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/3.-Allow-button.webp)

@@ -46,7 +46,6 @@ You can format the created_at and updated_at dates by adding the date_format att
 
 If you want to show a specific form submission’s specific entry using a shortcode, you can now add that manually in the FluentForms shortcode.
 
-
 ```
 [[ff_entry form_id='1' entry_id='{submission.id}' field='url' is_html=false]]
 ```

@@ -27,8 +27,6 @@ Then, you need to obtain the **Application ID, Access Key,** and **Location ID**
 
 ### Get the API Credentials from Square
 
-To learn how to get all the required API Credentials from your [Square](https://squareup.com/us/en), follow the steps with screenshots below – 
-
 First, log in to your Square account from here. If you do not have an account, sign up [here](https://app.squareup.com/signup/en-GB?return_to=https%3A%2F%2Fdeveloper.squareup.com%2F&v=developers).
 Then, create an app in your Square account to get the API credentials for configuration.
 

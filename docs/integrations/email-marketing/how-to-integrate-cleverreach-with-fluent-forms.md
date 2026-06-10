@@ -20,8 +20,6 @@ Once you enable CleverReach, you will be asked for the **CleverReach Client ID**
 
 ### Get the CleverReach Client ID and Secret
 
-To learn how to get the  **CleverReach Client ID** and **CleverReach Client Secret** from **CleverReach**, follow the steps with screenshots below – 
-
 First, log in to your [CleverReach Account](https://www.cleverreach.com/en-de/login/), go to **Profile** from the top right corner, and click the **My Account** button. 
 
 ![Profile Icon My Account Page](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/3.-Profile-Icon-My-Account-page-scaled.webp)

@@ -150,7 +150,6 @@ Do not forget to click the **Save Settings** button to save all your changes.
 
 ![Specific Stripe Settings](/images/payments/payment-gateways/how-to-integrate-stripe-with-fluent-forms/13.-Form-Specific-Stripe-Settings-scaled.webp)
 
-
 ### A. Stripe Meta Data
 
 Check the **Push Form Data to Stripe** to send the form submission date to your Stripe. 

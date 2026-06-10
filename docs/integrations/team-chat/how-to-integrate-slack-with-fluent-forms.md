@@ -38,8 +38,6 @@ Once the setup is done, click the **Save Feed** button, and your Slack will be i
 
 ### Getting Webhook URL from Slack
 
-To learn how to get the Webhook URL, follow the steps with screenshots below – 
-
 First, you need to create an App on your Slack to get the Webhook URL. To create an app, go to the [Slack API page](https://api.slack.com/apps?new_app=1) and click on the **Create an App** button. 
 
 ![Creat App Fluent Forms](/images/integrations/team-chat/how-to-integrate-slack-with-fluent-forms/4.-Creat-an-app-scaled.webp)

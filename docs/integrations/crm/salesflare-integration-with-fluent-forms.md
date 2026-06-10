@@ -24,8 +24,6 @@ Once you enable Salesflare, you will be asked for the **Salesflare API Token** o
 
 ### Get the Salesflare API Token
 
-To learn how to get the **Api Token** from Salesflare, follow the steps with screenshots below –
-
 First, log in to your [Salesflare Account](https://salesflare.com/), go to the **Settings** section and click the **API Key** options.
 
 Now, Click the **Plus Icon** to Create an API key.

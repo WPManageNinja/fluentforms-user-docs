@@ -64,7 +64,6 @@ FluentSMTP provides an **Email Test** feature that allows you to verify whether 
 
 For detailed instructions on using the Email Test feature, please refer to the related [documentation](https://fluentsmtp.com/docs/introduction-to-fluent-smtp-dashboard/#email-test).
 
-
 To learn more about FluentSMTP and its features, watch the video below.
 
 <div class="youtube-embed">

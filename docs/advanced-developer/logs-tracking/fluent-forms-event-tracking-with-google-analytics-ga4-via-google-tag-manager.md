@@ -4,12 +4,8 @@
 
 This document applies to the latest Google Analytics: GA4.
 
-<<<<<<< HEAD
-> Notice: This method works for both classic and [conversational forms](/docs/how-to-create-a-conversational-form).
-=======
 > [!Note]
 > This method works for both classic and conversational forms.
->>>>>>> tajulauthlab
 
 #### Overview
 

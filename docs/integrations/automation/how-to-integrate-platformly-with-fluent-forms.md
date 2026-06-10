@@ -24,8 +24,6 @@ Once you enable Platformly, you will be asked for the **Platformly API Key** and
 
 ### Getting the Platformly API Key
 
-To learn how to get the  **Platformly API Key** from **Platformly**, follow the steps with screenshots below – 
-
 First, log into your [Platformly Account](https://www.platform.ly/login.php), go to the **Profile Icon** in the top right corner, open the **Dropdown Arrow**, and click the **APIs and Docs** option. 
 
 ![Apis Docs Keys](/images/integrations/automation/how-to-integrate-platformly-with-fluent-forms/3.-APIs-Docs-Keys-scaled.webp)

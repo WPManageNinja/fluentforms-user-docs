@@ -105,11 +105,7 @@ Next, go back to the post form’s **Editor** where you added the Custom Field. 
 
 Now, you can **Edit** or **Customize** this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer you the options for customizing the field. 
 
-<<<<<<< HEAD
 > To learn more about the customization of the Text Area field, read the [Text Area Input Field guide](/docs/adding-a-text-area-input-field).
-=======
-> To learn more about the customization of the Text Area field, [click here](/docs/adding-a-text-area-input-field).
->>>>>>> tajulauthlab
 
 ![Input Customization Option Textarea Field](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/11.-Input-Customization-option-of-Textarea-field-scaled.webp)
 

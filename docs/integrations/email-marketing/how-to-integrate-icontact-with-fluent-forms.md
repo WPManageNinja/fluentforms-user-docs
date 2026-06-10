@@ -29,8 +29,6 @@ Once you enable iContact, you will be asked for the necessary information (**iCo
 
 ### Get the iContact API URL and API Key
 
-To learn how to get the  **iContact API URL** and **iContact API Key** from **iContact**, follow the steps with screenshots below –
-
 First, log in to your [iContact Account](https://www.icontact.com/login/), go to **Profile** from the top right corner, and click the **Settings and Billing** button.
 
 ![Settings Billing Option Integrate iContact](/images/integrations/email-marketing/how-to-integrate-icontact-with-fluent-forms/3.-Settings-Billing-option-scaled.webp)

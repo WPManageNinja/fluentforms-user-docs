@@ -42,12 +42,8 @@ To do this, go to **Global Settings** from the **FluentForms Navbar**, open the 
 
 Now, select the desired **Version** of reCAPTCHA, provide the **Site & Secret Keys,** and click the **Save Settings** button.
 
-<<<<<<< HEAD
-> To learn the detailed process of collecting Site & Secret Keys to integrate reCAPTCHA with Fluent Forms, read [How to Integrate reCAPTCHA with Fluent Forms](/docs/how-to-integrate-recaptcha-with-fluent-forms).
-=======
 > [!Note]
 > To collect the **Site Key** and **Secret Key** for reCAPTCHA, see [How to Integrate reCAPTCHA with Fluent Forms](/docs/how-to-integrate-recaptcha-with-fluent-forms).
->>>>>>> tajulauthlab
 
 ![reCAPTCHA Settings Fluent Forms](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms/3.-reCAPTCHA-Settings-scaled.webp)
 

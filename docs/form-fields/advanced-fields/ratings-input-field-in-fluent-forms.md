@@ -1,10 +1,6 @@
 # Ratings Input Field in Fluent Forms
 
-<<<<<<< HEAD
 The **rating** input field in Fluent Forms allows users to provide feedback quickly, making it a great fit for [surveys and polls](/docs/surveys-and-polls-in-fluent-forms). By default, the field includes five rating levels: **Nice, Good, Very Good, Awesome, and Amazing**. You can customize and add more rating options as needed.
-=======
-The **Ratings** input field lets users provide quick feedback. By default, the field includes five levels: **Nice**, **Good**, **Very Good**, **Awesome**, and **Amazing**. You can rename levels, add more options, and customize icons and colors.
->>>>>>> tajulauthlab
 
 This guide walks you through adding and customizing the **Ratings** field in Fluent Forms.
 
@@ -96,13 +92,7 @@ Hover feedback is derived from the inactive color.
 
 **C. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-<<<<<<< HEAD
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
-
-![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Advanced-options-05-11-scaled.webp)
-=======
 ![Ratings advanced options](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Advanced-options-05-11-scaled.webp)
->>>>>>> tajulauthlab
 
 ## Embed the Form into the Front
 

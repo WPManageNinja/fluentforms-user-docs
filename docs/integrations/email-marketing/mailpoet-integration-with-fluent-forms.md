@@ -36,7 +36,6 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 
 ![Configure Integrations Add Integration MailPoet](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/5.-Configure-Integrations-Add-new-integration-MailPoet-scaled.webp)
 
-
 - **Feed Name:** Give a name to your feed so that you can find it later easily.
 
 - **MailPoet List:** Select a MailPoet List from the dropdown where you wish to add your contacts.
@@ -53,11 +52,7 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 > [!Note]
 > **Send Confirmation Email** requires **MailPoet Pro** and a verified MailPoet account.
 
-<<<<<<< HEAD
 - Conditional Logic: This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more, read the [Fluent Forms Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
-=======
-- **Conditional Logic:** This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more about Fluent Forms Conditional logic click here.
->>>>>>> tajulauthlab
 
 - **Status:** Uncheck the Enable This Feed box if you want to save this MailPoet Feed as Draft. Otherwise, enable this box to make this feed functional.
 

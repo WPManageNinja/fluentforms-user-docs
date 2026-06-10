@@ -75,4 +75,3 @@ Point 13 means New York scored 10, and Dallas scored 03. (10+3=13)
 
 ![Advanced Scorin](/images/modules/fluent-forms-quiz-module/advanced-scorin-06-1.webp)
 
-

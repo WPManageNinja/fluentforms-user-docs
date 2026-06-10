@@ -16,8 +16,8 @@ export default defineConfig({
     ],
   ],
   cleanUrls: true,
-  srcExclude: ['README.md', 'CLAUDE.md', '*-PLAN.md', 'INTERLINK-GAPS.md', 'docs/public/**'],
-  lastUpdated: true,
+  srcExclude: ['README.md', 'CLAUDE.md', '*-PLAN.md', 'docs/public/**'],
+  lastUpdated: false,
 
   // URL flattening: the on-disk tree is docs/<section>/[<sub-group>/]<slug>.md (2 or 3 levels),
   // but every page is served at /docs/<slug> — the section/sub-group folders are hidden from URLs.

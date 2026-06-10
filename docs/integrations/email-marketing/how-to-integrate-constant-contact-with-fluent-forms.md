@@ -22,8 +22,6 @@ Once you enable **Constant Contact V3**, you will be asked for the **Constant Co
 
 ### Get the Constant Contact Client ID and Client Secret
 
-To learn how to get the  **Constant Contact Client ID** and **Constant Contact Client Secret** from **Constant Contact**, follow the steps with screenshots below – 
-
 First, click this [Link](https://app.constantcontact.com/pages/dma/portal/), log into your **Constant Contact Account**, go to **My Applications** from the top navbar, and click the **New Application** button.
 
 > [!Note]

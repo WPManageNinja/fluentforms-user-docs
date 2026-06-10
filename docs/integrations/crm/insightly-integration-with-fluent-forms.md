@@ -21,8 +21,6 @@ Once you enable **Insightly**, you will be asked for the **Insightly API URL** a
 
 ## Get the Insightly API URL and Insightly API Key
 
-To learn how to get the **API URL** and **API Key** from Insightly, follow the steps with screenshots below –
-
 First, log in to your[ ](https://www.drip.com/)[Insightly Account](https://crm.na1.insightly.com/users/usersettings), then go to **User** **Settings** from the profile icon in the top right corner.
 
 Now, scroll down, and you will get the **API URL** and **API Key** here. If you want, you can also generate a new API Key by clicking on the **Generate new API Key** button.

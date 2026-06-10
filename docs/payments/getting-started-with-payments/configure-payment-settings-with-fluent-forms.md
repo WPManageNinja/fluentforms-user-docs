@@ -14,7 +14,6 @@ Go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment**
 
 **3. Pages & Subscription Management**
 
-
 ### 1. General
 
 Under this tab, you will get the following options to configure your payment settings. Remember, this **General Setting** will function globally for all **Fluent Forms**.

@@ -52,8 +52,6 @@ You can modify your feed anytime by clicking the **Settings Icon** and delete it
 
 ### Getting Webhook URL from Discord
 
-To learn how to get the Webhook URL, follow the steps with screenshots below – 
-
 First, go to your **Discord App** or open **Discord** in your browser.  Now, you can create a new server by clicking the **Plus Icon (+)**, or you can use any existing server. 
 
 ![Add Servar Plus Icon Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/6.-Add-Servar-Plus-Icon.webp)

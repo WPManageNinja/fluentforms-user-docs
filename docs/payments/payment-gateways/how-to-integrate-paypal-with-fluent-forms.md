@@ -61,11 +61,7 @@ Press **Save PayPal Settings** to save your configuration.
 
 ## Setup PayPal IPN Settings
 
-<<<<<<< HEAD
 After configuring PayPal, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in **PayPal**. Recurring billing is collected through the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
-=======
-After configuring PayPal, you can set up **IPN** (**Instant Payment Notification**) **settings** to enable notifications for **subscription** or **recurring** **payments** in **PayPal**.
->>>>>>> tajulauthlab
 
 **IPN (Instant Payment Notification)** is a post-message notification sent by **PayPal** after a successful transaction for standard merchant accounts, containing all payment transaction details. Setting up PayPal IPN with Fluent Forms allows you to receive instant payment notifications from PayPal.
 

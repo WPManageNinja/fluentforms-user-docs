@@ -22,8 +22,6 @@ Once you enable Notion, you will be asked for the **Access Code** of your **Noti
 
 ### Getting the Notion Access Code
 
-To learn how to get the Notion **Access Code**, follow the steps with screenshots below –
-
 First, [click here](https://api.notion.com/v1/oauth/authorize?client_id=a7d866f8-cdfe-477d-8cce-9e363355c6b2&response_type=code&owner=user&redirect_uri=https://fluentforms.com/gapi), it will redirect to a page where you can specify which **Notion Account** you want to integrate with **Fluent Forms** by clicking the **Arrow Icon** in the top right corner. 
 
 Then, click the **Select Pages** button to choose the Notion Pages you want to integrate with Fluent Forms.

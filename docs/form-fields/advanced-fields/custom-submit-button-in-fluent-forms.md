@@ -37,7 +37,6 @@ Once you add the Custom Submit Button field, you can customize it by hovering ov
 
 Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Custom Submit Button** field.
 
-
 **A. Submit Button**: Choose between **Default** or **Image** for the button. These two options are available in the Submit Button option. Users can keep this Button as a **Default** button or select the **Image** option with the **URL**.
 
 **B. Button Style**: Customize the button’s color scheme, position, and action to match your form’s design.

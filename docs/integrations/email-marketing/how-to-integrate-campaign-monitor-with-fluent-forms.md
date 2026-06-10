@@ -19,8 +19,6 @@ Once you enable **Campaign Monitor**, you will be asked for your **Campaign Moni
 
 ### Get the Campaign Monitor API Key
 
-To learn how to get the **API key** from **Campaign Monitor**, follow the steps with screenshots below – 
-
 First, click this [Link](https://login.createsend.com/l?_gl=1*im9eqd*_ga*NDI5Nzg0NjcwLjE3MzUzNjMzODg.*_ga_8S4WF1R7DZ*MTc0MjI3MTczOS43LjAuMTc0MjI3MTczOS4wLjAuMA..*_gcl_au*MjEzNTk2NzU1My4xNzM1MzYzMzg3*_ga_NWRSNKHM95*MTc0MjI3MTczOS43LjAuMTc0MjI3MTczOS42MC4wLjA.&_ga=2.73089619.1363175959.1742271739-429784670.1735363388), log into your **Campaign Monitor Account**, go to the **Profile** in the top right corner, open the dropdown list by clicking the **Arrow Icon**, and click the **Account Settings** button. 
 
 > [!Note]

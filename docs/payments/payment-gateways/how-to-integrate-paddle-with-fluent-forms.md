@@ -25,8 +25,6 @@ Then, you need to obtain the **API  Key** and **Client Token** from your **Paddl
 
 ### Get the API Key and Client Token from Paddle
 
-To learn how to get all the required API Key and Client Token from your [Paddle](http://paddle.com), follow the steps with screenshots below – 
-
 First, log in to your [Paddle Account](https://sandbox-login.paddle.com/login). If you do not have an account, sign up from [here](https://www.paddle.com/get-started). 
 
 #### Generating API Key

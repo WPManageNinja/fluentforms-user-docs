@@ -28,8 +28,6 @@ Once you enable GetResponse, you will be asked for the **GetResponse API Key** o
 
 ### Get the GetResponse API Key
 
-To learn how to get the **GetResponse API Key** from **GetResponse**, follow the steps with screenshots below –
-
 First, log in to your  [GetResponse Account](https://app.getresponse.com/login?lang=en), open the **Tools Icon** from the top left corner, and click the **Integrations and API**. 
 
 ![Integrations API Button](/images/integrations/email-marketing/how-to-integrate-getresponse-with-fluent-forms/3.-Integrations-API-button-scaled.webp)

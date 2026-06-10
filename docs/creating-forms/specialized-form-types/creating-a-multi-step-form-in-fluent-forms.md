@@ -47,11 +47,7 @@ The **Progress Indicator** setting controls how step progress is shown at the to
 
 ### Tabs Indicator Settings
 
-<<<<<<< HEAD
 **A) Element Class:** Add custom CSS classes to the input field itself. See [How to Use CSS Ready Classes](/docs/how-to-use-css-ready-classes) for available options.
-=======
-When you select **Tabs** as your progress indicator, two additional sub-settings appear below:
->>>>>>> tajulauthlab
 
 **Tab Position:** Determines the layout orientation of your step tabs:
 
@@ -72,20 +68,7 @@ When you select **Tabs** as your progress indicator, two additional sub-settings
 > [!Tip]
 > Watch this [video tutorial](https://youtu.be/TQAw19OoCSU) to learn how multi-step forms automatically advance to the next step.
 
-<<<<<<< HEAD
-**E) Disable auto focus when changing each page**: By default, enable auto focus or auto-scroll. You can easily disable autofocus by enabling this checkbox.
-
-**F) Enable auto page change for single radio field**: This option is disabled by default. When enabled, the form will automatically proceed to the next step after the user completes the last field in the current step. 
-
-> [!Note]
-> Watch this Video Tutorial to learn the process of multi-step forms automatically to the next-step form in Fluent Form.
-
-**G) Enable Per step data save (Save and Continue)**: This option is disabled by default. If you enable it, however, it will save the data entered in each step as the user progresses through the form, allowing users to resume the form from where they left off. Learn more in [Save Progress Button in Fluent Forms](/docs/save-progress-button-in-fluent-forms).
-
-- **Resume Step from last form session:** If your website has a sticky header menu, you might encounter problems, such as the form being hidden beneath it while auto-scroll is enabled.
-=======
 ![Paging Start settings](/images/creating-forms/specialized-form-types/creating-a-multi-step-form-in-fluent-forms/paging-start-4-scaled.webp)
->>>>>>> tajulauthlab
 
 ## 2. Page Break
 

@@ -23,8 +23,6 @@ Once you enable Twilio, you will be asked for the **Twilio Credentials**.
 
 ### Getting the Twilio Credentials
 
-To learn how to get the **Account SID** and **Auth Token** from Twilio, follow the steps with screenshots below – 
-
 Log in to your **Twilio** account dashboard to access the **Account SID** and **Auth Token**.
 
 > [!Note]

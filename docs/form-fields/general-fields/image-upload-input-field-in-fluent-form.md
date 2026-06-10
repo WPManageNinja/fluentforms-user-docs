@@ -9,14 +9,10 @@ The **Image Upload** input field in Fluent Forms lets users submit images in dif
 
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
-<<<<<<< HEAD
-![Edit Image Upload Input Field](/images/form-fields/general-fields/image-upload-input-field-in-fluent-form/Edit-Form-01-3-scaled.webp)
-=======
 > [!Note]
 > If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Edit form to add Image Upload field](/images/form-fields/general-fields/image-upload-input-field-in-fluent-form/Edit-Form-01-3-scaled.webp)
->>>>>>> tajulauthlab
 
 On the **Editor** page, click the **Plus** icon and open **General Fields**. You can also find **General Fields** in the right sidebar under **Input Fields**.
 
@@ -85,11 +81,7 @@ Hover over the field and click the **Pencil** icon to open **Input Customization
 
 **D. Name Attribute:** The HTML name attribute. You usually do not need to change this.
 
-<<<<<<< HEAD
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
-=======
 **E. Conditional Logic:** Show or hide the field based on other field values. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
->>>>>>> tajulauthlab
 
 ![Image Upload advanced options](/images/form-fields/general-fields/image-upload-input-field-in-fluent-form/Advanced-Options-05-5-scaled.webp)
 

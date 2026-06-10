@@ -19,8 +19,6 @@ Once you enable Telegram, you will be asked for the **Bot Token** and the **Defa
 
 ## Getting the Bot Token and Chat ID from Telegram
 
-To learn how to get the **Bot Token** and **Chat ID** of the Channel/Group from Telegram, follow the steps with screenshots below –
-
 ### Getting Bot Token
 
 First, log in to your **Telegram Account**, go to the [@Bot](https://t.me/BotFather)[Father](https://t.me/BotFather) chat, and click the **Start** button to start the bot in your Telegram application.
