@@ -1,4 +1,4 @@
-# How to Integrate Google Maps
+# Integrate Google Maps
 
 **Fluent Forms** integrates **Google Maps** to allow your users to **auto-fill** the [Address field](/address-input-field-in-fluent-forms) with the help of Google Maps. This article will guide you through integrating **Google Maps** in **Fluent Forms** on your **WordPress Site**.
 

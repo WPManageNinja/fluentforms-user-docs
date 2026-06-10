@@ -1,4 +1,4 @@
-# How to Integrate ActiveCampaign
+# Integrate ActiveCampaign
 
 **Fluent Forms** integrates with [ActiveCampaign](https://www.activecampaign.com/), a marketing automation tool that helps you collect customer information and automatically adds it to your ActiveCampaign list through Fluent Forms Submissions. 
 

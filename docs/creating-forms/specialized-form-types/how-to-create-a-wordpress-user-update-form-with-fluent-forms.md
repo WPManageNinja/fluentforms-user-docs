@@ -1,4 +1,4 @@
-# How to Create a WordPress User Update Form
+# Create a WordPress User Update Form
 
 The user profile editing option for any form is a fantastic feature of **Fluent Forms**. You can make the WordPress **User Update** process super easy by creating a user update form using **Fluent Forms**. 
 

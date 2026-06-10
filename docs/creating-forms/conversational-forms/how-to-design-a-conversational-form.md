@@ -1,4 +1,4 @@
-# How to Design a Conversational Form
+# Design a Conversational Form
 
 **Fluent Forms** provides a variety of options for customizing **Conversational Forms** based on your preference. This article will guide you through designing conversational forms with Fluent Forms.  
 

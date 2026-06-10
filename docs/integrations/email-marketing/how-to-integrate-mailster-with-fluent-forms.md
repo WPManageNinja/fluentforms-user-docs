@@ -1,4 +1,4 @@
-# How to Integrate Mailster
+# Integrate Mailster
 
 Integrating **Mailster** with **Fluent Forms** allows you to automate email subscriptions, manage mailing lists, and streamline newsletter campaigns efficiently. This article will guide you through integrating **Mailster** with **Fluent Forms** on your **WordPress Site**.
 

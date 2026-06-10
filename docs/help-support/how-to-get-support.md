@@ -1,4 +1,4 @@
-# How to Get Support
+# Get Support
 
 If you've already gone through the **Docs** and the [Frequently Asked Questions](/frequently-asked-questions) and you're still running into a problem with **Fluent Forms**, our support team is ready to help.
 

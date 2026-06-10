@@ -1,4 +1,4 @@
-# How to embed your forms using Elementor Widget
+# Embed Your Forms Using Elementor Widget
 
 Fluent Forms integrates with elementor, allowing you to add and design forms on your WordPress pages without any code. You can easily adjust colors, shapes, sizes, backgrounds, margins, padding, and more, making form creation easy and visually appealing. 
 

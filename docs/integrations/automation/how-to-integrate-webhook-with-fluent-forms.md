@@ -1,4 +1,4 @@
-# How to Integrate Webhook
+# Integrate Webhook
 
 **Fluent Forms** integrates with **Webhook** which will help you broadcast your **Form Submissions** to any **Web API Endpoint** with the powerful **Webhook** module. This article will guide you through integrating **Webhook** with **Fluent Forms** on your **WordPress Site**.
 

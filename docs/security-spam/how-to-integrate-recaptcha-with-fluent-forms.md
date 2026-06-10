@@ -1,4 +1,4 @@
-# How to Integrate reCAPTCHA
+# Integrate reCAPTCHA
 
 **Fluent Forms** integrates **reCAPTCHA**, a **CAPTCHA** system developed by **Google,** to protect websites from spam bots and automated abuse. It utilizes machine learning to ensure that a user is human.
 

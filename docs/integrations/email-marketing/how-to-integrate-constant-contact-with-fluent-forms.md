@@ -1,4 +1,4 @@
-# How to Integrate Constant Contact
+# Integrate Constant Contact
 
 In **Fluent Forms**, integrating **Constant Contact**, an integrated email marketing, marketing automation, and small business CRM, allows you to grow your Constant Contact list through the users of Fluent Forms.  This article will guide you through integrating **Constant Contact** with **Fluent Forms** on your **WordPress Site**.
 

@@ -1,4 +1,4 @@
-# How to Add a Date and Time Stamp to Form Entries
+# Add a Date and Time Stamp to Form Entries
 
 Fluent Forms makes it easy to track when forms are submitted. Adding a date and time stamp helps analyze user activity and submission patterns.
 

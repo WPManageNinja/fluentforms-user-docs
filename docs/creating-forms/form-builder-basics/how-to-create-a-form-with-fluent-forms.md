@@ -1,4 +1,4 @@
-# How to Create a Form
+# Create a Form
 
 [Fluent Forms](https://fluentforms.com/) is a drag-and-drop WordPress form builder. You can create contact forms, surveys, payment forms, and more without writing code.
 

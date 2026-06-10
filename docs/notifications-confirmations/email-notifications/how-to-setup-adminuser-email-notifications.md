@@ -1,4 +1,4 @@
-# How to Setup Admin/User Email Notifications
+# Setup Admin/User Email Notifications
 
 **Fluent Forms** allows you to send email notifications to the admin and users every time someone fills out a form. You can also inform others besides admin or users (e.g., team members, support agents, moderators, etc.) when the form is filled out. 
 

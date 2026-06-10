@@ -1,4 +1,4 @@
-# How to Integrate CleverReach
+# Integrate CleverReach
 
 Integrating **CleverReach** with **Fluent Forms** allows you to grow your CleverReach Subscriber list through the users of Fluent Forms. This article will guide you through integrating **CleverReach** with **Fluent Forms** on your **WordPress Site**.
 

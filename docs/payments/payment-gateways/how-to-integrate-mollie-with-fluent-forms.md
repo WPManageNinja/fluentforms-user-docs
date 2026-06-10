@@ -1,4 +1,4 @@
-# How to Integrate Mollie
+# Integrate Mollie
 
 [Mollie](http://mollie.com) is a fantastic payment gateway for your webshop that allows **Fluent Forms** a smooth online payment transaction. This article will guide you through integrating **Mollie** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
 

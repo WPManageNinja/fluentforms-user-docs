@@ -1,4 +1,4 @@
-# How to embed your forms directly in Gutenberg layout
+# Embed Your Forms Directly in Gutenberg Layout
 
 [Fluent Forms ](https://wpmanageninja.com/wp-fluent-form/)provides a seamless way to embed your forms directly into the Gutenberg editor, making it easy to embed forms into your pages or posts without leaving the editor interface. 
 

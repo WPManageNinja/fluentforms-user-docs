@@ -1,4 +1,4 @@
-# How to use CSS Ready Classes
+# Use CSS Ready Classes
 
 Using the CSS Ready Classes in Fluent Form, you can easily create more advanced alternative layouts for the fields in your forms. You can also to take advantage of pre-defined styles included in the default form stylesheet.
 

@@ -1,4 +1,4 @@
-# How to Integrate Campaign Monitor
+# Integrate Campaign Monitor
 
 Integrating **Campaign Monitor** with **Fluent Forms** lets you manage contacts, send targeted emails, and grow your audience effortlessly. This article will guide you through integrating **Campaign Monitor** with **Fluent Forms** on your **WordPress Site**.
 
