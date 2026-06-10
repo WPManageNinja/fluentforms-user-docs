@@ -3,13 +3,13 @@
 Fluent Forms now integrates OpenAI ChatGPT, making it easier for users to create Forms effortlessly with simple commands. This article will guide you through the process of creating a form using [OpenAI ChatGPT](https://openai.com/).
 
 > [!Note]
-> **OpenAI ChatGPT** is a **Pro** feature. Install and activate the free Fluent Forms plugin, then add the [Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on). For free AI form creation without an OpenAI API key, use [Fluent Forms AI](/docs/how-to-create-a-form-with-fluent-forms-ai).
+> **OpenAI ChatGPT** is a **Pro** feature. Install and activate the free Fluent Forms plugin, then add the [Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on). For free AI form creation without an OpenAI API key, use [Fluent Forms AI](/how-to-create-a-form-with-fluent-forms-ai).
 
 ## Enable the OpenAI ChatGPT Module
 
 Before starting the process of creating a **Form** using **OpenAI ChatGPT**, you need to make sure the **OpenAI ChatGPT** module is enabled. Otherwise, you will not automatically get this module in your **Fluent Forms.**
 
-To enable the **OpenAI ChatGPT** module in your **Fluent Forms**, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**. For the full setup, see [How to Integrate OpenAI ChatGPT with Fluent Forms](/docs/how-to-integrate-openai-chatgpt-with-fluent-forms).
+To enable the **OpenAI ChatGPT** module in your **Fluent Forms**, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**. For the full setup, see [How to Integrate OpenAI ChatGPT with Fluent Forms](/how-to-integrate-openai-chatgpt-with-fluent-forms).
 
 Now, search for **OpenAI ChatGPT** through the search bar, turn on the **Toggle**, and your **OpenAI ChatGPT** module will be enabled.
 

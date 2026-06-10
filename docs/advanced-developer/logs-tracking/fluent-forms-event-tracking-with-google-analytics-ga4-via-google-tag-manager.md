@@ -5,7 +5,7 @@
 This document applies to the latest Google Analytics: GA4.
 
 > [!Note]
-> You can use this GTM and GA4 setup with standard forms and [Conversational Forms](/docs/how-to-create-a-conversational-form). The same view and submit events apply to both form types.
+> You can use this GTM and GA4 setup with standard forms and [Conversational Forms](/how-to-create-a-conversational-form). The same view and submit events apply to both form types.
 
 #### Overview
 
@@ -135,11 +135,7 @@ Again, go **to** **Tags** and select **Google Tag** as below:
 
 ![Google Tag Manager](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-1-scaled.png)
 
-<<<<<<< HEAD
 Now, here you have to give **[Google Analytics 4 Measurement ID](#google-analytics-4-measurement-id)** and then configure the settings variable.
-=======
-Now, here you have to give **Google Analytics 4 Measurement ID** and then configure the settings variable.
->>>>>>> tajulauthlab
 
 ![Fluent Forms Event Tracking with Google Analytics (GA4) via Google Tag Manager step](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/2-1-scaled.webp)
 
@@ -226,6 +222,6 @@ There is a super-advanced feature of Google Analytics 4 that we will explore for
 
 ![GTM GA4 Debug View Wpmn](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-debug-view-wpmn-107.png)
 
-That’s it. Now you will get events to Google Analytics for all the Fluent Forms on your website. To analyze conversions directly inside WordPress alongside GA4, see the [Submission Reports](/docs/submission-reports).
+That’s it. Now you will get events to Google Analytics for all the Fluent Forms on your website. To analyze conversions directly inside WordPress alongside GA4, see the [Submission Reports](/submission-reports).
 
 Enjoy **Fluent Forms** as the most powerful form plugin for WordPress!

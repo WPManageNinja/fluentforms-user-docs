@@ -3,9 +3,9 @@
 **Fluent Forms** offers **Taxonomy Fields** that allow you to group your posts based on categories, tags, and other taxonomies available on your WordPress site. 
 
 > [!Note]
-> **Taxonomy Fields** are available only in **Post Forms**. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
+> **Taxonomy Fields** are available only in **Post Forms**. See [How to Create a Post Form with Fluent Forms](/how-to-create-a-post-form-with-fluent-forms).
 
-This article will guide you through adding the **Categories Taxonomy Field** in your Fluent Forms for your WordPress Site. This **Categories** field will allow your users to select any of your existing categories and submit their posts under the selected category directly through the form. To let users assign keywords as well, add the [Tags Taxonomy Field](/docs/add-tags-taxonomy-field-in-post-forms).
+This article will guide you through adding the **Categories Taxonomy Field** in your Fluent Forms for your WordPress Site. This **Categories** field will allow your users to select any of your existing categories and submit their posts under the selected category directly through the form. To let users assign keywords as well, add the [Tags Taxonomy Field](/add-tags-taxonomy-field-in-post-forms).
 
 ## Add Categories Field
 
@@ -59,7 +59,7 @@ Configure **Categories** labels, taxonomy display type, and validation:
 
 Configure **Advanced** options:
 
-**A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read [Form Editor Smart Codes](/docs/form-editor-smart-codes). 
+**A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read [Form Editor Smart Codes](/form-editor-smart-codes). 
 
 **B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -69,7 +69,7 @@ Configure **Advanced** options:
 
 **E. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 ![Advanced Options](/images/form-fields/post-taxonomy-fields/add-categories-taxonomy-field-in-post-forms/5.-Advanced-Options-8-scaled.webp)
 

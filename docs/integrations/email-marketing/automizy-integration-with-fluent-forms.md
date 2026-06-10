@@ -2,7 +2,7 @@
 
 **Automizy** is a powerful email marketing service that allows you to collect, automate, and reach visitors to your site through its robust email templates and campaign tools. **Fluent Forms** enables you to integrate the popular Automizy email marketing service into any email list.
 
-Integrate your **Automizy** account easily with **[Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on)** by following the steps mentioned below –
+Integrate your **Automizy** account easily with **[Fluent Forms Pro](/upgrade-to-fluent-forms-pro-add-on)** by following the steps mentioned below –
 
 ## Enable Automizy Integration
 
@@ -42,7 +42,7 @@ Then, go to the **Configuration Integrations** tab, click the **Add New Integrat
 
 - Configure the fields and map them to the Automizy list’s corresponding rows.
 
-- Enable Conditional Logic if required. Learn more about [Fluent Forms Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+- Enable Conditional Logic if required. Learn more about [Fluent Forms Conditional Logic](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 - Click on Create Automizy Feed when the configuration is done.
 

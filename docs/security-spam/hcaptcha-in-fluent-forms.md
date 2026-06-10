@@ -9,7 +9,7 @@ This article will guide you through adding the **hCaptcha** field in **Fluent Fo
 
 ## Adding hCaptcha Field
 
-Before using hCaptcha, you must configure it with a **Site Key** and **Secret key**. To learn more, read [How to Integrate hCaptcha with Fluent Forms](/docs/how-to-integrate-hcaptcha-with-fluent-forms).
+Before using hCaptcha, you must configure it with a **Site Key** and **Secret key**. To learn more, read [How to Integrate hCaptcha with Fluent Forms](/how-to-integrate-hcaptcha-with-fluent-forms).
 
 Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
 

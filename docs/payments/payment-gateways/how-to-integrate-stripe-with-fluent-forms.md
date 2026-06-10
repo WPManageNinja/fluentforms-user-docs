@@ -46,7 +46,7 @@ To use the traditional **API Key** method instead, disable **Connect with Stripe
 
 ## Configuring Webhook to Set Up Stripe IPN
 
-After configuring Stripe, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in Stripe. Recurring billing is collected through the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
+After configuring Stripe, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in Stripe. Recurring billing is collected through the [Subscription](/add-subscription-field-in-payment-forms) field.
 
 **IPN (Instant Payment Notification)** is a post-message notification sent by [Stripe](http://stripe.com) after a successful subscription or recurring payment. For Stripe to function completely for subscription/recurring payments, you must configure your Stripe webhooks.
 
@@ -104,7 +104,7 @@ And, the **Stripe Webhooks** will be configured with your WordPress Site!
 
 ## Integrating Stripe in Forms
 
-Once you finish setting up your **Stripe** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
+Once you finish setting up your **Stripe** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields are added).
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 

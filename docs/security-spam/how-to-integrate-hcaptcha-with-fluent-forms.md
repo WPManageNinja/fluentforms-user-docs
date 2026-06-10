@@ -68,7 +68,7 @@ Go to **Forms** from the top navbar, and **open** the **Editor** page of your **
 
 ![Edit Button Integrate hCaptcha](/images/security-spam/how-to-integrate-hcaptcha-with-fluent-forms/12.-Desired-form-Edit-button-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input Fields** on the right side, open the **Advanced Fields** dropdown list, and click the [hCaptcha input field](/docs/hcaptcha-in-fluent-forms).
+Once you are on the **Editor** page, go to the **Input Fields** on the right side, open the **Advanced Fields** dropdown list, and click the [hCaptcha input field](/hcaptcha-in-fluent-forms).
 
 Finally, click the **Save Form** button to integrate your configured hCaptcha into this form.
 

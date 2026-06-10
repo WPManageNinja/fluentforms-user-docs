@@ -2,7 +2,7 @@
 
 **Fluent Forms** integrates **Cloudflare Turnstile** to provide website visitors with a frustration-free, CAPTCHA-free browsing experience. It stops abuse and confirms visitors are real without the data privacy concerns or awful UX that CAPTCHAs thrust on users.
 
-This article will guide you through configuring Cloudflare Turnstile in your WordPress Site through Fluent Forms. Fluent Forms also supports other anti-spam tools like [Google reCAPTCHA](/docs/how-to-integrate-recaptcha-with-fluent-forms) and [hCaptcha](/docs/how-to-integrate-hcaptcha-with-fluent-forms).  
+This article will guide you through configuring Cloudflare Turnstile in your WordPress Site through Fluent Forms. Fluent Forms also supports other anti-spam tools like [Google reCAPTCHA](/how-to-integrate-recaptcha-with-fluent-forms) and [hCaptcha](/how-to-integrate-hcaptcha-with-fluent-forms).  
 
 ## Configuring CloudFlare Turnstile
 

@@ -52,7 +52,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. You can add default values with the **Three-Dot** option from the right side. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. You can add default values with the **Three-Dot** option from the right side. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 

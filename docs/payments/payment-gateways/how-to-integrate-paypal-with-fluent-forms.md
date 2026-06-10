@@ -3,7 +3,7 @@
 [PayPal](http://paypal.com) is a payment processing platform that lets **Fluent Forms** receive payments from your users securely. This article will guide you through integrating **PayPal** into your **WordPress** site with the **Fluent Forms** plugin.
 
 > [!Note]
-> **PayPal** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **PayPal** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable PayPal Payment Method
 
@@ -61,7 +61,7 @@ Press **Save PayPal Settings** to save your configuration.
 
 ## Setup PayPal IPN Settings
 
-After configuring PayPal, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in **PayPal**. Recurring billing is collected through the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
+After configuring PayPal, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in **PayPal**. Recurring billing is collected through the [Subscription](/add-subscription-field-in-payment-forms) field.
 
 **IPN (Instant Payment Notification)** is a post-message notification sent by **PayPal** after a successful transaction for standard merchant accounts, containing all payment transaction details. Setting up PayPal IPN with Fluent Forms allows you to receive instant payment notifications from PayPal.
 
@@ -104,10 +104,10 @@ You can modify your notification URL anytime by clicking **Edit Settings**. To d
 
 ## Integrate PayPal in Forms
 
-Once you finish setting up your **PayPal** payment method, you can add it to any existing **payment form** (a form with [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields).
+Once you finish setting up your **PayPal** payment method, you can add it to any existing **payment form** (a form with [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields).
 
 > [!Note]
-> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/how-to-create-a-payment-form-with-fluent-form).
 
 Go to the **Editor** page of your desired form by clicking its **Edit** option.
 

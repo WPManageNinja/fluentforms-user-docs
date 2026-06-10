@@ -3,7 +3,7 @@
 The **Coupon** feature allows you to add coupons and apply discounts to your payment form. This article will guide you through adding the **Coupon** field in your Fluent Forms for your WordPress Site. 
 
 > [!Note]
-> **Coupon** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Coupon** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Coupon Module
 
@@ -109,7 +109,7 @@ Each option in the **Advanced Options** tab is explained below.
 
 **d. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**e. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**e. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Option Fluent Forms](/images/payments/payment-fields/add-coupon-field-in-payment-forms/9.-Advanced-option-scaled.webp)
 

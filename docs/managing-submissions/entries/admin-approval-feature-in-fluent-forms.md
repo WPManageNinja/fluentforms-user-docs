@@ -1,6 +1,6 @@
 # Admin Approval Feature in Fluent Forms
 
-The **Fluent Forms Admin Approval feature** allows administrators to review, approve, or decline form submissions before processing them. When a user submits a form, an [email notification](/docs/how-to-setup-adminuser-email-notifications) is sent to the admin, who can approve or decline the entry.
+The **Fluent Forms Admin Approval feature** allows administrators to review, approve, or decline form submissions before processing them. When a user submits a form, an [email notification](/how-to-setup-adminuser-email-notifications) is sent to the admin, who can approve or decline the entry.
 
 This article will guide you through the admin approval feature in Fluent Forms.
 
@@ -66,6 +66,6 @@ Admins will receive an email with options to **approve** or **decline** form sub
 ![Admin Approval Feature step](/images/managing-submissions/entries/admin-approval-feature-in-fluent-forms/05-2.webp)
 
 > [!Note]
-> If your form includes a [Payment Field](/docs/payments-overview), the Admin Approval process will be bypassed.
+> If your form includes a [Payment Field](/payments-overview), the Admin Approval process will be bypassed.
 
 So, you can easily manage and control form submissions using the **Fluent Forms Admin Approval** feature.

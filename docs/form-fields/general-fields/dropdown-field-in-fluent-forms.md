@@ -9,7 +9,7 @@ This guide walks you through adding and customizing the **Dropdown** field in Fl
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Edit form to add Dropdown field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/edit-form-01-1-scaled.webp)
 
@@ -46,7 +46,7 @@ Hover over the field and click the **Pencil** icon to open **Input Customization
 - Drag to reorder options
 - Use the **Plus** icon to add options
 
-**F. Show & Calc Value:** Display values and use them in [numeric calculations](/docs/numeric-calculation-in-fluent-forms).
+**F. Show & Calc Value:** Display values and use them in [numeric calculations](/numeric-calculation-in-fluent-forms).
 
 **G. Bulk Edit / Predefined Data Sets:** Import predefined datasets (for example, countries or states) instead of adding each option manually.
 
@@ -78,7 +78,7 @@ Under **Options**, turn on **Enable Option Grouping**. The flat options list bec
 
 ### Advanced Options
 
-**A. Dynamic Default Value:** Pre-fill the field using shortcodes. See [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
+**A. Dynamic Default Value:** Pre-fill the field using shortcodes. See [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms).
 
 **B. Container Class:** Custom CSS classes for the field wrapper.
 
@@ -88,7 +88,7 @@ Under **Options**, turn on **Enable Option Grouping**. The flat options list bec
 
 **E. Name Attribute:** The HTML name attribute. You usually do not need to change this.
 
-**F. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**F. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 ![Dropdown advanced options](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Advanced-options-05-3-scaled.webp)
 

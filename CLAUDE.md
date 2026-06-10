@@ -42,20 +42,20 @@ this — depth is 2 or 3). The 16 sections:
 
 ## URL rewrite rule — the most important convention
 
-On disk: `docs/<section>/[<sub-group>/]<doc-slug>.md` → In browser: `/docs/<doc-slug>`
-(section + sub-group stripped).
+On disk: `docs/<section>/[<sub-group>/]<doc-slug>.md` → In browser: `/<doc-slug>`
+(the `docs/` prefix AND section + sub-group are all stripped).
 
 Defined in `config.mjs` (two patterns cover 3-level and 2-level paths):
 ```js
 rewrites: {
-  'docs/:section/:sub/:doc.md': 'docs/:doc.md',
-  'docs/:section/:doc.md': 'docs/:doc.md',
+  'docs/:section/:sub/:doc.md': ':doc.md',
+  'docs/:section/:doc.md': ':doc.md',
 }
 ```
 
-**Consequence — all internal links use the SHORT form:**
-- ✅ `[Link Text](/docs/doc-slug)`
-- ❌ `[Link Text](/docs/section/doc-slug)` or `[Link Text](/docs/section/sub/doc-slug)`
+**Consequence — all internal links use the SHORT, root-relative form:**
+- ✅ `[Link Text](/doc-slug)`
+- ❌ `[Link Text](/docs/doc-slug)` or `[Link Text](/docs/section/doc-slug)`
 
 Doc slugs are globally unique, so the flat URL never collides. (Never nest deeper than
 section/sub-group on disk, or neither rewrite pattern will match.)
@@ -65,20 +65,20 @@ section/sub-group on disk, or neither rewrite pattern will match.)
 The sidebar is 100% driven by `.vitepress/sidebar.json`. VitePress does **not** auto-discover docs. Every new or renamed `.md` file **must** be reflected in `sidebar.json`.
 
 Shape — **2-level nested** array of journey sections, all groups `collapsed: true`, links in
-SHORT `/docs/<slug>` form. A section either lists leaf items directly, or holds sub-groups
+SHORT `/<slug>` form. A section either lists leaf items directly, or holds sub-groups
 (objects with their own `items`). A leaf item's `text` is a **short label** (see style rule 1):
 ```json
 [
   { "text": "Getting Started", "collapsed": true,
-    "items": [ { "text": "Install Fluent Forms", "link": "/docs/how-to-install-fluent-forms" } ] },
+    "items": [ { "text": "Install Fluent Forms", "link": "/how-to-install-fluent-forms" } ] },
   { "text": "Form Fields", "collapsed": true, "items": [
     { "text": "General Fields", "collapsed": true,
-      "items": [ { "text": "Dropdown", "link": "/docs/dropdown-field-in-fluent-forms" } ] }
+      "items": [ { "text": "Dropdown", "link": "/dropdown-field-in-fluent-forms" } ] }
   ] }
 ]
 ```
 When adding a doc, place it in the right **section → sub-group** (16 sections; see the live
-`sidebar.json`). Leaf `link` is `/docs/<slug>` regardless of which category folder the file
+`sidebar.json`). Leaf `link` is `/<slug>` regardless of which category folder the file
 sits in on disk.
 
 ### Section overview (hub) pages
@@ -87,9 +87,9 @@ The 8 large sub-grouped sections each have a marketing-led **overview/hub page**
 the section's features and interlinks every doc inside it:
 
 - File lives at `docs/<section>/<section>-overview.md` (2-level — directly under the section,
-  even though the section has sub-groups). Slug = `<section>-overview`, URL `/docs/<section>-overview`.
+  even though the section has sub-groups). Slug = `<section>-overview`, URL `/<section>-overview`.
 - Wired as the **first** leaf under its section in `sidebar.json`, labelled `"Overview"`:
-  `{ "text": "Overview", "link": "/docs/<section>-overview" }` (above the sub-group objects).
+  `{ "text": "Overview", "link": "/<section>-overview" }` (above the sub-group objects).
 - Sections with overviews: `creating-forms`, `form-fields`, `configuring-forms`,
   `notifications-confirmations`, `payments`, `managing-submissions`, `integrations`,
   `advanced-developer`. When you add a new doc to one of these sections, also add its link to
@@ -110,12 +110,12 @@ Image folders **mirror the docs tree** (same section/sub-group path as the `.md`
 3. `##` for major sections, `###` for sub-topics.
 4. Bullet lists for steps/feature lists; numbered lists only when strict sequence matters.
 5. Bold (`**Settings**`) important terms on first use. No inner whitespace inside markers (`**save**`, never `**Configure** button` — CommonMark renders the latter literally).
-6. Cross-references always: `[Descriptive Text](/docs/doc-slug)`.
+6. Cross-references always: `[Descriptive Text](/doc-slug)`.
 7. Never hardcode `https://fluentforms.com/...` for internal doc links.
 8. Pro-only features: add "(Pro)" after the name or a note.
 9. No fenced code blocks for UI instructions — plain text/bullets only.
 10. Short, direct sentences. User-facing docs, not developer prose.
-11. No support-boilerplate closers (e.g. "contact our support team", "reach out for assistance"). For help, link `[How to Get Support](/docs/how-to-get-support)`.
+11. No support-boilerplate closers (e.g. "contact our support team", "reach out for assistance"). For help, link `[How to Get Support](/how-to-get-support)`.
 12. Maintin the writing tone with the existing documentations.
 13. Use second person 'you/your', active sentence, and present tense sentence. 
 
@@ -129,9 +129,9 @@ Use the responsive `.youtube-embed` class (defined in `custom.css`), not raw ifr
 ## Hard constraints — never do these
 
 - Never create a `.md` directly under `docs/` — it MUST be inside a category subfolder.
-- Never put the category in a link path (`/docs/category/slug`).
+- Never put `docs/` or the category in a link path (`/docs/slug`, `/docs/category/slug`).
 - Never add/rename a doc without updating `sidebar.json`.
-- Never use relative links (`./slug`, `../slug`) — always absolute `/docs/<slug>`.
+- Never use relative links (`./slug`, `../slug`) — always absolute `/<slug>`.
 - Never commit `node_modules/`, `.vitepress/dist/`, or `.vitepress/cache/` (all in `.gitignore`).
 - ESM project — never use `require()` or CommonJS in config files.
 

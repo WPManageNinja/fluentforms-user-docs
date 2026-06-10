@@ -1,12 +1,12 @@
 # Edit History Feature in Fluent Forms
 
-Fluent Forms **Edit History** feature allows you to view the complete history of your form edits and track all the changes made. Additionally, this feature allows you to easily restore previous versions of your form. For a broader log of actions across your site, see [Activity Logs](/docs/fluent-forms-activity-logs).
+Fluent Forms **Edit History** feature allows you to view the complete history of your form edits and track all the changes made. Additionally, this feature allows you to easily restore previous versions of your form. For a broader log of actions across your site, see [Activity Logs](/fluent-forms-activity-logs).
 
 In this article, we’ll show you how to use the **Edit History** feature effectively.
 
 ## Access the History Feature
 
-To get the Edit History feature, navigate to the **Forms** section in the [Fluent Forms dashboard](/docs/fluent-forms-user-interface), then click on the **Edit** option for the form you wish to modify.
+To get the Edit History feature, navigate to the **Forms** section in the [Fluent Forms dashboard](/fluent-forms-user-interface), then click on the **Edit** option for the form you wish to modify.
 
 ![Edit Section Fluent Forms](/images/managing-submissions/entries/edit-history-feature-in-fluent-forms/Form-edit-section-scaled.webp)
 

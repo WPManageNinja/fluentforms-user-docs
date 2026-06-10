@@ -1,6 +1,6 @@
 # ClickSend SMS Integration with Fluent Forms
 
-Send SMS in real-time when a form is submitted with **ClickSend**. Integrate your **ClickSend** account easily with **[Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on)** by following the steps mentioned below-
+Send SMS in real-time when a form is submitted with **ClickSend**. Integrate your **ClickSend** account easily with **[Fluent Forms Pro](/upgrade-to-fluent-forms-pro-add-on)** by following the steps mentioned below-
 
 ## Enable ClickSend Integration
 
@@ -52,7 +52,7 @@ Name the feed and select from the dropdown the ClickSend SMS Service that you wa
 
 Select a **Message Body**, **To** (number in which SMS will be sent), and other optional fields like Message, SMS Template, and SMS Schedule.
 
-Enable **Conditional Logic** if required. Learn more about [Fluent Forms Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+Enable **Conditional Logic** if required. Learn more about [Fluent Forms Conditional Logic](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 Click on **Create ClickSend SMS Feed** when the configuration is done.
 

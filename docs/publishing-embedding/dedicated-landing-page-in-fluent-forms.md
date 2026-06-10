@@ -5,7 +5,7 @@ Fluent Forms lets you create standalone landing pages for campaigns, lead genera
 This guide shows how to enable, design, share, and preview a dedicated landing page.
 
 > [!Note]
-> The Dedicated Landing Page feature requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The Dedicated Landing Page feature requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Landing Pages
 
@@ -67,7 +67,7 @@ Switch to the **Share** tab to access distribution options:
 - **Pretty URL:** Turn on Pretty URL, enter a **URL Slug**, and click **Save Pretty URL**
 - **Share Via Direct URL:** Copy the direct link or use quick-share icons for Facebook, Twitter, LinkedIn, or email
 - **QR Code:** Download or copy an SVG QR code for print or in-person sharing
-- **Shortcode:** Embed the form in any WordPress **Page** or **Post**. For more ways to place forms with shortcodes, see the [Fluent Forms shortcodes overview](/docs/fluent-forms-shortcodes-overview).
+- **Shortcode:** Embed the form in any WordPress **Page** or **Post**. For more ways to place forms with shortcodes, see the [Fluent Forms shortcodes overview](/fluent-forms-shortcodes-overview).
 - **Email Share:** Open a pre-written email draft or copy the message text
 - **Embed via HTML Code:** Copy the iframe code to embed the form on another domain or outside WordPress. You can adjust the height property. Confirm your hosting server supports iframes.
 

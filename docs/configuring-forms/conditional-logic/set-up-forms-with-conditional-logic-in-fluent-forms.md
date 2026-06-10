@@ -7,13 +7,13 @@
 First, go to the **Forms** from the **Fluent Forms Navbar** or **WordPress Left Sidebar,** and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to use the **Conditional Logic** feature.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 For example, I chose an existing form to show the whole process.
 
 ![Open Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic-in-fluent-forms/1.-Open-Desired-form-scaled.webp)
 
-Once you open the **Editor** page, choose the desired **Input Field** that you want to **hide/display** based on the set condition/s. **For example**, I selected the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to show you the process.
+Once you open the **Editor** page, choose the desired **Input Field** that you want to **hide/display** based on the set condition/s. **For example**, I selected the [Payment Method](/add-payment-method-field-in-payment-forms) field to show you the process.
 
 Now, hover over the chosen field, click the **Pencil/Edit** Icon, and you’ll be taken to the **Input** **Customization** tab on the left side.
 

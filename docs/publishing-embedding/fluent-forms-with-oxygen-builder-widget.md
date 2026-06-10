@@ -14,7 +14,7 @@ To add element, click the **Plus Icon (+)** in the top left and type **Fluent Fo
 
 ![Search Fluent Forms](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/search-fluent-form-02.webp)
 
-If you already have forms, just choose one from the dropdown. If not, create a new form in [Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) first.
+If you already have forms, just choose one from the dropdown. If not, create a new form in [Fluent Forms](/how-to-create-a-form-with-fluent-forms) first.
 
 ![Select Fluent Forms with Oxygen](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Select-a-form-04.webp)
 
@@ -36,7 +36,7 @@ You can also customize the border by setting its color, width, and style (solid,
 
 **File Upload Field**: You can style the File Upload button by customizing its color, shape, typography, and border. Use the available options to adjust font size, weight, alignment, border style, width, and radius to match your design.
 
-**Multi-step Forms:** For [multi-step forms](/docs/creating-a-multi-step-form-in-fluent-forms), you can style a **Section Break** and a **Progress Bar** to divide the form into steps and help users track their progress easily.
+**Multi-step Forms:** For [multi-step forms](/creating-a-multi-step-form-in-fluent-forms), you can style a **Section Break** and a **Progress Bar** to divide the form into steps and help users track their progress easily.
 
 ![Textera Fluent Forms](/images/publishing-embedding/fluent-forms-with-oxygen-builder-widget/Textera-05-scaled.webp)
 

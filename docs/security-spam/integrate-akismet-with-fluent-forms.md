@@ -1,6 +1,6 @@
 # Integrate Akismet with Fluent Forms
 
-Fluent Forms allows you to integrate **Akismet** to enhance security for your form entries, protecting them from spambots and keeping your contact lists spam-free. For more anti-spam options, you can also use [Honeypot and reCAPTCHA spam protection](/docs/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms). This article will guide you through the process of integrating **Akismet** with **Fluent Forms.**
+Fluent Forms allows you to integrate **Akismet** to enhance security for your form entries, protecting them from spambots and keeping your contact lists spam-free. For more anti-spam options, you can also use [Honeypot and reCAPTCHA spam protection](/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms). This article will guide you through the process of integrating **Akismet** with **Fluent Forms.**
 
 ## Installing & Activating Akismet in
 

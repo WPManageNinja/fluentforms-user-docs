@@ -5,7 +5,7 @@ Fluent Forms integrates with **HubSpot** so form submissions can create or updat
 This guide covers enabling the integration, creating a HubSpot private app, connecting your access token, and configuring a form feed.
 
 > [!Note]
-> **HubSpot** integration requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **HubSpot** integration requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable HubSpot Integration
 
@@ -97,7 +97,7 @@ A success notice confirms the token is verified. You can disconnect HubSpot anyt
 Go to **All Forms** and open the form you want to connect, or create a new one.
 
 > [!Note]
-> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open form settings for HubSpot integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/Forms-Fluent-settings-y-scaled.webp)
 
@@ -118,7 +118,7 @@ In the form's **Settings & Integrations**, click **Add New Integration** and sel
 
 **D. Other Fields:** Add extra custom HubSpot fields. Click the **Plus** icon to add more mappings.
 
-**E. Conditional Logic:** Run the integration only when specific conditions are met. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**E. Conditional Logic:** Run the integration only when specific conditions are met. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **F. Update:** Enable **Contact Update** to update existing HubSpot contacts with new form data.
 
@@ -140,7 +140,7 @@ If the old list ID cannot be mapped to a Lists v3 ID, open the feed, re-select t
 
 ## Preview of Integrated HubSpot
 
-View form submissions in the form's **Entries** section. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+View form submissions in the form's **Entries** section. Learn more about [managing entries in Fluent Forms](/managing-entries-in-fluent-forms).
 
 ![Form entries after HubSpot integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/15-scaled.webp)
 

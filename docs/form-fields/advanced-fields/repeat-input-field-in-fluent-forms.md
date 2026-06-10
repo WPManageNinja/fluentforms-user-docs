@@ -1,11 +1,11 @@
 # Repeat Input Field in Fluent Forms
 
-The **Repeat Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform) allows users to duplicate an input field dynamically. This is useful for forms where users may need to add multiple entries, such as contact details, addresses, or product lists. You can even [add calculation values on the Repeat field](/docs/how-to-add-calc-values-on-the-repeat-field) to total up rows automatically.
+The **Repeat Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform) allows users to duplicate an input field dynamically. This is useful for forms where users may need to add multiple entries, such as contact details, addresses, or product lists. You can even [add calculation values on the Repeat field](/how-to-add-calc-values-on-the-repeat-field) to total up rows automatically.
 
 This guide will walk you through adding and customizing the **Repeat Input** field in Fluent Forms.
 
 > [!Note]
-> The **Repeat Input** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The **Repeat Input** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Adding a Repeat Input Field
 
@@ -14,7 +14,7 @@ To add the **Repeat Input Field** in Fluent Forms, follow the simple steps below
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Repeat Input Field](/images/form-fields/advanced-fields/repeat-input-field-in-fluent-forms/Form-Edit-01-1-scaled.webp)
 
@@ -50,7 +50,7 @@ Under the Input Customization tab, you will find various settings options for cu
 
 - **Label:** Name the Label of the Column.
 
-- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms).
+- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/dynamic-default-value-in-fluent-forms).
 
 You can add the **Default** value by clicking the **Three-Dot** option from the right side.
 
@@ -68,7 +68,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **D. Max Repeat Inputs:** Set the maximum number of rows users can add to this repeated field. Leave blank or set to 0 for unlimited entries.
 

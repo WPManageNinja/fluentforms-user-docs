@@ -52,7 +52,7 @@ Suppose your country is the United States (US), type ‘UN’ to see a list of U
 
 **F. Required:** If this field is essential, make it required so users can’t skip it when filling out the form. By default, it selected **‘No’**. If you select **‘YES’** by clicking the **Radio** button, the field is required where the user must respond by submitting the form.
 
-**Global error message:** If you enable this option, a global [error message](/docs/error-message-customization-with-fluent-forms) will be displayed if the field is not filled out when required.
+**Global error message:** If you enable this option, a global [error message](/error-message-customization-with-fluent-forms) will be displayed if the field is not filled out when required.
 
 The default error message displayed is that his field is **required**.
 
@@ -88,7 +88,7 @@ This country will rank first in the search results. Two additional options exist
 
 **F. Name Attribute:** The input field’s name attribute is the **HTML** equivalent of the same name. You don’t need to modify this.
 
-**G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/form-fields/general-fields/country-list-field-in-fluent-form/advanced-options-05-scaled.webp)
 

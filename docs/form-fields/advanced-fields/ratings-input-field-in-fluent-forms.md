@@ -1,18 +1,18 @@
 # Ratings Input Field in Fluent Forms
 
-The **rating** input field in Fluent Forms allows users to provide feedback quickly, making it a great fit for [surveys and polls](/docs/surveys-and-polls-in-fluent-forms). By default, the field includes five rating levels: **Nice, Good, Very Good, Awesome, and Amazing**. You can customize and add more rating options as needed.
+The **rating** input field in Fluent Forms allows users to provide feedback quickly, making it a great fit for [surveys and polls](/surveys-and-polls-in-fluent-forms). By default, the field includes five rating levels: **Nice, Good, Very Good, Awesome, and Amazing**. You can customize and add more rating options as needed.
 
 This guide walks you through adding and customizing the **Ratings** field in Fluent Forms.
 
 > [!Note]
-> The **Ratings** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The **Ratings** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Adding Ratings Input Field
 
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Edit form to add Ratings field](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/edit-form-01-10-scaled.webp)
 
@@ -90,7 +90,7 @@ Hover feedback is derived from the inactive color.
 
 **B. Name Attribute:** The HTML name attribute. You usually do not need to change this.
 
-**C. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**C. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 ![Ratings advanced options](/images/form-fields/advanced-fields/ratings-input-field-in-fluent-forms/Advanced-options-05-11-scaled.webp)
 

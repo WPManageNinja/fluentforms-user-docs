@@ -7,7 +7,7 @@ In [Fluent Forms](http://Fluentforms.com), you can easily create **Payment Forms
 First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form.
 
 > [!Note]
-> If you do not have an existing form, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) first.
+> If you do not have an existing form, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) first.
 
 For example, I chose an existing form to show the whole process.
 
@@ -60,7 +60,7 @@ Now, go to your desired payment platform/s and check the **Enable** **Payment** 
 You can also customize the payment settings **globally** for all forms or **individually** for each form based on your needs.
 
 > [!Note]
-> To learn how to customize payment settings, see [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
+> To learn how to customize payment settings, see [Configure Payment Settings with Fluent Forms](/configure-payment-settings-with-fluent-forms).
 
 ## Integrating Form in WordPress Site
 

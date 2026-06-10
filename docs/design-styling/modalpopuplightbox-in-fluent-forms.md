@@ -5,7 +5,7 @@ Fluent Forms offers you to built-in popup feature makes displaying forms in a mo
 In this documentation you will learn how to create and customize a popup form using Fluent Forms.
 
 > [!Note]
-> **Modal/Popup/Lightbox** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Modal/Popup/Lightbox** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Displaying the Popup Form
 

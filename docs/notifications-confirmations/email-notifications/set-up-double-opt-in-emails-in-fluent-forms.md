@@ -44,7 +44,7 @@ If the Reply to the field is empty, the email sent by your domain's SMTP will wo
 First, go to **Forms** from the top navbar. Create a new form or existing form. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 For example, a contact form has been used here.
 
@@ -62,13 +62,13 @@ Also, you can enter the email body as you want.
 
 If you want to **Disable Double Opt-In for the logged-in-user** check the box.
 
-And if you want to **Disable Double Opt-in if the contact email is subscribed in FluentCRM**, check the box. To connect your forms with the CRM, see the [FluentCRM Integration](/docs/fluentcrm-integration-with-fluent-forms) documentation.
+And if you want to **Disable Double Opt-in if the contact email is subscribed in FluentCRM**, check the box. To connect your forms with the CRM, see the [FluentCRM Integration](/fluentcrm-integration-with-fluent-forms) documentation.
 
 After all settings are set, click the **Save Settings** button.
 
 ![Set up Double Opt-in emails step](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/04-3-scaled.webp)
 
-After the user confirms their subscription from email the form confirmation will be displayed; see the example below where you can edit the [Confirmation Message](/docs/setup-form-submission-confirmation-message-in-fluent-forms).
+After the user confirms their subscription from email the form confirmation will be displayed; see the example below where you can edit the [Confirmation Message](/setup-form-submission-confirmation-message-in-fluent-forms).
 
 ![Initial Message](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/initial-message-02.webp)
 

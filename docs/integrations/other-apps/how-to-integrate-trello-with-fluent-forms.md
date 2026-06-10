@@ -5,7 +5,7 @@ Trello is an integrated email marketing, marketing automation, and small busines
 This article will guide you through integrating **Trello** with **Fluent Forms** on your **WordPress Site**. 
 
 > [!Note]
-> **Trello** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Trello** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Trello Integration
 
@@ -52,7 +52,7 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Trello** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Trello](/images/integrations/other-apps/how-to-integrate-trello-with-fluent-forms/7.-Open-desired-Form-Settings-1-scaled.webp)
 
@@ -72,7 +72,7 @@ Now, a pop-up page will appear with various settings options for configuring Tre
 
 5. **Card Position:** Here, you can set the desired position for your cards.
 
-6. **Conditional Logics:** This option allows Trello integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+6. **Conditional Logics:** This option allows Trello integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 7. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

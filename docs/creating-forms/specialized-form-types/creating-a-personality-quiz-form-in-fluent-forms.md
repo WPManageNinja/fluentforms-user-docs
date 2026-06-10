@@ -6,7 +6,7 @@ This article will guide you in creating a successful Personality Quiz Form with 
 
 ## Enabling the Quiz Module
 
-First, go to **Integrations** from the Fluent Forms Navbar, search for **[Quiz Module](/docs/fluent-forms-quiz-module)** through the search bar, and get the **Quiz Module**.
+First, go to **Integrations** from the Fluent Forms Navbar, search for **[Quiz Module](/fluent-forms-quiz-module)** through the search bar, and get the **Quiz Module**.
 
 Now, turn on the **Toggle** to enable the **Quiz** module.
 
@@ -14,7 +14,7 @@ Now, turn on the **Toggle** to enable the **Quiz** module.
 
 ## Create Your Quiz Questions
 
-**Now,** use the [Radio Field](/docs/radio-field-in-fluent-forms) to craft your quiz questions. For each question, provide multiple answer options. Then, customize each question and its options by clicking on **Input Customization**.
+**Now,** use the [Radio Field](/radio-field-in-fluent-forms) to craft your quiz questions. For each question, provide multiple answer options. Then, customize each question and its options by clicking on **Input Customization**.
 
 ![Quiz question field](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form-in-fluent-forms/question-02-scaled.webp)
 

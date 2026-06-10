@@ -40,7 +40,7 @@ You will find various settings options for customizing the field. Located in the
 
 - **Label Placement:** This option determines the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the Default option, it will represent your global label placement settings.
 
-- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
+- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms).
 
 - **Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute.
 
@@ -60,7 +60,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/form-fields/general-fields/name-input-field-in-fluent-forms/Advanced-Options-05-scaled.webp)
 

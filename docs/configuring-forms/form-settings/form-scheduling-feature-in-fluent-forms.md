@@ -10,9 +10,9 @@ This article will guide you on scheduling your form in Fluent Forms.
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button which form you want to schedule.
 
-Now, click the **Settings & Integrations** tab at the top bar and stay in the **Settings** section. Scroll down to the **Scheduling and Restrictions** segment under the Settings section. This same segment also holds the [form restrictions](/docs/form-restrictions-feature-in-fluent-forms) options.
+Now, click the **Settings & Integrations** tab at the top bar and stay in the **Settings** section. Scroll down to the **Scheduling and Restrictions** segment under the Settings section. This same segment also holds the [form restrictions](/form-restrictions-feature-in-fluent-forms) options.
 
-“If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.” 
+“If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) documentation to create a new one.” 
 
 ![Fluent Forms](/images/configuring-forms/form-settings/form-scheduling-feature-in-fluent-forms/01-2-scaled-2.webp)
 

@@ -1,11 +1,11 @@
 # Dynamic Field in Fluent Form
 
-With Fluent Forms **Dynamic Fields**, you can create fields that automatically pull in content like posts, users, [taxonomy terms](/docs/add-categories-taxonomy-field-in-post-forms), or form data, giving users customized options and building form flexibility. 
+With Fluent Forms **Dynamic Fields**, you can create fields that automatically pull in content like posts, users, [taxonomy terms](/add-categories-taxonomy-field-in-post-forms), or form data, giving users customized options and building form flexibility. 
 
 This guide will teach you how to set up and customize Dynamic Fields to make your forms more user-friendly.
 
 > [!Note]
-> The **Dynamic** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The **Dynamic** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 **Fluent Forms: Boost Form Efficiency with Dynamic Fields**
 
@@ -18,7 +18,7 @@ This guide will teach you how to set up and customize Dynamic Fields to make you
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Dynamic Field in Fluent](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/edit-form-01-18-scaled.webp)
 
@@ -61,7 +61,7 @@ All the settings under the **Dynamic Input Field** mentioned above are briefly e
 - **Text Autocomplete:** This type allows users to type into the field while the form suggests matching results dynamically from the source data.
 
 > [!Note]
-> **Text Autocomplete** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Text Autocomplete** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ![Dynamic Field Options](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/dynamic-field-options-scaled.webp)
 
@@ -121,7 +121,7 @@ You will choose **Label** and **Values** from the dropdown options. You can also
 
 Advanced settings allow further customization to meet specific use cases. 
 
-**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). 
+**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/dynamic-default-value-in-fluent-forms). 
 
 You can add the default value by clicking the **Three-Dot** option on the right side.
 
@@ -133,7 +133,7 @@ You can add the default value by clicking the **Three-Dot** option on the right 
 
 **E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/form-fields/advanced-fields/dynamic-field-in-fluent-form/Advanced-options-11-scaled.webp)
 

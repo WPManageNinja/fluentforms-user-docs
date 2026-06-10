@@ -1,13 +1,13 @@
 # How to Integrate Gist with Fluent Forms
 
-Integrating [Gist](http://getgist.com) with **Fluent Forms** allows you to build your Gist email list through the users of Fluent Forms. This article will guide you through integrating **Gist** with **Fluent Forms** on your **WordPress Site**. For an alternative walkthrough, see the [GetGist integration guide](/docs/gist-integration-with-fluent-forms).  
+Integrating [Gist](http://getgist.com) with **Fluent Forms** allows you to build your Gist email list through the users of Fluent Forms. This article will guide you through integrating **Gist** with **Fluent Forms** on your **WordPress Site**. For an alternative walkthrough, see the [GetGist integration guide](/gist-integration-with-fluent-forms).  
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/j6Bs2TrcjjI" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 > [!Note]
-> **Gist** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Gist** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Gist Integration
 
@@ -49,7 +49,7 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **GetGist,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/Open-Desired-Form-Settings-scaled-2.webp)
 
@@ -69,7 +69,7 @@ Once you select the integration, a page will appear with various settings option
 
 5. **Push IP Address:** When this option is enabled, FluentForm will pass the “last_seen_ip” to the gist.
 
-6. **Conditional Logics:** This option allows GetGist integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+6. **Conditional Logics:** This option allows GetGist integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 7. **Enable This Feed:** Check this option to ensure this integration feed stays enabled and all its actions run properly.
 

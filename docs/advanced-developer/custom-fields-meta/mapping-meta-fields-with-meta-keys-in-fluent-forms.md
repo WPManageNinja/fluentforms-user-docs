@@ -8,7 +8,7 @@ This guide will walk you through mapping meta fields for both **Post Forms** and
 
 ### Create or Use an Existing Post Form
 
-Start by creating a **Custom Post Form** or using an existing one. Ensure the **Field Group** is set to **Post Type**. To know more about creating post forms, read the [Post Form guide](/docs/how-to-create-a-post-form-with-fluent-forms). 
+Start by creating a **Custom Post Form** or using an existing one. Ensure the **Field Group** is set to **Post Type**. To know more about creating post forms, read the [Post Form guide](/how-to-create-a-post-form-with-fluent-forms). 
 
 A post form might include fields like:
 
@@ -22,7 +22,7 @@ A post form might include fields like:
 
 - Numeric Field
 
-> [ACF (Advanced Custom Fields)](/docs/use-acf-to-add-a-custom-field-in-the-post-form) mapping requires the use of mapped meta fields.
+> [ACF (Advanced Custom Fields)](/use-acf-to-add-a-custom-field-in-the-post-form) mapping requires the use of mapped meta fields.
 
 ![Create Post](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys-in-fluent-forms/Create-post-form-01-scaled.webp)
 

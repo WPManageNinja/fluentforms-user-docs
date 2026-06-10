@@ -4,12 +4,12 @@ ChatGPT, developed by OpenAI, is an AI system chatbot trained to follow instruct
 
 Fluent Forms now integrates OpenAI ChatGPT, making it easier for users to create Forms effortlessly with simple commands and set up AI-generated confirmation messages or emails and even PDF feeds for form submissions.
 
-This article will guide you through integrating [OpenAI ChatGPT](https://openai.com/) with Fluent Forms. To build an entire form from a prompt instead, see [How to Create a Form with OpenAI ChatGPT](/docs/how-to-create-a-form-with-openai-chatgpt).
+This article will guide you through integrating [OpenAI ChatGPT](https://openai.com/) with Fluent Forms. To build an entire form from a prompt instead, see [How to Create a Form with OpenAI ChatGPT](/how-to-create-a-form-with-openai-chatgpt).
 
 ## Enabling OpenAI ChatGPT Integration
 
 > [!Note]
-> **OpenAI ChatGPT** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **OpenAI ChatGPT** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 First, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **OpenAI ChatGPT** through the search bar, and get the **OpenAI ChatGPT** integration module.
 
@@ -63,7 +63,7 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **OpenAI ChatGPT,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate OpenAI ChatGPT](/images/integrations/other-apps/how-to-integrate-openai-chatgpt-with-fluent-forms/9.-Open-desired-form-Settings-scaled.webp)
 
@@ -79,7 +79,7 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 3. **Write Query:** Here, provide the proper instructions on how you want ChatGPT to send a confirmation message to your customers after each form submission. You can also use shortcodes to fetch dynamic form data using the ShortCode button in the right corner.
 
-4. **Conditional Logics:** This option allows OpenAI ChatGPT integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+4. **Conditional Logics:** This option allows OpenAI ChatGPT integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 5. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

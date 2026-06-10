@@ -5,7 +5,7 @@
 This article will guide you through integrating **Airtable** with **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **Airtable** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Airtable** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Airtable Integration
 
@@ -68,7 +68,7 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Airtable,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Airtable](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/9.-Open-desired-Form-Settings-scaled.webp)
 
@@ -92,7 +92,7 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 4. **Enable Instant Responder:** Check this option, and Airtable will send any instant responders set up when the contact is added to the list. This option is not available to users on a free trial.
 
-5. **Conditional Logics:** This option allows Airtable integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+5. **Conditional Logics:** This option allows Airtable integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 6. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

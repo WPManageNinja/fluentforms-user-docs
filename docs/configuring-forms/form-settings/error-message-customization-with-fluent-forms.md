@@ -49,7 +49,7 @@ These messages appear when something goes wrong while filling out a form. The gl
 
 #### Error message position
 
-Error messages can be shown in different places on the form. Go to **Settings & Integrations → Form Layout** (under **Settings**), then choose a position. Learn more in the [Form Layout Settings](/docs/form-layout-settings-in-fluent-forms) documentation.
+Error messages can be shown in different places on the form. Go to **Settings & Integrations → Form Layout** (under **Settings**), then choose a position. Learn more in the [Form Layout Settings](/form-layout-settings-in-fluent-forms) documentation.
 
 * **Below Input Fields:** Shows the error directly below the blank or invalid field.
 * **Stacked after Form:** Lists all validation errors below the form after submit.
@@ -62,4 +62,4 @@ Here is a front-end **preview** of how error messages appear to visitors.
 
 ![Error message preview](/images/configuring-forms/form-settings/error-message-customization-with-fluent-forms/error-message-preview-04-1024x505.webp)
 
-Customizing error messages in Fluent Forms helps users spot and fix issues quickly, so form submission feels smoother and clearer. To guide users before they make mistakes, you can also add a [help message](/docs/help-message-customization-in-fluent-forms) to any field.
+Customizing error messages in Fluent Forms helps users spot and fix issues quickly, so form submission feels smoother and clearer. To guide users before they make mistakes, you can also add a [help message](/help-message-customization-in-fluent-forms) to any field.

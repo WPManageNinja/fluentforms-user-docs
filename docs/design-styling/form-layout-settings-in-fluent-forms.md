@@ -1,6 +1,6 @@
 # Form Layout Settings in Fluent Forms
 
-**Fluent Forms** offers a **Form Layout** feature for the basic customization of your form’s outlook (e.g., the position of the input field label, default help message placement, default error message placement, and asterisk marker position for required fields). For full visual styling such as colors, typography, and borders, use the [Form Styler](/docs/official-form-styler-of-fluent-forms).
+**Fluent Forms** offers a **Form Layout** feature for the basic customization of your form’s outlook (e.g., the position of the input field label, default help message placement, default error message placement, and asterisk marker position for required fields). For full visual styling such as colors, typography, and borders, use the [Form Styler](/official-form-styler-of-fluent-forms).
 
 This article will guide you through setting up the **Form Layout** in **Fluent Forms.**
 
@@ -34,7 +34,7 @@ Once you complete the setup, click the **Save Settings** button to save all your
 
 ### 1. Label Alignment
 
-With this option, you can define the alignment position for the **Label** of your [**Input Fields**](/docs/form-fields-overview).
+With this option, you can define the alignment position for the **Label** of your [**Input Fields**](/form-fields-overview).
 
 Clicking the **Arrow Icon** will provide three options for setting the **Placement** of the **Field Label**. These are:
 

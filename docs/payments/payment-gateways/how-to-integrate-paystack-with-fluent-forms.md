@@ -3,7 +3,7 @@
 [Paystack](http://paystack.com) is an amazing payment method for your webshop that allows **Fluent Forms** a smooth online payment transaction. This article will guide you through integrating **Paystack** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
 
 > [!Note]
-> **Paystack** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Paystack** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Paystack Payment Method
 
@@ -41,7 +41,7 @@ Finally, press the **Save Settings** button and your Paystack account will be co
 
 ## Integrate Paystack in Forms
 
-Once you finish setting up your **Paystack** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
+Once you finish setting up your **Paystack** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields are added).
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 

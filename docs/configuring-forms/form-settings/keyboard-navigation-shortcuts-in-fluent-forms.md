@@ -1,13 +1,13 @@
 # Keyboard Navigation & Shortcuts in Fluent Forms
 
-To make form editing faster and more efficient, Fluent Forms provides essential keyboard shortcuts. Here’s how to use them effectively while building or editing your forms in the [Form Builder](/docs/fluent-forms-user-interface):
+To make form editing faster and more efficient, Fluent Forms provides essential keyboard shortcuts. Here’s how to use them effectively while building or editing your forms in the [Form Builder](/fluent-forms-user-interface):
 
 ## Keyboard Navigation & Shortcuts in Form Editor
 
 Go to the Fluent Forms Dashboard and open the **Forms** section. Now choose an existing form or create a new one and then go to the **Editor** section of the form.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Keyboard Navigation & Shortcuts](/images/configuring-forms/form-settings/keyboard-navigation-shortcuts-in-fluent-forms/edit-form-01-scaled-2.webp)
 

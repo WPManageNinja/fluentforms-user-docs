@@ -5,14 +5,14 @@ The **Ranking** field lets users arrange options in their preferred order. Respo
 This guide walks you through adding and customizing the **Ranking** field in Fluent Forms.
 
 > [!Note]
-> The **Ranking** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The **Ranking** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Adding the Ranking Field
 
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Edit form to add Ranking field](/images/form-fields/advanced-fields/ranking-field-in-fluent-forms/edit-1-scaled.webp)
 
@@ -69,7 +69,7 @@ Hover over the field and click the **Pencil** icon to open **Input Customization
 
 **D. Element Class:** Custom CSS classes for the input field.
 
-**E. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**E. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 ![Ranking field advanced options](/images/form-fields/advanced-fields/ranking-field-in-fluent-forms/advanced-option-4-scaled.webp)
 

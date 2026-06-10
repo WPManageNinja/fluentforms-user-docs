@@ -28,7 +28,7 @@ From your **Fluent Forms Dashboard**, go to **Integrations**, search for **MailP
 ### Integrate MailPoet in Fluent FormsGo to **Forms** from the **Fluent Forms Dashboard** and click the **Settings** button of your desired form where you want to add the feed.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings MailPoet Integration](/images/integrations/email-marketing/mailpoet-integration-with-fluent-forms/4.-Desired-Forms-Settings-scaled.webp)
 
@@ -52,7 +52,7 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 > [!Note]
 > **Send Confirmation Email** requires **MailPoet Pro** and a verified MailPoet account.
 
-- Conditional Logic: This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more, read the [Fluent Forms Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+- Conditional Logic: This option allows MailPoet integration to work conditionally based on your form submission values. Enable this option if required. To learn more, read the [Fluent Forms Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 - **Status:** Uncheck the Enable This Feed box if you want to save this MailPoet Feed as Draft. Otherwise, enable this box to make this feed functional.
 

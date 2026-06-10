@@ -3,7 +3,7 @@
 Integrating SendFox with **Fluent Forms** allows you to build your SendFox email list through the users of Fluent Forms. This article will guide you through integrating **SendFox** with **Fluent Forms** on your **WordPress Site**.  
 
 > [!Note]
-> **SendFox** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **SendFox** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable SendFox Integration
 
@@ -57,7 +57,7 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **SendFox** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate SendFox](/images/integrations/email-marketing/how-to-integrate-sendfox-with-fluent-forms/9.-Open-desired-form-settings-2-scaled.webp)
 
@@ -78,7 +78,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 3. **Map Fields:** Use all the fields under this option to properly link your SendFox Fields with the Form Fields. You can easily select the value for the Form Fields based on the SendFox fields using the Shortcode Arrow.
 
-4. **Conditional Logics:** This option allows SendFox integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+4. **Conditional Logics:** This option allows SendFox integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

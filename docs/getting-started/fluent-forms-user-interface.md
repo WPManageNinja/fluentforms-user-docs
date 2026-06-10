@@ -56,7 +56,7 @@ You can filter your forms by category using the drop-down menu. This helps you q
 
 The Form Builder allows you to create and customize forms using a drag-and-drop system.
 
-* **Field Panel:** The sidebar that shows [all available form fields](/docs/form-fields-overview), including general and advanced types like text input, checkboxes, and dropdowns. Drag any field from here into your form.
+* **Field Panel:** The sidebar that shows [all available form fields](/form-fields-overview), including general and advanced types like text input, checkboxes, and dropdowns. Drag any field from here into your form.
 * **Customization:** On the right side, options to customize each field after adding it to the form.
 * **Form Canvas:** The main workspace where you design and arrange your form.
 * **Field Settings:** When you click on a field, you can edit its label, placeholder, validation rules, and other options.
@@ -65,7 +65,7 @@ The Form Builder allows you to create and customize forms using a drag-and-drop 
 * **Save Form:** After making changes, click the Save Form button to save your form to your website.
 
 > [!Note]
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms in Fluent Forms](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/how-to-create-a-form-with-fluent-forms) or [Using and Customizing Pre-built Quick Forms in Fluent Forms](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Form Builder](/images/getting-started/fluent-forms-user-interface/Form-builder-scaled.webp)
 
@@ -75,9 +75,9 @@ You can use a collection of ready-made form templates to quickly get started.
 
 * **Import Button:** Click this button to import an existing template into your form builder.
 * **Choose a Template:** Pick and customize a pre-designed template to fit your needs.
-* **Create Conversational Form:** Use this option to start building a conversational-style form. See [How to create a conversational form](/docs/how-to-create-a-conversational-form).
-* **Create a Post Form:** Select this template to create a form that can generate WordPress posts. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
-* **Create a Form with AI:** Choose this option to generate a form using AI. See [How to Create a Form with Fluent Forms AI](/docs/how-to-create-a-form-with-fluent-forms-ai).
+* **Create Conversational Form:** Use this option to start building a conversational-style form. See [How to create a conversational form](/how-to-create-a-conversational-form).
+* **Create a Post Form:** Select this template to create a form that can generate WordPress posts. See [How to Create a Post Form with Fluent Forms](/how-to-create-a-post-form-with-fluent-forms).
+* **Create a Form with AI:** Choose this option to generate a form using AI. See [How to Create a Form with Fluent Forms AI](/how-to-create-a-form-with-fluent-forms-ai).
 
 ![Form Template](/images/getting-started/fluent-forms-user-interface/Form-template-04.webp)
 
@@ -87,7 +87,7 @@ The Entries section shows all form submissions collected on your website.
 
 * **Form Filter:** Filter entries by specific forms.
 * **Read/Unread Status:** Filter entries by read and unread status.
-* **Import Entries:** Import entries from other sources. See [Importing Entries in Fluent Forms](/docs/importing-entries-in-fluent-forms) and [Managing Entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+* **Import Entries:** Import entries from other sources. See [Importing Entries in Fluent Forms](/importing-entries-in-fluent-forms) and [Managing Entries in Fluent Forms](/managing-entries-in-fluent-forms).
 
 ![Entries](/images/getting-started/fluent-forms-user-interface/entries-05-scaled.webp)
 
@@ -96,7 +96,7 @@ The Entries section shows all form submissions collected on your website.
 Once you enable the payment feature, you can choose and set up your preferred payment methods.
 
 * **Payment Methods:** Configure gateways such as Stripe, PayPal, or Razorpay and connect specific forms to specific payment options.
-* **Transactions List:** When you click the **Payments** menu, you see all transactions made through your forms and can view payment details for each form separately. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
+* **Transactions List:** When you click the **Payments** menu, you see all transactions made through your forms and can view payment details for each form separately. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings-with-fluent-forms).
 
 ![Payment](/images/getting-started/fluent-forms-user-interface/Payment-07-scaled.webp)
 
@@ -117,7 +117,7 @@ The Tools section in the Fluent Forms dashboard lets you manage and transfer you
 * **API Activity Logs:** View API activity logs.
 * **Export and Import Forms:** Export and import forms between sites.
 * **Import Entries:** Import entries from JSON or CSV files.
-* **Migrator:** Migrate forms from other plugins. See [Fluent Forms Migrator](/docs/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
+* **Migrator:** Migrate forms from other plugins. See [Fluent Forms Migrator](/fluent-forms-migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
 * **Form Activity:** Monitor form activity.
 
 ![Tools](/images/getting-started/fluent-forms-user-interface/tools-09-scaled.webp)
@@ -127,7 +127,7 @@ The Tools section in the Fluent Forms dashboard lets you manage and transfer you
 Here is the list of modules you can turn on or off using the **Toggle** button.
 
 * **Modules:** Three module filter options—**All**, **CRM & SaaS integration**, and **WP Core module**. Search for modules using the search box on the right.
-* **Fluent Forms PDF:** Generate and download form submissions as PDF files. See [Fluent Forms PDF Module](/docs/fluent-forms-pdf-module).
+* **Fluent Forms PDF:** Generate and download form submissions as PDF files. See [Fluent Forms PDF Module](/fluent-forms-pdf-module).
 
 ![Integration](/images/getting-started/fluent-forms-user-interface/Integration-09-scaled.webp)
 

@@ -3,7 +3,7 @@
 Multi-step forms are an effective way to collect more data from users without overwhelming them. Breaking down the form into multiple steps makes the process less daunting and more manageable for users. This article will guide you through creating a multi-step form with Fluent Forms.
 
 > [!Note]
-> **Multi-step forms** require the **Fluent Forms Pro Add-on**. Install and activate the free Fluent Forms plugin first, then add Pro. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Multi-step forms** require the **Fluent Forms Pro Add-on**. Install and activate the free Fluent Forms plugin first, then add Pro. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/VQTWnM6BbRU" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -11,7 +11,7 @@ Multi-step forms are an effective way to collect more data from users without ov
 
 ## Creating a Multi-Step Form
 
-Initially, you can choose [Pre-built Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) or start with a [Blank Form](/docs/how-to-create-a-form-with-fluent-forms). Let's begin with a **Blank Form** so you can build it from scratch.
+Initially, you can choose [Pre-built Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) or start with a [Blank Form](/how-to-create-a-form-with-fluent-forms). Let's begin with a **Blank Form** so you can build it from scratch.
 
 Once you are on the **Editor** page, click the **Plus** **Icon**, open the **Advanced Fields** section, and choose the **Form Step** field.
 
@@ -47,7 +47,7 @@ The **Progress Indicator** setting controls how step progress is shown at the to
 
 ### Tabs Indicator Settings
 
-**A) Element Class:** Add custom CSS classes to the input field itself. See [How to Use CSS Ready Classes](/docs/how-to-use-css-ready-classes) for available options.
+**A) Element Class:** Add custom CSS classes to the input field itself. See [How to Use CSS Ready Classes](/how-to-use-css-ready-classes) for available options.
 
 **Tab Position:** Determines the layout orientation of your step tabs:
 
@@ -63,7 +63,7 @@ The **Progress Indicator** setting controls how step progress is shown at the to
 - **Disable auto focus when changing each page:** Check this to stop the page from automatically scrolling to the top of the form when a user changes steps.
 - **Enable auto page change for single radio field:** When enabled, the form automatically transitions to the next step immediately after a user selects an option in the last radio field of the current step.
 - **Enable Per-step data save (Save and Continue):** Saves form input data locally step-by-step as the user proceeds, letting them safely resume if they leave mid-session.
-- **Resume Step from last form session:** If your website has a sticky header menu, the form may be hidden beneath it while [auto-scroll](/docs/set-scroll-offset-of-form-steps) is enabled.
+- **Resume Step from last form session:** If your website has a sticky header menu, the form may be hidden beneath it while [auto-scroll](/set-scroll-offset-of-form-steps) is enabled.
 
 > [!Tip]
 > Watch this [video tutorial](https://youtu.be/TQAw19OoCSU) to learn how multi-step forms automatically advance to the next step.

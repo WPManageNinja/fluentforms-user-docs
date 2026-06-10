@@ -1,6 +1,6 @@
 # How to Import and Export Fluent Forms
 
-The Fluent Forms import/export feature allows you to migrate your forms to another site with a few clicks, saving you the need to [create a form](/docs/how-to-create-a-form-with-fluent-forms) again from scratch. 
+The Fluent Forms import/export feature allows you to migrate your forms to another site with a few clicks, saving you the need to [create a form](/how-to-create-a-form-with-fluent-forms) again from scratch. 
 
 Follow these simple steps to migrate your forms efficiently.
 
@@ -10,7 +10,7 @@ Follow these simple steps to migrate your forms efficiently.
 
 ## Export Fluent Form
 
-Go to the Fluent Forms dashboards, hover over the [**Tools**](/docs/fluent-forms-user-interface) section from the top menu bar, and click on the **Export Forms** tab.
+Go to the Fluent Forms dashboards, hover over the [**Tools**](/fluent-forms-user-interface) section from the top menu bar, and click on the **Export Forms** tab.
 
 In the Exports Forms tab, click **Select Forms** from the dropdown. Then, choose the **Forms** you want to export. 
 
@@ -29,7 +29,7 @@ Click the **Choose File** button to upload a Fluent Forms export file (.json) fr
 Before importing, you can check the **Apply default form style to imported forms** option to ensure the imported form matches your site's brand consistency instantly.
 
 > [!Note]
-> To learn more about **form style templates**, see [Official Form Styler of Fluent Forms](/docs/official-form-styler-of-fluent-forms).
+> To learn more about **form style templates**, see [Official Form Styler of Fluent Forms](/official-form-styler-of-fluent-forms).
 
 After selecting the file and configuring your options, click the **Import Forms** button.
 

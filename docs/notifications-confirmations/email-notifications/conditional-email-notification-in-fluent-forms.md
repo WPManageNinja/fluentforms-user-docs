@@ -1,6 +1,6 @@
 # Conditional Email Notification in Fluent Forms
 
-**Fluent Forms** offers the “**[Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms)**” feature, which sends email notifications to the specified email address after each form submission based on particular action triggers according to set conditions. This article will guide you through setting up the **Conditional Email Notification** in **Fluent Forms**. If you need to send emails to different recipients based on user responses, see [Conditional Email Routing](/docs/conditional-email-routing).
+**Fluent Forms** offers the “**[Conditional Logic](/set-up-forms-with-conditional-logic-in-fluent-forms)**” feature, which sends email notifications to the specified email address after each form submission based on particular action triggers according to set conditions. This article will guide you through setting up the **Conditional Email Notification** in **Fluent Forms**. If you need to send emails to different recipients based on user responses, see [Conditional Email Routing](/conditional-email-routing).
 
 ## Conditional Email Notification
 
@@ -14,7 +14,7 @@ Now, go to **Settings & Integrations** from the top navbar and open the **Email 
 
 First, you can **Enable** the default **Admin Notification** by **toggling it on.** Then, open its settings using the **Settings Icon** to set conditions based on your needs.
 
-Or, create a new one by clicking the **+ Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/docs/how-to-setup-adminuser-email-notifications).
+Or, create a new one by clicking the **+ Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/how-to-setup-adminuser-email-notifications).
 
 **For example**, I used the existing notification to show you the whole process. 
 

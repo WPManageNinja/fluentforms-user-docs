@@ -18,15 +18,15 @@
 ## <Second Major Section>
 
 <Cross-reference other docs with the SHORT link form only:>
-See [Descriptive Text](/docs/<other-slug>) for more.
+See [Descriptive Text](/<other-slug>) for more.
 
 <!--
 SCAFFOLD NOTES — delete before saving:
 - Line 1 must be the bare H1 (no frontmatter). It must match the sidebar "text".
-- Cross-links: /docs/<slug> ONLY. Never /docs/<category>/<slug>, never ./ or ../
+- Cross-links: /<slug> ONLY. Never /docs/<slug>, never /docs/<category>/<slug>, never ./ or ../
 - Images: store at docs/public/images/<category>/<slug>/, reference /images/<category>/<slug>/<file>
 - Pro-only features: append "(Pro)" after the feature name.
-- No support boilerplate. For help, link [How to Get Support](/docs/how-to-get-support).
+- No support boilerplate. For help, link [How to Get Support](/how-to-get-support).
 - Bold has no inner spaces: **term** not ** term **.
 - After writing, add the page to .vitepress/sidebar.json and run npm run docs:build.
 -->

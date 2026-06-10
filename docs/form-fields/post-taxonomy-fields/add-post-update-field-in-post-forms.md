@@ -38,7 +38,7 @@ Configure **Post Update** labels and post selection options:
 
 **E. Filter Posts**: Here, you can select which Posts you want to show in your form. 
 
-**F. Extra Query Parameter**: Here, you can provide the **Post Query Parameter** for further filtering. To learn more details about the Extra Query Parameter, see the [Post Selection Module in Fluent Forms](/docs/post-selection-module-in-fluent-forms).
+**F. Extra Query Parameter**: Here, you can provide the **Post Query Parameter** for further filtering. To learn more details about the Extra Query Parameter, see the [Post Selection Module in Fluent Forms](/post-selection-module-in-fluent-forms).
 
 ![Post Update Option](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/4.-Post-Update-option-scaled.webp)
 
@@ -48,7 +48,7 @@ Configure **Advanced** options:
 
 **A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read [Form Editor Smart Codes](/docs/form-editor-smart-codes). 
+**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read [Form Editor Smart Codes](/form-editor-smart-codes). 
 
 **C. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
 
@@ -56,7 +56,7 @@ Configure **Advanced** options:
 
 **E. Element Class**: Add custom CSS classes to the input field itself. This is used for adding Custom CSS/JS for a specific input field of a form.
 
-**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **G. Enable Searchable Smart Options**: If you enable this option, it will be searchable by the select2 js library.
 
@@ -71,7 +71,7 @@ Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post F
 First, go to **Settings & Integrations** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
 
 > [!Note]
-> If you do not have a **Post Feed** yet, click **+ Add Post Feed** under **Settings & Integrations → Post Feeds**. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) for the full feed setup process.
+> If you do not have a **Post Feed** yet, click **+ Add Post Feed** under **Settings & Integrations → Post Feeds**. See [How to Create a Post Form with Fluent Forms](/how-to-create-a-post-form-with-fluent-forms) for the full feed setup process.
 
 ![Add Post Feed](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/6.-Add-Post-Feed-scaled.webp)
 
@@ -80,7 +80,7 @@ Then, a pop-up page will appear with various settings options for configuring th
 **Remember**, here, you need to select **"Update Post"** as the **Submission Type** to access all existing posts from your WordPress Site and make the form functional. Otherwise, the **Post Update** field won’t appear in your **Post Form**.
 
 > [!Note]
-> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms).
+> Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/how-to-create-a-post-form-with-fluent-forms).
 
 Once the setup is done, click the **Save Feed** button and your **Post Feed** will be configured. Now, your Post Update will function successfully!
 

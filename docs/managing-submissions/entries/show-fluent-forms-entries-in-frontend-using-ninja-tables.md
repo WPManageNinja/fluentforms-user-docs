@@ -29,7 +29,7 @@ Open the **Connect Fluent Forms** option from the left menu of the pop-up page a
 
 Now, provide a **Title** for the table you are creating. Then select the preferred Fluent Forms' **Form** you want to configure with this table using the **Arrow Icon**.  
 
-> To learn more details about form entries, read [Managing Entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+> To learn more details about form entries, read [Managing Entries in Fluent Forms](/managing-entries-in-fluent-forms).
 
 ![Connect Select Fluent Forms](/images/managing-submissions/entries/show-fluent-forms-entries-in-frontend-using-ninja-tables/6.-Connect-Fluent-Forms-Select-desired-form-scaled.webp)
 

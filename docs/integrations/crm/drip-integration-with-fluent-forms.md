@@ -5,7 +5,7 @@ Fluent Forms integrates with Drip, a robust e-commerce CRM (ECRM) designed for p
 This article will guide you through integrating **Drip** with **Fluent Forms** on your WordPress Site.
 
 > [!Note]
-> **Drip** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Drip** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Drip Integration
 
@@ -58,7 +58,7 @@ Here, you can see your **Drip API integration is up and running**. To disconnect
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Drip and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Setting Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/form-setting-07-scaled.webp)
 
@@ -82,9 +82,9 @@ Also you can add multiple fields dynamically with click the **Plus Icon**.
 
 **F. Remove Tags:** Choose the specific tags to remove from contacts during the sync.
 
-**G. Conditional Logic:**  If you want to allow Drip integration conditionally based on your submission values then **Enable Conditional Logic** options. To know more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**G. Conditional Logic:**  If you want to allow Drip integration conditionally based on your submission values then **Enable Conditional Logic** options. To know more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-**H. EU Consent:** If you select the Default option, your GDPR consent is not granted. If you select the Granted option, your GDPR consent is granted. To collect consent directly on the form, add a [GDPR agreement field](/docs/gdpr-agreement-field-in-fluent-forms).
+**H. EU Consent:** If you select the Default option, your GDPR consent is not granted. If you select the Granted option, your GDPR consent is granted. To collect consent directly on the form, add a [GDPR agreement field](/gdpr-agreement-field-in-fluent-forms).
 
 I. **Status:** Enable this feed option to activate the integration.
 
@@ -104,7 +104,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 Here, you can see a preview of the added Drip contacts through the Form entries that I set up during the integration.
 
-You can see the form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+You can see the form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/managing-entries-in-fluent-forms).
 
 ![Entries Fluent Forms](/images/integrations/crm/drip-integration-with-fluent-forms/Entries-10-scaled.webp)
 

@@ -7,11 +7,11 @@ The Accordion container is a powerful feature that helps you organize long forms
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Accordion Container Fields](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/edit-form-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** Icon in your form editor and open the [Container](/docs/add-container-fields-in-fluent-forms) input fields module. The Container option is also in the right sidebar under the **Input** **Fields** tab. 
+Once you are on the **Editor** page, click the **Plus** Icon in your form editor and open the [Container](/add-container-fields-in-fluent-forms) input fields module. The Container option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Accordion Container** by clicking on it or Drag & Drop it into your editor.
 
@@ -72,7 +72,7 @@ Here is how the Accordion Container will look and function for your users on the
 - **Expanded View:** Once expanded, the icon will change to a **Minus Icon (-)**. A user can click this icon or the title bar again to collapse the section, hiding the fields.
 
 > [!Note]
-> The **+** and **−** icons expand or collapse one accordion section only. To let users add duplicate rows of fields, use the [Repeat Container Field](/docs/add-repeat-container-field-in-fluent-forms) or [Repeat Input Field](/docs/repeat-input-field-in-fluent-forms) instead.
+> The **+** and **−** icons expand or collapse one accordion section only. To let users add duplicate rows of fields, use the [Repeat Container Field](/add-repeat-container-field-in-fluent-forms) or [Repeat Input Field](/repeat-input-field-in-fluent-forms) instead.
 
 ![Final Fluent Forms](/images/form-fields/container-fields/add-accordion-container-fields-in-fluent-forms/final-form-07.webp)
 

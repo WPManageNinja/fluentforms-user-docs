@@ -70,7 +70,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 
@@ -90,9 +90,9 @@ Advanced settings allow further customization to meet specific use cases.
 
 **H. Name Attribute:** The input field's name attribute is the HTML equivalent of the same name. You don't need to modify this.
 
-**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-**J. Calculation Field Settings:** Enable this to dynamically calculate the field's value based on other numeric field values. Add a **formula expression** to implement calculations. To learn more, read [Numeric Calculation in Fluent Forms](/docs/numeric-calculation-in-fluent-forms).
+**J. Calculation Field Settings:** Enable this to dynamically calculate the field's value based on other numeric field values. Add a **formula expression** to implement calculations. To learn more, read [Numeric Calculation in Fluent Forms](/numeric-calculation-in-fluent-forms).
 
 ![Advanced Options](/images/form-fields/general-fields/numeric-input-field-in-fluent-forms/Advanced-options-05-6-scaled.webp)
 

@@ -5,7 +5,7 @@ Fluent Forms integrates with Insightly, an email marketing tool that helps you c
 This article will guide you through integrating **Insightly** with **Fluent Forms** on your WordPress Site.
 
 > [!Note]
-> **Insightly** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Insightly** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Insightly Integration
 
@@ -50,7 +50,7 @@ Here, you can see your **Insightly API integration is up and running**. To disco
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Insightly, and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Edit Insightly Integration](/images/integrations/crm/insightly-integration-with-fluent-forms/Edit-Form-07-scaled.webp)
 
@@ -67,7 +67,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 Use all the fields under this option to properly link your **Insightly Fields** with the **Form Fields**. You can easily select the **value** for the **Form Fields** based on the **Insightly fields** using the **Shortcode Arrow**. 
 
-**C. Conditional Logic:** If you want to allow **Insightly** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**C. Conditional Logic:** If you want to allow **Insightly** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **D. Status:** Enable this feed option to activate the integration.
 
@@ -87,7 +87,7 @@ Additionally, you can disable or enable this feed at any time by turning off the
 
 Here, you can see a preview of the added Insightly contacts through the Form entries that I set up during the integration.
 
-You can see the form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+You can see the form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/managing-entries-in-fluent-forms).
 
 ![Entries Fluent Forms](/images/integrations/crm/insightly-integration-with-fluent-forms/Entries-12-scaled.webp)
 

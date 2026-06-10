@@ -3,7 +3,7 @@
 In **Fluent Forms**, integrating **Constant Contact**, an integrated email marketing, marketing automation, and small business CRM, allows you to grow your Constant Contact list through the users of Fluent Forms.  This article will guide you through integrating **Constant Contact** with **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **Constant Contact** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Constant Contact** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Constant Contact Integration
 
@@ -95,7 +95,7 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Constant Contact,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Constant Contact](/images/integrations/email-marketing/how-to-integrate-constant-contact-with-fluent-forms/15.-Open-Desired-Form-Settings-scaled.webp)
 
@@ -118,7 +118,7 @@ Now, a page will appear with various settings options for configuring the Consta
 > [!Note]
 > **Custom date fields** accept only the **MM/DD/YYYY** format.
 
-6. **Conditional Logics:** This option allows Constant Contact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+6. **Conditional Logics:** This option allows Constant Contact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 7. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

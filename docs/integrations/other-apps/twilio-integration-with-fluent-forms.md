@@ -3,7 +3,7 @@
 The integration between Twilio and Fluent Forms allows you to send SMS notifications when a form is submitted in real time. It's easy and hassle-free. This article will guide you through integrating Twilio with Fluent Forms on your WordPress Site.
 
 > [!Note]
-> **Twilio** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Twilio** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/5KeCiA1Q10c" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ You can also disconnect the **Twilio API** here by clicking the **Disconnect Twi
 After setting up the Credentials, go to **All Forms** and select the form you want to integrate with the Twilio account or create a new one.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings Twilio Integration](/images/integrations/other-apps/twilio-integration-with-fluent-forms/settings-form-06-scaled.webp)
 
@@ -67,7 +67,7 @@ Now, go to the particular form’s settings for the entries you want listed in *
 
 * **SMS Text:** Write the message you want to send. Use dynamic fields to personalize the SMS.
 
-* **Conditional Logic:** If you want to allow Twilio integration conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more about this conditional logic, read the [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+* **Conditional Logic:** If you want to allow Twilio integration conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more about this conditional logic, read the [Documentation](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 * **Status:** Enable this feed option to activate the integration.
 

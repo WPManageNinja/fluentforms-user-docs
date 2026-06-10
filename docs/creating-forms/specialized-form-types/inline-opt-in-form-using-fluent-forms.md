@@ -8,13 +8,13 @@ This guide walks you through importing the form, connecting your email service, 
 
 First, download the **Opt-in Form JSON file** from the provided [link](https://share.getcloudapp.com/rRunQgWj). Then, navigate to **Fluent Forms** dashboards **Tools** section in your WordPress site.
 
-Then, click the **Import** **Forms** button from the left side bar. Now, click the **Choose File** to upload the import form under the **Select File** options. After that, click the **Import** **Forms** button to import your downloaded form. For more details, see [How to Import and Export Fluent Forms](/docs/how-to-import-and-export-fluent-forms). 
+Then, click the **Import** **Forms** button from the left side bar. Now, click the **Choose File** to upload the import form under the **Select File** options. After that, click the **Import** **Forms** button to import your downloaded form. For more details, see [How to Import and Export Fluent Forms](/how-to-import-and-export-fluent-forms). 
 
 ![Import inline form](/images/creating-forms/specialized-form-types/inline-opt-in-form-using-fluent-forms/import-inline-01-scaled.webp)
 
 ## Connect to Your Email Service
 
-Open the imported form in the **Form Editor**. Go to the **Settings & Integrations** tab. Choose your preferred email marketing platform, such as [Mailchimp](/docs/how-to-integrate-mailchimp-with-fluent-forms), [Kit (formerly ConvertKit)](/docs/how-to-integrate-kit-former-convertkit-with-fluent-forms), [FluentCRM](/docs/fluentcrm-integration-with-fluent-forms), or others. Complete the integration process with your account details. 
+Open the imported form in the **Form Editor**. Go to the **Settings & Integrations** tab. Choose your preferred email marketing platform, such as [Mailchimp](/how-to-integrate-mailchimp-with-fluent-forms), [Kit (formerly ConvertKit)](/how-to-integrate-kit-former-convertkit-with-fluent-forms), [FluentCRM](/fluentcrm-integration-with-fluent-forms), or others. Complete the integration process with your account details. 
 
 After saving, **copy** the **form shortcode** from the top-right corner of the editor.
 

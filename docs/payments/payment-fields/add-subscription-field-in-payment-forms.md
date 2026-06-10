@@ -3,7 +3,7 @@
 The **Subscription** field allows you to create forms with **Subscription** **Items** to accept **Recurring Payments.** This article will guide you through adding the **Subscription** field in your Fluent Forms for your WordPress Site.
 
 > [!Note]
-> **Subscription** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Subscription** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Add Subscription Field
 
@@ -16,7 +16,7 @@ For example, I choose an existing form to show the whole process.
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Subscription** field.
 
 > [!Note]
-> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/how-to-create-a-payment-form-with-fluent-form).
 
 ![Add Subcription Field Subscription Field in Payment](/images/payments/payment-fields/add-subscription-field-in-payment-forms/2.-Add-Subcription-field-scaled.webp)
 
@@ -96,14 +96,14 @@ Each option in the Advanced Options tab is explained below
 
 **D. Layout**: Select the Layout for checkable items
 
-**E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-subscription-field-in-payment-forms/7.-Advanced-options-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Recurring billing is supported by gateways such as [Stripe](/docs/how-to-integrate-stripe-with-fluent-forms) and [PayPal](/docs/how-to-integrate-paypal-with-fluent-forms), so make sure one of them is configured.
+Once you complete all the customization, don’t forget to add the [Payment Method](/add-payment-method-field-in-payment-forms) field to collect the payments. Recurring billing is supported by gateways such as [Stripe](/how-to-integrate-stripe-with-fluent-forms) and [PayPal](/how-to-integrate-paypal-with-fluent-forms), so make sure one of them is configured.
 
 > [!Note]
-> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings-with-fluent-forms).
 
 ![Add Payment Method Field Subscription Field in Payment](/images/payments/payment-fields/add-subscription-field-in-payment-forms/8.-Add-Payment-Method-field-scaled.webp)
 

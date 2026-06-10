@@ -34,7 +34,7 @@ Once you complete the setup, click the **Save Settings** button to save all your
 
 This option is selected by default. It enables you to show the confirmation message on the same page where the form is embedded.
 
- * **A. Message to show**: Here, you can see a default confirmation message. You can keep it or customize it as per your needs. You can also add **Shortcode/s** and **Media/s** in your confirmation message by using the **Add Media** and **Add Shortcodes** button in the right corner. See [Shortcodes in Confirmation Settings](/docs/shortcodes-in-confirmation-settings) for the full list of smart shortcodes you can use. Also for advanced customization, you can edit the message in **HTML Codes** through the **Text** tab.
+ * **A. Message to show**: Here, you can see a default confirmation message. You can keep it or customize it as per your needs. You can also add **Shortcode/s** and **Media/s** in your confirmation message by using the **Add Media** and **Add Shortcodes** button in the right corner. See [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings) for the full list of smart shortcodes you can use. Also for advanced customization, you can edit the message in **HTML Codes** through the **Text** tab.
 
  * **B. After Form Submission**: Here, you can select whether you want to **Hide** or **Reset** the Form after each form submission. 
 
@@ -73,7 +73,7 @@ Suppose you have a form with a field like **Name**. If you enable **Pass Field D
  * **C. Redirect Message**: Here, you can customize the message displayed after form submission. You can also add **Shortcode/s** and **Media/s** in your confirmation message by using the **Add Media** and **Add Shortcodes** button in the right corner. Also for advanced customization, you can edit the message in **HTML Codes** through the **Text** tab.
 
 > [!Note]
-> If you want to pass data using a query string and automatically populate form fields on the redirected page, see [Set Default Form Value from URL Parameters](/docs/set-default-form-value-from-url-parameters).
+> If you want to pass data using a query string and automatically populate form fields on the redirected page, see [Set Default Form Value from URL Parameters](/set-default-form-value-from-url-parameters).
 
 Once you are done, click the **Save Settings** button to save all your changes.
 

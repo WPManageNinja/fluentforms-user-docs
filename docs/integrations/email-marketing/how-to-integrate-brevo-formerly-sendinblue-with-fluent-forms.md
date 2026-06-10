@@ -5,7 +5,7 @@
 This article will guide you through integrating **Brevo (formerly Sendinblue)** with **Fluent Forms** on your WordPress Site.
 
 > [!Note]
-> **Brevo** (formerly Sendinblue) requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Brevo** (formerly Sendinblue) requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Sendinblue Integration
 
@@ -60,7 +60,7 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 Go to **Forms** from the Fluent Forms navbar, open the form where you want to add Brevo, and click **Settings**.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Brevo (Formerly Sendinblue)](/images/integrations/email-marketing/how-to-integrate-brevo-formerly-sendinblue-with-fluent-forms/Open-Desired-Form-Settings-2-scaled-2.webp)
 
@@ -87,7 +87,7 @@ Once you select the list, a pop-up page will appear with various settings option
 > [!Note]
 > **Custom date fields** accept only the **MM/DD/YYYY** format.
 
-5. **Conditional Logics:** This option allows Sendinblue integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+5. **Conditional Logics:** This option allows Sendinblue integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

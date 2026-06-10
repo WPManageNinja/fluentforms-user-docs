@@ -33,7 +33,7 @@ In this dropdown, you will only see those forms that include an integration feed
 
 #### 2. Source
 
-Here, you can filter your logs based on different [integration feeds](/docs/integrations-overview), and these options you will find based on the integration occurring within the form.
+Here, you can filter your logs based on different [integration feeds](/integrations-overview), and these options you will find based on the integration occurring within the form.
 
 **For example**,  I selected **Zapier Feed** from the dropdown list by clicking the **Arrow Icon**, and all the forms that includes Zapier Integration have appeared.
 
@@ -57,7 +57,7 @@ With this option, you can filter your activities by selected **Dates** to see ac
 
 ### Check Single API Log
 
-If you want to see the API data of a specific form in a brief without checking the [individual entries](/docs/managing-entries-in-fluent-forms) in detail, click on the **Arrow Icon** just before the Submission ID.
+If you want to see the API data of a specific form in a brief without checking the [individual entries](/managing-entries-in-fluent-forms) in detail, click on the **Arrow Icon** just before the Submission ID.
 
 ![Single API Check](/images/advanced-developer/logs-tracking/fluent-form-api-logs/7.-Single-API-check.webp)
 
@@ -67,7 +67,7 @@ If you wish to view more detailed information for a specific entry, click on the
 
 Here, you can see the overall detailed submission information of a user for this particular **Entry**.
 
-To check specifically the general API Log, scroll down to the **Submission** **Logs**, click the **API Calls** tab, and you will get all the details. For non-API actions like email and payment events, check the [Activity Logs](/docs/fluent-forms-activity-logs) instead. 
+To check specifically the general API Log, scroll down to the **Submission** **Logs**, click the **API Calls** tab, and you will get all the details. For non-API actions like email and payment events, check the [Activity Logs](/fluent-forms-activity-logs) instead. 
 
 If your action didn’t occur successfully, you can use the **Resend Email Notification** and **Entry Action** button to manually complete the desired action. 
 

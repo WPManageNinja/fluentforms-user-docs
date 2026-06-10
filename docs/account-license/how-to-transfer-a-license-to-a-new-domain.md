@@ -1,6 +1,6 @@
 # How to Transfer a License to a New Domain
 
-Sometimes, you need to move your [Fluent Forms Pro](/docs/upgrade-to-fluent-forms-pro-add-on) license from one domain to another. This feature enables you to easily migrate your license, eliminating the need to purchase a new one.
+Sometimes, you need to move your [Fluent Forms Pro](/upgrade-to-fluent-forms-pro-add-on) license from one domain to another. This feature enables you to easily migrate your license, eliminating the need to purchase a new one.
 
 Follow these simple steps to transfer your license efficiently.
 
@@ -32,7 +32,7 @@ Now you can activate the license on your new website.
 
 1. First, copy your license key from your WPManageNinja account dashboard.
 
-2. On your new website, ensure you have both the [free version of Fluent Forms](/docs/how-to-install-fluent-forms) and the Pro add-on installed and activated.
+2. On your new website, ensure you have both the [free version of Fluent Forms](/how-to-install-fluent-forms) and the Pro add-on installed and activated.
 
 3. From your WordPress dashboard, go to Fluent Forms and click on the Global Settings tab.
 

@@ -5,7 +5,7 @@ The **Phone/Mobile** input field in Fluent Forms is essential for collecting use
 This article will guide you through adding the **Phone/Mobile** field to Fluent Forms on your WordPress Site.
 
 > [!Note]
-> The **Phone/Mobile** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The **Phone/Mobile** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Adding Phone/Mobile Field
 
@@ -41,7 +41,7 @@ You will find various settings options for customizing the field. Located in the
 
 **D. Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute. 
 
-**E. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
+**E. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
 You can click the **Three-Dot** option from the right to add a default value with **Shortcode**. 
 
@@ -55,7 +55,7 @@ You can select **Yes** to notify a user that he needs to add a Valid Phone Numbe
 
 **Global Error Message:** This message will be shown if validation fails for a valid phone Number.
 
-**Enable Auto Country Select:** If the user enables this, the country will be selected based on the user’s IP address. ipinfo.io service will be used here. To configure the IP lookup service, see [Phone Field Geo Location Provider](/docs/phone-field-geo-location-provider).
+**Enable Auto Country Select:** If the user enables this, the country will be selected based on the user’s IP address. ipinfo.io service will be used here. To configure the IP lookup service, see [Phone Field Geo Location Provider](/phone-field-geo-location-provider).
 
 **Default Country:** Set a default country to be selected unless modified. If a default country is set, it will overrule the placeholder set in General Settings and show the default selection as a placeholder.
 
@@ -83,7 +83,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/form-fields/general-fields/phonemobile-input-field-in-fluent-forms/Advanced-options-05-2-scaled.webp)
 

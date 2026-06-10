@@ -3,7 +3,7 @@
 Fluent Forms makes it easy to edit any submitted entry directly from the dashboard, without any additional tools or plugins. This feature is especially useful for correcting errors in submissions, updating outdated or inaccurate information, and making modifications to reflect new requirements or changes.
 
 > [!Note]
-> Only Admins or [users with permission to manage entries](/docs/setting-up-managers-in-fluent-forms-access-control) can edit submissions. Frontend users cannot update submitted data.
+> Only Admins or [users with permission to manage entries](/setting-up-managers-in-fluent-forms-access-control) can edit submissions. Frontend users cannot update submitted data.
 
 This guide explains how to access and edit entries step-by-step.
 
@@ -13,7 +13,7 @@ This guide explains how to access and edit entries step-by-step.
 
 ## Access the Entries
 
-To get started, go to the **Fluent Forms Dashboard**. Click on the **Entries** option to view all submitted form data across your forms. For a full tour of the entries area, see [Managing Entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+To get started, go to the **Fluent Forms Dashboard**. Click on the **Entries** option to view all submitted form data across your forms. For a full tour of the entries area, see [Managing Entries in Fluent Forms](/managing-entries-in-fluent-forms).
 
 ![Edit User Submitted Entries step](/images/managing-submissions/entries/edit-user-submitted-entries-with-fluent-forms/01-1-scaled.webp)
 

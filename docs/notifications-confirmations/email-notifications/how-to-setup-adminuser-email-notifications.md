@@ -45,7 +45,7 @@ Here, you will get three options for setting up the **Email Notification**. Thes
 
 - Select a Field: Use this option to set up the email notification for the Users.
 
-- Configure Routing: Use this set up additional [Conditional Email Routing](/docs/conditional-email-routing).
+- Configure Routing: Use this set up additional [Conditional Email Routing](/conditional-email-routing).
 
 ## Setup Admin Notification Using Enter Email
 
@@ -79,7 +79,7 @@ Here, you can set a subject for your email notification. You can also add data f
 
 Here, you can set the body for your email according to your requirements.
 
-You can use the **Add Shortcodes** drop-down arrow on the right corner to add dynamic data. See the [Shortcodes in Confirmation Settings](/docs/shortcodes-in-confirmation-settings) reference for every available smart shortcode.
+You can use the **Add Shortcodes** drop-down arrow on the right corner to add dynamic data. See the [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings) reference for every available smart shortcode.
 Also for advanced customization, you can edit the email body in **HTML Codes** through the **Text** tab.
 
 ![Email Body Option](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/7.-Email-Body-option.webp)
@@ -94,7 +94,7 @@ Similar to the **Text** tab, this option lets you send the email body in **HTML 
 
 Enabling this option allows you to set specific conditions for sending email notifications to the admin, ensuring notifications are sent only when the conditions are met.
 
-> To learn more about using Conditional Logics, read the [Set Up Forms with Conditional Logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms) documentation.
+> To learn more about using Conditional Logics, read the [Set Up Forms with Conditional Logic](/set-up-forms-with-conditional-logic-in-fluent-forms) documentation.
 
 ![Conditional Logics Fluent Forms](/images/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications/9.-Conditional-Logics.webp)
 

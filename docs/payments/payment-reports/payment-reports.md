@@ -4,7 +4,7 @@ The **Payments** feature provides a comprehensive dashboard to track and analyze
 
 ## Accessing the Payment Reports
 
-Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** in the top menu bar. When you open the Reports screen, you'll automatically be on the **Overview** tab. For a tour of the full analytics area, see the [Reports Dashboard Overview](/docs/reports-dashboard-overview). Now, select the **Payment** option, and you will see all the payment-related reports.
+Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** in the top menu bar. When you open the Reports screen, you'll automatically be on the **Overview** tab. For a tour of the full analytics area, see the [Reports Dashboard Overview](/reports-dashboard-overview). Now, select the **Payment** option, and you will see all the payment-related reports.
 
 ### Filtering Payment Data
 
@@ -36,7 +36,7 @@ The dashboard includes several sections to help you visualize and understand you
 
 ![Payment Charts](/images/payments/payment-reports/payment-reports/Payment-charts-2-scaled.webp)
 
-**Subscription:** The Subscription section is dedicated to tracking recurring subscription data collected through the [Subscription](/docs/add-subscription-field-in-payment-forms) field over time. When no subscription payments are found in the selected period, it will show "No subscription data available".
+**Subscription:** The Subscription section is dedicated to tracking recurring subscription data collected through the [Subscription](/add-subscription-field-in-payment-forms) field over time. When no subscription payments are found in the selected period, it will show "No subscription data available".
 
 **Transaction Summary:** This Transaction chart provides a snapshot of all transactions. You can use the **Recurring** and **One-Time** toggles to switch between transaction types. The chart and accompanying list show a breakdown by status, including **Paid**, **Pending**, **Refunded**, **Revenue**, **Cancelled**, and **Failed**.
 

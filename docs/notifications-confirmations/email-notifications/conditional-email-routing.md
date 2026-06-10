@@ -1,6 +1,6 @@
 # Conditional Email Routing
 
-**Fluent Forms** lets you set up additional **Conditional Email Routing**, similar to [Conditional Email Notifications](/docs/conditional-email-notification-in-fluent-forms) except it allows you to send emails to different recipients based on user responses or specific events.
+**Fluent Forms** lets you set up additional **Conditional Email Routing**, similar to [Conditional Email Notifications](/conditional-email-notification-in-fluent-forms) except it allows you to send emails to different recipients based on user responses or specific events.
 
 This article will guide you through **Configuring** the **Email Routing** with specified conditions to send **Email Notifications**. 
 
@@ -16,7 +16,7 @@ Now, go to **Settings & Integrations** from the top navbar and open the **Email 
 
 First, you can **Enable** the default **Admin Notification** by **toggling it on.** Then, open its settings using the **Settings Icon** to set conditions based on your needs.
 
-Or, create a new one by clicking the **+ Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/docs/how-to-setup-adminuser-email-notifications).
+Or, create a new one by clicking the **+ Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/how-to-setup-adminuser-email-notifications).
 
 **For example**, I used the existing notification to show you the whole process. 
 

@@ -1,11 +1,11 @@
 # Conditional Shortcodes in Fluent Forms
 
-Fluent Forms allows you to show or hide content dynamically based on user selections using **conditional shortcodes**. These shortcodes can be applied in [**Form Confirmations**](/docs/setup-form-submission-confirmation-message-in-fluent-forms), [**Email Notifications**](/docs/how-to-setup-adminuser-email-notifications), and [**PDF Documents**](/docs/fluent-forms-pdf-module), making your forms more interactive and personalized.
+Fluent Forms allows you to show or hide content dynamically based on user selections using **conditional shortcodes**. These shortcodes can be applied in [**Form Confirmations**](/setup-form-submission-confirmation-message-in-fluent-forms), [**Email Notifications**](/how-to-setup-adminuser-email-notifications), and [**PDF Documents**](/fluent-forms-pdf-module), making your forms more interactive and personalized.
 
 This article explains each available conditional shortcode and how they function within Fluent Forms.
 
 > [!Note]
-> **Conditional shortcodes** require **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Conditional shortcodes** require **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## How to use Conditional Shortcode
 
@@ -41,7 +41,7 @@ The **field** parameter is required to define which form input should be checked
 [/ff_if]]
 ```
 
-For example,  you have a [radio button field](/docs/radio-field-in-fluent-forms) and want to show a message only when the user selects **"Yes"**, you can write-
+For example,  you have a [radio button field](/radio-field-in-fluent-forms) and want to show a message only when the user selects **"Yes"**, you can write-
 
 ```
 [[ff_if field="input_radio" is="equal" to="yes"]

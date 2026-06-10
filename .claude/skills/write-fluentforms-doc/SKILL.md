@@ -21,20 +21,20 @@ a clean build. Canonical conventions live in `CLAUDE.md` — this skill is the *
 1. **DO** complete Phase 1 setup and confirm the summary table before writing anything.
 2. **DO** place the file at `docs/<category>/<slug>.md` inside an existing category folder.
 3. **DO** make line 1 a bare `# H1` (no frontmatter) that matches the sidebar `text`.
-4. **DO** use the SHORT cross-link form `/docs/<slug>` everywhere.
+4. **DO** use the SHORT cross-link form `/<slug>` everywhere (no `docs/` prefix).
 5. **DO** add the page to `.vitepress/sidebar.json` (mandatory — VitePress does NOT
    auto-discover) keeping the group `collapsed: true`.
 6. **DO** end on a green `npm run docs:build`.
 7. **DO NOT** create a `.md` file directly under `docs/`.
-8. **DO NOT** put the category in any link path (`/docs/<category>/<slug>` is wrong).
+8. **DO NOT** put `docs/` or the category in any link path (`/docs/<slug>`, `/docs/<category>/<slug>` are wrong).
 9. **DO NOT** use relative links (`./slug`, `../slug`).
 10. **DO NOT** leave support boilerplate ("contact our support team", "reach out … for
-    assistance"); link `[How to Get Support](/docs/how-to-get-support)` instead.
+    assistance"); link `[How to Get Support](/how-to-get-support)` instead.
 11. **DO NOT** invent a new category folder or a new sidebar group without asking the user.
 12. **DO NOT** write `** term **` (inner-whitespace bold) — use `**term**`.
 13. **DO** keep the section overview in sync: if the new doc lands in one of the 8 sections
     that has an `<section>-overview.md` hub page (see CLAUDE.md → "Section overview pages"),
-    add its `/docs/<slug>` link to the matching `## sub-group` bullet list in that overview.
+    add its `/<slug>` link to the matching `## sub-group` bullet list in that overview.
 
 ---
 
@@ -118,18 +118,18 @@ Summarize and wait for confirmation before proceeding:
               - H1 (line 1) -> 1-3 sentence intro (bold feature name on first use)
               - ## sections, ### sub-topics
               - bullets for steps; numbered lists only for strict sequences
-              - cross-links as /docs/<slug> ONLY
+              - cross-links as /<slug> ONLY (no docs/ prefix)
               - mark Pro features "(Pro)" if IS_PRO
               - NO support boilerplate
               If SOURCE_CONTENT: convert it (strip wrapper HTML, fix bold whitespace,
-              rewrite any fluentforms.com/docs/<x> links to /docs/<x>).
+              rewrite any fluentforms.com/docs/<x> links to /<x>).
 
 3. IMAGES   - If HAS_IMAGES: mkdir -p docs/public/images/<CATEGORY>/<SLUG>/,
               copy/convert source files in, and reference each as
               ![alt](/images/<CATEGORY>/<SLUG>/<file>.ext).
 
 4. SIDEBAR  - Insert into .vitepress/sidebar.json under SIDEBAR_GROUP at SIDEBAR_POSITION:
-              { "text": "<TITLE>", "link": "/docs/<SLUG>" }
+              { "text": "<TITLE>", "link": "/<SLUG>" }
               Keep the group "collapsed": true. Keep valid JSON.
 
 5. BUILD    - Run: npm run docs:build
@@ -142,7 +142,7 @@ Summarize and wait for confirmation before proceeding:
 
 Report:
 - File created: `docs/<CATEGORY>/<SLUG>.md`
-- Public URL: `/docs/<SLUG>`
+- Public URL: `/<SLUG>`
 - Sidebar entry added under **<SIDEBAR_GROUP>**
 - Image folder: `docs/public/images/<CATEGORY>/<SLUG>/` (N files) or "none"
 - Build: pass / fail (+ any warnings fixed)
@@ -154,11 +154,11 @@ Report:
 ### Paths & formats
 ```
 File:        docs/<category>/<slug>.md
-URL:         /docs/<slug>                      (category stripped by rewrites)
-Cross-link:  [Text](/docs/<slug>)              (NEVER /docs/<category>/<slug>)
+URL:         /<slug>                           (docs/ + category stripped by rewrites)
+Cross-link:  [Text](/<slug>)                   (NEVER /docs/<slug> or /docs/<category>/<slug>)
 Image file:  docs/public/images/<category>/<slug>/<name>.ext
 Image ref:   ![Alt](/images/<category>/<slug>/<name>.ext)
-Sidebar:     { "text": "<Title>", "link": "/docs/<slug>" }   in group with "collapsed": true
+Sidebar:     { "text": "<Title>", "link": "/<slug>" }   in group with "collapsed": true
 Bold:        **term**                          (no inner spaces)
 Build:       npm run docs:build
 ```

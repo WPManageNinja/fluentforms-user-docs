@@ -1,6 +1,6 @@
 # Fluent Forms Quiz Module
 
-The **Quiz Module** in Fluent Forms allows you to create mutual quizzes, calculate scores, and display results as grades, points, fractions, or percentages. This feature is ideal for tests, assessments, and educational purposes. If you want to score traits instead of right answers, see [Creating a Personality Quiz Form in Fluent Forms](/docs/creating-a-personality-quiz-form-in-fluent-forms).
+The **Quiz Module** in Fluent Forms allows you to create mutual quizzes, calculate scores, and display results as grades, points, fractions, or percentages. This feature is ideal for tests, assessments, and educational purposes. If you want to score traits instead of right answers, see [Creating a Personality Quiz Form in Fluent Forms](/creating-a-personality-quiz-form-in-fluent-forms).
 
 This article will guide you in creating a successful **Quiz Module** with fluent forms.
 
@@ -17,7 +17,7 @@ To activate the Quiz module, go to **the Fluent Forms** dashboard **Integration*
 Now, create a new form or edit an existing one. Add relevant fields such as **Radio**, **Checkbox**, **Multi-select**, or **Dropdown** fields.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Fluent Forms Quiz Module](/images/modules/fluent-forms-quiz-module/edit-form-01-2-scaled-2.webp)
 
@@ -25,7 +25,7 @@ Now, create a new form or edit an existing one. Add relevant fields such as **Ra
 
 **Quiz Score** is a hidden advanced field that calculates quiz scores.
 
-This field is only visible to the admin and can be used in confirmation messages or email notifications. To learn more, read the [Quiz Score in Fluent Forms](/docs/quiz-score-in-fluent-forms) guide.
+This field is only visible to the admin and can be used in confirmation messages or email notifications. To learn more, read the [Quiz Score in Fluent Forms](/quiz-score-in-fluent-forms) guide.
 
 ![Quiz Score](/images/modules/fluent-forms-quiz-module/quiz-score-02-scaled.webp)
 
@@ -35,7 +35,7 @@ To configure the quiz settings, navigate to the Form **Settings** options and cl
 
 ![Enable Quiz Setting Fluent Forms Quiz Module](/images/modules/fluent-forms-quiz-module/enable-quiz-setting-03-scaled.webp)
 
-**A. Append Result:** Ensure that turn on **Show result on confirmation message** option. This option helps display the quiz result on the [confirmation message](/docs/setup-form-submission-confirmation-message-in-fluent-forms) page after submission.
+**A. Append Result:** Ensure that turn on **Show result on confirmation message** option. This option helps display the quiz result on the [confirmation message](/setup-form-submission-confirmation-message-in-fluent-forms) page after submission.
 
 **B. Randomize Questions:** If you enable this option, the order of the questions will be randomly generated every time the quiz is loaded.
 

@@ -9,14 +9,14 @@ This article will guide you through adding the **Payment Item** field in your Fl
 Go to **Forms** from the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form editor.
 
 > [!Note]
-> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
+> If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/how-to-create-a-payment-form-with-fluent-form).
 
 ![Open Payment Item Field in](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/1.-Open-desired-form-4-scaled.webp)
 
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** dropdown section, and add the **Payment Item** field.
 
 > [!Note]
-> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/how-to-create-a-payment-form-with-fluent-form).
 
 ![Add Payment Item Field](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/2.-Add-Payment-Item-field-scaled.webp)
 
@@ -108,14 +108,14 @@ Select the **Yes** radio button to make this field mandatory for users to fill i
  * **C. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
  * **D. Layout**: Select the Layout for checkable items. 
  * **E. Dynamic Default Value**: If you would like to pre-populate the value of a field, enter it here.
- * **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+ * **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/9.-Advanced-Options-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
+Once you complete all the customization, don’t forget to add the [Payment Method](/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/add-subscription-field-in-payment-forms) field.
 
 > [!Note]
-> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings-with-fluent-forms).
 
 ![Payment Method Field](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/10.-Payment-Method-field-scaled.webp)
 

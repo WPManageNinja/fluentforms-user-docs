@@ -3,7 +3,7 @@
 **Fluent Forms** integrates with **Webhook** which will help you broadcast your **Form Submissions** to any **Web API Endpoint** with the powerful **Webhook** module. This article will guide you through integrating **Webhook** with **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **Webhook** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Webhook** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Webhook Integration
 
@@ -16,7 +16,7 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Web
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Webhook** and click the **Settings** button.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Webhook](/images/integrations/automation/how-to-integrate-webhook-with-fluent-forms/2.-Open-desired-Form-Settings-2-scaled.webp)
 
@@ -38,7 +38,7 @@ Now, a pop-up page will appear with various settings options for configuring Web
 
 6. **Request Body:** Select body if you want to send any specific body text with the webhook request, otherwise, all fields will be sent.
 
-7. **Conditional Logics:** This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+7. **Conditional Logics:** This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 Once the setup is done, click the **Save Feed** button, and your Webhook will be integrated into this specific form!
 

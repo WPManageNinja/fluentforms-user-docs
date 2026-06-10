@@ -20,11 +20,11 @@ export default defineConfig({
   lastUpdated: false,
 
   // URL flattening: the on-disk tree is docs/<section>/[<sub-group>/]<slug>.md (2 or 3 levels),
-  // but every page is served at /docs/<slug> — the section/sub-group folders are hidden from URLs.
+  // but every page is served at /<slug> — the docs/section/sub-group folders are all hidden from URLs.
   // Two patterns cover sub-grouped (3-level) and flat (2-level) sections.
   rewrites: {
-    'docs/:section/:sub/:doc.md': 'docs/:doc.md',
-    'docs/:section/:doc.md': 'docs/:doc.md',
+    'docs/:section/:sub/:doc.md': ':doc.md',
+    'docs/:section/:doc.md': ':doc.md',
   },
 
   // Images live at docs/public/images/<section>/[<sub-group>/]<slug>/<basename>.ext (mirrors the docs tree).
@@ -42,12 +42,12 @@ export default defineConfig({
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Get Started', link: '/docs/getting-started-with-fluent-forms' },
+      { text: 'Get Started', link: '/getting-started-with-fluent-forms' },
       { text: 'Website', link: 'https://fluentforms.com/' },
-      { text: 'Changelog', link: '/docs/changelog' },
+      { text: 'Changelog', link: '/changelog' },
     ],
     sidebar: {
-      '/docs/': sidebar,
+      '/': sidebar,
     },
     search: {
       provider: 'local',

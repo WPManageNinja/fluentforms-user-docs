@@ -44,7 +44,7 @@ You will find various settings options for customizing the field. Located in the
 
 **E. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
 
-**F. Validate Email:** You can select **Yes** to notify a user that he needs to add a Valid Email; otherwise, an Error message will show. Or you can choose **No**. For real-time verification of deliverable addresses, see [Email Validation with Clearout](/docs/email-validation-with-clearout).
+**F. Validate Email:** You can select **Yes** to notify a user that he needs to add a Valid Email; otherwise, an Error message will show. Or you can choose **No**. For real-time verification of deliverable addresses, see [Email Validation with Clearout](/email-validation-with-clearout).
 
 ![Basic Options](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Basic-Options-04-3-scaled.webp)
 
@@ -52,7 +52,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms).
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -66,7 +66,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **G. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**H. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**H. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Option](/images/form-fields/general-fields/email-address-input-field-in-fluent-forms/Advanced-option-05-scaled.webp)
 

@@ -2,9 +2,9 @@
 
 [Fluent Forms](https://fluentforms.com/) is a drag-and-drop WordPress form builder. You can create contact forms, surveys, payment forms, and more without writing code.
 
-This guide walks you through building a form from scratch—adding fields, customizing settings, saving your work, and embedding the form on your site. New to the plugin? See [Getting Started With Fluent Forms](/docs/getting-started-with-fluent-forms) and the [Fluent Forms User Interface](/docs/fluent-forms-user-interface) overview first.
+This guide walks you through building a form from scratch—adding fields, customizing settings, saving your work, and embedding the form on your site. New to the plugin? See [Getting Started With Fluent Forms](/getting-started-with-fluent-forms) and the [Fluent Forms User Interface](/fluent-forms-user-interface) overview first.
 
-You can also start from a [pre-built template](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms), use [Fluent Forms AI](/docs/how-to-create-a-form-with-fluent-forms-ai), or build a [conversational form](/docs/how-to-create-a-conversational-form) instead.
+You can also start from a [pre-built template](/using-and-customizing-pre-built-quick-forms-in-fluent-forms), use [Fluent Forms AI](/how-to-create-a-form-with-fluent-forms-ai), or build a [conversational form](/how-to-create-a-conversational-form) instead.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/AqVr0l1JrGE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -23,7 +23,7 @@ A popup will appear, and you will have **some options** to create a form. These 
  * **Conversational Forms:** This allows you to transform content or surveys into interactive conversations.
  * **Create Using AI:** This option allows you to create a form with AI.
 
-You can also **import** ready-made forms by clicking the **Import Form** button. See [How to Import and Export Fluent Forms](/docs/how-to-import-and-export-fluent-forms) for details. **For example**, here I created a **Blank From** from scratch to show you the whole process of creating a new form.
+You can also **import** ready-made forms by clicking the **Import Form** button. See [How to Import and Export Fluent Forms](/how-to-import-and-export-fluent-forms) for details. **For example**, here I created a **Blank From** from scratch to show you the whole process of creating a new form.
 
 First, click the **Plus** **Icon** to create a new blank form.
 
@@ -43,7 +43,7 @@ Once you click the **Pencil/Edit Icon,** a new pop-up will appear to set the for
 
 ![Rename form](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms/Edit-your-form-name.webp)
 
-Now add fields according to your requirements by clicking the desired **Field** buttons or just **Drag and Drop** them into the **Editor.** To learn more about adding fields, see the [Form Fields overview](/docs/form-fields-overview).
+Now add fields according to your requirements by clicking the desired **Field** buttons or just **Drag and Drop** them into the **Editor.** To learn more about adding fields, see the [Form Fields overview](/form-fields-overview).
 
 ![Drag drop fields](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms/5.-Drag-Drop-feature.gif)
 

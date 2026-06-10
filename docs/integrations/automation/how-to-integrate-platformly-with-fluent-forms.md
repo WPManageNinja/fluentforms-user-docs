@@ -5,7 +5,7 @@
 This article will guide you through integrating **Platformly** with **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **Platformly** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Platformly** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Platformly Integration
 
@@ -75,7 +75,7 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Platformly,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Platformly](/images/integrations/automation/how-to-integrate-platformly-with-fluent-forms/11.-Open-desired-form-Settings-scaled.webp)
 
@@ -103,7 +103,7 @@ Once you select the segment, a pop-up page will appear with various settings opt
 
 6. **Note:** With this option, you can write a note for the contacts. You can also use Shortcodes to send dynamic data to Platformly.
 
-7. **Conditional Logics:** This option allows Platformly integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+7. **Conditional Logics:** This option allows Platformly integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 8. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

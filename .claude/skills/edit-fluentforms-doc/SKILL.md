@@ -18,7 +18,7 @@ Canonical conventions live in `CLAUDE.md` — this skill is the *procedure* for 
 ## Agent Behavior Rules
 
 1. **DO** locate the exact file before editing and confirm it with the user.
-2. **DO** preserve all conventions on every edit: short `/docs/<slug>` links, `**term**`
+2. **DO** preserve all conventions on every edit: short `/<slug>` links (no `docs/` prefix), `**term**`
    bold (no inner spaces), no support boilerplate, "(Pro)" markers for Pro features.
 3. **DO** keep the H1 as line 1; if the H1 display title changes, update the matching
    sidebar `text` (the `link`/slug stays the same).
@@ -26,8 +26,8 @@ Canonical conventions live in `CLAUDE.md` — this skill is the *procedure* for 
    `docs/public/images/<category>/<slug>/`.
 5. **DO** end on a green `npm run docs:build`.
 6. **DO NOT** change the slug, rename, or move the file — that is restructure work.
-7. **DO NOT** introduce category-in-path links (`/docs/<category>/<slug>`) or relative links.
-8. **DO NOT** add closing support boilerplate; link `[How to Get Support](/docs/how-to-get-support)`.
+7. **DO NOT** introduce `docs/`-prefixed or category-in-path links (`/docs/<slug>`, `/docs/<category>/<slug>`) or relative links.
+8. **DO NOT** add closing support boilerplate; link `[How to Get Support](/how-to-get-support)`.
 9. **DO NOT** touch unrelated docs.
 10. **DO** Before starting editing on the doc map accurately that where and in which category which doc and what section need to update and and by matching the user journey. 
 
@@ -69,7 +69,7 @@ Wait for confirmation.
 1. Read `TARGET_PATH` fully.
 2. Read `CLAUDE.md` for conventions.
 3. If `TITLE_CHANGES`: read `.vitepress/sidebar.json` and find the entry whose `link` is
-   `/docs/<SLUG>` (its `text` must be updated to match the new H1).
+   `/<SLUG>` (its `text` must be updated to match the new H1).
 4. Read 1 neighbor doc in the same `CATEGORY` if matching house style for new content.
 
 ---
@@ -109,13 +109,13 @@ Report:
 ### Locate
 ```
 File by slug:   find docs -name '<slug>.md'
-Sidebar entry:  grep -n '/docs/<slug>' .vitepress/sidebar.json
+Sidebar entry:  grep -n '"/<slug>"' .vitepress/sidebar.json
 Image folder:   docs/public/images/<category>/<slug>/
 ```
 
 ### Formats (unchanged from site rules)
 ```
-Cross-link:  [Text](/docs/<slug>)            (never category in path, never relative)
+Cross-link:  [Text](/<slug>)                 (never docs/ or category in path, never relative)
 Image ref:   ![Alt](/images/<category>/<slug>/<name>.ext)
 Bold:        **term**                        (no inner spaces)
 ```

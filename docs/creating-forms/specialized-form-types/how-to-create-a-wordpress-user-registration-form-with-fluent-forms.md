@@ -18,7 +18,7 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Use
 Once you enable the user registration form, now create a registration form.  Go to the **Fluent Forms Dashboard** and **Create a new form**.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Now, we recommend to add the following fields to the form:
 
@@ -61,7 +61,7 @@ A new Window page will appear. Now, customize the User Registration feed accordi
 
 **H. Form Validation:** Enabling this option prevents duplicate registrations by checking if the user already exists in the database.
 
-**I. Conditional Logics**: This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**I. Conditional Logics**: This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **J. Status:** Enable this feed option to activate the integration.
 

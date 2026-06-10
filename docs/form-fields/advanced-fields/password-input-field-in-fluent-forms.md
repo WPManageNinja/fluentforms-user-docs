@@ -1,6 +1,6 @@
 # Password Input Field in Fluent Forms
 
-Adding a Password input field in Fluent Form is simple. The field allows users to enter secure passwords, making it ideal for a [user registration form](/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms). 
+Adding a Password input field in Fluent Form is simple. The field allows users to enter secure passwords, making it ideal for a [user registration form](/how-to-create-a-wordpress-user-registration-form-with-fluent-forms). 
 
 This guide will show you step-by-step how to add and change the **Password Field** in Fluent Forms for your WordPress website.
 
@@ -13,7 +13,7 @@ This guide will show you step-by-step how to add and change the **Password Field
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Editor](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/form-editor-01-1-scaled.webp)
 
@@ -53,7 +53,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values. You can also add values by clicking the Three-Dots options.
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read the [Dynamic Default Value documentation](/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values. You can also add values by clicking the Three-Dots options.
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -67,7 +67,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Password Advanced Option](/images/form-fields/advanced-fields/password-input-field-in-fluent-forms/password-advanced-option-scaled.webp)
 

@@ -52,7 +52,7 @@ You will find various settings options for customizing the field. Located in the
 
 - Drag & Drop to Rearrange Options.
 
-**F. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform [numeric calculations](/docs/numeric-calculation-in-fluent-forms) using Show and Calc Values.
+**F. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform [numeric calculations](/numeric-calculation-in-fluent-forms) using Show and Calc Values.
 
 **G. Bulk Edit/Predefined Data Sets:** You can choose from a predefined data set for the dropdown field, so you don’t have to add each item manually.
 
@@ -70,7 +70,7 @@ You can also save time by importing predefined datasets instead of manually addi
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
+**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -80,7 +80,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advance Doptions](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Advance-doptions-05-scaled.webp)
 
@@ -97,7 +97,7 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 Here is the preview of the added **Multiple Choice** field under the Form. 
 
 > [!Tip]
-> View entry data as charts and reports. See [Visual Representation of Form Entries in Fluent Forms](/docs/visual-representation-of-form-entries-in-fluent-forms).
+> View entry data as charts and reports. See [Visual Representation of Form Entries in Fluent Forms](/visual-representation-of-form-entries-in-fluent-forms).
 
 ![Preview Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field-in-fluent-forms/Preview-07-3.webp)
 

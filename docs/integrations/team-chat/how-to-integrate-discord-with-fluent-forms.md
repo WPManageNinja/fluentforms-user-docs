@@ -3,7 +3,7 @@
 **Fluent Forms** allows you to integrate with [Discord](http://discord.com) to send desired information as instant notifications to your Discord channel when a form is submitted. This article will guide you through integrating **Discord** in Fluent Forms on your **WordPress Site**.
 
 > [!Note]
-> **Discord** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Discord** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Discord Integration
 
@@ -16,7 +16,7 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Dis
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Discord,** and click the **Settings** button.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Discord](/images/integrations/team-chat/how-to-integrate-discord-with-fluent-forms/2.-Open-desired-Form-Settings-scaled.webp)
 
@@ -36,7 +36,7 @@ Now, a pop-up page will appear with various settings options for configuring Dis
 
 5. **Footer:** Here you can set the texts and information you want to add as a footer in the notification. Also, you can use the Shortcode button to set the user data from form entries that you want to add as a footer to your Discord Channel.
 
-6. **Conditional Logics:** This option allows Discord integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+6. **Conditional Logics:** This option allows Discord integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 7. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 

@@ -1,6 +1,6 @@
 # How to Create a Form with Fluent Forms AI
 
-Fluent Forms now integrates Fluent Forms AI, making it easier for users to create Forms effortlessly with simple commands.  This article will guide you through creating a form using **Fluent Forms AI**. Prefer to build manually? See [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms).
+Fluent Forms now integrates Fluent Forms AI, making it easier for users to create Forms effortlessly with simple commands.  This article will guide you through creating a form using **Fluent Forms AI**. Prefer to build manually? See [How to Create a Form with Fluent Forms](/how-to-create-a-form-with-fluent-forms).
 
 ## Create Forms using Fluent Forms AI
 
@@ -58,7 +58,7 @@ To add the desired fields, click the **Plus Icon**, go to the desired **Fields**
 
 You can also **search for the desired fields** through their name using the **Search Bar.**
 
-> **Tip:** See the [Form Fields overview](/docs/form-fields-overview) for guides on each input type.
+> **Tip:** See the [Form Fields overview](/form-fields-overview) for guides on each input type.
 
 ![Add form fields](/images/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai/6.-Add-new-fields-scaled.webp)
 

@@ -64,7 +64,7 @@ Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired *
 
 ![Open Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/7.-Open-desired-form-scaled.webp)
 
-Once you are on the Editor page, you can see [Post Title](/docs/add-post-title-field-in-post-forms) and [Post Content](/docs/add-post-content-field-in-post-forms) fields have already been added.
+Once you are on the Editor page, you can see [Post Title](/add-post-title-field-in-post-forms) and [Post Content](/add-post-content-field-in-post-forms) fields have already been added.
 
 Now to add the “**Post Reviewer”** **ACF** **Field** in this form,  go to the **Input Fields** on the right sidebar and open the **General Fields** dropdown list by clicking the **Arrow Icon**. Then, choose the **Text Area** field by clicking on it or **Drag & Drop** it into your editor. 
 
@@ -82,7 +82,7 @@ Now, you need to **configure** the **Post Feed** to make your Custom Field funct
 First, go to **Settings & Integrations** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
 
 > [!Note]
-> If you do not have a post feed yet, click **+ Add Post Feed** to create one. See [How to Create a Post Form with Fluent Forms](/docs/how-to-create-a-post-form-with-fluent-forms) for the full setup. The steps below use an existing feed.
+> If you do not have a post feed yet, click **+ Add Post Feed** to create one. See [How to Create a Post Form with Fluent Forms](/how-to-create-a-post-form-with-fluent-forms) for the full setup. The steps below use an existing feed.
 
 ![Settings Integrations Post Feed Options Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/9.-Settings-Integrations-Post-Feed-options-scaled.webp)
 
@@ -105,7 +105,7 @@ Next, go back to the post form’s **Editor** where you added the Custom Field. 
 
 Now, you can **Edit** or **Customize** this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer you the options for customizing the field. 
 
-> To learn more about the customization of the Text Area field, read the [Text Area Input Field guide](/docs/adding-a-text-area-input-field).
+> To learn more about the customization of the Text Area field, read the [Text Area Input Field guide](/adding-a-text-area-input-field).
 
 ![Input Customization Option Textarea Field](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/11.-Input-Customization-option-of-Textarea-field-scaled.webp)
 

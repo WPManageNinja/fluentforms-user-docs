@@ -6,26 +6,26 @@ What happens right after someone hits submit matters just as much as the form it
 
 Keep everyone in the loop automatically. Send tailored emails to admins, team members, or the user the moment a form is submitted.
 
-- [Admin & User Notifications](/docs/how-to-setup-adminuser-email-notifications) — send emails to your team and to the person who submitted.
-- [Conditional Notifications](/docs/conditional-email-notification-in-fluent-forms) — trigger emails only when conditions are met.
-- [Conditional Email Routing](/docs/conditional-email-routing) — send entries to different recipients based on answers.
-- [Weekly Email Summary](/docs/weekly-email-summary) — get a digest of submissions delivered on schedule.
-- [Double Opt-in Emails](/docs/set-up-double-opt-in-emails-in-fluent-forms) — confirm subscribers before adding them.
-- [Emails Not Sending (Troubleshooting)](/docs/fluent-forms-not-sending-email-confirmations) — fix delivery issues fast.
+- [Admin & User Notifications](/how-to-setup-adminuser-email-notifications) — send emails to your team and to the person who submitted.
+- [Conditional Notifications](/conditional-email-notification-in-fluent-forms) — trigger emails only when conditions are met.
+- [Conditional Email Routing](/conditional-email-routing) — send entries to different recipients based on answers.
+- [Weekly Email Summary](/weekly-email-summary) — get a digest of submissions delivered on schedule.
+- [Double Opt-in Emails](/set-up-double-opt-in-emails-in-fluent-forms) — confirm subscribers before adding them.
+- [Emails Not Sending (Troubleshooting)](/fluent-forms-not-sending-email-confirmations) — fix delivery issues fast.
 
 ## Confirmations
 
 Give users instant feedback. Show a custom message or redirect them after a successful submission.
 
-- [Confirmation Message](/docs/setup-form-submission-confirmation-message-in-fluent-forms) — set the message or redirect users see after submitting.
-- [Conditional Confirmation](/docs/conditional-confirmation-message-in-fluent-forms) — show different confirmations based on user input.
-- [Shortcodes in Confirmations](/docs/shortcodes-in-confirmation-settings) — personalize confirmations with submitted data.
+- [Confirmation Message](/setup-form-submission-confirmation-message-in-fluent-forms) — set the message or redirect users see after submitting.
+- [Conditional Confirmation](/conditional-confirmation-message-in-fluent-forms) — show different confirmations based on user input.
+- [Shortcodes in Confirmations](/shortcodes-in-confirmation-settings) — personalize confirmations with submitted data.
 
 ## Where to go next
 
 Once notifications are flowing, manage the entries they create:
 
-- [Managing Entries](/docs/managing-entries-in-fluent-forms) — view, search, and act on every submission.
-- [Integrate FluentCRM](/docs/fluentcrm-integration-with-fluent-forms) — send submissions straight into your CRM.
+- [Managing Entries](/managing-entries-in-fluent-forms) — view, search, and act on every submission.
+- [Integrate FluentCRM](/fluentcrm-integration-with-fluent-forms) — send submissions straight into your CRM.
 
-Need a hand along the way? See [How to Get Support](/docs/how-to-get-support).
+Need a hand along the way? See [How to Get Support](/how-to-get-support).

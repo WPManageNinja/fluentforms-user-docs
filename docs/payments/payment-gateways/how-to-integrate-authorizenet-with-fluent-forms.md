@@ -3,7 +3,7 @@
 Authorize.net is a global payment gateway that gives you Visa, credit card, and electronic payment services. With Fluent Forms, you can easily credit and debit your online payment.
 
 > [!Note]
-> **Authorize.Net** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Authorize.Net** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Authorize.net Payment Method
 
@@ -107,9 +107,9 @@ Finally, press the **Save Settings** button, and your Authorize.net account will
 
 ## Integrate Authorize.Net in Forms
 
-Once you finish setting up your Authorize.Net payment method, you can easily add this payment method to any of your existing Payment Forms (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
+Once you finish setting up your Authorize.Net payment method, you can easily add this payment method to any of your existing Payment Forms (i.e., a form where [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields are added).
 
-Note: If you do not have any existing Payment Forms, read this [Documentation](/docs/how-to-create-a-payment-form-with-fluent-form) to learn how to create one.
+Note: If you do not have any existing Payment Forms, read this [Documentation](/how-to-create-a-payment-form-with-fluent-form) to learn how to create one.
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 
@@ -121,7 +121,7 @@ Now, go to the Payment Methods, check the **Authorize.Net** option, click the **
 
 - Method Label: Here, you can change the label based on your preference for your added payment method.
 
-To learn more details about the Payment Method field, read this [Documentation](/docs/add-payment-method-field-in-payment-forms). 
+To learn more details about the Payment Method field, read this [Documentation](/add-payment-method-field-in-payment-forms). 
 
 ![Payment Method Label](/images/payments/payment-gateways/how-to-integrate-authorizenet-with-fluent-forms/payment-method-label-14-scaled.webp)
 

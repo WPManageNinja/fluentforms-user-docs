@@ -7,18 +7,18 @@ In **Fluent Forms**,  the **Repeat Container** field allows you to offer your us
 This article will guide you through the whole process of adding the **Repeat Container** field in your Fluent Forms for your WordPress Site.
 
 > [!Note]
-> **Repeat Container** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Repeat Container** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Add Repeat Container Field
 
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor. 
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Repeat Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/edit-form-1-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the [Container](/docs/add-container-fields-in-fluent-forms) input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 
+Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the [Container](/add-container-fields-in-fluent-forms) input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 
 
 Now, choose the desired **Repeat Container** by clicking on it or **Drag & Drop** it into your editor.
 
@@ -65,9 +65,9 @@ Advanced settings allow further customization to meet specific use cases.
 
 **B. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic**: This option allows the **Repeat Container** field to run only when your conditions match. To learn more, see [Set Up Forms With Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**C. Conditional Logic**: This option allows the **Repeat Container** field to run only when your conditions match. To learn more, see [Set Up Forms With Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-**D. Max Repeat inputs**: Using this option, you can specify the maximum number of times users can duplicate the fields within the Repeater Container. To total numeric values entered across the repeated rows, see [How to Add Calc Values on the Repeat Field](/docs/how-to-add-calc-values-on-the-repeat-field).
+**D. Max Repeat inputs**: Using this option, you can specify the maximum number of times users can duplicate the fields within the Repeater Container. To total numeric values entered across the repeated rows, see [How to Add Calc Values on the Repeat Field](/how-to-add-calc-values-on-the-repeat-field).
 
 ![Advanced Fluent Forms](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/advanced-5-scaled.webp)
 

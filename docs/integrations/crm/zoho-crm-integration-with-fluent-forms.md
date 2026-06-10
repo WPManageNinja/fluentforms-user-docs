@@ -5,7 +5,7 @@
 This article will step by step guide you through integrating Zoho CRM with Fluent Forms on your WordPress Site.
 
 > [!Note]
-> **Zoho CRM** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Zoho CRM** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable the Zoho CRM Integration
 
@@ -64,7 +64,7 @@ Here, you will see that your **Zoho CRM API integration is up and running**. You
 First, go to **Forms** from the **Fluent Forms Navbar**, select the **Desired Form** where you want to integrate your Zoho CRM and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Zoho Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Fluent-Form-Zoho-forms-10-scaled.webp)
 
@@ -80,7 +80,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 **C. Other Fields:** Use all the fields under this option to properly link your **Zoho CRM Fields** with the **Form Fields**. You can easily select the **value** for the **Form Fields** based on the **Zoho CRM fields** using the **Shortcode Arrow**. 
 
-**D. Conditional Logic:**  If you want to allow **Zoho CRM** integration conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**D. Conditional Logic:**  If you want to allow **Zoho CRM** integration conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **E. Status:** Enable this feed option to activate the integration.
 
@@ -102,7 +102,7 @@ Here, you can see the preview of the added contacts of Zoho CRM through the Form
 
 Here, you can see a preview of the added Zoho CRM contacts through the Form entries that I set up during the integration.
 
-You can see form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+You can see form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/managing-entries-in-fluent-forms).
 
 ![Zoho Entries Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Zoho-entries-scaled.webp)
 

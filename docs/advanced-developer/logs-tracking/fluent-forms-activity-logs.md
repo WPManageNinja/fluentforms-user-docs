@@ -37,11 +37,11 @@ Use this filter to view activities of particular forms based on their **Form Tit
 
 Here, you can filter your logs based on different options, which you will find according to the Actions Occurred and the Integration Feed you added within the form. For example —
 
-- [Email Notification](/docs/how-to-setup-adminuser-email-notifications),
+- [Email Notification](/how-to-setup-adminuser-email-notifications),
 
-- [Payment](/docs/payments-overview)
+- [Payment](/payments-overview)
 
-- [User Registration](/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms), etc.
+- [User Registration](/how-to-create-a-wordpress-user-registration-form-with-fluent-forms), etc.
 
 **For example**, if you have any payment issues inside a specific form or want to view payment activities for all forms, select “**Payment**” options from the dropdown list by clicking the **Arrow** **Icon** in the **Source**.
 
@@ -77,7 +77,7 @@ If you wish to view more detailed information for a specific entry, click on the
 
 Here, you can see the overall detailed submission information of a user for this particular **Entry**.
 
-To check specifically the general Activity Log, scroll down to the **Submission** **Logs**, click the **General** tab, and you will get all the details. To review only integration-related calls instead, see the [API Logs](/docs/fluent-form-api-logs). 
+To check specifically the general Activity Log, scroll down to the **Submission** **Logs**, click the **General** tab, and you will get all the details. To review only integration-related calls instead, see the [API Logs](/fluent-form-api-logs). 
 
 If your action didn’t occur successfully, you can use the **Resend Email Notification** and **Entry Action** button to manually complete the desired action. 
 

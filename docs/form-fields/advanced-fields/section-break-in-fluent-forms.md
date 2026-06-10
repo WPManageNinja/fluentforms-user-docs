@@ -1,6 +1,6 @@
 # Section Break in Fluent Forms
 
-**The Section Break** field in Fluent Forms helps organize long forms by dividing them into **structured sections**, similar to building a [multi-step form](/docs/creating-a-multi-step-form-in-fluent-forms). It also improves **readability** and **user experience** by clearly defining different parts of the form.
+**The Section Break** field in Fluent Forms helps organize long forms by dividing them into **structured sections**, similar to building a [multi-step form](/creating-a-multi-step-form-in-fluent-forms). It also improves **readability** and **user experience** by clearly defining different parts of the form.
 
 This article will guide you through adding the **Section Break** field in your Fluent Forms for your WordPress Site.
 
@@ -13,7 +13,7 @@ This article will guide you through adding the **Section Break** field in your F
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Section Break](/images/form-fields/advanced-fields/section-break-in-fluent-forms/edit-form-01-12-scaled.webp)
 
@@ -41,7 +41,7 @@ You will find various settings options for customizing the field. Located in the
 
 **B. Description:** Enter a subtitle/short section description here to better understand the user.
 
-**C. Dynamic SmartCodes:** Display dynamic content using [smart codes](/docs/form-editor-smart-codes). 
+**C. Dynamic SmartCodes:** Display dynamic content using [smart codes](/form-editor-smart-codes). 
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
@@ -55,7 +55,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **A. Element Class:** Add custom CSS classes to the input field.
 
-**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/form-fields/advanced-fields/section-break-in-fluent-forms/advanced-options-04-scaled.webp)
 

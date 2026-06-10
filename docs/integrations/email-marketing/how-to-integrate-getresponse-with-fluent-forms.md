@@ -9,7 +9,7 @@ This article will guide you through integrating **GetResponse** with **Fluent Fo
 </div>
 
 > [!Note]
-> **GetResponse** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **GetResponse** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable GetResponse Integration
 
@@ -65,7 +65,7 @@ You can disconnect it anytime by clicking the **Disconnect GetResponse** button 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **GetResponse** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate GetResponse](/images/integrations/email-marketing/how-to-integrate-getresponse-with-fluent-forms/Open-Desired-Form-Settings-4-scaled.webp)
 
@@ -89,7 +89,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 4. **Autoresponder Cycle:** This allows you to set the day on which the contacts will be in the Autoresponder cycle. Otherwise, keep them empty to not include them in the autoresponder.
 
-5. **Conditional Logics:** This option allows GetResponse integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+5. **Conditional Logics:** This option allows GetResponse integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

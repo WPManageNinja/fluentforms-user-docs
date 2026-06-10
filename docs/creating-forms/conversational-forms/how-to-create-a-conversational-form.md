@@ -49,7 +49,7 @@ Click the **Preview & Design** button in the middle to see a preview of your for
 
 ## Preview of Form
 
-Once your form is ready, learn how to style it in [How to Design a Conversational Form](/docs/how-to-design-a-conversational-form).
+Once your form is ready, learn how to style it in [How to Design a Conversational Form](/how-to-design-a-conversational-form).
 
 Here is the preview of the newly created conversational form.
 

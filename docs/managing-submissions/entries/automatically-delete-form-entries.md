@@ -16,12 +16,12 @@ On the settings page, look for the **Compliance Settings** tab in the left-hand 
 
 ### Delete Entries Right After Submission
 
-This option is perfect for when you need the form to act (like sending an [email notification](/docs/how-to-setup-adminuser-email-notifications) or a [CRM integration](/docs/integrations-overview)) but don't need to store the entry data in WordPress.
+This option is perfect for when you need the form to act (like sending an [email notification](/how-to-setup-adminuser-email-notifications) or a [CRM integration](/integrations-overview)) but don't need to store the entry data in WordPress.
 
 In the **Compliance Settings**, check the box next to **Delete entry data after form submission**.
 
 > [!Warning]
-> When enabled, entries are deleted immediately after submission. Fluent Forms will not store entry data, analytics, or [visual reports](/docs/visual-representation-of-form-entries-in-fluent-forms) for this form.
+> When enabled, entries are deleted immediately after submission. Fluent Forms will not store entry data, analytics, or [visual reports](/visual-representation-of-form-entries-in-fluent-forms) for this form.
 
 After that, click the **Save Settings** button to apply the change.
 

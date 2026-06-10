@@ -1,6 +1,6 @@
 # GDPR Agreement Field in Fluent Forms
 
-GDPR is essential when collecting users' data online. The GDPR Agreement field in Fluent Forms allows you to consent to data collection with just one click. For full legal terms, you can pair it with the [Terms & Conditions field](/docs/terms-conditions-field-in-fluent-forms).
+GDPR is essential when collecting users' data online. The GDPR Agreement field in Fluent Forms allows you to consent to data collection with just one click. For full legal terms, you can pair it with the [Terms & Conditions field](/terms-conditions-field-in-fluent-forms).
 
 This guide will walk you through adding and customizing the **GDPR Agreement Field** in Fluent Forms for your WordPress site.
 
@@ -13,7 +13,7 @@ This guide will walk you through adding and customizing the **GDPR Agreement Fie
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Editor](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/editor-form-01-2-scaled.webp)
 
@@ -39,7 +39,7 @@ You will find various settings options for customizing the field. Located in the
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
 
-**B. Required Validation Message:** Customize the [error message](/docs/error-message-customization-with-fluent-forms) displayed if the user submits the form without checking the consent box. By default, it sets the **Global** option. You can also add the **Custom** validation message by clicking the **Custom** options. 
+**B. Required Validation Message:** Customize the [error message](/error-message-customization-with-fluent-forms) displayed if the user submits the form without checking the consent box. By default, it sets the **Global** option. You can also add the **Custom** validation message by clicking the **Custom** options. 
 
 **C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -55,7 +55,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/gdpr-agreement-field-in-fluent-forms/Advanced-options-05-18-scaled.webp)
 

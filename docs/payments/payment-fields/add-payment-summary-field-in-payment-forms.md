@@ -15,7 +15,7 @@ For example, I choose an existing form to show the whole process.
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Payment Summary** field.
 
 > [!Note]
-> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/how-to-create-a-payment-form-with-fluent-form).
 
 ![Add Payment Summary Field](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/2.-Add-Payment-Summary-field-scaled.webp)
 
@@ -41,16 +41,16 @@ Here, you will get the following setting option for customizing the field.
 
 Each option in the **Advanced Options** tab is explained below – 
 
-**A. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**A. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
 ![Advanced Summary Options](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/5.-Advanced-Summary-options-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
+Once you complete all the customization, don’t forget to add the [Payment Method](/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/add-subscription-field-in-payment-forms) field.
 
 > [!Note]
-> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings-with-fluent-forms).
 
 ![Add Payment Method Field](/images/payments/payment-fields/add-payment-summary-field-in-payment-forms/6.-Add-Payment-Method-field-scaled.webp)
 

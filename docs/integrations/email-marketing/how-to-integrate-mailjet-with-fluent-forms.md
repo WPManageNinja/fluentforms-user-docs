@@ -3,7 +3,7 @@
 Integrating **Mailjet** with **Fluent Forms** to automate email marketing, manage subscribers, and streamline email campaigns effortlessly. This article will guide you through integrating **Mailjet** with **Fluent Forms** on your **WordPress Site**. 
 
 > [!Note]
-> **Mailjet** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Mailjet** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Mailjet Integration
 
@@ -66,7 +66,7 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailjet,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Mailjet](/images/integrations/email-marketing/how-to-integrate-mailjet-with-fluent-forms/9.-Open-desired-form-Settings-1-scaled.webp)
 
@@ -86,7 +86,7 @@ Now, a page will appear with various settings options for configuring the Mailje
 
 5. **Contact Name:** Use this field to map the Mailjet Contact’s Name fields with the Form’s Name fields. Also, you can easily select the Value for the Name Fields using the Shortcode button.
 
-6. **Conditional Logics:** This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+6. **Conditional Logics:** This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 7. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

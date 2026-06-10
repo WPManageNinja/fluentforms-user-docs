@@ -13,7 +13,7 @@ For example, I choose an existing form to show the whole process.
 Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Custom Payment Amount** field. 
 
 > [!Note]
-> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
+> Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/how-to-create-a-payment-form-with-fluent-form).
 
 ![Add Custom Amount Payment](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/2.-Add-Custom-Amount-Payment-scaled.webp)
 
@@ -65,16 +65,16 @@ Each option in the **Advanced Options** tab is explained below.
 
 **G. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**H. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**H. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-**I. Calculation Field Settings**: Enable this and provide formula expression if you want this field as calculated based on other numeric field value. To learn more, read [Numeric Calculation in Fluent Forms](/docs/numeric-calculation-in-fluent-forms).
+**I. Calculation Field Settings**: Enable this and provide formula expression if you want this field as calculated based on other numeric field value. To learn more, read [Numeric Calculation in Fluent Forms](/numeric-calculation-in-fluent-forms).
 
 ![Advanced Options](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/5.-Advanced-Options-1-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/docs/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
+Once you complete all the customization, don’t forget to add the [Payment Method](/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/add-subscription-field-in-payment-forms) field.
 
 > [!Note]
-> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/docs/configure-payment-settings-with-fluent-forms).
+> Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings-with-fluent-forms).
 
 ![Add Payment Method Custom Payment Amount Field](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/6.-Add-Payment-Method-scaled.webp)
 

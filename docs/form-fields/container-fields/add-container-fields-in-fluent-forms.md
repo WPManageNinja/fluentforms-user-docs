@@ -3,7 +3,7 @@
 In **Fluent Forms**, the **Container** field allows you to add multiple fields horizontally in one row instead of a new row for each field for your **Fluent Forms**, and make them look more compact and organized to your users. This article will guide you through adding the **Container** input fields to your **Fluent Forms** for your **WordPress Site**.
 
 > [!Note]
-> Use the **Container** field to build compact **inline forms** that sit inside text, paragraphs, or other content without breaking your page layout. See [Inline Opt-in Form Using Fluent Forms](/docs/inline-opt-in-form-using-fluent-forms).
+> Use the **Container** field to build compact **inline forms** that sit inside text, paragraphs, or other content without breaking your page layout. See [Inline Opt-in Form Using Fluent Forms](/inline-opt-in-form-using-fluent-forms).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/S0FDgz5hTP4" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,13 +14,13 @@ In **Fluent Forms**, the **Container** field allows you to add multiple fields h
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one. For example, I choose an existing form to show the whole process.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one. For example, I choose an existing form to show the whole process.
 
 ![Open Container Fields](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/1.-Open-desired-form-6-scaled.webp)
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Container** input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 
 
-Under the **Container** module, you will see that **Six Types** of **Container** fields are available. Each types types of container have the same functionality except the number of added columns. For collapsible sections use the [Accordion Container](/docs/add-accordion-container-fields-in-fluent-forms), and for repeatable sets of fields use the [Repeat Container](/docs/add-repeat-container-field-in-fluent-forms).
+Under the **Container** module, you will see that **Six Types** of **Container** fields are available. Each types types of container have the same functionality except the number of added columns. For collapsible sections use the [Accordion Container](/add-accordion-container-fields-in-fluent-forms), and for repeatable sets of fields use the [Repeat Container](/add-repeat-container-field-in-fluent-forms).
 
 Now, choose the desired **Column Layout** by clicking on it or **Drag & Drop** it into your editor. **For example**, I selected **Three Column Cotainer**.
 
@@ -28,14 +28,14 @@ Now, choose the desired **Column Layout** by clicking on it or **Drag & Drop** i
 
 Now, click the **Plus Icon** to add three different desired fields horizontally inside three columns.
 
-**For example**, I added the [Name](/docs/name-input-field-in-fluent-forms), [Email](/docs/email-address-input-field-in-fluent-forms), and [Custom Submit Button](/docs/custom-submit-button-in-fluent-forms) fields respectively inside the three columns.
+**For example**, I added the [Name](/name-input-field-in-fluent-forms), [Email](/email-address-input-field-in-fluent-forms), and [Custom Submit Button](/custom-submit-button-in-fluent-forms) fields respectively inside the three columns.
 
 ![Plus Icon Add Fields](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/3.-Plus-Icon-to-add-fields-scaled.webp)
 
 Also, you can simply **Drag & Drop** the **Name**, **Email**, and **Custom Submit** **Button** fields in the columns.
 
 > [!Note]
-> Adding a [Custom Submit Button](/docs/custom-submit-button-in-fluent-forms) to a container hides the form’s default **Submit** button. Only the custom button is shown.
+> Adding a [Custom Submit Button](/custom-submit-button-in-fluent-forms) to a container hides the form’s default **Submit** button. Only the custom button is shown.
 
 ![Entering Input Fields Columns Copy](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/4.-Entering-input-fields-in-columns-copy.gif)
 
@@ -51,9 +51,9 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 A. **Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
-B. **Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+B. **Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
-C. **Column Width**: Using this option, you can set the width of the columns. The minimum column width is 10%. You can also drag the column borders to resize them visually with the [Resizeable Container](/docs/resizeable-container-in-fluent-forms).
+C. **Column Width**: Using this option, you can set the width of the columns. The minimum column width is 10%. You can also drag the column borders to resize them visually with the [Resizeable Container](/resizeable-container-in-fluent-forms).
 
 D. **Auto Width**: Enable the automatic width calculation for columns by clicking the **Yes** button. Otherwise, click the **No** button to adjust the width according to your preference.
 
@@ -62,7 +62,7 @@ D. **Auto Width**: Enable the automatic width calculation for columns by clickin
 You can also customize the fields you added under the columns by **hovering over them** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab of the selected field and offer you the options for customizing that field. 
 
 > [!Tip]
-> Match the form to your site design with the [Official Form Styler of Fluent Forms](/docs/official-form-styler-of-fluent-forms) or custom CSS in [Fluent Forms Styling/Custom CSS](/docs/fluent-forms-stylingcustom-css).
+> Match the form to your site design with the [Official Form Styler of Fluent Forms](/official-form-styler-of-fluent-forms) or custom CSS in [Fluent Forms Styling/Custom CSS](/fluent-forms-stylingcustom-css).
 
 ![Plencil Icon Customize Fields](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/7.-Plencil-Icon-to-customize-fields-scaled.webp)
 

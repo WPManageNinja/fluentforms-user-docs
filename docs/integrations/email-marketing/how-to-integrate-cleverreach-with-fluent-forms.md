@@ -3,7 +3,7 @@
 Integrating **CleverReach** with **Fluent Forms** allows you to grow your CleverReach Subscriber list through the users of Fluent Forms. This article will guide you through integrating **CleverReach** with **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **CleverReach** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **CleverReach** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable CleverReach Integration
 
@@ -74,7 +74,7 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **CleverReach,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate CleverReach](/images/integrations/email-marketing/how-to-integrate-cleverreach-with-fluent-forms/Open-Desired-Form-Settings-scaled.webp)
 
@@ -95,7 +95,7 @@ Once you select the form, a pop-up page will appear with various settings option
 
 3. **Map Fileds:** Use this option to properly link your CelverReach Field with the Form Field. You can easily select the value for the Form field based on the CelverReach Field using the Shortcode Arrow.
 
-4. **Conditional Logics:** This option allows CleverReach integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+4. **Conditional Logics:** This option allows CleverReach integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

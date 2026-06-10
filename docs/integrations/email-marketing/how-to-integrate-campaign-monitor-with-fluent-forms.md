@@ -3,7 +3,7 @@
 Integrating **Campaign Monitor** with **Fluent Forms** lets you manage contacts, send targeted emails, and grow your audience effortlessly. This article will guide you through integrating **Campaign Monitor** with **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **Campaign Monitor** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Campaign Monitor** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Campaign Monitor Integration
 
@@ -65,7 +65,7 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Campaign Monitor,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Campaign Monitor](/images/integrations/email-marketing/how-to-integrate-campaign-monitor-with-fluent-forms/10.-Open-desired-form-Settings-scaled.webp)
 
@@ -89,7 +89,7 @@ Now, a page will appear with various settings options for configuring the Campai
 
 4. **Resubscribe:** Use this option to enable the re-subscription and allow users to renew their access.
 
-5. **Conditional Logics:** This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+5. **Conditional Logics:** This option allows Campaign Monitor integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

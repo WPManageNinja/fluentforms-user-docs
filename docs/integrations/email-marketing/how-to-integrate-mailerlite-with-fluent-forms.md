@@ -3,7 +3,7 @@
 **Fluent Forms** integrates [MailerLite](http://mailerlite.com) an email marketing tool that helps you to grow your MailerLite Subscriber list through the users of Fluent Forms. This article will guide you through integrating **MailerLite** with **Fluent Forms** on your **WordPress Site**.  
 
 > [!Note]
-> **MailerLite** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **MailerLite** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable MailerLite Integration
 
@@ -55,7 +55,7 @@ Also, you can verify/disconnect it anytime by clicking the **Verify Connection A
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **MailerLite,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate MailerLite](/images/integrations/email-marketing/how-to-integrate-mailerlite-with-fluent-forms/Open-Desired-Form-Settings-6-scaled.webp)
 
@@ -77,7 +77,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 3. **Map Fileds:** Use all the fields under this option to properly link your ActiveCampaign Fields with the Form Fields. You can easily select the value for the form fields based on the ActiveCampaign fields using the Shortcode Arrow.
 
-4. **Conditional Logics:** This option allows MailerLite integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+4. **Conditional Logics:** This option allows MailerLite integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 5. **Resubscribe:** If you check this option, the subscriber who had previously unsubscribed from the MailerLite email list will be reactivated (or resubscribed) to the list.
 

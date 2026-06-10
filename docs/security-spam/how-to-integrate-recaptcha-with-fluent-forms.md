@@ -52,7 +52,7 @@ First, go to **Forms** from the top navbar, and **open** the **Editor** page of 
 
 ![Editor Fluent Forms](/images/security-spam/how-to-integrate-recaptcha-with-fluent-forms/6.-desired-Form-Editor-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input Fields** on the right side, open the **Advanced Fields** dropdown list, and click the [reCAPTCHA input field](/docs/recaptcha-field-in-fluent-forms).
+Once you are on the **Editor** page, go to the **Input Fields** on the right side, open the **Advanced Fields** dropdown list, and click the [reCAPTCHA input field](/recaptcha-field-in-fluent-forms).
 
 Finally, click the **Save Form** button to integrate your configured reCAPTCHA into this form.
 

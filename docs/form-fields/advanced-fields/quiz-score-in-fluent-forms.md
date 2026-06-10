@@ -1,13 +1,13 @@
 # Quiz Score in Fluent Forms
 
-The **Quiz Score** field in Fluent Forms is an **Advanced** [Hidden Field](/docs/hidden-input-field-in-fluent-forms) that calculates and stores the total score for a quiz or specific quiz questions. 
+The **Quiz Score** field in Fluent Forms is an **Advanced** [Hidden Field](/hidden-input-field-in-fluent-forms) that calculates and stores the total score for a quiz or specific quiz questions. 
 
 This guide will walk you through adding and customizing the **Quiz Score Input** field in Fluent Forms.
 
 > [!Note]
-> The **Quiz Score** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The **Quiz Score** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
-To use this field, you must first **Enable the Quiz Module**. For configuration details, read the [Quiz Module documentation](/docs/fluent-forms-quiz-module).
+To use this field, you must first **Enable the Quiz Module**. For configuration details, read the [Quiz Module documentation](/fluent-forms-quiz-module).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/bPjDXR0y_Oo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -18,7 +18,7 @@ To use this field, you must first **Enable the Quiz Module**. For configuration 
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Form-Edit-01-3-scaled.webp)
 
@@ -56,7 +56,7 @@ Under the Input Customization tab, you will find various settings options for cu
 
  For example, Set the minimum and maximum value for any Grade Label; if your score falls between the minimum and maximum range (75) of the B grade label, your result will be B. If your score is not included in the Grade System, your result will say Not Graded.
 
-- Personality: You can create a Personal Quiz with Fluent Form. To learn more, read the [Personality Quiz Form documentation](/docs/creating-a-personality-quiz-form-in-fluent-forms).
+- Personality: You can create a Personal Quiz with Fluent Form. To learn more, read the [Personality Quiz Form documentation](/creating-a-personality-quiz-form-in-fluent-forms).
 
 ![Quiz Score Field](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/Quiz-Score-field-04-scaled.webp)
 

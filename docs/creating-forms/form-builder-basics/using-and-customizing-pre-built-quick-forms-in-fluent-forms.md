@@ -12,7 +12,7 @@ Now, a pop-up will appear with three options. Click the **Choose Template** tab.
 
 ![Choose template tab](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms-in-fluent-forms/Choose-a-template-pre-built.webp)
 
-A new popup, **Predefined Form Templates**, also appears here. Now, you can choose a pre-made form template as per your wish to get started quickly. If you would rather build from scratch instead, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms). These templates are categorized into different categories. 
+A new popup, **Predefined Form Templates**, also appears here. Now, you can choose a pre-made form template as per your wish to get started quickly. If you would rather build from scratch instead, see [How to Create a Form with Fluent Forms](/how-to-create-a-form-with-fluent-forms). These templates are categorized into different categories. 
 
 - Basic
 

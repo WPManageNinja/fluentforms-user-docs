@@ -3,7 +3,7 @@
 Integrating [BuddyBoss](http://buddyboss.com) with **Fluent Forms** allows you to enhance your community engagement on your WordPress site. This allows you to collect and update BuddyBoss profile fields directly through Fluent Forms. This article will guide you through integrating **BuddyBoss** with **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **BuddyBoss** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **BuddyBoss** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Setting up BuddyBoss in WordPress Site
 
@@ -35,7 +35,7 @@ Now, turn on the **Toggle** and the **User Registration or Update** module wil b
 Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate BuddyBoss](/images/integrations/other-apps/how-to-integrate-buddyboss-with-fluent-forms/4.-open-desired-forms-Settings-scaled.webp)
 
@@ -46,7 +46,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 Once you select the list, a pop-up page will appear with various settings options for configuring the User Registration feed.
 
 > [!Note]
-> For **User Registration** or **User Update** feeds, see [How to Create a WordPress User Registration Form With Fluent Forms](/docs/how-to-create-a-wordpress-user-registration-form-with-fluent-forms) and [How to Create a WordPress User Update Form With Fluent Forms](/docs/how-to-create-a-wordpress-user-update-form-with-fluent-forms).
+> For **User Registration** or **User Update** feeds, see [How to Create a WordPress User Registration Form With Fluent Forms](/how-to-create-a-wordpress-user-registration-form-with-fluent-forms) and [How to Create a WordPress User Update Form With Fluent Forms](/how-to-create-a-wordpress-user-update-form-with-fluent-forms).
 
 Finally, scroll down to the BuddyBoss Settings section, and you will get the following options to integrate it with the form.
 

@@ -1,11 +1,11 @@
 # Checkable Grid Input Field in Fluent Forms
 
-The Checkable Grid input field in [Fluent Form](https://wordpress.org/plugins/fluentform) is a powerful tool for collecting feedback, [surveys](/docs/surveys-and-polls-in-fluent-forms), assessments, and preference selection. This field can function as a short combination of multiple [checkboxes](/docs/checkbox-field-in-fluent-forms) or [radio buttons](/docs/radio-field-in-fluent-forms).
+The Checkable Grid input field in [Fluent Form](https://wordpress.org/plugins/fluentform) is a powerful tool for collecting feedback, [surveys](/surveys-and-polls-in-fluent-forms), assessments, and preference selection. This field can function as a short combination of multiple [checkboxes](/checkbox-field-in-fluent-forms) or [radio buttons](/radio-field-in-fluent-forms).
 
 This guide will walk you through adding and customizing the **Checkable Grid Field** in Fluent Forms for your WordPress site.
 
 > [!Note]
-> The **Checkable Grid** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The **Checkable Grid** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/ayI3TzXXANA" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -16,7 +16,7 @@ This guide will walk you through adding and customizing the **Checkable Grid Fie
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Editor](/images/form-fields/advanced-fields/checkable-grid-input-field-in-fluent-forms/editor-form-01-1-scaled.webp)
 
@@ -92,7 +92,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/checkable-grid-input-field-in-fluent-forms/Advanced-options-05-16-scaled.webp)
 

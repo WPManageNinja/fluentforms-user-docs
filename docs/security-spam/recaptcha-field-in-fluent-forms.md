@@ -4,7 +4,7 @@ reCAPTCHA in Fluent Forms helps to protect your website from spam and bots by ve
 
 This article will guide you through adding the **reCAPTCHA** field in **Fluent Forms** for your WordPress site.
 
-Before adding reCAPTCHA to your form, you will need to **integrate** it with: **reCAPTCHA v2** (Checkbox: "I'm not a robot") or **reCAPTCHA v3**  (Invisible verification). To learn more, read [How to Integrate reCAPTCHA with Fluent Forms](/docs/how-to-integrate-recaptcha-with-fluent-forms).
+Before adding reCAPTCHA to your form, you will need to **integrate** it with: **reCAPTCHA v2** (Checkbox: "I'm not a robot") or **reCAPTCHA v3**  (Invisible verification). To learn more, read [How to Integrate reCAPTCHA with Fluent Forms](/how-to-integrate-recaptcha-with-fluent-forms).
 
 ## Add reCAPTCHA to Your Form
 
@@ -34,7 +34,7 @@ A reCAPTCHA field has been added. You can edit this field by **hovering over it*
 
 Once you have customized the reCAPTCHA field, click the **Save Form** button to save your changes. To preview the form, click **Preview & Design** in the middle of the page.
 
-To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. You can also [embed the form directly in the Gutenberg layout](/docs/how-to-embed-your-forms-directly-in-gutenberg-layout). 
+To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. You can also [embed the form directly in the Gutenberg layout](/how-to-embed-your-forms-directly-in-gutenberg-layout). 
 
 ![Save reCAPTCHA Field](/images/security-spam/recaptcha-field-in-fluent-forms/Save-Form-04-scaled.webp)
 

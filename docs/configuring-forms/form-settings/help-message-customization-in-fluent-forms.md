@@ -39,7 +39,7 @@ After that, click the **Save Form** button to apply the changes.
 
 ### Customization of the Help Message position
 
-You can be positioned and presented with your **Help Message** in different ways. To do this, navigate the **Settings & Integrations** tab and click the **Form Layout** from the left sidebar under the **Settings** section. See the [Form Layout Settings](/docs/form-layout-settings-in-fluent-forms) documentation for all layout options.
+You can be positioned and presented with your **Help Message** in different ways. To do this, navigate the **Settings & Integrations** tab and click the **Form Layout** from the left sidebar under the **Settings** section. See the [Form Layout Settings](/form-layout-settings-in-fluent-forms) documentation for all layout options.
 
 Now, you can choose the Help Message position you want. 
 
@@ -56,4 +56,4 @@ Once you are all done, the form preview of the help message is shown in the scre
 
 ![Help message preview](/images/configuring-forms/form-settings/help-message-customization-in-fluent-forms/Preview-help-message-03.webp)
 
-Help Messages in Fluent Forms make your forms more user-friendly by offering helpful guidance exactly when and where users need it! To tell users what went wrong after a failed submission, pair this with [error message customization](/docs/error-message-customization-with-fluent-forms).
+Help Messages in Fluent Forms make your forms more user-friendly by offering helpful guidance exactly when and where users need it! To tell users what went wrong after a failed submission, pair this with [error message customization](/error-message-customization-with-fluent-forms).

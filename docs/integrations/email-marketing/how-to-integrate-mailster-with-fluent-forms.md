@@ -3,7 +3,7 @@
 Integrating **Mailster** with **Fluent Forms** allows you to automate email subscriptions, manage mailing lists, and streamline newsletter campaigns efficiently. This article will guide you through integrating **Mailster** with **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **Mailster** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Mailster** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Mailster Integration
 
@@ -23,7 +23,7 @@ Then, go to **Integrations** from the **Fluent Forms Navbar**, search for **Mail
 Once the Mailster Integration module is enabled, you can integrate it with any desired form.First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailster** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Mailster](/images/integrations/email-marketing/how-to-integrate-mailster-with-fluent-forms/3.-Open-desired-form-Settings-scaled.webp)
 
@@ -45,7 +45,7 @@ Now, a page will appear with various settings options for configuring the Mailst
 
 6. **Custom Fields:** Using this option, you can also link the Fluent Forms fields with their respective Mailster custom fields. But, remember. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
 
-7. **Conditional Logics:** This option allows Mailster integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+7. **Conditional Logics:** This option allows Mailster integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 8. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 

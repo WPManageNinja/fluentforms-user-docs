@@ -5,7 +5,7 @@
 This guide will show you how to connect **AffiliateWP** with **Fluent** **Forms** step by step.
 
 > [!Note]
-> **AffiliateWP** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **AffiliateWP** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable AffiliateWP Integration
 
@@ -30,7 +30,7 @@ Now, go to the **AffiliateWP** Plugin from the left menu of the dashboard, and y
 Go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your AffiliateWP, and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings AffiliateWP Integration](/images/integrations/other-apps/affiliatewp-integration-with-fluent-forms/Form-Settings-03-scaled.webp)
 

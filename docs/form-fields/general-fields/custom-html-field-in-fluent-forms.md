@@ -32,13 +32,13 @@ For example:
 
 `<p style="color:blue;">Welcome to our registration form!</p>`
 
-**B. Dynamic SmartCodes:** By using [Smart Codes](/docs/form-editor-smart-codes), the user can show data from any input. 
+**B. Dynamic SmartCodes:** By using [Smart Codes](/form-editor-smart-codes), the user can show data from any input. 
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
 > Other ShortCodes will work in this field as well as.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **D. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper. This can be used to style the current element.
 

@@ -58,8 +58,8 @@ Run each; record PASS/FAIL + offending paths.
 C1 PLACEMENT  - No .md directly under docs/ (excluding docs/public):
                 find docs -maxdepth 1 -name '*.md'            -> expect empty
 
-C2 LINK FORM  - No category-in-path links:
-                grep -rEn '\]\(/docs/[a-z0-9-]+/[a-z0-9-]+\)' docs   -> expect empty
+C2 LINK FORM  - No docs/-prefixed links (URLs are root-relative /<slug>):
+                grep -rEn '\]\(/docs/' docs                   -> expect empty
               - No relative links:
                 grep -rEn '\]\(\.\.?/' docs                   -> expect empty
 
@@ -71,7 +71,7 @@ C4 BOILER     - No support boilerplate:
                 grep -rin 'reach out to our support team' docs -> expect empty
 
 C5 SIDEBAR    - Count match: docs count == sidebar "link" count.
-              - Every sidebar link resolves: for each "/docs/<slug>",
+              - Every sidebar link resolves: for each "/<slug>",
                 find docs -name '<slug>.md' must exist.
               - Coverage: every doc slug appears as a sidebar link (none missing).
 

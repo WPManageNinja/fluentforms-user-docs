@@ -5,7 +5,7 @@
 This article will guide you through integrating **Razorpay** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
 
 > [!Note]
-> **Razorpay** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Razorpay** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enable Razorpay Payment Method
 
@@ -93,7 +93,7 @@ You can select both **SMS** and **Email**, or any one of them by simply checking
 
 ## Integrate Razorpay in Forms
 
-Once you finish setting up your **Razorpay** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
+Once you finish setting up your **Razorpay** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields are added).
 
 First, go to the **Editor** page of your desired form by clicking its **Edit** option.
 

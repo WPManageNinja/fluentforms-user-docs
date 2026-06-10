@@ -1,6 +1,6 @@
 # Hidden Input Field in Fluent Forms
 
-The **hidden** input field in Fluent Forms allows you to store and retrieve data **without displaying it** on the form. This field helps track user data, pass [dynamic values from URL parameters](/docs/set-default-form-value-from-url-parameters), or store information for backend processing.
+The **hidden** input field in Fluent Forms allows you to store and retrieve data **without displaying it** on the form. This field helps track user data, pass [dynamic values from URL parameters](/set-default-form-value-from-url-parameters), or store information for backend processing.
 
 This article will guide you through adding the **Hidden** field in your Fluent Forms for your WordPress Site.
 
@@ -13,7 +13,7 @@ This article will guide you through adding the **Hidden** field in your Fluent F
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Hidden Input Field](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/edit-form-01.png)
 
@@ -33,7 +33,7 @@ You will now find various settings options for customizing the field. Located in
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. This means that you can configure this option to show a different field label for your admin users when they view the form submissions. 
 
-**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To better understand it, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). You can add different default values by clicking the **Three-dot** options from the right side.
+**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To better understand it, read the [Dynamic Default Value documentation](/dynamic-default-value-in-fluent-forms). You can add different default values by clicking the **Three-dot** options from the right side.
 
 **C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
@@ -53,7 +53,7 @@ Here is the **Preview** of the **Form** to test the hidden field functionality.
 
 ![Preview Hidden Input Field](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/preview-06-1.png)
 
-After that, click the **Entries** section of this form. You will see the [entry result](/docs/managing-entries-in-fluent-forms) for your **Hidden fields**.
+After that, click the **Entries** section of this form. You will see the [entry result](/managing-entries-in-fluent-forms) for your **Hidden fields**.
 
 ![Input Hidden](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/input-hidden-07.png)
 

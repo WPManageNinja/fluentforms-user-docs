@@ -1,6 +1,6 @@
 # Terms & Conditions Field in Fluent Forms
 
-The **Terms & Conditions** field in Fluent Forms allows you to collect user consent before submission of the form. For data-collection consent, you can also use the [GDPR Agreement field](/docs/gdpr-agreement-field-in-fluent-forms). When users check the consent box, the system records their response along with the Terms & Conditions title and description at the time of submission.
+The **Terms & Conditions** field in Fluent Forms allows you to collect user consent before submission of the form. For data-collection consent, you can also use the [GDPR Agreement field](/gdpr-agreement-field-in-fluent-forms). When users check the consent box, the system records their response along with the Terms & Conditions title and description at the time of submission.
 
 This article will guide you through adding the **Terms & Conditions** field in **Fluent Forms** for your WordPress site.
 
@@ -13,7 +13,7 @@ This article will guide you through adding the **Terms & Conditions** field in *
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Edit Terms & Conditions Field](/images/form-fields/advanced-fields/terms-conditions-field-in-fluent-forms/edit-form-01-13-scaled.webp)
 
@@ -43,7 +43,7 @@ You will find various settings options for customizing the field. Located in the
 
 **C. Terms & Conditions**: Enter the content for the consent checkbox by using HTML.
 
-**D. Dynamic Smartcodes:** Display dynamic content using [smart codes](/docs/form-editor-smart-codes). 
+**D. Dynamic Smartcodes:** Display dynamic content using [smart codes](/form-editor-smart-codes). 
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
@@ -61,7 +61,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/terms-conditions-field-in-fluent-forms/Advanced-options-05-12-scaled.webp)
 

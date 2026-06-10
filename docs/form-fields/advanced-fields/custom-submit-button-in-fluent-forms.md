@@ -1,6 +1,6 @@
 # Custom Submit Button in Fluent Forms
 
-Want to use a special **Submit** button on your Fluent Form? It's simple! This field allows you to replace the **Default Submit Button** with a **Custom Submit Button** for better control over **positioning, styling,** and [conditional logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+Want to use a special **Submit** button on your Fluent Form? It's simple! This field allows you to replace the **Default Submit Button** with a **Custom Submit Button** for better control over **positioning, styling,** and [conditional logic](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 This guide will walk you through adding and customizing the **Custom Submit Field** in Fluent Forms for your WordPress site.
 
@@ -13,7 +13,7 @@ This guide will walk you through adding and customizing the **Custom Submit Fiel
 First, look for the **Forms** section in the Fluent Forms menu. Then, choose the form you want to work on and click the **Edit Icon** to get to the page where you can change it.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Editor](/images/form-fields/advanced-fields/custom-submit-button-in-fluent-forms/form-editor-01-2-scaled.webp)
 

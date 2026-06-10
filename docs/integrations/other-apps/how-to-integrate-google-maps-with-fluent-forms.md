@@ -1,9 +1,9 @@
 # How to Integrate Google Maps with Fluent Forms
 
-**Fluent Forms** integrates **Google Maps** to allow your users to **auto-fill** the [Address field](/docs/address-input-field-in-fluent-forms) with the help of Google Maps. This article will guide you through integrating **Google Maps** in **Fluent Forms** on your **WordPress Site**.
+**Fluent Forms** integrates **Google Maps** to allow your users to **auto-fill** the [Address field](/address-input-field-in-fluent-forms) with the help of Google Maps. This article will guide you through integrating **Google Maps** in **Fluent Forms** on your **WordPress Site**.
 
 > [!Note]
-> **Google Maps** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Google Maps** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Integrating Google Maps with Fluent Forms
 
@@ -76,10 +76,10 @@ Now, you can see that the Google Map has been successfully connected to your **F
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** a **Form** that has an **Address** field where you want to integrate your **Google Maps,** and click the **Editor** button.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 > [!Tip]
-> For the **Address** field, see [Address Input Field in Fluent Forms](/docs/address-input-field-in-fluent-forms).
+> For the **Address** field, see [Address Input Field in Fluent Forms](/address-input-field-in-fluent-forms).
 ![Open Editor Integrate Google Maps](/images/integrations/other-apps/how-to-integrate-google-maps-with-fluent-forms/13.-Open-desired-form-Editor-scaled.webp)
 
 Once you are on the form **Editor**, go to the **Address**, hover over it, and click the **Pencil Icon**.

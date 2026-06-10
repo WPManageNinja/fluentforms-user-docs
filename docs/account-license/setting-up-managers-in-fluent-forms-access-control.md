@@ -1,6 +1,6 @@
 # Setting up Managers in Fluent Forms (Access Control)
 
-To make managing your Fluent Forms more efficient, you can assign Managers to specific WordPress user roles or individual users. Additionally, you can set customized permissions to ensure they only have access to the features you've allowed, such as [managing form entries](/docs/managing-entries-in-fluent-forms) or [payments](/docs/payments-overview).
+To make managing your Fluent Forms more efficient, you can assign Managers to specific WordPress user roles or individual users. Additionally, you can set customized permissions to ensure they only have access to the features you've allowed, such as [managing form entries](/managing-entries-in-fluent-forms) or [payments](/payments-overview).
 
 This article will guide you through creating a **Manager** and setting their permissions.
 
@@ -41,7 +41,7 @@ A popup will appear, allowing you to select the manager and set the permissions 
 
 - Manage Forms
 
-- Manage Entries (lets the manager [edit submitted entries](/docs/edit-user-submitted-entries-with-fluent-forms))
+- Manage Entries (lets the manager [edit submitted entries](/edit-user-submitted-entries-with-fluent-forms))
 
 - Manage Payments
 

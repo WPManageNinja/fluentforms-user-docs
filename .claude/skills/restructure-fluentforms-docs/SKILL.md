@@ -11,7 +11,7 @@ metadata:
 # Restructure Fluent Forms Docs
 
 Structural changes are high-risk because **a slug is a public URL**: renaming, moving, or
-deleting a doc breaks every inbound `/docs/<slug>` link, can orphan an image folder, and
+deleting a doc breaks every inbound `/<slug>` link, can orphan an image folder, and
 desyncs the sidebar. This skill makes those changes safely. Canonical conventions live in
 `CLAUDE.md`.
 
@@ -20,8 +20,8 @@ desyncs the sidebar. This skill makes those changes safely. Canonical convention
 ## Agent Behavior Rules
 
 1. **DO** confirm the operation and exact old/new identifiers before any change.
-2. **DO** find every inbound link before renaming/moving: `grep -rl '/docs/<old-slug>' docs`.
-3. **DO** rewrite every inbound `/docs/<old-slug>` reference to the new slug.
+2. **DO** find every inbound link before renaming/moving: `grep -rl '](/<old-slug>)' docs`.
+3. **DO** rewrite every inbound `](/<old-slug>)` reference to the new slug.
 4. **DO** move the doc's image folder with it and fix the in-doc image refs when the slug
    or category changes.
 5. **DO** update `.vitepress/sidebar.json` — `link`, `text`, and group as needed — keeping
@@ -36,7 +36,7 @@ desyncs the sidebar. This skill makes those changes safely. Canonical convention
 12. **DO** treat a section overview hub page as an inbound link source: if you rename, move
     out of, or delete a doc that is linked from a `<section>-overview.md` page (see CLAUDE.md
     → "Section overview pages"), update/remove that doc's link in the overview's bullet list
-    too — the `grep -rln '/docs/<slug>'` survey already surfaces it.
+    too — the `grep -rln '](/<slug>)'` survey already surfaces it.
 
 ---
 
@@ -57,7 +57,7 @@ Record as `OPERATION`.
 Resolve current path(s) with `find docs -name '<slug>.md'`. Record all.
 
 ### 1.3 Inbound link survey
-Run `grep -rln '/docs/<slug>' docs` for each affected slug and show the user the count +
+Run `grep -rln '](/<slug>)' docs` for each affected slug and show the user the count +
 file list, so the blast radius is visible before confirming.
 
 ### 1.4 Confirm
@@ -89,8 +89,8 @@ RENAME (slug change, same category):
   1. git mv docs/<cat>/<OLD_SLUG>.md docs/<cat>/<NEW_SLUG>.md
   2. git mv docs/public/images/<cat>/<OLD_SLUG> docs/public/images/<cat>/<NEW_SLUG>   (if exists)
   3. In the moved file, rewrite image refs /images/<cat>/<OLD_SLUG>/ -> /<NEW_SLUG>/
-  4. grep -rl '/docs/<OLD_SLUG>' docs  -> rewrite each to /docs/<NEW_SLUG>
-  5. sidebar.json: set entry "link" to /docs/<NEW_SLUG> (and "text" if title changed)
+  4. grep -rl '](/<OLD_SLUG>)' docs  -> rewrite each to /<NEW_SLUG>
+  5. sidebar.json: set entry "link" to /<NEW_SLUG> (and "text" if title changed)
   6. BUILD
 
 MOVE-CATEGORY (slug same, folder changes):
@@ -98,11 +98,11 @@ MOVE-CATEGORY (slug same, folder changes):
   2. git mv docs/public/images/<OLD_CAT>/<SLUG> docs/public/images/<NEW_CAT>/<SLUG>  (if exists)
   3. In the moved file, rewrite image refs /images/<OLD_CAT>/<SLUG>/ -> /<NEW_CAT>/<SLUG>/
   4. sidebar.json: move the {text,link} entry into the new group (link is unchanged — URLs
-     don't include category, so inbound /docs/<SLUG> links keep working)
+     don't include docs/ or category, so inbound /<SLUG> links keep working)
   5. BUILD
 
 DELETE:
-  1. grep -rln '/docs/<SLUG>' docs  -> report inbound links that will break; fix or flag
+  1. grep -rln '](/<SLUG>)' docs  -> report inbound links that will break; fix or flag
   2. git rm docs/<cat>/<SLUG>.md
   3. rm -rf docs/public/images/<cat>/<SLUG>
   4. sidebar.json: remove the entry
@@ -111,7 +111,7 @@ DELETE:
 MERGE (FROM into INTO):
   1. Fold FROM's content into docs/<cat>/<INTO_SLUG>.md (preserve conventions)
   2. Move any still-needed images into INTO's image folder; fix refs
-  3. grep -rl '/docs/<FROM_SLUG>' docs -> rewrite to /docs/<INTO_SLUG>
+  3. grep -rl '](/<FROM_SLUG>)' docs -> rewrite to /<INTO_SLUG>
   4. Delete FROM (file + image folder + sidebar entry)
   5. BUILD
 
@@ -139,14 +139,14 @@ Report:
 ### Survey & locate
 ```
 File by slug:    find docs -name '<slug>.md'
-Inbound links:   grep -rln '/docs/<slug>' docs
+Inbound links:   grep -rln '](/<slug>)' docs
 Image folder:    docs/public/images/<category>/<slug>/
-Sidebar entry:   grep -n '/docs/<slug>' .vitepress/sidebar.json
+Sidebar entry:   grep -n '"/<slug>"' .vitepress/sidebar.json
 ```
 
 ### Rules of thumb
 ```
-URL = /docs/<slug>            -> category is NOT in the URL
+URL = /<slug>                 -> docs/ and category are NOT in the URL
 move-category                 -> link UNCHANGED (only folder + image path move)
 rename (slug change)          -> link CHANGES + all inbound links must be rewritten
 ```

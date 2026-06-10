@@ -5,7 +5,7 @@ The Range Slider Field allows users to select a number from a pre-defined range 
 This guide will walk you through adding and customizing the **Range Slider Field** in Fluent Forms for your WordPress site.
 
 > [!Note]
-> The **Range Slider** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> The **Range Slider** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/RaY2VcPWk6I" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -16,7 +16,7 @@ This guide will walk you through adding and customizing the **Range Slider Field
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Editor](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Form-Editor-01-3-scaled.webp)
 
@@ -46,7 +46,7 @@ You will find various settings options for customizing the field under the **Inp
 
 **C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
 
-**D. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/docs/dynamic-default-value-in-fluent-forms). 
+**D. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/dynamic-default-value-in-fluent-forms). 
 
 You can add **a default value** by clicking the **Three-Dot** option on the right.
 
@@ -58,7 +58,7 @@ You can add **a default value** by clicking the **Three-Dot** option on the righ
 
 **H. Required:** Decide whether users must select at least one option before submission.
 
-**I. Enable Quantity Mapping:** Select the Yes button to Enable Quantity Mapping. It indicates that this field is mapped to a [product quantity](/docs/add-item-quantity-field-in-payment-forms) (likely for e-commerce or order forms). After that, **Choose a Target Product Field** to ensure correct quantity mapping.
+**I. Enable Quantity Mapping:** Select the Yes button to Enable Quantity Mapping. It indicates that this field is mapped to a [product quantity](/add-item-quantity-field-in-payment-forms) (likely for e-commerce or order forms). After that, **Choose a Target Product Field** to ensure correct quantity mapping.
 
 ![Rage Slider](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Rage-Slider-03-1-scaled.webp)
 
@@ -74,7 +74,7 @@ Advanced settings allow furtherz customization to meet specific use cases.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Advanced-Options-04-1-scaled.webp)
 

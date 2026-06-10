@@ -2,7 +2,7 @@
 
 With the **Frontend Entry View** feature in Fluent Forms, users (or admins) can view a submitted form through a unique link. This link is **hash-based**, meaning it’s secure and unique to each submission.
 
-As the admin, you have full control over who gets to view these entries. You can choose to show them only to the person who submitted the form, other admins, or even anyone else. It’s completely up to you. To display these entries publicly in a table instead, see [Show Fluent Forms Entries in Frontend using Ninja Tables](/docs/show-fluent-forms-entries-in-frontend-using-ninja-tables).
+As the admin, you have full control over who gets to view these entries. You can choose to show them only to the person who submitted the form, other admins, or even anyone else. It’s completely up to you. To display these entries publicly in a table instead, see [Show Fluent Forms Entries in Frontend using Ninja Tables](/show-fluent-forms-entries-in-frontend-using-ninja-tables).
 
 In this article, you will learn how to enable the frontend entry view feature and share the view link with the form submitter.
 
@@ -14,7 +14,7 @@ Next, scroll down and you’ll see the **Frontend Entry View** section. Just c
 
 #### Content
 
-In the content area, you can add a paragraph using the visual editor or code editor. You can also style your content here. You can include media files or [shortcodes](/docs/shortcodes-in-confirmation-settings) to make the content more useful or personalized.
+In the content area, you can add a paragraph using the visual editor or code editor. You can also style your content here. You can include media files or [shortcodes](/shortcodes-in-confirmation-settings) to make the content more useful or personalized.
 
 #### Enable Restriction
 

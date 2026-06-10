@@ -5,7 +5,7 @@ Salesforce is a popular customer relationship management (CRM) platform. It help
 This article will guide you through integrating **Salesforce** with **Fluent Forms** on your **WordPress Site**.  
 
 > [!Note]
-> **Salesforce** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Salesforce** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 Salesforce provides API Access to these four account editions only:
 
@@ -93,7 +93,7 @@ Here, you can see your **Salesforce API integration** is **up and running**. To 
 First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **Salesforce** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Settings Salesforce Integration](/images/integrations/crm/salesforce-integration-with-fluent-forms/Form-settings-13-scaled.webp)
 
@@ -115,7 +115,7 @@ Once you select the Salesforce services, a pop-up page with various settings opt
 
 Here, I will select Salesforce service **Contact** options. You can choose **Salesforce Services** from the drop-down menu. Now, I am mapping the field with Salesforce. 
 
-**C.** **Conditional Logic:** If you want to allow **Salesforce** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**C.** **Conditional Logic:** If you want to allow **Salesforce** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **D. Status:** Enable this feed option to activate the integration.
 
@@ -133,7 +133,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 Here, you can see a preview of the added Salesforce contacts through the Form entries that I set up during the integration.
 
-You can see four form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+You can see four form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/managing-entries-in-fluent-forms).
 
 ![Entries Fluent Forms](/images/integrations/crm/salesforce-integration-with-fluent-forms/entries-16-scaled.webp)
 

@@ -19,7 +19,7 @@ Turn on the **Toggle** to enable the **Inventory** module.
 
 Once the module is enabled, you can create a new form or edit an existing one to add inventory-related fields such as:
 
-- [Payment items](/docs/add-payment-item-field-in-payment-forms)
+- [Payment items](/add-payment-item-field-in-payment-forms)
 
 - Radio buttons
 
@@ -29,10 +29,10 @@ Once the module is enabled, you can create a new form or edit an existing one to
 
 - Checkboxes
 
-You can use a [Checkbox Field](/docs/checkbox-field-in-fluent-forms) to demonstrate Inventory Management.
+You can use a [Checkbox Field](/checkbox-field-in-fluent-forms) to demonstrate Inventory Management.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 ![Inventory Fluent Forms](/images/modules/fluent-forms-inventory-module/inventory-02-scaled.webp)
 
@@ -64,7 +64,7 @@ The Inventory Settings will be visible in the **Advanced Options** field when se
 
 ### Global Inventory Settings
 
-When you select the Global option, the Inventory Settings will be visible in the field’s Advanced Options. A drop-down with more options will appear. Global inventory lets you share stock across multiple forms; see [Global Inventory Manager in Fluent Forms](/docs/global-inventory-manager-in-fluent-forms) to set it up.
+When you select the Global option, the Inventory Settings will be visible in the field’s Advanced Options. A drop-down with more options will appear. Global inventory lets you share stock across multiple forms; see [Global Inventory Manager in Fluent Forms](/global-inventory-manager-in-fluent-forms) to set it up.
 
 **A. Global Inventory:** You can select your item Global Inventory from the dropdown options.
 

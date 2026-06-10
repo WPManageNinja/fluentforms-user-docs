@@ -42,7 +42,7 @@ To enable PDF export for a specific form, follow these steps-
 Open the form where you want to allow **PDF Export**. Navigate to the **Settings & Integrations** tab.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+> If you do not have any existing forms, read [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
 
 Now click on **PDF Feeds** from the left sidebar. Then click the **Add PDF Feed** button.
 
@@ -110,7 +110,7 @@ When the change is complete, click the **Save Feed** button, and the **PDF Feed*
 
 ## Downloading a Form Entry as a PDF
 
-Once you have customized the form and added the PDF Feed, go to the [**Entries**](/docs/managing-entries-in-fluent-forms) section of the chosen form.
+Once you have customized the form and added the PDF Feed, go to the [**Entries**](/managing-entries-in-fluent-forms) section of the chosen form.
 
 Now, select any submission entry you wish to work on and click the **View Icon** of that entry.
 
@@ -130,7 +130,7 @@ Then, select the **PDF feed** you want to attach to emails. It ensures users rec
 
 When a user submits the form, this PDF Feed will be sent to the **Admin Email**.
 
-To learn more, read [How to Setup Admin/User Email Notifications](/docs/how-to-setup-adminuser-email-notifications).
+To learn more, read [How to Setup Admin/User Email Notifications](/how-to-setup-adminuser-email-notifications).
 
 ![Fluent Forms PDF Module step](/images/modules/fluent-forms-pdf-module/11-scaled.webp)
 

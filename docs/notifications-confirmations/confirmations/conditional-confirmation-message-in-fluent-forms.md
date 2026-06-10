@@ -1,6 +1,6 @@
 # Conditional Confirmation Message in Fluent Forms
 
-Sometimes, you can display confirmation messages based on user input. Fluent Forms allows you to set up **Conditional Confirmation Messages** so that users receive individualized feedback based on specific conditions. If you are new to confirmations, start with the [form submission confirmation message](/docs/setup-form-submission-confirmation-message-in-fluent-forms) setup first.
+Sometimes, you can display confirmation messages based on user input. Fluent Forms allows you to set up **Conditional Confirmation Messages** so that users receive individualized feedback based on specific conditions. If you are new to confirmations, start with the [form submission confirmation message](/setup-form-submission-confirmation-message-in-fluent-forms) setup first.
 
 In this documentation, we will walk you through setting up a conditional confirmation message with fluent Forms.
 
@@ -60,7 +60,7 @@ You can use these query parameters on the thank-you page to display personalized
 
 ### Enable Conditional Logic
 
-First enable the [Conditional logic](/docs/set-up-forms-with-conditional-logic-in-fluent-forms) by clicking the check box. Now decide whether all conditions must be met select **All** or if any single condition is sufficient select **Any**.
+First enable the [Conditional logic](/set-up-forms-with-conditional-logic-in-fluent-forms) by clicking the check box. Now decide whether all conditions must be met select **All** or if any single condition is sufficient select **Any**.
 
 Then Select the specific form fields on which the condition will depend. For example, you might choose a rating or numeric input field.
 

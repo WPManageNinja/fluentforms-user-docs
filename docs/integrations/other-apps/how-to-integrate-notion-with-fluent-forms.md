@@ -3,7 +3,7 @@
 Integrating [Notion](http://notion.com) with **Fluent Forms** allows you to automate data collection and organize your Notion workspace. This article will guide you through integrating **Notion** with **Fluent Forms** on your **WordPress Site**. 
 
 > [!Note]
-> **Notion** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
+> **Notion** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-fluent-forms-pro-add-on).
 
 ## Enabling Notion Integration
 
@@ -55,7 +55,7 @@ You can disconnect it anytime by clicking the **Disconnect Notion** button.
 First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Notion,** and click the **Settings** button. 
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> If you do not have an existing form, see [Create a Form from Scratch](/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
 ![Open Settings Integrate Notion](/images/integrations/other-apps/how-to-integrate-notion-with-fluent-forms/8.-Open-desired-Form-Settings-scaled.webp)
 
@@ -73,7 +73,7 @@ Once you select the database, all the columns from your chosen Notion Database w
 
 Now, use all the fields under this option to properly link your Notion Databases with the Form Fields. You can easily select the value for the form fields based on the Notion fields using the **Shortcode Arrow**.
 
-3. **Conditional Logics:** This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+3. **Conditional Logics:** This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 4. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
