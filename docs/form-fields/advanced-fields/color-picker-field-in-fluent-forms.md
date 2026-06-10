@@ -1,4 +1,4 @@
-# Color Picker Field in Fluent Forms
+# Color Picker Field
 
 The **Color Picker** field in Fluent Forms allows users to select a color using a **hexadecimal color format (#RRGGBB)**. This feature is helpful for customization, branding, or product selection.
 

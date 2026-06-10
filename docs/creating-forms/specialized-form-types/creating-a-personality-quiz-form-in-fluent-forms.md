@@ -1,4 +1,4 @@
-# Creating a Personality Quiz Form in Fluent Forms
+# Creating a Personality Quiz Form
 
 Creating a personality quiz with Fluent Forms is simple and intuitive. The Quiz Module allows you to provide text-based answers and categorize users based on their responses. 
 

@@ -1,4 +1,4 @@
-# File Upload Input Field in Fluent Forms
+# File Upload Input Field
 
 The **File Upload** input field in [Fluent Forms](https://fluentforms.com/) allows users to submit various file types directly through a form. This feature is ideal for document submissions, job applications, customer support, and more.
 

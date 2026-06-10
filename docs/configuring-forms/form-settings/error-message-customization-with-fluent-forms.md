@@ -1,4 +1,4 @@
-# Error Message Customization with Fluent Forms
+# Error Message Customization
 
 Error messages in [Fluent Forms](https://wordpress.org/plugins/fluentform/) help users fix mistakes when filling out a form. You can set a **global error message** for general issues. If a field has its own custom message, it will show that message first. This makes it easier for users to understand what to fix.
 

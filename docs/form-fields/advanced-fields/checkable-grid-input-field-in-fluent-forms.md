@@ -1,4 +1,4 @@
-# Checkable Grid Input Field in Fluent Forms
+# Checkable Grid Input Field
 
 The Checkable Grid input field in [Fluent Form](https://wordpress.org/plugins/fluentform) is a powerful tool for collecting feedback, [surveys](/surveys-and-polls-in-fluent-forms), assessments, and preference selection. This field can function as a short combination of multiple [checkboxes](/checkbox-field-in-fluent-forms) or [radio buttons](/radio-field-in-fluent-forms).
 

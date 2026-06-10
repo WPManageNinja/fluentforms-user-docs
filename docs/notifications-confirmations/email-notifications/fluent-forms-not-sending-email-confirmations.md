@@ -1,4 +1,4 @@
-# Fluent Forms Not Sending Email Confirmations
+# Email Confirmations Not Sending
 
 Sometimes, **Fluent Forms** users experience email deliverability issues (i.e., their email is not sending to the destination). This means their form users may not receive confirmation emails or other expected notifications. A couple of factors can contribute to email not sending issues.
 

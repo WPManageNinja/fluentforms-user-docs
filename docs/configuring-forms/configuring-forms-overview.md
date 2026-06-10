@@ -1,4 +1,4 @@
-# Configuring Your Forms in Fluent Forms
+# Configuring Your Forms
 
 A great form does more than collect data — it guides people, validates input, and adapts to every answer. **Fluent Forms** gives you fine-grained control over how each form behaves, from custom messages and access rules to powerful conditional logic and live calculations. This page shows you everything you can configure and links you to the right guide.
 

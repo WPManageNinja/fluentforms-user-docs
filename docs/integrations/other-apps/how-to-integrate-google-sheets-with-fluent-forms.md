@@ -1,4 +1,4 @@
-# How to Integrate Google Sheets with Fluent Forms
+# How to Integrate Google Sheets
 
 **Fluent Forms** allows you to integrate with **Google Sheets** to manage and organize form responses efficiently. This article will guide you through integrating **Google Sheets** in **Fluent Forms** on your **WordPress Site**. 
 

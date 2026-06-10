@@ -1,4 +1,4 @@
-# Password Input Field in Fluent Forms
+# Password Input Field
 
 Adding a Password input field in Fluent Form is simple. The field allows users to enter secure passwords, making it ideal for a [user registration form](/how-to-create-a-wordpress-user-registration-form-with-fluent-forms). 
 

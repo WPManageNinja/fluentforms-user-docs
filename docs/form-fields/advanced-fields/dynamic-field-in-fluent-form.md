@@ -1,4 +1,4 @@
-# Dynamic Field in Fluent Form
+# Dynamic Field
 
 With Fluent Forms **Dynamic Fields**, you can create fields that automatically pull in content like posts, users, [taxonomy terms](/add-categories-taxonomy-field-in-post-forms), or form data, giving users customized options and building form flexibility. 
 

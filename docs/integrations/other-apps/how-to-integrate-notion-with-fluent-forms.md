@@ -1,4 +1,4 @@
-# How to Integrate Notion with Fluent Forms
+# How to Integrate Notion
 
 Integrating [Notion](http://notion.com) with **Fluent Forms** allows you to automate data collection and organize your Notion workspace. This article will guide you through integrating **Notion** with **Fluent Forms** on your **WordPress Site**. 
 

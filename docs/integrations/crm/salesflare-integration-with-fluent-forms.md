@@ -1,4 +1,4 @@
-# Salesflare Integration with Fluent Forms
+# Salesflare Integration
 
 Fluent Forms integrates with Salesflare, an email marketing automation tool that helps you collect leads or B2B leads, grow your small business, and automatically add it to your Salesflare list through Fluent Forms Submissions.
 

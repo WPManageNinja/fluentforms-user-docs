@@ -1,4 +1,4 @@
-# Phone/Mobile Input Field in Fluent Forms
+# Phone/Mobile Input Field
 
 The **Phone/Mobile** input field in Fluent Forms is essential for collecting users' contact information. It allows users to enter phone numbers and provides various customization options for validation and formatting.
 

@@ -1,4 +1,4 @@
-# Insightly Integration with Fluent Forms
+# Insightly Integration
 
 Fluent Forms integrates with Insightly, an email marketing tool that helps you collect customer leads, tasks, and sales teams marketing automation tool that helps businesses collect personalized customer information and automatically add it to your Insightly list through Fluent Forms Submissions.
 

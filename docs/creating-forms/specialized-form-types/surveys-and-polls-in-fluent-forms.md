@@ -1,4 +1,4 @@
-# Surveys and Polls in Fluent Forms
+# Surveys and Polls
 
 Fluent Forms offers a robust and user-friendly solution for creating surveys and polls in WordPress. With its drag-and-drop builder and pre-built templates, you can design responsive, mobile-friendly surveys with interactive features like [NPS surveys](/net-promoter-score-in-fluent-forms), real-time polls, and many more.
 

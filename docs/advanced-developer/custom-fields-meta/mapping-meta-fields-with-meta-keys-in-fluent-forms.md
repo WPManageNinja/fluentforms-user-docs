@@ -1,4 +1,4 @@
-# Mapping Meta Fields with Meta Keys in Fluent Forms
+# Mapping Meta Fields with Meta Keys
 
 Fluent Forms offers a powerful **Meta Fields Mapping** feature that allows you to map **post meta fields** into your form. Post meta fields are WordPress objects that store additional data about a post.
 

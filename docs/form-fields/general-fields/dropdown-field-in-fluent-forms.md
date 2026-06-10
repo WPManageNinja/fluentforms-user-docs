@@ -1,4 +1,4 @@
-# Dropdown Field in Fluent Forms
+# Dropdown Field
 
 The **Dropdown Field** is a list-based input where users select one option from predefined choices. Use it for countries, categories, product types, and other structured selections.
 

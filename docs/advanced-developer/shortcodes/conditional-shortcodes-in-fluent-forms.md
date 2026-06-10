@@ -1,4 +1,4 @@
-# Conditional Shortcodes in Fluent Forms
+# Conditional Shortcodes
 
 Fluent Forms allows you to show or hide content dynamically based on user selections using **conditional shortcodes**. These shortcodes can be applied in [**Form Confirmations**](/setup-form-submission-confirmation-message-in-fluent-forms), [**Email Notifications**](/how-to-setup-adminuser-email-notifications), and [**PDF Documents**](/fluent-forms-pdf-module), making your forms more interactive and personalized.
 

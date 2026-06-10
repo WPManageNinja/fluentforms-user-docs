@@ -1,4 +1,4 @@
-# Modal/Popup/Lightbox in Fluent Forms
+# Modal/Popup/Lightbox
 
 Fluent Forms offers you to built-in popup feature makes displaying forms in a modal, popup, or lightbox easily. It also offers a button-based popup trigger for forms.
 

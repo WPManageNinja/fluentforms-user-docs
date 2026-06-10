@@ -1,4 +1,4 @@
-# How to Integrate PayPal with Fluent Forms
+# How to Integrate PayPal
 
 [PayPal](http://paypal.com) is a payment processing platform that lets **Fluent Forms** receive payments from your users securely. This article will guide you through integrating **PayPal** into your **WordPress** site with the **Fluent Forms** plugin.
 

@@ -1,4 +1,4 @@
-# How to use Meta Box Custom Fields with Fluent Forms
+# How to use Meta Box Custom Fields
 
 Fluent Forms brings you an excellent feature**, Meta Box** plugin integration. Metabox is a free Gutenberg and GDPR-compatible WordPress custom fields plugin and framework that quickly customizes a website with meta boxes and custom fields in WordPress.
 

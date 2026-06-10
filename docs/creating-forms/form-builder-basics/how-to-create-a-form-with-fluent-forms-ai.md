@@ -1,4 +1,4 @@
-# How to Create a Form with Fluent Forms AI
+# How to Create a Form with AI
 
 Fluent Forms now integrates Fluent Forms AI, making it easier for users to create Forms effortlessly with simple commands.  This article will guide you through creating a form using **Fluent Forms AI**. Prefer to build manually? See [How to Create a Form with Fluent Forms](/how-to-create-a-form-with-fluent-forms).
 

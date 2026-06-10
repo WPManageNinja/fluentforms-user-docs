@@ -1,4 +1,4 @@
-# GDPR Agreement Field in Fluent Forms
+# GDPR Agreement Field
 
 GDPR is essential when collecting users' data online. The GDPR Agreement field in Fluent Forms allows you to consent to data collection with just one click. For full legal terms, you can pair it with the [Terms & Conditions field](/terms-conditions-field-in-fluent-forms).
 

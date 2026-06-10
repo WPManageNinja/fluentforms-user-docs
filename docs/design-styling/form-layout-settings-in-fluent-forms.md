@@ -1,4 +1,4 @@
-# Form Layout Settings in Fluent Forms
+# Form Layout Settings
 
 **Fluent Forms** offers a **Form Layout** feature for the basic customization of your form’s outlook (e.g., the position of the input field label, default help message placement, default error message placement, and asterisk marker position for required fields). For full visual styling such as colors, typography, and borders, use the [Form Styler](/official-form-styler-of-fluent-forms).
 

@@ -1,4 +1,4 @@
-# Fluent Forms Shortcodes Overview
+# Shortcodes Overview
 
 Fluent Forms shortcodes allow you to add different types of form displays on your WordPress site. They help make your website dynamic and user-friendly.
 

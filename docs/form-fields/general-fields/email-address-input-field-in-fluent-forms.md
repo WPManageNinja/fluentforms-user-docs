@@ -1,4 +1,4 @@
-# Email Address Input Field in Fluent Forms
+# Email Address Input Field
 
 The Email Address Input Field is essential to any form.[ Fluent Forms](https://wordpress.org/plugins/fluentform/) allows you to produce an input field to take user addresses. You can easily add, customize, and validate this field.
 

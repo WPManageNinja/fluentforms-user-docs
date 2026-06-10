@@ -1,4 +1,4 @@
-# Getting Started With Fluent Forms
+# Getting Started
 
 Welcome to [Fluent Forms](https://wordpress.org/plugins/fluentform/) documentation.
 

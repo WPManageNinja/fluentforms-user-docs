@@ -1,4 +1,4 @@
-# Name Input Field in Fluent Forms
+# Name Input Field
 
 Name Input Field is a Fluent Form field used to collect a person's full name (first name, middle name, last name) without creating separate fields. By default, it includes First and Last Name fields but can be customized to include a **Middle** Name. 
 

@@ -1,4 +1,4 @@
-# Hidden Input Field in Fluent Forms
+# Hidden Input Field
 
 The **hidden** input field in Fluent Forms allows you to store and retrieve data **without displaying it** on the form. This field helps track user data, pass [dynamic values from URL parameters](/set-default-form-value-from-url-parameters), or store information for backend processing.
 

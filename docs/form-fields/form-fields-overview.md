@@ -1,4 +1,4 @@
-# Form Fields in Fluent Forms
+# Form Fields
 
 Fields are the building blocks of every form — and **Fluent Forms** gives you a rich library of them so you can collect exactly the data you need, the way you need it. From simple text inputs to advanced grids, smart containers, and post-publishing fields, there's a field for every job. This page introduces each group of fields and links you straight to the guide for the one you want.
 

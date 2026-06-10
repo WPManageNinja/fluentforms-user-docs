@@ -1,4 +1,4 @@
-# Creating a Multi-Step Form in Fluent Forms
+# Creating a Multi-Step Form
 
 Multi-step forms are an effective way to collect more data from users without overwhelming them. Breaking down the form into multiple steps makes the process less daunting and more manageable for users. This article will guide you through creating a multi-step form with Fluent Forms.
 

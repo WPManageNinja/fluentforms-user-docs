@@ -1,4 +1,4 @@
-# How to Integrate hCaptcha with Fluent Forms
+# How to Integrate hCaptcha
 
 **Fluent Forms** integrates **hCaptcha**, one of the most popular independent CAPTCHA services. Preventing bot submissions using hCaptcha is a contemporary, privacy-conscious solution.
 

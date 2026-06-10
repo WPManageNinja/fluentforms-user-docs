@@ -1,4 +1,4 @@
-# Official Form Styler of Fluent Forms
+# Official Form Styler
 
 Fluent Forms is designed to look great & fit with any WordPress theme. With the built-in **Form Styler**, you can easily create a custom design that perfectly matches your site's branding without coding knowledge. If you need finer control, you can also apply your own [custom CSS](/fluent-forms-stylingcustom-css).
 

@@ -1,4 +1,4 @@
-# Dynamic Input Values In Form Steps | Fluent Forms
+# Dynamic Input Values In Form Steps
 
 Fluent Forms allows you to dynamically populate input values to make your multi-step forms more connected and personalized. 
 

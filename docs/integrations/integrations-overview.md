@@ -1,4 +1,4 @@
-# Integrations in Fluent Forms
+# Integrations
 
 Your forms work best when they talk to the rest of your stack. **Fluent Forms** connects to the marketing, CRM, automation, and productivity tools you already rely on — so every submission flows exactly where it needs to go, automatically. This page rounds up every available integration and links you straight to its setup guide.
 

@@ -1,4 +1,4 @@
-# Numeric Input Field in Fluent Forms
+# Numeric Input Field
 
 The **Numeric Input Field** in Fluent Forms allows users to input numbers in a controlled format. It's ideal for collecting numerical data like phone numbers, age, salary, or other numerical details.
 

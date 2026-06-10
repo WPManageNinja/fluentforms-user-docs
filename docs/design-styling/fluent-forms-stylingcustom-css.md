@@ -1,4 +1,4 @@
-# Fluent Forms Styling/Custom CSS
+# Styling/Custom CSS
 
 Fluent Forms lets you easily style your forms using custom CSS and JavaScript. Whether it’s adjusting buttons, fonts, or input fields, you have full control over how your forms look and behave. If you prefer a no-code approach, try the visual [Form Styler](/official-form-styler-of-fluent-forms) instead.
 

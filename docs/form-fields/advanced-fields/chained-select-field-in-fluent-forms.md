@@ -1,4 +1,4 @@
-# Chained Select Field in Fluent Forms
+# Chained Select Field
 
 The Chained Select in Fluent Form is a powerful feature that allows you to create dependent [dropdowns](/dropdown-field-in-fluent-forms) from CSV data that dynamically populate a set of select elements based on the previous selection. It is particularly useful for creating **category-based selection forms**, such as **Country State City** or **Make Model Variant** selections.
 

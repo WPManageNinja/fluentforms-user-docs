@@ -1,4 +1,4 @@
-# Inline Opt-in Form using Fluent Forms
+# Inline Opt-in Form
 
 An inline opt-in form lets you collect email subscribers directly inside your page content no popup, no redirect, just a clean horizontal form embedded wherever you need it. With Fluent Forms, you can set one up in minutes using a pre-built template and connect it to your favorite email marketing platform. 
 

@@ -1,4 +1,4 @@
-# Automizy Integration with Fluent Forms
+# Automizy Integration
 
 **Automizy** is a powerful email marketing service that allows you to collect, automate, and reach visitors to your site through its robust email templates and campaign tools. **Fluent Forms** enables you to integrate the popular Automizy email marketing service into any email list.
 

@@ -1,4 +1,4 @@
-# How to Integrate Platformly with Fluent Forms
+# How to Integrate Platformly
 
 **Fluent Forms** integrates with [Platformly](http://platformly.com), an integrated email marketing, marketing automation, and small business CRM tool that helps you grow your business by collecting customer information and automatically adding it to your Platformly through Fluent Forms.
 

@@ -1,4 +1,4 @@
-# How to Integrate Cloudflare Turnstile with Fluent Forms
+# How to Integrate Cloudflare Turnstile
 
 **Fluent Forms** integrates **Cloudflare Turnstile** to provide website visitors with a frustration-free, CAPTCHA-free browsing experience. It stops abuse and confirms visitors are real without the data privacy concerns or awful UX that CAPTCHAs thrust on users.
 

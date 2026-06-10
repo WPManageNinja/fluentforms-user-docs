@@ -1,4 +1,4 @@
-# How to Integrate Razorpay with Fluent Forms
+# How to Integrate Razorpay
 
 [Razorpay](http://razorpay.com) is a payment processing platform that allows **Fluent Forms** a smooth online payment transaction in India, supporting various payment methods including credit cards, debit cards, net banking, UPI, and popular wallets like JioMoney, Mobikwik, Airtel Money, FreeCharge, Ola Money, and PayZapp.
 

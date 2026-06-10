@@ -1,4 +1,4 @@
-# Fluent Forms Global Search
+# Global Search
 
 **Fluent Forms** has a **Global Search** feature that lets you search for anything within **Fluent Forms**, making your work super easy. This article will guide you through using the Global Search in Fluent Forms. 
 

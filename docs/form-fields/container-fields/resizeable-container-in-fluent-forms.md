@@ -1,4 +1,4 @@
-# Resizeable Container in Fluent Forms
+# Resizeable Container
 
 Fluent Forms gives users complete control over configuring **Column Width**. Previously, you had to use the Global Styler or CSS to adjust column widths. With the **drag-and-drop** feature, you can resize columns easily without extra coding.
 

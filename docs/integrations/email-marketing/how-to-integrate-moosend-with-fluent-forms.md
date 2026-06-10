@@ -1,4 +1,4 @@
-# How to Integrate MooSend with Fluent Forms
+# How to Integrate MooSend
 
 Integrating **MooSend** with **Fluent Forms** allows you to collect customer information and automatically add it to the MooSend Subscriber list. This article will guide you through integrating **MooSend** with **Fluent Forms** on your **WordPress Site**. 
 

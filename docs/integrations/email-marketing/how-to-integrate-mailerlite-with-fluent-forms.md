@@ -1,4 +1,4 @@
-# How to Integrate MailerLite with Fluent Forms
+# How to Integrate MailerLite
 
 **Fluent Forms** integrates [MailerLite](http://mailerlite.com) an email marketing tool that helps you to grow your MailerLite Subscriber list through the users of Fluent Forms. This article will guide you through integrating **MailerLite** with **Fluent Forms** on your **WordPress Site**.  
 

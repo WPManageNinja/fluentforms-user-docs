@@ -1,4 +1,4 @@
-# Ranking Field in Fluent Forms
+# Ranking Field
 
 The **Ranking** field lets users arrange options in their preferred order. Respondents reorder choices with drag handles or up/down arrows. You can customize the layout, add photos to options, and define as many ranking choices as you need.
 

@@ -1,4 +1,4 @@
-# How to Integrate Airtable with Fluent Forms
+# How to Integrate Airtable
 
 **Fluent Forms** integrates with [Airtable](http://airtable.com), a cloud-based platform for creating and sharing relational databases to help organize and collaborate on various information about anything, like employee directories, product inventories, and even apartment hunting.
 

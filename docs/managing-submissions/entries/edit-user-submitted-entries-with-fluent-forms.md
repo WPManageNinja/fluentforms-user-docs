@@ -1,4 +1,4 @@
-# Edit User Submitted Entries With Fluent Forms
+# Edit User Submitted Entries
 
 Fluent Forms makes it easy to edit any submitted entry directly from the dashboard, without any additional tools or plugins. This feature is especially useful for correcting errors in submissions, updating outdated or inaccurate information, and making modifications to reflect new requirements or changes.
 

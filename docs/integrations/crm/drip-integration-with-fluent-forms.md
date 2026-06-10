@@ -1,4 +1,4 @@
-# Drip Integration with Fluent Forms
+# Drip Integration
 
 Fluent Forms integrates with Drip, a robust e-commerce CRM (ECRM) designed for personalized customer engagement. This integration allows Fluent Forms submissions to automatically add collected customer information to your Drip list.
 

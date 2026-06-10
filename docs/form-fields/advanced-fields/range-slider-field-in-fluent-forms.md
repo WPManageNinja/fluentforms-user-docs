@@ -1,4 +1,4 @@
-# Range Slider Field in Fluent Forms
+# Range Slider Field
 
 The Range Slider Field allows users to select a number from a pre-defined range by dragging a handle or rating marker. 
 

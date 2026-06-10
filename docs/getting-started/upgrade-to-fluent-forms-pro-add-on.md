@@ -1,4 +1,4 @@
-# Upgrade to Fluent Forms Pro Add-on
+# Upgrade to Pro Add-on
 
 Fluent Forms Pro offers a variety of advanced features that are unavailable in the free version. It is packed with numerous features and functionalities to create effective forms. 
 

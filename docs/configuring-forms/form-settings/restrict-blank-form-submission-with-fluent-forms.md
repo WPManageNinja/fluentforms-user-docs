@@ -1,4 +1,4 @@
-# Restrict Blank Form Submission with Fluent Forms
+# Restrict Blank Form Submission
 
 Fluent Forms allows you to prevent users from submitting blank forms, reduce [spam](/spam-protection-with-honeypot-and-google-recaptcha-in-fluent-forms), and ensure only meaningful entries are recorded. 
 

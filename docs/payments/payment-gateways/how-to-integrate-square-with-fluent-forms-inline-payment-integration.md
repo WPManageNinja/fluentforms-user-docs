@@ -1,4 +1,4 @@
-# How to Integrate Square with Fluent Forms (Inline Payment Integration)
+# How to Integrate Square (Inline Payment Integration)
 
 [Square](https://squareup.com/us/en) is a powerful payment processing platform that offers **Fluent Forms** inline payment options and a smooth and secure payment experience using credit and debit cards.
 

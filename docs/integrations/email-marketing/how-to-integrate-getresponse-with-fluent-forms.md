@@ -1,4 +1,4 @@
-# How to Integrate GetResponse with Fluent Forms
+# How to Integrate GetResponse
 
 Integrating [GetResponse](http://getresponse.com) with **Fluent Forms** helps you automatically send a contact list from your WordPress website to your GetResponse account when a form is submitted. 
 

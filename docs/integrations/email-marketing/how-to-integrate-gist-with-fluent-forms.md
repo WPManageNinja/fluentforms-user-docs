@@ -1,4 +1,4 @@
-# How to Integrate Gist with Fluent Forms
+# How to Integrate Gist
 
 Integrating [Gist](http://getgist.com) with **Fluent Forms** allows you to build your Gist email list through the users of Fluent Forms. This article will guide you through integrating **Gist** with **Fluent Forms** on your **WordPress Site**. For an alternative walkthrough, see the [GetGist integration guide](/gist-integration-with-fluent-forms).  
 

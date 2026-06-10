@@ -1,4 +1,4 @@
-# Fluent Forms Event Tracking with Google Analytics (GA4) via Google Tag Manager
+# Event Tracking with Google Analytics (GA4) via Google Tag Manager
 
 **Fluent Forms**, one of WordPress's most powerful form builders, allows seamless integration with **Google Analytics (GA4)** through **Google Tag Manager (GTM)**. This helps track user form engagements and improve conversions.
 

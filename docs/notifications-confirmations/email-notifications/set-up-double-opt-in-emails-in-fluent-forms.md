@@ -1,4 +1,4 @@
-# Set up Double Opt-in emails in Fluent Forms
+# Set up Double Opt-in emails
 
 Double opt-in email is a dynamic feature of fluent forms. When users submit their email to your list, a double opt-in email is required to confirm their email. 
 

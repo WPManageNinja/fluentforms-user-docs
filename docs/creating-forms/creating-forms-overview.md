@@ -1,4 +1,4 @@
-# Creating Forms with Fluent Forms
+# Creating Forms
 
 Building a form should feel effortless — and with **Fluent Forms** it is. Whether you want a simple contact form, a guided multi-step experience, an interactive conversational flow, or a ready-to-use template, you can go from idea to a published, working form in minutes. This page walks you through every way to create a form so you can pick the approach that fits your goal.
 

@@ -1,4 +1,4 @@
-# Global Inventory Manager in Fluent Forms
+# Global Inventory Manager
 
 The Fluent Forms Global Inventory Manager feature allows you to track and manage multiple forms efficiently. 
 

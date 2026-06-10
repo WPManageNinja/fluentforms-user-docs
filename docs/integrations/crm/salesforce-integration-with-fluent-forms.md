@@ -1,4 +1,4 @@
-# Salesforce Integration with Fluent Forms
+# Salesforce Integration
 
 Salesforce is a popular customer relationship management (CRM) platform. It helps your marketing, sales, commerce, service, and IT teams work as one from anywhere. 
 

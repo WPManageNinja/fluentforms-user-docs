@@ -1,4 +1,4 @@
-# Accepting Payments with Fluent Forms
+# Accepting Payments
 
 Turn any form into a checkout. **Fluent Forms** lets you collect one-time payments, subscriptions, and donations right inside your forms — no separate cart or extra plugin required. Add payment fields, connect your favorite gateway, and watch the revenue roll in while you track every transaction in one place. This page walks you through the whole payment journey.
 

@@ -1,4 +1,4 @@
-# How to Integrate Mailchimp with Fluent Forms
+# How to Integrate Mailchimp
 
 Integrating [Mailchimp](https://mailchimp.com/) with **Fluent Forms** helps you automatically send a contact list from your WordPress website to your Mailchimp account when a form is submitted.
 

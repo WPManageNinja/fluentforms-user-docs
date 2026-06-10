@@ -1,4 +1,4 @@
-# Custom Submit Button in Fluent Forms
+# Custom Submit Button
 
 Want to use a special **Submit** button on your Fluent Form? It's simple! This field allows you to replace the **Default Submit Button** with a **Custom Submit Button** for better control over **positioning, styling,** and [conditional logic](/set-up-forms-with-conditional-logic-in-fluent-forms).
 

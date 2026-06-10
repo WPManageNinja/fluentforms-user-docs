@@ -1,4 +1,4 @@
-# Notifications & Confirmations in Fluent Forms
+# Notifications & Confirmations
 
 What happens right after someone hits submit matters just as much as the form itself. **Fluent Forms** lets you email the right people instantly and show users a clear, reassuring confirmation — so no lead slips through and every visitor knows their message landed. This page covers both sides: the emails your team receives and the messages your users see.
 

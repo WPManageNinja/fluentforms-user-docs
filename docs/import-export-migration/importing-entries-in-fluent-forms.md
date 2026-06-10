@@ -1,4 +1,4 @@
-# Importing Entries in Fluent Forms
+# Importing Entries
 
 Fluent Forms offers an impressive **Import Entries** feature that allows users to import form entries directly in **JSON** and **CSV** formats. This functionality helps manage up-to-date data by enabling bulk entry uploads.
 

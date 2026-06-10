@@ -1,4 +1,4 @@
-# HubSpot Integration with Fluent Forms
+# HubSpot Integration
 
 Fluent Forms integrates with **HubSpot** so form submissions can create or update HubSpot contacts and add them to your lists automatically.
 

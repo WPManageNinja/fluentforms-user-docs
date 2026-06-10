@@ -1,4 +1,4 @@
-# Visual Representation of Form Entries in Fluent Forms
+# Visual Representation of Form Entries
 
 Fluent Forms provides visual representation for form entries through **Pie Charts**, **Bar Charts**, and **Column Charts**, enabling users to analyze and print reports. For site-wide submission volume and status trends, see [Submission Reports](/submission-reports). 
 

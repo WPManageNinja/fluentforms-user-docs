@@ -1,4 +1,4 @@
-# Dedicated Landing Page in Fluent Forms
+# Dedicated Landing Page
 
 Fluent Forms lets you create standalone landing pages for campaigns, lead generation, surveys, and events. With a **dedicated landing page**, your form is the main focus without site distractions.
 

@@ -1,4 +1,4 @@
-# Multiple Choice Field in Fluent Forms
+# Multiple Choice Field
 
 The **Multiple Choice Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform/) allows users to select one or multiple answers from a predefined list of options. This field is commonly used for surveys, quizzes, product selection, and other cases where multiple answers may be valid.
 

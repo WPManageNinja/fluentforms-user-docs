@@ -1,4 +1,4 @@
-# FluentBooking Field in Fluent Form
+# FluentBooking Field
 
 [FluentBooking](https://fluentbooking.com/) is a powerful plugin for managing appointments, meetings, webinars, events, and sales calls. When integrated with **Fluent Forms**, users can easily schedule and collect necessary booking information.
 

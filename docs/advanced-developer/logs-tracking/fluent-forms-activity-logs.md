@@ -1,4 +1,4 @@
-# Fluent Forms Activity Logs
+# Activity Logs
 
 The **Activity** **Logs** feature keeps a record of actions performed in all your forms created through Fluent Forms in one place, making it easier to find information about specific actions without visiting each Form entry individually. This article will give you a quick overview of the **Activity Logs** in **Fluent Forms**.
 

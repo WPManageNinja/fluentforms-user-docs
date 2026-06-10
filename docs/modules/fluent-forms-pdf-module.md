@@ -1,4 +1,4 @@
-# Fluent Forms PDF Module
+# PDF Module
 
 The PDF Module in Fluent Form is an amazing feature that allows you to export form entries as **PDF** files. It is easy to save, share, and manage submissions. 
 

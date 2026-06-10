@@ -1,4 +1,4 @@
-# Spam Protection With Honeypot and Google reCAPTCHA in Fluent Forms
+# Spam Protection With Honeypot and Google reCAPTCHA
 
 **Fluent Forms** offers **Honeypot Security** and **reCAPTCHA** to protect your form entries from spambots and keep your contact lists spam-free. This article will guide you through the process of **Spam Protection** using **Honeypot** **Security** and **reCAPTCHA**.
 

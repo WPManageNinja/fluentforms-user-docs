@@ -1,4 +1,4 @@
-# Ratings Input Field in Fluent Forms
+# Ratings Input Field
 
 The **rating** input field in Fluent Forms allows users to provide feedback quickly, making it a great fit for [surveys and polls](/surveys-and-polls-in-fluent-forms). By default, the field includes five rating levels: **Nice, Good, Very Good, Awesome, and Amazing**. You can customize and add more rating options as needed.
 

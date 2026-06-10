@@ -1,4 +1,4 @@
-# OnePageCRM Integration with Fluent Forms
+# OnePageCRM Integration
 
 Integrating OnePageCRM with Fluent Forms helps automate your business growth by managing leads and customer actions smoothly. This article guides you through integrating OnepageCRM with Fluent Forms on your WordPress SIte.
 
