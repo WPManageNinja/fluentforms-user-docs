@@ -24,8 +24,6 @@ Once you enable Airtable, you will be asked for the **Airtable Access Token** of
 
 ### Getting the Airtable Access Token
 
-To learn how to get the  **Airtable Access Token**, follow the steps with screenshots below –
-
 First, log in to your [Airtable Account](https://airtable.com/login), go to the **Profile** **Menu** from the top right corner, and click the **Builder Hub** button. 
 
 ![Profile Builder Hub Option](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/3.-Profile-Builder-Hub-option-scaled.webp)
@@ -36,11 +34,11 @@ Now, open the **Personal Access tokens** under the **Developers** tab and click 
 
 Now, provide a **Name** for your token. Then, add the following **Scopes** by clicking the **+ Add a scope** button.
 
-- Data.records:read
+- **Data.records:read**
 
-- Data.records:write
+- **Data.records:write**
 
-- schema.bases:read)
+- **schema.bases:read**
 
 Also, select the workspace where you want to add from the **Access** section by clicking the **+ Add a base** button. Once you are done, click the **Create token** button.
 
@@ -67,7 +65,7 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrating Airtable with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Airtable,** and click the **Settings** button. 
+Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Airtable,** and click the **Settings** button. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
@@ -105,6 +103,7 @@ Once the setup is done, click the **Save Feed** button, and your Airtable will b
 After successful Integration, you will now see that your **Airtable Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. 
+
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Added Airtable Integration Feed](/images/integrations/other-apps/how-to-integrate-airtable-with-fluent-forms/13.-Added-Airtable-Integration-Feed-scaled.webp)

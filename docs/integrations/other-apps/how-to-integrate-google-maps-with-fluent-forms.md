@@ -15,8 +15,6 @@ Once you are on the **Google Maps Integration Settings,** you will be asked for 
 
 ### Getting the Google Map API Key
 
-To learn how to get the Google Map API Key from Google, follow the steps with screenshots below –
-
 First, go to your [Google Cloud Console](https://console.cloud.google.com/) and select an existing project you want to connect with **Fluent Forms** by clicking the **drop-down** **box** in the top left corner.
 
 ![My Project Fluent Forms](/images/integrations/other-apps/how-to-integrate-google-maps-with-fluent-forms/2.-My-Project-scaled.webp)
@@ -96,11 +94,11 @@ Simply **enable** it by checking the **Enable Autocomplete (Google API)** box, a
 
 **3. Auto Locate**: Using this option, you can define how you want to display the user’s location if someone accesses the form. Three options are available here: Page Load, On Click & Disable. 
 
-- Page Load: When you choose this option, the moment the page loads, the user’s location will be immediately detected.
+- **Page Load:** When you choose this option, the moment the page loads, the user’s location will be immediately detected.
 
-- On Click: If you choose this option, a Click Icon will be next to the Address box. Users’ location will start to be located once they click on that icon.
+- **On Click:** If you choose this option, a Click Icon will be next to the Address box. Users’ location will start to be located once they click on that icon.
 
-- Disable: You can select this option if you want to disable the Auto Locate option.
+- **Disable:** You can select this option if you want to disable the Auto Locate option.
 
 ![Input Customization Tab Address Field](/images/integrations/other-apps/how-to-integrate-google-maps-with-fluent-forms/14.-Input-Customization-tab-of-Address-field-scaled.webp)
 
@@ -112,7 +110,7 @@ To embed and display the form in the front end, **copy** the **Shortcode** from 
 
 ![Save Integrate Google Maps](/images/integrations/other-apps/how-to-integrate-google-maps-with-fluent-forms/15.-Save-Form-scaled.webp)
 
-## Preview of Integrated Google Maps
+### Preview of Integrated Google Maps
 
 Here, you can see the preview of the integrated Google Maps through the Form Entry based on the Integration.
 

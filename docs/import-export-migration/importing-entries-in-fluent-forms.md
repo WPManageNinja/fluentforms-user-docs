@@ -6,7 +6,11 @@ This article will guide you through how you can Import Entries to your WordPress
 
 ## Accessing the Import Entries
 
+<<<<<<< HEAD
 First, navigate to the **Fluent** **Forms** [**Tools**](/docs/fluent-forms-user-interface) section from the top menu. Then, select **Import** **Entries** from the left sidebar. It will open the import options.
+=======
+First, navigate to the **Fluent Forms Tools** section from the top menu. Then, select **Import Entries** from the left sidebar. It will open the import options.
+>>>>>>> tajulauthlab
 
 Alternatively, you can import data from an individual form's [**Entries**](/docs/managing-entries-in-fluent-forms) page section.
 
@@ -18,13 +22,13 @@ In the **Import Entries** section, Select the **Form** where you want to add ent
 
 Now, use the **Select Form** field dropdown to choose the target form. Next, choose the **File Type** (JSON or CSV) and upload the file from your local storage by clicking the **Choose File** options under the **Select File** option. 
 
-Once the form is selected or uploaded, click the **Next** **(Map Columns)** button.
+Once the form is selected or uploaded, click the **Next (Map Columns)** button.
 
 ![Select Importing Entries](/images/import-export-migration/importing-entries-in-fluent-forms/select-form-02-scaled.webp)
 
 ### CSV File Import
 
-If you import entries from a **CSV file**, select the **CSV** option in **File Type** and upload the CSV file to your local storage with the **Select** **File** option.
+If you import entries from a **CSV file**, select the **CSV** option in **File Type** and upload the CSV file to your local storage with the **Select File** option.
 
 Then, Choose the **CSV Delimiter** (Comma or Semicolon) from the dropdown options to match your file format. If unsure, use the **Auto Guess** option for automatic detection.
 

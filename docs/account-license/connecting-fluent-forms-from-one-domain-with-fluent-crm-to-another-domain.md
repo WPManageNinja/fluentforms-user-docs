@@ -18,13 +18,13 @@ Then click on **Create Webhook** to make a new WebHook.
 
 A popup will appear. Now you will fill in the **fields** details-
 
-- Name: Assign a descriptive name for the WebHook.
+- **Name:** Assign a descriptive name for the WebHook.
 
-- List: Select a subscriber list where the leads will be added.
+- **List:** Select a subscriber list where the leads will be added.
 
-- Tags: Assign tags to categorize these leads.
+- **Tags:** Assign tags to categorize these leads.
 
-- Status: Set the WebHook status to Active.
+- **Status:** Set the WebHook status to Active.
 
 After That, click on the **Create** button like the example given below. This is how the **WebHook** gets generated.
 
@@ -72,6 +72,7 @@ After completing all the fields, click the **Save Feed** button to save the setu
 
 ![Webhook Settings](/images/account-license/connecting-fluent-forms-from-one-domain-with-fluent-crm-to-another-domain/WebHook-Settings-07-scaled.webp)
 
+> [!Note]
 > Make sure the second domain doesn’t have FluentCRM installed.
 
 Now, enter test data in the form on the source domain and **submit** it.

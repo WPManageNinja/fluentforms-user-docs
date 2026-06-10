@@ -4,13 +4,12 @@ The Fluent Forms Global Inventory Manager feature allows you to track and manage
 
 Suppose you’re selling a **limited number of Bus tickets**. You can manage the inventory across different forms for stock accuracy. Once tickets sell out, a message can be displayed to users.
 
+> [!Note]
 > Before using the Global Inventory Manager, you must activate the Inventory Module in Fluent Forms.
 
-### Enabling the Inventory Module
+## Enabling the Inventory Module
 
-To learn how to enable the Inventory Module, follow the steps with the screenshots below. 
-
-First, go to **Integrations** from the Fluent Forms Navbar, search for **Inventory Module** through the search bar, and get the **inventory module**.
+To enable the inventory module, go to **Integrations** from the Fluent Forms Navbar, search for **Inventory Module** through the search bar, and get the **inventory module**.
 
 Now, turn on the **Toggle** to enable the **Inventory** module.
 

@@ -6,13 +6,9 @@ This guide will show you how to export an entry as a PDF with no hassle.
 
 ## Install and Activate the PDF Generator Plugin
 
-You need to install the **Fluent Forms PDF Generator** extension to enable the PDF export feature.
+Install the **Fluent Forms PDF Generator** extension to enable PDF export.
 
-First, navigate to your WordPress Dashboard, go to **Plugins**, and click **Add New Plugin**. Here, search for the **Fluent Forms PDF generator**. 
-
-Now, install and activate the plugin on your website. A new tab ( Fluent Forms PDF) will be added to the modules section.
-
-It will automatically install the add-on from **wp.org**.
+In your WordPress dashboard, go to **Plugins**, click **Add New Plugin**, and search for **Fluent Forms PDF Generator**. Install and activate the plugin. A **Fluent Forms PDF** tab appears in the modules section. The extension installs from WordPress.org automatically.
 
 ![PDF Generator Plugin](/images/modules/fluent-forms-pdf-module/pdf-generator-plugin-01-scaled.webp)
 
@@ -22,6 +18,7 @@ After activating the PDF generator plugin, click the **Integration** section fro
 
 Wait for the installation to complete. A success message will confirm the setup.
 
+> [!Note]
 > Do not close the window until the installation finishes.
 
 ![PDF Module Integration](/images/modules/fluent-forms-pdf-module/PDF-module-integration-02-scaled.webp)
@@ -51,19 +48,21 @@ Now click on **PDF Feeds** from the left sidebar. Then click the **Add PDF Feed*
 
 ![Enable PDF Settings Fluent Forms PDF Module](/images/modules/fluent-forms-pdf-module/enable-PDF-Settings-06-1-scaled.webp)
 
-### Customizing the PDF Feed
+## Customizing the PDF Feed
 
 A popup will appear asking you to choose a **PDF Template**. Select the available template.
 
 ![Select PDF Template Fluent Forms PDF Module](/images/modules/fluent-forms-pdf-module/Select-a-PDf-Template-07-scaled.webp)
 
-#### PDF Content
+### PDF Content
 
 **A. Feed Title:** Set the feed title for the PDF Feed. Also, add a shortcode from the dropdown options on the right side.
 
 **B. Header Content:** Enter the header custom text here. You can also **Add Shortcode** here. 
 
-**C. PDF Body Content:** This section allows you to design the main content of your PDF. For example, using **{all_data}** will include all submitted form data in the PDF. You can also click the **Add Shortcode** button to insert dynamic content using shortcodes. This enables you to format your content precisely, creating clean, well-organized, and dynamic PDFs that display your form data exactly as needed.
+**C. PDF Body Content:** This section allows you to design the main content of your PDF. 
+
+For example, using **{all_data}** will include all submitted form data in the PDF. You can also click the **Add Shortcode** button to insert dynamic content using shortcodes. This enables you to format your content precisely, creating clean, well-organized, and dynamic PDFs that display your form data exactly as needed.
 
 Fluent Forms also provides an HTML editor for full control over the PDF layout and design. Click the **Code** view to access it. 
 
@@ -75,7 +74,7 @@ Fluent Forms also provides an HTML editor for full control over the PDF layout a
 
 ![Fluent Forms PDF Module step](/images/modules/fluent-forms-pdf-module/3333-scaled.webp)
 
-#### Appearance
+### Appearance
 
 You can override the PDF appearance you have set up globally from the Appearance tab. 
 
@@ -125,7 +124,9 @@ From here, you will see the Download option for your PDF Feed preview. Then clic
 
 To learn how to add PDF Feed into Admin/User Email for a specific Form, follow the steps with the screenshots below –
 
-To automatically send form entries as PDFs in emails, navigate to **Email Notifications Settings** for your form. Scroll down to **PDF Attachments** (above the Advanced tab). Then, select the **PDF feed** you want to attach to emails. It ensures users receive a **PDF version of their form submission** via email.
+To automatically send form entries as PDFs in emails, navigate to **Email Notifications Settings** for your form. Scroll down to **PDF Attachments** (above the Advanced tab). 
+
+Then, select the **PDF feed** you want to attach to emails. It ensures users receive a **PDF version of their form submission** via email.
 
 When a user submits the form, this PDF Feed will be sent to the **Admin Email**.
 

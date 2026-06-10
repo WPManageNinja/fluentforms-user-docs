@@ -1,140 +1,157 @@
 # HubSpot Integration with Fluent Forms
 
-Fluent Form integrates with Hubspot, a popular marketing automation tool that helps you collect customer information and automatically adds it to your Hubspot list through Fluent Forms submission.
+Fluent Forms integrates with **HubSpot** so form submissions can create or update HubSpot contacts and add them to your lists automatically.
 
-This article will guide you through integrating Hubspot with Fluent Forms on your WordPress Site.
-
-> [!Note]
-> **Hubspot** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
-
-## Enable Hubspot Integration
-
-First, go to **Integrations** from the Fluent Forms Navbar, search for **Hubspot** through the search bar, and get the **Hubspot** integration module.
-
-Turn on the Hubspot **Enabled** button and now you will see the Hubspot’s **Settings Icon** on the right side, click on it.
-
-![Enable Hubspot Integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/enable-hubspot-integration-01-scaled.webp)
-
-Once you enable Hubspot, you will be asked for the **Hubspot Access token**.
-
-![Hubspot Access Token](/images/integrations/crm/hubspot-integration-with-fluent-forms/hubspot-access-token-02-scaled.webp)
-
-## Get the Hubspot Access Token
-
-To learn how to get the Hubspot Access Token from Hubspot, follow the steps below – 
-
-First, log in to your [HubSpot Account](https://www.hubspot.com/), click on the **Settings Icon** in the upper right corner, then click **Legacy Apps** from the left sidebar under the **Integration** sections.
-
-![Leggacy App](/images/integrations/crm/hubspot-integration-with-fluent-forms/leggacy-app-01-scaled.webp)
-
-Next, click on the **Create** button.
-
-![Create App](/images/integrations/crm/hubspot-integration-with-fluent-forms/Create-App-02-scaled.webp)
-
-Here, a new pop-up will appear. Now, select the **Private** option to create an account.
-
-![Select Private HubSpot Integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/select-private-03.webp)
-
-After selecting Private, you will be taken to a page with the options **Basic info** and **Scopes**.
-
-#### Basic Info
-
-In the basic info, you can enter any **Name** you wish in the Basic info. The **Name** will appear in your private apps. Here I entered **Fluent Forms**.
-
-![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/401-scaled.webp)
-
-#### Scopes
-
-Now, navigate to the **Scopes** tab and click the **Add new scope** button to add a CRM contact.
-
-![Unnamed Fluent Forms](/images/integrations/crm/hubspot-integration-with-fluent-forms/unnamed.png)
-
-A pop-up will appear. Select the **crm.objects.contacts.read** and **crm.objects.contacts.write** checkboxes. Click the **Update** button to save it.
-
-![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/2.png)
-
-Now, click the **Create app** button in the top right corner.
-
-![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/3.png)
-
-A pop-up will also appear. Now, click the **Continue creating** button.
-
-![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/4.png)
-
-A new window will appear. Select **Auth** and copy the **Access Token**, as you’ll need it in the next step.
-
-![Copy Access Token](/images/integrations/crm/hubspot-integration-with-fluent-forms/Copy-access-token-04-scaled.webp)
-
-## Connect Hubspot with Fluent Forms
-
-Then, return to the **Hubspot Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
-
-Now, paste the **HubSpot Access Token** here and click on the **Save Settings** button.
-
-![Hubspot API Access Token](/images/integrations/crm/hubspot-integration-with-fluent-forms/hubspot-api-access-token-10-scaled.webp)
-
-Here you will see a success notice that shows the Hubspot Access Token has been verified successfully.
-
-You can also **Disconnect** Hubspot API here by clicking the **Disconnect Hubspot** button.
-
-![Dissconnected Hubspot](/images/integrations/crm/hubspot-integration-with-fluent-forms/dissconnected-hubspot-11-scaled.webp)
-
-## Configure the Form with Hubspot
-
-After setting up the Access Token, go to **All Forms** and select the form you want to integrate with the HubSpot account or create a new One.
+This guide covers enabling the integration, creating a HubSpot private app, connecting your access token, and configuring a form feed.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
+> **HubSpot** integration requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
 
-![Settings Y HubSpot Integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/Forms-Fluent-settings-y-scaled.webp)
+## Enable HubSpot Integration
 
-Now, go to the particular form’s settings for the entries you want listed in **HubSpot**. Click on **Add New Integration** and select **HubSpot Integration** from the dropdown options.
+Go to **Integrations** in the Fluent Forms navbar, search for **HubSpot**, and open the HubSpot integration module.
+
+Turn on the **Enabled** toggle, then click the **Settings** icon.
+
+![Enable HubSpot integration module](/images/integrations/crm/hubspot-integration-with-fluent-forms/enable-hubspot-integration-01-scaled.webp)
+
+After enabling HubSpot, you are prompted for a HubSpot **Access Token**.
+
+![HubSpot access token prompt](/images/integrations/crm/hubspot-integration-with-fluent-forms/hubspot-access-token-02-scaled.webp)
+
+## Get the HubSpot Access Token
+
+Log in to your [HubSpot account](https://www.hubspot.com/), click the **Settings** icon in the upper right, then open **Legacy Apps** under **Integrations**.
+
+![HubSpot Legacy Apps settings](/images/integrations/crm/hubspot-integration-with-fluent-forms/hubspot-setting-2-scaled.webp)
+
+Click **Create**.
+
+![Create a HubSpot legacy app](/images/integrations/crm/hubspot-integration-with-fluent-forms/create-legacy-app-3-scaled.webp)
+
+In the pop-up, select **Private**.
+
+![Select Private app type](/images/integrations/crm/hubspot-integration-with-fluent-forms/private-4.webp)
+
+Click **Continue with the legacy private app**.
+
+![Continue with legacy private app](/images/integrations/crm/hubspot-integration-with-fluent-forms/create-leggacy-app-5-1-scaled.webp)
+
+You are taken to a page with **Basic Info** and **Scopes**.
+
+### Basic Info
+
+Enter a **Name** for the private app (for example, *Fluent Forms*).
+
+![HubSpot app basic info](/images/integrations/crm/hubspot-integration-with-fluent-forms/create-app-6-scaled.webp)
+
+### Scopes
+
+Open the **Scopes** tab and click **Add new scope**.
+
+![Add new HubSpot scopes](/images/integrations/crm/hubspot-integration-with-fluent-forms/add-new-scopes-7-scaled.webp)
+
+Select these contact scopes:
+
+- `crm.objects.contacts.read`
+- `crm.objects.contacts.write`
+- `crm.schemas.contacts.read`
+
+![HubSpot CRM contact scopes](/images/integrations/crm/hubspot-integration-with-fluent-forms/add-crm-scope-8-scaled.webp)
+
+![HubSpot CRM schemas scope](/images/integrations/crm/hubspot-integration-with-fluent-forms/crm-schemas-scaled.webp)
+
+For list syncing, also add:
+
+- `crm.lists.read`
+- `crm.lists.write`
+
+![HubSpot CRM lists scopes](/images/integrations/crm/hubspot-integration-with-fluent-forms/crm-lists-scaled.webp)
+
+Click **Create app** in the top right.
+
+![Create HubSpot app](/images/integrations/crm/hubspot-integration-with-fluent-forms/create-app-scaled.webp)
+
+In the confirmation pop-up, click **Continue creating**.
+
+![Continue creating HubSpot app](/images/integrations/crm/hubspot-integration-with-fluent-forms/continue-creating-scaled.webp)
+
+Open **Auth** and copy the **Access Token**.
+
+![Copy HubSpot access token](/images/integrations/crm/hubspot-integration-with-fluent-forms/access-token-scaled.webp)
+
+### Connect HubSpot with Fluent Forms
+
+Return to **HubSpot Settings** under **Configure Integration** in Fluent Forms global settings.
+
+Paste the **HubSpot Access Token** and click **Save Settings**.
+
+![Paste HubSpot API access token](/images/integrations/crm/hubspot-integration-with-fluent-forms/hubspot-api-access-token-10-scaled.webp)
+
+A success notice confirms the token is verified. You can disconnect HubSpot anytime with **Disconnect HubSpot**.
+
+![Disconnect HubSpot integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/dissconnected-hubspot-11-scaled.webp)
+
+## Configure the Form with HubSpot
+
+Go to **All Forms** and open the form you want to connect, or create a new one.
 
 > [!Note]
-> Use **static HubSpot lists** to sync submissions. **Active lists** are not supported in Fluent Forms.
+> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
-![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/41.webp)
+![Open form settings for HubSpot integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/Forms-Fluent-settings-y-scaled.webp)
 
-## Configure Hubspot Integration Feed
+In the form's **Settings & Integrations**, click **Add New Integration** and select **HubSpot Integration**.
+
+> [!Note]
+> You need a static HubSpot list to sync submissions. In the Lists v3 flow, list membership updates work only with list types that support manual membership changes (**MANUAL** and **SNAPSHOT** lists). Dynamic or active lists do not work with Fluent Forms.
+
+![Add HubSpot integration to the form](/images/integrations/crm/hubspot-integration-with-fluent-forms/41.webp)
+
+## Configure HubSpot Integration Feed
 
 **A. Name:** Enter a unique feed name.
 
-**B. Hubspot list:** Dropdown to select the HubSpot mailing list where the data from the form will be sent.
+**B. HubSpot list:** Select the HubSpot list that receives form data.
 
-**C. Map Fields:** Use all the fields under this option to properly link your **Hubspot Fields** with the **Form Fields**. You can easily select the **value** for the **Form Fields** based on the **Hubspot fields** using the **Shortcode Arrow**. 
+**C. Map Fields:** Map HubSpot fields to form fields using the shortcode picker.
 
-**D. Other Fields:** Use the other field to add additional custom **Hubspot fields** to the **Form Fields**. Using the shortcode arrow, you can easily select the **value** for the **Form Fields** based on the **Hubspot fields**. 
+**D. Other Fields:** Add extra custom HubSpot fields. Click the **Plus** icon to add more mappings.
 
-Also, you can add multiple field values by clicking the **Plus Icon**.
+**E. Conditional Logic:** Run the integration only when specific conditions are met. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
+<<<<<<< HEAD
 **E. Conditional Logic:** If you want to allow Hubspot integration conditionally based on your submission values then **Enable Conditional Logic** options. To know more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+=======
+**F. Update:** Enable **Contact Update** to update existing HubSpot contacts with new form data.
+>>>>>>> tajulauthlab
 
-**F. Update:** You can **Enable Contact Update** options. It helps to update existing HubSpot contacts with new data from the form.
+**G. Status:** Enable the feed to activate the integration.
 
-**G. Status:** **Enable This Feed** option to activate the integration.
+Click **Save Feed**.
 
-Once the setup is complete, click the **Save Feed** button.
+![Configure HubSpot integration feed](/images/integrations/crm/hubspot-integration-with-fluent-forms/hubspot-feed.webp)
 
-Your Hubspot will be integrated into this specific form!
+After saving, your HubSpot feed appears in the integrations list. Edit it with the **Settings** icon, delete it with the **Trash** icon, or toggle it on or off as needed.
 
-![Hubspot Feed Fluent Forms](/images/integrations/crm/hubspot-integration-with-fluent-forms/hubspot-feed.webp)
+![Saved HubSpot integration feed](/images/integrations/crm/hubspot-integration-with-fluent-forms/14-1-scaled.webp)
 
-After successful Integration, you will see your Hubspot integration Feed has been added here. 
+### Legacy Feed Migration Note
 
-Now you can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**.  Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
+If you configured HubSpot feeds before the CRM v3 and Lists v3 update, Fluent Forms tries to migrate the old list ID automatically.
 
-![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/14-1-scaled.webp)
+If the old list ID cannot be mapped to a Lists v3 ID, open the feed, re-select the HubSpot list manually, and save again.
 
-### Preview of Integrated Drip
+## Preview of Integrated HubSpot
 
-Here, you can see a preview of the added Hubspot contacts through the Form entries that I set up during the integration.
+View form submissions in the form's **Entries** section.
 
+<<<<<<< HEAD
 You can see the form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/docs/managing-entries-in-fluent-forms).
+=======
+![Form entries after HubSpot integration](/images/integrations/crm/hubspot-integration-with-fluent-forms/15-scaled.webp)
+>>>>>>> tajulauthlab
 
-![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/15-scaled.webp)
+In HubSpot, open **CRM → Contacts** to see contacts added to your integrated list.
 
-Go to the Hubspot accounts **CRM** section from the left sidebar and click the **Contacts** button to view contacts on the selected list you integrated into Fluent Forms.
-
-![HubSpot Integration step](/images/integrations/crm/hubspot-integration-with-fluent-forms/16-1-scaled.webp)
-
-Following these simple steps, you can easily integrate Hubspot with Fluent Forms.
+![HubSpot contacts from Fluent Forms submissions](/images/integrations/crm/hubspot-integration-with-fluent-forms/hubspot-contact-14-scaled.webp)

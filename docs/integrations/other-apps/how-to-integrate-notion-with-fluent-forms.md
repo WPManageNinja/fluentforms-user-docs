@@ -7,7 +7,9 @@ Integrating [Notion](http://notion.com) with **Fluent Forms** allows you to auto
 
 ## Enabling Notion Integration
 
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Notion** through the search bar, and get the **Notion** integration module. Now, turn on the **Toggle** to enable the **Notion** module, and click the **Settings Icon** on the right side. 
+First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Notion** through the search bar, and get the **Notion** integration module. 
+
+Now, turn on the **Toggle** to enable the **Notion** module, and click the **Settings Icon** on the right side. 
 
 ![Enable Notion Integrate Notion](/images/integrations/other-apps/how-to-integrate-notion-with-fluent-forms/1.-Enable-Notion-scaled.webp)
 
@@ -38,7 +40,7 @@ Now, a pop-up will come with the **Access Code** of Notion and a picture showing
 
 ## Connecting Notion with Fluent Forms
 
-Return to the **Notion Integration** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **Notion Integration** page under the **Configure Integrations** tab of the **Global Settings** section from the fluent forms navbar. 
 
 Now, paste the **Code** you copied from **Notion** into the **Access Code** field.
 Finally, press the **Verify Notion** button to make your **Notion Integration** module functional. 
@@ -67,7 +69,11 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-2. **Notion Database:** Using the Arrow Icon, you can select the Notion Database where you want to add your form submission information. You can also change this anytime if needed.Once you select the database, all the columns from your chosen Notion Database will appear here as fields (e.g., you can see the Email, Country, and Name fields). Now, use all the fields under this option to properly link your Notion Databases with the Form Fields. You can easily select the value for the form fields based on the Notion fields using the Shortcode Arrow.
+2. **Notion Database:** Using the Arrow Icon, you can select the Notion Database where you want to add your form submission information. You can also change this anytime if needed.
+
+Once you select the database, all the columns from your chosen Notion Database will appear here as fields (e.g., you can see the Email, Country, and Name fields). 
+
+Now, use all the fields under this option to properly link your Notion Databases with the Form Fields. You can easily select the value for the form fields based on the Notion fields using the **Shortcode Arrow**.
 
 3. **Conditional Logics:** This option allows Notion integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
@@ -93,7 +99,7 @@ Once you are done, click the **Save** **Form** button to save all your changes.
 
 ![Save Integrate Notion](/images/integrations/other-apps/how-to-integrate-notion-with-fluent-forms/12.-Save-Form-scaled.webp)
 
-## Preview of Integrated Notion
+### Preview of Integrated Notion
 
 Here, you can see the preview of the added Notion Contacts through the Form Entries based on the Integration.
 

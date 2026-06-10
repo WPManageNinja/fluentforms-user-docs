@@ -40,9 +40,7 @@ Once done, click the **Update Meta Box** button to create your custom meta box f
 
 ## Create a Post Form
 
-To add this Meta Field to your Fluent Forms Post Form, follow these steps: 
-
-First, navigate to **Forms** from the Fluent Forms Navbar, then click the **Add New Form** button.
+Navigate to **Forms** from the Fluent Forms Navbar, then click the **Add New Form** button.
 
 ![Add Using JetEngine Custom Fields](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields-with-fluent-forms/add-new-form-05-scaled.webp)
 

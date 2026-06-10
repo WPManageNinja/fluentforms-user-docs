@@ -28,7 +28,12 @@ Click the **Choose File** button to upload a Fluent Forms export file (.json) fr
 
 Before importing, you can check the **Apply default form style to imported forms** option to ensure the imported form matches your site's brand consistency instantly.
 
+<<<<<<< HEAD
 > If you want to learn more about the default form style template, read the [Official Form Styler of Fluent Forms](/docs/official-form-styler-of-fluent-forms) guide.
+=======
+> [!Note]
+> To learn more about **form style templates**, see [Official Form Styler of Fluent Forms](/docs/official-form-styler-of-fluent-forms).
+>>>>>>> tajulauthlab
 
 After selecting the file and configuring your options, click the **Import Forms** button.
 

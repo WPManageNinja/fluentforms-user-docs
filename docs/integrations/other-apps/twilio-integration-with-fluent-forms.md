@@ -63,15 +63,15 @@ Now, go to the particular form’s settings for the entries you want listed in *
 
 ### Configuring Twilio with Fluent Form
 
-**Name:** Enter the Field that specifies the name of the Twilio integration Feed.
+* **Name:** Enter the Field that specifies the name of the Twilio integration Feed.
 
-**To:** Enter the recipient’s phone number ( the user who submitted the form or a team member).
+* **To:** Enter the recipient’s phone number ( the user who submitted the form or a team member).
 
-**SMS Text:** Write the message you want to send. Use dynamic fields to personalize the SMS.
+* **SMS Text:** Write the message you want to send. Use dynamic fields to personalize the SMS.
 
-**Conditional Logic:** If you want to allow Twilio integration conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more about this conditional logic, read the [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+* **Conditional Logic:** If you want to allow Twilio integration conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more about this conditional logic, read the [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
-**Status:** Enable this feed option to activate the integration.
+* **Status:** Enable this feed option to activate the integration.
 
 Once the setup is done, finally, click the **Save Feed** button. Your Twilio will be integrated into this specific form!
 
@@ -83,7 +83,7 @@ You can modify your feed anytime by clicking the **Settings Icon** and **Delete*
 
 ![Success Twilio Integration](/images/integrations/other-apps/twilio-integration-with-fluent-forms/Success-twilio-integration-09-scaled.webp)
 
-## Preview of Integrated Twilio
+### Preview of Integrated Twilio
 
 Here, you can preview the added Twilio contacts through the Form entries that I set up during the integration.
 

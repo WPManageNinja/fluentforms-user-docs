@@ -11,9 +11,9 @@ Integrating [Gist](http://getgist.com) with **Fluent Forms** allows you to build
 
 ## Enable Gist Integration
 
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Gist** through the search bar, and get the **Gist** integration module.
+Go to **Integrations** from the **Fluent Forms Navbar**, search for **Gist** in the search bar, and open the **Gist** integration module.
 
-Now, turn on the **Toggle** to enable the **Gist**. Then, you will see the Gist’s **Settings Icon** on the right side, click on it.
+Turn on the **Toggle** to enable **Gist**, then click the **Settings Icon** on the right to open its configuration.
 
 ![Enabled Getgist Fluent Forms](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/1.-Enabled-GetGist-scaled.webp)
 
@@ -94,7 +94,7 @@ From the **Entries** section of this particular form, you can see four form subm
 
 Now, go to the **Contacts** section from the top navbar, and open the **Contacts** tab.
 
-And, you can see that the **users who submitted forms** in **Fluent Forms** are added automatically added in the selected **GetGist Contact List.** 
+And, you can see that the users who submitted forms in **Fluent Forms** are added automatically added in the selected **GetGist Contact List.** 
 
 ![Preview Added Contacts Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/10.-Preview-of-added-contacts-scaled.webp)
 

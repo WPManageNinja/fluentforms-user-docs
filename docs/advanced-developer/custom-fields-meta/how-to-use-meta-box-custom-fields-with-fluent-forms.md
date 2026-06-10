@@ -102,9 +102,7 @@ After all this is done, click the **Update** or **Publish** button.
 
 ## Enable Post/CPT Module
 
-To learn how to enable Post/CPT Module, follow the steps with the screenshots below – 
-
-First, go to **Integrations** from the Fluent Forms Navbar, search for **Post/CPT** through the search bar, and get the **Post/CPT** module.
+To enable post/cpt module, go to **Integrations** from the Fluent Forms Navbar, search for **Post/CPT** through the search bar, and get the **Post/CPT** module.
 
 Now, turn on the Hubspot **Enabled** button.
 
@@ -130,27 +128,22 @@ Or if you uncheck the **Allowed** button, it limits post submission to logged-in
 
 **Post Status:** In the post status section you can set the posts where it is saved. There are three options include-
 
-- Draft: Save submissions for manual review before publishing.
-
-- Publish: Automatically make posts live upon submission.
-
-- Pending Review: Requires admin approval before publication.
+   - **Draft:** Save submissions for manual review before publishing.
+   - **Publish:** Automatically make posts live upon submission.
+   - **Pending Review:** Requires admin approval before publication.
 
 **Comment Status:** Choose the comment Status dropdown options.
 
-- Open: Allows visitors to comment on the submitted post.
-
-- Closed: Disables comments for the post.
+   - **Open:** Allows visitors to comment on the submitted post.
+   - **Closed:** Disables comments for the post.
 
 **Post Format:** Based on the type of content, choose the post format, such as **Standard**, **Gallery**, or **Video**.
 
 **D. Post Fields Mapping:** Now, map the form fields to WordPress post fields (Post Title and Post Content).
 
-- Post Title: Input from the form field mapped to the post title.
-
-- Post Content: Main content submitted by the user.
-
-- Post Excerpt: Optional; used as a summary or teaser for the post.
+   - **Post Title:** Input from the form field mapped to the post title.
+   - **Post Content:** Main content submitted by the user.
+   - **Post Excerpt:** Optional; used as a summary or teaser for the post.
 
 Taxonomies (like tags or categories) and featured images will also map automatically if present in the form.
 

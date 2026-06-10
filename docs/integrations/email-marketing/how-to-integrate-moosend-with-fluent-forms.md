@@ -11,9 +11,9 @@ Integrating **MooSend** with **Fluent Forms** allows you to collect customer inf
 
 ### Enable MooSend Integration
 
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **MooSend** through the search bar, and get the **MooSend** integration module.
+Go to **Integrations** from the **Fluent Forms Navbar**, search for **MooSend** in the search bar, and open the **MooSend** integration module.
 
-Now, turn on the **Toggle** to enable the **MooSend**. Then, you will see the MooSend’s **Settings Icon** on the right side, click on it.
+Turn on the **Toggle** to enable **MooSend**, then click the **Settings Icon** on the right to open its configuration.
 
 ![Enabled Moosend Fluent Forms](/images/integrations/email-marketing/how-to-integrate-moosend-with-fluent-forms/1.-Enabled-Moosend-scaled.webp)
 
@@ -23,9 +23,8 @@ Once you enable MooSend, you will be asked for the **MooSend API Key** of your *
 
 ### Get the MooSend API Key
 
-To learn how to get the **MooSend API Key** from **MooSend**, follow the steps with screenshots below –
-
 First, log in to your [MooSend Account](https://app.getgist.com/users/sign_in) and go to **Settings** from the left sidebar. 
+
 Now, go to **Settings** from the top navbar by opening the **More** dropdown.
 
 ![Settings Video Integrate MooSend](/images/integrations/email-marketing/how-to-integrate-moosend-with-fluent-forms/3.-Settings-video-scaled.webp)
@@ -94,7 +93,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 ![Added Moosend Integration Feed](/images/integrations/email-marketing/how-to-integrate-moosend-with-fluent-forms/10.-Added-MooSend-Integration-Feed-scaled.webp)
 
-## Preview of Integrated MooSend
+### Preview of Integrated MooSend
 
 Here, you can see the preview of the added contacts of MooSend through the Form entries that I set up during the integration.
 

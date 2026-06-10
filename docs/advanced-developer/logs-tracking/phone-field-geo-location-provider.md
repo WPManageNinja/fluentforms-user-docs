@@ -16,7 +16,7 @@ Once logged in, navigate to the **Token** section in the left sidebar. Now, copy
 
 ### Configure GEO-Location Provider in Fluent Forms
 
-To configure GEO-Location, go to your **Fluent Forms** and click on **Global Settings**. Scroll down to the settings page until you find the **Geo-Location provider** option.
+To configure GEO-Location, go to your Fluent Forms and click on **Global Settings**. Scroll down to the settings page until you find the **Geo-Location provider** option.
 
 Now, paste the **Access Token** that you copied from the **IPinfo** account and click **Save Settings** to apply the GEO-location functionality.
 

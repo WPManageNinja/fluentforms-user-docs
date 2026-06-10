@@ -12,7 +12,7 @@ To begin, you must first deactivate the license from your existing domain. You c
 
 2. Next, select the License tab from the left-hand sidebar menu.
 
-3. On this screen, you will see your license status. Click the Deactivate License button to remove the license from this domain, as shown in the screenshot below.
+3. On this screen, you will see your license status. Click the **Deactivate License** button to remove the license from this domain, as shown in the screenshot below.
 
 ![Deactivate License Fluent Forms](/images/account-license/how-to-transfer-a-license-to-a-new-domain/deactivate-license-scaled.webp)
 

@@ -13,10 +13,9 @@ This article will guide you through integrating **Kit (Former ConvertKit)** with
 
 ## Enable ConvertKit Integration
 
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **ConvertKit** through the search bar, and get the **ConvertKit** integration module.
+Go to **Integrations** from the **Fluent Forms Navbar**, search for **ConvertKit** through the search bar, and get the **ConvertKit** integration module.
 
-Now, turn on the **Toggle** to enable the **ConvertKit**. 
-Then, you will see the ConvertKit’s **Settings Icon** on the right side, click on it.
+Now, turn on the **Toggle** to enable the **ConvertKit**. Then, you will see the ConvertKit’s **Settings Icon** on the right side, click on it.
 
 ![Enabled Convertkit Fluent Forms](/images/integrations/email-marketing/how-to-integrate-kit-former-convertkit-with-fluent-forms/1.-Enabled-ConvertKit-scaled.webp)
 
@@ -25,8 +24,6 @@ Once you enable ConvertKit, you will be asked for the **ConvertKit API Key** and
 ![Convertkit API Key And Secret Key](/images/integrations/email-marketing/how-to-integrate-kit-former-convertkit-with-fluent-forms/2.-ConvertKit-API-Key-and-Secret-Key-scaled.webp)
 
 ### Get the ConvertKit API URL and API Key
-
-To learn how to get the  **ConvertKit API URL** and **ConvertKit API Key** from **ConvertKit**, follow the steps with screenshots below –
 
 First, log in to your [ConvertKit Account](https://app.kit.com/users/login), go to the **Profile** **Menu** from the top right corner, and click the **Settings** button. 
 
@@ -92,6 +89,7 @@ And, your ConvertKit will be integrated into this specific form!
 After successful Integration, now you will see that your **ConvertKit Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. 
+
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![Added Converkit Integration Feed](/images/integrations/email-marketing/how-to-integrate-kit-former-convertkit-with-fluent-forms/10.-Added-ConverKit-Integration-feed-scaled.webp)

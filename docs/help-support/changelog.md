@@ -2,6 +2,68 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in **Fluent Forms**.
 
+## Fluent Forms v6.2.4
+
+_Released on May 25, 2026_
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added a notice when the Fluent Forms REST endpoints are unreachable so empty form and entry lists after an upgrade are easier to diagnose
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed conversational form pretty URLs rendering
+• Fixed Pretty URL toggle not persisting when disabled
+• Fixed multi-step form submit visibility and step-skip logic
+```
+
+:::
+
+## Fluent Forms v6.2.3
+
+_Released on May 21, 2026_
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added option group support for Dropdown and Multi-select fields
+• Added pinned column support in the entries table
+• Added new icon presets, SVG icon support, and active/inactive color options for the Ratings field
+• Added search to the form switcher in entries
+```
+
+```markdown [⚡ Improvements]
+• Improved keyboard navigation in the entries table
+• Improved accessibility for fixed columns and action buttons in entries
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed conditional logic settings not showing for custom fields in the editor
+• Fixed conditional logic not-equal check when the target field has no value
+• Fixed Name field layout when a sub-field has no label
+• Fixed text and list formatting differences between the editor and preview
+• Fixed AI form builder losing field hints for non-English prompts
+• Fixed missing submission date in Excel exports
+• Fixed garbled export filenames for forms with non-Latin titles
+• Fixed form import breaking confirmation and notification settings
+• Fixed the Find feature missing forms inside page builder popups
+• Fixed entries not sorting by actual submission date
+• Fixed form import corrupting custom CSS and JavaScript code
+• Fixed visual artifacts in the collapsed form settings sidebar
+• Fixed Global Settings sidebar collapse toggle not working on desktop
+• Fixed the Excel export option incorrectly labeled as xlsv
+• Fixed entry Next and Previous navigation breaking on sites that use a custom database table prefix
+• Fixed fatal error when a Textarea field receives an array value during submission processing
+• Fixed multi-word Google Fonts not loading in conversational forms
+• Fixed textdomain_just_in_time notice on WordPress 6.7 and later, including WP Staging staging environments
+• Fixed several strings that could not be translated on non-English admin sites
+• Fixed the Entries page label showing garbled text on German-language sites
+• Fixed confirmation redirect URL losing query-string values with encoded characters
+```
+
+:::
+
 ## Fluent Forms v6.2.2
 
 _Released on April 23, 2026_

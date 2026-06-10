@@ -1,105 +1,125 @@
 # Dropdown Field in Fluent Forms
 
-The **Dropdown Field** in Fluent Forms is a list-based input field where users can select one item from predefined options. This feature is ideal for selecting countries, categories, or other structured choices.
+The **Dropdown Field** is a list-based input where users select one option from predefined choices. Use it for countries, categories, product types, and other structured selections.
 
-This article will guide you through adding the **Dropdown input field** to **Fluent Forms** on your WordPress Site.
-
-<div class="youtube-embed">
-  <iframe src="https://www.youtube.com/embed/b_31Qs4klsg" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+This guide walks you through adding and customizing the **Dropdown** field in Fluent Forms.
 
 ## Adding Dropdown Field
 
 Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
 
+<<<<<<< HEAD
 ![Edit Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/edit-form-01-1-scaled.webp)
+=======
+> [!Note]
+> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+![Edit form to add Dropdown field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/edit-form-01-1-scaled.webp)
+>>>>>>> tajulauthlab
 
-Now, choose the desired **Dropdown** field by clicking or **dragging** and **dropping** it into your editor.
+On the **Editor** page, click the **Plus** icon and open **General Fields**. You can also find **General Fields** in the right sidebar under **Input Fields**.
 
-![Dropdown Field step](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/new-3-scaled.webp)
+Click or drag the **Dropdown** field into the editor.
+
+![Add Dropdown field to the form](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/new-3-scaled.webp)
 
 ## Customizing the Dropdown Field
 
-A dropdown field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil** icon to open **Input Customization**:
 
 - Dropdown Field Options
-
 - Advanced Options
 
-![Input Customization](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Input-Customization-03-1-scaled.webp)
+![Dropdown field customization panel](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Input-Customization-03-1-scaled.webp)
 
 ### Dropdown Field Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Dropdown** input field.
+**A. Element Label:** The field title users see on the form.
 
-**A. Element Label:** This is the field title users will see when filling out the **Dropdown** field in a form. You can enter any text here to help users understand the field's purpose.
+**B. Label Placement:** Set label position to **Top**, **Left**, **Right**, or **Default**.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**C. Admin Field Label:** A label shown only to admins when viewing submissions.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.   
+**D. Placeholder:** Hint text shown when no option is selected.
 
-**D. Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute. 
+**E. Options:** Manage dropdown choices:
 
-**E. Options:** Define the dropdown options:
+- Add items users can choose from
+- Set a default selection
+- Show values for admin reference
+- Drag to reorder options
+- Use the **Plus** icon to add options
 
-- **Create Options:** Add the items for users to choose from.
+**F. Show & Calc Value:** Display values and use them in calculations.
 
-- **Set Default Options:** Checkmark an option to set it as the default selection.
+**G. Bulk Edit / Predefined Data Sets:** Import predefined datasets (for example, countries or states) instead of adding each option manually.
 
-- **Show Values:** Display values for admin ease during submissions.
+**H. Shuffle the available options:** Randomize the option order for each visitor.
 
-- **Rearrange Options:** Drag and drop options to reorder them.
+**I. Enable Searchable Smart Options:** Add a search box for long dropdown lists.
 
-- **Add/Delete Options:** Use the Plus icon to add new options or insert options between existing ones.
+**J. Required:** Require a selection before submission.
 
+<<<<<<< HEAD
 **F. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform [numeric calculations](/docs/numeric-calculation-in-fluent-forms) using Show and Calc Values.
+=======
+![Dropdown field options settings](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/input-customization-1-scaled.webp)
+>>>>>>> tajulauthlab
 
-**G. Bulk Edit/Predefined Data Sets:** You can choose from a predefined data set for the dropdown field, so you don’t have to add each item manually.
+### Option Grouping
 
-You can also save time by importing predefined datasets instead of manually adding each option. (valid for dropdowns like countries or states.)
+**Option Grouping** organizes related choices under bold heading labels rendered as native HTML optgroup blocks on the frontend.
 
-**H. Shuffle the available options:** You can enable the shuffling of your dropdown list or select field options so that every user sees a randomized option.
+Under **Options**, turn on **Enable Option Grouping**. The flat options list becomes a grouped layout.
 
-**I. Enable Searchable Smart Options:** When you have a long dropdown list, you should give users the search option to select a field. Just enable the Searchable Smart options to allow users to search in dropdown fields. 
+#### Configure Groups and Options
 
-When this option is selected, a search option appears, allowing the user to search for the desired country list manually (e.g., by selecting a specific country from a country dropdown).
+- **Create New Option Group:** Add a new option category
+- **Group Label:** Enter the non-selectable heading text (for example, *Group 1*, *Group 2*)
+- **Manage Choices Inside Groups:** Use **+** to add entries, edit labels and values, or **−** to remove rows
+- **Reorder & Remove:** Drag to reorder groups or individual options. Use the trash icon to delete a group and all nested choices
 
-**J. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
+> [!Note]
+> Turning **Enable Option Grouping** off flattens your structure. Grouped choices merge into a single list and group header labels are dropped.
 
-![Basic Options](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Basic-options-04-2-scaled.webp)
+![Dropdown option grouping settings](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/input-customization-2-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+**A. Dynamic Default Value:** Pre-fill the field using shortcodes. See [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms).
 
+<<<<<<< HEAD
 **A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/docs/dynamic-default-value-in-fluent-forms) to better understand Dynamic Default values.
+=======
+**B. Container Class:** Custom CSS classes for the field wrapper.
+>>>>>>> tajulauthlab
 
-**B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**C. Element Class:** Custom CSS classes for the input field.
 
-**C. Element Class:** Add custom CSS classes to the input field.
+**D. Help Message:** Guidance text shown below the field.
 
-**D. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**E. Name Attribute:** The HTML name attribute. You usually do not need to change this.
 
-**E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**F. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
+<<<<<<< HEAD
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Advanced-options-05-3-scaled.webp)
+=======
+![Dropdown advanced options](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Advanced-options-05-3-scaled.webp)
+>>>>>>> tajulauthlab
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Click **Save Form**, then **Preview & Design** to preview your changes.
 
-To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
+Copy the form **Shortcode** and paste it into a **Page** or **Post**.
 
-![Save Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Save-Form-06-3-scaled.webp)
+![Save and embed the form](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Save-Form-06-3-scaled.webp)
 
-### Preview of Added Dropdown Field
+## Preview of Added Dropdown Field
 
-Here is the preview of the added **dropdown** field under the Form. 
+Here is a preview of the form with the **Dropdown** field.
 
-![Preview Dropdown Field](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Preview-07-1.webp)
-
-With these configurations, your Dropdown Field can capture precise numerical user data!
+![Dropdown field frontend preview](/images/form-fields/general-fields/dropdown-field-in-fluent-forms/Preview-07-1.webp)

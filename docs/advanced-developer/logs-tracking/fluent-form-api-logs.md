@@ -4,8 +4,6 @@ The **API Logs** feature stores all records related to API activities in your fo
 
 ## API Logs
 
-To learn where you can find the **API** **Logs** and their functionalities, follow the steps with Screenshots and GIFs below —
-
 > [!Note]
 > This list shows entry activity only when an **action** was recorded for that submission.
 
@@ -13,7 +11,7 @@ First, go to **Tools** from **WordPress Left Sidebar** or **Fluent Forms Navbar*
 
 ![Tools API Logs](/images/advanced-developer/logs-tracking/fluent-form-api-logs/1.-Tools-API-Logs-scaled.webp)
 
-### Filter Your API Logs
+## Filter Your API Logs
 
 However, if you want to see activities of a particular form or action, this page has four filtering options with dropdown lists to filter your forms. These are:
 

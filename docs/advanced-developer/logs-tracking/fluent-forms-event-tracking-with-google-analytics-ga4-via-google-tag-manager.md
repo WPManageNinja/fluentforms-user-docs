@@ -4,7 +4,12 @@
 
 This document applies to the latest Google Analytics: GA4.
 
+<<<<<<< HEAD
 > Notice: This method works for both classic and [conversational forms](/docs/how-to-create-a-conversational-form).
+=======
+> [!Note]
+> This method works for both classic and conversational forms.
+>>>>>>> tajulauthlab
 
 #### Overview
 
@@ -18,21 +23,21 @@ Knowing this is incredibly helpful because it helps you stop guessing. You can f
 
 With this setup, you can:
 
-- See the real problem: Find out if a lot of people are viewing a form but then giving up without submitting it.
+- **See the real problem:** Find out if a lot of people are viewing a form but then giving up without submitting it.
 
-- Make smart changes: Test new ideas, like removing a field or changing your "Submit" button's text, and see if it actually helps more people finish the form.
+- **Make smart changes**: Test new ideas, like removing a field or changing your "Submit" button's text, and see if it actually helps more people finish the form.
 
-- Get better results: Use what you learn to get more contacts, signups, or quotes from your website.
+- **Get better results:** Use what you learn to get more contacts, signups, or quotes from your website.
 
-##### How the Three Tools Work Together
+## How the Three Tools Work Together
 
 To make this happen, we use three tools that work together as a team:
 
-1. Fluent Forms: This is simply the form on your WordPress site. When someone sees the form or submits it, Fluent Forms sends out a little signal.
+1. **Fluent Forms:** This is simply the form on your WordPress site. When someone sees the form or submits it, Fluent Forms sends out a little signal.
 
-2. Google Tag Manager (GTM): Think of this as the helpful "middleman" or a post office. Its job is to catch those signals from Fluent Forms. It grabs the important information, like the form's name and the action (whether it was viewed or submitted).
+2. **Google Tag Manager (GTM):** Think of this as the helpful "middleman" or a post office. Its job is to catch those signals from Fluent Forms. It grabs the important information, like the form's name and the action (whether it was viewed or submitted).
 
-3. Google Analytics 4 (GA4): This is your main dashboard where you see all the results. GTM sends a neat, organized report over to GA4. This allows you to log in and easily see things like, "100 people saw the 'Request a Quote' form this week, and 10 people submitted it."
+3. **Google Analytics 4 (GA4):** This is your main dashboard where you see all the results. GTM sends a neat, organized report over to GA4. This allows you to log in and easily see things like, "100 people saw the 'Request a Quote' form this week, and 10 people submitted it."
 
 ![Tag Manager Fluent Forms](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/Tag-Manager.webp)
 
@@ -45,17 +50,18 @@ To make this happen, we use three tools that work together as a team:
 
 Types of Tags, Triggers, and Variables:
 
-- Tags: Custom HTML, GA4 Configuration
+- **Tags:** Custom HTML, GA4 Configuration
 
-- Triggers: Custom Event
+- **Triggers:** Custom Event
 
-- Variables: 2 Data Layer Variables, 1 JavaScript Variable
+- **Variables:** 2 Data Layer Variables, 1 JavaScript Variable
 
 A built-in variable [Event] will be used to identify the type of Fluent Forms events.
 
 ## 1. Creating Fluent Forms Variables
 
-> Variables are Data Types to define the properties and their values that come or are pushed from the website.
+> [!Note]
+> In Google Tag Manager, **variables** store values from your website (such as data layer properties) so tags and triggers can use them.
 
 First, navigate to the **Variables** tab in your Google Tag Manager workspace. From there, find the **User-Defined Variables** area and click the **New** button to create a new variable.
 
@@ -179,7 +185,8 @@ Now, after clicking on Save, you will see the Data Stream details, and now copy 
 
 Now, let’s get back to the last Tag we created. When the Google Analytics Setting is also selected, it is time to select the trigger, like we previously did for **Custom HTML**.
 
-> This time, select the Trigger we created previously, named FluentFormActivitiesEvent
+> [!Note]
+> Select the **FluentFormActivitiesEvent** trigger you created in the previous step.
 
 ![Google Tag Manager](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-4-97-scaled.webp)
 

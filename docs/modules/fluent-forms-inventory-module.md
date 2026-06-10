@@ -4,15 +4,14 @@ The **Inventory Module** in Fluent Forms allows you to manage your order forms a
 
 This article will guide you in creating a successful Inventory Module with fluent forms.
 
+> [!Note]
 > The Fluent Form Inventory Module is only available for the Fluent Form Pro version.
 
 ## Enabling the Inventory Module
 
-To learn how to enable the Inventory Module, follow the steps with the screenshots below. 
+Go to **Integrations** from the **Fluent Forms Navbar**, search for **Inventory Module** in the search bar, and open the **Inventory** module.
 
-First, go to **Integrations** from the Fluent Forms Navbar, search for **Inventory Module** through the search bar, and get the **inventory module**.
-
-Now, turn on the **Toggle** to enable the **Inventory** module.
+Turn on the **Toggle** to enable the **Inventory** module.
 
 ![Enable Module Fluent Forms Inventory Module](/images/modules/fluent-forms-inventory-module/enable-module-01-scaled.webp)
 

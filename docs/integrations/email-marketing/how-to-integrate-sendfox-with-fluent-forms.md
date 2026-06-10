@@ -19,9 +19,7 @@ Once you enable SendFox, you will be asked for the **SendFox API Key** of your *
 
 ### Get the SendFox API Key
 
-To learn how to get the **SendFox API Key** from **SendFox**, follow the steps with screenshots below –
-
-First, log in to your [SendFox Account](https://sendfox.com/login) and go to **Settings** from the left sidebar.
+Log in to your [SendFox Account](https://sendfox.com/login) and go to **Settings** from the left sidebar.
 
 Now, go to the top right corner, open the dropdown list by clicking the **Profile** button, and choose the **Settings** option.
 
@@ -94,7 +92,7 @@ You can modify your feed anytime by clicking the **Settings Icon** and delete it
 
 ![Added Sendfox Integration Feed](/images/integrations/email-marketing/how-to-integrate-sendfox-with-fluent-forms/13.-Added-SendFox-Integration-Feed-scaled.webp)
 
-## Preview of Integrated SendFox
+### Preview of Integrated SendFox
 
 Here, you can see the preview of the added contacts of SendFox through the Form entries that I set up during the integration.
 

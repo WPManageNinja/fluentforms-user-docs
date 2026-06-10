@@ -10,7 +10,7 @@ This article will guide you in creating a successful **Quiz Module** with fluent
 
 ## Activating the Quiz Module
 
-First, go to **the Fluent Forms** dashboard **Integration** sections from the top bar and enable the **Quiz Module** (available in Fluent Forms Pro).
+To activate the Quiz module, go to **the Fluent Forms** dashboard **Integration** sections from the top bar and enable the **Quiz Module** (available in Fluent Forms Pro).
 
 ![Enable Quiz Module Fluent Forms Quiz Module](/images/modules/fluent-forms-quiz-module/enable-quiz-module-01-scaled.webp)
 
@@ -43,9 +43,9 @@ To configure the quiz settings, navigate to the Form **Settings** options and cl
 
 **D. Grade System:** Define grade labels and set minimum and maximum ranges for each grade. Use the **"+"** and **"-"** buttons to add or remove grade levels.
 
-- Grade Label: Customizable grade labels such as A, B, C, D etc as you want.
+- **Grade Label:** Customizable grade labels such as A, B, C, D etc as you want.
 
-- Minimum Range / Maximum Range: You can set score ranges for each grade level.
+- **Minimum Range / Maximum Range:** You can set score ranges for each grade level.
 
 ![Grade System](/images/modules/fluent-forms-quiz-module/Grade-system-04-04-10-2025_05_58_PM-scaled.webp)
 
@@ -75,4 +75,4 @@ Point 13 means New York scored 10, and Dallas scored 03. (10+3=13)
 
 ![Advanced Scorin](/images/modules/fluent-forms-quiz-module/advanced-scorin-06-1.webp)
 
-So this is all about the Fluent Forms Quiz Module.
+

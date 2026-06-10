@@ -56,7 +56,7 @@ Then, return to the **iContact API Settings** page under the **Configure Integra
 
 Paste all the required information you copied from iContact into the respective fields (**Application ID** into **Application Key**, **Username/Email Address** into **Account Email Address**, **Password** into **API Password**, **Account ID**, and **Client Folder ID** fields).
 
-Finally, press the **Save Settings** button to make your **iContact Integration** module functional.
+Finally, click the **Save Settings** button to make your **iContact Integration** module functional.
 
 ![Paste All Copied Information](/images/integrations/email-marketing/how-to-integrate-icontact-with-fluent-forms/7.-Paste-all-copied-information-scaled.webp)
 
@@ -108,7 +108,7 @@ Also, you can disable or enable this feed anytime by turning off the **Toggle** 
 
 ![Added Icontact Integration Feed](/images/integrations/email-marketing/how-to-integrate-icontact-with-fluent-forms/12.-Added-iContact-Integration-Feed-1-scaled.webp)
 
-## Preview of Integrated iContact
+### Preview of Integrated iContact
 
 Here, you can see the preview of the added contacts of iContact through the Form entries that I set up during the integration.
 

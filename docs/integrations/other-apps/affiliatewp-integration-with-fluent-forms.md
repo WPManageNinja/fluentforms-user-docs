@@ -13,7 +13,7 @@ First, navigate to **Integrations** from the **Fluent Forms** Navbar, search for
 
 ![Enable AffiliateWP Integration](/images/integrations/other-apps/affiliatewp-integration-with-fluent-forms/enable-affiliatewp-integration-01-scaled.webp)
 
-### Enable Fluent Forms in AffiliateWP
+## Enable Fluent Forms in AffiliateWP
 
 Now, navigate to your WordPress dashboard and go to AffiliateWP. From the **AffiliateWP settings** under the **Integrations** **Tab**, enable the **Fluent** **Forms** option and click on the **Save** **Changes** button.
 
@@ -25,9 +25,9 @@ Now, go to the **AffiliateWP** Plugin from the left menu of the dashboard, and y
 
 ![Affiliates ID](/images/integrations/other-apps/affiliatewp-integration-with-fluent-forms/affiliates-id-04-scaled.webp)
 
-### Integrate AffiliateWP into Fluent Forms
+## Integrate AffiliateWP into Fluent Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your AffiliateWP, and click the **Settings** button. 
+Go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your AffiliateWP, and click the **Settings** button. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).

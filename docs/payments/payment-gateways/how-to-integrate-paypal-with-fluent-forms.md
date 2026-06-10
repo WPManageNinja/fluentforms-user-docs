@@ -1,6 +1,6 @@
 # How to Integrate PayPal with Fluent Forms
 
-[PayPal](http://paypal.com) is a payment processing platform that offers **Fluent Forms** to receive payments from your users securely. This article will guide you through integrating **PayPal** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
+[PayPal](http://paypal.com) is a payment processing platform that lets **Fluent Forms** receive payments from your users securely. This article will guide you through integrating **PayPal** into your **WordPress** site with the **Fluent Forms** plugin.
 
 > [!Note]
 > **PayPal** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/docs/upgrade-to-fluent-forms-pro-add-on).
@@ -15,67 +15,100 @@ Select **PayPal Standard**, then click **Enable PayPal Payment Method** to activ
 
 ## Configure PayPal with Fluent Forms
 
-Once you enable the **PayPal**, all the required settings will appear to configure the PayPal with Fluent Forms. 
+Once you enable **PayPal**, all required settings appear to configure PayPal with Fluent Forms.
 
-Before starting the configuration, select any **Payment Mode** between **Sandbox** (for test payments) and **Live (** for real payments) as both options follow the same configuration process, e.g., I choose the **Sandbox Mode**.
+Before starting, select a **Payment Mode** between **Sandbox** (for test payments) and **Live** (for real payments). Both modes follow the same configuration process.
 
-Then, enter the email you signed up with on the [PayPal Account](https://www.paypal.com/signin) into the **PayPal Email** field.
+### Standard (Legacy Mode)
 
-Additionally, turn on the **Disable PayPal IPN Verification** toggle if **Payment Data Transfer** is not accessible for you and payments are not being marked as complete. This option allows the site to use a slightly less secure method of verifying purchases.
+This legacy method relies on your primary PayPal email address and IPN responses to track single and recurring transactions.
 
-Finally, press the **Save PayPal Settings** button and your PayPal account will be integrated with **Fluent Forms** for your WordPress Site. 
+- **PayPal Email:** Enter the email address linked directly to your verified PayPal Business Account.
 
-![Configure Paypal Account Email Integrate PayPal](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/2.-Configure-Paypal-Account-Email-scaled.webp)
+![PayPal Standard legacy settings](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/paypal-standard-3-scaled.webp)
+
+### Checkout API (Recommended Mode)
+
+Fluent Forms connects to PayPal through PayPal's modern **Orders API v2** (one-time payments) and **Subscriptions API** (recurring payments). You get reliable webhook-based confirmations, native subscription support, and verified signatures on every event.
+
+- **Payment Mode:** Set **Mode** to **Sandbox Mode** (for test environments) or **Live Mode** (for processing real payments). Fluent Forms automatically routes API calls to the proper developer endpoints depending on this mode.
+- **Generate REST API credentials in PayPal:**
+  1. Log in to the [PayPal Developer Dashboard](https://developer.paypal.com/dashboard/applications/).
+  2. Switch to the **Sandbox** or **Live** tab to match your selected mode.
+  3. Click **Create App**, name the app (for example, _Fluent Forms_), and select **Merchant** as the app type.
+  4. Copy the generated **Client ID** and **Secret Key**.
+- **Enter keys into Fluent Forms:** Paste the credentials into the matching fields inside Fluent Forms (**Test Client ID** / **Test Secret Key** or **Live Client ID** / **Live Secret Key**). You can fill both pairs at once; the system uses the **Mode** toggle to determine which pair is active.
+- **Webhook ID:** Input your verified **Webhook ID**.
+
+**Webhook settings:** To receive real-time payment, refund, and subscription events from PayPal, configure a webhook in the PayPal Developer Dashboard. Add a webhook with the **Webhook URL** provided in the Fluent Forms settings box.
+
+Subscribe to at least these events:
+
+```
+PAYMENT.SALE.COMPLETED
+BILLING.SUBSCRIPTION.ACTIVATED
+BILLING.SUBSCRIPTION.CANCELLED
+BILLING.SUBSCRIPTION.EXPIRED
+BILLING.SUBSCRIPTION.PAYMENT.FAILED
+BILLING.SUBSCRIPTION.SUSPENDED
+```
+
+Copy your **Webhook ID** back into Fluent Forms. Webhook events are only processed when a **Webhook ID** is configured as a safety guard against unsigned events.
+
+![PayPal Checkout API settings](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/paypal-checkout-api-4-scaled.webp)
+
+Press **Save PayPal Settings** to save your configuration.
 
 ## Setup PayPal IPN Settings
 
+<<<<<<< HEAD
 After configuring PayPal, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in **PayPal**. Recurring billing is collected through the [Subscription](/docs/add-subscription-field-in-payment-forms) field.
+=======
+After configuring PayPal, you can set up **IPN** (**Instant Payment Notification**) **settings** to enable notifications for **subscription** or **recurring** **payments** in **PayPal**.
+>>>>>>> tajulauthlab
 
-**IPN (Instant Payment Notification)** is a post-message notification sent by **PayPal** after a successful transaction for standard merchant accounts, containing all the payment transaction details. Setting up [PayPal](https://www.paypal.com/) IPN with Fluent Forms allows you to receive Instant Payment Notifications from PayPal.
+**IPN (Instant Payment Notification)** is a post-message notification sent by **PayPal** after a successful transaction for standard merchant accounts, containing all payment transaction details. Setting up PayPal IPN with Fluent Forms allows you to receive instant payment notifications from PayPal.
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
 
-Now, go to **PayPal Standard**, and scroll down to the **PayPal IPN Settings (Recommended for Subscription Payment)** option. 
-
-Then, copy the **IPN URL** for smooth transactions based on **PayPal** **Data** related to **Subscription/Recurring** payments. 
+Open **PayPal Standard**, scroll to **PayPal IPN Settings (Recommended for Subscription Payment)**, and copy the **IPN URL** for subscription and recurring payment data.
 
 > [!Note]
-> If you do not set up the IPN (Instant Payment Notification) then it will still work for single payments but recurring payments will not be marked as paid for PayPal subscription payments.
+> If you do not set up **IPN**, single payments still work, but recurring PayPal subscription payments will not be marked as paid.
 
-Do not forget to press the **Save PayPal Settings** button to save all your changes. 
+Press **Save PayPal Settings** to save your changes.
 
 ![Paypal Ipn Settings](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/3.-PayPal-IPN-Settings--scaled.webp)
 
-Now, visit the Dashboard of your [PayPal Business Account](https://www.sandbox.paypal.com/mep/dashboard), hover over the **Profile** **Icon,** and click the **Account Settings** option.
+Visit the dashboard of your [PayPal Business Account](https://www.sandbox.paypal.com/mep/dashboard), hover over the **Profile** **Icon**, and click **Account Settings**.
 
 ![Account Settings Fluent Forms](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/4.-Account-Settings.webp)
 
-Then, scroll down and open the **Website Payments** tab. Go to **Instant Payment Notifications** and click the **Update** link.
+Scroll down and open the **Website Payments** tab. Go to **Instant Payment Notifications** and click the **Update** link.
 
 ![Website Payments Fluent Forms](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/5.-Website-Payments.webp)
 
-Click the **Edit Settings** button to set up your IPN notification.
+Click **Edit Settings** to set up your IPN notification.
 
 ![Choose Ipn Settings](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/6.-Choose-IPN-Settings.webp)
 
-Finally, **paste the URL** into the **Notification URL** field that you copied from the **Paypal IPN Settings** page.
+Paste the URL into the **Notification URL** field that you copied from the **PayPal IPN Settings** page.
 
-After entering your **Notification URL,** select **Receive IPN messages (Enabled)** to activate the IPN messages for users.
+After entering your **Notification URL**, select **Receive IPN messages (Enabled)** to activate IPN messages.
 
-Once you are done, click the **Save** button to confirm the setup.
+Click **Save** to confirm the setup.
 
 ![Paste Ipn URL](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/7.-Paste-IPN-URL.webp)
 
-Here, you can see the **Notification URL** is updated and the IPN is enabled for your site.
+The **Notification URL** is updated and IPN is enabled for your site.
 
-Also, you can modify your notification URL anytime by clicking the **Edit Settings** button.
-Plus, if you want to disable the PayPal IPN, simply click the **Turn Off IPN** button.
+You can modify your notification URL anytime by clicking **Edit Settings**. To disable PayPal IPN, click **Turn Off IPN**.
 
 ![Edit Settings Or Turn Off Button Integrate PayPal](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/8.-Edit-Settings-or-Turn-Off-button.webp)
 
 ## Integrate PayPal in Forms
 
-Once you finish setting up your **PayPal** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields are added).
+Once you finish setting up your **PayPal** payment method, you can add it to any existing **payment form** (a form with [Payment Item](/docs/add-payment-item-field-in-payment-forms) and [Payment Method](/docs/add-payment-method-field-in-payment-forms) fields).
 
 > [!Note]
 > If you do not have an existing payment form, see [How to Create a Payment Form With Fluent Form](/docs/how-to-create-a-payment-form-with-fluent-form).
@@ -84,43 +117,41 @@ Go to the **Editor** page of your desired form by clicking its **Edit** option.
 
 ![Open Integrate PayPal](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/Open-desired-form-1-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by hovering over it and clicking the **Pencil Icon**.
+On the **Editor** page, hover over the **Payment Method** field and click the **Pencil Icon** to open **Input Customization**.
 
-Now, go to the **Payment Methods**, check the **PayPal** option, click the **Dropdown Arrow,** and you will get two options. These are:
+Under **Payment Methods**, check **PayPal**, click the **Dropdown Arrow**, and configure these options:
 
-- **Method Label:** Here, you can change the label based on your preference for your added payment method.
-
-- **Require Shipping Address:** Check this box if you want to make providing the Shipping Address information mandatory for your users to submit the forms.
+- **Method Label:** Change the label for your payment method.
+- **Require Shipping Address:** Check this box to require shipping address information before form submission.
 
 ![Check Paypal Payment Method](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/9.-Check-PayPal-payment-method-in-a-desired-form-scaled.webp)
 
-Once you complete the edit, press the **Save Form** button to save all the changes.
+Click **Save Form** to save your changes.
 
-Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
+To embed the form on a specific **page** or **post**, copy the **Shortcode** from the top right and paste it into your desired page or post.
 
-Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
+Click **Preview & Design** in the middle to preview the form.
 
 ![Save Integrate PayPal](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/10.-Save-Form-scaled-2.webp)
 
 ## Preview of Added Payment Method
 
-Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to PayPal to complete the payment process. 
+Here is the preview of the **Payment Method** you added. When a user clicks **Submit Form**, they are redirected to PayPal to complete payment.
 
 ![Paypal Preview Fluent Forms](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/11.-PayPal-Form-Preview.webp)
 
 ## Form Specific PayPal Settings
 
-You can also customize the **PayPal Settings** for a specific form according to your needs.
+You can customize **PayPal Settings** for a specific form.
 
-To customize the **PayPal Settings**, go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of a desired **Form**. 
+Go to **Forms** from the Fluent Forms navbar and click **Settings** on the form you want to configure.
 
 ![Open Settings Integrate PayPal](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/Open-Form-Settings-1-scaled.webp)
 
-Once you are on the **Settings and Integrations** tab, click the **Payment Settings** option, and scroll down to **PayPal Settings**.
+On the **Settings and Integrations** tab, open **Payment Settings** and scroll to **PayPal Settings**.
 
-Here, you can select which **PayPal Account** (**Global** or **Custom**) will be used for this form. 
-Select the **Custom PayPal ID** option if you want to set up a different PayPal account for this specific form.
+Select which **PayPal Account** (**Global** or **Custom**) this form uses. Choose **Custom PayPal ID** to use a different PayPal account for this form only.
 
-Do not forget to click the **Save Settings** button to save all your changes. 
+Click **Save Settings** to save your changes.
 
 ![Specific Paypal Payment Settings](/images/payments/payment-gateways/how-to-integrate-paypal-with-fluent-forms/12.-Form-Specific-PayPal-Payment-Settings-scaled.webp)

@@ -7,9 +7,9 @@
 
 ## Enable MailerLite Integration
 
-First, go to **Integrations** from the **Fluent Forms Navbar**, search for **MailerLite** through the search bar, and get the **MailerLite** integration module.
+Go to **Integrations** from the **Fluent Forms Navbar**, search for **MailerLite** in the search bar, and open the **MailerLite** integration module.
 
-Now, turn on the **Toggle** to enable the **MailerLite** module, and click the **Settings Icon** on the right side. 
+Turn on the **Toggle** to enable **MailerLite**, then click the **Settings Icon** on the right to open its configuration.
 
 ![Enabled Mailerlite Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailerlite-with-fluent-forms/1.-Enabled-MailerLite-scaled.webp)
 
@@ -18,8 +18,6 @@ Once you enable MailerLite, you will be asked for the **MailerLite API Key** of 
 ![Mailerlite Settings Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailerlite-with-fluent-forms/2.-MailerLite-Settings-scaled.webp)
 
 ### Get the MailerLite API URL and API Key
-
-To learn how to get the  **MailerLite API URL** and **MailerLite API Key** from **MailerLite**, follow the steps with screenshots below –
 
 First, log in to your [MailerLite Account](https://accounts.mailerlite.com/?lang=en), and don’t forget to complete the profile setup to get the API Settings under the Integration tabs.
 

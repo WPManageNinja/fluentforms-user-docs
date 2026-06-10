@@ -5,15 +5,15 @@ Fluent Form helps migrate forms and form entries data easily and hassle-free wit
 This guide will walk you through the migration process of any form into fluent forms with just a few steps.
 
 > [!Warning]
-> Running the migrator again **resets and updates** previously imported forms and entries. Back up your data first.
-> 
-> 
-> 
-> Also, ensure that all form data is backed up before beginning the migration process.
+> Back up your forms and entries before you start. Running the migrator again **resets and updates** previously imported forms and entries.
 
 ## Steps to Migrate Forms and Entries
 
+<<<<<<< HEAD
 First, go to the **Fluent Forms** Dashboard [**Tools**](/docs/fluent-forms-user-interface) section at the top of the menu bar. Then, click the **Migrator** options. Here, you will see a list of forms from other supported plugins.
+=======
+First, go to the **Fluent Forms** dashboard **Tools** section at the top of the menu bar. Then, click the **Migrator** options. Here, you will see a list of forms from other supported plugins.
+>>>>>>> tajulauthlab
 
 Now, click the **Import All Forms** button to import all forms at once. 
 
