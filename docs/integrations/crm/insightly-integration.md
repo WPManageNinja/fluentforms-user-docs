@@ -17,11 +17,7 @@ Now, turn on the **Toggle** to enable the **Insightly** module and click the **S
 
 Once you enable **Insightly**, you will be asked for the **Insightly API URL** and **Insightly API Key** of your **Insightly Account**.
 
-<<<<<<< HEAD:docs/integrations/crm/insightly-integration.md
-![Configuratrioin Insighjtly](/images/integrations/crm/insightly-integration/Configuratrioin-insighjtly-02.webp)
-=======
-![Configuration Insightly](/images/integrations/crm/insightly-integration-with-fluent-forms/Configuratrioin-insighjtly-02.webp)
->>>>>>> tajulauthlab:docs/integrations/crm/insightly-integration-with-fluent-forms.md
+![Configuration Insightly](/images/integrations/crm/insightly-integration/Configuratrioin-insighjtly-02.webp)
 
 ## Get the Insightly API URL and Insightly API Key
 

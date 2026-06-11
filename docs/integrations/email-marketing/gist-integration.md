@@ -60,11 +60,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 **D. Push IP Address:** Enable this option to send the submitter's last seen IP address to the Gist lead.
 
-<<<<<<< HEAD:docs/integrations/email-marketing/gist-integration.md
-**E. Conditional Logic:** If you want to allow **Insightly** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
-=======
-**E. Conditional Logic:** If you want to allow **GetGist** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
->>>>>>> tajulauthlab:docs/integrations/email-marketing/gist-integration-with-fluent-forms.md
+**E. Conditional Logic:** If you want to allow **GetGist** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the [article](/set-up-forms-with-conditional-logic).
 
 **F. Status:** Enable this feed option to activate the integration.
 

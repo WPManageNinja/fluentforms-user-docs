@@ -1,10 +1,6 @@
 # Add Calc Values on the Repeat Field
 
-<<<<<<< HEAD:docs/configuring-forms/calculations/add-calc-values-on-the-repeat-field.md
-Fluent Form offers a feature that allows you to add [calculations](/numeric-calculation) to Repeat Fields, making it easy to perform math automatically inside forms. 
-=======
-Fluent Forms offers a feature that allows you to add calculations to Repeat Fields, making it easy to perform math automatically inside forms. 
->>>>>>> tajulauthlab:docs/configuring-forms/calculations/how-to-add-calc-values-on-the-repeat-field.md
+Fluent Forms offers a feature that allows you to add [calculations](/numeric-calculation) to Repeat Fields, making it easy to perform math automatically inside forms.
 
 This article will provide a step-by-step guide on how you can add calc values to the repeat field with Fluent Forms.
 

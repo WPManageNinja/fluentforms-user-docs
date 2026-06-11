@@ -58,11 +58,7 @@ Each option in the **Advanced Options** tab is explained below.
 
 **C. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
-<<<<<<< HEAD
-**D. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
-=======
-**D. Conditional Logic**: This option allows the Payment Method field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab
+**D. Conditional Logic**: This option allows the Payment Method field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/5.-Advanced-Options-scaled.webp)
 

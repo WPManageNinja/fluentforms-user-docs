@@ -52,11 +52,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-<<<<<<< HEAD:docs/form-fields/general-fields/email-address-input-field.md
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read [Dynamic Default Value in Fluent Forms](/dynamic-default-value).
-=======
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding of Dynamic Default Value, [read this article.](/docs/dynamic-default-value-in-fluent-forms)
->>>>>>> tajulauthlab:docs/form-fields/general-fields/email-address-input-field-in-fluent-forms.md
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding of Dynamic Default Value, [read this article.](/dynamic-default-value)
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 

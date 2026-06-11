@@ -64,11 +64,7 @@ First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form**
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Drip Integration** feed from the dropdown list. 
 
-<<<<<<< HEAD:docs/integrations/crm/drip-integration.md
-![Drip Inttegration](/images/integrations/crm/drip-integration/drip-inttegration-02.webp)
-=======
-![Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/drip-inttegration-02.webp)
->>>>>>> tajulauthlab:docs/integrations/crm/drip-integration-with-fluent-forms.md
+![Drip Integration](/images/integrations/crm/drip-integration/drip-inttegration-02.webp)
 
 ### Configure Drip Integration Feed
 

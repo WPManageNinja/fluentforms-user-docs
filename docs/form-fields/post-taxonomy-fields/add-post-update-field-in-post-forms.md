@@ -48,11 +48,7 @@ Configure **Advanced** options:
 
 **A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-<<<<<<< HEAD
-**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read [Form Editor Smart Codes](/form-editor-smart-codes). 
-=======
-**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SmartCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
->>>>>>> tajulauthlab
+**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SmartCodes**. To learn the details about SmartCodes, read this [Documentation](/form-editor-smart-codes).
 
 **C. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
 
@@ -60,11 +56,7 @@ Configure **Advanced** options:
 
 **E. Element Class**: Add custom CSS classes to the input field itself. This is used for adding Custom CSS/JS for a specific input field of a form.
 
-<<<<<<< HEAD
-**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
-=======
-**F. Conditional Logic**: This option allows the Post Update field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
->>>>>>> tajulauthlab
+**F. Conditional Logic**: This option allows the Post Update field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
 
 **G. Enable Searchable Smart Options**: If you enable this option, it will be searchable by the select2 js library.
 

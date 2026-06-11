@@ -48,11 +48,7 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-<<<<<<< HEAD
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value,read this [article.](/dynamic-default-value)
-=======
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding of Dynamic Default Value, read this [article.](/docs/dynamic-default-value-in-fluent-forms)
->>>>>>> tajulauthlab
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding of Dynamic Default Value, read this [article.](/dynamic-default-value)
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 

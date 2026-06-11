@@ -108,11 +108,7 @@ Select the **Yes** radio button to make this field mandatory for users to fill i
  * **C. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
  * **D. Layout**: Select the Layout for checkable items. 
  * **E. Dynamic Default Value**: If you would like to pre-populate the value of a field, enter it here.
-<<<<<<< HEAD
- * **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
-=======
- * **F. Conditional Logic**: This option allows the Payment Item field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab
+* **F. Conditional Logic**: This option allows the Payment Item field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/9.-Advanced-Options-scaled.webp)
 

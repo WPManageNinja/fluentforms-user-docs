@@ -13,11 +13,7 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **amoCRM*
 
 Now, **toggle** to enable the **amoCRM** module and click the **Settings Icon** button on the right.
 
-<<<<<<< HEAD:docs/integrations/crm/amocrm-integration.md
-![Enable amoCRM Integrationj](/images/integrations/crm/amocrm-integration/Enable-amoCRM-integrationj-01-scaled.webp)
-=======
-![Enable amoCRM Integration](/images/integrations/crm/amocrm-integration-with-fluent-forms/Enable-amoCRM-integrationj-01-scaled.webp)
->>>>>>> tajulauthlab:docs/integrations/crm/amocrm-integration-with-fluent-forms.md
+![Enable amoCRM Integration](/images/integrations/crm/amocrm-integration/Enable-amoCRM-integrationj-01-scaled.webp)
 
 Once you enable amoCRM, you will be asked for the **amoCRM Integration ID** and **amoCRM Secret Key** of your **amoCRM Account**.
 

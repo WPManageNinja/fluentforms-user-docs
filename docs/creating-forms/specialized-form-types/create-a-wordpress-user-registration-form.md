@@ -61,11 +61,7 @@ A new Window page will appear. Now, customize the User Registration feed accordi
 
 **H. Form Validation:** Enabling this option prevents duplicate registrations by checking if the user already exists in the database.
 
-<<<<<<< HEAD:docs/creating-forms/specialized-form-types/create-a-wordpress-user-registration-form.md
-**I. Conditional Logics**: This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
-=======
-**I. Conditional Logics**: This option allows the User Registration feed to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab:docs/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms.md
+**I. Conditional Logics**: This option allows the User Registration feed to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
 
 **J. Status:** Enable this feed option to activate the integration.
 

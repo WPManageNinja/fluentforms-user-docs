@@ -96,11 +96,7 @@ Each option in the Advanced Options tab is explained below
 
 **D. Layout**: Select the Layout for checkable items
 
-<<<<<<< HEAD
-**E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
-=======
-**E. Conditional Logic**: This option allows the Subscription field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab
+**E. Conditional Logic**: This option allows the Subscription field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-subscription-field-in-payment-forms/7.-Advanced-options-scaled.webp)
 

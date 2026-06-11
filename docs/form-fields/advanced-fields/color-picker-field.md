@@ -66,11 +66,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-<<<<<<< HEAD:docs/form-fields/advanced-fields/color-picker-field.md
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
-=======
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab:docs/form-fields/advanced-fields/color-picker-field-in-fluent-forms.md
+**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Conditional Logic documentation](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options](/images/form-fields/advanced-fields/color-picker-field/Advanced-Options-04-2-scaled.webp)
 

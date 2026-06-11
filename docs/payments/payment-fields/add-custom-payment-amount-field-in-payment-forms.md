@@ -65,11 +65,7 @@ Each option in the **Advanced Options** tab is explained below.
 
 **G. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-<<<<<<< HEAD
-**H. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
-=======
-**H. Conditional Logic**: This option allows the Custom Payment Amount field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab
+**H. Conditional Logic**: This option allows the Custom Payment Amount field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
 
 **I. Calculation Field Settings**: Enable this and provide formula expression if you want this field as calculated based on other numeric field value. To learn more, read [Numeric Calculation in Fluent Forms](/numeric-calculation).
 

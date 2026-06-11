@@ -45,11 +45,7 @@ Here, you will get three options for setting up the **Email Notification**. Thes
 
 - Select a Field: Use this option to set up the email notification for the Users.
 
-<<<<<<< HEAD:docs/notifications-confirmations/email-notifications/setup-adminuser-email-notifications.md
 - Configure Routing: Use this set up additional [Conditional Email Routing](/conditional-email-routing).
-=======
-- Configure Routing: Use this to set up additional Conditional Email Routing.
->>>>>>> tajulauthlab:docs/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications.md
 
 ## Setup Admin Notification Using Enter Email
 

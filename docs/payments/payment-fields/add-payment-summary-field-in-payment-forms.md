@@ -41,11 +41,7 @@ Here, you will get the following setting option for customizing the field.
 
 Each option in the **Advanced Options** tab is explained below – 
 
-<<<<<<< HEAD
-**A. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
-=======
-**A. Conditional Logic**: This option allows the Payment Summary field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
->>>>>>> tajulauthlab
+**A. Conditional Logic**: This option allows the Payment Summary field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
 
 **B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 

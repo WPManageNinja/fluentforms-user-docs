@@ -48,11 +48,7 @@ If the form fails to trigger an email notification, you will see an error messag
 
 But if the form successfully triggers the email notification and sends it to the destination, you will see a "**Success**" status under the **Submission Logs.**
 
-<<<<<<< HEAD:docs/notifications-confirmations/email-notifications/not-sending-email-confirmations.md
-![Sucess Message Fluent Forms](/images/notifications-confirmations/email-notifications/not-sending-email-confirmations/7.-Sucess-message.webp)
-=======
-![Success Message Fluent Forms](/images/notifications-confirmations/email-notifications/fluent-forms-not-sending-email-confirmations/7.-Sucess-message.webp)
->>>>>>> tajulauthlab:docs/notifications-confirmations/email-notifications/fluent-forms-not-sending-email-confirmations.md
+![Success Message Fluent Forms](/images/notifications-confirmations/email-notifications/not-sending-email-confirmations/7.-Sucess-message.webp)
 
 ## Check SMTP for Emails
 

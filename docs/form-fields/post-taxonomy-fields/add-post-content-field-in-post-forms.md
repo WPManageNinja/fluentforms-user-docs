@@ -48,11 +48,7 @@ Configure **Post Content** labels and editor options:
 
 Configure **Advanced Options**:
 
-<<<<<<< HEAD
-**A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read [Form Editor Smart Codes](/form-editor-smart-codes). 
-=======
-**A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SmartCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
->>>>>>> tajulauthlab
+**A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SmartCodes**. To learn the details about SmartCodes, read this [Documentation](/form-editor-smart-codes).
 
 **B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -64,11 +60,7 @@ Configure **Advanced Options**:
 
 **F. Max text length**: Here, you can **set** the **maximum number of characters** the **Textarea** field will occupy in the form.
 
-<<<<<<< HEAD
-**G. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
-=======
-**G. Conditional Logic**: This option allows the Post Content field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
->>>>>>> tajulauthlab
+**G. Conditional Logic**: This option allows the Post Content field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options](/images/form-fields/post-taxonomy-fields/add-post-content-field-in-post-forms/5.-Advanced-Options-4-scaled.webp)
 
