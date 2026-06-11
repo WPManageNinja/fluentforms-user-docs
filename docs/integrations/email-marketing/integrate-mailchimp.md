@@ -57,7 +57,7 @@ Paste the **API Key** you copied from **Mailchimp** into the **Mailchimp API Key
 ![Paste API Key](/images/integrations/email-marketing/integrate-mailchimp/8.-Paste-API-Key-scaled.webp)
 
 You can see, your Mailchimp is connected to your **Fluent Forms** successfully.
-Also you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect ActiveCampaign** buttons.
+Also you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect Mailchimp** button.
 
 ![Verifydisconnect API Key](/images/integrations/email-marketing/integrate-mailchimp/9.-VerifyDisconnect-API-Key-scaled.webp)
 

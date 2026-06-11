@@ -26,7 +26,7 @@ To integrate BuddyBoss integration, you **need to enable the User Registration o
 
 First, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **User Registration** through the search bar, and get the integration module.
 
-Now, turn on the **Toggle** and the **User Registration or Update** module wil be enabled.
+Now, turn on the **Toggle** and the **User Registration or Update** module will be enabled.
 
 ![Enable User Registration Or Update Module Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/3.-Enable-User-Registration-or-Update-module-scaled.webp)
 

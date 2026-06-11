@@ -103,7 +103,7 @@ You may also configure the box shadow of the success message box and also add a 
 
 ## Import
 
-The **Import** tab selects a Fluent Form existing style add and can also import your style.
+The **Import** tab selects an existing Fluent Forms style and can also import your style.
 
 You can import your style from another **Existing Form** or **Upload** your Fluent form style.
 

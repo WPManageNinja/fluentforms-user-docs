@@ -24,7 +24,7 @@ You can select the desired **FluentBooking Field** by clicking on it or drag and
 
 ## Customizing the FluentBooking Field
 
-Once you add the action hook field, you can customize it by hovering over it and clicking the Pencil icon button. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the FluentBooking field, you can customize it by hovering over it and clicking the Pencil icon button. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
 - FluentBooking Field
 

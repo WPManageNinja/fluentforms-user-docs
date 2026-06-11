@@ -18,13 +18,13 @@ Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, 
 
 Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
 
-yYou can select the desired **Action Hook** **Input** field by **clicking** on it or **Dragging** and **Dropping** it into your editor.
+You can select the desired **Action Hook** **Input** field by **clicking** on it or **Dragging** and **Dropping** it into your editor.
 
 ![Add Action Hook 1024x500](/images/form-fields/advanced-fields/action-hook-field/add-action-hook-02-1024x500.png)
 
 ## Customizing the Action Hook Field
 
-Once you add the action hook field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the FluentBooking field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
 - Action Hook Input Options
 

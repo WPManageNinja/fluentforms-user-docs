@@ -2,7 +2,7 @@
 
 The **Color Picker** field in Fluent Forms allows users to select a color using a **hexadecimal color format (#RRGGBB)**. This feature is helpful for customization, branding, or product selection.
 
-This guide will walk you through adding and customizing the **Chained Select** field in Fluent Forms.
+This guide will walk you through adding and customizing the **Color Picker** field in Fluent Forms.
 
 > [!Note]
 > The **Color Picker** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -66,7 +66,11 @@ Advanced settings allow further customization to meet specific use cases.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
+<<<<<<< HEAD:docs/form-fields/advanced-fields/color-picker-field.md
 **F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+=======
+**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+>>>>>>> tajulauthlab:docs/form-fields/advanced-fields/color-picker-field-in-fluent-forms.md
 
 ![Advanced Options](/images/form-fields/advanced-fields/color-picker-field/Advanced-Options-04-2-scaled.webp)
 

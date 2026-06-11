@@ -60,4 +60,4 @@ Once you've finished designing your form, click **Apply Params** and the **Save*
 
 ### Publishing Your Form
 
-When your form is ready, you can easily publish it or share the form directly through a link or on social media to reach your audience easily. platforms.
+When your form is ready, you can easily publish it or share the form directly through a link or on social media to reach your audience easily.

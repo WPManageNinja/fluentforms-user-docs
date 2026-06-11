@@ -88,7 +88,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 2. **iContact List:** From here, you can change the iContact List anytime if needed.
 
-3. **Map Fileds:** Use all the fields under this option to properly link your iContact Fields with the Form Fields. You can easily select the value for the Form Fields based on the iContact fields using the Shortcode Arrow.
+3. **Map Fields:** Use all the fields under this option to properly link your iContact Fields with the Form Fields. You can easily select the value for the Form Fields based on the iContact fields using the Shortcode Arrow.
 
 4. **Conditional Logics:** This option allows iContact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 

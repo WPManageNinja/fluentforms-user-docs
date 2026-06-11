@@ -198,7 +198,7 @@ Since this method is confirmed for Fluent Forms I am going to publish my workspa
 
 ### 4. Final result in Google Analytics
 
-The sample form, which is being teste,d looks like the below:
+The sample form, which is being tested, looks like the below:
 
 ![GTM Ga Test Sample Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga-test-sample-form-wpmn-102.webp)
 
@@ -210,7 +210,7 @@ Expand the **page_view** Event for further details.
 
 ![GTM GA4 Formview 4events Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-formview-4events-wpmn-104.png)
 
-Also after submitting the form, we can see there is another event is pushed which is **FormSubmitted**
+Also after submitting the form, we can see there is another event pushed which is **FormSubmitted**
 
 ![GTM GA4 Submission Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-form-submission-wpmn-105.webp)
 

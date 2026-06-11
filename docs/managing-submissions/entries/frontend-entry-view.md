@@ -32,7 +32,7 @@ After setting everything up, click the Save Settings button to apply the changes
 
 ![1024x552 Fluent Forms](/images/managing-submissions/entries/frontend-entry-view/01-1-1024x552.webp)
 
-## Add Fronted View URL Link
+## Add Frontend View URL Link
 
 Go to the **Confirmation Settings** section. Click on **Add Shortcode**, then choose **Entry Attributes** from the list. Scroll down and find the option called **Entry Frontend View Link**. Just click on it to insert the link.
 

@@ -22,7 +22,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 
 You can see that a **Subscription** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Subscription field. 
 
 **1. Subscriptions**
 
@@ -42,7 +42,7 @@ This is the field title the users will see when filling out the **Subscription**
 
 #### B. Label Placement
 
-Using this option, you can determine the position of the label title that the user will see. The available options are Top, Right, Bottom, Left, Hide Label, and Default all of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+Using this option, you can determine the position of the label title that the user will see. The available options are Top, Right, Bottom, Left, Hide Label, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
 #### C. Admin Field Label
 
@@ -96,7 +96,11 @@ Each option in the Advanced Options tab is explained below
 
 **D. Layout**: Select the Layout for checkable items
 
+<<<<<<< HEAD
 **E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
+=======
+**E. Conditional Logic**: This option allows the Subscription field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+>>>>>>> tajulauthlab
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-subscription-field-in-payment-forms/7.-Advanced-options-scaled.webp)
 

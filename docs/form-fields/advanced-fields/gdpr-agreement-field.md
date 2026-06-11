@@ -61,7 +61,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 ### Embed the Form into the Front
 
-Once you have customized the shortcode field, click the **Save Form** button to apply the changes.
+Once you have customized the GDPR Agreement field, click the **Save Form** button to apply the changes.
 
 To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired page or post.
 

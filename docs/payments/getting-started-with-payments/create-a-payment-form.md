@@ -64,7 +64,7 @@ You can also customize the payment settings **globally** for all forms or **indi
 
 ## Integrating Form in WordPress Site
 
-Once you complete the edit, press the **Save** **From** button to save all the changes you have made.
+Once you complete the edit, press the **Save Form** button to save all the changes you have made.
 Also, to see the form preview, click the **Preview & Design** button in the middle.
 
 Finally, to integrate and display the form on a specific **Page**/**Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page**/**Post**. 

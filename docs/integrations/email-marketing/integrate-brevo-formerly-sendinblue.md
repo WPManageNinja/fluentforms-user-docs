@@ -49,7 +49,7 @@ Finally, press the **Save Settings** button to make your **Sendinblue Integratio
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/7.-Paste-API-Key-scaled-2.webp)
 
-You can see, your MooSend is connected to your **Fluent Forms** successfully.
+You can see, your Brevo account is connected to your **Fluent Forms** successfully.
 
 Now, you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect Brevo** buttons. 
 
@@ -80,7 +80,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 2. **Brevo Segment:** From here, you can change the Brevo Subscriber List anytime if needed.
 
-3. **Map Fileds:** Use all the fields under this option to properly link your Sendinblue Fields with the Form Fields. You can easily select the value for the Form Fields based on the Sendinblue Fields using the Shortcode Arrow.
+3. **Map Fields:** Use all the fields under this option to properly link your Sendinblue Fields with the Form Fields. You can easily select the value for the Form Fields based on the Sendinblue Fields using the Shortcode Arrow.
 
 4. **Other Fields:** Using this option, you can also link the Fluent Forms fields with their respective Sendinblue Custom fields. Click the **Plus/Minus** icon in the right corner to add or delete custom fields as needed.
 

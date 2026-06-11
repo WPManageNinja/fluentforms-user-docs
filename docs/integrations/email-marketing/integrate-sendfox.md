@@ -74,7 +74,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-2. **SendFox Mailing Lists:** Using the Arrow Icon, you can select the SendFox Mailing List where you want to add your contacts. You can also change this anytime if needed
+2. **SendFox Mailing Lists:** Using the Arrow Icon, you can select the SendFox Mailing List where you want to add your contacts. You can also change this anytime if needed.
 
 3. **Map Fields:** Use all the fields under this option to properly link your SendFox Fields with the Form Fields. You can easily select the value for the Form Fields based on the SendFox fields using the Shortcode Arrow.
 

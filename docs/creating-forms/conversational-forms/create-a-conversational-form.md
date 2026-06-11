@@ -20,7 +20,7 @@ Now, a pop-up will appear with three options. Click the **Create Conversational 
 
 ### Customizing Form
 
-Now you are on the **Editor** page of your newly created conversational form. Here you can see four fields are already added that you can customize. Also, you can add other fields according to your needs. 
+Now you are on the **Editor** page of your newly created Post Form. Here you can see four fields are already added that you can customize. Also, you can add other fields according to your needs. 
 
 > [!Note]
 > Container Fields are not supported in Conversational forms

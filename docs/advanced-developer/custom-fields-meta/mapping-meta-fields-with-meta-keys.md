@@ -54,9 +54,9 @@ Open the post and check if the **Post Title**, **Post Author**, and other values
 
 ## Mapping Meta Fields with a Product Form
 
-To map a meta field with a product form, First, you need to create or use an Existing Product Form. For this, follow the previous similar to the post form, and create a **Product Form** with relevant fields.
+To map a meta field with a product form, First, you need to create or use an Existing Product Form. For this, follow the previous steps, similar to the post form, and create a **Product Form** with relevant fields.
 
-Now, add the Add Product-Specific Fields. Include fields such as:
+Now, add the Product-Specific Fields. Include fields such as:
 
 - Post Title
 

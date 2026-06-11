@@ -36,7 +36,7 @@ For example:
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
-> Other ShortCodes will work in this field as well as.
+> Other ShortCodes will work in this field as well.
 
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
@@ -58,4 +58,4 @@ Here is the **Preview** of the **Form** to test the custom HTML field functional
 
 ![Preview Custom HTML Field](/images/form-fields/general-fields/custom-html-field/preview-06.webp)
 
-Congratulations. You will successfully add the Custom HTML field in your Form.
+Congratulations. You have successfully added the Custom HTML field in your Form.

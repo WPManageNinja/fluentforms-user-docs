@@ -99,7 +99,7 @@ This trigger starts the automation when a subscription is canceled. Once you sel
 
 - **Subscription Status:** Change the subscription status using the dropdown list for the contact that submits the form according to FluentCRM Contacts Status.
 
-- **Run the automation actions even contact status is not in subscribed status:** Check this option if you want to run the automation even when the contact’s status is not in subscribed status.
+- **Run the automation actions even if contact status is not in subscribed status:** Check this option if you want to run the automation even when the contact’s status is not in subscribed status.
 
 - **Target Forms:** Select which Form will trigger this automation Funnel. Leave blank to run for all forms available on your website.
 
@@ -125,7 +125,7 @@ This trigger activates when a subscription payment is received. Once you select 
 
 - **Map Other Data:** Dropdowns to select contact properties and form fields for additional data mapping.
 
-- **Subscription Status:** Change the subscription status using the dropdown list for the contact that submits the form according to FluentCRM Contacts Stratus.
+- **Subscription Status:** Change the subscription status using the dropdown list for the contact that submits the form according to FluentCRM Contacts Status.
 
 - **Conditions:** Check the checkbox to Run this automation only once per contact options. If you unchecked, it will overwrite an existing flow.
 
@@ -135,7 +135,7 @@ Once you are done, click the **Save Settings** button to save all your changes.
 
 ### New Form Submission (Fluent Form)
 
-This automation funnel will start once a New Form Submission (Fluent Form)
+This automation funnel will start once a New Form Submission (Fluent Forms) is submitted
 
 Once you select this trigger, a tab will appear on the right-hand side with options to set your trigger.
 

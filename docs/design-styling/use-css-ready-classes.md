@@ -1,8 +1,8 @@
 # Use CSS Ready Classes
 
-Using the CSS Ready Classes in Fluent Form, you can easily create more advanced alternative layouts for the fields in your forms. You can also to take advantage of pre-defined styles included in the default form stylesheet.
+Using the CSS Ready Classes in Fluent Form, you can easily create more advanced alternative layouts for the fields in your forms. You can also take advantage of pre-defined styles included in the default form stylesheet.
 
-This article will guide you how you can use CSS ready classes in Fluent Forms.
+This article will guide you on how you can use CSS ready classes in Fluent Forms.
 
 ## Add CSS Classes
 
@@ -27,11 +27,11 @@ This turns a [Radio](/radio-field)/[checkbox](/checkbox-field) list into an equa
 
 This turns a Radio/checkbox list into an equally-spaced 3-column format. This only applies to Radio/checkbox lists and works with any form label position settings.
 
-A Forms preview that without Container Class
+A form preview without Container Class
 
 ![Preview use CSS Ready Classes](/images/design-styling/use-css-ready-classes/Preview-02.webp)
 
-A preview Forms with **Container class**.
+A form preview with **Container class**.
 
 ![use CSS Ready Classes step](/images/design-styling/use-css-ready-classes/02-2.webp)
 

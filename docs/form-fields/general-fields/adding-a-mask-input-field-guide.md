@@ -38,7 +38,7 @@ After adding the field, customize the mask input field. **Hover over the field**
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Mask** input field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Simple Text** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** This is the field title the users will see when filling out the **Mask** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
 
@@ -96,7 +96,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **E. Prefix Label:** You can use this field to provide a **Prefix Label** in your input field. It will show in the input field as a prefix label.
 
-**F. Suffix Label:** You can use this field to provide a Suffix Label in your input field. It will show in the in-ut field as a suffix label.
+**F. Suffix Label:** You can use this field to provide a Suffix Label in your input field. It will show in the input field as a suffix label.
 
 **G. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 

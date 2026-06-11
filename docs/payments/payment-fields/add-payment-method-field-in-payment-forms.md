@@ -19,7 +19,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 
 You can see that a **Payment Method** field is added to the form. You can edit this field by hovering over it and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Payment Method field. 
 
 **1. Payment Method**
 
@@ -29,9 +29,9 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 ### 1. Payment Method
 
-Here, you will get various settings options for customizing the field. Each option in the **Payment Method** tab is explained below below – 
+Here, you will get various settings options for customizing the field. Each option in the **Payment Method** tab is explained below – 
 
-**A. Element Label**: This is the field title the users will see when filling out the **Item Quantity** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label**: This is the field title the users will see when filling out the **Payment Method** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Admin Field Label**: The admin field label is a field title displayed only to admin users. This means if you want to show a different field label for your admin users when they view the form submission.
 
@@ -58,7 +58,11 @@ Each option in the **Advanced Options** tab is explained below.
 
 **C. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
+<<<<<<< HEAD
 **D. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
+=======
+**D. Conditional Logic**: This option allows the Payment Method field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+>>>>>>> tajulauthlab
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-method-field-in-payment-forms/5.-Advanced-Options-scaled.webp)
 

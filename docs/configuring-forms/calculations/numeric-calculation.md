@@ -104,7 +104,7 @@ Quantity * Price Per Item = Total Price
 | asinh | Inverse Hyperbolic Sine function |
 | acosh | Inverse Hyperbolic Cosine function |
 | atanh | Inverse Hyperbolic Tangent function |
-| round | Make a number a decimal/integer.Use case: round(3.235723663, 2) = 3.24and round(3.235723663, 0) = 3 |
+| round | Make a number a decimal/integer.Use case: round(3.235723663, 2) = 3.24 and round(3.235723663, 0) = 3 |
 | ceil | Use case: ceil(3.235723663) = 4 |
 | floor | Use case: floor(3.235723663) = 3 |
 | max | Use case: max(10, 15) = 15 |

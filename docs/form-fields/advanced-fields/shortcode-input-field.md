@@ -26,7 +26,7 @@ Now, select the desired **Shortcode** **Input** field by clicking on it or **Dra
 
 ## Customizing the Shortcode Field
 
-Once you add the hCaptcha field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the Shortcode field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
 - Shortcode Input Options
 

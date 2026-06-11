@@ -26,9 +26,9 @@ First, enable the **Form Schedule** options.
 
 **Submission Ends date:** You can set the date for the user when the form submission ends.
 
-**Form Waiting Message**: Enter the message for the displayed user when the form hasn't yet been submitted.
+**Form Waiting Message**: Enter the message shown to the user when the form hasn't yet been submitted.
 
-**Form Expired Message**:  Enter the message for the displayed user when the form expires for the user.
+**Form Expired Message**:  Enter the message shown to the user when the form expires for the user.
 
 ![Fluent Forms](/images/configuring-forms/form-settings/form-scheduling-feature/02-6-scaled-2.webp)
 

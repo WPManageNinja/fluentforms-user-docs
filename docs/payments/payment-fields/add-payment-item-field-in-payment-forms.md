@@ -22,7 +22,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 
 You can see that a **Payment Item** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Payment Item field. 
 
 **1. Payment Item**
 
@@ -83,7 +83,7 @@ To clear all default selections, click Clear Selection at the bottom-left corner
 
 #### 3. Checkbox
 
-This option exactly works like the Radio Option except it allows you to display the item selection as **Checkboxes**. This option also offer multiple items to your users for choosing one or more item/s when making a payment.
+This option exactly works like the Radio Option except it allows you to display the item selection as **Checkboxes**. This option also offers multiple items to your users for choosing one or more item/s when making a payment.
 
 ![Checkbox Tab Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/7.-Checkbox-tab.webp)
 
@@ -108,7 +108,11 @@ Select the **Yes** radio button to make this field mandatory for users to fill i
  * **C. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
  * **D. Layout**: Select the Layout for checkable items. 
  * **E. Dynamic Default Value**: If you would like to pre-populate the value of a field, enter it here.
+<<<<<<< HEAD
  * **F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
+=======
+ * **F. Conditional Logic**: This option allows the Payment Item field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+>>>>>>> tajulauthlab
 
 ![Advanced Options Fluent Forms](/images/payments/payment-fields/add-payment-item-field-in-payment-forms/9.-Advanced-Options-scaled.webp)
 

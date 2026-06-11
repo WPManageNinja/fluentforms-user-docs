@@ -101,4 +101,4 @@ Here is the **Preview** of the **Form** to test the phone/mobile field functiona
 
 ![Preview Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field/preview-07.webp)
 
-Congratulations. You will successfully add the Phone/Mobile field in your Form.
+Congratulations. You have successfully added the Phone/Mobile field in your Form.

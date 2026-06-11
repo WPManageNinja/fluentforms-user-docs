@@ -15,7 +15,7 @@ Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired *
 
 ![Edit hCaptcha](/images/security-spam/hcaptcha/edit-form-01-9-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **InputvFields** tab. 
+Once you are on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input Fields** tab. 
 
 Now, select the desired **hCaptcha** **Input** field by **Clicking** on it or **Dragging** and **Dropping** it into your editor.
 
@@ -23,7 +23,7 @@ Now, select the desired **hCaptcha** **Input** field by **Clicking** on it or **
 
 ## Customizing the hCaptcha Field
 
-Once you add the hCaptcha field, you can customize it by hovering over it and clicking the **Pencil Icon.**
+Once you add the Shortcode field, you can customize it by hovering over it and clicking the **Pencil Icon.**
 
 This will open the **Input Customization** tab, where you can modify the following settings:
 

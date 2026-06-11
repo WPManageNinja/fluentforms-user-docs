@@ -2,7 +2,7 @@
 
 Sometimes, you can display confirmation messages based on user input. Fluent Forms allows you to set up **Conditional Confirmation Messages** so that users receive individualized feedback based on specific conditions. If you are new to confirmations, start with the [form submission confirmation message](/setup-form-submission-confirmation-message) setup first.
 
-In this documentation, we will walk you through setting up a conditional confirmation message with fluent Forms.
+In this documentation, we will walk you through setting up a conditional confirmation message with Fluent Forms.
 
 So, let's get started.
 
@@ -34,7 +34,7 @@ Here also appears a new window. Now enter the details -
    - **To a page:**  Redirects the user to a specific page after form submission.
    - **To custom URL:** Redirects the user to a custom URL after form submission.
 
- **Message to Show:** Here enter the custom message you want to display when the condition met. You can also add shortcode or image to your message.
+ **Message to Show:** Here enter the custom message you want to display when the condition is met. You can also add shortcode or image to your message.
 
 ![Confirmation Message](/images/notifications-confirmations/confirmations/conditional-confirmation-message/confirmation-message-03-scaled.webp)
 
@@ -49,7 +49,7 @@ Here also appears a new window. Now enter the details -
 
 Suppose If you select **To a Custom URL** and enable **Pass Field Data Via Query String**, you can enter a URL like this: `https://example.com/thank-you?email={email}&phone={phone}`
 
-Then it will redirect the user to the **https://example.com/thank-you** page and pass the values of the phone and email fields as base of query parameters. 
+Then it will redirect the user to the **https://example.com/thank-you** page and pass the values of the phone and email fields as query parameters. 
 
 You can use these query parameters on the thank-you page to display personalized information or perform other actions.
 

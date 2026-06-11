@@ -10,7 +10,7 @@ This guide will show you how to **Protect Blank Form Submissions** with **Fluent
 
 ### Access Form Settings
 
-First, go to **Forms** from the Fluent Forms Navbar and select the **Desired Form** for which form you want to protect for blank submission.
+First, go to **Forms** from the Fluent Forms Navbar and select the **Desired Form** for which form you want to protect from blank submissions.
 
 ![Select form](/images/configuring-forms/form-settings/restrict-blank-form-submission/form-settings-blank-form-01-scaled.webp)
 

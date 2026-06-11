@@ -23,7 +23,7 @@ Select the desired **File Upload** field by clicking on it or **Dragging and Dro
 
 ## Customizing the File Upload Field
 
-An image upload field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+A file upload field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
 - File Upload Options
 
@@ -65,7 +65,7 @@ If you want to add a **Custom Error Message**, you can disable the **Global Erro
 
 If you want to add a **Custom Error Message**, you can disable the **Global Error Message** by clicking the **Radio** button on the right.
 
-**K. Allowed Files:** Defines which file formats your users can upload  by clicking the **Checkbox**.
+**K. Allowed Files:** Defines which file formats your users can upload by clicking the **Checkbox**.
 
 - Images (jpg, png, gif, bmp)
 

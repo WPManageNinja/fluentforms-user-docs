@@ -1,6 +1,13 @@
 # Create a Form with AI
 
+<<<<<<< HEAD:docs/creating-forms/form-builder-basics/create-a-form-with-ai.md
 Fluent Forms now integrates Fluent Forms AI, making it easier for users to create Forms effortlessly with simple commands.  This article will guide you through creating a form using **Fluent Forms AI**. Prefer to build manually? See [How to Create a Form with Fluent Forms](/create-a-form).
+=======
+Fluent Forms now integrates Fluent Forms AI, making it easier for users to create Forms effortlessly with simple commands. This article will guide you through creating a form using **Fluent Forms AI**.
+
+> [!Note]
+> **Fluent Forms AI** is the built-in, free AI assistant for quick form creation—no extra setup required. For advanced generation with your own OpenAI API key, use **OpenAI ChatGPT** (Pro). See [How to Create a Form with OpenAI ChatGPT](/docs/how-to-create-a-form-with-openai-chatgpt).
+>>>>>>> tajulauthlab:docs/creating-forms/form-builder-basics/how-to-create-a-form-with-fluent-forms-ai.md
 
 ## Create Forms using Fluent Forms AI
 

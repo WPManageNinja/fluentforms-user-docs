@@ -1,6 +1,6 @@
 # OnePageCRM Integration
 
-Integrating OnePageCRM with Fluent Forms helps automate your business growth by managing leads and customer actions smoothly. This article guides you through integrating OnepageCRM with Fluent Forms on your WordPress SIte.
+Integrating OnePageCRM with Fluent Forms helps automate your business growth by managing leads and customer actions smoothly. This article guides you through integrating OnepageCRM with Fluent Forms on your WordPress Site.
 
 > [!Note]
 > **OnePageCRM** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -44,7 +44,7 @@ Press the **Save Settings** button to make your **OnePageCRM Integration** modul
 
 ![Paste User ID And API Key](/images/integrations/crm/onepagecrm-integration/paste-user-id-and-api-key-06-scaled.webp)
 
-Here you can see your **ONePageCRM API integration is up and running**. Also you can disconnect to click the **Disconnect OnePageCrm** buttons.
+Here you can see your **OnePageCRM API integration is up and running**. Also you can disconnect to click the **Disconnect OnePageCrm** buttons.
 
 ![Disconnect OnePageCRM](/images/integrations/crm/onepagecrm-integration/disconnect-onepagecrm-07-1-scaled.webp)
 

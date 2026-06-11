@@ -75,7 +75,7 @@ You can also **search for the desired fields** through their name using the **Se
 
 ## Embed Form into Frontend
 
-Once you complete the process, you can embed and display the form to the desired Page/Pos of your WordPress Site by **copying** the **Shortcode** on the top right side. 
+Once you complete the process, you can embed and display the form to the desired Page/Post of your WordPress Site by **copying** the **Shortcode** on the top right side. 
 
 Also, to see the form preview, click the **Preview & Design** button in the middle.
 

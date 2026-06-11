@@ -30,8 +30,14 @@ Now, a pop-up page will appear with various settings options for configuring the
 
 - **Name:** Here, you can set a name according to your preference for your feed. This field is required to be filled in.
 
+<<<<<<< HEAD:docs/integrations/automation/integrate-zapier.md
 - **Webhook URL:** Here, provide the Zapier Webhook URL where you want to send the Fluent Forms submission data. Read the [Getting the Webhook URL from Zapier](#getting-the-webhook-url-from-zapier) section below to learn how to get it. To send data to a custom endpoint instead, see [How to Integrate Webhook with Fluent Forms](/integrate-webhook).
 - **Conditional Logics:** This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
+=======
+- **Webhook URL:** Here, provide the Zapier Webhook URL where you want to send the Fluent Forms submission data. Read this Section to learn how to get the Zapier Webhook URL.
+
+- **Conditional Logics:** This option allows Zapier integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+>>>>>>> tajulauthlab:docs/integrations/automation/how-to-integrate-zapier-with-fluent-forms.md
 
 Once the setup is done, click the **Save Feed** button, and your Zapier will be integrated into this specific form!
 

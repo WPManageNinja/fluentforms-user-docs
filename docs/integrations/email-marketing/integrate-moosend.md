@@ -23,7 +23,7 @@ Once you enable MooSend, you will be asked for the **MooSend API Key** of your *
 
 ### Get the MooSend API Key
 
-First, log in to your [MooSend Account](https://app.getgist.com/users/sign_in) and go to **Settings** from the left sidebar. 
+First, log in to your [MooSend Account](https://app.moosend.com/) and go to **Settings** from the left sidebar. 
 
 Now, go to **Settings** from the top navbar by opening the **More** dropdown.
 
@@ -44,7 +44,7 @@ Finally, press the **Save Settings** button to make your **MooSend Integration**
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-moosend/5.-Paste-ApI-Key-scaled.webp)
 
-You can see, your MooSend is connected to your **Fluent Forms** successfully.
+You can see, your Brevo account is connected to your **Fluent Forms** successfully.
 
 Now, you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect MooSend** buttons. 
 
@@ -75,7 +75,7 @@ Once you select the integration, a page will appear with various settings option
 
 2. **MooSend Mailing Lists:** From here, you can change the MooSend Mailing List anytime if needed.
 
-3. **Map Fileds:** Use all the fields under this option to properly link your MooSend Fields with the Form Fields. You can easily select the value for the Form Fields based on the MooSend fields using the Shortcode Arrow.
+3. **Map Fields:** Use all the fields under this option to properly link your MooSend Fields with the Form Fields. You can easily select the value for the Form Fields based on the MooSend fields using the Shortcode Arrow.
 
 4. **Double Opt-in:** Enable this option if you want to check the validation of the user information (specifically user email).
 

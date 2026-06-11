@@ -10,7 +10,7 @@ To get the Edit History feature, navigate to the **Forms** section in the [Fluen
 
 ![Edit Section Fluent Forms](/images/managing-submissions/entries/edit-history-feature/Form-edit-section-scaled.webp)
 
-In the form editor, you’ll notice a **History** button see screenshot below. Simply click on it.
+In the form editor, you’ll notice a **History** button (see the screenshot below). Simply click on it.
 
 ![History Section](/images/managing-submissions/entries/edit-history-feature/History-section-1-scaled.webp)
 

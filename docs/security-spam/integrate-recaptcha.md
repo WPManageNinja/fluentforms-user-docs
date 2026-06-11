@@ -10,7 +10,7 @@ First, go to **Global Settings** from the fluent forms navbar, open the **Securi
 
 - **Version 2 (Visible reCAPTCHA):** This requires users to check a box indicating they are not a robot, i.e., it verifies the request with a challenge.
 
-- **Version 3 (Visible reCAPTCHA):** This operates in the background and scores the user’s interaction to determine if they are a bot, i.e., it verifies the request with a score.
+- **Version 3 (Invisible reCAPTCHA):** This operates in the background and scores the user’s interaction to determine if they are a bot, i.e., it verifies the request with a score.
 
 Now, select the desired **Version** of **reCAPTCHA** and provide the **Site Key** and **Secret Key** of your chosen reCAPTCHA version. **For example**, I chose V3 to show the process. 
 

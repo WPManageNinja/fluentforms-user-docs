@@ -17,9 +17,16 @@ Now, enable the **User Registration** or **Update** module.
 
 ## Configure the User Update Feed
 
-Before configuring the user update feed, you must move a particular form or create a new form for your user update.
+Before configuring the user update feed, you must use a particular form or create a new form for your user update.
 
+<<<<<<< HEAD:docs/creating-forms/specialized-form-types/create-a-wordpress-user-update-form.md
 Once the module is enabled, proceed with the form settings. Click the forms **Settings & Integration** tab. Then click the **Configure Integrations** section from the scroll down.
+=======
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms) to create a new one.
+
+Once the module is enabled, proceed with the form settings. Click the forms **Settings & Integration** tab. Then click the **Configure Integrations** section from the dropdown.
+>>>>>>> tajulauthlab:docs/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-update-form-with-fluent-forms.md
 
 Now, click the **Add New Integration** button and select the **User Registration** or **Update** **Integration** option shown in the screenshot below.
 

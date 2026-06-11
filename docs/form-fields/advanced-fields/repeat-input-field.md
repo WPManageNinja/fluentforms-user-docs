@@ -46,7 +46,7 @@ Under the Input Customization tab, you will find various settings options for cu
 
 **D. Repeat Field Columns:** To add multiple columns, click the **Plus Icon**, and to remove any column, click the **Minus Icon** from the **Column’s** right side. Click on the **Chevron Down Icon** to configure column settings.
 
-- **Filed Type:** Choose the Field Type dropdown options.
+- **Field Type:** Choose the Field Type dropdown options.
 
 - **Label:** Name the Label of the Column.
 

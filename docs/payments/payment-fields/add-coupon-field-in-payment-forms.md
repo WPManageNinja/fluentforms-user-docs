@@ -37,7 +37,7 @@ Now, fill in the following necessary information to create a new coupon code:
 
  **H. End Date:** Enter the end date for this coupon in the format of yyyy-mm-dd as an expiry date i.e., after that, this coupon will not work. Leave blank if there is no end date. 
 
- **I. Applicable Forms:** Here, you can select a single or multiple forms where this coupon will be applicable. Leave this blank if you want to apply this coupon or all forms.
+ **I. Applicable Forms:** Here, you can select a single or multiple forms where this coupon will be applicable. Leave this blank if you want to apply this coupon to all forms.
 
  **J. Coupon Limit:** Here, you can set the number of times a specific user can use this coupon. Leave this field empty or enter zero if no limits are needed.
 
@@ -87,7 +87,7 @@ All the **Settings** under the **Coupon** tab mentioned in the screenshot are br
 
 **a. Element Label**: This is the field title the users will see when filling out the **Coupon** field in a form. You can enter any text here to help users understand the purpose of the field.
 
-**b. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**b. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
 **c. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option. 
 

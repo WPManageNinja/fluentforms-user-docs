@@ -122,7 +122,7 @@ For example, you can see four new **Form Submissions** under the **Entries** tab
 
 ![Entries Tab Fluent Forms](/images/integrations/other-apps/integrate-google-sheets/12.-Entries-tab-scaled.webp)
 
-Now, go to the **Google Sheets Channel** you integrated and you can see the preview of the notification messages of Google Sheets through the Form entries.
+Now, go to the **Google Sheets Channel** you integrated and you can see the preview of the entries from Google Sheets through the Form entries.
 
 ![Preview Added Entries Integrate Google Sheets](/images/integrations/other-apps/integrate-google-sheets/13.-Preview-of-added-entries-scaled.webp)
 

@@ -19,7 +19,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 
 You can see that a **Custom Payment Amount** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Custom Payment Amount field. 
 
 1. Custom Payment Amount
 
@@ -31,13 +31,13 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 Here, you will get various settings options for customizing the field. 
 
-**A. Element Label**: This is the field title the users will see when filling out the **Item Quantity** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label**: This is the field title the users will see when filling out the **Custom Payment Amount** field in a form. You can enter any text here to help users understand the purpose of the field.
 
-**B. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
 **C. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option. 
 
-**D. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the **Item Quantity** field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
+**D. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the **Custom Payment Amount** field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
 
 **E. Required**: Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in.
 
@@ -65,7 +65,11 @@ Each option in the **Advanced Options** tab is explained below.
 
 **G. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
+<<<<<<< HEAD
 **H. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic). 
+=======
+**H. Conditional Logic**: This option allows the Custom Payment Amount field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+>>>>>>> tajulauthlab
 
 **I. Calculation Field Settings**: Enable this and provide formula expression if you want this field as calculated based on other numeric field value. To learn more, read [Numeric Calculation in Fluent Forms](/numeric-calculation).
 

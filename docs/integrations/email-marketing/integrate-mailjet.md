@@ -22,7 +22,7 @@ Once you enable **Mailjet**, you will be asked for the **API Key** and the **Sec
 
 ### Get the Mailjet API and Secret Key
 
-To learn how to get the **API Key** and **Secret Key** from **Mailjet**, follow the step by step proccess – 
+To learn how to get the **API Key** and **Secret Key** from **Mailjet**, follow the step by step process – 
 
 First, click this [Link](https://app.mailjet.com/signin?redirect=aHR0cHM6Ly9hcHAubWFpbGpldC5jb20vfDI0fDgyMzU3ZDFmMWE4Y2NjMjc4ZWRhMzI0MDUzZTNlMjY0), log into your **Mailjet Account**, go to the **Profile** in the top right corner, open the dropdown list by clicking the **Arrow Icon**, and click the **Account Settings** button. 
 

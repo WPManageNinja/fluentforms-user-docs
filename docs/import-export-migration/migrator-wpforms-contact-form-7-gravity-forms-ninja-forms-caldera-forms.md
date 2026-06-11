@@ -17,10 +17,10 @@ Alternatively, you can select **Specific** forms from the list and import only t
 
 ![Migrate Fluent Forms](/images/import-export-migration/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms/Forms-Migrate-scaled.webp)
 
-A successful message that the Form has been imported will show up in the top right corner of the page after the Form has been imported. Imported Forms will be displayed at the bottom of the page..
+A successful message that the Form has been imported will show up in the top right corner of the page after the Form has been imported. Imported Forms will be displayed at the bottom of the page.
 
 Now click the **Import Entries** button to transfer all associated entries for the imported forms into Fluent Forms. Once migrated, you can review and organize them from the [Entries](/managing-entries) page.
 
 ![Migrate Entry](/images/import-export-migration/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms/migrate-form-entry-03-scaled.webp)
 
-So, it is easy to fill out forms with other form plugins.
+So, it is easy to migrate forms from other form plugins.

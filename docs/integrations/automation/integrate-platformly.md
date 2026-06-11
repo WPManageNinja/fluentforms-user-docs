@@ -15,7 +15,7 @@ Now, turn on the **Toggle** to enable the **Platformly** module, and click the *
 
 ![Enable Platformly Integrate Platformly](/images/integrations/automation/integrate-platformly/1.-Enable-Platformly--scaled.webp)
 
-Once you enable Platformly, you will be asked for the **Platformly API Key** and **Platformly Projec ID** of your **Platformly Account**.
+Once you enable Platformly, you will be asked for the **Platformly API Key** and **Platformly Project ID** of your **Platformly Account**.
 
 > [!Note]
 > If you do not have a Platform.ly account, [create one here](https://www.platform.ly/).
@@ -93,13 +93,13 @@ Once you select the segment, a pop-up page will appear with various settings opt
 
 1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-2. **Platformly Segment:** Using the Arrow Icon, you can select the Platformly Segment where you want to add your contacts. You can also change this anytime if needed
+2. **Platformly Segment:** Using the Arrow Icon, you can select the Platformly Segment where you want to add your contacts. You can also change this anytime if needed.
 
 3. **Map Fields:** Use all the fields under this option to properly link your Platformly Fields with the Form Fields. You can easily select the value for the form fields based on the Platformly fields using the Shortcode Arrow.
 
 4. **Other Fields:** Using this option, you can also add the extra fields and map them to the Fluent Forms fields with their respective Platformly fields. You can easily select the value for the form fields based on the Platformly fields using the Shortcode Arrow. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
 
-5. **Contact Tags:** With this option, you can add tags to your Platformly contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag.Enable Dynamic Tag Input: This option allows you to add customized tags for specific Platformly contacts based on your submission values according to your set conditions.
+5. **Contact Tags:** With this option, you can add tags to your Platformly contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag. Enable Dynamic Tag Input: This option allows you to add customized tags for specific Platformly contacts based on your submission values according to your set conditions.
 
 6. **Note:** With this option, you can write a note for the contacts. You can also use Shortcodes to send dynamic data to Platformly.
 

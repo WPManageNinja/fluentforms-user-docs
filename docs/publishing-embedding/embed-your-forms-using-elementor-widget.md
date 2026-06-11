@@ -48,7 +48,7 @@ The Fluent Forms widget lets you style your form to fit your site’s look and f
 
 ![embed your forms using Elementor Widget step](/images/publishing-embedding/embed-your-forms-using-elementor-widget/04-5.webp)
 
-**Input & Textarea**: Input & Textarea you can customize as needed.
+**Input & Textarea**: You can customize the Input & Textarea fields as needed.
 
 - Background Color: Change the field background.
 

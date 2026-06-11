@@ -26,7 +26,7 @@ You will find an innovative code sample at the bottom right of the **HTML** inpu
 
 ### Using the SmartCode
 
-Now, using the Smart codes, you can show the content of the previous input. For this, use the **{dynamic.YOUR_INPUT_NAME}**, where **YOUR_INPUT_NAME** is the Name Attribute of the input fttield you want to populate.
+Now, using the Smart codes, you can show the content of the previous input. For this, use the **{dynamic.YOUR_INPUT_NAME}**, where **YOUR_INPUT_NAME** is the Name Attribute of the input field you want to populate.
 
 ### Finding the Name Attribute
 

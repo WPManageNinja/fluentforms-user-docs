@@ -20,7 +20,7 @@ Once you enable the user registration form, now create a registration form.  Go 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
 
-Now, we recommend to add the following fields to the form:
+Now, we recommend adding the following fields to the form:
 
  * **Email**: Required for user registration.
  * **Name**: Optional but recommended.
@@ -61,7 +61,11 @@ A new Window page will appear. Now, customize the User Registration feed accordi
 
 **H. Form Validation:** Enabling this option prevents duplicate registrations by checking if the user already exists in the database.
 
+<<<<<<< HEAD:docs/creating-forms/specialized-form-types/create-a-wordpress-user-registration-form.md
 **I. Conditional Logics**: This option allows Mailjet integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+=======
+**I. Conditional Logics**: This option allows the User Registration feed to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+>>>>>>> tajulauthlab:docs/creating-forms/specialized-form-types/how-to-create-a-wordpress-user-registration-form-with-fluent-forms.md
 
 **J. Status:** Enable this feed option to activate the integration.
 

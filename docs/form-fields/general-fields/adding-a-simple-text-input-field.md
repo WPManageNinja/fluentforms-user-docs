@@ -1,6 +1,6 @@
 # Adding a Simple Text Input Field
 
-The **Simple Text Input Field** in **Fluent Forms** is a versatile field for collecting **single-line text responses**, such as names, addresses, or short answers. This article will guide you through adding the **simple Text** input field in your Fluent Forms for your WordPress Site.
+The **Simple Text Input Field** in **Fluent Forms** is a versatile field for collecting **single-line text responses**, such as names, addresses, or short answers. This article will guide you through adding the **Simple Text** input field in your Fluent Forms for your WordPress Site.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/Y-uSBfhcbZo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -48,7 +48,11 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
+<<<<<<< HEAD
 **A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value,read this [article.](/dynamic-default-value)
+=======
+**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding of Dynamic Default Value, read this [article.](/docs/dynamic-default-value-in-fluent-forms)
+>>>>>>> tajulauthlab
 
 **B. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 

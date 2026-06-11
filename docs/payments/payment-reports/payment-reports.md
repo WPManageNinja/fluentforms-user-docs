@@ -24,7 +24,7 @@ The summary cards at the top offer an at-a-glance overview of your financial act
 
 - **Total Refunded:** The total amount that you have refunded to customers.
 
-- **Total Revenue:** The net income after accounting for refunds and other adjustments
+- **Total Revenue:** The net income after accounting for refunds and other adjustments.
 
 ![Payments Dashboards](/images/payments/payment-reports/payment-reports/payments-dashboards-1-scaled.webp)
 

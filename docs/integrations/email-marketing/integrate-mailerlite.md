@@ -75,7 +75,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 2. **Group List:** From here, you can change the MailerLite List anytime if needed.
 
-3. **Map Fileds:** Use all the fields under this option to properly link your ActiveCampaign Fields with the Form Fields. You can easily select the value for the form fields based on the ActiveCampaign fields using the Shortcode Arrow.
+3. **Map Fields:** Use all the fields under this option to properly link your MailerLite Fields with the Form Fields. You can easily select the value for the form fields based on the MailerLite fields using the Shortcode Arrow.
 
 4. **Conditional Logics:** This option allows MailerLite integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 

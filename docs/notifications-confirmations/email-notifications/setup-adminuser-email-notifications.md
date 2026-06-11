@@ -45,7 +45,11 @@ Here, you will get three options for setting up the **Email Notification**. Thes
 
 - Select a Field: Use this option to set up the email notification for the Users.
 
+<<<<<<< HEAD:docs/notifications-confirmations/email-notifications/setup-adminuser-email-notifications.md
 - Configure Routing: Use this set up additional [Conditional Email Routing](/conditional-email-routing).
+=======
+- Configure Routing: Use this to set up additional Conditional Email Routing.
+>>>>>>> tajulauthlab:docs/notifications-confirmations/email-notifications/how-to-setup-adminuser-email-notifications.md
 
 ## Setup Admin Notification Using Enter Email
 
@@ -102,7 +106,7 @@ Enabling this option allows you to set specific conditions for sending email not
 
 **Fluent Forms** allows you to send **PDF/Image Attachment/s** to the email notification using the **Media File Attachments** option. Also, you can delete any file by clicking the Trash Icon anytime if needed.
 
-> You should use SMTP so send the attachment via email otherwise, It may go to spam.
+> You should use SMTP to send the attachment via email otherwise it may go to spam.
 
 ![Media File Attachments Option](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/10.-Media-File-Attachments-option.webp)
 

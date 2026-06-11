@@ -74,7 +74,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 2. **ActiveCampaign List:** Using the Arrow Icon, you can select the ActiveCampaign Mailing List where you want to add your contacts. You can also change this anytime if needed.
 
-3. **Map Fileds:** Use all the fields under this option to properly link your ActiveCampaign Fields with the Form Fields. You can easily select the value for the form fields based on the ActiveCampaign fields using the Shortcode Arrow.
+3. **Map Fields:** Use all the fields under this option to properly link your ActiveCampaign Fields with the Form Fields. You can easily select the value for the form fields based on the ActiveCampaign fields using the Shortcode Arrow.
 
 4. **Tags:** With this option, you can add tags to your ActiveCampaign contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag. 
 

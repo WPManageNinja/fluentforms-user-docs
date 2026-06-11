@@ -21,7 +21,7 @@ Once you enable **Drip**, you will be asked for the **Drip API Token** and **Dri
 
 ## Get the Drip Credentials
 
-Log in to your[ Drip account](https://www.drip.com/), go to **Settings** from the left sidebar, select the **Integrations** sections, and click the **Create Integration** button at the top right corner. 
+Log in to your [Drip account](https://www.drip.com/), go to **Settings** from the left sidebar, select the **Integrations** sections, and click the **Create Integration** button at the top right corner. 
 
 Now, Click the **Setting** section from the bottom left corner and click the **User settings** options.
 
@@ -64,7 +64,11 @@ First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form**
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Drip Integration** feed from the dropdown list. 
 
+<<<<<<< HEAD:docs/integrations/crm/drip-integration.md
 ![Drip Inttegration](/images/integrations/crm/drip-integration/drip-inttegration-02.webp)
+=======
+![Drip Integration](/images/integrations/crm/drip-integration-with-fluent-forms/drip-inttegration-02.webp)
+>>>>>>> tajulauthlab:docs/integrations/crm/drip-integration-with-fluent-forms.md
 
 ### Configure Drip Integration Feed
 

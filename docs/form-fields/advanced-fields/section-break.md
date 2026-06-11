@@ -39,7 +39,7 @@ You will find various settings options for customizing the field. Located in the
 
 **A. Element Label:** This is the field title the users will see when filling out the **Section Break** field in a form. You can enter any text here to help users understand the purpose of the field.
 
-**B. Description:** Enter a subtitle/short section description here to better understand the user.
+**B. Description:** Enter a subtitle/short section description here to help the user better understand.
 
 **C. Dynamic SmartCodes:** Display dynamic content using [smart codes](/form-editor-smart-codes). 
 
@@ -73,4 +73,4 @@ Here is the **Form Preview** to test the section break field functionality.
 
 ![Preview Section Break](/images/form-fields/advanced-fields/section-break/Preview-06-1.webp)
 
-Congratulations! You will successfully add the Section Break field in your Form.
+Congratulations! You have successfully added the Section Break field in your Form.

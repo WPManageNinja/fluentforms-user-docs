@@ -86,7 +86,7 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-2. **Airtable Configuration:** Using the Arrow Icon, you can select the Airtable Mailing List where you want to add your contacts. You can also change this anytime if needed
+2. **Airtable Configuration:** Using the Arrow Icon, you can select the Airtable Mailing List where you want to add your contacts. You can also change this anytime if needed.
 
 3. **Airtable Table Dropdown:** Use all the fields under this option to properly link your Airtable Fields with the Form Fields. You can easily select the value for the form fields based on the Airtable fields using the Shortcode Arrow.
 
