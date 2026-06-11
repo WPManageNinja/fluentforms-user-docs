@@ -2,7 +2,7 @@
 
 Name Input Field is a Fluent Form field used to collect a person's full name (first name, middle name, last name) without creating separate fields. By default, it includes First and Last Name fields but can be customized to include a **Middle** Name. 
 
-This article will guide you through how you can easily configuring the **Name Input Field** in Fluent Form.
+This article will guide you through how you can easily configure the **Name Input Field** in Fluent Form.
 
 ## Adding the Name Field
 
@@ -43,7 +43,7 @@ You will find various settings options for customizing the field. Located in the
 
 - **Label Placement:** This option determines the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the Default option, it will represent your global label placement settings.
 
-- **Default:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding of Dynamic Default Value, read this article.
+- **Default:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding of Dynamic Default Value, read this article.
 
 - **Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute.
 

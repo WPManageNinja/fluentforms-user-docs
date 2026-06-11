@@ -88,7 +88,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 2. **GetResponse List:** From here, you can change the GetResponse List anytime if needed.
 
-3. **Map Fileds:** Use all the fields under this option to properly link your GetResponse Fields with the Form Fields. You can easily select the value for the Form Fields based on the GetResponse Fields using the Shortcode Arrow.
+3. **Map Fields:** Use all the fields under this option to properly link your GetResponse Fields with the Form Fields. You can easily select the value for the Form Fields based on the GetResponse Fields using the Shortcode Arrow.
 
 4. **Autoresponder Cycle:** This allows you to set the day on which the contacts will be in the Autoresponder cycle. Otherwise, keep them empty to not include them in the autoresponder.
 

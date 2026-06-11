@@ -14,7 +14,7 @@ Now, **Enabled** it to activate the approval functionality.
 
 ## Configuring Global Settings
 
-To configure Global Settings, click the **Global Settings** from the top menu. Then click the **Admin approval** section from the left sidebar. Here you can handle approval notifications. Now choose the following options are given screenshot below-
+To configure Global Settings, click the **Global Settings** from the top menu. Then click the **Admin approval** section from the left sidebar. Here you can handle approval notifications. Now choose from the following options, as shown in the screenshot below:
 
 **A. Send Email Notification:** Choose between Site Admin or Custom Email for sending email notification options.
 

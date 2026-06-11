@@ -32,7 +32,7 @@ Once you add the **Save & Resume** Input field, you can customize it by hovering
 
 ![Input Customization Fluent Forms](/images/form-fields/advanced-fields/save-progress-button-in-fluent-forms/Input-Customization-03-30-scaled.webp)
 
-### Rich Save & Resume Options
+### Save & Resume Options
 
 Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Save & Resume** Input field.
 
@@ -66,7 +66,7 @@ If you select the **Image** option, you can add an image as your button with the
 
 **H. Email Subject:** You can use {form_name} placeholder to get the Form Name.
 
-**H. Email Body:** Enter the email body text here.
+**I. Email Body:** Enter the email body text here.
 
 > [!Tip]
 > Style the **Hover** state the same way as the default state. Select **Hover** in the button style panel and apply matching colors, borders, and typography.

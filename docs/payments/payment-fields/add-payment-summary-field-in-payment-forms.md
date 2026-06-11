@@ -22,7 +22,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 
 You can see that a **Payment Summary** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Payment Summary field. 
 
 **1. Payment Summary**
 
@@ -42,7 +42,7 @@ Here, you will get the following setting option for customizing the field.
 
 Each option in the **Advanced Options** tab is explained below – 
 
-**A. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**A. Conditional Logic**: This option allows the Payment Summary field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 **B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 

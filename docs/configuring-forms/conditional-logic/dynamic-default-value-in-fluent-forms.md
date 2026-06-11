@@ -2,7 +2,7 @@
 
 Fluent Forms allows you to pre-fill input fields dynamically using the Dynamic Default Value feature. You can set a default value using one of the available options from the dynamic value dropdown.
 
-In this article you will learn about the Dynamic Default value in fluent form.
+In this article you will learn about the Dynamic Default value in Fluent Forms.
 
 ## Configure Dynamic Default Values
 
@@ -15,13 +15,13 @@ First, go to **Forms** from the top navbar, click the Edit button to **open** th
 
 ## Choose a Dynamic Value (Shortcode)
 
-Now **Select** the input field, and navigate to **Advanced Options**. Then, click the **three-dot** menu from the right sidebar under the **Default Value** options. Here, you will see all the default advanced options in fluent form.
+Now **Select** the input field, and navigate to **Advanced Options**. Then, click the **three-dot** menu from the right sidebar under the **Default Value** options. Here, you will see all the default advanced options in Fluent Forms.
 
 * **Populate by GET Param:** Sets the default value from the query string found in the URL. Make sure you keep the ‘get.’ part; otherwise, it won’t work as expected. The shortcode is – `{get.input_text}`
 
 * **Admin Email:** It will insert the site administrator’s email address from your WordPress settings. It automatically sets the admin's email address. The shortcode is – `{wp.admin_email}`
 
-* **Site URL:** With this shortcode populated with the website's URL. the shortcode is- `{wp.site_url}`
+* **Site URL:** With this shortcode populated with the website's URL. The shortcode is – `{wp.site_url}`
 
 * **Site Title:** It uses the site title. The shortcode is- `{wp.site_title}`
 
@@ -29,7 +29,7 @@ Now **Select** the input field, and navigate to **Advanced Options**. Then, clic
 
 * **Date (mm/dd/yyyy):** Sets the value from the current date in the denoted format, 04/25/1991. Shortcode is – `{date.m/d/Y}`
 
-* **Date (dd/mm/yyyy):**  Sets the value from the current date in the denoted format, 25/04/1991. . The shortcode is – `{date.d/m/Y}`
+* **Date (dd/mm/yyyy):**  Sets the value from the current date in the denoted format, 25/04/1991. The shortcode is – `{date.d/m/Y}`
 
 * **Embedded Post/Page ID:** Sets the value from the current post or page ID. The shortcode is – `{embed_post.ID}`
 
@@ -55,7 +55,7 @@ Now **Select** the input field, and navigate to **Advanced Options**. Then, clic
 
 * **User Operating System:** Fetches the user’s operating system ( Windows, macOS). The shortcode is – `{browser.platform}`
 
-* **FluentCRM Data**: Pulls specific data from FluentCRM (user tags or segments). It uses tailoring forms for CRM-integrated workflows. THe shortcode is- `{fluentcrm.CONTACT_DATA_KEY}`
+* **FluentCRM Data**: Pulls specific data from FluentCRM (user tags or segments). It uses tailoring forms for CRM-integrated workflows. The shortcode is – `{fluentcrm.CONTACT_DATA_KEY}`
 
 * **Random String with Prefix:** Generates random strings each time when the form loads. It will be useful for anyone who wants to generate a unique set of strings. 
 

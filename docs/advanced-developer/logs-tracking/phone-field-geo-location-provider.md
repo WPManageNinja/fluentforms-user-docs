@@ -6,7 +6,7 @@ Follow this simple step by step process to enable this feature.
 
 ## Get an IPinfo Access Token
 
-Fluent Forms used ipinfo.io to verify users’ GEO Locations which just works fine for a general form.
+Fluent Forms uses ipinfo.io to verify users’ GEO Locations which just works fine for a general form.
 
 Now login to [ipinfo.io](http://ipinfo.io) account. The free plan includes up to **50,000 validations per month**. If you expect more, consider upgrading to a paid plan.
 

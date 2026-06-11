@@ -22,7 +22,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 
 You can see that an **Item Quantity** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Item Quantity field. 
 
 **1. Item Quantity**
 
@@ -36,7 +36,7 @@ Each option in the **Item Quantity** tab is explained below.
 
 **A. Element Label**: This is the field title the users will see when filling out the **Item Quantity** field in a form. You can enter any text here to help users understand the purpose of the field.
 
-**B. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
 **C. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option. 
 
@@ -72,7 +72,7 @@ Each option in the **Advanced Options** tab is explained below.
 
 **H. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**I. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**I. Conditional Logic**: This option allows the Item Quantity field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/5.-Advanced-Options-2-scaled.webp)
 

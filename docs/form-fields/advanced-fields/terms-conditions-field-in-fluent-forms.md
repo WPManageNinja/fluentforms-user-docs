@@ -25,7 +25,7 @@ Now, select the desired **Term & Condition** **Input** field by clicking on it o
 
 ## Customizing the Terms & Conditions Field
 
-Once you add the captcha field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the Terms & Conditions field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
 
 - Terms & Conditions Options
 

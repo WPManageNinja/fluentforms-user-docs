@@ -85,7 +85,7 @@ Now, a page will appear with various settings options for configuring the Campai
 
 1. **Name:** From here, you can change the name anytime if needed.
 
-2. **Campaign Monitor List:** Using the Arrow Icon, you can select the Campaign Monitor Subscriber List where you want to add your contacts. You can also change this anytime if needed
+2. **Campaign Monitor List:** Using the Arrow Icon, you can select the Campaign Monitor Subscriber List where you want to add your contacts. You can also change this anytime if needed.
 
 3. **Map Fields:** Use all the fields under this option to properly link your Campaign Monitor Fields with the Form Fields. You can easily select the value for the form fields based on the Campaign Monitor fields using the Shortcode Arrow.
 

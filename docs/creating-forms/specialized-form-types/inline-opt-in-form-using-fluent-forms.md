@@ -40,7 +40,7 @@ Insert a new section into your layout and use the following CSS styles to give i
 
 #### Add a Heading
 
-Now it’s time to add a **Heading**. ou can use an `<h2>` or `<h3>` tag styled like this:
+Now it’s time to add a **Heading**. You can use an `<h2>` or `<h3>` tag styled like this:
 
 ```
 .heading {

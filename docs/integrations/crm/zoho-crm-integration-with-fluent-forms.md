@@ -1,6 +1,6 @@
 # Zoho CRM Integration with Fluent Forms
 
-[Zoho CRM](https://www.zoho.com/) is an online Sales CRM software that manages your sales, marketing, and support in one CRM platform. By Integrating Zoho CRM with Fluent Forms allows you to grow your Zoho CRM Subscriber list through the users of Fluent Forms. 
+[Zoho CRM](https://www.zoho.com/) is an online Sales CRM software that manages your sales, marketing, and support in one CRM platform. Integrating Zoho CRM with Fluent Forms allows you to grow your Zoho CRM Subscriber list through the users of Fluent Forms. 
 
 This article will step by step guide you through integrating Zoho CRM with Fluent Forms on your WordPress Site.
 
@@ -51,7 +51,7 @@ After that, click the **Save Settings** button.
 
 ![Global Settings](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Global-Settings-08-scaled.webp)
 
-Then it is redirect to your Zoho CRM account for your confirmation. Click the **Accept** button.
+Then you are redirected to your Zoho CRM account for your confirmation. Click the **Accept** button.
 
 ![Accept Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/accept-07.webp)
 
@@ -106,4 +106,4 @@ You can see form submissions from the **Entries** section of this particular for
 
 ![Zoho Entries Fluent Forms](/images/integrations/crm/zoho-crm-integration-with-fluent-forms/Zoho-entries-scaled.webp)
 
-Following this simple steps, you can easily integrate Zoho CRM with Fluent Forms!
+Following these simple steps, you can easily integrate Zoho CRM with Fluent Forms!

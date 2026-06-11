@@ -57,4 +57,4 @@ After that, click the **Entries** section of this form. You will see the entry r
 
 ![Input Hidden](/images/form-fields/advanced-fields/hidden-input-field-in-fluent-forms/input-hidden-07.png)
 
-Congratulations! You will successfully add the Hidden field in your Form.
+Congratulations! You have successfully added the Hidden field in your Form.

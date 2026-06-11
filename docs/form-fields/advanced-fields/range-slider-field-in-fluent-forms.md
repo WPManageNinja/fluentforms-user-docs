@@ -20,7 +20,7 @@ Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, 
 
 ![Editor](/images/form-fields/advanced-fields/range-slider-field-in-fluent-forms/Form-Editor-01-3-scaled.webp)
 
-Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.zz
+Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
 
 Now, select the **Range Slider** field by clicking on it or dragging and dropping it into your editor.
 
@@ -28,7 +28,7 @@ Now, select the **Range Slider** field by clicking on it or dragging and droppin
 
 ## Customizing the Range Slider Field
 
-Once you add the **Range Slider** fiezld, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
+Once you add the **Range Slider** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
 
 - Range Slider Options
 
@@ -64,7 +64,7 @@ You can add **a default value** by clicking the **Three-Dot** option on the righ
 
 ### Advanced Options
 
-Advanced settings allow furtherz customization to meet specific use cases. 
+Advanced settings allow further customization to meet specific use cases. 
 
 **A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 

@@ -31,13 +31,13 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 Configure **Post Update** labels and post selection options:
 
-**A. Element Label**: This is the field Update the users will see when filling out the **Post Update** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label**: This is the field title the users will see when filling out the **Post Update** field in a form. You can enter any text here to help users understand the purpose of the field.
 
-**B. Admin Field Label**: The admin field label is a field Update displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
+**B. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
 
 **C. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
 
-**D. Label Placement**: Using this option, you can determine the position of the label Update where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default.** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings. 
+**D. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default.** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings. 
 
 **E. Filter Posts**: Here, you can select which Posts you want to show in your form. 
 
@@ -51,7 +51,7 @@ Configure **Advanced** options:
 
 **A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
+**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SmartCodes**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
 
 **C. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
 
@@ -59,7 +59,7 @@ Configure **Advanced** options:
 
 **E. Element Class**: Add custom CSS classes to the input field itself. This is used for adding Custom CSS/JS for a specific input field of a form.
 
-**F. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**F. Conditional Logic**: This option allows the Post Update field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **G. Enable Searchable Smart Options**: If you enable this option, it will be searchable by the select2 js library.
 

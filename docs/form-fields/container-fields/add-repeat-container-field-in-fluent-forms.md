@@ -88,7 +88,7 @@ To integrate and display the form on a specific Page/Post, **copy** the **Shortc
 
 ### Preview of Repeat Container field
 
-Here is the preview of the added **Repeat Container** field under the Payment Form. 
+Here is the preview of the added **Repeat Container** field under the Form. 
 
 ![Preview Repeat Container Field](/images/form-fields/container-fields/add-repeat-container-field-in-fluent-forms/preview-8.webp)
 

@@ -26,16 +26,16 @@ Now, you will configure the Email Subject for a double opt-in email with the **G
 
 ### Sender and Reply-To Settings
 
- * **From Name:** Enter the name you want the notification email sent. 
+ * **From Name:** Enter the name you want the notification email sent from. 
 
  * **From Email:** Enter the email from which you would like the notification email sent.
 
  * **Reply To:** Enter the email that you would like to be used as the reply-to address for the notification email. 
 
-If the Reply to the field is empty, the email sent by your domain's SMTP will work by default.
+If the Reply To field is empty, the email sent by your domain's SMTP will work by default.
 
 > [!Note]
-> The confirmation message will not work if your outgoing email and reply to an email address are already set to a different one than the one you set in fluent forms. So make sure they match.
+> The confirmation message will not work if your outgoing email and reply-to email address is already set to a different one than the one you set in fluent forms. So make sure they match.
 
 ![Fluent Forms](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails-in-fluent-forms/03-3-scaled-2.webp)
 

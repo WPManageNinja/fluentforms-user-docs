@@ -2,7 +2,7 @@
 
 Fluent Forms allows you to integrate **Akismet** to enhance security for your form entries, protecting them from spambots and keeping your contact lists spam-free. This article will guide you through the process of integrating **Akismet** with **Fluent Forms.**
 
-## Installing & Activating Akismet in
+## Installing & Activating Akismet
 
 > [!Note]
 > Before starting the Akismet integration, install and activate the **Akismet** plugin on your WordPress site. Otherwise, the Akismet integration option will not appear in Fluent Forms.
@@ -23,7 +23,7 @@ First, go to **Global Settings** from the **WordPress Left Sidebar** or **Fluent
 
 - **Enable Akismet Integration:** Now, turn on this toggle, and the security will be enabled to verify your form submissions with Akismet and provide better security.
 
-- **Spam Validation:** Using this option, you can select what will happen once a submission is marked as spam. You can choose any one among these "Mask as Spam", "Make the Form Submission as failed", or "Mark as Spam and Skip Processing" options.
+- **Spam Validation:** Using this option, you can select what will happen once a submission is marked as spam. You can choose any one among these "Mark as Spam", "Make the Form Submission as failed", or "Mark as Spam and Skip Processing" options.
 
 Lastly, don’t forget to click the **Save Settings** button to make all the setup functional. 
 

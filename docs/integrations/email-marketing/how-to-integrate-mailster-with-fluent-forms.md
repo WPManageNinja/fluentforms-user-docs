@@ -20,7 +20,7 @@ Then, go to **Integrations** from the **Fluent Forms Navbar**, search for **Mail
 
 ## Integrate Mailster in Forms
 
-Once the Mailster Integration module is enabled, you can integrate it with any desired form.First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailster** and click the **Settings** button. 
+Once the Mailster Integration module is enabled, you can integrate it with any desired form. First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailster** and click the **Settings** button. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/docs/how-to-create-a-form-with-fluent-forms) or [Create a Form using Templates](/docs/using-and-customizing-pre-built-quick-forms-in-fluent-forms).
@@ -35,7 +35,7 @@ Now, a page will appear with various settings options for configuring the Mailst
 
 1. **Name:** From here, you can change the name anytime if needed.
 
-2. **Mailster Lists:** Using the Arrow Icon, you can select the Mailster Subscriber List where you want to add your contacts through Fluent Forms submissions. You can also change this anytime if needed
+2. **Mailster Lists:** Using the Arrow Icon, you can select the Mailster Subscriber List where you want to add your contacts through Fluent Forms submissions. You can also change this anytime if needed.
 
 3. **Name and Email:** Use all the fields to properly link your Mailster’s Name and Email fields with the Form’s Name and Email fields. You can easily select the value for the form fields based on the Mailster fields using the Shortcode Arrow.
 
@@ -43,7 +43,7 @@ Now, a page will appear with various settings options for configuring the Mailst
 
 5. **Enter Referer Name:** With this option, you can write the referrer name for the contacts. You can also use Shortcodes to send dynamic data to Mailster.
 
-6. **Custom Fields:** Using this option, you can also link the Fluent Forms fields with their respective Mailster custom fields. But, remember. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
+6. **Custom Fields:** Using this option, you can also link the Fluent Forms fields with their respective Mailster custom fields. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
 
 7. **Conditional Logics:** This option allows Mailster integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
@@ -67,7 +67,7 @@ For example, you can see four new **Form Submissions** under the **Entries** tab
 
 ![Entries Fluent Forms](/images/integrations/email-marketing/how-to-integrate-mailster-with-fluent-forms/7.-Form-Entries-scaled.webp)
 
-Now, go to your [Mailster](http://mailjet.com) account, go to the **Lists** from the **WordPress Left Sidebar** or **Mailster Navbar,** and click the **Subscribers** of the desired list you integrated with Fluent Forms.
+Now, go to your [Mailster](https://mailster.co) account, go to the **Lists** from the **WordPress Left Sidebar** or **Mailster Navbar,** and click the **Subscribers** of the desired list you integrated with Fluent Forms.
 
 ![Mailster List Preview](/images/integrations/email-marketing/how-to-integrate-mailster-with-fluent-forms/8.-Mailster-List-Preview-scaled.webp)
 

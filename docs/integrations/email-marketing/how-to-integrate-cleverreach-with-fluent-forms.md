@@ -95,7 +95,7 @@ Once you select the form, a pop-up page will appear with various settings option
 
 2. **CleverReach List:** From here, you can change the CleverReach List anytime if needed.
 
-3. **Map Fileds:** Use this option to properly link your CelverReach Field with the Form Field. You can easily select the value for the Form field based on the CelverReach Field using the Shortcode Arrow.
+3. **Map Fields:** Use this option to properly link your CleverReach Field with the Form Field. You can easily select the value for the Form field based on the CleverReach Field using the Shortcode Arrow.
 
 4. **Conditional Logics:** This option allows CleverReach integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 

@@ -1,6 +1,6 @@
 # Help Message Customization in Fluent Forms
 
-Help message in [Fluent Forms](https://wordpress.org/plugins/fluentform/) to make your forms more understandable to the audience by providing additional context or instructions from fields. These can appear as tooltips, below input fields, or in other positions to guide users effectively. 
+Help message in [Fluent Forms](https://wordpress.org/plugins/fluentform/) to make your forms more understandable to the audience by providing additional context or instructions for fields. These can appear as tooltips, below input fields, or in other positions to guide users effectively. 
 
 This guide will show you how to customize your help message easily with Fluent Forms.
 

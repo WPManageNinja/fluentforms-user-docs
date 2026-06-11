@@ -63,7 +63,7 @@ Once you select the integration, a page will appear with various settings option
 
 1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-2. **Map Fileds:** Use all the fields under this option to properly link your GetGist Fields with the Form Fields. You can easily select the value for the Form Fields based on the GetGist fields using the Shortcode Arrow.
+2. **Map Fields:** Use all the fields under this option to properly link your GetGist Fields with the Form Fields. You can easily select the value for the Form Fields based on the GetGist fields using the Shortcode Arrow.
 
 3. **Lead Tags:** With this option, you can add tags to your GetGist contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag.
 
@@ -96,7 +96,7 @@ From the **Entries** section of this particular form, you can see four form subm
 
 Now, go to the **Contacts** section from the top navbar, and open the **Contacts** tab.
 
-And, you can see that the users who submitted forms in **Fluent Forms** are added automatically added in the selected **GetGist Contact List.** 
+And, you can see that the users who submitted forms in **Fluent Forms** are automatically added to the selected **GetGist Contact List.** 
 
 ![Preview Added Contacts Integrate Gist](/images/integrations/email-marketing/how-to-integrate-gist-with-fluent-forms/10.-Preview-of-added-contacts-scaled.webp)
 

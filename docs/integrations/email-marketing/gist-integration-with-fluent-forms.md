@@ -13,7 +13,7 @@ Now, turn on the **Toggle** to enable the **GetGist** module and click the **Set
 
 ![Enable Getgist Integration](/images/integrations/email-marketing/gist-integration-with-fluent-forms/Enable-GetGist-Integration-01-scaled.webp)
 
-Once you enable GeGist, you will be asked for the **GetGist API Key** of your **GetGist Account**.
+Once you enable GetGist, you will be asked for the **GetGist API Key** of your **GetGist Account**.
 
 ![Configuration Getgist](/images/integrations/email-marketing/gist-integration-with-fluent-forms/Configuration-GetGist-02-scaled.webp)
 
@@ -60,7 +60,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 **D. Push IP Address:** Enable this option to send the submitter's last seen IP address to the Gist lead.
 
-**E. Conditional Logic:** If you want to allow **Insightly** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
+**E. Conditional Logic:** If you want to allow **GetGist** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more about conditional logic, read the [article](/docs/set-up-forms-with-conditional-logic-in-fluent-forms).
 
 **F. Status:** Enable this feed option to activate the integration.
 

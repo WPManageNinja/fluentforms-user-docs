@@ -31,7 +31,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 Configure **Featured Image** labels and upload options:
 
-**A. Element Label**: This is the field content the users will see when filling out the **Post Content** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label**: This is the field content the users will see when filling out the **Featured Image** field in a form. You can enter any text here to help users understand the purpose of the field.
 
 **B. Admin Field Label**: The admin field label is a field Content displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
 
@@ -39,9 +39,9 @@ Configure **Featured Image** labels and upload options:
 
 **D. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
 
-**E. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SamrtCode**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
+**E. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SmartCode**. To learn the details about SmartCodes, read this [Documentation](/docs/form-editor-smart-codes). 
 
-**F. Label Placement**: Using this option, you can determine the position of the label Content where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**F. Label Placement**: Using this option, you can determine the position of the label Content where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
 
 **G. Required:** Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in.
 
@@ -65,7 +65,7 @@ Configure **Advanced** options:
 
 **D. Element Class**: Add custom CSS classes to the input field itself. This is used for adding Custom CSS/JS for a specific input field of a form.
 
-**E. Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+**E. Conditional Logic**: This option allows the Featured Image field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 ![Advanced Options](/images/form-fields/post-taxonomy-fields/add-featured-image-field-in-post-forms/5.-Advanced-Options-6-scaled.webp)
 

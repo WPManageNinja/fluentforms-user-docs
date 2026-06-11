@@ -104,7 +104,7 @@ After all this is done, click the **Update** or **Publish** button.
 
 To enable post/cpt module, go to **Integrations** from the Fluent Forms Navbar, search for **Post/CPT** through the search bar, and get the **Post/CPT** module.
 
-Now, turn on the Hubspot **Enabled** button.
+Now, turn on the **Enabled** button.
 
 Now, select an existing **Post Form** from the Fluent Forms dashboard or create a new one. 
 
@@ -126,7 +126,7 @@ Now, navigate to **Settings & Integration** in the post form settings. Go to the
 
 Or if you uncheck the **Allowed** button, it limits post submission to logged-in users only.
 
-**Post Status:** In the post status section you can set the posts where it is saved. There are three options include-
+**Post Status:** In the post status section you can set the posts where it is saved. The three options include:
 
    - **Draft:** Save submissions for manual review before publishing.
    - **Publish:** Automatically make posts live upon submission.

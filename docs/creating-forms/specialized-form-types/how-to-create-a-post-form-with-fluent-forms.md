@@ -69,7 +69,7 @@ Now, select the necessary fields by **clicking** on them or **Drag & Drop** them
 
 ## Customize the Form
 
-Now you are on the **Editor** page of your newly created conversational form. Here you can see three fields are already added that you can customize according to your needs. 
+Now you are on the **Editor** page of your newly created Post Form. Here you can see three fields are already added that you can customize according to your needs. 
 
 To customize an added field, **hover over it** and the following customization options will appear. 
 
@@ -112,7 +112,7 @@ Then, a pop-up page will appear with various settings options for configuring th
 
 **B. Post Type**: You can not change the Post Type. That is why select the Post Type at the beginning of form creation. 
 
-**C. Submission Type**: Here, you can select the submission type. Actually, For post updates, only one feed is available, if you have more than one feed the first one will work.
+**C. Submission Type**: Here, you can select the submission type. For post updates, only one feed is available. If you have more than one feed, the first one will work.
 
 **D. Allow Logged out user to create Posts**: This option is enabled by default. Disable this if you want to allow guest users to update posts. Otherwise, keep it enabled.
 
@@ -143,7 +143,7 @@ You can modify your feed anytime by clicking the **Settings Icon** and delete it
 
 ![Post feed saved](/images/creating-forms/specialized-form-types/how-to-create-a-post-form-with-fluent-forms/13.-Added-Post-Feed-scaled.webp)
 
-## Ember Form into Frontend
+## Embed Form into Frontend
 
 Once you complete the process, press the **Save** **Form** button to save all your changes.
 
@@ -162,4 +162,4 @@ Here is the **preview** of the **Post Form** that we just created.
 
 ![Post form preview](/images/creating-forms/specialized-form-types/how-to-create-a-post-form-with-fluent-forms/16.-Form-Preview.webp)
 
-This way you can easily create the **Post Forms** in Fluent Forms Forms!
+This way you can easily create the **Post Forms** in Fluent Forms!

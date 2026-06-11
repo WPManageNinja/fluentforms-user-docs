@@ -13,13 +13,13 @@ Click on the **Enable Per Step Data Save (Save & Continue)** option to save data
 > [!Note]
 > Partial entries will be saved after clicking on the Next button, not on form submission.
 
-**Example:** If you have a five-step form and the user fills up the three-step and leaves the form, you will get the three-step data as partial entries. 
+**Example:** If you have a five-step form and the user fills in three steps and leaves the form, you will get the three-step data as partial entries. 
 
 ### Enable Resume Step from Last Session
 
-Enable the **Resume Stop from last step form session** option, allowing users to continue from the last session. 
+Enable the **Resume Step from last step form session** option, allowing users to continue from the last session. 
 
-**Example:** If the user fills up three-step from five steps forms and leaves the form or refreshes the page, he will resume in the step he left, which is the third step.
+**Example:** If the user fills in three steps of a five-step form and leaves the form or refreshes the page, he will resume in the step he left, which is the third step.
 
 ![Partial Steps Fluent Forms](/images/managing-submissions/entries/partial-entries-for-step-forms/Partial-Steps-scaled.webp)
 

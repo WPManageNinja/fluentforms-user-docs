@@ -27,7 +27,7 @@ Now, select the desired **Country List** **Input** field by **clicking** on it o
 
 ## Customizing the Country List Field
 
-Once added, you can customize the field. **Hover over the field** and click the **Pencil Icon** to open the **Input Customization** tab. It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+Once added, you can customize the field. **Hover over the field** and click the **Pencil Icon** to open the **Input Customization** tab. It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Country List field. 
 
 - Country List Input field options
 
@@ -57,7 +57,7 @@ Suppose your country is the United States (US), type ‘UN’ to see a list of U
 
 **Global error message:** If you enable this option, a global [error message](/docs/error-message-customization-with-fluent-forms) will be displayed if the field is not filled out when required.
 
-The default error message displayed is that his field is **required**.
+The default error message displayed is that this field is **required**.
 
 ![Country List Options](/images/form-fields/general-fields/country-list-field-in-fluent-form/Country-list-options-04-scaled.webp)
 
@@ -83,7 +83,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 - **Priority Based:** You can highlight certain countries at the top of the list. For example, if most of your users are from the US, UK, and Canada, you can prioritize these.
 
-This country will rank first in the search results. Two additional options exist: the **Primary** **Countries Label** and the **Other Countries Label**. Users can choose their **Primary** and **Country** labels on the priority list.
+This country will rank first in the search results. Two additional options exist: the **Primary** **Countries Label** and the **Other Countries Label**. Users can choose their **Primary** and **Other Country** labels on the priority list.
 
 ![Prority Based](/images/form-fields/general-fields/country-list-field-in-fluent-form/prority-based-07-scaled.webp)
 
@@ -109,4 +109,4 @@ Here is the preview of the added country list field under the Form.
 
 ![Preview Country List 1024x488](/images/form-fields/general-fields/country-list-field-in-fluent-form/preview-country-list-09-1024x488.webp)
 
-**Congratulations!** Your **Country List Input Field** is now ready to collect single-line responses from users.
+**Congratulations!** Your **Country List Input Field** is now ready to collect country selections from users.

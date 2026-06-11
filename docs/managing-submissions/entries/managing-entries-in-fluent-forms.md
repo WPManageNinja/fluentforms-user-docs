@@ -2,7 +2,7 @@
 
 Fluent Forms allows you to track, view, and manage all your form submissions without opening each form individually. Every user submission is automatically saved in the backend, and you can easily see a summary of all submissions from the **All Forms** screen.
 
-In this article, we'll show you how all the Entries are Manage, views, and exports in FluentForms.
+In this article, we'll show you how to manage, view, and export entries in Fluent Forms.
 
 ## Entries Dashboards
 

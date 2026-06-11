@@ -47,4 +47,4 @@ Here is the **Preview** of the **Form** to test the reCAPTCHA field functionalit
 
 ![Preview 1024x515 reCAPTCHA Field](/images/security-spam/recaptcha-field-in-fluent-forms/preview-05-1024x515.webp)
 
-Congratulations. You will successfully add the reCAPTCHA field in your Form.
+Congratulations. You have successfully added the reCAPTCHA field to your Form.

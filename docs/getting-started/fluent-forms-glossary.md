@@ -20,7 +20,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 ## C
 
-* **Calculation (Numeric Calculation):** A Pro feature that performs math on numeric field values totals, subtotals, and formulas including inside repeaters and conversational forms. See [Numeric Calculation in Fluent Forms](/docs/numeric-calculation-in-fluent-forms).
+* **Calculation (Numeric Calculation):** A Pro feature that performs math on numeric field values — totals, subtotals, and formulas including inside repeaters and conversational forms. See [Numeric Calculation in Fluent Forms](/docs/numeric-calculation-in-fluent-forms).
 
 * **Chained Select Field:** A dependent dropdown field where each level’s options depend on the previous selection (for example, country → state → city). See [Chained Select Field in Fluent Forms](/docs/chained-select-field-in-fluent-forms).
 

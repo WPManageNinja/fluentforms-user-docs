@@ -5,7 +5,7 @@ Fluent Forms allows you to pre-fill form fields using subscriber data from [**Fl
 This guide will walk you through the steps to automatically populate form fields with FluentCRM contact data.
 
 >[!Note]
-> Only logged in users will get pre-populate form fields with FluentCRM data.
+> Only logged-in users will get pre-populated form fields with FluentCRM data.
 
 ## Enable the FluentCRM Module
 
@@ -72,4 +72,4 @@ To verify pre-populated data, go to the **FluentCRM** contacts. Locate the conta
 
 ![Custom FluentCRM Data](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/custom-fluentcrm-data-09-scaled.webp)
 
-So, this feature helps your user auto-fille your users details and helps to not re enter the data again and again.
+So, this feature helps your user auto-fill your users' details and helps to not re-enter the data again and again.

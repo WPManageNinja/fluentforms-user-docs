@@ -32,7 +32,7 @@ Now, a pop-up page will appear with various settings options for configuring the
 
 - **Webhook URL:** Here, provide the Zapier Webhook URL where you want to send the Fluent Forms submission data. Read this Section to learn how to get the Zapier Webhook URL.
 
-- **Conditional Logics:** This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
+- **Conditional Logics:** This option allows Zapier integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read this Documentation.
 
 Once the setup is done, click the **Save Feed** button, and your Zapier will be integrated into this specific form!
 

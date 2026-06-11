@@ -20,9 +20,9 @@ Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, 
 
 Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Container** input fields module. The **Container** option is also in the right sidebar under the **Input** **Fields** tab. 
 
-Under the **Container** module, you will see that **Six Types** of **Container** fields are available. Each types types of container have the same functionality except the number of added columns.
+Under the **Container** module, you will see that **Six Types** of **Container** fields are available. Each type of container has the same functionality except the number of added columns.
 
-Now, choose the desired **Column Layout** by clicking on it or **Drag & Drop** it into your editor. **For example**, I selected **Three Column Cotainer**.
+Now, choose the desired **Column Layout** by clicking on it or **Drag & Drop** it into your editor. **For example**, I selected **Three Column Container**.
 
 ![Container Fields Three Column Container](/images/form-fields/container-fields/add-container-fields-in-fluent-forms/2.-Container-Fields-Three-column-container-scaled.webp)
 
@@ -51,7 +51,7 @@ It will take you to the **Input Customization** tab on the right side and offer 
 
 A. **Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
-B. **Conditional Logic**: This option allows the coupon field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
+B. **Conditional Logic**: This option allows the container field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/docs/set-up-forms-with-conditional-logic-in-fluent-forms). 
 
 C. **Column Width**: Using this option, you can set the width of the columns. The minimum column width is 10%.
 

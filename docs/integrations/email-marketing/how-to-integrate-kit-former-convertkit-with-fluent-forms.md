@@ -73,7 +73,7 @@ Once you select the form, a pop-up page will appear with various settings option
 
 2. **ConvertKit Form:** From here, you can change the ConvertKit Form anytime if needed.
 
-3. **Map Fileds:** Use all the fields under this option to properly link your ConvertKit Fields with the Form Fields. You can easily select the value for the Form Fields based on the ConvertKit Fields using the Shortcode Arrow.
+3. **Map Fields:** Use all the fields under this option to properly link your ConvertKit Fields with the Form Fields. You can easily select the value for the Form Fields based on the ConvertKit Fields using the Shortcode Arrow.
 
 4. **Contact Tags:** With this option, you can add tags to your ConvertKit contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag.Enable Dynamic Tag Input: This option allows ConvertKit to add customized tags for specific contacts based on your submission values according to your set conditions.
 

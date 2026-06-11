@@ -40,7 +40,7 @@ Once you add the **Quiz Score Input** field, you can customize it by hovering ov
 
 ### Quiz Score Field Options
 
-Under the Input Customization tab, you will find various settings options for customizing the field.These options allow you to configure essential aspects of the **Quiz Score Input** field.
+Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Quiz Score Input** field.
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
 
@@ -84,7 +84,7 @@ Here is the preview of the added **Quiz Score** field under the Form.
 
 ![Preview Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/preview-01.webp)
 
-After submitting the form see as the screenshot below.
+After submitting the form, see the screenshot below.
 
 ![Preview Quiz Score](/images/form-fields/advanced-fields/quiz-score-in-fluent-forms/preview-02.webp)
 

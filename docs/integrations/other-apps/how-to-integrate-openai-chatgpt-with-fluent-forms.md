@@ -103,7 +103,7 @@ After integrating the OpenAI ChatGPT Feed, you will receive a shortcode that mus
 > [!Tip]
 > Use the **ChatGPT feed shortcode** in confirmation messages, email notifications, or PDF feeds.
 
-To add Shortcode for Submission Confirmation, follow the proccess below – 
+To add Shortcode for Submission Confirmation, follow the process below – 
 
 First, go to **Settings & Integrations** and open the **Confirmation Settings** option under **Settings** from the left menu.
 

@@ -40,7 +40,7 @@ Then, return to the **Twilio Settings** page under the **Configure Integration**
 
 Now, paste the **Twilio Access SID** and **Auth Token** I copied. Click on the **Save Settings** button.
 
-![Globql Settings](/images/integrations/other-apps/twilio-integration-with-fluent-forms/Globql-settings-04-scaled.webp)
+![Global Settings](/images/integrations/other-apps/twilio-integration-with-fluent-forms/Globql-settings-04-scaled.webp)
 
 Here, you will see a success notice that the Twilio Access Token has been verified successfully.
 

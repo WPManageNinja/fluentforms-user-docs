@@ -1,6 +1,6 @@
 # AmoCRM Integration with Fluent Forms
 
-AmoCRM is an email marketing tool designed to help you manage customer leads, tasks, and sales teams. By integrating AmoCRM with Fluent Forms, you can collect leads and other essential information from user form submissions, streamlining your marketing strategies and meeting your business needs.
+amoCRM is a CRM and sales automation tool designed to help you manage customer leads, tasks, and sales teams. By integrating AmoCRM with Fluent Forms, you can collect leads and other essential information from user form submissions, streamlining your marketing strategies and meeting your business needs.
 
 This article will guide you through integrating **amoCRM** with **Fluent Forms** on your **WordPress Site**.  
 
@@ -13,7 +13,7 @@ First, go to **Integrations** from the Fluent Forms Navbar, search for **amoCRM*
 
 Now, **toggle** to enable the **amoCRM** module and click the **Settings Icon** button on the right.
 
-![Enable amoCRM Integrationj](/images/integrations/crm/amocrm-integration-with-fluent-forms/Enable-amoCRM-integrationj-01-scaled.webp)
+![Enable amoCRM Integration](/images/integrations/crm/amocrm-integration-with-fluent-forms/Enable-amoCRM-integrationj-01-scaled.webp)
 
 Once you enable amoCRM, you will be asked for the **amoCRM Integration ID** and **amoCRM Secret Key** of your **amoCRM Account**.
 

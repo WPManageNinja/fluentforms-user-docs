@@ -1,6 +1,6 @@
 # Modal/Popup/Lightbox in Fluent Forms
 
-Fluent Forms offers you to built-in popup feature makes displaying forms in a modal, popup, or lightbox easily. It also offers a button-based popup trigger for forms.
+Fluent Forms offers a built-in popup feature that makes displaying forms in a modal, popup, or lightbox easy. It also offers a button-based popup trigger for forms.
 
 In this documentation you will learn how to create and customize a popup form using Fluent Forms.
 
