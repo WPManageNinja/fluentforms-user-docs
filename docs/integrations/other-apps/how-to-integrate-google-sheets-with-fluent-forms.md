@@ -26,6 +26,10 @@ To get the Access Code from Google, [click here](https://accounts.google.com/o/o
 
 ![Gmail Fluent Forms](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/3.-Desired-gmail.webp)
 
+Then, click on the **Continue** button for next.
+
+![Gmail Fluent Forms](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/continue-button-2.webp)
+
 Once you continue with the desired Google Account, it will take you to the **Fluent Forms Server** and generate an **Access Code**. Simply, copy the access code by clicking on the **Copy** button.
 
 ![Copy Access Code](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/4.-Copy-access-code.webp)
@@ -80,7 +84,7 @@ First, open your Google Sheet where you want to receive the entries of your form
 
 Now you will get the **Spreadsheet ID** inside the **Spreadsheet URL**. Copy the marked portion as it is the **ID** of this particular **Spreadsheet**.
 
-**For example**, if the spreadsheet URL is “https://docs.google.com/spreadsheets/d/19BXmmGQUB8v_jBNJZydbos-sFIzysSFTgeKmDsh-XLc/edit?gid=0#gid=0”, the **ID** of this spreadsheet will be “**19BXmmGQUB8v_jBNJZydbos-sFIzysSFTgeKmDsh-XLc/edit**”.
+**For example**, if the spreadsheet URL is “https://docs.google.com/spreadsheets/d/1MsMecMYrSi1A4dYiHH_0bMQD-vflitL2gtw3OKgLZ24/edit?gid=0#gid=0”, the **ID** of this spreadsheet will be “**1MsMecMYrSi1A4dYiHH_0bMQD-vflitL2gtw3OKgLZ24/edit**”.
 
 #### Worksheet Name
 
