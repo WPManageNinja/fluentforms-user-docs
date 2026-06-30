@@ -51,7 +51,7 @@ Now, return to the **APIs & Services** tab, go to the **Credentials** from the l
 
 The **Create API key** popup opens. Enter a name for the key, then under **API restrictions**, select **Maps JavaScript API** and **Places API**. Click **Create**.
 
-![Create API Key](/images/integrations/other-apps/how-to-integrate-google-maps-with-fluent-forms/Create-API-key-10.webp)
+![Create API Key](/images/integrations/other-apps/integrate-google-maps/Create-API-key-10.webp)
 
 After the key is created, copy it by clicking the **Copy** button.
 

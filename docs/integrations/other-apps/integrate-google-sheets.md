@@ -28,7 +28,7 @@ To get the Access Code from Google, [click here](https://accounts.google.com/o/o
 
 Then, click on the **Continue** button for next.
 
-![Gmail Fluent Forms](/images/integrations/other-apps/how-to-integrate-google-sheets-with-fluent-forms/continue-button-2.webp)
+![Gmail Fluent Forms](/images/integrations/other-apps/integrate-google-sheets/continue-button-2.webp)
 
 Once you continue with the desired Google Account, it will take you to the **Fluent Forms Server** and generate an **Access Code**. Simply, copy the access code by clicking on the **Copy** button.
 

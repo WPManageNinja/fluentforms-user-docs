@@ -5,11 +5,7 @@
 This document applies to the latest Google Analytics: GA4.
 
 > [!Note]
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-> You can use this GTM and GA4 setup with standard forms and [Conversational Forms](/create-a-conversational-form). The same view and submit events apply to both form types.
-=======
-> You can use this GTM and GA4 setup with **standard forms** and [Conversational Forms](/docs/how-to-create-a-conversational-form). The same view and submit events apply to both form types.
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
+> You can use this GTM and GA4 setup with **standard forms** and [Conversational Forms](/create-a-conversational-form). The same view and submit events apply to both form types.
 
 #### Overview
 
@@ -69,11 +65,11 @@ First, navigate to the **Variables** tab in your Google Tag Manager workspace. F
 
 A popup will appear. Click the **edit icon** to configure the variable.
 
-![Configure Variable](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/varriable-configur-3.webp)
+![Configure Variable](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/varriable-configur-3.webp)
 
 A new window opens. Choose **Data Layer Variable** as the variable type.
 
-![Choose Data Layer Variable](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/choose-data-layer-varriable-4.webp)
+![Choose Data Layer Variable](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/choose-data-layer-varriable-4.webp)
 
 Your **Variable** properties should look like this:
 
@@ -135,9 +131,6 @@ Then select **Tag Type** as **Custom HTML** and paste the snippet below into the
 |---|---|
 | Tag Type | Custom HTML |
 
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-![Add Chtml Tag Wpmn Fluent Forms Event Tracking](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/add-cHTML-tag-wpmn.webp)
-=======
 ```html [GTM Custom HTML]
 <script>
 (function($){
@@ -167,8 +160,7 @@ Then select **Tag Type** as **Custom HTML** and paste the snippet below into the
 > [!Tip]
 > Click the **copy** icon in the top-right corner of the code block to copy the full snippet, then paste it into the GTM **Custom HTML** tag editor.
 
-![Add Chtml Tag Wpmn Fluent Forms Event Tracking](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/add-cHTML-tag-wpmn.webp)
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
+![Add Chtml Tag Wpmn Fluent Forms Event Tracking](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/add-cHTML-tag-wpmn.webp)
 
 After you insert the code, open **Triggering**, select **Page View – All Pages** as the firing trigger, as shown below:
 
@@ -178,15 +170,9 @@ You are almost done. Create one last tag that fetches the event data, forwards i
 
 Go to **Tags** again and select **Google Tag**, as shown below:
 
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-![Google Tag Manager](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-1-scaled.png)
+![Google Tag Manager](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-1-scaled.webp)
 
-Now, here you have to give **[Google Analytics 4 Measurement ID](#google-analytics-4-measurement-id)** and then configure the settings variable.
-=======
-![Google Tag Manager](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-1-scaled.webp)
-
-Enter your **Google Analytics 4 Measurement ID**, then configure the settings variable.
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
+Enter your **Google Analytics 4 Measurement ID** (steps [below](#google-analytics-4-measurement-id)), then configure the settings variable.
 
 ![Fluent Forms Event Tracking with Google Analytics (GA4) via Google Tag Manager step](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/2-1-scaled.webp)
 
@@ -204,11 +190,7 @@ Enter your **Google Analytics 4 Measurement ID**, then configure the settings va
 | FormID | {{FluentFormID}} | Select as Variable |
 | FormName | {{FluentFormName}} | Select as Variable |
 
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-![Google Tag Manager](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-3-scaled.png)
-=======
-![Google Tag Manager](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-3-scaled.webp)
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
+![Google Tag Manager](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/Google-Tag-Manager-3-scaled.webp)
 
 ### Google Analytics 4 Measurement ID
 
@@ -220,21 +202,13 @@ Go to your **Google Analytics Dashboard** and click **Admin** (the **gear icon**
 
 Select the target account or create a new one with your desired details. Also select an existing **Property** if you already have one, or create a new one.
 
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-![GTM GA4 Add Stream Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-add-stream-wpmn-566.png)
-=======
 Under the property name, open **Data Streams**.
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
 
-![GTM GA4 Add Stream Wpmn](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/add-stream.webp)
+![GTM GA4 Add Stream Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/add-stream.webp)
 
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-![GTM Setup Stream Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-setup-stream-wpmn-67.png)
-=======
 Create a new **Data Stream** as **Web** if your website is not already configured. Provide an appropriate **URL** without a protocol and a **Stream Name**.
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
 
-![GTM Setup Stream Wpmn](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-setup-stream-wpmn-67.webp)
+![GTM Setup Stream Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-setup-stream-wpmn-67.webp)
 
 [Optional] Click the gear icon to select only the data you need for Fluent Forms event tracking. Enable **Page Views** only. Other data types can add unnecessary noise to Google Analytics for this setup.
 
@@ -273,34 +247,19 @@ You can expand the **page_view** event for further details.
 
 ![GTM GA4 Formview Event Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-formview-event-wpmn-103.webp)
 
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-Expand the **page_view** Event for further details.
-
 ![GTM GA4 Formview 4events Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-formview-4events-wpmn-104.png)
 
-Also after submitting the form, we can see there is another event pushed which is **FormSubmitted**
-=======
 After you submit the form, you will see another event: **FormSubmitted**.
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
 
 ![GTM GA4 Submission Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-form-submission-wpmn-105.webp)
 
 Expand the **Event Data** sections to see more details:
 
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-![GTM GA4 Event Details Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-event-details-wpmn-106.png)
-=======
-![GTM GA4 Event Details Wpmn](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-event-details-wpmn-106.webp)
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
+![GTM GA4 Event Details Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-event-details-wpmn-106.webp)
 
 Google Analytics 4 also includes **Debug View**. Because we enabled **debug_mode** in the GA4 configuration tag, you can explore live events there as well:
 
-<<<<<<< HEAD:docs/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
-![GTM GA4 Debug View Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-debug-view-wpmn-107.png)
-
-That’s it. Now you will get events to Google Analytics for all the Fluent Forms on your website. To analyze conversions directly inside WordPress alongside GA4, see the [Submission Reports](/submission-reports).
-=======
-![GTM GA4 Debug View Wpmn](/images/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-debug-view-wpmn-107.webp)
+![GTM GA4 Debug View Wpmn](/images/advanced-developer/logs-tracking/event-tracking-with-google-analytics-ga4-via-google-tag-manager/gtm-ga4-debug-view-wpmn-107.webp)
 
 ## Troubleshooting
 
@@ -346,9 +305,6 @@ If **FormView** or **FormSubmitted** events do not show up, check the items belo
 
 Use **GTM Preview**: load a form page, check for `FluentFormActivities`, then submit and look for **FormSubmitted**. If Preview works but GA4 does not, recheck the Measurement ID and GA4 tag trigger.
 
-For more help, see [How to Get Support](/docs/how-to-get-support).
-
-That's it. You will now receive events in Google Analytics for all Fluent Forms on your website.
->>>>>>> tajulauthlab:docs/advanced-developer/logs-tracking/fluent-forms-event-tracking-with-google-analytics-ga4-via-google-tag-manager.md
+That's it. You will now receive events in Google Analytics for all Fluent Forms on your website. To analyze conversions directly inside WordPress alongside GA4, see the [Submission Reports](/submission-reports). For more help, see [How to Get Support](/get-support).
 
 Enjoy **Fluent Forms** as the most powerful form plugin for WordPress!
