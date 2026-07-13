@@ -2,6 +2,26 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in **Fluent Forms**.
 
+## Fluent Forms v6.2.6
+
+_Released on July 10, 2026_
+
+::: code-group
+
+```markdown [⚡ Improvements]
+• Improved the Other option in conversational forms so it can be activated with the keyboard
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed a manager privilege escalation via a delegated WordPress role
+• Fixed a payment permission bypass that let form managers update transactions and cancel subscriptions
+• Fixed an oEmbed JSONP path-traversal XSS vulnerability
+• Fixed checkbox and radio Other option values not saving the translated label on multilingual sites
+• Fixed the Other option requiring a double-click to select in conversational radio and checkbox questions
+```
+
+:::
+
 ## Fluent Forms v6.2.5
 
 _Released on June 09, 2026_
