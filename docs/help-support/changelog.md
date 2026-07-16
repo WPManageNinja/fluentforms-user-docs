@@ -2,6 +2,23 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in **Fluent Forms**.
 
+## Fluent Forms v6.2.7
+
+_Released on July 16, 2026_
+
+::: code-group
+
+```markdown [⚡ Improvements]
+• Improved Stripe API keys encryption to prevent them from becoming unusable after the site's WordPress security salts change
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed date field restrictions configurations
+• Hardened the date field's inline script output against script-context injection
+```
+
+:::
+
 ## Fluent Forms v6.2.6
 
 _Released on July 10, 2026_
