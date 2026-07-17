@@ -8,13 +8,21 @@ _Released on July 16, 2026_
 
 ::: code-group
 
+```markdown [✨ Newly Added]
+• Added a Google Places API (New) opt-in for address autocomplete in the Google Maps Integration settings (Pro)
+```
+
 ```markdown [⚡ Improvements]
 • Improved Stripe API keys encryption to prevent them from becoming unusable after the site's WordPress security salts change
+• Tightened payment transaction updates and subscription cancellation to require the Manage Payments permission (Pro)
 ```
 
 ```markdown [🐞 Bug fixes]
 • Fixed date field restrictions configurations
 • Hardened the date field's inline script output against script-context injection
+• Fixed the MailerLite group dropdown missing groups beyond the first 50 (Pro)
+• Fixed webhook URLs losing percent-encoded characters on save (Pro)
+• Fixed an object injection vulnerability when prefilling forms with custom user or post meta (Pro)
 ```
 
 :::
