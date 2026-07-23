@@ -2,6 +2,18 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in **Fluent Forms**.
 
+## Fluent Forms v6.2.8
+
+_Released on July 23, 2026_
+
+::: code-group
+
+```markdown [🐞 Bug fixes]
+• Fixed a stored XSS vulnerability in form submission handling
+```
+
+:::
+
 ## Fluent Forms v6.2.7
 
 _Released on July 16, 2026_
