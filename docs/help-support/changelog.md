@@ -2,6 +2,23 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in **Fluent Forms**.
 
+## Fluent Forms v6.2.9
+
+_Released on July 28, 2026_
+
+::: code-group
+
+```markdown [⚡ Improvements]
+• Strengthened payment transaction reference generation for improved privacy
+• On block themes, limited public form style loading to pages that contain a form
+```
+
+```markdown [🐞 Bug fixes]
+• Hardened output escaping in the ff_get shortcode
+```
+
+:::
+
 ## Fluent Forms v6.2.8
 
 _Released on July 23, 2026_
