@@ -2,6 +2,20 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in **Fluent Forms**.
 
+## Fluent Forms Pro v6.2.10
+_Released on Aug 01, 2026_
+
+This is a security version bump
+::: code-group
+
+```markdown [Security]
+• Invalidating previous version and bump the new version
+• Removed Dev only testing files which is not required for production
+• No internal Improvements was made
+```
+
+:::
+
 ## Fluent Forms v6.2.9
 
 _Released on July 28, 2026_
