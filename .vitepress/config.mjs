@@ -2,6 +2,9 @@ import { defineConfig } from 'vitepress';
 
 import sidebar from './sidebar.json' with { type: 'json' };
 
+// Production origin, shared by the sitemap and the per-page canonical tags.
+const HOSTNAME = 'https://docs.fluentforms.com';
+
 export default defineConfig({
   title: 'Fluent Forms',
   description: 'Documentations for Fluent Forms by WPManageNinja.',
@@ -18,6 +21,22 @@ export default defineConfig({
   cleanUrls: true,
   srcExclude: ['README.md', 'CLAUDE.md', '*-PLAN.md', 'docs/public/**'],
   lastUpdated: false,
+
+  // Production origin. Must match exactly where the site is served — a canonical or sitemap
+  // URL pointing elsewhere tells search engines to index a different page.
+  sitemap: {
+    hostname: HOSTNAME,
+  },
+
+  // VitePress does not emit canonical tags on its own, so add one per page. `relativePath`
+  // is already the rewritten path (`changelog.md`, not `docs/help-support/changelog.md`),
+  // so this matches the sitemap URLs and the cleanUrls form actually served.
+  transformHead({ pageData }) {
+    // The 404 page is not a real URL — it must not claim one.
+    if (pageData.relativePath === '404.md') return [];
+    const path = pageData.relativePath.replace(/(?:^|\/)index\.md$/, '/').replace(/\.md$/, '');
+    return [['link', { rel: 'canonical', href: `${HOSTNAME}/${path}`.replace(/\/+$/, '/') }]];
+  },
 
   // URL flattening: the on-disk tree is docs/<section>/[<sub-group>/]<slug>.md (2 or 3 levels),
   // but every page is served at /<slug> — the docs/section/sub-group folders are all hidden from URLs.
