@@ -1,3 +1,7 @@
+---
+description: "Translating your Fluent Forms into multiple languages is easy with WPML, no technical expertise required."
+---
+
 # Translate Forms with WPML
 
 Translating your Fluent Forms into multiple languages is easy with WPML, no technical expertise required. This guide will walk you through the straightforward steps to make your forms accessible to users in any language.

@@ -1,3 +1,7 @@
+---
+description: "Integrating SendFox with Fluent Forms allows you to build your SendFox email list through the users of Fluent Forms."
+---
+
 # Integrate SendFox
 
 Integrating SendFox with **Fluent Forms** allows you to build your SendFox email list through the users of Fluent Forms. This article will guide you through integrating **SendFox** with **Fluent Forms** on your **WordPress Site**.  

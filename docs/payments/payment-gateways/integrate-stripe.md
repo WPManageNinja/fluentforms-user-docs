@@ -1,3 +1,7 @@
+---
+description: "Stripe is a globally recognized payment gateway that offers Fluent Forms inline payment options and a smooth and secure payment experience using credit…"
+---
+
 # Integrate Stripe
 
 [Stripe](http://stripe.com) is a globally recognized payment gateway that offers **Fluent Forms** inline payment options and a smooth and secure payment experience using credit and debit cards.

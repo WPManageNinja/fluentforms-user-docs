@@ -1,3 +1,7 @@
+---
+description: "The Email Summaries feature sends a weekly report of your form activity so you can track submissions and see how your forms are performing without opening…"
+---
+
 # Weekly Email Summary
 
 The **Email Summaries** feature sends a weekly report of your form activity so you can track submissions and see how your forms are performing without opening the dashboard every day. For a live, on-demand breakdown of activity, see [Submission Reports](/submission-reports).

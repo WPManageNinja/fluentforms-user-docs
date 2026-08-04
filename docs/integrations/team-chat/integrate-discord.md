@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms allows you to integrate with Discord to send desired information as instant notifications to your Discord channel when a form is submitted."
+---
+
 # Integrate Discord
 
 **Fluent Forms** allows you to integrate with [Discord](http://discord.com) to send desired information as instant notifications to your Discord channel when a form is submitted. This article will guide you through integrating **Discord** in Fluent Forms on your **WordPress Site**.

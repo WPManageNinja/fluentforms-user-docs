@@ -1,3 +1,7 @@
+---
+description: "The Quiz Module in Fluent Forms allows you to create mutual quizzes, calculate scores, and display results as grades, points, fractions, or percentages."
+---
+
 # Quiz Module
 
 The **Quiz Module** in Fluent Forms allows you to create mutual quizzes, calculate scores, and display results as grades, points, fractions, or percentages. This feature is ideal for tests, assessments, and educational purposes. If you want to score traits instead of right answers, see [Creating a Personality Quiz Form in Fluent Forms](/creating-a-personality-quiz-form).

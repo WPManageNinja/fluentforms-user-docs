@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms integrates with Ninja Tables, a table plugin that allows you to display Fluent Forms’ submission Entries on the frontend."
+---
+
 # Show Entries in Frontend using Ninja Tables
 
 Fluent Forms integrates with [Ninja Tables](http://Ninjatables.com), a table plugin that allows you to display **Fluent** **Forms’** submission **Entries** on the frontend. This article will guide you through integrating **Ninja Table** with **Fluent Forms**. 

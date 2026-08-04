@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, you can easily create Payment Forms to accept payment through different platforms."
+---
+
 # Create a Payment Form
 
 In [Fluent Forms](http://Fluentforms.com), you can easily create **Payment Forms** to accept payment through different platforms. This article will guide you through Creating Payment Forms to Collect Payments. 

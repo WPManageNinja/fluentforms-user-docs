@@ -1,3 +1,7 @@
+---
+description: "The Time & Date field in Fluent Forms allows users to select and submit date and time values."
+---
+
 # Time & Date Input Field
 
 The **Time & Date** field in **Fluent Forms** allows users to **select** and **submit date and time values**. You can customize the **date format, field behavior,** and **advanced options** to match your needs.

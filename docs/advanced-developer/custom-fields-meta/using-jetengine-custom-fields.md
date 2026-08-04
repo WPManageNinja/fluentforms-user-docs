@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms integrates with JetEngine, allowing you to create and map custom fields for your Post Forms."
+---
+
 # Using JetEngine Custom Fields
 
 Fluent Forms integrates with JetEngine, allowing you to create and map custom fields for your [Post Forms](/create-a-post-form). This article will guide you through setting up Custom Fields using JetEngine within Fluent Forms Post Forms.

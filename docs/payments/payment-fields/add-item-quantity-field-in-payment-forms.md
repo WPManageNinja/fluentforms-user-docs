@@ -1,3 +1,7 @@
+---
+description: "The Item Quantity field allows users to choose how many of an item or product they want to purchase."
+---
+
 # Add Item Quantity Field in Payment Forms
 
 The **Item Quantity** field allows users to choose how many of an item or product they want to purchase. Use it on payment forms when you sell the same product in variable amounts.

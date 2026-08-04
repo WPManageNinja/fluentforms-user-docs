@@ -1,3 +1,7 @@
+---
+description: "Paddle is a payment processing platform that allows Fluent Forms payment options and a smooth and secure payment experience."
+---
+
 # Integrate Paddle
 
 [Paddle](http://paddle.com) is a payment processing platform that allows **Fluent Forms** payment options and a smooth and secure payment experience. This article will guide you through integrating **Paddle** into your **WordPress** **Site** with the  **Fluent Forms** plugin.

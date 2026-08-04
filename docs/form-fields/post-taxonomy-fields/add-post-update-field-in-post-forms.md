@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, the Post Update field allows users to select any of your existing posts and update them directly through the form."
+---
+
 # Add Post Update Field in Post Forms
 
 In **Fluent Forms**, the **Post Update** field allows users to select any of your existing posts and update them directly through the form. This article will guide you through adding the **Post Update** field in your Fluent Forms for your WordPress Site. 

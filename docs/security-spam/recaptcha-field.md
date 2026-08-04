@@ -1,3 +1,7 @@
+---
+description: "reCAPTCHA in Fluent Forms helps to protect your website from spam and bots by verifying real users."
+---
+
 # reCAPTCHA Field
 
 reCAPTCHA in Fluent Forms helps to protect your website from spam and bots by verifying real users. It also improves your website's security and ensures only humans can submit forms.

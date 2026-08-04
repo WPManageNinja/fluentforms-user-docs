@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms integrates with GetGist, an email marketing tool that helps you collect customer leads."
+---
+
 # Gist Integration
 
 **Fluent Forms** integrates with GetGist, an email marketing tool that helps you collect customer leads. This article will guide you through integrating **GetGist** with **Fluent Forms** on your **WordPress Site**. You can also follow the [Gist integration guide](/integrate-gist) for a video walkthrough.  

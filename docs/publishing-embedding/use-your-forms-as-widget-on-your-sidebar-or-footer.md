@@ -1,3 +1,7 @@
+---
+description: "Using Fluent Forms, you can embed forms directly into your sidebar or footer as widgets without any coding knowledge."
+---
+
 # Use Your Forms as Widget on your Sidebar or Footer
 
 Using Fluent Forms, you can **embed forms directly into your sidebar or footer** as widgets without any coding knowledge. This enables you to particularly display forms on your site, making it easier for visitors to engage with your content. 

@@ -1,3 +1,7 @@
+---
+description: "The Payments feature provides a comprehensive dashboard to track and analyze all financial transactions processed through your forms."
+---
+
 # Payment Reports
 
 The **Payments** feature provides a comprehensive dashboard to track and analyze all financial transactions processed through your forms. Use these reports to monitor your revenue, view transaction statuses, and understand which forms are generating the most income.

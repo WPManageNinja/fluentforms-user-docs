@@ -1,3 +1,7 @@
+---
+description: "Shortcodes are special WordPress codes that allow you to add content, files, or objects to your form with just one line of code."
+---
+
 # Shortcode Input Field
 
 [Shortcodes](/shortcodes-overview) are special WordPress codes that allow you to add **content, files,** or **objects** to your form with just one line of code. With **Fluent Forms**, you can easily insert pre-existing content or features into your forms using the **Shortcode Input Field**.

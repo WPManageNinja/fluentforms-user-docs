@@ -1,3 +1,7 @@
+---
+description: "The Text Area Input Field in Fluent Forms allows users to enter multiple lines of text. It is ideal for feedback forms, comments, messages, and detailed…"
+---
+
 # Adding a Text Area Input Field
 
 The **Text Area Input Field** in **Fluent Forms** allows users to enter multiple lines of text. It is ideal for **feedback forms, comments, messages,** and **detailed responses**.

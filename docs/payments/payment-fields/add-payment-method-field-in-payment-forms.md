@@ -1,3 +1,7 @@
+---
+description: "The Payment Method field allows you to create forms to accept Payments through different payment platforms."
+---
+
 # Add Payment Method Field in Payment Forms
 
 The **Payment Method** field allows you to create forms to accept **Payments** through different payment platforms. This article will guide you through adding the **Payment Method** field to your WordPress Site's Fluent Forms.

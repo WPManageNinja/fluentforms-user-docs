@@ -1,3 +1,7 @@
+---
+description: "Trello is an integrated email marketing, marketing automation, and small business CRM. Save time while growing your business with sales automation."
+---
+
 # Integrate Trello
 
 Trello is an integrated email marketing, marketing automation, and small business CRM. Save time while growing your business with sales automation. Use Fluent Forms to collect customer information and automatically add it to your Trello list. 

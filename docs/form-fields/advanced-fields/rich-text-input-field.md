@@ -1,3 +1,7 @@
+---
+description: "The Rich Text Input Field allows users to submit text with formatting options like bold, italics, underline, and more."
+---
+
 # Rich Text Input Field
 
 The **Rich Text Input Field** allows users to submit text with formatting options like **bold, italics, underline,** and **more**. For plain, unformatted multi-line input, use the [Text Area field](/adding-a-text-area-input-field) instead. It also enables users to submit their forms with rich text content.

@@ -1,3 +1,7 @@
+---
+description: "ACF (Advanced Custom Fields) is a WordPress plugin that allows you to add extra custom fields to your pages and posts."
+---
+
 # Use ACF to Add a Custom Field in the Post Form
 
 **ACF** (**Advanced Custom Fields**) is a **WordPress** plugin that allows you to add extra custom fields to your pages and posts. Fluent Forms ACF integration feature works only when a Post Form is created using Fluent Forms. It helps deal with the users’ custom field data and makes it visible to your site’s visitors.

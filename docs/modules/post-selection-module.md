@@ -1,3 +1,7 @@
+---
+description: "The Post/CPT (Custom Post Type) Selection module in Fluent Forms is a powerful tool that fetches and displays post-type data from your WordPress site in a…"
+---
+
 # Post Selection Module
 
 The Post/CPT (Custom Post Type) Selection module in Fluent Forms is a powerful tool that fetches and displays post-type data from your WordPress site in a dropdown field. This feature is great for scenarios like letting users select a post to edit or perform an action based on available posts.

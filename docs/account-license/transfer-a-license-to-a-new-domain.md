@@ -1,3 +1,7 @@
+---
+description: "Sometimes, you need to move your Fluent Forms Pro license from one domain to another. This feature enables you to easily migrate your license, eliminating…"
+---
+
 # Transfer a License to a New Domain
 
 Sometimes, you need to move your [Fluent Forms Pro](/upgrade-to-pro-add-on) license from one domain to another. This feature enables you to easily migrate your license, eliminating the need to purchase a new one.

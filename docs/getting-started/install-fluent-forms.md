@@ -1,3 +1,7 @@
+---
+description: "Are you ready to Install Fluent Forms on your WordPress Website? Before starting the installation process, let's quickly check the requirements to ensure…"
+---
+
 # Install Fluent Forms
 
 Are you ready to Install Fluent Forms on your WordPress Website? Before starting the installation process, let's quickly check the requirements to ensure everything is in place.

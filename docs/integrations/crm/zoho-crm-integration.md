@@ -1,3 +1,7 @@
+---
+description: "Zoho CRM is an online Sales CRM software that manages your sales, marketing, and support in one CRM platform."
+---
+
 # Zoho CRM Integration
 
 [Zoho CRM](https://www.zoho.com/) is an online Sales CRM software that manages your sales, marketing, and support in one CRM platform. Integrating Zoho CRM with Fluent Forms allows you to grow your Zoho CRM Subscriber list through the users of Fluent Forms. 

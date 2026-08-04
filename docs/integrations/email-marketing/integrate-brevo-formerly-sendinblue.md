@@ -1,3 +1,7 @@
+---
+description: "Sendinblue/Brevo is an integrated Email Marketing, Marketing Automation, and Small Business CRM."
+---
+
 # Integrate Brevo (Formerly Sendinblue)
 
 **Sendinblue/Brevo** is an integrated Email Marketing, Marketing Automation, and Small Business CRM. Integrating Sendinblue with Fluent Forms helps you to collect customer information from your WordPress website and automatically add it to your Sendinblue/Brevo account when a form is submitted.

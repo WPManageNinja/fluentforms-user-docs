@@ -1,3 +1,7 @@
+---
+description: "With the Frontend Entry View feature in Fluent Forms, users (or admins) can view a submitted form through a unique link."
+---
+
 # Frontend Entry View
 
 With the **Frontend Entry View** feature in Fluent Forms, users (or admins) can view a submitted form through a unique link. This link is **hash-based**, meaning it’s secure and unique to each submission.

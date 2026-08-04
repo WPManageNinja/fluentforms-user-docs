@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms integrates iContact an email marketing platform that helps you to collect customer information and automatically adds it to your iContact…"
+---
+
 # Integrate iContact
 
 **Fluent Forms** integrates [iContact](http://icontact.com) an email marketing platform that helps you to collect customer information and automatically adds it to your iContact list through Fluent Forms Submissions.

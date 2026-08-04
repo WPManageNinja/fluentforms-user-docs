@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms offers the “Conditional Logic” feature, which sends email notifications to the specified email address after each form submission based on…"
+---
+
 # Conditional Email Notification
 
 **Fluent Forms** offers the “**[Conditional Logic](/set-up-forms-with-conditional-logic)**” feature, which sends email notifications to the specified email address after each form submission based on particular action triggers according to set conditions. This article will guide you through setting up the **Conditional Email Notification** in **Fluent Forms**. If you need to send emails to different recipients based on user responses, see [Conditional Email Routing](/conditional-email-routing).

@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms offers Post Forms, making it easy for you to accept user-submitted posts through forms and publish them directly on their site."
+---
+
 # Create a Post Form
 
 **Fluent Forms** offers **Post Forms**, making it easy for you to accept user-submitted posts through forms and publish them directly on their site. This form automatically sets up a post after a user submits the data.

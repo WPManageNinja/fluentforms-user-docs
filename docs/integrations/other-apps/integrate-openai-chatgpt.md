@@ -1,3 +1,7 @@
+---
+description: "ChatGPT, developed by OpenAI, is an AI system chatbot trained to follow instructions in a prompt and provide detailed responses for various purposes, such…"
+---
+
 # Integrate OpenAI ChatGPT
 
 ChatGPT, developed by OpenAI, is an AI system chatbot trained to follow instructions in a prompt and provide detailed responses for various purposes, such as engaging in conversation, gaining insights, automating tasks, and many more.

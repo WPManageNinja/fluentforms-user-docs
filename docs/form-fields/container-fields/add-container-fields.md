@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, the Container field allows you to add multiple fields horizontally in one row instead of a new row for each field for your Fluent Forms…"
+---
+
 # Add Container Fields
 
 In **Fluent Forms**, the **Container** field allows you to add multiple fields horizontally in one row instead of a new row for each field for your **Fluent Forms**, and make them look more compact and organized to your users. This article will guide you through adding the **Container** input fields to your **Fluent Forms** for your **WordPress Site**.

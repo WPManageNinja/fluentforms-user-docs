@@ -1,3 +1,7 @@
+---
+description: "The Repeat Field in Fluent Forms allows users to duplicate an input field dynamically. This is useful for forms where users may need to add multiple…"
+---
+
 # Repeat Input Field
 
 The **Repeat Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform) allows users to duplicate an input field dynamically. This is useful for forms where users may need to add multiple entries, such as contact details, addresses, or product lists. You can even [add calculation values on the Repeat field](/add-calc-values-on-the-repeat-field) to total up rows automatically.

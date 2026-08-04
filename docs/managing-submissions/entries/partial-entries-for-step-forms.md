@@ -1,3 +1,7 @@
+---
+description: "Long or multi-step forms can be overwhelming, and many users leave them incomplete. Fluent Forms solves this problem with its Partial Entries (Abandoned)…"
+---
+
 # Partial Entries for Step Forms
 
 Long or [multi-step forms](/creating-a-multi-step-form) can be overwhelming, and many users leave them incomplete. Fluent Forms solves this problem with its **Partial Entries (Abandoned)** feature. Now, users can save their progress step-by-step, ensuring no data is lost even if they leave mid-way. 

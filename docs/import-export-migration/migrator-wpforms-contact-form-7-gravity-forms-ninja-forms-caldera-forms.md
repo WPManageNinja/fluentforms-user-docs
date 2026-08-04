@@ -1,3 +1,7 @@
+---
+description: "Fluent Form helps migrate forms and form entries data easily and hassle-free with just a few clicks."
+---
+
 # Migrator (WPForms, Contact Form 7, Gravity Forms, Ninja Forms & Caldera Forms)
 
 Fluent Form helps migrate forms and form entries data easily and hassle-free with just a few clicks. With fluent forms, you can migrate your form data from WPForms, Contact Form &, Gravity  Forms, Ninja Forms, and Caldera Forms. 

@@ -1,3 +1,7 @@
+---
+description: "To make form editing faster and more efficient, Fluent Forms provides essential keyboard shortcuts."
+---
+
 # Keyboard Navigation & Shortcuts
 
 To make form editing faster and more efficient, Fluent Forms provides essential keyboard shortcuts. Here’s how to use them effectively while building or editing your forms in the [Form Builder](/user-interface):

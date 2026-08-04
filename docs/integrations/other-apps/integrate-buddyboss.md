@@ -1,3 +1,7 @@
+---
+description: "Integrating BuddyBoss with Fluent Forms allows you to enhance your community engagement on your WordPress site."
+---
+
 # Integrate BuddyBoss
 
 Integrating [BuddyBoss](http://buddyboss.com) with **Fluent Forms** allows you to enhance your community engagement on your WordPress site. This allows you to collect and update BuddyBoss profile fields directly through Fluent Forms. This article will guide you through integrating **BuddyBoss** with **Fluent Forms** on your **WordPress Site**.

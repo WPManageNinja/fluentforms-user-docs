@@ -1,3 +1,7 @@
+---
+description: "Help message in Fluent Forms to make your forms more understandable to the audience by providing additional context or instructions for fields."
+---
+
 # Help Message Customization
 
 Help message in [Fluent Forms](https://wordpress.org/plugins/fluentform/) to make your forms more understandable to the audience by providing additional context or instructions for fields. These can appear as tooltips, below input fields, or in other positions to guide users effectively. 

@@ -1,3 +1,7 @@
+---
+description: "The Country List field in Fluent Forms allows users to select a country from a predefined list."
+---
+
 # Country List Field
 
 The Country List field in Fluent Forms allows users to select a country from a predefined list. This field helps collect users’ locations, trip destinations, or any other country-related input. It also includes advanced options to show specific countries or exclude certain ones if necessary.

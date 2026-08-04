@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, the Post Excerpt field allows you to offer your users the option of submitting an Excerpt (Summary of any content) to their post."
+---
+
 # Add Post Excerpt Field in Post Forms
 
 In **Fluent Forms**, the **Post Excerpt** field allows you to offer your users the option of submitting an Excerpt (Summary of any content) to their post. This article will guide you through the whole process of adding the **Post Excerpt** field in your Fluent Forms for your WordPress Site. 

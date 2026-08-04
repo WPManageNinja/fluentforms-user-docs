@@ -1,3 +1,7 @@
+---
+description: "Some forms don’t need to keep data for long, like weekly bookings, surveys, or polls. Over time, old entries can pile up and clutter your database."
+---
+
 # Automatically Delete Form Entries
 
 Some forms don’t need to keep data for long, like weekly bookings, surveys, or polls. Over time, old entries can pile up and clutter your database. With **Fluent Forms**, you can automatically delete form entries to keep things clean and organized.

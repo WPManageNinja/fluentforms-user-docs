@@ -1,5 +1,6 @@
 ---
 outline: [2, 3]
+description: "Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Forms."
 ---
 
 # Changelog

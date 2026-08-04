@@ -1,3 +1,7 @@
+---
+description: "The Quiz Score field in Fluent Forms is an Advanced Hidden Field that calculates and stores the total score for a quiz or specific quiz questions."
+---
+
 # Quiz Score
 
 The **Quiz Score** field in Fluent Forms is an **Advanced** [Hidden Field](/hidden-input-field) that calculates and stores the total score for a quiz or specific quiz questions. 

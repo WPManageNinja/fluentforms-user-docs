@@ -1,3 +1,7 @@
+---
+description: "Welcome to Fluent Forms documentation."
+---
+
 # Getting Started
 
 Welcome to [Fluent Forms](https://wordpress.org/plugins/fluentform/) documentation.

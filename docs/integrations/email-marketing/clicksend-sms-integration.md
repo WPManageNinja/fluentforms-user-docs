@@ -1,3 +1,7 @@
+---
+description: "Send SMS in real-time when a form is submitted with ClickSend. Integrate your ClickSend account easily with Fluent Forms Pro by following the steps…"
+---
+
 # ClickSend SMS Integration
 
 Send SMS in real-time when a form is submitted with **ClickSend**. Integrate your **ClickSend** account easily with **[Fluent Forms Pro](/upgrade-to-pro-add-on)** by following the steps mentioned below-

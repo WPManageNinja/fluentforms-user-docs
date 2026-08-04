@@ -1,3 +1,7 @@
+---
+description: "The Inventory Module in Fluent Forms allows you to manage your order forms and predefined item numbers."
+---
+
 # Inventory Module
 
 The **Inventory Module** in Fluent Forms allows you to manage your order forms and predefined item numbers. This powerful feature is ideal for event booking, reservations, product sales, or ticketing, and also it helps to keep track of inventory. 

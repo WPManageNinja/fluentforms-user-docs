@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms allows you to pre-fill input fields dynamically using the Dynamic Default Value feature."
+---
+
 # Dynamic Default Value
 
 Fluent Forms allows you to pre-fill input fields dynamically using the Dynamic Default Value feature. You can set a default value using one of the available options from the dynamic value dropdown.

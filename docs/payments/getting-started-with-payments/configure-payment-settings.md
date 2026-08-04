@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms allows you to configure payment settings both globally and individually for all Payment Forms created with Fluent Forms (e.g., business name…"
+---
+
 # Configure Payment Settings
 
 **Fluent Forms** allows you to configure payment settings both globally and individually for all Payment Forms created with **Fluent Forms** (e.g., business name and logo, currency, payment history, receipt page, etc.).

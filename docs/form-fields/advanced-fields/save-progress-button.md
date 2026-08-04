@@ -1,3 +1,7 @@
+---
+description: "The Save & Resume field in Fluent Forms allows users to store their form progress in the database without being logged in."
+---
+
 # Save Progress Button
 
 The **Save & Resume** field in Fluent Forms allows users to store their form progress in the database without being logged in. A unique link is generated, enabling users to continue filling out the form later from any device.

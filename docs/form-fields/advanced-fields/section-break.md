@@ -1,3 +1,7 @@
+---
+description: "The Section Break field in Fluent Forms helps organize long forms by dividing them into structured sections, similar to building a multi-step form."
+---
+
 # Section Break
 
 **The Section Break** field in Fluent Forms helps organize long forms by dividing them into **structured sections**, similar to building a [multi-step form](/creating-a-multi-step-form). It also improves **readability** and **user experience** by clearly defining different parts of the form.

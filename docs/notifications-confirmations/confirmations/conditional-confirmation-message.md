@@ -1,3 +1,7 @@
+---
+description: "Sometimes, you can display confirmation messages based on user input. Fluent Forms allows you to set up Conditional Confirmation Messages so that users…"
+---
+
 # Conditional Confirmation Message
 
 Sometimes, you can display confirmation messages based on user input. Fluent Forms allows you to set up **Conditional Confirmation Messages** so that users receive individualized feedback based on specific conditions. If you are new to confirmations, start with the [form submission confirmation message](/setup-form-submission-confirmation-message) setup first.

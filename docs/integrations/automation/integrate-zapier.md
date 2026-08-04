@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms integrates with Zapier, a user-friendly, cloud-based platform that blends the simplicity of spreadsheets with the functionality of a database…"
+---
+
 # Integrate Zapier
 
 **Fluent Forms** integrates with [Zapier](http://zapier.com), a user-friendly, cloud-based platform that blends the simplicity of spreadsheets with the functionality of a database to help organize and collaborate on various tasks and projects. 

@@ -1,3 +1,7 @@
+---
+description: "The Fluent Form Scheduling feature allows you to easily schedule a form's live period. This scheduling feature enables admins to set an opening date and a…"
+---
+
 # Form Scheduling Feature
 
 The[ Fluent Form](https://wordpress.org/plugins/fluentform/) Scheduling feature allows you to easily schedule a form's live period. This scheduling feature enables admins to set an opening date and a closing one for particular forms.

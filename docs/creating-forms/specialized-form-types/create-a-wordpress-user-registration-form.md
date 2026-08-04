@@ -1,3 +1,7 @@
+---
+description: "Create a user-friendly registration form with Fluent Forms to make the WordPress user registration process as simple as possible."
+---
+
 # Create a WordPress User Registration Form
 
 Create a user-friendly registration form with Fluent Forms to make the WordPress user registration process as simple as possible. This will allow people to enter their information into a beautiful form and create user accounts in WordPress through this form. 

@@ -1,3 +1,7 @@
+---
+description: "The Mask Input Field in Fluent Forms ensures that users enter data in a predefined format, making it ideal for fields such as phone numbers, dates, social…"
+---
+
 # Adding a Mask Input Field Guide
 
 The **Mask Input Field** in **[Fluent Forms](https://wordpress.org/plugins/fluentform)** ensures that users enter data in a **predefined format**, making it ideal for fields such as **phone numbers, dates, social security numbers, and license keys**.

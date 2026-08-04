@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, the Post Title field allows you to offer your users the option of submitting a title to their post."
+---
+
 # Add Post Title Field in Post Forms
 
 In **Fluent Forms**, the **Post Title** field allows you to offer your users the option of submitting a title to their post. This article will guide you through the whole process of adding the **Post Title** field in your Fluent Forms for your WordPress Site. 

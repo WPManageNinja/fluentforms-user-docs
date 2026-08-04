@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms offers Taxonomy Fields that allow you to group your posts based on categories, tags, and other taxonomies available on your WordPress site."
+---
+
 # Add Tags Taxonomy Field in Post Forms
 
 **Fluent Forms** offers **Taxonomy Fields** that allow you to group your posts based on categories, tags, and other taxonomies available on your WordPress site. 

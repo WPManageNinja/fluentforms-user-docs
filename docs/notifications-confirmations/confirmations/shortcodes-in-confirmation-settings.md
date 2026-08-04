@@ -1,3 +1,7 @@
+---
+description: "Smart Shortcodes let you insert dynamic values into confirmation messages, email notifications, PDFs, custom post submissions, and quiz results."
+---
+
 # Shortcodes in Confirmation Settings
 
 **Smart Shortcodes** let you insert dynamic values into confirmation messages, email notifications, [PDFs](/pdf-module), custom post submissions, and [quiz](/quiz-module) results. Use them to show submitted field data, labels, payment details, and WordPress-related information without hard-coding values.

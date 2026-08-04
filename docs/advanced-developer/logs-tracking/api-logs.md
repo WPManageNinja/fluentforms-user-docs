@@ -1,3 +1,7 @@
+---
+description: "The API Logs feature stores all records related to API activities in your forms in one place."
+---
+
 # API Logs
 
 The **API Logs** feature stores all records related to API activities in your forms in one place. It is especially useful for checking whether any particular API actions were successful, failed, or are still in progress. This article will give you a quick overview of the **API Logs** feature under **Fluent Forms**.

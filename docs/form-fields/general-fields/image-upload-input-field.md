@@ -1,3 +1,7 @@
+---
+description: "The Image Upload input field in Fluent Forms lets users submit images in different formats directly through a form."
+---
+
 # Image Upload Input Field
 
 The **Image Upload** input field in Fluent Forms lets users submit images in different formats directly through a form. Use it for applications, registrations, profile photos, and other image submissions.

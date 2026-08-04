@@ -1,3 +1,7 @@
+---
+description: "FluentCRM is a popular self-hosted CRM plugin for WordPress, designed to help small businesses manage their subscribers effectively."
+---
+
 # FluentCRM Integration
 
 [FluentCRM](https://fluentcrm.com/) is a popular self-hosted CRM plugin for WordPress, designed to help small businesses manage their subscribers effectively. By integrating FluentCRM with Fluent Forms, you can seamlessly grow your subscriber list through form submissions.

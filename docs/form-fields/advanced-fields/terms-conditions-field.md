@@ -1,3 +1,7 @@
+---
+description: "The Terms & Conditions field in Fluent Forms allows you to collect user consent before submission of the form."
+---
+
 # Terms & Conditions Field
 
 The **Terms & Conditions** field in Fluent Forms allows you to collect user consent before submission of the form. For data-collection consent, you can also use the [GDPR Agreement field](/gdpr-agreement-field). When users check the consent box, the system records their response along with the Terms & Conditions title and description at the time of submission.

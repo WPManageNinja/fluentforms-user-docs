@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms allows you to show or hide content dynamically based on user selections using conditional shortcodes."
+---
+
 # Conditional Shortcodes
 
 Fluent Forms allows you to show or hide content dynamically based on user selections using **conditional shortcodes**. These shortcodes can be applied in [**Form Confirmations**](/setup-form-submission-confirmation-message), [**Email Notifications**](/setup-adminuser-email-notifications), and [**PDF Documents**](/pdf-module), making your forms more interactive and personalized.

@@ -1,3 +1,7 @@
+---
+description: "Integrating Mailjet with Fluent Forms to automate email marketing, manage subscribers, and streamline email campaigns effortlessly."
+---
+
 # Integrate Mailjet
 
 Integrating **Mailjet** with **Fluent Forms** to automate email marketing, manage subscribers, and streamline email campaigns effortlessly. This article will guide you through integrating **Mailjet** with **Fluent Forms** on your **WordPress Site**. 

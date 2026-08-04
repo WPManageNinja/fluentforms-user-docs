@@ -1,3 +1,7 @@
+---
+description: "The Action Hook field in Fluent Forms allows developers to insert dynamic elements into forms."
+---
+
 # Action Hook Field
 
 The **Action Hook** field in Fluent Forms allows [developers](/advanced-developer-overview) to insert dynamic elements into forms.  

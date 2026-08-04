@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms now integrates Mautic, making Email Marketing easier for users. This article will guide you through the integration process of Mautic with…"
+---
+
 # Mautic Integration
 
 [Fluent Forms](https://fluentforms.com/) now integrates **Mautic**, making **Email Marketing** easier for users. This article will guide you through the integration process of **Mautic** with **Fluent** **Forms**. 

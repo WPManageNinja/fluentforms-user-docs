@@ -1,3 +1,7 @@
+---
+description: "The Reports dashboard gives you a powerful visual overview of your form submission data and performance."
+---
+
 # Reports Dashboard Overview
 
 The **Reports** dashboard gives you a powerful visual overview of your form submission data and performance. Use these analytics to understand trends, track engagement, and monitor your forms' effectiveness at a glance. 

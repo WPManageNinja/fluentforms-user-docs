@@ -1,3 +1,7 @@
+---
+description: "Authorize.net is a global payment gateway that gives you Visa, credit card, and electronic payment services."
+---
+
 # Integrate Authorize.Net
 
 Authorize.net is a global payment gateway that gives you Visa, credit card, and electronic payment services. With Fluent Forms, you can easily credit and debit your online payment.

@@ -1,3 +1,7 @@
+---
+description: "MailPoet is an email plugin for WordPress Sites to design better email and create loyal subscribers."
+---
+
 # Mailpoet Integration
 
 **MailPoet** is an email plugin for **WordPress** **Sites** to design better email and create loyal subscribers. Integrating **MailPoet** with **Fluent Forms** allows users to collect subscribers easily and effortlessly whenever a **Form** is submitted.

@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms allows you to set input values using the URL GET parameters feature. This feature lets you populate input fields automatically, which can be…"
+---
+
 # Set Default Form Value from URL Parameters
 
 [Fluent Forms](https://wordpress.org/plugins/fluentform/) allows you to set input values using the URL GET parameters feature. This feature lets you populate input fields automatically, which can be useful for advanced users and dynamically pre-filling form fields. 

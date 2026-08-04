@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms allows you to translate the Datepicker UI of the Date/Time field (month names, weekdays, AM/PM) by adding custom code to your theme’s…"
+---
+
 # Translate Datepicker Field
 
 Fluent Forms allows you to **translate the Datepicker UI** of the [Date/Time field](/time-date-input-field) (month names, weekdays, AM/PM) by adding custom code to your **theme’s functions.php** file.

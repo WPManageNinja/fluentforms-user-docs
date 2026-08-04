@@ -1,3 +1,7 @@
+---
+description: "FluentCRM is a self-hosted Email Marketing Automation Plugin for WordPress. Manage your leads and customers, email campaigns, automated email sequencing…"
+---
+
 # Connecting Forms from One Domain with Fluent CRM to Another
 
 [FluentCRM](https://fluentcrm.com/) is a self-hosted Email Marketing Automation Plugin for WordPress. Manage your leads and customers, email campaigns, automated email sequencing, monitor user activities, and many more in one place!

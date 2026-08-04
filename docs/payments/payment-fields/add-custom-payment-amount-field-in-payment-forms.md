@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, the Custom Amount field allows users to pay any amount based on their needs."
+---
+
 # Add Custom Payment Amount Field in Payment Forms
 
 In **Fluent Forms**, the **Custom Amount** field allows users to pay any amount based on their needs. This article will guide you through adding the **Custom Payment Amount** field in your Fluent Forms for your WordPress Site.

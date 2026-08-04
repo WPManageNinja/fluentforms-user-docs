@@ -1,3 +1,7 @@
+---
+description: "Pipedrive is a deal-driven CRM solution designed to manage the entire sales process effectively."
+---
+
 # Pipedrive Integration
 
 Pipedrive is a deal-driven CRM solution designed to manage the entire sales process effectively. By integrating Pipedrive with Fluent Forms, you can automatically send form submissions to your Pipedrive account, streamlining your lead management process.

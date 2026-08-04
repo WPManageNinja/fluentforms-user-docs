@@ -1,3 +1,7 @@
+---
+description: "Payment Item field allows you to showcase single or multiple Items (Products) options in your form, allowing users to select and buy their desired Item/s…"
+---
+
 # Add Payment Item Field in Payment Forms
 
 **Payment Item** field allows you to showcase single or multiple **Items (Products)** options in your form, allowing users to select and buy their desired Item/s that exist in the form.

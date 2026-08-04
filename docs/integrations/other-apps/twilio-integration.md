@@ -1,3 +1,7 @@
+---
+description: "The integration between Twilio and Fluent Forms allows you to send SMS notifications when a form is submitted in real time. It's easy and hassle-free."
+---
+
 # Twilio Integration
 
 The integration between Twilio and Fluent Forms allows you to send SMS notifications when a form is submitted in real time. It's easy and hassle-free. This article will guide you through integrating Twilio with Fluent Forms on your WordPress Site.

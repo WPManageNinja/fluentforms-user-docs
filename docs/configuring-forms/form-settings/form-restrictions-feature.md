@@ -1,3 +1,7 @@
+---
+description: "The Fluent Forms restriction feature allows you to control the number of entries in your forms, even at specific time intervals, such as daily, weekly, or…"
+---
+
 # Form Restrictions Feature
 
 The Fluent Forms restriction feature allows you to control the number of entries in your forms, even at specific time intervals, such as daily, weekly, or annually.

@@ -1,3 +1,7 @@
+---
+description: "Ready to push your forms further? Fluent Forms gives power users and developers the tools to customize, extend, and fine-tune every detail — from dynamic…"
+---
+
 # Advanced & Developer Features
 
 Ready to push your forms further? **Fluent Forms** gives power users and developers the tools to customize, extend, and fine-tune every detail — from dynamic shortcodes and custom fields to detailed logs and full translation support. This page rounds up the advanced capabilities and links you to each guide.

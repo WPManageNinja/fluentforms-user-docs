@@ -1,3 +1,7 @@
+---
+description: "hCaptcha is a privacy-focused anti-bot solution that helps prevent spam and password attacks, protect websites, and reward site owners."
+---
+
 # hCaptcha
 
 hCaptcha is a privacy-focused anti-bot solution that helps prevent spam and password attacks, protect websites, and reward site owners. It is the most popular alternative to reCAPTCHA.

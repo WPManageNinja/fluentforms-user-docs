@@ -1,3 +1,7 @@
+---
+description: "The Unique Field Validation feature in Fluent Forms ensures that specific fields accept unique data, preventing duplicate submissions."
+---
+
 # Unique Field Validation
 
 The **Unique Field Validation** feature in Fluent Forms ensures that specific fields accept unique data, preventing duplicate submissions. This feature is handy for limiting one submission per email address or other unique identifiers.

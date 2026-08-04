@@ -1,3 +1,7 @@
+---
+description: "The Net Promoter Score (NPS) is a customer loyalty and satisfaction measurement system that helps businesses judge how likely customers are to recommend…"
+---
+
 # Net Promoter Score
 
 The **Net Promoter Score (NPS)** is a customer **loyalty and satisfaction** measurement system that helps businesses judge how likely customers are to recommend their products or services. It is a popular choice for [surveys and polls](/surveys-and-polls). The score is collected by asking **customers to** **rate** their likelihood of recommending a product or service on a **scale from** **0 to 10**.

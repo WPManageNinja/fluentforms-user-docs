@@ -1,3 +1,7 @@
+---
+description: "The Coupon feature allows you to add coupons and apply discounts to your payment form. This article will guide you through adding the Coupon field in your…"
+---
+
 # Add Coupon Field in Payment Forms
 
 The **Coupon** feature allows you to add coupons and apply discounts to your payment form. This article will guide you through adding the **Coupon** field in your Fluent Forms for your WordPress Site. 

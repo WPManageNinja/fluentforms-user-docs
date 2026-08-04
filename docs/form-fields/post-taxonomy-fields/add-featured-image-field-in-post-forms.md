@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, the Featured Image field allows you to offer your users the option of submitting the media file to their post."
+---
+
 # Add Featured Image Field in Post Forms
 
 In **Fluent Forms**, the **Featured Image** field allows you to offer your users the option of submitting the media file to their post. This article will guide you through the whole process of adding the **Featured Image** field in your Fluent Forms for your WordPress Site. 

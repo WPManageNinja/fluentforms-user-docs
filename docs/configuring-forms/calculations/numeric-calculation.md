@@ -1,3 +1,7 @@
+---
+description: "Numeric calculation in Fluent Forms runs math on Numeric fields in real time as users fill out your form."
+---
+
 # Numeric Calculation
 
 **Numeric calculation** in Fluent Forms runs math on **Numeric** fields in real time as users fill out your form. Use it for order totals, quotes, scoring, or any case where one field should update automatically from others.

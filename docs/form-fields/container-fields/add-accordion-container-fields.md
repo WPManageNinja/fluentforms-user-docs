@@ -1,3 +1,7 @@
+---
+description: "The Accordion container is a powerful feature that helps you organize long forms. It allows you to group related fields into collapsible sections."
+---
+
 # Add Accordion Container Fields
 
 The Accordion container is a powerful feature that helps you organize long forms. It allows you to group related fields into collapsible sections. Users can click a section's title to expand or collapse it, making your form look cleaner and easier to navigate.

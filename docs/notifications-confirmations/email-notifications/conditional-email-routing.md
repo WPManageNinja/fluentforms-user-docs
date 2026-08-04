@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms lets you set up additional Conditional Email Routing, similar to Conditional Email Notifications except it allows you to send emails to…"
+---
+
 # Conditional Email Routing
 
 **Fluent Forms** lets you set up additional **Conditional Email Routing**, similar to [Conditional Email Notifications](/conditional-email-notification) except it allows you to send emails to different recipients based on user responses or specific events.

@@ -1,3 +1,7 @@
+---
+description: "The Fluent Forms import/export feature allows you to migrate your forms to another site with a few clicks, saving you the need to create a form again from…"
+---
+
 # Import and Export Fluent Forms
 
 The Fluent Forms import/export feature allows you to migrate your forms to another site with a few clicks, saving you the need to [create a form](/create-a-form) again from scratch. 

@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, the Repeat Container field allows you to offer your users the option of submitting information through Single/Multiple Fields repeatedly…"
+---
+
 # Add Repeat Container Field
 
 In **Fluent Forms**,  the **Repeat Container** field allows you to offer your users the option of submitting information through **Single/Multiple Fields** repeatedly by duplicating the field/s. More specifically, it allows you to include multiple fields inside a single container, enabling users to fill multiple sets of data for the same added fields within your form.

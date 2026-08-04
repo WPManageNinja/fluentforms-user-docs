@@ -1,3 +1,7 @@
+---
+description: "Quick answers to the most common questions about Fluent Forms. If you can't find what you're looking for, see How to Get Support."
+---
+
 # Frequently Asked Questions
 
 Quick answers to the most common questions about **Fluent Forms**. If you can't find what you're looking for, see [How to Get Support](/get-support).

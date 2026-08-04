@@ -1,3 +1,7 @@
+---
+description: "The Reports Submissions tab provides a detailed look at the performance and status of your form entries."
+---
+
 # Submission Reports
 
 The **Reports** **Submissions** tab provides a detailed look at the performance and status of your form entries. You can use this dashboard to track submission volume, monitor engagement through read rates, and identify trends over time. For revenue and transaction analytics, see [Payment Reports](/payment-reports).

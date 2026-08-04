@@ -1,3 +1,7 @@
+---
+description: "Every submission is a lead, a sale, or a story worth acting on. Fluent Forms keeps all your entries organized in one powerful dashboard — search them…"
+---
+
 # Managing Submissions
 
 Every submission is a lead, a sale, or a story worth acting on. **Fluent Forms** keeps all your entries organized in one powerful dashboard — search them, edit them, visualize them, and turn the raw data into clear reports. This page shows you everything you can do with your submissions and links you to each guide.

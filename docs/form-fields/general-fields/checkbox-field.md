@@ -1,3 +1,7 @@
+---
+description: "The CheckBox Field in Fluent Forms allows users to select one or more options from a list. It is commonly used for surveys, polls, preferences, or consent…"
+---
+
 # CheckBox Field
 
 The **CheckBox Field** in Fluent Forms allows users to select one or more options from a list. It is commonly used for surveys, polls, preferences, or consent forms. 

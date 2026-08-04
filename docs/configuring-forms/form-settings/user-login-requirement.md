@@ -1,3 +1,7 @@
+---
+description: "The User Login Requirement feature lets you restrict a form so only logged-in WordPress users can view and submit it."
+---
+
 # User Login Requirement
 
 The **User Login Requirement** feature lets you restrict a form so only logged-in WordPress users can view and submit it. Visitors who are not signed in see a custom message instead of the form.

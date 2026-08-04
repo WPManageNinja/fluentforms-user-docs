@@ -1,3 +1,7 @@
+---
+description: "The Subscription field allows you to create forms with Subscription Items to accept Recurring Payments."
+---
+
 # Add Subscription Field in Payment Forms
 
 The **Subscription** field allows you to create forms with **Subscription** **Items** to accept **Recurring Payments.** This article will guide you through adding the **Subscription** field in your Fluent Forms for your WordPress Site.

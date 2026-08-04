@@ -1,3 +1,7 @@
+---
+description: "amoCRM is a CRM and sales automation tool designed to help you manage customer leads, tasks, and sales teams."
+---
+
 # AmoCRM Integration
 
 amoCRM is a CRM and sales automation tool designed to help you manage customer leads, tasks, and sales teams. By integrating AmoCRM with Fluent Forms, you can collect leads and other essential information from user form submissions, streamlining your marketing strategies and meeting your business needs.

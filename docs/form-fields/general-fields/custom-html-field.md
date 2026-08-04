@@ -1,3 +1,7 @@
+---
+description: "The Custom HTML field in Fluent Forms allows you to personalize your forms by adding custom HTML code or shortcodes."
+---
+
 # Custom HTML Field
 
 The **Custom HTML** field in Fluent Forms allows you to personalize your forms by adding **custom HTML code** or **shortcodes**. You can also add **custom text, images, embedded elements, or Smartcodes** to enhance the user experience.

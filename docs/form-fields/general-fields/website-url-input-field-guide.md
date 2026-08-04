@@ -1,3 +1,7 @@
+---
+description: "The Website URL Input Field in Fluent Forms allows users to submit a valid website URL. This field is useful for collecting website links in surveys…"
+---
+
 # Website URL Input Field Guide
 
 The **Website URL Input Field** in **Fluent Forms** allows users to submit a valid website URL. This field is useful for collecting **website links in surveys, portfolios, registrations,** and **other web-based inputs**.

@@ -1,3 +1,7 @@
+---
+description: "The Address input field in Fluent Forms offers a suitable way to collect a user's complete address information, such as Street, City, State, Zip code, and…"
+---
+
 # Address Input Field
 
 The Address input field in[ Fluent Forms](https://fluentforms.com/) offers a suitable way to collect a user's complete address information, such as Street, City, State, Zip code, and Country, in a single, structured manner. You can also collect multiple address text boxes. 

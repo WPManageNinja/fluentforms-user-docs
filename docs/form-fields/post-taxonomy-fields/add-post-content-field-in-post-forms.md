@@ -1,3 +1,7 @@
+---
+description: "In Fluent Forms, the Post Content field allows you to offer your users the option of submitting their content to their posts."
+---
+
 # Add Post Content Field in Post Forms
 
 In **Fluent Forms**,  the **Post Content** field allows you to offer your users the option of submitting their content to their posts. This article will guide you through the whole process of adding the **Post Content** field in your Fluent Forms for your WordPress Site. 

@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms integrates with Insightly, a CRM that helps you collect customer leads, manage tasks, and automate sales team workflows that helps businesses…"
+---
+
 # Insightly Integration
 
 Fluent Forms integrates with Insightly, a CRM that helps you collect customer leads, manage tasks, and automate sales team workflows that helps businesses collect personalized customer information and automatically add it to your Insightly list through Fluent Forms Submissions.

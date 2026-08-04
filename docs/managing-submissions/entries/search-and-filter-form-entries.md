@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms provides a simple and effective way to search and filter form entries, allowing you to quickly find specific data and manage your submissions…"
+---
+
 # Search and Filter Form Entries
 
 Fluent Forms provides a simple and effective way to search and filter form entries, allowing you to quickly find specific data and [manage your submissions](/managing-entries) with ease.

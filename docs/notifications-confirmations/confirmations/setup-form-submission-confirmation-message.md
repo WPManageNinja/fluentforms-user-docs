@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms allows you to send a Default/Customized Confirmation Message after each form submission to let the users know their form was submitted…"
+---
+
 # Setup Form Submission Confirmation Message
 
 **Fluent Forms** allows you to send a **Default/Customized** **Confirmation Message** after each form submission to let the users know their form was submitted successfully. This article will guide you through setting up the **Confirmation Message** in **Fluent Forms**.

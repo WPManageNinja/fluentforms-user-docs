@@ -1,3 +1,7 @@
+---
+description: "Paystack is an amazing payment method for your webshop that allows Fluent Forms a smooth online payment transaction."
+---
+
 # Integrate Paystack
 
 [Paystack](http://paystack.com) is an amazing payment method for your webshop that allows **Fluent Forms** a smooth online payment transaction. This article will guide you through integrating **Paystack** into your **WordPress** **Site** with the  **Fluent Forms** plugin.

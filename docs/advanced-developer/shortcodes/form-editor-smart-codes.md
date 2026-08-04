@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms offers various dynamic smart codes that can be used in the form builder to set default input values."
+---
+
 # Form Editor Smart Codes
 
 Fluent Forms offers various **dynamic smart codes** that can be used in the form builder to set [**default input values**](/dynamic-default-value). These codes pull information from your **website, user profile, post details,** and **FluentCRM contacts**.

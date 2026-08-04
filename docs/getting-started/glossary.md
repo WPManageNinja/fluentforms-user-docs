@@ -1,3 +1,7 @@
+---
+description: "Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, features, and concepts used across Fluent Forms documentation."
+---
+
 # Glossary
 
 Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, features, and concepts used across Fluent Forms documentation. Use it alongside [Getting Started With Fluent Forms](/getting-started) and the [Fluent Forms User Interface](/user-interface) guide.

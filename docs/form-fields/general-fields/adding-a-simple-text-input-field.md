@@ -1,3 +1,7 @@
+---
+description: "The Simple Text Input Field in Fluent Forms is a versatile field for collecting single-line text responses, such as names, addresses, or short answers."
+---
+
 # Adding a Simple Text Input Field
 
 The **Simple Text Input Field** in **Fluent Forms** is a versatile field for collecting **single-line text responses**, such as names, addresses, or short answers. This article will guide you through adding the **Simple Text** input field in your Fluent Forms for your WordPress Site.

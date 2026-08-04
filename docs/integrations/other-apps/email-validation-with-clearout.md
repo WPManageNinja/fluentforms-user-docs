@@ -1,3 +1,7 @@
+---
+description: "Clearout is an advanced platform that provides email validation, helping to filter out fake or disposable emails."
+---
+
 # Email Validation With ClearOut
 
 Clearout is an advanced platform that provides email validation, helping to filter out fake or disposable emails. First, you will need a ClearOut API key for those validations.

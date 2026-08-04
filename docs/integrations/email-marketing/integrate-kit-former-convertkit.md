@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms integrates with Kit (Former ConvertKit), an email marketing tool that helps you collect customer information and automatically adds it to…"
+---
+
 # Integrate Kit (Former ConvertKit)
 
 **Fluent Forms** integrates with [Kit (Former ConvertKit)](http://convert.com), an email marketing tool that helps you collect customer information and automatically adds it to your Kit Subscriber List through the users of Fluent Forms.

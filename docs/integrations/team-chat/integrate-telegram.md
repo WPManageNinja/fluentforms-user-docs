@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms allows you to integrate with Telegram to send desired information as instant notifications to your Telegram channel or group when a form is…"
+---
+
 # Integrate Telegram
 
 **Fluent Forms** allows you to integrate with [Telegram](https://telegram.org/) to send desired information as instant notifications to your Telegram channel or group when a form is submitted. This article will guide you through integrating **Telegram** in **Fluent Forms** on your **WordPress Site**.

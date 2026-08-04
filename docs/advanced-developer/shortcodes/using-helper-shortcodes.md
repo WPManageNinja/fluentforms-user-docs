@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms offers powerful helper shortcodes that enable you to display dynamic form data, including submission counts, entry details, and payment…"
+---
+
 # Using Helper Shortcodes
 
 Fluent Forms offers powerful helper shortcodes that enable you to display dynamic form data, including submission counts, [entry details](/managing-entries), and [payment statuses](/payment-reports), anywhere on your website. The helper shortcodes and all of their attributes are listed below.

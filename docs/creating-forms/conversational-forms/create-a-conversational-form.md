@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms offers Conversational Forms, making it easy for developers and designers to engage with users in a conversational format."
+---
+
 # Create a Conversational Form
 
 **Fluent Forms** offers **Conversational Forms**, making it easy for developers and designers to engage with users in a conversational format. This article will guide you through creating a **Conversational Form** with **Fluent Forms**. 

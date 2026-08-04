@@ -1,3 +1,7 @@
+---
+description: "AffiliateWP is a powerful affiliate management plugin for WordPress that helps you track and manage your site’s affiliates."
+---
+
 # AffiliateWP Integration
 
 **AffiliateWP** is a powerful affiliate management plugin for WordPress that helps you track and manage your site’s affiliates. By integrating **AffiliateWP** with **Fluent Forms**, you can automatically create referral records whenever a customer visits your site through an affiliate link and makes a submission.

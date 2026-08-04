@@ -1,3 +1,7 @@
+---
+description: "If your website contains a sticky header menu. In that case, users may encounter problems where the form is partially obscured under the header when…"
+---
+
 # Set Scroll Offset of Form Steps
 
 If your website contains a sticky header menu. In that case, users may encounter problems where the form is partially obscured under the header when auto-scroll is enabled in a multi-step form. To fix this, you can set a Scroll Offset to adjust the scroll position, ensuring the form is fully visible.

@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms now integrates OpenAI ChatGPT, making it easier for users to create Forms effortlessly with simple commands."
+---
+
 # Create a Form with OpenAI ChatGPT
 
 Fluent Forms now integrates OpenAI ChatGPT, making it easier for users to create Forms effortlessly with simple commands. This article will guide you through the process of creating a form using [OpenAI ChatGPT](https://openai.com/).

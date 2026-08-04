@@ -1,3 +1,7 @@
+---
+description: "Fluent Forms supports GEO-location detection for phone number fields, allowing the form to automatically detect a user's country based on their IP…"
+---
+
 # Phone Field GEO-Location Provider
 
 Fluent Forms supports **GEO-location detection** for [phone number fields](/phonemobile-input-field), allowing the form to **automatically detect a user's country** based on their IP address. This improves user experience and ensures more accurate data collection.
