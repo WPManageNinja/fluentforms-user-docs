@@ -222,7 +222,7 @@ _Released on May 22, 2026_
 
 :::
 
-## Fluent Forms v6.2.3 
+## Fluent Forms v6.2.3
 
 _Released on May 21, 2026_
 

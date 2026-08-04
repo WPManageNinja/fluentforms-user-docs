@@ -17,7 +17,7 @@ Now, go to Authorize.Net in the top navbar and click **Enable Authorize.Net Paym
 
 ![Enable Authorized integrate Authorize.Net](/images/payments/payment-gateways/integrate-authorizenet/enable-authorized-scaled.webp)
 
-## Configure Authorize.Net 
+## Configure Authorize.Net
 
 Once you enable Authorize.Net, all the required settings will appear to configure Authorize.Net with Fluent Forms. 
 

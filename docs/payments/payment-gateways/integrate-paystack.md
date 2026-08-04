@@ -27,7 +27,7 @@ Then, you need to obtain the **API  Key** and **API Secret** from your **Paystac
 
 ![API Credentials Fluent Forms](/images/payments/payment-gateways/integrate-paystack/2.-API-Credentials-scaled.webp)
 
-### Get the API Credentials 
+### Get the API Credentials
 
 First, log into your [Paystack Account](https://dashboard.paystack.com/#/login). If you do not have an account, sign up from [here](https://dashboard.paystack.com/#/signup). 
 

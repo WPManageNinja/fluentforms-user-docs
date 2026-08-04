@@ -27,7 +27,7 @@ Then, you need to obtain the **API  Key** from your **Mollie Account**.
 
 ![Test API Key](/images/payments/payment-gateways/integrate-mollie/2.-Test-API-Key-scaled.webp)
 
-### Get the API Credentials 
+### Get the API Credentials
 
 First, log in to your Mollie account from [here](https://my.mollie.com/dashboard/login). If you do not have an account, sign up from [here](https://my.mollie.com/dashboard/signup). 
 

@@ -56,7 +56,7 @@ To integrate and display the form on a specific Page or post, **copy** the **Sho
 
 ![Save Dynamic Input Values In](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps/save-form-05-2-scaled-2.webp)
 
-### Preview of Dynamic Input Values 
+### Preview of Dynamic Input Values
 
 After embedding, you can preview the form with the dynamic input values in form steps.
 
