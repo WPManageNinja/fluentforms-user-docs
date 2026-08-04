@@ -776,7 +776,7 @@ _Released on September 2, 2025_
 
 :::
 
-## Fluent Forms v6.1.2
+## Fluent Forms v6.1.2 {#fluent-forms-v6-1-2-aug-29-2025}
 
 _Released on August 29, 2025_
 
@@ -839,7 +839,7 @@ _Released on August 28, 2025_
 
 :::
 
-## Fluent Forms v6.1.2
+## Fluent Forms v6.1.2 {#fluent-forms-v6-1-2-aug-27-2025}
 
 _Released on August 27, 2025_
 
@@ -2459,11 +2459,9 @@ _Released on April 22, 2022_
 
 :::
 
-## Fluent Forms v4.3.4
+## Fluent Forms v4.3.4 Pro
 
 _Released on March 21, 2022_
-
-### Fluent Forms Pro v4.3.4
 
 ::: code-group
 
@@ -2493,7 +2491,7 @@ _Released on March 21, 2022_
 
 :::
 
-## Fluent Forms v4.3.4
+## Fluent Forms v4.3.4 Free
 
 _Released on March 18, 2022_
 
@@ -3833,7 +3831,7 @@ _Released on February 17, 2018_
 
 :::
 
-## Fluent Forms v1.1.3
+## Fluent Forms v1.1.3 {#fluent-forms-v1-1-3-a}
 
 ::: code-group
 
@@ -3851,7 +3849,7 @@ _Released on February 17, 2018_
 
 :::
 
-## Fluent Forms v1.1.3
+## Fluent Forms v1.1.3 {#fluent-forms-v1-1-3-b}
 
 ::: code-group
 
