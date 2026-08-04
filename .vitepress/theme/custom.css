@@ -65,3 +65,17 @@
   height: 100%;
   border: 0;
 }
+
+/* Changelog Free/Pro filter — ChangelogFilter.vue tags each release element with
+   data-cl (head|free|pro) and sets data-cl-mode on the container. Global, not scoped:
+   the release elements come from markdown and carry no component scope id. */
+[data-cl-mode='free'] [data-cl='pro'],
+[data-cl-mode='pro'] [data-cl='free'] {
+  display: none;
+}
+
+/* Hide a release outright when it has nothing in the selected bucket. */
+[data-cl-mode='pro'] [data-cl='head']:not([data-cl-has~='pro']),
+[data-cl-mode='free'] [data-cl='head']:not([data-cl-has~='free']) {
+  display: none;
+}

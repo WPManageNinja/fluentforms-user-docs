@@ -1,14 +1,22 @@
+---
+outline: [2, 3]
+---
+
 # Changelog
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in **Fluent Forms**.
 
+<ChangelogFilter />
+
 ## Fluent Forms Pro v6.2.10
+
 _Released on Aug 01, 2026_
 
 This is a security version bump
+
 ::: code-group
 
-```markdown [Security]
+```markdown [🔒 Security]
 • Invalidating previous version and bump the new version
 • Removed Dev only testing files which is not required for production
 • No internal Improvements was made
@@ -51,21 +59,33 @@ _Released on July 16, 2026_
 
 ::: code-group
 
-```markdown [✨ Newly Added]
-• Added a Google Places API (New) opt-in for address autocomplete in the Google Maps Integration settings (Pro)
-```
-
 ```markdown [⚡ Improvements]
 • Improved Stripe API keys encryption to prevent them from becoming unusable after the site's WordPress security salts change
-• Tightened payment transaction updates and subscription cancellation to require the Manage Payments permission (Pro)
 ```
 
 ```markdown [🐞 Bug fixes]
 • Fixed date field restrictions configurations
 • Hardened the date field's inline script output against script-context injection
-• Fixed the MailerLite group dropdown missing groups beyond the first 50 (Pro)
-• Fixed webhook URLs losing percent-encoded characters on save (Pro)
-• Fixed an object injection vulnerability when prefilling forms with custom user or post meta (Pro)
+```
+
+:::
+
+### Fluent Forms Pro v6.2.7
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added a Google Places API (New) opt-in for address autocomplete in the Google Maps Integration settings
+```
+
+```markdown [⚡ Improvements]
+• Tightened payment transaction updates and subscription cancellation to require the Manage Payments permission
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the MailerLite group dropdown missing groups beyond the first 50
+• Fixed webhook URLs losing percent-encoded characters on save
+• Fixed an object injection vulnerability when prefilling forms with custom user or post meta
 ```
 
 :::
@@ -125,7 +145,6 @@ _Released on May 25, 2026_
 ::: code-group
 
 ```markdown [✨ Newly Added]
-• Added image cropping support to the Featured Image field on Post forms (Pro)
 • Added a notice when the Fluent Forms REST endpoints are unreachable so empty form and entry lists after an upgrade are easier to diagnose
 ```
 
@@ -133,6 +152,16 @@ _Released on May 25, 2026_
 • Fixed conversational form pretty URLs rendering
 • Fixed Pretty URL toggle not persisting when disabled
 • Fixed multi-step form submit visibility and step-skip logic
+```
+
+:::
+
+### Fluent Forms Pro v6.2.4
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added image cropping support to the Featured Image field on Post forms
 ```
 
 :::
@@ -192,7 +221,7 @@ _Released on May 22, 2026_
 
 :::
 
-## Fluent Forms v6.2.3 Free
+## Fluent Forms v6.2.3 
 
 _Released on May 21, 2026_
 
@@ -287,8 +316,6 @@ _Released on April 16, 2026_
 
 ```markdown [⚡ Improvements]
 • Hardens form-scoped permissions
-• Hardens entry, preview, webhook, Zapier, import, and resend actions with form-scoped authorization checks (Pro)
-• Hardens payment bulk actions and legacy payment AJAX fallbacks against unauthorized form access (Pro)
 ```
 
 ```markdown [🐞 Bug fixes]
@@ -299,13 +326,27 @@ _Released on April 16, 2026_
 • Fixed character-limit validation showing the configured message instead of a raw field name
 • Fixed numeric validation so numeric-looking text is no longer treated as a number
 • Fixed WPML addon activation failing with an Invalid plugin error
-• Fixed imported entries after framework v2 request namespace changes (Pro)
-• Fixed imported form styles not being restored correctly (Pro)
 ```
 
 :::
 
-## Fluent Forms v6.2.0 Free
+### Fluent Forms Pro v6.2.1
+
+::: code-group
+
+```markdown [⚡ Improvements]
+• Hardens entry, preview, webhook, Zapier, import, and resend actions with form-scoped authorization checks
+• Hardens payment bulk actions and legacy payment AJAX fallbacks against unauthorized form access
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed imported entries after framework v2 request namespace changes
+• Fixed imported form styles not being restored correctly
+```
+
+:::
+
+## Fluent Forms v6.2.0
 
 _Released on April 1, 2026_
 
@@ -2026,8 +2067,17 @@ _Released on October 19, 2022_
 
 ```markdown [🐞 Bug fixes]
 • Fixed condition checker nullable bug
-• Fixed ZohoCRM tags support (Pro)
 • Fixed Multi-Select upgrade bug
+```
+
+:::
+
+### Fluent Forms Pro v4.3.18
+
+::: code-group
+
+```markdown [🐞 Bug fixes]
+• Fixed ZohoCRM tags support
 ```
 
 :::
@@ -2040,7 +2090,6 @@ _Released on October 18, 2022_
 
 ```markdown [✨ Newly Added]
 • Added GDPR field in Conversational Form
-• Added HubSpot error handler (Pro)
 ```
 
 ```markdown [⚡ Improvements]
@@ -2052,6 +2101,16 @@ _Released on October 18, 2022_
 • Fixed Email Feed duplicate bug
 • Fixed Custom Button style in Containers
 • Fixed Custom Button style in Step Form
+```
+
+:::
+
+### Fluent Forms Pro v4.3.17
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added HubSpot error handler
 ```
 
 :::
@@ -2113,16 +2172,28 @@ _Released on October 7, 2022_
 
 ```markdown [⚡ Improvements]
 • Improved label placement settings
-• Improved Slack integration for Checkable Grid (Pro)
-• Improved Password truncate module (Pro)
 • Improved AJAX calls
 ```
 
 ```markdown [🐞 Bug fixes]
-• Fixed CSV export issue (Pro)
 • Fixed multiple success message issue
-• Fixed conditional logic for Containers (Pro)
-• Fixed long file names issue for file upload (Pro)
+```
+
+:::
+
+### Fluent Forms Pro v4.3.13
+
+::: code-group
+
+```markdown [⚡ Improvements]
+• Improved Slack integration for Checkable Grid
+• Improved Password truncate module
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed CSV export issue
+• Fixed conditional logic for Containers
+• Fixed long file names issue for file upload
 ```
 
 :::
@@ -2139,35 +2210,47 @@ _Released on September 1, 2022_
 
 ```markdown [⚡ Improvements]
 • Improved PHP 8 compatibility
-• Improved translation for receipt page (Pro)
 • Improved field deletion UX
 • Improved Conversational Forms CAPTCHA
 ```
 
 ```markdown [🐞 Bug fixes]
-• Fixed Resend email notification custom recipient bug (Pro)
-• Fixed BuddyBoss nickname issue (Pro)
-• Fixed Zoho CRM Customized Lead Status Issue (Pro)
-• Fixed Step Form previous session bug (Pro)
-• Fixed popup issue for Elementor with conversational form (Pro)
-• Fixed user update password issue (Pro)
 • Fixed Global Default settings not being applied
 • Fixed form submission search for accented characters
-• Fixed Rich Text input not working in modal (Pro)
 • Fixed CAPTCHA Label placement
-• Fixed image upload button issue (Pro)
-• Fixed Conversational form Phone field country code issue (Pro)
-• Fixed Conversational form payment bug (Pro)
-• Fixed iPhone image upload issue conversational form (Pro)
 • Fixed `http_referer` shortcode
-• Fixed pending payment entry count of additional shortcode (Pro)
 • Fixed URL field issue
-• Fixed Rating field option editing bug (Pro)
 • Fixed additional shortcode Entry Count
-• Fixed Quiz field randomize issue (Pro)
 • Fixed Conversational form auto-validation message issue
-• Fixed Step form issue with submit button (Pro)
 • Fixed Conversational form long "Custom HTML Field" issue
+```
+
+:::
+
+### Fluent Forms Pro v4.3.12
+
+::: code-group
+
+```markdown [⚡ Improvements]
+• Improved translation for receipt page
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Resend email notification custom recipient bug
+• Fixed BuddyBoss nickname issue
+• Fixed Zoho CRM Customized Lead Status Issue
+• Fixed Step Form previous session bug
+• Fixed popup issue for Elementor with conversational form
+• Fixed user update password issue
+• Fixed Rich Text input not working in modal
+• Fixed image upload button issue
+• Fixed Conversational form Phone field country code issue
+• Fixed Conversational form payment bug
+• Fixed iPhone image upload issue conversational form
+• Fixed pending payment entry count of additional shortcode
+• Fixed Rating field option editing bug
+• Fixed Quiz field randomize issue
+• Fixed Step form issue with submit button
 ```
 
 :::
@@ -2180,32 +2263,47 @@ _Released on August 4, 2022_
 
 ```markdown [✨ Newly Added]
 • Added Forms type filter
-• Added Save & Resume form submission (Pro)
-• Added Rich Text Input (Pro)
-• Added Insightly Integration (Pro)
-• Added Mailster Integration (Pro)
-• Added Airtable Multiple table connection (Pro)
 ```
 
 ```markdown [⚡ Improvements]
 • Improved data sanitization
-• Improved Post Update with ACF (Pro)
-• Improved User Update with meta fields (Pro)
-• Improved failed integration notification email (Pro)
 • Improved email summary
 • Improved Resizeable Container
 ```
 
 ```markdown [🐞 Bug fixes]
-• Fixed Signature field placement issue (Pro)
-• Fixed HubSpot API update issue (Pro)
 • Fixed Conversational Form issue with Elementor popup
-• Fixed User Registration password reset email issue (Pro)
-• Fixed Step form data save issue with Checkable Grid field (Pro)
-• Fixed Coupon Code issue (Pro)
-• Fixed ACF image upload with media upload (Pro)
-• Fixed Constant Contact Issue (Pro)
-• Fixed `<br>` tag issue in Twilio (Pro)
+```
+
+:::
+
+### Fluent Forms Pro v4.3.10
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Save & Resume form submission
+• Added Rich Text Input
+• Added Insightly Integration
+• Added Mailster Integration
+• Added Airtable Multiple table connection
+```
+
+```markdown [⚡ Improvements]
+• Improved Post Update with ACF
+• Improved User Update with meta fields
+• Improved failed integration notification email
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Signature field placement issue
+• Fixed HubSpot API update issue
+• Fixed User Registration password reset email issue
+• Fixed Step form data save issue with Checkable Grid field
+• Fixed Coupon Code issue
+• Fixed ACF image upload with media upload
+• Fixed Constant Contact Issue
+• Fixed `<br>` tag issue in Twilio
 ```
 
 :::
@@ -2219,8 +2317,6 @@ _Released on July 4, 2022_
 ```markdown [✨ Newly Added]
 • Added Resizeable Container Width
 • Added hCaptcha in conversational form
-• Added User Profile Update with Fluent Forms (Pro)
-• Added Partial Entry bulk delete (Pro)
 ```
 
 ```markdown [⚡ Improvements]
@@ -2232,7 +2328,21 @@ _Released on July 4, 2022_
 • Fixed conditional logic empty issue
 • Fixed form duplicate issue
 • Fixed auto CAPTCHA option tooltip issue
-• Fixed Range Slider broken issue for multiple uses on the same page (Pro)
+```
+
+:::
+
+### Fluent Forms Pro v4.3.9
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added User Profile Update with Fluent Forms
+• Added Partial Entry bulk delete
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Range Slider broken issue for multiple uses on the same page
 ```
 
 :::
@@ -2245,7 +2355,6 @@ _Released on June 2, 2022_
 
 ```markdown [✨ Newly Added]
 • Added Oxygen 4.0 support
-• New: Mailjet Integration (Pro)
 • Added auto-include CAPTCHA support
 ```
 
@@ -2258,6 +2367,16 @@ _Released on June 2, 2022_
 
 :::
 
+### Fluent Forms Pro v4.3.8
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• New: Mailjet Integration
+```
+
+:::
+
 ## Fluent Forms v4.3.7
 
 _Released on May 20, 2022_
@@ -2266,8 +2385,17 @@ _Released on May 20, 2022_
 
 ```markdown [🐞 Bug fixes]
 • Fixed error notice display issue
-• Fixed file location settings issue (Pro)
 • Fixed smart dropdown style issue
+```
+
+:::
+
+### Fluent Forms Pro v4.3.7
+
+::: code-group
+
+```markdown [🐞 Bug fixes]
+• Fixed file location settings issue
 ```
 
 :::
@@ -2282,15 +2410,21 @@ _Released on May 19, 2022_
 • Added public PDF downloadable option
 ```
 
-```markdown [⚡ Improvements]
-• Improved Slack integration (Pro)
-```
-
 ```markdown [🐞 Bug fixes]
 • Fixed Caldera migrator
 • Fixed CSS issue for multiple-choice field options
 • Fixed email footer HTML issue
 • Fixed Numeric field formatting issue
+```
+
+:::
+
+### Fluent Forms Pro v4.3.6
+
+::: code-group
+
+```markdown [⚡ Improvements]
+• Improved Slack integration
 ```
 
 :::
@@ -2329,30 +2463,32 @@ _Released on April 22, 2022_
 
 _Released on March 21, 2022_
 
+### Fluent Forms Pro v4.3.4
+
 ::: code-group
 
 ```markdown [✨ Newly Added]
-• Added Quiz module (Pro)
-• Added amoCRM integration (Pro)
-• Added OnePageCRM integration (Pro)
-• Added Pipedrive integration (Pro)
-• Added phone number support for ZohoCRM (Pro)
-• Added other data center support for ZohoCRM (Pro)
-• Added email notification support for failed integrations (Pro)
-• Added resubscribe option for MailerLite (Pro)
-• Added dynamic default value for payment item (Pro)
-• Added support for programmatically license management (Pro)
-• Added smart search for the chained select field (Pro)
+• Added Quiz module
+• Added amoCRM integration
+• Added OnePageCRM integration
+• Added Pipedrive integration
+• Added phone number support for ZohoCRM
+• Added other data center support for ZohoCRM
+• Added email notification support for failed integrations
+• Added resubscribe option for MailerLite
+• Added dynamic default value for payment item
+• Added support for programmatically license management
+• Added smart search for the chained select field
 ```
 
 ```markdown [⚡ Improvements]
-• Improved payment item display for radio fields (Pro)
+• Improved payment item display for radio fields
 ```
 
 ```markdown [🐞 Bug fixes]
-• Fixed payment item value zero issues (Pro)
-• Fixed payment method selection issue (Pro)
-• Fixed Stripe donation issue (Pro)
+• Fixed payment item value zero issues
+• Fixed payment method selection issue
+• Fixed Stripe donation issue
 ```
 
 :::
@@ -2429,11 +2565,6 @@ _Released on February 14, 2022_
 ::: code-group
 
 ```markdown [✨ Newly Added]
-• Added AffiliateWP integration (Pro)
-• Added Zoho CRM integration (Pro)
-• Added ClickSend integration (Pro)
-• Added CleverReach integration (Pro)
-• Added Phone Number validation message configuration (Pro)
 • Added conditional block support in PDF Feed
 ```
 
@@ -2444,14 +2575,31 @@ _Released on February 14, 2022_
 ```markdown [🐞 Bug fixes]
 • Fixed payment hooks for FluentCRM
 • Fixed custom payment issue for one-time billing
-• Fixed Phone Field country settings (Pro)
 • Fixed Range Slider width
 • Fixed Stripe Subscription metadata
 • Fixed Stripe Inline customer information
 • Fixed Checkable Grid stat in Entries' Visual Data Report
 • Fixed payment issue in Elementor Popup
 • Fixed PayPal empty cart issue
-• Fixed Salesflare custom fields issue (Pro)
+```
+
+:::
+
+### Fluent Forms Pro v4.3.1
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added AffiliateWP integration
+• Added Zoho CRM integration
+• Added ClickSend integration
+• Added CleverReach integration
+• Added Phone Number validation message configuration
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Phone Field country settings
+• Fixed Salesflare custom fields issue
 ```
 
 :::
@@ -2465,7 +2613,6 @@ _Released on January 18, 2022_
 ```markdown [✨ Newly Added]
 • New: Other form plugins migrator
 • New: hCaptcha field
-• New: Discord & Salesflare integrations and File/Image upload field in Conversational Forms (Pro)
 ```
 
 ```markdown [⚡ Improvements]
@@ -2486,6 +2633,16 @@ _Released on January 18, 2022_
 • Fixed Gutenberg block CSS class issue
 • Fixed Gutenberg block shortcode issue for Conversational Forms
 • Fixed PHP 8 warning issue
+```
+
+:::
+
+### Fluent Forms Pro v4.3.0
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• New: Discord & Salesflare integrations and File/Image upload field in Conversational Forms
 ```
 
 :::
