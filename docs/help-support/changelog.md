@@ -9,6 +9,18 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 <ChangelogFilter />
 
+## Fluent Forms v6.2.11
+
+_Released on August 03, 2026_
+
+::: code-group
+
+```markdown [⚡ Improvements]
+• Added safeguards for outdated Fluent Forms Pro installations
+```
+
+:::
+
 ## Fluent Forms Pro v6.2.10
 
 _Released on Aug 01, 2026_

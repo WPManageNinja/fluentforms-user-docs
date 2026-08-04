@@ -173,11 +173,10 @@ onContentUpdated(() => {
 
 <template>
   <div ref="root" class="cl-filter">
-    <span id="cl-filter-label" class="cl-filter__label">Show</span>
     <div
       class="cl-filter__group"
       role="radiogroup"
-      aria-labelledby="cl-filter-label"
+      aria-label="Filter changelog by plugin"
       :style="{ '--cl-index': activeIndex }"
       @keydown="onKeydown"
     >
@@ -207,16 +206,8 @@ onContentUpdated(() => {
 .cl-filter {
   display: flex;
   align-items: center;
-  gap: 14px;
   flex-wrap: wrap;
   margin: 28px 0 4px;
-}
-
-.cl-filter__label {
-  font-size: 13px;
-  font-weight: 500;
-  letter-spacing: 0.01em;
-  color: var(--vp-c-text-3);
 }
 
 /* Segmented control: three equal columns so the thumb can slide by exactly 100%. */
