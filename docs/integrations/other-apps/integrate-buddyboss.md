@@ -72,7 +72,7 @@ You can modify your **BuddyBoss Settings** anytime by clicking the **Settings Ic
 
 To embed and display the form on a specific Page/Post on your site, go to the **Editor** page from the top navbar.
 
-Now**, copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. Also, to see the form preview, click the **Preview & Design** button in the middle.
+Now, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. Also, to see the form preview, click the **Preview & Design** button in the middle.
 
 Once you are done, click the **Save** **Form** button to save all your changes. 
 

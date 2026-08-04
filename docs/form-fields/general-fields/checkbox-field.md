@@ -108,7 +108,7 @@ You can get the visual representation of this Form. To learn more, read [Visual 
 
 ### Image Button Layout
 
-First, enable the **Photo** Option from the checkbox field’s options, as shown in the screenshot. Now**, Upload** images for each option in the **Photo** setting.
+First, enable the **Photo** Option from the checkbox field’s options, as shown in the screenshot. Now, **upload** images for each option in the **Photo** setting.
 
 ![Photo Fluent Forms](/images/form-fields/general-fields/checkbox-field/photo-08-scaled.webp)
 

@@ -95,7 +95,7 @@ You can modify your feed anytime by clicking the **Settings Icon** and delete it
 
 Once you complete the Integration process, go to the form’s **Editor** from the top navbar to embed and display the form on a specific Page/Post on your site. 
 
-Now**, copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. Also, to see the form preview, click the **Preview & Design** button in the middle.
+Now, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. Also, to see the form preview, click the **Preview & Design** button in the middle.
 
 Once you are done, click the **Save** **Form** button to save all your changes. 
 

@@ -108,6 +108,6 @@ Clicking the **Arrow Icon** will provide three options for setting the **Placeme
 
 For example, I selected the **“Right to Label”** position for the **Asterisk**.
 
-You can see that the **Asterisk ( * )** is displayed right next to the Required Fields **(e.g., Email and Country as both are the required fields ).
+You can see that the **Asterisk ( * )** is displayed right next to the Required Fields (e.g., **Email** and **Country**, as both are the required fields).
 
 ![Preview Asterisk Marker Position Form Layout Settings](/images/design-styling/form-layout-settings/10.-preview-of-asterisk-marker-position.webp)

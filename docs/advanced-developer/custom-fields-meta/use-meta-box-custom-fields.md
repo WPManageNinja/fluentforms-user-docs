@@ -4,7 +4,7 @@ description: "Fluent Forms brings you an excellent feature, Meta Box plugin inte
 
 # Use Meta Box Custom Fields
 
-Fluent Forms brings you an excellent feature**, Meta Box** plugin integration. Metabox is a free Gutenberg and GDPR-compatible WordPress custom fields plugin and framework that quickly customizes a website with meta boxes and custom fields in WordPress.
+Fluent Forms brings you an excellent feature, the **Meta Box** plugin integration. Metabox is a free Gutenberg and GDPR-compatible WordPress custom fields plugin and framework that quickly customizes a website with meta boxes and custom fields in WordPress.
 
 This article will guide you on integrating **Meta Box Custom Fields** with **Fluent Forms** on your WordPress Site.
 

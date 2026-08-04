@@ -58,7 +58,7 @@ Follow the format rules:
 
 - **A:** Alphabetical character
 
-- ***:** Alphanumeric character
+- `*`: Alphanumeric character
 
 - Literal characters are automatically displayed
 
@@ -70,7 +70,7 @@ Social Security Number Mask: 000-00-0000. Valid Input: 987-65-4329
 
 Course Code Mask: AAA 999. Valid Input: BIO 101
 
-License Key Mask: *-*-***. Valid Input: a9a-f0c-28Q
+License Key Mask: `***-***-***`. Valid Input: a9a-f0c-28Q
 
 **F. Mobile Keyboard Type:** Select the specific keyboard layout that will appear for mobile users when they tap this field. You can choose from:
 

@@ -68,7 +68,7 @@ First enable the [Conditional logic](/set-up-forms-with-conditional-logic) by cl
 
 Then Select the specific form fields on which the condition will depend. For example, you might choose a rating or numeric input field.
 
-Now define the logic that needs to be satisfied for the confirmation message to appear. You can set conditions like**:**
+Now define the logic that needs to be satisfied for the confirmation message to appear. You can set conditions like:
 
 - Equal to / Not equal to: Exact match or mismatch.
 

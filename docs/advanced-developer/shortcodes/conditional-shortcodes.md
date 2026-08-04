@@ -136,7 +136,7 @@ An example of a nested conditional shortcode is below –
 
 Suppose, in addition to our earlier logic, if the user selected ‘**yes**’, and if he/she gave us a review **greater than 2**, we want to show a text to that user.
 
-So after using the field name field**=”ratings”**, conditions is=”**greater_than**” and value to=”**2**″ to our nested conditional shortcode, the final shortcode will be –
+So after using the field name **field=”ratings”**, conditions is=”**greater_than**” and value to=”**2**″ to our nested conditional shortcode, the final shortcode will be –
 
 ```
 [[ff_if]

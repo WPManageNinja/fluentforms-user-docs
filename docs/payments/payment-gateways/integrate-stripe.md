@@ -46,7 +46,7 @@ To use the traditional **API Key** method instead, disable **Connect with Stripe
 > [!Note]
 > We recommend you use the [Fluent Snippet](https://fluentsnippets.com/) Plugin to add any snippet code to your WordPress Site.
 
-`**add_filter('fluentform/disable_stripe_connect', '__return_true');**`
+`add_filter('fluentform/disable_stripe_connect', '__return_true');`
 
 ## Configuring Webhook to Set Up Stripe IPN
 
