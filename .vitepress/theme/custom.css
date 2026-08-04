@@ -79,3 +79,9 @@
 [data-cl-mode='free'] [data-cl='head']:not([data-cl-has~='free']) {
   display: none;
 }
+
+/* Release boxes use fenced blocks purely to lay out the change lists, so the "markdown"
+   language label is noise. Scoped to the changelog — real code samples elsewhere keep theirs. */
+.vp-doc._changelog .vp-code-group .lang {
+  display: none;
+}
