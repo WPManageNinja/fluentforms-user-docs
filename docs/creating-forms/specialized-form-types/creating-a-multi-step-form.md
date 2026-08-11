@@ -42,12 +42,12 @@ The **Paging Start** block controls the global indicator behavior and styles for
 The **Progress Indicator** setting controls how step progress is shown at the top of a multi-step form. You can choose between four layout styles:
 
 - **Progress Bar:** Displays a standard progress bar that gives users a numeric percentage indication of their progress (e.g., "1 of 2 steps completed").
-- **Steps:** Displays a numbered list of structural step titles with the current active step highlighted.
+- **Steps:** Displays a numbered list of structural step titles with the current active step highlighted. Completed steps are clickable, so visitors can jump straight back to any step they have already finished. Steps they have not reached yet stay locked, so the normal validation order still applies.
 - **Tabs:** Renders step titles as interactive, clickable tab buttons. Visitors can jump back to any previously completed step in a single click.
 - **None:** Completely hides all progress indicators from the form interface.
 
 > [!Tip]
-> Whichever indicator you pick, the values you enter in **Step Titles** become the labels. If left blank, Fluent Forms falls back to Step 1, Step 2, etc.
+> For the **Steps** and **Tabs** indicators, the values you enter in **Step Titles** become the labels. If left blank, Fluent Forms falls back to Step 1, Step 2, etc.
 
 ### Tabs Indicator Settings
 
