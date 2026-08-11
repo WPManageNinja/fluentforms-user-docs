@@ -18,13 +18,15 @@ Go to the **Entries** section of your specific form. Now, locate the **Search Ba
 
 Fluent Forms offers multiple filtering options:
 
-There are four types of filters available. You can choose any of them to sort the data. 
+Click the **All Types** dropdown to choose from five filter types:
 
 - **Unread:** Displays entries not yet reviewed.
 
 - **Read:** Shows entries already viewed.
 
 - **Favorite:** Filters entries marked as favorites.
+
+- **Spam:** Displays entries flagged as spam. See [Integrate Akismet](/integrate-akismet) and [Spam Protection with Honeypot and reCAPTCHA](/spam-protection-with-honeypot-and-google-recaptcha) to set up spam detection.
 
 - **Trashed:** Displays deleted entries.
 

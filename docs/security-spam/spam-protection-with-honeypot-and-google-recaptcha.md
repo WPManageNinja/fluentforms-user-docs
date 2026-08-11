@@ -42,6 +42,9 @@ Click **Save Settings** to apply the change.
 > [!Note]
 > To enable this option, integrate **Google reCAPTCHA** with Fluent Forms first.
 
+> [!Tip]
+> If **Auto Load CAPTCHA** is on but the selected captcha type has no valid keys saved, Fluent Forms shows an admin notice with a direct link to add the missing keys.
+
 To do this, go to **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, and click the **reCAPTCHA** option.
 
 Now, select the desired **Version** of reCAPTCHA, provide the **Site & Secret Keys,** and click the **Save Settings** button.

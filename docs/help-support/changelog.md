@@ -9,6 +9,66 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 <ChangelogFilter />
 
+## Fluent Forms v6.2.12
+
+_Released on August 10, 2026_
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added an optional MCP server that lets AI assistants work with your forms, entries, and reports, turned off by default
+• Added a Spam option to the entry status filter on the entries list
+• Added a notice when global captcha auto load is enabled but the keys are missing
+```
+
+```markdown [⚡ Improvements]
+• Improved the Steps progress indicator so you can click it to move between steps, like Tabs
+• Improved how cookie smartcode values are handled and displayed
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed a fatal error during Stripe checkout when pushing metadata
+• Fixed Keyword-Based Restriction not blocking keywords in other alphabets, such as Cyrillic
+• Fixed http:// being added to smartcode URLs in the email editor
+• Fixed captcha fields not being added back to the form
+• Fixed the bulk action bar showing when no entries are selected
+• Fixed pagination alignment on the forms, entries, and payments lists
+```
+
+```markdown [🔒 Security]
+• Hardened output escaping and authorization across entries, reports, integrations, and payments
+• Restricted payment bulk actions to the Manage Payments permission, and revenue and payment type reports to the View Payments permission
+• Restricted Slack integration requests to Slack hosts
+```
+
+:::
+
+### Fluent Forms Pro v6.2.12
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Advanced Reporting tools to the MCP interface for AI assistants
+• Added one-click FluentHub install on the MCP settings page when Fluent Forms Pro is active
+```
+
+```markdown [⚡ Improvements]
+• Reports → Subscriptions now counts only active and trialling subscriptions and reports recurring revenue per currency
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the Reports country map not highlighting countries on translated sites
+• Fixed coupon usage limits not counting stacked codes
+• Fixed payment confirmations not being matched to the order that started them
+```
+
+```markdown [🔒 Security]
+• Hardened output escaping and authorization across entries, payments, reports, integrations, and file uploads
+• Restricted integration and remote file requests to their expected hosts
+```
+
+:::
+
 ## Fluent Forms v6.2.11
 
 _Released on August 03, 2026_

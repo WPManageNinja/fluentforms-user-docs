@@ -39,7 +39,7 @@ A popup will appear, allowing you to select the manager and set the permissions 
 
 - View Entries
 
-- View Payments
+- View Payments (required to view [payment reports](/payment-reports), including revenue and payment-type reports)
 
 - Manage Settings
 
@@ -47,7 +47,7 @@ A popup will appear, allowing you to select the manager and set the permissions 
 
 - Manage Entries (lets the manager [edit submitted entries](/edit-user-submitted-entries))
 
-- Manage Payments
+- Manage Payments (required for [payment](/payments-overview) bulk actions, such as bulk delete or status updates)
 
 - Full Access to all features.
 
