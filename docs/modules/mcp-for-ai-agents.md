@@ -9,7 +9,7 @@ Fluent Forms ships with a built-in **MCP (Model Context Protocol)** server that 
 Think of MCP as a bridge between your AI client and Fluent Forms. Instead of you opening the admin and clicking around, the AI calls the same actions you would, but through a secure, authenticated endpoint. You stay in control: every request runs as the WordPress user whose **application password** you generate, with exactly that user's Fluent Forms access and form scope, so an agent can never reach a form its user cannot. Tools that change data run a preview-then-confirm step before they write, and you can revoke access at any time.
 
 > [!Note]
-> Fluent Forms ships the AI agent tools, but they only become available once the companion **FluentHub** plugin is installed and active. [Step 2](#step-2-install-fluenthub) covers the install.
+> Fluent Forms ships the AI agent tools, but they only become available once the companion **FluentToolkit** plugin is installed and active. [Step 2](#step-2-install-fluenttoolkit) covers the install.
 
 ## Open the MCP settings
 
@@ -23,13 +23,16 @@ Switch on the **Enable MCP Server** toggle at the top of the page. When enabled,
 
 If you ever want to pause access for every connected AI client at once, just flip this toggle off. The endpoint stops responding to MCP requests immediately, no other changes needed.
 
-## Step 2: Install FluentHub
+## Step 2: Install FluentToolkit
 
-Fluent Forms exposes its MCP tools through a small companion plugin called **FluentHub**. Until it's installed and active, the page shows a notice under the tools list with an **Install FluentHub** button.
+Fluent Forms exposes its MCP tools through a small companion plugin called **FluentToolkit**. Until it's installed and active, the page shows a notice under the tools list with an **Install FluentToolkit** button.
 
-![MCP settings page showing the available tools grid and an arrow pointing at the Install FluentHub button](/images/modules/mcp-for-ai-agents/available-tools-install-fluenthub.png)
+![MCP settings page showing the available tools grid and an arrow pointing at the Install FluentToolkit button](/images/modules/mcp-for-ai-agents/available-tools-install-fluenthub.png)
 
-Click **Install FluentHub**. WordPress installs and activates the plugin in the background, then the page refreshes into the connected state and the endpoint fields become available.
+Click **Install FluentToolkit**. WordPress installs and activates the plugin in the background, then the page refreshes into the connected state and the endpoint fields become available.
+
+> [!Note]
+> Prefer to install it yourself? Download FluentToolkit directly from [https://static.wpmanageninja.com/fluent-toolkit.zip](https://static.wpmanageninja.com/fluent-toolkit.zip), then upload the ZIP via **Plugins → Add New → Upload Plugin** and activate it. Come back to this page afterwards and the endpoint fields appear.
 
 ## Step 3: Confirm the tools and endpoint
 
@@ -41,7 +44,7 @@ Once the toggle is on, the page shows the details you'll want to keep handy:
 | **Available tools** | The full grid of tool names, each tagged **Read** or **Write** so you can see at a glance what an agent can change. |
 | **Endpoint URL** | The address your AI client connects to, usually `https://your-site.com/wp-json/fluentform/mcp`. Click **Copy** to grab it in one click. |
 
-If the tool count shows `0`, the toggle in Step 1 likely isn't on yet, or FluentHub isn't active.
+If the tool count shows `0`, the toggle in Step 1 likely isn't on yet, or FluentToolkit isn't active.
 
 ## Step 4: Generate a WordPress application password
 
@@ -232,8 +235,8 @@ Application passwords are scoped to a single connection, so revoking one only di
 
 ## Troubleshooting
 
-- **Tools available shows 0.** Make sure the **Enable MCP Server** toggle is on and FluentHub is active. The count refreshes the moment the adapter reconnects.
-- **The Install FluentHub notice is still showing after installing.** Hard-refresh the settings page. If it persists, go to **Plugins** and confirm **FluentHub** is both installed and **Active**.
+- **Tools available shows 0.** Make sure the **Enable MCP Server** toggle is on and FluentToolkit is active. The count refreshes the moment the adapter reconnects.
+- **The Install FluentToolkit notice is still showing after installing.** Hard-refresh the settings page. If it persists, go to **Plugins** and confirm **FluentToolkit** is both installed and **Active**.
 - **"Unauthorized" error in the AI client.** The username or application password is wrong. Generate a new password, copy it immediately, paste it back into the settings page, then re-copy the snippet into your client.
 - **Fluent Forms tools not appearing in the AI client.** Restart the client fully after running the connect command or saving the config file. Closing the window usually isn't enough — quit Claude Desktop from the menu bar or system tray and reopen it.
 - **Claude Desktop or Codex shows a "server failed to start" error.** Node.js is probably missing. Run `node -v` in your terminal; if you get "command not found", install the LTS release from [nodejs.org](https://nodejs.org) and restart the client.
