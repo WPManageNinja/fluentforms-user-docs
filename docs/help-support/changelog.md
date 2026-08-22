@@ -9,6 +9,60 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 <ChangelogFilter />
 
+## Fluent Forms v6.2.13
+
+_Released on August 22, 2026_
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added minimum and maximum selection limits for checkbox and multi-select fields
+```
+
+```markdown [⚡ Improvements]
+• Improved the Other option for checkable inputs so a preselected value shows its text input on page load
+• Improved accessibility of the required Other input with proper validation state
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the empty Other marker (checkable inputs) showing in stored entries, email, and PDF output
+• Fixed file type validation so extensions are matched case-insensitively on upload and import
+• Fixed Global Inventory mappings being lost through Bulk Edit and save
+• Fixed target="_blank" being stripped from Confirmation Message links
+• Fixed the captcha notice showing when no captcha type is selected
+• Fixed geolocation not falling back to the next provider when the ipinfo token fails
+```
+
+:::
+
+### Fluent Forms Pro v6.2.13
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added a setting for the message shown when Other is chosen for checkable input but left blank
+• Added the fluentform/draft_nonce_verify filter to help Save & Resume on fully cached sites
+```
+
+```markdown [⚡ Improvements]
+• Improved uploaded and imported file handling to accept extensions regardless of casing, like .JPG or .jpg
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the bulk-actions bar not clearing on the entries screen after an action finishes
+• Fixed over-limit coupons being accepted
+• Fixed Google Maps saving coordinates to the wrong address field when several are present
+• Fixed shared form links sometimes showing a page not found error
+```
+
+```markdown [🔒 Security]
+• Tied each Authorize.Net charge to its own order and blocked charge reuse
+• Limited entry replay to safe integration feeds, blocking user-account update replays
+• Required an HTTPS API URL for ActiveCampaign, with a clear error instead of silent sync loss
+```
+
+:::
+
 ## Fluent Forms v6.2.12
 
 _Released on August 10, 2026_
