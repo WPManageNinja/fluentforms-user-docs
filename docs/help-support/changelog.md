@@ -9,6 +9,32 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 <ChangelogFilter />
 
+## Fluent Forms v6.2.13
+
+_Released on August 22, 2026_
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added minimum and maximum selection limits for checkbox and multi-select fields
+```
+
+```markdown [⚡ Improvements]
+• Improved the Other option on checkable inputs so a preselected value shows its text input on page load
+• Improved accessibility of the required Other input with proper validation state
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the empty Other marker showing in stored entries, email, and PDF output
+• Fixed file type validation so extensions are matched case-insensitively on upload and import
+• Fixed Global Inventory mappings being lost through Bulk Edit and save
+• Fixed target="_blank" being stripped from Confirmation Message links
+• Fixed the captcha notice showing when no captcha type is selected
+• Fixed geolocation falling back to the next provider when the ipinfo token fails
+```
+
+:::
+
 ## Fluent Forms v6.2.12
 
 _Released on August 10, 2026_
