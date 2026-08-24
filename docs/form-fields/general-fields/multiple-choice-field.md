@@ -48,27 +48,35 @@ You will find various settings options for customizing the field. Located in the
 
 **E. Options:** Create multiple choices for users to select from.
 
-- Show Values (for admin reference).
+- **Enable Option Grouping:** Turn this on to organize your choices into labeled sections. Click **Create New Option Group** to add a group, then add options inside it.
 
-- Add, Remove, or Edit Options.
+![Enable Option Grouping](/images/form-fields/general-fields/multiple-choice-field/enable-option-grouping.webp)
 
-- Insert an Option Anywhere using the Plus Icon.
+- **Add, Remove, or Edit Options.**
 
-- Drag & Drop to Rearrange Options.
+- **Insert an Option Anywhere** using the Plus Icon.
 
-**F. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform [numeric calculations](/numeric-calculation) using Show and Calc Values.
+- **Drag & Drop to Rearrange Options.**
 
-**G. Bulk Edit/Predefined Data Sets:** You can choose from a predefined data set for the dropdown field, so you don’t have to add each item manually.
+**F. Show Values / Calc Values:** Turn on **Show Values** to display each option's value for admin reference, or **Calc Values** to assign numeric values so you can perform [numeric calculations](/numeric-calculation).
 
-You can also save time by importing predefined datasets instead of manually adding each option. (valid for dropdowns like countries or states.)
+![Basic Options](/images/form-fields/general-fields/multiple-choice-field/Basic-options-04-6-scaled.webp)
+
+**G. Bulk Edit/Predefined Data Sets:** You can choose from a predefined data set for the field, so you don’t have to add each item manually.
+
+You can also save time by importing predefined datasets instead of manually adding each option. (Useful for dropdowns like countries or states.)
+
+![Bulk Edit Predefined Data Sets](/images/form-fields/general-fields/multiple-choice-field/bulk-edit-predefined-data-sets.webp)
 
 **H. Shuffle the available options:** You can enable the shuffling of your dropdown list or select field options so that every user sees a randomized option.
 
-**I. Max Selection:** Set a limit on a user's choices.
+**I. Required:** Decide whether users must select at least one option before submission.
 
-**H. Required:** Decide whether users must select at least one option before submission.
+**J. Max Selection:** Set the maximum number of options a user is allowed to select. Leave it blank for no limit.
 
-![Basic Options](/images/form-fields/general-fields/multiple-choice-field/Basic-options-04-6-scaled.webp)
+**K. Min Selection:** Set the minimum number of options a user must select before submitting the form. Leave it blank if a minimum isn't required.
+
+![Max and Min Selection](/images/form-fields/general-fields/multiple-choice-field/max-and-minimum.webp)
 
 ### Advanced Options
 
