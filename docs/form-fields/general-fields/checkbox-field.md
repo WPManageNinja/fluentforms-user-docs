@@ -44,33 +44,47 @@ You will find various settings options for customizing the field. Located in the
 
 **C. Admin Field Label:** The admin field label is a field title displayed only to admin users. This means that you can configure this option to show a different field label for your admin users when they view the form submissions. 
 
-**D. Options:** Define the dropdown options:
+**D. Options:** Define the options users can choose from:
+
+- **Show Values:** Display values for admin ease during submissions.
+
+- **Calc Values:** Assign numeric values to options so you can perform [numeric calculations](/numeric-calculation).
+
+- **Photo:** Use an image for each option instead of plain text.
 
 - **Create Options:** Add the items for users to choose from.
 
 - **Set Default Options:** Checkmark an option to set it as the default selection.
 
-- **Show Values:** Display values for admin ease during submissions.
-
 - **Rearrange Options:** Drag and drop options to reorder them.
 
 - **Add/Delete Options:** Use the Plus icon to add new options or insert options between existing ones.
 
-**E. Show & Calc Value:** Users will get **Show** and **Calc** Values options. You may display your data and perform [numeric calculations](/numeric-calculation) using Show and Calc Values.
-
-Also, you can add photos by clicking on the **Photo** option for the field.
-
-**F. Bulk Edit/Predefined Data Sets:** You can choose from a predefined data set for the dropdown field, so you don’t have to add each item manually.
-
-You can also save time by importing predefined datasets instead of manually adding each option. (Useful for dropdowns like countries or states.)
+- **Bulk Edit/Predefined Data Sets:** Choose from a predefined data set for the field so you don't have to add each item manually. You can also save time by importing predefined datasets instead of manually adding each option. (Useful for dropdowns like countries or states.)
 
 ![Bulk Fluent Forms](/images/form-fields/general-fields/checkbox-field/bulk-scaled.webp)
 
-**G. Shuffle the available options:** You can enable the shuffle of your dropdown list or select field options so that every user sees a randomized option.
+**E. Layout:** Choose a layout for the options. Available layouts include **Vertical**, **Horizontal**, or **Grid-style**.
 
-**H. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
+**F. Shuffle the available options:** You can enable the shuffle of your dropdown list or select field options so that every user sees a randomized option.
+
+**G. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
+
+**H. Max Selection:** Set the maximum number of options a user is allowed to select. Leave it blank for no limit.
+
+**I. Min Selection:** Set the minimum number of options a user must select before submitting the form. Leave it blank if a minimum isn't required.
 
 ![Basic Options](/images/form-fields/general-fields/checkbox-field/Basic-options-04-scaled.webp)
+
+**J. Enable "Other" Option:** Turn this on to add an editable **Other** choice at the end of the list, letting users type in an answer that isn't part of your predefined options.
+
+- **Other Option Label:** The label shown for the extra choice. Defaults to "Other."
+
+- **Other Option Placeholder:** The placeholder text shown inside the **Other** text input.
+
+- **Other Option Required Message:** The validation message shown if a user selects **Other** but leaves the text input empty.
+
+![Basic Options](/images/form-fields/general-fields/checkbox-field/enable-other-option.webp)
 
 ### Advanced Options
 
@@ -84,9 +98,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 **D. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**E. Layout:** Choose a layout for the options. Available layouts include **Vertical**, **Horizontal**, or **Grid-style**.
-
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options](/images/form-fields/general-fields/checkbox-field/advanced-options-05-1-scaled.webp)
 
@@ -112,7 +124,7 @@ First, enable the **Photo** Option from the checkbox field’s options, as shown
 
 ![Photo Fluent Forms](/images/form-fields/general-fields/checkbox-field/photo-08-scaled.webp)
 
-After that, Customize the **Layout** option. Now, navigate **Advanced Options** and select the desired **Button Layout** from the dropdown menu.
+After that, customize the **Layout** option under **Checkbox Field Options** and select the desired **Button Layout** from the dropdown menu.
 
 ![Button Layout Style CheckBox Field](/images/form-fields/general-fields/checkbox-field/button-layout-style-09-scaled.webp)
 
