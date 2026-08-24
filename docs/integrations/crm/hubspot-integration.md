@@ -29,7 +29,7 @@ Log in to your [HubSpot account](https://www.hubspot.com/), click the **Settings
 
 ![HubSpot Legacy Apps settings](/images/integrations/crm/hubspot-integration/hubspot-setting-2-scaled.webp)
 
-Click **Create**.
+Now, Click the **Create legacy app**.
 
 ![Create a HubSpot legacy app](/images/integrations/crm/hubspot-integration/create-legacy-app-3-scaled.webp)
 
@@ -37,7 +37,7 @@ In the pop-up, select **Private**.
 
 ![Select Private app type](/images/integrations/crm/hubspot-integration/private-4.webp)
 
-Click **Continue with the legacy private app**.
+Click **Continue with legacy private app**.
 
 ![Continue with legacy private app](/images/integrations/crm/hubspot-integration/create-leggacy-app-5-1-scaled.webp)
 
