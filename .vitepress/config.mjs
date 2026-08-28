@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 import sidebar from './sidebar.json' with { type: 'json' };
+import { zoomablePlugin } from './theme/markdown-plugin-zoomable.js';
 
 // Production origin, shared by the sitemap, canonical tags and social cards.
 const HOSTNAME = 'https://docs.fluentforms.com';
@@ -23,9 +24,15 @@ export default defineConfig({
     ],
   ],
   cleanUrls: true,
+
+  // Every markdown image is rendered as a client-only <ZoomableImage> so readers can
+  // click a screenshot to enlarge it. See theme/markdown-plugin-zoomable.js.
+  markdown: {
+    config: (md) => {
+      md.use(zoomablePlugin);
+    },
+  },
   srcExclude: ['README.md', 'CLAUDE.md', '*-PLAN.md', 'docs/public/**'],
-  // Surfaces each page's last git commit date — a freshness signal for readers and search.
-  lastUpdated: true,
 
   // Production origin. Must match exactly where the site is served — a canonical or sitemap
   // URL pointing elsewhere tells search engines to index a different page.
