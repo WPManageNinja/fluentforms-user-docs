@@ -17,7 +17,7 @@ Now, turn on the **Toggle** to enable **Constant Contact V3**. Then, you will se
 
 ![Enable Constant Contact V3 Integrate Constant Contact](/images/integrations/email-marketing/integrate-constant-contact/1.-Enable-Constant-Contact-V3-scaled.webp)
 
-Once you enable **Constant Contact V3**, you will be asked for the **Constant Contact Client ID** and **the Constant Contact Client Secret** of your **Constant Contact Account**.
+Once you enable **Constant Contact V3**, click the **Settings** gear icon. You will then be asked to enter your **Constant Contact Client ID** and **Client Secret**.
 
 > [!Tip]
 > Follow the **Instructions Guide** at the top of **Constant Contact V3 API** settings to get your credentials.
@@ -26,14 +26,12 @@ Once you enable **Constant Contact V3**, you will be asked for the **Constant Co
 
 ### Get the Constant Contact Client ID and Client Secret
 
-First, click this [Link](https://app.constantcontact.com/pages/dma/portal/), log into your **Constant Contact Account**, go to **My Applications** from the top navbar, and click the **New Application** button.
+First, log into your **[Constant Contact Developer Account](https://developer.constantcontact.com/)**. Now, click the **New Application** button.
 
-> [!Note]
-> If you do not have a Constant Contact account, [create one here](https://www.constantcontact.com/).
 
 ![Application Button Fluent Forms](/images/integrations/email-marketing/integrate-constant-contact/3.-New-Application-Button-scaled.webp)
 
-Now, give your **New** **Application** a **Name**, choose “**Authentication Code Flow and Implicit Flow”** and **Rotating Refresh Token** options from the **Application OAuth2 Settings**, and press the **Create** button. 
+Now, give your **New** **Application** a **Name**, choose “**Authorization Code Flow and Implicit Flow”** and **Rotating Refresh Tokens** options from the **Application OAuth2 Settings**, and press the **Create** button. 
 
 ![Create Button Fluent Forms](/images/integrations/email-marketing/integrate-constant-contact/4.-Create-button-scaled.webp)
 
@@ -124,7 +122,9 @@ Now, a page will appear with various settings options for configuring the Consta
 
 6. **Conditional Logics:** This option allows Constant Contact integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 
-7. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+7. **Update Contact:** Enable this option to update an existing contact's information if the submitted email address already exists in your Constant Contact list, instead of creating a duplicate contact.
+
+8. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
 Once the setup is done, finally, click the **Save Feed** button. And, your Constant Contact will be integrated into this specific form!
 
