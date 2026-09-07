@@ -113,6 +113,7 @@ export default defineConfig({
     siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Try It Free', link: 'https://try.wpmanageninja.com/?products=fluentform' },
       { text: 'Get Started', link: '/getting-started' },
       { text: 'Website', link: 'https://fluentforms.com/' },
       { text: 'Changelog', link: '/changelog' },
