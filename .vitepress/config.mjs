@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress';
+import { existsSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 import sidebar from './sidebar.json' with { type: 'json' };
 import { zoomablePlugin } from './theme/markdown-plugin-zoomable.js';
@@ -6,9 +9,31 @@ import { zoomablePlugin } from './theme/markdown-plugin-zoomable.js';
 // Production origin, shared by the sitemap, canonical tags and social cards.
 const HOSTNAME = 'https://docs.fluentforms.com';
 
-// Fallback preview image for social cards. Replace with a purpose-made 1200x630 image —
-// a logo scales poorly into the 1.91:1 card that Slack, X and Facebook render.
-const SOCIAL_IMAGE = '/brand-images/fluentforms_primary_logo.png';
+// The brand logo, used only as the JSON-LD publisher logo. It is deliberately NOT the
+// social card — a logo scales poorly into the 1.91:1 card Slack, X and Facebook render.
+const BRAND_LOGO = '/brand-images/fluentforms_primary_logo.png';
+
+// Per-page social cards: scripts/generate-featured-images.mjs renders a branded 1200x630
+// PNG carrying each page's own title into docs/public/images/featured/<doc-slug>.png,
+// which Vite serves at /images/featured/<doc-slug>.png.
+//
+// NAMING RULE — kept in sync with that script's buildNameParts(): the `rewrites` below
+// flatten docs/<section>/[<sub>/]<doc>.md to /<doc>, so `relativePath` here is already
+// the flat `<doc-slug>.md` and the card is named after that same slug (the home page's
+// `index.md` uses index.png). Any page with no generated card falls back to default.png,
+// which the generator also emits — so a card is never missing entirely.
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const FEATURED_DIR = join(__dirname, '..', 'docs', 'public', 'images', 'featured');
+const FEATURED_URL_BASE = '/images/featured';
+const FEATURED_FALLBACK = `${FEATURED_URL_BASE}/default.png`;
+
+function featuredImageFor(relativePath) {
+  const slug = relativePath.replace(/\.md$/, '');
+  const name = `${slug}.png`;
+  return existsSync(join(FEATURED_DIR, name))
+    ? `${FEATURED_URL_BASE}/${name}`
+    : FEATURED_FALLBACK;
+}
 
 export default defineConfig({
   title: 'Fluent Forms',
@@ -52,7 +77,7 @@ export default defineConfig({
     const title = pageData.frontmatter.title || pageData.title || siteData.title;
     const description =
       pageData.frontmatter.description || pageData.description || siteData.description;
-    const image = `${HOSTNAME}${SOCIAL_IMAGE}`;
+    const image = `${HOSTNAME}${featuredImageFor(pageData.relativePath)}`;
 
     return [
       ['link', { rel: 'canonical', href: url }],
@@ -63,6 +88,9 @@ export default defineConfig({
       ['meta', { property: 'og:description', content: description }],
       ['meta', { property: 'og:url', content: url }],
       ['meta', { property: 'og:image', content: image }],
+      ['meta', { property: 'og:image:width', content: '1200' }],
+      ['meta', { property: 'og:image:height', content: '630' }],
+      ['meta', { property: 'og:image:alt', content: title }],
 
       ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
       ['meta', { name: 'twitter:title', content: title }],
@@ -83,7 +111,7 @@ export default defineConfig({
             '@type': 'Organization',
             name: 'WPManageNinja',
             url: 'https://fluentforms.com/',
-            logo: `${HOSTNAME}${SOCIAL_IMAGE}`,
+            logo: `${HOSTNAME}${BRAND_LOGO}`,
           },
         }),
       ],
