@@ -10,6 +10,8 @@ Built with **VitePress 1.6+**, **Vue 3.5**, Node.js **ESM** (`"type": "module"`)
 | `npm run docs:dev` | Local dev server |
 | `npm run docs:build` | Production build → `.vitepress/dist/` |
 | `npm run docs:preview` | Preview the production build |
+| `npm run featured:generate` | Render social cards for any doc that lacks one (skips existing) |
+| `npm run featured:regenerate` | Re-render **every** card (`--force`) — after a title or design change |
 
 Run `npm run docs:build` after any structural change (new doc, rename, link edit, sidebar change) to catch broken links and parser errors.
 
@@ -102,6 +104,26 @@ Image folders **mirror the docs tree** (same section/sub-group path as the `.md`
 - Reference: `![Alt text](/images/<section>/[<sub-group>/]<doc-slug>/<filename>.ext)`
 
 `docs/public/` is VitePress `publicDir` (set via `vite.publicDir` in config), so `/images/...` resolves at the site root.
+
+## Social cards (featured images)
+
+Every page ships its own 1200x630 Open Graph card, so a doc link shared on Slack, X,
+Facebook or LinkedIn previews with that page's title rather than the site logo.
+
+- Generator: `scripts/generate-featured-images.mjs` (uses `sharp`; renders an SVG and
+  composites `fluentforms_secondary_logo.png` over it).
+- Output: `docs/public/images/featured/<doc-slug>.png` — **committed to the repo**,
+  served at `/images/featured/<doc-slug>.png`.
+- Name = the doc slug, i.e. the same `<doc-slug>` the rewrite rule serves the page at.
+  Home page → `index.png`. `default.png` is the site-wide fallback.
+- `config.mjs` (`featuredImageFor()` in `transformHead`) recomputes that name from
+  `pageData.relativePath` and emits `og:image` / `twitter:image`. **The naming rule is
+  duplicated in both files — change one, change the other.**
+
+**When you add a doc:** run `npm run featured:generate` (cheap — it skips existing files)
+and commit the new PNG alongside the `.md` and the `sidebar.json` entry.
+**When you change a page's H1:** run `npm run featured:regenerate`, since the card bakes
+the old title in and the skip-if-exists rule will not notice.
 
 ## Markdown writing style
 
