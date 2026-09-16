@@ -9,27 +9,6 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 <ChangelogFilter />
 
-## Fluent Forms v6.2.14
-
-_Released on September 15, 2026_
-
-::: code-group
-
-```markdown [⚡ Improvements]
-• Improved Stripe payment confirmation when updates arrive after checkout
-• Improved payment retries and checkout confirmation messages
-• Improved subscription trial, installment, and custom amount processing
-• Improved refund and completed payment consistency
-• Refined payment totals for conditional quantities and inventory-controlled items
-• Improved notification delivery for valid zero-value orders
-• Refined manager search and admin data handling
-• Improved form import reliability
-• Improved Save & Resume, entry status, and payment receipt handling
-• Improved compatibility for advanced Date field configuration
-```
-
-:::
-
 ## Fluent Forms v6.2.13
 
 _Released on August 22, 2026_
