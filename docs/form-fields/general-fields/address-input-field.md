@@ -79,6 +79,10 @@ Advanced settings allow further customization to meet specific use cases.
 
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
+**D. Autocomplete:** Choose how browsers autofill the whole Address field. The options are **Automatic**, **On (autofill this address)**, **off**, and **None**. Address autofill stays off until you choose **On (autofill this address)**.
+
+It then gives each input, such as street, city, and zip code, its matching value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
+
 ![Advanced Options](/images/form-fields/general-fields/address-input-field/Advanced-options-08-1-scaled.webp)
 
 ## Embed the Form into the front
