@@ -82,7 +82,7 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 ![Open Settings Integrate CleverReach](/images/integrations/email-marketing/integrate-cleverreach/Open-Desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **CleverReach Integration** feed from the dropdown list. 
+Once you are on the **Settings & Integrations**, go to the **Configure Integrations** tab, click the **Add New Integration** button, and select **CleverReach Integration** feed from the dropdown list. 
 
 ![Add Integration Button Integrate CleverReach](/images/integrations/email-marketing/integrate-cleverreach/14.-Add-New-Integration-button-scaled.webp)
 
