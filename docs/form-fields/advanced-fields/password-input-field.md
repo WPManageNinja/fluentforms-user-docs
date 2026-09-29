@@ -57,21 +57,23 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read the [Dynamic Default Value documentation](/dynamic-default-value) to better understand Dynamic Default values. You can also add values by clicking the Three-Dots options.
+**A. Autocomplete:** Choose a value that tells the browser what the field collects, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. Click the **Dropdown Arrow** to see all the options. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read the [Dynamic Default Value documentation](/dynamic-default-value) to better understand Dynamic Default values. You can also add values by clicking the **Three-Dot** option.
 
-**C. Element Class:** Add custom CSS classes to the input field.
+**C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
-**D. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Prefix Label:** Use this to add a prefix text or symbol that appears before the input area to provide additional context.
+**E. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
 
-**F. Suffix Label:** Use this to add a suffix text or symbol that appears after the input area.
+**F. Prefix Label:** Use this to add a prefix text or symbol that appears before the input area to provide additional context.
 
-**E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**G. Suffix Label:** Use this to add a suffix text or symbol that appears after the input area.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**H. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+
+**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
 
 ![Password Advanced Option](/images/form-fields/advanced-fields/password-input-field/password-advanced-option-scaled.webp)
 
