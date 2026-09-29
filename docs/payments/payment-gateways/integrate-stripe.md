@@ -116,11 +116,13 @@ First, go to the **Editor** page of your desired form by clicking its **Edit** o
 
 Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by hovering over it and clicking the **Pencil Icon**.
 
-Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dropdown Arrow,** and you will get three options. These are:
+Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dropdown Arrow,** and you will get these options:
 
 - **Method Label:** Here, you can change the label based on your preference for your added payment method.
 
 - **Embedded Checkout:** Check this box to activate Stripe as an inline payment option.
+
+- **Enable Payment Element:** Check this box to replace the card field with the **Stripe Payment Element**. It shows **Apple Pay** and **Google Pay** inline on supported devices. This option appears only when **Embedded Checkout** is on. To learn more, see [Use the Stripe Payment Element](#use-the-stripe-payment-element).
 
 - **Verify Zip/Postal Code:** Check this box if you want to make providing the Zip/Postal Code information mandatory for your users to submit the forms.
 
@@ -133,6 +135,19 @@ Now, to embed and display the form on a specific **Page/Post**, **copy** this **
 Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
 
 ![Save Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/11.-Save-form-scaled.webp)
+
+### Use the Stripe Payment Element
+
+The **Stripe Payment Element** replaces the standard card field of the inline Stripe payment option. Visitors can pay with a card, **Apple Pay**, or **Google Pay** without leaving your form. The wallet options appear only on devices and browsers that support them.
+
+- Open your form in the **Editor** and go to the **Payment Method** field settings.
+- Check **Stripe**, click the **Dropdown Arrow**, and turn on **Embedded Checkout**.
+- Check **Enable Payment Element**.
+- Click **Save Form**.
+
+To show **Apple Pay**, register your site domain in your Stripe account first. Go to **Settings** > **Payment method domains** in the Stripe Dashboard and add your domain.
+
+The Payment Element works on classic and [conversational forms](/create-a-conversational-form). Stripe 3D Secure confirmation also works on conversational forms.
 
 ### Preview of Added Payment Method
 
