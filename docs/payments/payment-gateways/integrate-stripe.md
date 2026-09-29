@@ -145,6 +145,9 @@ The **Stripe Payment Element** replaces the standard card field of the inline St
 - Check **Enable Payment Element**.
 - Click **Save Form**.
 
+![Stripe Payment Element](/images/payments/payment-gateways/integrate-stripe/enable-payment-element-5.webp)
+
+
 To show **Apple Pay**, register your site domain in your Stripe account first. Go to **Settings** > **Payment method domains** in the Stripe Dashboard and add your domain.
 
 The Payment Element works on classic and [conversational forms](/create-a-conversational-form). Stripe 3D Secure confirmation also works on conversational forms.
