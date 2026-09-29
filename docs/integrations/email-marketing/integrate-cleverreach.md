@@ -101,7 +101,9 @@ Once you select the form, a pop-up page will appear with various settings option
 
 4. **Conditional Logics:** This option allows CleverReach integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 
-5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+5. **Resubscribe:** Check this option to reactivate a contact who is already in the list but has unsubscribed or been deactivated. Without it, the feed fails for that contact. Enable it only if you are permitted to contact them again.
+
+6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
 Once the setup is done, finally, click the **Save Feed** button.
 And, your CleverReach will be integrated into this specific form!
