@@ -147,10 +147,27 @@ The **Stripe Payment Element** replaces the standard card field of the inline St
 
 ![Stripe Payment Element](/images/payments/payment-gateways/integrate-stripe/enable-payment-element-5.webp)
 
-
-To show **Apple Pay**, register your site domain in your Stripe account first. Go to **Settings** > **Payment method domains** in the Stripe Dashboard and add your domain.
-
 The Payment Element works on classic and [conversational forms](/create-a-conversational-form). Stripe 3D Secure confirmation also works on conversational forms.
+
+#### Register Your Domain for Apple Pay and Google Pay
+
+To show **Apple Pay**, register your site domain in your Stripe account first. Follow the steps below.
+
+First, open your **Stripe Dashboard**, click the **Settings** (gear) icon at the top right, and select **Payments** under **Product settings**.
+
+![Stripe Payment Settings](/images/payments/payment-gateways/integrate-stripe/stripe-settings-6.webp)
+
+Next, open the **Payment method domains** tab and click the **Add a new domain** button.
+
+![Payment Method Domains](/images/payments/payment-gateways/integrate-stripe/add-a-new-domain-7.webp)
+
+Enter your site's primary domain (for example, example.com) or a subdomain (for example, shop.example.com), then click **Save**.
+
+![Enter Your Domain](/images/payments/payment-gateways/integrate-stripe/enter-domain-8.webp)
+
+Your domain now appears in the **Payment method domains** list with the **Enabled** status. To copy its ID, click the **three-dot** icon at the end of the domain row and select **Copy domain ID**. To stop showing wallets on that domain, select **Disable domain** instead.
+
+![Copy Domain ID](/images/payments/payment-gateways/integrate-stripe/domain-id-copy-9.webp)
 
 ### Preview of Added Payment Method
 

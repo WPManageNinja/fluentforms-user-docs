@@ -11,28 +11,28 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 ## Fluent Forms v6.2.15
 
-_Released on September 28, 2026_
+_Released on September 30, 2026_
 
 ::: code-group
 
 ```markdown [✨ Newly Added]
-• Added Stripe Payment Element for the inline Stripe field to handle Apple Pay or Google Pay inline
-• Added a copy action on a form's integration feeds
-• Added Autocomplete for form fields, so browsers can offer a visitor's saved details and each input's purpose is determinable in the editor (WCAG 1.3.5)
+• Added a Stripe Payment Element option to the inline Stripe field, with Apple Pay and Google Pay
+• Added an Autocomplete setting on form fields so browsers can fill in details like name, email, and address
+• Added a Duplicate option for integration feeds
+• Added an Export option to the Entries page
+• Added an optional per-form AI Agents (WebMCP) setting that describes your form to AI-powered browsers, turned off by default
 ```
 
 ```markdown [🐞 Bug fixes]
-• Fixed Stripe 3D Secure confirmation failing on conversational forms
-• Fixed the default "last 30 days" report window being measured in UTC instead of the site's timezone
-• Fixed conversational forms becoming uneditable in the form editor after an AI assistant added or changed a field through the MCP interface
-• Fixed a submission being checked twice by CleanTalk, and updated the CleanTalk bot-detector script URL
+• Fixed Stripe 3D Secure payments not completing on conversational forms
+• Fixed CleanTalk checking the same submission more than once
+• Fixed the default report date range missing today's entries on sites ahead of UTC
+• Fixed conversational forms that could not be edited after their fields were updated through MCP
 ```
 
 ```markdown [🔒 Security]
-• Hardened the fluentform_info shortcode and the Gutenberg form block against script injection through date formats and block class names
-• Hardened the untrusted-input fence in the MCP interface so a form submitter cannot break out of it and address the AI assistant directly
-• Sanitized Net Promoter Score and Payment Item label text when a form is saved
-• Restricted user lookup on entry screens to the WordPress list_users permission
+• Fixed the fluentform_info shortcode output so it is escaped safely
+• Hardened input sanitization and permission checks across field settings, blocks, and entries
 ```
 
 :::
@@ -42,25 +42,23 @@ _Released on September 28, 2026_
 ::: code-group
 
 ```markdown [✨ Newly Added]
-• Added an Autocomplete setting on the Phone field
-• Added a per-feed Resubscribe option for CleverReach that reactivates a contact who had unsubscribed
+• Added the Autocomplete setting to the Phone field
+• Added a Resubscribe option to CleverReach feeds to reactivate contacts who unsubscribed
 ```
 
 ```markdown [🐞 Bug fixes]
-• Fixed Salesforce connections failing with a missing code challenge error, added PKCE support, and updated refresh token rotation
-• Fixed stock held by a payment that never settled in inventory
-• Fixed a Global Inventory slug set to 0 being read as unlimited instead of sold out
-• Fixed ranking field results in the survey shortcode showing every option at 100%
-• Fixed custom Element Class values being dropped from Net Promoter Score inputs
-• Fixed the default "last 30 days" report window being measured in UTC instead of the site's timezone
-• Fixed the ChatGPT field loader covering validation errors
-• Fixed the CleverReach list dropdown being truncated on accounts with many groups
-• Fixed integration requests reading a gateway error page as a successful sync
+• Fixed the Salesforce connection failing with a "missing required code challenge" error
+• Fixed inventory stock staying reserved after a failed payment
+• Fixed a Global Inventory item set to 0 being treated as unlimited instead of sold out
+• Fixed ranking field survey results showing 100% for every option
+• Fixed custom Element Class and read-only not applying to Net Promoter Score fields
+• Fixed the ChatGPT loader hiding form validation errors
+• Fixed the CleverReach list dropdown missing lists on large accounts
+• Fixed the default report date range missing today's entries on sites ahead of UTC
 ```
 
 ```markdown [🔒 Security]
-• Scoped dynamic field choices (user, post, and submission sources) to the form's owner
-• Hardened output escaping for Net Promoter Score labels, Payment Item price labels, and Save & Resume button styling
+• Hardened security for user update and post feeds, dynamic field results, and field settings output
 ```
 
 :::
