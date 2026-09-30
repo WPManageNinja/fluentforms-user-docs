@@ -9,6 +9,60 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 <ChangelogFilter />
 
+## Fluent Forms v6.2.15
+
+_Released on September 30, 2026_
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added a Stripe Payment Element option to the inline Stripe field, with Apple Pay and Google Pay
+• Added an Autocomplete setting on form fields so browsers can fill in details like name, email, and address
+• Added a Duplicate option for integration feeds
+• Added an Export option to the Entries page
+• Added an optional per-form AI Agents (WebMCP) setting that describes your form to AI-powered browsers, turned off by default
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Stripe 3D Secure payments not completing on conversational forms
+• Fixed CleanTalk checking the same submission more than once
+• Fixed the default report date range missing today's entries on sites ahead of UTC
+• Fixed conversational forms that could not be edited after their fields were updated through MCP
+```
+
+```markdown [🔒 Security]
+• Fixed the fluentform_info shortcode output so it is escaped safely
+• Hardened input sanitization and permission checks across field settings, blocks, and entries
+```
+
+:::
+
+### Fluent Forms Pro v6.2.15
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added the Autocomplete setting to the Phone field
+• Added a Resubscribe option to CleverReach feeds to reactivate contacts who unsubscribed
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the Salesforce connection failing with a "missing required code challenge" error
+• Fixed inventory stock staying reserved after a failed payment
+• Fixed a Global Inventory item set to 0 being treated as unlimited instead of sold out
+• Fixed ranking field survey results showing 100% for every option
+• Fixed custom Element Class and read-only not applying to Net Promoter Score fields
+• Fixed the ChatGPT loader hiding form validation errors
+• Fixed the CleverReach list dropdown missing lists on large accounts
+• Fixed the default report date range missing today's entries on sites ahead of UTC
+```
+
+```markdown [🔒 Security]
+• Hardened security for user update and post feeds, dynamic field results, and field settings output
+```
+
+:::
+
 ## Fluent Forms v6.2.14
 
 _Released on September 15, 2026_

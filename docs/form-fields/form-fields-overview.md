@@ -28,6 +28,7 @@ The everyday essentials. These cover the most common inputs you'll reach for on 
 - [File Upload](/file-upload-input-field) — let users attach files.
 - [Image Upload](/image-upload-input-field) — collect image uploads.
 - [Custom HTML](/custom-html-field) — add your own markup inside a form.
+- [Autocomplete](/autocomplete-for-form-fields) — let browsers fill in saved details and meet WCAG 1.3.5.
 
 ## Advanced Fields
 

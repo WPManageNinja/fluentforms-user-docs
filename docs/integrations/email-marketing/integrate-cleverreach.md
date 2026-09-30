@@ -82,7 +82,7 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 
 ![Open Settings Integrate CleverReach](/images/integrations/email-marketing/integrate-cleverreach/Open-Desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **CleverReach Integration** feed from the dropdown list. 
+Once you are on the **Settings & Integrations**, go to the **Configure Integrations** tab, click the **Add New Integration** button, and select **CleverReach Integration** feed from the dropdown list. 
 
 ![Add Integration Button Integrate CleverReach](/images/integrations/email-marketing/integrate-cleverreach/14.-Add-New-Integration-button-scaled.webp)
 
@@ -101,7 +101,9 @@ Once you select the form, a pop-up page will appear with various settings option
 
 4. **Conditional Logics:** This option allows CleverReach integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 
-5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
+5. **Resubscribe:** Check this option to reactivate a contact who is already in the list but has unsubscribed or been deactivated. Without it, the feed fails for that contact. Enable it only if you are permitted to contact them again.
+
+6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
 Once the setup is done, finally, click the **Save Feed** button.
 And, your CleverReach will be integrated into this specific form!

@@ -82,17 +82,19 @@ Under **Options**, turn on **Enable Option Grouping**. The flat options list bec
 
 ### Advanced Options
 
-**A. Dynamic Default Value:** Pre-fill the field using shortcodes. See [Dynamic Default Value in Fluent Forms](/dynamic-default-value).
+**A. Autocomplete:** Choose a value that tells the browser what the field collects, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Container Class:** Custom CSS classes for the field wrapper.
+**B. Dynamic Default Value:** Pre-fill the field using shortcodes. See [Dynamic Default Value in Fluent Forms](/dynamic-default-value).
 
-**C. Element Class:** Custom CSS classes for the input field.
+**C. Container Class:** Custom CSS classes for the field wrapper.
 
-**D. Help Message:** Guidance text shown below the field.
+**D. Element Class:** Custom CSS classes for the input field.
 
-**E. Name Attribute:** The HTML name attribute. You usually do not need to change this.
+**E. Help Message:** Guidance text shown below the field.
 
-**F. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
+**F. Name Attribute:** The HTML name attribute. You usually do not need to change this.
+
+**G. Conditional Logic:** Show or hide the field based on other values. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
 
 ![Dropdown advanced options](/images/form-fields/general-fields/dropdown-field/Advanced-options-05-3-scaled.webp)
 
