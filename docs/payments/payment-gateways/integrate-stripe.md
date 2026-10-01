@@ -31,12 +31,14 @@ Do not forget to press the **Save Stripe Settings** button to save all your chan
 
 ![Connect With Stripe](/images/payments/payment-gateways/integrate-stripe/2.-Connect-with-Stripe-scaled.webp)
 
-Here, provide the login credentials of your desired **Stripe Account** that you want to connect with **Fluent Forms**, click the **Submit** button, and your **Stripe** account will be configured. 
+Stripe opens the **Create your free Stripe account** page for **Fluent Plugins by WPManageNinja**. Enter your **Email address** and **Password** (at least 10 characters), then click the **Submit** button. You can also click **Sign in with Google** to continue with your Google account. Your **Stripe** account will then be connected to **Fluent Forms**.
+
+The **Get emails from Stripe** checkbox is optional. Leave it unchecked if you do not want product updates from Stripe.
 
 > [!Note]
-> If you do not have an existing Stripe Account, [click here](https://dashboard.stripe.com/register) to open a new account.
+> Connecting lets Fluent Forms see your Stripe account data, such as payment and payout history, and create payments for you. If you already have a Stripe account, use the same email address. To open a new account, [click here](https://dashboard.stripe.com/register).
 
-![Submit Button Fluent Forms](/images/payments/payment-gateways/integrate-stripe/3.-Submit-button.webp)
+![Submit Button Fluent Forms](/images/payments/payment-gateways/integrate-stripe/3.-Submit-button.png)
 
 > [!Note]
 > **Connect with Stripe** is enabled by default. Fluent Forms recommends this option for a secure setup, including for Stripe Verified Partners.
@@ -171,9 +173,17 @@ Your domain now appears in the **Payment method domains** list with the **Enable
 
 ### Preview of Added Payment Method
 
-Here is the **preview** of the **Payment Method** that we just added. 
+Here is the **preview** of the **Payment Method** that we just added. With the **Payment Element** on, the form shows **Card** and a wallet option side by side. Visitors on a supported device see **Apple Pay** (Safari on iPhone, iPad, or Mac) or **Google Pay** (Chrome and other supported browsers).
 
-![Preview Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/12.-Form-Preview-.webp)
+When a visitor selects a wallet, the form shows the message **Another step will appear to securely submit your payment information.** The visitor then completes the payment in the wallet window after clicking **Submit Form**. While you use **Test** mode, the form shows **Stripe test mode activated** below the payment options.
+
+**Apple Pay**
+
+![Preview Integrate Stripe Apple Pay](/images/payments/payment-gateways/integrate-stripe/apple-pay-12.png)
+
+**Google Pay**
+
+![Preview Integrate Stripe Gpay Pay](/images/payments/payment-gateways/integrate-stripe/gpay-form.png)
 
 ## Form Specific Stripe Settings
 
