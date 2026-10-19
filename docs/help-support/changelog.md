@@ -9,6 +9,36 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 <ChangelogFilter />
 
+## Fluent Forms v6.2.16
+
+_Released on October 16, 2026_
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added an "Add my past orders" option to claim guest orders by email
+• Added a smart code picker to the Custom HTML field
+• Added MCP tools to the WordPress Abilities REST API
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed missing emails on payment forms without a Payment Method field
+• Fixed a fatal error in the [ff_entry] shortcode
+• Fixed entry export including all fields when none are selected
+• Fixed a redundant aria-label on field labels
+• Fixed wrong field types for Dropdown and Simple Text from AI and MCP
+```
+
+```markdown [🔒 Security]
+• Restricted the [ff_entry] shortcode to entry viewers and the submitter
+• Linked guest orders only after email confirmation
+• Rejected invalid payment amounts, quantities, and checkbox values
+• Tightened permission checks on theme settings in shortcodes and blocks
+• Stopped form import from granting a higher user role than the importer has
+```
+
+:::
+
 ## Fluent Forms v6.2.15
 
 _Released on September 30, 2026_
