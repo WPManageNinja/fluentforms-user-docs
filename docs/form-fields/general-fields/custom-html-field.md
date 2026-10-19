@@ -42,6 +42,11 @@ For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
 > Other ShortCodes will work in this field as well.
 
+**Smart Code Picker:** You don't need to type smart codes by hand. Use the smart code picker in the **HTML Code** section to browse the available smart codes and insert one at your cursor position.
+
+- Click the **Add shortcodes** in the **HTML Code** section.
+- Select the smart code you want. It is added to your HTML code.
+
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 **D. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper. This can be used to style the current element.
