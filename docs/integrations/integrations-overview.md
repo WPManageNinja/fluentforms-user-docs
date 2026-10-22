@@ -77,6 +77,16 @@ Extend even further. Connect Fluent Forms to a growing list of productivity and 
 - [OpenAI ChatGPT](/integrate-openai-chatgpt) — bring AI into your form workflows.
 - [ClearOut (Email Validation)](/email-validation-with-clearout) — verify email addresses with ClearOut.
 
+## Duplicate an Integration Feed
+
+Need a second feed with the same settings? Duplicate it instead of rebuilding it.
+
+- Go to **Settings & Integrations → Configure Integrations** for your form.
+- Find the feed in the list and open its **Actions** menu.
+- Click **Duplicate integration feed**.
+
+Fluent Forms creates a copy that you can rename and adjust, for example to send the same submission to a different list or with different conditional logic.
+
 ## Where to go next
 
 Make your integrations even smarter:
