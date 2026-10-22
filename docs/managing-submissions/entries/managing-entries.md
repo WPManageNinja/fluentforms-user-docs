@@ -106,6 +106,8 @@ Fluent Forms makes exporting your form entries quick and easy. You can export en
 
 Whether you want to export all entries, only favorites, or just unread submissions, Fluent Forms gives you full control for easy data analysis or sharing.
 
+To export from the **Entries** page, click the **Export** button. Choose the **Form Inputs** you want to include, then pick a file format.
+
 ![Unnamed Fluent Forms](/images/managing-submissions/entries/managing-entries/unnamed-5.webp)
 
 Now, you can easily organize, manage, and process all your submitted entries in Fluent Forms.
