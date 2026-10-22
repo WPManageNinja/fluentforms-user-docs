@@ -36,7 +36,7 @@ For example:
 
 `<p style="color:blue;">Welcome to our registration form!</p>`
 
-**B. Dynamic SmartCodes:** By using [Smart Codes](/form-editor-smart-codes), the user can show data from any input. 
+**B. Dynamic SmartCodes:** By using [Smart Codes](/form-editor-smart-codes), the user can show data from any input.  Use the smart code picker in the HTML Code editor to browse and insert smart codes instead of typing them by hand.
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
