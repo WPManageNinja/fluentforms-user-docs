@@ -74,29 +74,31 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
+**A. Autocomplete:** Choose a value that tells the browser what the field collects, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
+**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
 
-**C. Element Class:** Add custom CSS classes to the input field.
+**C. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 
-**D. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Step:** The user can provide a Step attribute for this field. Users can give the value any floating value. For example:
+**E. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+
+**F. Step:** The user can provide a Step attribute for this field. Users can give the value any floating value. For example:
 
 - Use 1 for whole numbers ( 1, 2, 3).
 
 - Use 0.01 for decimal steps ( 0.01, 0.02, 0.03).
 
-**F. Prefix Label:** You can use this field to provide a **Prefix Label** in your input field. It will show in the input field as a prefix label.
+**G. Prefix Label:** You can use this field to provide a **Prefix Label** in your input field. It will show in the input field as a prefix label.
 
-**G. Suffix Label:** You can use this field to provide a **Suffix Label** in your input field. It will show in the input field as a suffix label.
+**H. Suffix Label:** You can use this field to provide a **Suffix Label** in your input field. It will show in the input field as a suffix label.
 
-**H. Name Attribute:** The input field's name attribute is the HTML equivalent of the same name. You don't need to modify this.
+**I. Name Attribute:** The input field's name attribute is the HTML equivalent of the same name. You don't need to modify this.
 
-**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**J. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
-**J. Calculation Field Settings:** Enable this to dynamically calculate the field's value based on other numeric field values. Add a **formula expression** to implement calculations. To learn more, read [Numeric Calculation in Fluent Forms](/numeric-calculation).
+**K. Calculation Field Settings:** Enable this to dynamically calculate the field's value based on other numeric field values. Add a **formula expression** to implement calculations. To learn more, read [Numeric Calculation in Fluent Forms](/numeric-calculation).
 
 ![Advanced Options](/images/form-fields/general-fields/numeric-input-field/Advanced-options-05-6-scaled.webp)
 

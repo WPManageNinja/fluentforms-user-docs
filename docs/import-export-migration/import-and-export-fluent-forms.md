@@ -39,6 +39,9 @@ After selecting the file and configuring your options, click the **Import Forms*
 
 ![Imported Fluent Forms](/images/import-export-migration/import-and-export-fluent-forms/Imported-Forms-scaled.webp)
 
+> [!Note]
+> An import can't give a form a higher user role than your own. If the file contains settings tied to a higher role, Fluent Forms limits them to the role of the user who imports the file.
+
 A success message will confirm that the form has been imported. It is shown in the screenshot below. You will also see all **Imported** forms in the **All Forms** Section.
 
 ![Imported Fluent Forms](/images/import-export-migration/import-and-export-fluent-forms/imported-forms-03-scaled.webp)

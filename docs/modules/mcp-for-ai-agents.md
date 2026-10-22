@@ -46,6 +46,9 @@ Once the toggle is on, the page shows the details you'll want to keep handy:
 
 If the tool count shows `0`, the toggle in Step 1 likely isn't on yet, or FluentHub isn't active.
 
+> [!Note]
+> The MCP tools are also registered with the **WordPress Abilities REST API**. Any client that reads abilities from WordPress can discover and run them, and every request still runs with the permissions of the authenticated WordPress user.
+
 ## Step 4: Generate a WordPress application password
 
 AI clients sign in using a **WordPress application password**. This is a feature built directly into WordPress 5.6 and later, so you don't need any extra plugin to use it. Each application gets its own password, which means you can revoke a single AI client without affecting your main login or any of your other tools.
@@ -202,7 +205,7 @@ Tools for changing how a form looks and what it contains.
 - **List Integrations** (Read) — Lists the integrations connected to a form.
 - **Get Form Styling** (Read) — Reads a form's current style settings.
 - **Update Form Styling** (Write) — Updates a form's styles, the same settings the [Official Form Styler](/official-form-styler) exposes.
-- **Update Form Fields** (Write) — Adds, edits, or reorders the fields on a form.
+- **Update Form Fields** (Write) — Adds, edits, or reorders the fields on a form. Fields such as **Dropdown** and **Simple Text** are created with the correct field type.
 
 **Example prompts:**
 

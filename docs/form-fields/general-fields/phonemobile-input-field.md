@@ -79,15 +79,17 @@ You can select **Yes** to notify a user that he needs to add a Valid Phone Numbe
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**A. Autocomplete:** (Pro) Choose a value that tells the browser this field collects a phone number, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
+**C. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
 
-**D. Element Class:** Add custom CSS classes to the input field.
+**D. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**E. Element Class:** Add custom CSS classes to the input field.
+
+**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options](/images/form-fields/general-fields/phonemobile-input-field/Advanced-options-05-2-scaled.webp)
 

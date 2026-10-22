@@ -16,7 +16,7 @@ At the top of the **Reports** page, you will find global filters to refine the d
 
 - **All Forms:** Use this dropdown menu to view data for all of your forms or select a specific one.
 
-- **Date Range:** Click this filter to select a predefined time period (e.g., Last 6 months) or set a custom date range.
+- **Date Range:** Click this filter to select a predefined time period (e.g., Last 6 months) or set a custom date range. By default, the reports show the last 30 days, based on your site's timezone.
 
 ### Overview
 

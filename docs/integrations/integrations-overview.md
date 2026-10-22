@@ -6,6 +6,12 @@ description: "Your forms work best when they talk to the rest of your stack. Flu
 
 Your forms work best when they talk to the rest of your stack. **Fluent Forms** connects to the marketing, CRM, automation, and productivity tools you already rely on — so every submission flows exactly where it needs to go, automatically. This page rounds up every available integration and links you straight to its setup guide.
 
+## Manage Your Feeds
+
+Each integration on a form runs through a feed. Learn how to copy, enable, and remove feeds.
+
+- [Manage Integration Feeds](/manage-integration-feeds) — copy a feed to create a similar one in seconds.
+
 ## Email Marketing
 
 Grow your list on autopilot. Send subscribers to your favorite email marketing platform the moment they submit.

@@ -188,6 +188,10 @@
           {
             "text": "Custom HTML",
             "link": "/custom-html-field"
+          },
+          {
+            "text": "Autocomplete",
+            "link": "/autocomplete-for-form-fields"
           }
         ]
       },
@@ -724,6 +728,10 @@
       {
         "text": "Overview",
         "link": "/integrations-overview"
+      },
+      {
+        "text": "Manage Integration Feeds",
+        "link": "/manage-integration-feeds"
       },
       {
         "text": "Email Marketing",

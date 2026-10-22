@@ -66,6 +66,8 @@ Advanced settings allow further customization to meet specific use cases.
 
 **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
+**D. Autocomplete:** Choose how browsers autofill the whole Name field. The options are **Automatic**, **off**, and **None**. **Automatic** gives each input its matching value, such as first name and last name. **off** turns off autofill for the field. **None** adds no attribute. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
+
 ![Advanced Options](/images/form-fields/general-fields/name-input-field/Advanced-Options-05-scaled.webp)
 
 ## Embed the Form into the Front

@@ -27,7 +27,7 @@ To access the inventory manager, navigate to the **Fluent Forms Global Settings*
 
 ## Adding an Inventory Item
 
-After clicking the **Add Inventory** button, a pop-up will appear. Now, enter the **Inventory Name** and set the **Total Quantity** that shows the available quantity in your inventory. Next, click the **Save** button to store the item in the **Inventory Manager**.
+After clicking the **Add Inventory** button, a pop-up will appear. Now, enter the **Inventory Name** and set the **Total Quantity** that shows the available quantity in your inventory. Set it to **0** to mark the item as sold out. Next, click the **Save** button to store the item in the **Inventory Manager**.
 
 ![Global Inventory Manager step](/images/modules/global-inventory-manager/10-scaled.webp)
 

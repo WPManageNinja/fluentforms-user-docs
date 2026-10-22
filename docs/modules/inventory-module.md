@@ -58,6 +58,9 @@ The Inventory Settings will be visible in the **Advanced Options** field when se
 
 **D. Hide Input When Stock is Out:** The items in your input field will be removed if this option is checked on.
 
+> [!Note]
+> Stock reserved by a payment that fails or is never completed is released back to your inventory.
+
 **E. Disable Input When Stock is Out:** Shows the item but **grays it out/disabled** when stock hits zero.
 
 **F. Show Available Stock:** This option is turned off by default. When it is enabled, items from the available Stock will be shown.

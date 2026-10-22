@@ -31,12 +31,14 @@ Do not forget to press the **Save Stripe Settings** button to save all your chan
 
 ![Connect With Stripe](/images/payments/payment-gateways/integrate-stripe/2.-Connect-with-Stripe-scaled.webp)
 
-Here, provide the login credentials of your desired **Stripe Account** that you want to connect with **Fluent Forms**, click the **Submit** button, and your **Stripe** account will be configured. 
+Stripe opens the **Create your free Stripe account** page for **Fluent Plugins by WPManageNinja**. Enter your **Email address** and **Password** (at least 10 characters), then click the **Submit** button. You can also click **Sign in with Google** to continue with your Google account. Your **Stripe** account will then be connected to **Fluent Forms**.
+
+The **Get emails from Stripe** checkbox is optional. Leave it unchecked if you do not want product updates from Stripe.
 
 > [!Note]
-> If you do not have an existing Stripe Account, [click here](https://dashboard.stripe.com/register) to open a new account.
+> Connecting lets Fluent Forms see your Stripe account data, such as payment and payout history, and create payments for you. If you already have a Stripe account, use the same email address. To open a new account, [click here](https://dashboard.stripe.com/register).
 
-![Submit Button Fluent Forms](/images/payments/payment-gateways/integrate-stripe/3.-Submit-button.webp)
+![Submit Button Fluent Forms](/images/payments/payment-gateways/integrate-stripe/3.-Submit-button.png)
 
 > [!Note]
 > **Connect with Stripe** is enabled by default. Fluent Forms recommends this option for a secure setup, including for Stripe Verified Partners.
@@ -122,7 +124,7 @@ Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dro
 
 - **Embedded Checkout:** Check this box to activate Stripe as an inline payment option.
 
-- **Enable Payment Element:** Check this box to replace the card field with Stripe's **Payment Element**. It adds **Apple Pay** and **Google Pay** on supported devices. This option appears only when **Embedded Checkout** is on. For Apple Pay, register your site domain in your Stripe account under **Settings → Payment method domains**.
+- **Enable Payment Element:** Check this box to replace the card field with the **Stripe Payment Element**. It shows **Apple Pay** and **Google Pay** inline on supported devices. This option appears only when **Embedded Checkout** is on. To learn more, see [Use the Stripe Payment Element](#use-the-stripe-payment-element).
 
 - **Verify Zip/Postal Code:** Check this box if you want to make providing the Zip/Postal Code information mandatory for your users to submit the forms.
 
@@ -136,11 +138,52 @@ Also, to see the **Preview** of the form, click the **Preview & Design** button 
 
 ![Save Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/11.-Save-form-scaled.webp)
 
+### Use the Stripe Payment Element
+
+The **Stripe Payment Element** replaces the standard card field of the inline Stripe payment option. Visitors can pay with a card, **Apple Pay**, or **Google Pay** without leaving your form. The wallet options appear only on devices and browsers that support them.
+
+- Open your form in the **Editor** and go to the **Payment Method** field settings.
+- Check **Stripe**, click the **Dropdown Arrow**, and turn on **Embedded Checkout**.
+- Check **Enable Payment Element**.
+- Click **Save Form**.
+
+![Stripe Payment Element](/images/payments/payment-gateways/integrate-stripe/enable-payment-element-5.webp)
+
+The Payment Element works on classic and [conversational forms](/create-a-conversational-form). Stripe 3D Secure confirmation also works on conversational forms.
+
+#### Register Your Domain for Apple Pay and Google Pay
+
+To show **Apple Pay**, register your site domain in your Stripe account first. Follow the steps below.
+
+First, open your **Stripe Dashboard**, click the **Settings** (gear) icon at the top right, and select **Payments** under **Product settings**.
+
+![Stripe Payment Settings](/images/payments/payment-gateways/integrate-stripe/stripe-settings-6.webp)
+
+Next, open the **Payment method domains** tab and click the **Add a new domain** button.
+
+![Payment Method Domains](/images/payments/payment-gateways/integrate-stripe/add-a-new-domain-7.webp)
+
+Enter your site's primary domain (for example, example.com) or a subdomain (for example, shop.example.com), then click **Save**.
+
+![Enter Your Domain](/images/payments/payment-gateways/integrate-stripe/enter-domain-8.webp)
+
+Your domain now appears in the **Payment method domains** list with the **Enabled** status. To copy its ID, click the **three-dot** icon at the end of the domain row and select **Copy domain ID**. To stop showing wallets on that domain, select **Disable domain** instead.
+
+![Copy Domain ID](/images/payments/payment-gateways/integrate-stripe/domain-id-copy-9.webp)
+
 ### Preview of Added Payment Method
 
-Here is the **preview** of the **Payment Method** that we just added. 
+Here is the **preview** of the **Payment Method** that we just added. With the **Payment Element** on, the form shows **Card** and a wallet option side by side. Visitors on a supported device see **Apple Pay** (Safari on iPhone, iPad, or Mac) or **Google Pay** (Chrome and other supported browsers).
 
-![Preview Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/12.-Form-Preview-.webp)
+When a visitor selects a wallet, the form shows the message **Another step will appear to securely submit your payment information.** The visitor then completes the payment in the wallet window after clicking **Submit Form**. While you use **Test** mode, the form shows **Stripe test mode activated** below the payment options.
+
+**Apple Pay**
+
+![Preview Integrate Stripe Apple Pay](/images/payments/payment-gateways/integrate-stripe/apple-pay-12.png)
+
+**Google Pay**
+
+![Preview Integrate Stripe Gpay Pay](/images/payments/payment-gateways/integrate-stripe/gpay-form.png)
 
 ## Form Specific Stripe Settings
 

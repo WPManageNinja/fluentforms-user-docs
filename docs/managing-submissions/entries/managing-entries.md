@@ -110,4 +110,6 @@ To export from the **Entries** page, click the **Export** button. Choose the **F
 
 ![Unnamed Fluent Forms](/images/managing-submissions/entries/managing-entries/unnamed-5.webp)
 
+You can also choose which fields to include in the export. If you don't select any fields, Fluent Forms exports the default entry columns instead of every field in the form.
+
 Now, you can easily organize, manage, and process all your submitted entries in Fluent Forms.

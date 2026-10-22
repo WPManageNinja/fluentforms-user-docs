@@ -58,23 +58,25 @@ You will find various settings options for customizing the field. Located in the
 
 Advanced settings allow further customization to meet specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
+**A. Autocomplete:** Choose a value that tells the browser what the field collects, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
 
-**C. Element Class:** Add custom CSS classes to the input field.
+**C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
 
-**D. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Prefix Label:** Use this to add a prefix text or symbol that appears before the input area to provide additional context.
+**E. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
 
-**F. Suffix Label:** Use this to add a suffix text or symbol that appears after the input area.
+**F. Prefix Label:** Use this to add a prefix text or symbol that appears before the input area to provide additional context.
 
-**G. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don't need to modify this.
+**G. Suffix Label:** Use this to add a suffix text or symbol that appears after the input area.
 
-**H. Max Text Length:** You can set the maximum number of characters that the input field can accept. This is ideal for limiting responses like postal codes or shortcodes.
+**H. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don't need to modify this.
 
-**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**I. Max Text Length:** You can set the maximum number of characters that the input field can accept. This is ideal for limiting responses like postal codes or shortcodes.
+
+**J. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Textarea Advanced Option](/images/form-fields/general-fields/adding-a-text-area-input-field/textarea-advanced-option-scaled.webp)
 

@@ -122,6 +122,9 @@ To show a specific value from a single form submission, use the **[ff_entry]** s
 [[ff_entry form_id='1' entry_id='{submission.id}' field='url']]
 ```
 
+> [!Note]
+> The **[ff_entry]** shortcode only shows entry data to users who can view entries and to the person who submitted that entry. Other visitors see nothing.
+
 #### Display GET Parameter Value
 
 If you pass data in a URL (e.g., your-site.com/page?my_param=hello), you can display that value on the page using the **[ff_get]** shortcode.
