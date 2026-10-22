@@ -221,6 +221,21 @@ Tools for the emails a form sends after submission.
 - _"What email notifications are set up on my Contact Form?"_
 - _"Add an admin notification on the Feedback form that emails me on every submission."_
 
+## Describe a single form to AI browsers (WebMCP)
+
+MCP lets an AI assistant manage your site. **AI Agents (WebMCP)** is different. It is a per-form setting that describes one form to AI-powered browsers, so they can fill it in reliably instead of guessing at field names. It adds metadata only. It does not let an agent submit the form on its own.
+
+To turn it on:
+
+- Open your form and go to **Settings & Integrations → Settings**.
+- Find the **AI Agents (WebMCP)** card.
+- Check **Expose this form to AI agents**. It is off by default.
+- Set the **Tool Name**. It defaults to the form title.
+- Add a **Tool Description** that says what the form does in one sentence.
+- Save your settings.
+
+Each field's label and help message are used to describe it to the browser, so clear labels give better results.
+
 ## Security and revoking access
 
 Application passwords are scoped to a single connection, so revoking one only disconnects that AI client. Your main WordPress login and any other connected apps stay untouched.
