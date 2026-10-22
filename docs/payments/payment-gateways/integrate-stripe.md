@@ -116,11 +116,13 @@ First, go to the **Editor** page of your desired form by clicking its **Edit** o
 
 Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by hovering over it and clicking the **Pencil Icon**.
 
-Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dropdown Arrow,** and you will get three options. These are:
+Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dropdown Arrow,** and you will get these options:
 
 - **Method Label:** Here, you can change the label based on your preference for your added payment method.
 
 - **Embedded Checkout:** Check this box to activate Stripe as an inline payment option.
+
+- **Enable Payment Element:** Check this box to replace the card field with Stripe's **Payment Element**. It adds **Apple Pay** and **Google Pay** on supported devices. This option appears only when **Embedded Checkout** is on. For Apple Pay, register your site domain in your Stripe account under **Settings → Payment method domains**.
 
 - **Verify Zip/Postal Code:** Check this box if you want to make providing the Zip/Postal Code information mandatory for your users to submit the forms.
 
