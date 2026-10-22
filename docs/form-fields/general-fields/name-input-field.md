@@ -64,7 +64,9 @@ Advanced settings allow further customization to meet specific use cases.
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**C. Autocomplete:** Choose what kind of information this field collects so browsers can autofill it for your users, such as name, email, or address details. It also helps assistive technology identify the purpose of the input. Select **Automatic** to use the matching value for the field, **off** to disable browser autofill, or **None** to add no attribute at all.
+
+**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 **D. Autocomplete:** Choose how browsers autofill the whole Name field. The options are **Automatic**, **off**, and **None**. **Automatic** gives each input its matching value, such as first name and last name. **off** turns off autofill for the field. **None** adds no attribute. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
