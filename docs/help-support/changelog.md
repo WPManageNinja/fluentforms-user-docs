@@ -9,6 +9,62 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 <ChangelogFilter />
 
+## Fluent Forms v6.2.17
+
+_Released on October 30, 2026_
+
+::: code-group
+
+```markdown [🐞 Bug fixes]
+• Fixed Turnstile sometimes not rendering
+• Fixed Slack and Discord sometimes missing field data when a submission runs several integrations
+• Fixed Slack dropping a field answered with "0"
+• Fixed form re-import overwriting forms a manager can't access
+• Fixed the dashboard widget showing stats from restricted forms
+• Fixed the payment success email not sending for some free orders
+```
+
+```markdown [🔒 Security]
+• Improved security of Mailchimp API key validation
+• Kept manager permissions within their assigned forms
+• Saved only recognized options in form settings
+• Kept internal data private in global settings
+• Showed external images in entry view as a link instead of loading them
+• Improved file matching during entry cleanup so unrelated files with similar names are skipped
+• Limited email attachments to files from their own entry
+• Protected files still used by other entries when an entry is deleted
+• Limited Range Slider product quantities to whole numbers within range
+• Made fixed-amount coupon discounts on subscriptions always add up correctly
+• Kept the checkout order total accurate when a paid item is removed
+• Rejected payment amounts that round to zero
+```
+
+:::
+
+### Fluent Forms Pro v6.2.17
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added one-click connect for Google Sheets and Notion for more secure connections
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the Notion database list breaking on a database with no title
+• Fixed submission filters not matching Date/Time fields
+• Fixed the OpenStreetMap address lookup loading state and City fallback
+• Fixed Inventory refusing a submission when a sold-out product is hidden by conditional logic
+```
+
+```markdown [🔒 Security]
+• Kept webhook feeds within the forms a manager has access to
+• Limited Inventory stock limits to valid quantities
+• Limited Double Opt-in auto-delete to the entry's own files
+• Limited Resend Notification attachments to files from their own entry
+```
+
+:::
+
 ## Fluent Forms v6.2.16
 
 _Released on October 16, 2026_
