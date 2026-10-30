@@ -17,38 +17,57 @@ Turn on the **Toggle** to enable **Google Sheets**, then click the **Settings Ic
 
 ![Enabled Google Sheet Module](/images/integrations/other-apps/integrate-google-sheets/1.-Enabled-Google-Sheet-module-scaled.webp)
 
-Once you enable Google Sheets, you will be asked for the **Access Code** from your Google account and the **Verify Code**.
-
-> [!Tip]
-> Click **Get Google Sheet Access Code** to authorize Fluent Forms. Follow the steps below to finish setup.
-
-![Access Code Fluent Forms](/images/integrations/other-apps/integrate-google-sheets/2.-Access-Code--scaled.webp)
-
-### Getting the Access Code from Google
-
-To get the Access Code from Google, [click here](https://accounts.google.com/o/oauth2/auth?access_type=offline&approval_prompt=force&client_id=157785030834-7bkpc1olhgp9kd683c78dclei5elhoku.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Ffluentforms.com%2Fgapi%2F&response_type=code&scope=https%3A%2F%2Fspreadsheets.google.com%2Ffeeds%2F), and select the desired **Google Account** where your desired **Google Sheet** exists.
-
-![Gmail Fluent Forms](/images/integrations/other-apps/integrate-google-sheets/3.-Desired-gmail.webp)
-
-Then, click on the **Continue** button for next.
-
-![Gmail Fluent Forms](/images/integrations/other-apps/integrate-google-sheets/continue-button-2.webp)
-
-Once you continue with the desired Google Account, it will take you to the **Fluent Forms Server** and generate an **Access Code**. Simply, copy the access code by clicking on the **Copy** button.
-
-![Copy Access Code](/images/integrations/other-apps/integrate-google-sheets/4.-Copy-access-code.webp)
-
 ## Connecting Google Sheets with Fluent Forms
 
-Return to the **Google Sheets** settings page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Google Sheets connects in one click. You no longer need to copy and paste an access code. Each site gets its own secure, dedicated connection to your Google account.
 
-Finally, paste the **access code** you copied from **Google** into the **Access Code** field, press the **Verify Code** button, and your **Google Sheet Integration** module will be enabled. 
+### Step 1: Start the Connection
 
-![Paste Code Fluent Forms](/images/integrations/other-apps/integrate-google-sheets/5.-Paste-code-scaled.webp)
+The **Google Sheets** settings page opens under **Global Settings** → **Configure Integrations** → **Google Sheets**. Until you connect, it shows the message **Your Google Sheets connection is not valid**.
 
-Now, you can see that the Google Sheet has been successfully connected to your **Fluent Forms**. You can disconnect it anytime by clicking the **Disconnect Google Sheet** button. 
+Click the **Connect Google Sheets** button.
 
-![Disconnect Goggle Sheet](/images/integrations/other-apps/integrate-google-sheets/6.-Disconnect-Goggle-Sheet-scaled.webp)
+![Connect Google Sheets Button](/images/integrations/other-apps/integrate-google-sheets/2.-Connect-Google-Sheets.webp)
+
+### Step 2: Confirm and Continue to Google
+
+Fluent Forms opens the **Connect a new integration** page. It lists what this connection does:
+
+- Uses secure OAuth through Google, the official provider.
+- Returns access tokens to your WordPress admin only.
+- Lets you revoke access anytime from your Google account.
+
+Under **You'll be returned to**, check that the address shown is your own WordPress site. Only continue if it is. Then click **Continue with Google**. To stop, click **Cancel** or **Back to website**.
+
+![Continue with Google](/images/integrations/other-apps/integrate-google-sheets/3.-Continue-with-Google.webp)
+
+### Step 3: Choose Your Google Account
+
+Google asks you to **Choose an account** to continue to Fluent Forms. Select the **Google Account** that owns your **Google Sheet**. If it isn't listed, click **Use another account** and sign in.
+
+![Choose Google Account](/images/integrations/other-apps/integrate-google-sheets/4.-Choose-Google-Account.webp)
+
+### Step 4: Allow Access
+
+Google shows the access Fluent Forms is asking for: permission to see, edit, create, and delete your Google Sheets spreadsheets. Fluent Forms needs this to add your form submissions as rows in your sheet.
+
+Click **Continue** to allow access.
+
+![Allow Access Google Sheets](/images/integrations/other-apps/integrate-google-sheets/5.-Allow-Access.webp)
+
+### Step 5: Confirm the Connection
+
+Google sends you back to the **Google Sheets** settings page in Fluent Forms. A green check and the message **Your Google Sheets integration is up and running** confirm the connection.
+
+To remove the connection later, click the **Disconnect Google Sheets** button.
+
+![Google Sheets Connected](/images/integrations/other-apps/integrate-google-sheets/6.-Google-Sheets-Connected.webp)
+
+### Reconnecting an Older Connection
+
+If you connected Google Sheets with an access code before, the settings page shows a notice asking you to reconnect. Older connections use a shared app credential that is being retired for security reasons.
+
+Your existing feeds keep working and no data is at risk. Still, reconnect when you can: click **Connect Google Sheets** and follow the steps above. Reconnecting takes about a minute and does not change your feed settings.
 
 ## Integrating Google Sheets with Forms
 
