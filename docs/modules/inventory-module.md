@@ -60,6 +60,8 @@ The Inventory Settings will be visible in the **Advanced Options** field when se
 
 > [!Note]
 > Stock reserved by a payment that fails or is never completed is released back to your inventory.
+>
+> If **conditional logic** hides a sold-out item, the form still submits. Only items the user can see are checked against your stock.
 
 **E. Disable Input When Stock is Out:** Shows the item but **grays it out/disabled** when stock hits zero.
 

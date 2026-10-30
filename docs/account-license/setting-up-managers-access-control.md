@@ -53,6 +53,9 @@ A popup will appear, allowing you to select the manager and set the permissions 
 
 **Access to Forms:** To access the form, first check the box to **enable the Specifics Forms Permission**. Select the forms here to grant your manager permission to use specific forms.
 
+> [!Note]
+> A manager with specific-form access works only within the forms you assign. They can't see or change anything that belongs to other forms. That includes entries, webhook feeds and stats in the WordPress dashboard widget. A form import also can't overwrite a form they can't access.
+
 Now, click the **Save** button to finalize the manager's permissions.
 
 ![Fluent Forms](/images/account-license/setting-up-managers-access-control/03-2-scaled-2.webp)
