@@ -17,42 +17,76 @@ Now, turn on the **Toggle** to enable the **Notion** module, and click the **Set
 
 ![Enable Notion Integrate Notion](/images/integrations/other-apps/integrate-notion/1.-Enable-Notion-scaled.webp)
 
-Once you enable Notion, you will be asked for the **Access Code** of your **Notion Account**.
-
-> [!Tip]
-> Click **Get Notion Code** to authorize Fluent Forms and complete the Notion integration.
-
-![Get Acess Code](/images/integrations/other-apps/integrate-notion/2.-Get-Acess-Code-scaled.webp)
-
-### Getting the Notion Access Code
-
-First, [click here](https://api.notion.com/v1/oauth/authorize?client_id=a7d866f8-cdfe-477d-8cce-9e363355c6b2&response_type=code&owner=user&redirect_uri=https://fluentforms.com/gapi), it will redirect to a page where you can specify which **Notion Account** you want to integrate with **Fluent Forms** by clicking the **Arrow Icon** in the top right corner. 
-
-Then, click the **Select Pages** button to choose the Notion Pages you want to integrate with Fluent Forms.
-
-![Select Pages Integrate Notion](/images/integrations/other-apps/integrate-notion/3.-Select-Pages.webp)
-
-Here, you will see all of your available Notion Pages. Now, **check the box** of those pages that you want to integrate and click the **Allow Access** button.
-
-![Allow Access Fluent Forms](/images/integrations/other-apps/integrate-notion/4.-Allow-Access.webp)
-
-Now, a pop-up will come with the **Access Code** of Notion and a picture showing the **Instruction** for providing that code. Simply, copy it from here by clicking the **Copy** button. 
-
-![Copy Access Code](/images/integrations/other-apps/integrate-notion/5.-Copy-access-code.webp)
-
 ## Connecting Notion with Fluent Forms
 
-Return to the **Notion Integration** page under the **Configure Integrations** tab of the **Global Settings** section from the fluent forms navbar. 
+Notion connects in one click. You no longer need to copy and paste an access code. Each site gets its own secure, dedicated connection to your Notion workspace.
 
-Now, paste the **Code** you copied from **Notion** into the **Access Code** field.
-Finally, press the **Verify Notion** button to make your **Notion Integration** module functional. 
+### Step 1: Start the Connection
 
-![Paste Access Code](/images/integrations/other-apps/integrate-notion/6.-Paste-access-code-scaled.webp)
+The **Notion Integration** settings page opens under **Global Settings** → **Configure Integrations** → **Notion**. Until you connect, it shows the message **Your Notion connection is not valid**.
 
-You can see that your Notion is connected to your **Fluent Forms** successfully!
-You can disconnect it anytime by clicking the **Disconnect Notion** button.
+Click the **Connect Notion** button.
 
-![Disconnect Notion Fluent Forms](/images/integrations/other-apps/integrate-notion/7.-Disconnect-Notion-scaled.webp)
+![Connect Notion Button](/images/integrations/other-apps/integrate-notion/2.-Connect-Notion.webp)
+
+### Step 2: Confirm and Continue to Notion
+
+Fluent Forms opens the **Connect a new integration** page. It lists what this connection does:
+
+- Uses secure OAuth through Notion, the official provider.
+- Returns access tokens to your WordPress admin only.
+- Lets you revoke access anytime from your Notion account.
+
+Under **You'll be returned to**, check that the address shown is your own WordPress site. Only continue if it is. Then click **Continue with Notion**. To stop, click **Cancel** or **Back to website**.
+
+![Continue with Notion](/images/integrations/other-apps/integrate-notion/3.-Continue-with-Notion.webp)
+
+### Step 3: Sign in to Notion
+
+If you aren't signed in to Notion, sign in first. The screenshots below show signing in with a Google account. If you're already signed in, skip to Step 4.
+
+- On **Choose an account**, select the account you use for Notion. If it isn't listed, click **Use another account**.
+
+![Choose Google Account for Notion](/images/integrations/other-apps/integrate-notion/4.-Choose-Google-Account.webp)
+
+- On **Sign in to Notion**, Google shows the details Notion receives: your name, profile picture, and email address. Click **Continue**.
+
+![Sign in to Notion](/images/integrations/other-apps/integrate-notion/5.-Sign-in-to-Notion.webp)
+
+### Step 4: Review the Permissions
+
+Notion shows **Connect with FluentForm Notion Integration**. The integration asks for permission to:
+
+- View pages you select.
+- Edit pages you select.
+- Create new content within pages you select.
+- View workspace users and their emails.
+
+To connect a different workspace, use the workspace dropdown in the top right corner. Then click **Select pages**.
+
+![Select Pages Integrate Notion](/images/integrations/other-apps/integrate-notion/6.-Select-Pages.webp)
+
+### Step 5: Allow Access to Your Pages
+
+Notion lists your pages under **Select pages**. Use **Search pages** to find a page quickly. Check the box for each page that holds the database you want to send form submissions to. Fluent Forms can only reach the pages you check.
+
+Click **Allow access**.
+
+![Allow Access Fluent Forms](/images/integrations/other-apps/integrate-notion/7.-Allow-Access.webp)
+
+### Step 6: Confirm the Connection
+
+Notion sends you back to the **Notion Integration** settings page in Fluent Forms. A green check and the message **Your Notion integration is up and running** confirm the connection.
+
+To remove the connection later, click the **Disconnect Notion** button.
+
+![Notion Connected](/images/integrations/other-apps/integrate-notion/8.-Notion-Connected.webp)
+
+### Reconnecting an Older Connection
+
+If you connected Notion with an access code before, the settings page shows a notice asking you to reconnect. Older connections use a shared app credential that is being retired for security reasons.
+
+Your existing feeds keep working and no data is at risk. Still, reconnect when you can: click **Connect Notion** and follow the steps above. Reconnecting takes about a minute and does not change your feed settings.
 
 ## Integrating Notion with Forms
 
@@ -61,17 +95,17 @@ First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desire
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
-![Open Settings Integrate Notion](/images/integrations/other-apps/integrate-notion/8.-Open-desired-Form-Settings-scaled.webp)
+![Open Settings Integrate Notion](/images/integrations/other-apps/integrate-notion/9.-Open-desired-Form-Settings-scaled.webp)
 
 Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Notion Integration** feed from the dropdown list. 
 
-![Add Integration Dropdown Integrate Notion](/images/integrations/other-apps/integrate-notion/9.-Add-new-integration-dropdown-scaled.webp)
+![Add Integration Dropdown Integrate Notion](/images/integrations/other-apps/integrate-notion/10.-Add-new-integration-dropdown-scaled.webp)
 
 Once you select the desired table, a pop-up page will appear with various settings options for configuring the Notion.  
 
 1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
 
-2. **Notion Database:** Using the Arrow Icon, you can select the Notion Database where you want to add your form submission information. You can also change this anytime if needed.
+2. **Notion Database:** Using the Arrow Icon, you can select the Notion Database where you want to add your form submission information. You can also change this anytime if needed. A database without a title appears as **(Untitled)** in the list.
 
 Once you select the database, all the columns from your chosen Notion Database will appear here as fields (e.g., you can see the Email, Country, and Name fields). 
 
@@ -83,13 +117,13 @@ Now, use all the fields under this option to properly link your Notion Databases
 
 Once the setup is done, click the **Save Feed** button, and your Notion will be integrated into this specific form!
 
-![Save Feed Integrate Notion](/images/integrations/other-apps/integrate-notion/10.-Save-Feed-scaled.webp)
+![Save Feed Integrate Notion](/images/integrations/other-apps/integrate-notion/11.-Save-Feed-scaled.webp)
 
 After successful Integration, you will now see that your **Notion Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
-![Added Notion Integration Feed](/images/integrations/other-apps/integrate-notion/11.-Added-Notion-Integration-Feed-scaled.webp)
+![Added Notion Integration Feed](/images/integrations/other-apps/integrate-notion/12.-Added-Notion-Integration-Feed-scaled.webp)
 
 ## Embedding Form into Frontend
 
@@ -99,7 +133,7 @@ Now, **copy** the **Shortcode** from the top right side and **paste** it into yo
 
 Once you are done, click the **Save** **Form** button to save all your changes. 
 
-![Save Integrate Notion](/images/integrations/other-apps/integrate-notion/12.-Save-Form-scaled.webp)
+![Save Integrate Notion](/images/integrations/other-apps/integrate-notion/13.-Save-Form-scaled.webp)
 
 ### Preview of Integrated Notion
 
@@ -107,13 +141,13 @@ Here, you can see the preview of the added Notion Contacts through the Form Entr
 
 For example, you can see four new **Six Submissions** under the **Entries** tab on this particular form.
 
-![Entries Fluent Forms](/images/integrations/other-apps/integrate-notion/13.-form-Entries-scaled.webp)
+![Entries Fluent Forms](/images/integrations/other-apps/integrate-notion/14.-form-Entries-scaled.webp)
 
 Now, go to Notion and open the **Database** you configured with **Fluent Forms** from the left sidebar.
 
 Here, you can see that the **users who submitted forms** in **Fluent Forms** are also automatically added to the selected **Notion Database**. 
 
-![Notion Preview Fluent Forms](/images/integrations/other-apps/integrate-notion/14.-Notion-Preview-scaled.webp)
+![Notion Preview Fluent Forms](/images/integrations/other-apps/integrate-notion/15.-Notion-Preview-scaled.webp)
 
 ## Connecting Notion Page directly with Fluent Forms
 
@@ -121,6 +155,6 @@ You also have the option to connect any newly created page to Fluent Forms direc
 
 To do this, simply open the desired page, click the **Three-Dot Icon** in the top right corner, scroll down to **Connections**, and press the **Fluent Forms** option. Your selected page will be connected to Fluent Forms!
 
-![Connect Notion Page With](/images/integrations/other-apps/integrate-notion/15.-Connect-New-Notion-Page-with-Fluent-Forms-scaled.webp)
+![Connect Notion Page With](/images/integrations/other-apps/integrate-notion/16.-Connect-New-Notion-Page-with-Fluent-Forms-scaled.webp)
 
 This way, you can easily integrate Notion with Fluent Forms!
