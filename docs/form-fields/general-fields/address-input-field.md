@@ -9,7 +9,7 @@ The Address input field in[ Fluent Forms](https://fluentforms.com/) offers a sui
 This guide will walk you through adding and customizing the **Address Input Field** in Fluent Forms for your WordPress site.
 
 > [!Note]
-> Autocomplete the **Address** field with **Google Maps** (Fluent Forms Pro). See [How to Integrate Google Maps with Fluent Forms](/integrate-google-maps).
+> Autocomplete the **Address** field with **Google Maps** or **OpenStreetMap** (Fluent Forms Pro). See [Autocomplete Provider](#autocomplete-provider-pro) below and [How to Integrate Google Maps with Fluent Forms](/integrate-google-maps).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/qlYfmqCujKE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -68,6 +68,31 @@ A text box provides additional options or actions related to the default value. 
 - **Required:** Decide whether users must select at least one option before submission. If you hit the Radio button and pick Yes, the field is compulsory, and the user must answer by submitting the form. By default, it selected No options.
 
 ![Address Line1](/images/form-fields/general-fields/address-input-field/address-line1-07-scaled.webp)
+
+### Autocomplete Provider (Pro)
+
+The **Autocomplete Provider** setting fills in the address for your users. You find it below the **Address Fields** list in the **Input Customization** tab. Click the dropdown and choose one of these options:
+
+- **None:** No address autocomplete. This is the default.
+- **Google Maps:** Suggests addresses as the user types. This option stays grayed out until you add a Google Maps API key. See [How to Integrate Google Maps with Fluent Forms](/integrate-google-maps).
+- **OpenStreetMap Geolocation (Nominatim):** Detects the user's location in the browser and fills in the address from OpenStreetMap. No API key is needed.
+
+![Autocomplete Provider Options](/images/form-fields/general-fields/address-input-field/autocomplete-provider-options.webp)
+
+When you choose **OpenStreetMap Geolocation (Nominatim)**, the **OpenStreetMap Locate** option appears. Use it to decide when the address is detected:
+
+- **On Page Load:** The browser asks for the user's location as soon as the form loads.
+- **On Click:** The user clicks the locate icon in the address field. The field shows **Please wait ...** while it looks up the address.
+- **Disable:** Turns location lookup off.
+
+OpenStreetMap fills in **Address Line 1**, **City**, **State**, **Zip Code**, and **Country**. If a location has no city, the **City** field uses the town or village name instead. An OpenStreetMap attribution line appears below the field.
+
+> [!Note]
+> OpenStreetMap (Nominatim) allows only 1 request per second across all users, and requires attribution. It suits forms with low traffic. For high-traffic forms, use **Google Maps**. The editor shows this same notice below the dropdown.
+
+**Save Coordinates:** With Google Maps or OpenStreetMap, check **Save User Location (Latitude & Longitude)** to save the user's latitude and longitude with the address.
+
+![OpenStreetMap Locate Settings](/images/form-fields/general-fields/address-input-field/openstreetmap-locate-settings.webp)
 
 ### Advanced Options
 
