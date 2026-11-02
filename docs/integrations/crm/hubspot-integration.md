@@ -6,95 +6,99 @@ description: "Fluent Forms integrates with HubSpot so form submissions can creat
 
 Fluent Forms integrates with **HubSpot** so form submissions can create or update HubSpot contacts and add them to your lists automatically.
 
-This guide covers enabling the integration, creating a HubSpot private app, connecting your access token, and configuring a form feed.
+This guide covers enabling the integration, creating a HubSpot **Service Key**, connecting it to Fluent Forms, preparing a static list, configuring a form feed, and testing the connection.
 
 > [!Note]
 > **HubSpot** integration requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
+## Before You Start
+
+- **Fluent Forms Pro** is installed, activated, and updated to the latest version.
+- You are a **Super Admin** in your HubSpot account, or you have **Developer tools** access. Only these users can create Service Keys.
+
+> [!Note]
+> **Already connected with a private app token?** You don't need to change anything. HubSpot keeps existing legacy private apps working. Use this guide when you connect for the first time or need a new key.
+
 ## Enable HubSpot Integration
 
-Go to **Integrations** in the Fluent Forms navbar, search for **HubSpot**, and open the HubSpot integration module.
-
-Turn on the **Enabled** toggle, then click the **Settings** icon.
+Go to **Integrations** in the Fluent Forms navbar, search for **HubSpot**, and turn on its **Enabled** toggle. Then click the **Settings** icon on the HubSpot card.
 
 ![Enable HubSpot integration module](/images/integrations/crm/hubspot-integration/enable-hubspot-integration-01-scaled.webp)
 
-After enabling HubSpot, you are prompted for a HubSpot **Access Token**.
+Fluent Forms asks for a **HubSpot Access Token**. You create it in HubSpot in the next step.
 
 ![HubSpot access token prompt](/images/integrations/crm/hubspot-integration/hubspot-access-token-02-scaled.webp)
 
-## Get the HubSpot Access Token
+## Create a HubSpot Service Key
 
-Log in to your [HubSpot account](https://www.hubspot.com/), click the **Settings** icon in the upper right, then open **Legacy Apps** under **Integrations**.
+Fluent Forms connects to HubSpot with a **Service Key**. The key gives Fluent Forms access to your HubSpot contacts and lists.
 
-![HubSpot Legacy Apps settings](/images/integrations/crm/hubspot-integration/hubspot-setting-2-scaled.webp)
+Log in to your [HubSpot account](https://www.hubspot.com/). In the left sidebar, go to **Development** > **Keys** > **Service Keys**. If you don't see **Development**, open **More** at the bottom of the sidebar.
 
-Now, Click the **Create legacy app**.
+Click **Create service key** in the top right.
 
-![Create a HubSpot legacy app](/images/integrations/crm/hubspot-integration/create-legacy-app-3-scaled.webp)
+![Create a HubSpot Service Key](/images/integrations/crm/hubspot-integration/create-service-key.webp)
 
-In the pop-up, select **Private**.
+Enter a **Name** for the key, for example *Fluent Forms*. Then click **Add new scope**.
 
-![Select Private app type](/images/integrations/crm/hubspot-integration/private-4.webp)
+![Enter a name and add scopes to the Service Key](/images/integrations/crm/hubspot-integration/enter-name-and-add-scope.webp)
 
-Click **Continue with legacy private app**.
+In the **Add new scope** panel, search for and tick each scope from the table below, then click **Update**.
 
-![Continue with legacy private app](/images/integrations/crm/hubspot-integration/create-leggacy-app-5-1-scaled.webp)
 
-You are taken to a page with **Basic Info** and **Scopes**.
+| Scope | Needed for |
+| --- | --- |
+| `crm.objects.contacts.read` | Required: reading and matching contacts |
+| `crm.objects.contacts.write` | Required: creating and updating contacts |
+| `crm.schemas.contacts.read` | Required: loading contact fields for mapping |
+| `crm.lists.read` | List syncing only: showing your lists in Fluent Forms |
+| `crm.lists.write` | List syncing only: adding contacts to a list |
 
-### Basic Info
 
-Enter a **Name** for the private app (for example, *Fluent Forms*).
+![Select scopes for the HubSpot Service Key](/images/integrations/crm/hubspot-integration/add-new-scope.webp)
 
-![HubSpot app basic info](/images/integrations/crm/hubspot-integration/create-app-6-scaled.webp)
+Check that all selected scopes are listed under **Selected scopes**, then click **Create** in the top right.
 
-### Scopes
+![Selected scopes and Create button](/images/integrations/crm/hubspot-integration/create.webp)
 
-Open the **Scopes** tab and click **Add new scope**.
+In the confirmation pop-up, click **Create** again.
 
-![Add new HubSpot scopes](/images/integrations/crm/hubspot-integration/add-new-scopes-7-scaled.webp)
+![Confirm Service Key creation](/images/integrations/crm/hubspot-integration/click-create.webp)
 
-Select these contact scopes:
+On the key's page, click **Copy** next to the **Service Key**. The key starts with `pat-`.
 
-- `crm.objects.contacts.read`
-- `crm.objects.contacts.write`
-- `crm.schemas.contacts.read`
+> [!Warning]
+> Keep the Service Key private, like a password. If it is ever exposed, click **Rotate** on the same page and paste the new key into Fluent Forms.
 
-![HubSpot CRM contact scopes](/images/integrations/crm/hubspot-integration/add-crm-scope-8-scaled.webp)
+![Copy the HubSpot Service Key](/images/integrations/crm/hubspot-integration/copy-service-key.webp)
 
-![HubSpot CRM schemas scope](/images/integrations/crm/hubspot-integration/crm-schemas-scaled.webp)
 
-For list syncing, also add:
 
-- `crm.lists.read`
-- `crm.lists.write`
+## Connect HubSpot with Fluent Forms
 
-![HubSpot CRM lists scopes](/images/integrations/crm/hubspot-integration/crm-lists-scaled.webp)
+Go to **Fluent Forms** > **Global Settings** > **Configure Integrations** > **HubSpot**.
 
-Click **Create app** in the top right.
-
-![Create HubSpot app](/images/integrations/crm/hubspot-integration/create-app-scaled.webp)
-
-In the confirmation pop-up, click **Continue creating**.
-
-![Continue creating HubSpot app](/images/integrations/crm/hubspot-integration/continue-creating-scaled.webp)
-
-Open **Auth** and copy the **Access Token**.
-
-![Copy HubSpot access token](/images/integrations/crm/hubspot-integration/access-token-scaled.webp)
-
-### Connect HubSpot with Fluent Forms
-
-Return to **HubSpot Settings** under **Configure Integration** in Fluent Forms global settings.
-
-Paste the **HubSpot Access Token** and click **Save Settings**.
+Paste the Service Key into the **HubSpot Access Token** field and click **Save Settings**.
 
 ![Paste HubSpot API access token](/images/integrations/crm/hubspot-integration/hubspot-api-access-token-10-scaled.webp)
 
-A success notice confirms the token is verified. You can disconnect HubSpot anytime with **Disconnect HubSpot**.
+When the key is accepted, you see **Your HubSpot API integration is up and running**. You can remove the connection anytime with **Disconnect HubSpot**.
 
-![Disconnect HubSpot integration](/images/integrations/crm/hubspot-integration/dissconnected-hubspot-11-scaled.webp)
+![Disconnect HubSpot integration](/images/integrations/crm/hubspot-integration/disconnect-api-key.webp)
+
+## Prepare a Static List (Optional)
+
+Skip this step if you only want to create contacts. HubSpot now calls lists **Segments**, and Fluent Forms can add contacts only to **Static** segments.
+
+- In HubSpot, go to **Segments** in the left sidebar.
+- Click **Create segment** > **Manually**.
+- Choose **Contacts** and click **Next**.
+- Name the segment. No filters are needed.
+- Click **Next**. Under **Choose processing type**, select **Static**.
+- Click **Save and process segment**.
+
+> [!Note]
+> **Active** segments don't appear in Fluent Forms, because HubSpot adds and removes their members automatically.
 
 ## Configure the Form with HubSpot
 
@@ -105,28 +109,25 @@ Go to **All Forms** and open the form you want to connect, or create a new one.
 
 ![Open form settings for HubSpot integration](/images/integrations/crm/hubspot-integration/Forms-Fluent-settings-y-scaled.webp)
 
-In the form's **Settings & Integrations**, click **Add New Integration** and select **HubSpot Integration**.
-
-> [!Note]
-> You need a static HubSpot list to sync submissions. In the Lists v3 flow, list membership updates work only with list types that support manual membership changes (**MANUAL** and **SNAPSHOT** lists). Dynamic or active lists do not work with Fluent Forms.
+In the form's **Settings & Integrations**, open **Configure Integrations**, click **Add New Integration**, and select **HubSpot Integration**.
 
 ![Add HubSpot integration to the form](/images/integrations/crm/hubspot-integration/41.webp)
 
 ## Configure HubSpot Integration Feed
 
-**A. Name:** Enter a unique feed name.
+**A. Name:** Enter a name for this feed.
 
-**B. HubSpot list:** Select the HubSpot list that receives form data.
+**B. HubSpot List:** Select the static segment that receives form data, or leave it empty to only create contacts.
 
-**C. Map Fields:** Map HubSpot fields to form fields using the shortcode picker.
+**C. Map Fields:** Choose the form field for **Email Address** (required). Optionally map **First Name**, **Last Name**, **Website**, **Company**, **Phone**, and address fields.
 
-**D. Other Fields:** Add extra custom HubSpot fields. Click the **Plus** icon to add more mappings.
+**D. Other Fields:** Click the **Plus** icon to map any other HubSpot contact property.
 
-**E. Conditional Logic:** Run the integration only when specific conditions are met. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
+**E. Conditional Logics:** Send data to HubSpot only when your conditions match. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
 
-**F. Update:** Enable **Contact Update** to update existing HubSpot contacts with new form data.
+**F. Update:** Tick **Enable Contact Update** so a returning email updates the existing contact instead of failing.
 
-**G. Status:** Enable the feed to activate the integration.
+**G. Status:** Keep **Enable This feed** ticked to activate the integration.
 
 Click **Save Feed**.
 
@@ -142,12 +143,33 @@ If you configured HubSpot feeds before the CRM v3 and Lists v3 update, Fluent Fo
 
 If the old list ID cannot be mapped to a Lists v3 ID, open the feed, re-select the HubSpot list manually, and save again.
 
-## Preview of Integrated HubSpot
+## Test the Integration
 
-View form submissions in the form's **Entries** section. Learn more about [managing entries in Fluent Forms](/managing-entries).
+- Submit the form once with a test email address.
+- In Fluent Forms, open the entry under **Entries**. Its **Submission Logs** show the HubSpot feed result. The feed runs in the background, so the log can take a moment to appear. Learn more about [managing entries in Fluent Forms](/managing-entries).
 
 ![Form entries after HubSpot integration](/images/integrations/crm/hubspot-integration/15-scaled.webp)
 
-In HubSpot, open **CRM → Contacts** to see contacts added to your integrated list.
+- In HubSpot, go to **CRM** > **Contacts** and find the test contact.
 
 ![HubSpot contacts from Fluent Forms submissions](/images/integrations/crm/hubspot-integration/hubspot-contact-14-scaled.webp)
+
+- If you chose a list, open the segment and check that the contact is listed. The segment's **Size** number can lag a few minutes behind the member list.
+
+## Troubleshooting
+
+| Problem | What to do |
+| --- | --- |
+| No **Development** > **Keys** menu in HubSpot | Ask a HubSpot Super Admin to create the key, or to give you Developer tools access. |
+| "Your HubSpot token is missing required contact permissions" | Add `crm.objects.contacts.read` and `crm.objects.contacts.write` to the key, then save again in Fluent Forms. |
+| List dropdown shows **No data** | Create a Static segment and make sure the key has `crm.lists.read` and `crm.lists.write`. |
+| Contact is created but not added to the list | Check that the segment is Static and the key has `crm.lists.write`. |
+| The connection stopped working | The key may have been rotated or deleted in HubSpot. Paste the current key and save again. |
+
+## FAQ
+
+**Do existing private app tokens still work?**
+Yes. HubSpot keeps existing legacy private apps working, so connected sites need no change.
+
+**Do I need the list scopes?**
+Only if you add contacts to a HubSpot list. Contact-only setups need the three required scopes.
