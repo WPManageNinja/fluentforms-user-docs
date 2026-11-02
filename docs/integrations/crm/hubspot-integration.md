@@ -73,7 +73,6 @@ On the key's page, click **Copy** next to the **Service Key**. The key starts wi
 ![Copy the HubSpot Service Key](/images/integrations/crm/hubspot-integration/copy-service-key.webp)
 
 
-
 ## Connect HubSpot with Fluent Forms
 
 Go to **Fluent Forms** > **Global Settings** > **Configure Integrations** > **HubSpot**.

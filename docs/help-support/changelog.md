@@ -11,7 +11,7 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 ## Fluent Forms v6.2.17
 
-_Released on October 30, 2026_
+_Released on November 2, 2026_
 
 ::: code-group
 

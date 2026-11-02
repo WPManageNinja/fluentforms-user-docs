@@ -64,6 +64,9 @@ You can add **a default value** by clicking the **Three-Dot** option on the righ
 
 **I. Enable Quantity Mapping:** Select the Yes button to Enable Quantity Mapping. It indicates that this field is mapped to a [product quantity](/add-item-quantity-field-in-payment-forms) (likely for e-commerce or order forms). After that, **Choose a Target Product Field** to ensure correct quantity mapping.
 
+> [!Note]
+> When **Quantity Mapping** is on, the slider accepts only whole numbers between its **Min Value** and **Max Value**. Keep **Step** at a whole number such as 1, not "any". A decimal or out-of-range value stops the submission with the message "This payment item is invalid".
+
 ![Rage Slider](/images/form-fields/advanced-fields/range-slider-field/Rage-Slider-03-1-scaled.webp)
 
 ### Advanced Options
