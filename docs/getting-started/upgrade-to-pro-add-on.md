@@ -27,7 +27,7 @@ Visit the official [**Fluent Forms**](https://fluentforms.com/) or [**WPManageNi
 
 ![Get the ZIP File](/images/getting-started/upgrade-to-pro-add-on/Pricing-plan.webp)
 
-Or, you can open the **Fluent Forms free** plugin from your WordPress dashboard and click the **Upgrade to Pro** button. This will take you directly to the purchase page.
+Or, you can open the **Fluent Forms free** plugin from your WordPress dashboard, click **More** in the top bar, and select **Support**. Then click the **Upgrade to Pro** button in the **Unlock more with Fluent Forms Pro** banner. This will take you directly to the purchase page.
 
 ![Upgrade Pro](/images/getting-started/upgrade-to-pro-add-on/01-2-scaled.webp)
 
@@ -63,8 +63,8 @@ Now, to activate the plugin, click the **Activate Plugin** button.
 
 ### Activate the License Key
 
-First, go to **Global** **Settings** from your Fluent Forms Dashboard, open **License** from the left sidebar, and enter the **License Key** you’ve copied before into the input field.
-And finally, click the **Activate License** button. Your Fluent Forms Pro plugin will also be successfully activated on your WordPress site!
+First, click the **Global Settings** gear icon in the top bar of your Fluent Forms dashboard, open **License Management** from the left menu, and enter the **License Key** you’ve copied before into the input field.
+And finally, click the **Verify license** button. Your Fluent Forms Pro plugin will also be successfully activated on your WordPress site!
 
 ![Activate the License Key](/images/getting-started/upgrade-to-pro-add-on/License-Key-04-25-2025_12_40_PM-scaled.webp)
 
