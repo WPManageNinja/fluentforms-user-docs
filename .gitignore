@@ -5,3 +5,7 @@ node_modules/
 .claude/*
 !.claude/skills/
 *.log
+
+# Local-only screenshot tooling (not published)
+scripts/screenshots/
+.claude/skills/
