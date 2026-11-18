@@ -19,7 +19,11 @@ Go to the Fluent Forms dashboard. From the top navigation bar, click the **Setti
 
 ### Role-Based
 
-The **Role Based** section assigns access by WordPress user role. Check the roles you want, such as Editor, Author, or Contributor, or select **Check all**. Users with a selected role become Fluent Forms Managers and receive full access to all Fluent Forms features.
+The **Role Based** section assigns access by WordPress user role. It lists the roles available on your site, except Administrator, who always has full access, and Subscriber, which can't be given access. 
+
+Check the roles you want, or select **Check all**. Users with a selected role can use the Fluent Forms features, but they don't get **Full Access**. 
+
+To give someone Full Access or limit them to certain permissions or forms, add them as a manager below.
 
 ### Managers
 
@@ -50,6 +54,8 @@ The **Add Manager** popup appears. Select the user and set the manager's permiss
 - Manage Payments (required for [payment](/payments-overview) bulk actions, such as bulk delete or status updates)
 
 - Full Access to all features.
+
+Some permissions depend on others. For example, **Manage Entries** requires **View Entries**, and **View Payments** requires **View Forms** and **View Entries**.
 
 **Access to Forms:** To limit the manager to certain forms, check **Enable Specific Forms Permission**. Then use the **Select the forms this manager can access** dropdown to choose the forms. If you leave it blank, the manager keeps access to all forms.
 
