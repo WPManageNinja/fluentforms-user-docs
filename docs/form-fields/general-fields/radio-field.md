@@ -14,7 +14,7 @@ This article will guide you through adding the **Radio Field** to your WordPress
 
 ## Adding Radio Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Editor Fluent Forms](/images/form-fields/general-fields/radio-field/Editor-Form-01-scaled.webp)
 
@@ -26,17 +26,17 @@ Now, select the desired **Radio Field** by clicking or **drag and drop** it into
 
 ## Customizing the Radio Field
 
-After adding the field, customize it. **Hover over the field** and click the **Pencil Icon** to open the **Input Customization** tab. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+After adding the field, customize it. **Hover over the field** and click the **Pencil Icon** to open the **Customize** tab. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Radio Field Options
 
 - Advanced Options
 
-![Input Customization](/images/form-fields/general-fields/radio-field/Input-customization-03-8-scaled.webp)
+![Customize](/images/form-fields/general-fields/radio-field/Input-customization-03-8-scaled.webp)
 
 ### Radio Field Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Radio Field.**
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Radio Field.**
 
 **A. Element Label:** This is the field title the users will see when filling out the **Radio** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -92,7 +92,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embedding the Form on Your Website
 
-Once customization is complete, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once customization is complete, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

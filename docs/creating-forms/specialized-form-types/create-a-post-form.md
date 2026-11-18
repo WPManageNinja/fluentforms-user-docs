@@ -13,42 +13,40 @@ This article will guide you through creating a **Post Form** with **Fluent Forms
 > [!Note]
 > Before you create a **Post Form**, enable the **Post/CPT Creation** module. Without it, **Post Fields** will not appear under **Input Fields** in the Form Builder.
 
-To enable the module, go to **Integrations** from the **WordPress** sidebar or the **Fluent Forms** navbar.
+To enable the module, click **Integrations** in the Fluent Forms top bar and open the **WP Core Modules** tab.
 
-Now, search for **Post/CPT Creation** through the search bar, turn on the **Toggle**, and your **Post/CPT Creation** module will be enabled.
+Now, find **Post/CPT Creation** (or search for it), turn on the **Toggle**, and your **Post/CPT Creation** module will be enabled.
 
 ![Enable post module](/images/creating-forms/specialized-form-types/create-a-post-form/1.-Enable-PostCPT-Creation-option-scaled.webp)
 
 ## Create Post Forms
 
-From your **WordPress Dashboard**, navigate to the **Fluent Forms** **Plugin** and click the **New Form** button from the left sidebar. 
-
-Or, go to the **Fluent Forms Navbar,** click the **Forms**, and click the **+ Add New Form** button. 
+From your **WordPress Dashboard**, go to **Fluent Forms > Forms** and click the **Add Form** button at the top right of the **Forms** screen. 
 
 ![Add new form](/images/creating-forms/specialized-form-types/create-a-post-form/2.-Add-New-Form-button-scaled.webp)
 
-A pop-up appears with several form types. Click **Create a Post Form**.
+The **Create A New Form** window opens. Click **Create a Post Form**.
 
 > [!Note]
-> The **Create a Post Form** tab appears only after you enable **Post/CPT Creation** under **Integrations**. See [Enable the Post/CPT Creation Module](#enable-the-postcpt-creation-module) above.
+> The **Create a Post Form** option appears only after you enable **Post/CPT Creation** under **Integrations**. See [Enable the Post/CPT Creation Module](#enable-the-postcpt-creation-module) above.
 
 ![Create post form](/images/creating-forms/specialized-form-types/create-a-post-form/3.-Create-a-Post-Form-scaled.webp)
 
-After selecting the **Create Post Form**, a new pop-up will appear with two basic options **Post** and **Page**. Select the **Post** option from here. 
+After selecting **Create a Post Form**, the **Select Post Type** screen opens. Open the **Post Type** dropdown and select **post**, then click **Continue**. 
 
 > [!Note]
 > Also, if you have third-party integrations in your site, those options will appear here as well.
 
 ![Select post type](/images/creating-forms/specialized-form-types/create-a-post-form/4.-Select-Post-type.webp)
 
-Once you select the **Post** and **continue**, it will take you to the **Form Editor** page.
+Once you continue, the **Form Editor** page opens.
 
 Now, go to the **Input Fields** in the right sidebar, and you will see the **Post Fields** and **Taxonomy Fields** (this module also lets you add taxonomy fields where you can add [Categories](/add-categories-taxonomy-field-in-post-forms), [Tags](/add-tags-taxonomy-field-in-post-forms), and **Formats**.) modules are added to help you create a Post Form. 
 
 > [!Note]
 > Separate documentation is available for each field in the Post Fields and Taxonomy Fields module. Read them thoroughly to understand the detailed use of each field.
 
-Now, you need to click the **Arrow Icon** to open the fields modules and add the necessary **input fields** to create the form. 
+Now, click a group name such as **Post Fields** or **Taxonomy Fields** to open it and add the necessary **input fields** to create the form. 
 
 ![Taxonomy fields](/images/creating-forms/specialized-form-types/create-a-post-form/5.-Post-Taxonomy-Fields-Module-scaled.webp)
 
@@ -73,7 +71,7 @@ Now, select the necessary fields by **clicking** on them or **Drag & Drop** them
 
 ## Customize the Form
 
-Now you are on the **Editor** page of your newly created Post Form. Here you can see three fields are already added that you can customize according to your needs. 
+Now you are on the **Editor** page of your newly created Post Form. Here you can customize the added fields according to your needs. 
 
 To customize an added field, **hover over it** and the following customization options will appear. 
 
@@ -81,7 +79,7 @@ To customize an added field, **hover over it** and the following customization o
 
 **b. Arrow**: Using this option, you can move your fields one step up or down.
 
-**c. Edit**: Click the **Pencil**/**Edit** **Icon**, and it will take you to the **Input Customization** tab on the right sidebar which offers a wide range of options for customization.
+**c. Edit**: Click the **Pencil Icon** to open the **Customize** tab on the right, which offers a wide range of options for customization.
 
 **d. Duplicate**: Click this button and the field will be duplicated.
 
@@ -89,12 +87,11 @@ To customize an added field, **hover over it** and the following customization o
 
 ![Field customization](/images/creating-forms/specialized-form-types/create-a-post-form/7.-Input-Customization-field-scaled.webp)
 
-To see the recent changes you made in your form click the **History** tab. Plus, from this tab, you can restore or delete recent edits at any time by clicking the **Restore** button or **Delete** **Icon**.
+To see the recent changes you made in your form, click the **History** (clock) icon at the top right of the right panel to open **Saved versions**. From there, you can restore or delete recent edits at any time by clicking the **Restore** button or the **Trash Icon**.
 
 ![Form edit history](/images/creating-forms/specialized-form-types/create-a-post-form/8.-History-tab-scaled.webp)
 
-You can change your **Form Name** anytime by clicking the **Pencil Icon** in the top left corner.
-Once you finish your customization, press the **Save Form** to save all your changes. 
+You can change your **Form Name** anytime by clicking the **Pencil Icon** next to the form name in the top bar. Once you finish your customization, press the **Save** button to save all your changes. 
 
 ![Rename post form](/images/creating-forms/specialized-form-types/create-a-post-form/9.-Change-the-form-name-scaled.webp)
 
@@ -102,15 +99,15 @@ Once you finish your customization, press the **Save Form** to save all your cha
 
 Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
 
-First, go to **Settings & Integrations** from the **Editor** page of your desired **Post Form** where you want to configure the **Post Feed**.
+First, click **Configuration** in the top bar of your desired **Post Form**, then open **Integrations & Add-ons** from the left menu.
 
 ![Form settings](/images/creating-forms/specialized-form-types/create-a-post-form/10.-Settings-Integrations--scaled.webp)
 
-Now, open the **Post Feeds** tab from the left sidebar and click the + **Add Post Feed** button.
+Now, open **Post Feeds** and click the **Add Post Feed** button.
 
 ![Add post feed](/images/creating-forms/specialized-form-types/create-a-post-form/11.-Add-Post-Feed-scaled.webp)
 
-Then, a pop-up page will appear with various settings options for configuring the Post Feed.
+Then, the feed settings page opens with various options for configuring the Post Feed.
 
 **A. Feed Name**: Here, you can give a name to your Post Feed to easily find it later. You can change the name anytime if needed.
 
@@ -122,7 +119,7 @@ Then, a pop-up page will appear with various settings options for configuring th
 
 **E. Post Status**: Here, you can select the Post status between **Draft**, **Pending**, **Private**, and **Publish**.
 
-**F. Comment Status:** Here, you can select the Comment status between **Open** and **Close**.
+**F. Comment Status and Post Format:** Select the comment status between **Open** and **Close**, and choose the post format.
 
 **G. Default Category**: Here, you can select the Default Category from the existing Post Category you have in your WordPress Site.
 
@@ -138,21 +135,21 @@ Complete **Post Fields Mapping** first, then add custom meta fields. If you use 
 
 **J. Enable Conditional Logic:** Run this Post Feed only when your conditions are met. See [Conditional Email Notification in Fluent Forms](/conditional-email-notification).
 
-When finished, click **Save Feed** to save your Post Feed configuration.
+When finished, click **Save** to save your Post Feed configuration.
 
 ![Post feed settings](/images/creating-forms/specialized-form-types/create-a-post-form/12.-Create-New-Feed-page-scaled.webp)
 
 After successful configuration, you will see that your **Post** **Feed** has been added here.
-You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. 
+You can edit your feed anytime by clicking the **Pencil Icon**, turn it on or off with the toggle, and delete it by clicking the **Trash Icon**. 
 
 ![Post feed saved](/images/creating-forms/specialized-form-types/create-a-post-form/13.-Added-Post-Feed-scaled.webp)
 
 ## Embed Form into Frontend
 
-Once you complete the process, press the **Save** **Form** button to save all your changes.
+Once you complete the process, press the **Save** button to save all your changes.
 
-Also, to see the form preview, click the **Preview & Design** button in the middle.
-Plus, to embed and display the form on your WordPress Site, **copy** the **Shortcode** on the top right side. 
+Also, to see the form preview, click the **Preview** (eye) icon.
+Plus, to embed and display the form on your WordPress Site, click the copy icon next to the **Shortcode** in the top bar. 
 
 ![Save post form](/images/creating-forms/specialized-form-types/create-a-post-form/14.-Save-Form-scaled.webp)
 

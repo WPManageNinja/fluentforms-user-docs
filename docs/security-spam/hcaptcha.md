@@ -15,7 +15,10 @@ This article will guide you through adding the **hCaptcha** field in **Fluent Fo
 
 Before using hCaptcha, you must configure it with a **Site Key** and **Secret key**. To learn more, read [How to Integrate hCaptcha with Fluent Forms](/integrate-hcaptcha).
 
-Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the form to open its **Editor** page.
+
+> [!Note]
+> The **hCaptcha** field stays disabled in the field list until you save your hCaptcha keys. See [How to Integrate hCaptcha with Fluent Forms](/integrate-hcaptcha).
 
 ![Edit hCaptcha](/images/security-spam/hcaptcha/edit-form-01-9-scaled.webp)
 
@@ -43,7 +46,7 @@ Now, Located in the **Input Customization Tab**, these settings allow you to con
 
 ## Embed the Form into the Frontend
 
-Once you have customized the hCaptcha field, click the **Save Form** button to apply the changes.
+Once you have customized the hCaptcha field, click the **Save** button to apply the changes.
 
 To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired page or post.
 

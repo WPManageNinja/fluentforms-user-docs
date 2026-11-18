@@ -13,7 +13,7 @@ Integrating OnePageCRM with Fluent Forms helps automate your business growth by 
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **OnePageCRM**  through the search bar, and get the **OnePageCRM integration module**.
 
-Now, turn on the **Toggle** to enable the **OnePageCRM** module, and click the **Settings Icon** on the right side.
+Now, turn on the **Toggle** to enable the **OnePageCRM** module, and click **Manage** on the right side.
 
 ![Enable OnePageCRM](/images/integrations/crm/onepagecrm-integration/enable-onepagecrm-01-scaled.webp)
 
@@ -40,11 +40,11 @@ Here you will find **User ID** and **API Key** under the Configuration sections.
 
 ## Connect OnePageCRM with Fluent Forms
 
-Then, return to the **OnePageCRM Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
+Then, return to the **OnePageCRM Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
 
 Now, paste the **User ID** and **API Key** that was copied before.
 
-Press the **Save Settings** button to make your **OnePageCRM Integration** module functional.
+Press the **Save** button to make your **OnePageCRM Integration** module functional.
 
 ![Paste User ID And API Key](/images/integrations/crm/onepagecrm-integration/paste-user-id-and-api-key-06-scaled.webp)
 
@@ -54,14 +54,14 @@ Here you can see your **OnePageCRM API integration is up and running**. Also you
 
 ### Integrate OnePageCRM into Fluent Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your OnePageCRM and click the **Settings** button. 
+First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your OnePageCRM and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Setting OnePageCRM Integration](/images/integrations/crm/onepagecrm-integration/Form-Setting-08-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **OnePageCRM Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **OnePageCRM Integration** feed from the drawer. 
 
 ![Add Ne Integration OnePageCRM Integration](/images/integrations/crm/onepagecrm-integration/add-ne-integration-09-scaled.webp)
 
@@ -77,7 +77,7 @@ Click the **Dropdown Arrow** to add mapping values.
 
 **D. Status:** Enable this feed option to activate the integration.
 
-Now, click the **Save Feed** button to save the integration feed.
+Now, click the **Save** button to save the integration feed.
 
 ![Add OnePageCRM Integration Feed](/images/integrations/crm/onepagecrm-integration/Add-New-OnePageCrm-Integration-Feed-10-scaled.webp)
 

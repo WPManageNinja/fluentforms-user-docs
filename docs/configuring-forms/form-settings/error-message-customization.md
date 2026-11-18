@@ -18,19 +18,19 @@ Go to **Forms** from the Fluent Forms navbar and select the form where you want 
 
 ![Fluent Forms form list](/images/configuring-forms/form-settings/error-message-customization/edit-form-01-6-scaled.webp)
 
-Navigate to the **Input Customization** tab for the field where you want to display an **error message**.
+Click the field where you want to display an **error message**, then open the **Customize** tab in the right panel.
 
-Ensure **Yes** is selected for **Required**. If **No** is selected, the field will not show a validation error. With **Yes** selected, the default **global error message** applies.
+Turn on the **Required** toggle. If it is off, the field does not show a validation error. With it on, the default **global error message** applies.
 
 ![Global error message](/images/configuring-forms/form-settings/error-message-customization/global-error-message-01-scaled.webp)
 
-To use a custom message for this field only, turn off **Global Error Message**. Enter your text in **Custom Error Message**, then click **Save Form**.
+To use a custom message for this field only, turn off the **Global Error Message** toggle. A **Custom Error Message** box appears. Enter your text, then click **Save**.
 
 ![Custom error message](/images/configuring-forms/form-settings/error-message-customization/custom-error-message-02-scaled.webp)
 
 ### Global error message settings
 
-Manage validation messages site-wide from **Global Settings**. Open **General Settings**, scroll to **Layout**, then find **Validation Messages**.
+Manage validation messages site-wide from **Global Settings**. Go to **General → Validation Messages**.
 
 #### Validation messages
 
@@ -53,12 +53,12 @@ These messages appear when something goes wrong while filling out a form. The gl
 
 #### Error message position
 
-Error messages can be shown in different places on the form. Go to **Settings & Integrations → Form Layout** (under **Settings**), then choose a position. Learn more in the [Form Layout Settings](/form-layout-settings) documentation.
+Error messages can be shown in different places on the form. Open your form, go to **Configuration → Appearance → Form Layout**, then choose a position under **Error Message Position**. Learn more in the [Form Layout Settings](/form-layout-settings) documentation.
 
 * **Below Input Fields:** Shows the error directly below the blank or invalid field.
 * **Stacked after Form:** Lists all validation errors below the form after submit.
 
-Click **Save Settings** when finished.
+Click **Save** when finished.
 
 ![Error message position](/images/configuring-forms/form-settings/error-message-customization/error-message-position-03-scaled.webp)
 

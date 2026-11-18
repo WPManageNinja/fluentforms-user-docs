@@ -11,9 +11,9 @@ Authorize.net is a global payment gateway that gives you Visa, credit card, and 
 
 ## Enable Authorize.net Payment Method
 
-First, go to **Global Settings** from the **Fluent Forms** Navbar, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Now, go to Authorize.Net in the top navbar and click **Enable Authorize.Net Payment Method**. The Authorize.Net Payment Method will be enabled globally for all forms. 
+Turn on the toggle next to **Authorize.Net** to enable it globally for all forms, then click **Manage** to open its settings.
 
 ![Enable Authorized integrate Authorize.Net](/images/payments/payment-gateways/integrate-authorizenet/enable-authorized-scaled.webp)
 
@@ -101,11 +101,11 @@ Now, your webhook is in an active status.
 
 ![Webhook Active](/images/payments/payment-gateways/integrate-authorizenet/webhook-active-11-scaled.webp)
 
-Now, return to the **Authorize.net Payment Method Settings** from the **Global Settings** section of Fluent Forms.
+Now, return to the **Authorize.net** page under **Payment Settings → Payment Methods** (click **Manage**).
 
 Then, paste the **API Login ID**, **Transaction key**, and **Webhook Signature key** in the corresponding fields.
 
-Finally, press the **Save Settings** button, and your Authorize.net account will be configured with Fluent Forms for your WordPress Site.
+Finally, click the **Save** button, and your Authorize.net account will be configured with Fluent Forms for your WordPress Site.
 
 ![Save Settings integrate Authorize.Net](/images/payments/payment-gateways/integrate-authorizenet/save-settings-12-scaled.webp)
 
@@ -119,7 +119,7 @@ First, go to the **Editor** page of your desired form by clicking its **Edit** o
 
 ![Edit integrate Authorize.Net](/images/payments/payment-gateways/integrate-authorizenet/Edit-form-13-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input Customization** menu on the right side of the added **Payment Method** field by clicking the **Pencil** Icon.
+Once you are on the **Editor** page, go to the **Customize** menu on the right side of the added **Payment Method** field by clicking the **Pencil** Icon.
 
 Now, go to the Payment Methods, check the **Authorize.Net** option, click the **Dropdown** **Arrow**, and you will get the option.
 
@@ -133,7 +133,7 @@ Once you complete the edit, press the Save Form button to save all the changes.
 
 To embed and display your form on a specific **page or post**, simply **copy the shortcode** from the top-right corner of the screen. Then, **paste it** into the content area of your desired page or post where you want the form to appear.
 
-If you’d like to see how the form looks before publishing, click on the **Preview & Design** button in the middle of the page. This allows you to review and adjust the design before making it live.
+If you’d like to see how the form looks before publishing, click on the **Preview** button in the middle of the page. This allows you to review and adjust the design before making it live.
 
 ![Copy Shortcode](/images/payments/payment-gateways/integrate-authorizenet/Copy-forms-shortcode-15-scaled.webp)
 

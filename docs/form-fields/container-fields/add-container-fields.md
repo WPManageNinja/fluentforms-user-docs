@@ -15,7 +15,7 @@ In **Fluent Forms**, the **Container** field allows you to add multiple fields h
 
 ## Add Container Fields
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one. For example, I choose an existing form to show the whole process.
@@ -51,7 +51,7 @@ Plus, you can adjust the position of the fields by aligning them as shown in the
 
 You can see that a desired **Container** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the desired field. 
+It will take you to the **Customize** tab on the right side and offer you the following options for customizing the desired field. 
 
 A. **Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
 
@@ -61,9 +61,9 @@ C. **Column Width**: Using this option, you can set the width of the columns. Th
 
 D. **Auto Width**: Enable the automatic width calculation for columns by clicking the **Yes** button. Otherwise, click the **No** button to adjust the width according to your preference.
 
-![Container Input Customization](/images/form-fields/container-fields/add-container-fields/6.-Container-input-customization-scaled.webp)
+![Container Customize](/images/form-fields/container-fields/add-container-fields/6.-Container-input-customization-scaled.webp)
 
-You can also customize the fields you added under the columns by **hovering over them** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab of the selected field and offer you the options for customizing that field. 
+You can also customize the fields you added under the columns by **hovering over them** and clicking the **Pencil Icon**. It will take you to the **Customize** tab of the selected field and offer you the options for customizing that field. 
 
 > [!Tip]
 > Match the form to your site design with the [Official Form Styler of Fluent Forms](/official-form-styler) or custom CSS in [Fluent Forms Styling/Custom CSS](/stylingcustom-css).
@@ -72,7 +72,7 @@ You can also customize the fields you added under the columns by **hovering over
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all changes you made. Also, to see the form preview, click the **Preview & Design** button in the middle.
+Once you complete the customization, click the **Save** button to save all changes you made. Also, to see the form preview, click the **Preview** (eye) icon at the top right.
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 

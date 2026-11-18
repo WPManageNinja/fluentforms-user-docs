@@ -129,4 +129,4 @@ To show a specific field value from a form submission on the front end, add this
 
 Replace `form_id`, `field`, and other parameters to match your form and the field you want to display.
 
-To add shortcodes inside a confirmation message, open your form's **Settings & Integrations** tab and use **Confirmation Settings**. See [Setup Form Submission Confirmation Message in Fluent Forms](/setup-form-submission-confirmation-message) for step-by-step setup. For more dynamic options, see [Using Helper Shortcodes](/using-helper-shortcodes).
+To add shortcodes inside a confirmation message, open your form's **Configuration** tab and use **Confirmation Settings** under **Responses**. See [Setup Form Submission Confirmation Message in Fluent Forms](/setup-form-submission-confirmation-message) for step-by-step setup. For more dynamic options, see [Using Helper Shortcodes](/using-helper-shortcodes).

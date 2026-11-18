@@ -36,7 +36,7 @@ The cards at the top of the dashboard provide a quick summary of essential activ
 
 The dashboard contains several visual charts to help you interpret your form data.
 
-**Overview Chart:** This bar chart displays submission trends over time. You can toggle the view between **Submissions** data (including Unread, Read, and Trashed) and **Payments** data.
+**Overview Chart:** This chart displays submission trends over time. Use the **bar** and **line** icons to switch the chart style. You can toggle the view between **Submissions** data (including Unread, Read, Spam, and Trashed) and **Payments** data.
 
 **Completion Rates (Partial Entry Forms):** This chart tracks partial entry submissions, showing the percentage of users who started and completed a form.
 
@@ -44,7 +44,7 @@ The dashboard contains several visual charts to help you interpret your form dat
 
 **Submissions By Country:** This section is designed to visualize the geographic origin of your form submissions on a world map. It helps you understand where your audience is located. 
 
-**Top Performing Forms:** This graph ranks your forms by performance. Use the toggles to view rankings by **Submissions**, **Views**, or **Payments**.
+**Top Performing Forms:** This graph ranks your forms by performance. Use the **Submissions**, **Views**, and **Payments** tabs to switch the ranking.
 
 ![Reports Dashboard Overview step](/images/managing-submissions/reports/reports-dashboard-overview/3-1-scaled.webp)
 
@@ -64,7 +64,7 @@ You can use the **AM (12-11)** or **PM (12-11)** toggles at the top right to foc
 
 - **Success:** Shows API calls that were completed.
 
-- **Processing:** Indicates calls that are still pending.
+- **Pending:** Indicates calls that are still waiting to be processed.
 
 - **Failed:** Highlights any API calls that encountered an error, allowing you to quickly identify and troubleshoot integration problems.
 

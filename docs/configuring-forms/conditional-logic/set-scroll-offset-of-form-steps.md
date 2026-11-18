@@ -17,9 +17,9 @@ First, open an existing **Form** where you want to set the **Scroll Offset** and
 >[!Note]
 >If you don't have any existing forms, follow the [Create Blank Form](/create-a-form) or [Create Form using the Pre-built Template](/using-and-customizing-pre-built-quick-forms) documentation to create a new one.
 
-Once you are on the **Editor** page of your desired form, go to the **Settings & Integrations** section, and open the **Custom CSS/JS** tab from the left sidebar. Then, enter the **CSS**, **JavaScript**, or **Both** here according to your requirements. 
+Once you are on the **Editor** page of your desired form, click **Configuration** in the top bar, expand **Appearance** in the left rail, and open **Custom CSS & JS**. Then, enter the **CSS**, **JavaScript**, or **Both** here according to your requirements. 
 
-Add this JavaScript under **Custom CSS/JS**:
+Add this JavaScript under **Custom Javascript**:
 
 ```
 window.ff_scroll_top_offset = 20;
@@ -28,6 +28,6 @@ window.ff_scroll_top_offset = 20;
 > [!Tip]
 > **`20`** is the scroll offset in pixels. If the form still sits under your sticky header, raise or lower the value until each step scrolls into view correctly.
 
-Once you are done, press the **Save & JS** button and the Scroll Offset will be set in your desired forms.
+Once you are done, click **Save** and the Scroll Offset will be set in your desired forms.
 
 ![Custom CSS Js](/images/configuring-forms/conditional-logic/set-scroll-offset-of-form-steps/Custom-CSS-JS-Fluent-Forms-12-06-2024_05_14_PM1-scaled.webp)

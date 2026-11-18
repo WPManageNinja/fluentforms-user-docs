@@ -10,7 +10,7 @@ This article will guide you through configuring hCaptcha in your WordPress Site 
 
 ## Configuring hCaptcha Integration
 
-First, go to **Global Settings** from the fluent forms navbar, open the **Security** tab from the left sidebar, and click the **hCaptcha** option.
+First, go to **Global Settings** from the Fluent Forms navbar, expand **Security** in the left sidebar, click **CAPTCHA services**, and open the **hCaptcha** tab.
 
 Now, you will be asked to provide the **Site Key** and **Secret Key** of your **hCaptcha Account** for the configuration.
 
@@ -52,7 +52,7 @@ Now, copy the **Site Key** by clicking the **Copy** button under the desired add
 
 ## Connecting hCaptcha with Fluent Forms
 
-Return to the **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, and click the **hCaptcha**. 
+Return to the **Global Settings** from the **FluentForms Navbar**, expand **Security** in the left sidebar, click **CAPTCHA services**, and open the **hCaptcha** tab. 
 
 Now, paste the **Keys** you copied from the **hCaptcha** into the **Site Key** and **Secret Key** fields respectively.
 
@@ -62,19 +62,19 @@ After you provide the keys, a pop-up will appear to **Verify** their validity.
 
 ![Verify Button Fluent Forms](/images/security-spam/integrate-hcaptcha/10.-Verify-button.webp)
 
-Finally, press the **Save Settings** button to make your **hCaptcha Integration** functional. 
+Finally, press the **Save** button to make your **hCaptcha Integration** functional. 
 
 ![Save Settings Button Integrate hCaptcha](/images/security-spam/integrate-hcaptcha/11.-Save-Settings-button-scaled.webp)
 
 ## Integrating hCaptcha with Forms
 
-Go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this hCaptcha protection.
+Go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the form where you want to set this hCaptcha protection.
 
 ![Edit Button Integrate hCaptcha](/images/security-spam/integrate-hcaptcha/12.-Desired-form-Edit-button-scaled.webp)
 
 Once you are on the **Editor** page, go to the **Input Fields** on the right side, open the **Advanced Fields** dropdown list, and click the [hCaptcha input field](/hcaptcha).
 
-Finally, click the **Save Form** button to integrate your configured hCaptcha into this form.
+Finally, click the **Save** button to integrate your configured hCaptcha into this form.
 
 ![Added hCaptcha Input Field Save Button](/images/security-spam/integrate-hcaptcha/13.-Added-hCAPTCHA-input-field-Save-Form-button-scaled.webp)
 

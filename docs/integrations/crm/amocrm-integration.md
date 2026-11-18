@@ -45,11 +45,11 @@ Now **Copy** the Secret Key & Integration ID to use them in the next step.
 
 ### Connect amoCRM with Fluent Forms
 
-Then, return to the **amoCRM Settings** page under the **Global Settings > Configure Integration** tab from the **Fluent Forms** navbar.
+Then, return to the **amoCRM Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
 
 Now, paste the **Integration ID** and **Secret Key** that was copied before.
 
-Press the **Save Settings** button to make your **amoCRM Integration** module functional.
+Press the **Save** button to make your **amoCRM Integration** module functional.
 
 ![Credential Save](/images/integrations/crm/amocrm-integration/credential-save-06-scaled.webp)
 
@@ -63,14 +63,14 @@ Here, you can see your **API integration is up and running**.  To disconnect, cl
 
 ## Integrate amoCRM into Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your amoCRM and click the **Settings** button. 
+First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your amoCRM and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Setting amoCRM Fluent Forms](/images/integrations/crm/amocrm-integration/Form-Setting-amoCRM-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **amoCRM Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **amoCRM Integration** feed from the drawer. 
 
 ![amoCRM Integration](/images/integrations/crm/amocrm-integration/amocrm-integration-08-scaled.webp)
 
@@ -86,7 +86,7 @@ Click the **Dropdown Arrow** to add mapping values.
 
 **D. Status:** Enable this feed option to activate the integration.
 
-Now, click the **Save Feed** button to save the integration feed.
+Now, click the **Save** button to save the integration feed.
 
 ![Add amoCRM Integration Feed](/images/integrations/crm/amocrm-integration/Add-New-Amocrm-Integration-Feed-09-scaled.webp)
 

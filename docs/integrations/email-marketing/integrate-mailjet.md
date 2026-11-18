@@ -51,11 +51,11 @@ Now, copy the **API Key** and **Secret Key** by clicking the **Copy Icon** on th
 
 ## Connect Mailjet with Fluent Forms
 
-Now, return to the **Mailjet Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Now, return to the **Mailjet Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Then, paste the **API Key** and **Secret Key** you copied from **Mailjet** into the **Mailjet** **API Key** and the **Mailjet Secret Key** fields respectively. 
 
-Finally, click the **Save Settings** button to save all your changes. 
+Finally, click the **Save** button to save all your changes. 
 
 ![Paste API Keys](/images/integrations/email-marketing/integrate-mailjet/7.-Paste-API-Keys-scaled.webp)
 
@@ -67,14 +67,14 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate Mailjet in Forms
 
-Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailjet,** and click the **Settings** button. 
+Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailjet,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Mailjet](/images/integrations/email-marketing/integrate-mailjet/9.-Open-desired-form-Settings-1-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Mailjet Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Mailjet Integration** feed from the drawer. 
 
 ![Add Integration Dropdown Integrate Mailjet](/images/integrations/email-marketing/integrate-mailjet/10.-Add-new-integration-dropdown-1-scaled.webp)
 
@@ -94,7 +94,7 @@ Now, a page will appear with various settings options for configuring the Mailje
 
 7. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button. And, your Mailjet will be integrated into this specific form!
+Once the setup is done, finally, click the **Save** button. And, your Mailjet will be integrated into this specific form!
 
 ![Save Feed Integrate Mailjet](/images/integrations/email-marketing/integrate-mailjet/11.-Save-Feed--scaled.webp)
 

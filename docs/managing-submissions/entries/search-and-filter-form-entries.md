@@ -10,7 +10,7 @@ This guide explains step-by-step how to use these features.
 
 ## Search Entries
 
-Go to the **Entries** section of your specific form. Now, locate the **Search Bar** on the top-right corner of the page. Use keywords like a name, email, or other relevant details to find specific entries instantly.
+Go to the **Entries** section of your specific form. Now, click the **Search** icon in the table toolbar. Use keywords like a name, email, or other relevant details to find specific entries instantly.
 
 ![Search and Filter Form Entries step](/images/managing-submissions/entries/search-and-filter-form-entries/01-scaled.webp)
 
@@ -18,13 +18,13 @@ Go to the **Entries** section of your specific form. Now, locate the **Search Ba
 
 Fluent Forms offers multiple filtering options:
 
-Click the **All Types** dropdown to choose from five filter types:
+Click one of the status tabs above the entries table to filter by type:
 
 - **Unread:** Displays entries not yet reviewed.
 
 - **Read:** Shows entries already viewed.
 
-- **Favorite:** Filters entries marked as favorites.
+- **Favorites:** Filters entries marked as favorites.
 
 - **Spam:** Displays entries flagged as spam. See [Integrate Akismet](/integrate-akismet) and [Spam Protection with Honeypot and reCAPTCHA](/spam-protection-with-honeypot-and-google-recaptcha) to set up spam detection.
 
@@ -32,6 +32,6 @@ Click the **All Types** dropdown to choose from five filter types:
 
 ![Search and Filter Form Entries step](/images/managing-submissions/entries/search-and-filter-form-entries/02-scaled.webp)
 
-**Date Filter:** Click on the **Date Filter** dropdown. Here options include pre-defined timeframes or custom date ranges using the **Select a Timeframe** option.
+**Date Range:** Click the **Date Range** field at the top of the page. Choose a pre-defined timeframe (**Today**, **Last week**, **Last month**, or **Last 3 months**), or pick a custom start and end date on the calendar.
 
 ![Search and Filter Form Entries step](/images/managing-submissions/entries/search-and-filter-form-entries/03-scaled.webp)

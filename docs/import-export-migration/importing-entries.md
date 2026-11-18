@@ -10,19 +10,17 @@ This article will guide you through how you can Import Entries to your WordPress
 
 ## Accessing the Import Entries
 
-First, navigate to the **Fluent** **Forms** [**Tools**](/user-interface) section from the top menu. Then, select **Import** **Entries** from the left sidebar. It will open the import options.
+First, navigate to the **Fluent** **Forms** [**Tools**](/user-interface) section from the top menu (under **More**). Then, select **Import** **Entries** from the left sidebar. It will open the **Entries Import Setup** page.
 
-Alternatively, you can import data from an individual form's [**Entries**](/managing-entries) page section.
+Alternatively, you can import data from an individual form's [**Entries**](/managing-entries) page. Click the **three-dot** menu at the top right and choose **Import**.
 
 ![Access Import Entries](/images/import-export-migration/importing-entries/access-import-entries-01-scaled.webp)
 
 ### Choosing File Type and Source
 
-In the **Import Entries** section, Select the **Form** where you want to add entries.
+In the **Entries Import Setup** section, use the **Target Form** dropdown to choose the form where you want to add entries. Next, choose the **File Type** (**CSV** or **JSON (.json) Data**) and upload the file from your local storage by clicking the **Upload CSV** or **Upload JSON** box under **Select File**. 
 
-Now, use the **Select Form** field dropdown to choose the target form. Next, choose the **File Type** (JSON or CSV) and upload the file from your local storage by clicking the **Choose File** options under the **Select File** option. 
-
-Once the form is selected or uploaded, click the **Next (Map Columns)** button.
+Once the form is selected and the file is uploaded, click the **Map columns** button.
 
 ![Select Importing Entries](/images/import-export-migration/importing-entries/select-form-02-scaled.webp)
 
@@ -30,15 +28,15 @@ Once the form is selected or uploaded, click the **Next (Map Columns)** button.
 
 If you import entries from a **CSV file**, select the **CSV** option in **File Type** and upload the CSV file to your local storage with the **Select File** option.
 
-Then, Choose the **CSV Delimiter** (Comma or Semicolon) from the dropdown options to match your file format. If unsure, use the **Auto Guess** option for automatic detection.
+Then, choose the **Csv Delimiter** (Comma or Semicolon) from the dropdown options to match your file format. If unsure, use the **Auto Guess** option for automatic detection.
 
-Once the form is uploaded, click the **Next** button to proceed.
+Once the file is uploaded, click the **Map columns** button to proceed.
 
 ![Tools Wordpress Fluent Forms](/images/import-export-migration/importing-entries/Tools-_-Demo-_-WordPress-04-09-2025_03_00_PM-scaled.webp)
 
 ### Mapping Fields for Import
 
-After clicking **Next**, both **JSON** and **CSV** files require **Field Mapping** to ensure data is placed in the correct form fields. This step aligns the imported entries with your form structure.
+After clicking **Map columns**, both **JSON** and **CSV** files require **Field Mapping** to ensure data is placed in the correct form fields. This step aligns the imported entries with your form structure.
 
 **Submission Info Mapping:** For data import, enable **Submission Info Mapping** by checking the **Show Submission Info Mapping** option. 
 

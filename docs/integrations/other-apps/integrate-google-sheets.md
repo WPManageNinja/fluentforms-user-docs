@@ -13,7 +13,7 @@ description: "Fluent Forms allows you to integrate with Google Sheets to manage 
 
 Go to **Integrations** from the **Fluent Forms Navbar**, search for **Google Sheets** in the search bar, and open the **Google Sheets** integration module.
 
-Turn on the **Toggle** to enable **Google Sheets**, then click the **Settings Icon** on the right to open its configuration.
+Turn on the **Toggle** to enable **Google Sheets**, then click **Manage** on the right to open its configuration.
 
 ![Enabled Google Sheet Module](/images/integrations/other-apps/integrate-google-sheets/1.-Enabled-Google-Sheet-module-scaled.webp)
 
@@ -23,7 +23,7 @@ Google Sheets connects in one click. You no longer need to copy and paste an acc
 
 ### Step 1: Start the Connection
 
-The **Google Sheets** settings page opens under **Global Settings** → **Configure Integrations** → **Google Sheets**. Until you connect, it shows the message **Your Google Sheets connection is not valid**.
+The **Google Sheets** settings page opens when you go to **Integrations** from the top bar and click **Manage** next to **Google Sheets**. Until you connect, it shows the message **Your Google Sheets connection is not valid**.
 
 Click the **Connect Google Sheets** button.
 
@@ -71,20 +71,20 @@ Your existing feeds keep working and no data is at risk. Still, reconnect when y
 
 ## Integrating Google Sheets with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Google Sheets,** and click the **Settings** button.
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Google Sheets,** and open the **Configuration** tab.
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Google Sheets](/images/integrations/other-apps/integrate-google-sheets/7.-Open-desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Google Sheet** integration feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Google Sheet** integration feed from the drawer. 
 
 ![Add Integration Button Integrate Google Sheets](/images/integrations/other-apps/integrate-google-sheets/8.-Add-new-integration-button-scaled.webp)
 
 Now, a pop-up page will appear with various settings options for configuring the Google Sheet.
 
-Once you set up the page, click the **Save Feed** button, and the feed will be integrated into your form.
+Once you set up the page, click the **Save** button, and the feed will be integrated into your form.
 
 > [!Note]
 > For **Google Sheets** to work, enter the **Spreadsheet ID**, **Worksheet Name**, and map **Spreadsheet Fields** in the feed.
@@ -135,7 +135,7 @@ This option allows Google Sheets integration to function conditionally based on 
 
 Check this option to ensure this integration feed remains enabled and all its actions function properly. 
 
-Once you set up everything and click the **Save Feed** button, you can see that your **Google Sheets Integration Feed** has been added here. 
+Once you set up everything and click the **Save** button, you can see that your **Google Sheets Integration Feed** has been added here. 
 
 You can modify your feed anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 

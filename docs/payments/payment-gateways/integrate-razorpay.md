@@ -13,9 +13,9 @@ This article will guide you through integrating **Razorpay** into your **WordPre
 
 ## Enable Razorpay Payment Method
 
-Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Select **Razorpay**, then click **Enable Razorpay Payment Method** to activate Razorpay globally for all forms.
+Turn on the toggle next to **Razorpay** to enable it globally for all forms, then click **Manage** to open its settings.
 
 ![Enable Razorpay Method Integrate Razorpay](/images/payments/payment-gateways/integrate-razorpay/1.-Enable-Razorpay-method-scaled.webp)
 
@@ -27,7 +27,7 @@ A. Payment Method
 B. API Credentials
 C. Checkout Style
 
-Always press the **Save Settings** button to save the changes you made.
+Always click the **Save** button to save the changes you made.
 
 ![Test API Credentials](/images/payments/payment-gateways/integrate-razorpay/2.-Test-API-Credentials-scaled.webp)
 
@@ -58,11 +58,11 @@ Here, you will get your desired **Key ID** and **Key Secret**, and copy them.
 
 ![Copy Key ID And Key Secret](/images/payments/payment-gateways/integrate-razorpay/5.-Copy-Key-ID-and-Key-Secret.webp)
 
-Now, return to the **Razorpay Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
+Now, return to the **Razorpay** page under **Payment Settings → Payment Methods** (click **Manage**).
 
 Then, paste the **Key ID** and **Key Secret** into the **API Key** and **API Secret** fields respectively.
 
-Finally, press the **Save Settings** button and your Razorpay account will be configured with **Fluent Forms** for your WordPress Site.
+Finally, click the **Save** button and your Razorpay account will be configured with **Fluent Forms** for your WordPress Site.
 
 ![Paste API Key And Secret](/images/payments/payment-gateways/integrate-razorpay/6.-Paste-API-Key-and-Secret-scaled.webp)
 
@@ -91,7 +91,7 @@ Also, using this setting option, you can configure the SMS and Email notificatio
 You can select both **SMS** and **Email**, or any one of them by simply checking the boxes to receive notifications.
 
 > [!Tip]
-> Click **Save Settings** to apply your changes.
+> Click **Save** to apply your changes.
 
 ![Hosted Razorpay.com Fluent Forms](/images/payments/payment-gateways/integrate-razorpay/8.-Hosted-to-Razorpay.com_.webp)
 
@@ -109,11 +109,11 @@ Now, go to the **Payment Methods**, check the **Razorpay** option, click the **D
 
 ![Check Razorpay Payment Method](/images/payments/payment-gateways/integrate-razorpay/9.-Check-Razorpay-payment-method-scaled.webp)
 
-Once you complete the edit, press the **Save Form** button to save all the changes.
+Once you complete the edit, press the **Save** button to save all the changes.
 
 Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
 
-Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
+Also, to see the **Preview** of the form, click the **Preview** button in the middle.
 
 ![Save Button Integrate Razorpay](/images/payments/payment-gateways/integrate-razorpay/10.-Save-Form-button-scaled.webp)
 

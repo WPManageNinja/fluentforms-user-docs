@@ -13,7 +13,7 @@ This guide walks you through adding and customizing the **Ratings** field in Flu
 
 ## Adding Ratings Input Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
@@ -28,7 +28,7 @@ Click or drag the **Ratings** field into the editor.
 
 ## Customizing the Ratings Input Field
 
-Hover over the field and click the **Pencil** icon to open **Input Customization**:
+Hover over the field and click the **Pencil** icon to open **Customize**:
 
 - Ratings Input field options
 - Advanced Options
@@ -100,9 +100,9 @@ Hover feedback is derived from the inactive color.
 
 ## Embed the Form into the Front
 
-Click **Save Form** to apply your changes.
+Click **Save** to apply your changes.
 
-Copy the form **Shortcode** from the top right and paste it into a **Page** or **Post**. Click **Preview & Design** to preview the form.
+Copy the form **Shortcode** from the top right and paste it into a **Page** or **Post**. Click **Preview** to preview the form.
 
 ![Save and embed the form](/images/form-fields/advanced-fields/ratings-input-field/Save-Form-06-15-scaled.webp)
 

@@ -64,7 +64,7 @@ Once you are done, click the **Save Changes** button to save all your changes an
 
 After adding the desired custom field in the ACF, it is time to use this in a Post Form. 
 
-Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Post Form,** and click the **Pencil/Edit** icon to open the **Editor** page of that form. 
+Go to the **Forms** section from the **Fluent Forms Navbar,** click the title of your **Post Form** to open its **Editor** page. 
 
 ![Open Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/7.-Open-desired-form-scaled.webp)
 
@@ -83,7 +83,7 @@ Now, you need to **configure** the **Post Feed** to make your Custom Field funct
 
 **To learn how to configure Post Feed with the Post Form, follow the steps below –** 
 
-First, go to **Settings & Integrations** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
+First, go to **Configuration** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
 
 > [!Note]
 > If you do not have a post feed yet, click **+ Add Post Feed** to create one. See [How to Create a Post Form with Fluent Forms](/create-a-post-form) for the full setup. The steps below use an existing feed.
@@ -107,17 +107,17 @@ Once the setup is done, click the **Save Feed** button, and your Post Feed will 
 
 Next, go back to the post form’s **Editor** where you added the Custom Field. You can see that the **Custom Field** is added to the form.
 
-Now, you can **Edit** or **Customize** this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer you the options for customizing the field. 
+Now, you can **Edit** or **Customize** this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer you the options for customizing the field. 
 
 > To learn more about the customization of the Text Area field, read the [Text Area Input Field guide](/adding-a-text-area-input-field).
 
-![Input Customization Option Textarea Field](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/11.-Input-Customization-option-of-Textarea-field-scaled.webp)
+![Customize Option Textarea Field](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/11.-Input-Customization-option-of-Textarea-field-scaled.webp)
 
 ## Embedding the Form into Frontend
 
 To embed and display the form on a specific Page/Post on your site, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Also, to see the form preview, click the **Preview & Design** button in the middle.  
+Once you complete the customization, click the **Save** button to save all your changes. Also, to see the form preview, click the **Preview** (eye) icon at the top right.  
 
 ![Save Button Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/12.-Save-form-button-scaled.webp)
 

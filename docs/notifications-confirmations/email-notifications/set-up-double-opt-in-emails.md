@@ -12,9 +12,9 @@ This tutorial will guide you on how to set up double opt-in emails in Fluent For
 
 ## Enable Double Opt-in Options
 
-Navigate to **Global Settings** in Fluent Forms, accessible from the left sidebar of your WordPress dashboard. Under the **Settings** tab, locate and select the **Double Opt-in Settings** section.
+Navigate to **Global Settings** in Fluent Forms, accessible from the left sidebar of your WordPress dashboard. In the left rail, select **Double Opt-in Settings**.
 
-Now, check the box to **Enable Double Opt-In Module**.
+Now, turn on the **Enable Double Optin Module** toggle.
 
 ![Double Optionemail Settings](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails/double-optionemail-settings-02-scaled.webp)
 
@@ -22,9 +22,9 @@ Now, check the box to **Enable Double Opt-In Module**.
 
 Now, you will configure the Email Subject for a double opt-in email with the **Global Email Subject option.**
 
- * **Email Subject**: Set the subject line for the double opt-in confirmation email.
+ * **Global Email Subject**: Set the subject line for the double opt-in confirmation email.
 
- * **Global Opt In Email Body**: Enter the message content for the confirmation email. This can range from a simple message to a fully designed HTML email.
+ * **Global Optin Email Body**: Enter the message content for the confirmation email. This can range from a simple message to a fully designed HTML email.
 
  * **Send Email as RAW HTML Format**: Enable this option to paste your custom HTML design, ensuring the email appears exactly as intended.
 
@@ -35,6 +35,8 @@ Now, you will configure the Email Subject for a double opt-in email with the **G
  * **From Email:** Enter the email from which you would like the notification email sent.
 
  * **Reply To:** Enter the email that you would like to be used as the reply-to address for the notification email. 
+
+Use **Automatically delete unconfirmed entries** to remove entries that are never confirmed after the number of days you set.
 
 If the Reply To field is empty, the email sent by your domain's SMTP will work by default.
 
@@ -68,7 +70,7 @@ If you want to **Disable Double Opt-In for the logged-in-user** check the box.
 
 And if you want to **Disable Double Opt-in if the contact email is subscribed in FluentCRM**, check the box. To connect your forms with the CRM, see the [FluentCRM Integration](/fluentcrm-integration) documentation.
 
-After all settings are set, click the **Save Settings** button.
+After all settings are set, click **Save**.
 
 ![Set up Double Opt-in emails step](/images/notifications-confirmations/email-notifications/set-up-double-opt-in-emails/04-3-scaled.webp)
 

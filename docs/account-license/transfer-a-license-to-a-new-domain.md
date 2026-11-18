@@ -12,9 +12,9 @@ Follow these simple steps to transfer your license efficiently.
 
 To begin, you must first deactivate the license from your existing domain. You can do this directly from your WordPress dashboard.
 
-1. From your WordPress dashboard, navigate to Fluent Forms and click on Global Settings.
+1. From your WordPress dashboard, navigate to Fluent Forms and click the **Settings** (gear) icon to open Global Settings.
 
-2. Next, select the License tab from the left-hand sidebar menu.
+2. Next, select **License Management** from the left-hand sidebar menu.
 
 3. On this screen, you will see your license status. Click the **Deactivate License** button to remove the license from this domain, as shown in the screenshot below.
 
@@ -38,11 +38,11 @@ Now you can activate the license on your new website.
 
 2. On your new website, ensure you have both the [free version of Fluent Forms](/install-fluent-forms) and the Pro add-on installed and activated.
 
-3. From your WordPress dashboard, go to Fluent Forms and click on the Global Settings tab.
+3. From your WordPress dashboard, go to Fluent Forms and click the **Settings** (gear) icon to open Global Settings.
 
-4. Select the License tab from the sidebar menu.
+4. Select **License Management** from the sidebar menu.
 
-5. Paste your copied license key into the license field and click the Activate License button.
+5. Paste your copied license key into the **License key** field and click the **Verify license** button.
 
 ![Activate License Fluent Forms](/images/account-license/transfer-a-license-to-a-new-domain/activate-license-scaled.webp)
 

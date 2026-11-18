@@ -87,7 +87,7 @@ Extend even further. Connect Fluent Forms to a growing list of productivity and 
 
 Need a second feed with the same settings? Duplicate it instead of rebuilding it.
 
-- Go to **Settings & Integrations → Configure Integrations** for your form.
+- Go to **Configuration → Integrations & Add-ons → Integrations** for your form.
 - Find the feed in the list and open its **Actions** menu.
 - Click **Duplicate integration feed**.
 

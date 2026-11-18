@@ -18,19 +18,19 @@ First, go to **Forms** from the Fluent Forms Navbar and select the **Desired For
 
 ![Select form](/images/configuring-forms/form-settings/restrict-blank-form-submission/form-settings-blank-form-01-scaled.webp)
 
-Now, move to the Form **Settings & Integrations** tab and select **Scheduling & Restrictions** (located below the **Scheduling & Restrictions** section). This panel also holds the [form restrictions](/form-restrictions-feature) entry-limit options.
+Now, open the **Configuration** tab in the top bar and select **Scheduling & Restrictions** from the left rail. This panel also holds the [form restrictions](/form-restrictions-feature) entry-limit options.
 
 ![Scheduling and restrictions](/images/configuring-forms/form-settings/restrict-blank-form-submission/Scheduling-Restrictions-02-scaled.webp)
 
 ### Enable Empty Submission Blocking
 
-Now, find the **Empty Submission Blocking** section and enable the option **Deny empty submission** to activate this feature.
+Now, turn on the **Deny empty submission** toggle to activate this feature.
 
 After that, define the message users will see when submitting a blank form.
 
 **For example:** "Your form submission is incomplete. Please fill out all required fields." This message ensures users understand why their submission was blocked.
 
-Once you have completed customizing the form, click the **Save Settings** button to finalize and apply the configuration.
+Once you have completed customizing the form, click **Save** to finalize and apply the configuration.
 
 ![Deny empty submission](/images/configuring-forms/form-settings/restrict-blank-form-submission/customize-the-message-03-scaled.webp)
 

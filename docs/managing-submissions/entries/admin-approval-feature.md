@@ -10,9 +10,9 @@ This article will guide you through the admin approval feature in Fluent Forms.
 
 ## Enabling the Admin Approval Module
 
-First, go to **Integrations** from the Fluent Forms Navbar, search for **Admin Approval Module** through the search bar, and get the **Admin module**.
+First, go to **Integrations** from the Fluent Forms Navbar, search for **Admin Approval** through the search bar.
 
-Now, **Enabled** it to activate the approval functionality.
+Now, turn on the toggle to activate the approval functionality.
 
 ![Admin Approval](/images/managing-submissions/entries/admin-approval-feature/admin-approval-01.webp)
 
@@ -41,9 +41,9 @@ To configure Global Settings, click the **Global Settings** from the top menu. T
 
 To enable Admin Approval for a particular form, follow these steps-
 
-Navigate to the **Settings & Integration** section for your form. Go to the **Settings** section and click the **Admin Approval** section.
+Open your form and click **Configuration** in the top bar. Expand **Security & Validation** in the left menu and click **Admin Approval**.
 
-Now, **enable** **Admin Approval before checking the Form Data Processing** option for that form. Customize the **Approval Pending Message** (shortcodes can be used for dynamic content).
+Now, turn on the **Enable Admin approval before Form Data Processing** toggle for that form. Customize the **Approval Pending Message** (shortcodes can be used for dynamic content).
 
 ![Admin Approval Feature step](/images/managing-submissions/entries/admin-approval-feature/03.webp)
 
@@ -59,7 +59,7 @@ Customize the **email subject** and **body** (it supports Raw HTML format). Chec
 
 To automatically approve submissions from logged-in users, check the **Disable Admin Approval for Logged-in Users** checkbox. It allows users with authenticated accounts to bypass the approval process.
 
-After that, click the **Save Settings** button to save the settings.
+After that, click the **Save** button to save the settings.
 
 ![Admin Approval Feature step](/images/managing-submissions/entries/admin-approval-feature/04.webp)
 

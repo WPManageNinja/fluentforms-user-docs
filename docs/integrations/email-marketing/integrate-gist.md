@@ -17,7 +17,7 @@ Integrating [Gist](http://getgist.com) with **Fluent Forms** allows you to build
 
 Go to **Integrations** from the **Fluent Forms Navbar**, search for **Gist** in the search bar, and open the **Gist** integration module.
 
-Turn on the **Toggle** to enable **Gist**, then click the **Settings Icon** on the right to open its configuration.
+Turn on the **Toggle** to enable **Gist**, then click **Manage** on the right to open its configuration.
 
 ![Enabled Getgist Fluent Forms](/images/integrations/email-marketing/integrate-gist/1.-Enabled-GetGist-scaled.webp)
 
@@ -35,10 +35,10 @@ Now, go to Settings from the top navbar, open the **API & Webhooks** dropdown, c
 
 ## Connect Gist with Fluent Forms
 
-Then, return to the **Gist API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Then, return to the **Gist API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API Key** you copied from **Gist** into the **Gist API Key** field.
-Finally, press the **Save Settings** button to make your **Gist Integration** module functional.
+Finally, press the **Save** button to make your **Gist Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-gist/4.-Paste-API-Key-scaled.webp)
 
@@ -50,14 +50,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate GetGist into Fluent Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **GetGist,** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **GetGist,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Gist](/images/integrations/email-marketing/integrate-gist/Open-Desired-Form-Settings-scaled-2.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **GetGist Integration** from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **GetGist Integration** from the drawer. 
 
 ![Add Integration Button Integrate Gist](/images/integrations/email-marketing/integrate-gist/6.-Add-New-Integration-button-1-scaled.webp)
 
@@ -77,7 +77,7 @@ Once you select the integration, a page will appear with various settings option
 
 7. **Enable This Feed:** Check this option to ensure this integration feed stays enabled and all its actions run properly.
 
-Once the setup is done, click the **Save Feed** button. Your GetGist integration will be added to this form.
+Once the setup is done, click the **Save** button. Your GetGist integration will be added to this form.
 
 ![Save Feed Button Integrate Gist](/images/integrations/email-marketing/integrate-gist/7.-Save-Feed-button-1-scaled.webp)
 

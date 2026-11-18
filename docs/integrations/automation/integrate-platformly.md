@@ -15,7 +15,7 @@ This article will guide you through integrating **Platformly** with **Fluent For
 
 Go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **Platformly** through the search bar, and get the **Platformly** integration module.
 
-Now, turn on the **Toggle** to enable the **Platformly** module, and click the **Settings Icon** on the right side. 
+Now, turn on the **Toggle** to enable the **Platformly** module, and click **Manage** on the right side. 
 
 ![Enable Platformly Integrate Platformly](/images/integrations/automation/integrate-platformly/1.-Enable-Platformly--scaled.webp)
 
@@ -60,11 +60,11 @@ You can create new projects by clicking the **Plus Icon** in the top right corne
 
 ## Connect Platformly with Fluent Forms
 
-Return to the **Platformly API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **Platformly API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API Key** and **Project ID** you copied from **Platformly** into the **Platformly API Key** and **Platformly Project ID** fields respectively.
 
-Finally, press the **Save Settings** button to make your **Platformly Integration** module functional.  
+Finally, press the **Save** button to make your **Platformly Integration** module functional.  
 
 ![Paste API Key And Project ID](/images/integrations/automation/integrate-platformly/9.-Paste-the-API-Key-and-Project-ID-scaled.webp)
 
@@ -76,14 +76,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate Platformly with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Platformly,** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Platformly,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Platformly](/images/integrations/automation/integrate-platformly/11.-Open-desired-form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Platformly Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Platformly Integration** feed from the drawer. 
 
 ![Add Integration Dropdown Integrate Platformly](/images/integrations/automation/integrate-platformly/12.-Add-new-integration-dropdown-scaled.webp)
 
@@ -111,7 +111,7 @@ Once you select the segment, a pop-up page will appear with various settings opt
 
 8. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
-Once the setup is done, click the **Save Feed** button, and your Platformly will be integrated into this specific form!
+Once the setup is done, click the **Save** button, and your Platformly will be integrated into this specific form!
 
 ![Save Feed Button Integrate Platformly](/images/integrations/automation/integrate-platformly/14.-Save-Feed-button-scaled.webp)
 

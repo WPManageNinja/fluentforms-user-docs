@@ -23,12 +23,12 @@ Then, click the **Activate** button, and the Akismet plugin will be activated an
 
 ## Integrating Akismet with Fluent Forms
 
-First, go to **Global Settings** from the **WordPress Left Sidebar** or **FluentForms Navbar**, open the **General** tab from the left menu, and click the **Miscellaneous** option.
+First, go to **Global Settings** from the Fluent Forms navbar, expand **Security** in the left menu, and click **Built-in protections**.
 
-- **Enable Akismet Integration:** Now, turn on this toggle, and the security will be enabled to verify your form submissions with Akismet and provide better security.
+- **Enable Akismet Integration:** Now, turn on the **Enable Akismet Integration** toggle, and the security will be enabled to verify your form submissions with Akismet and provide better security.
 
 - **Spam Validation:** Using this option, you can select what will happen once a submission is marked as spam. You can choose any one among these "Mark as Spam", "Make the Form Submission as failed", or "Mark as Spam and Skip Processing" options.
 
-Lastly, don’t forget to click the **Save Settings** button to make all the setup functional. 
+Lastly, don’t forget to click the **Save** button to make all the setup functional. 
 
 ![Global Settings Miscellaneous Enable Akismet](/images/security-spam/integrate-akismet/3.-Global-Settings-Miscellaneous-Enable-Akismet-scaled.webp)

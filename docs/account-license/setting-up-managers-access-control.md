@@ -13,7 +13,7 @@ This article will guide you through creating a **Manager** and setting their per
 
 ## Access Manager Settings
 
-Go to the Fluent Forms dashboards. From the navigation bar, click on **Global Settings** and select **Managers** from the left sidebar. You will now see the Manager Settings.
+Go to the Fluent Forms dashboards. From the navigation bar, click the **Settings** (gear) icon and select **Permissions** from the left sidebar. You will now see the **Role Based** and **Managers** sections.
 
 ![Setting Up Manager](/images/account-license/setting-up-managers-access-control/setting-up-manager-01-scaled.webp)
 
@@ -23,9 +23,9 @@ The Role-Based Manager assigns permissions based on WordPress user roles. Users 
 
 ### Advance
 
-In the Advanced section of the Manager, you can designate specific users as the Fluent Forms Manager and customize their permissions to control what they can access. You can also add multiple managers with different permission sets. 
+In the **Managers** section, you can designate specific users as the Fluent Forms Manager and customize their permissions to control what they can access. You can also add multiple managers with different permission sets. 
 
-Now, click on the **Add Manager** button to add specific users as a Manager. 
+Now, click the **Add Manager** button to add specific users as a Manager. 
 
 ![Manage Fluent Forms](/images/account-license/setting-up-managers-access-control/manage-02.png)
 

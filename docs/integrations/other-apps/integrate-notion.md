@@ -13,7 +13,7 @@ Integrating [Notion](http://notion.com) with **Fluent Forms** allows you to auto
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Notion** through the search bar, and get the **Notion** integration module. 
 
-Now, turn on the **Toggle** to enable the **Notion** module, and click the **Settings Icon** on the right side. 
+Now, turn on the **Toggle** to enable the **Notion** module, and click **Manage** on the right side. 
 
 ![Enable Notion Integrate Notion](/images/integrations/other-apps/integrate-notion/1.-Enable-Notion-scaled.webp)
 
@@ -23,7 +23,7 @@ Notion connects in one click. You no longer need to copy and paste an access cod
 
 ### Step 1: Start the Connection
 
-The **Notion Integration** settings page opens under **Global Settings** → **Configure Integrations** → **Notion**. Until you connect, it shows the message **Your Notion connection is not valid**.
+The **Notion Integration** settings page opens when you go to **Integrations** from the top bar and click **Manage** next to **Notion**. Until you connect, it shows the message **Your Notion connection is not valid**.
 
 Click the **Connect Notion** button.
 
@@ -90,14 +90,14 @@ Your existing feeds keep working and no data is at risk. Still, reconnect when y
 
 ## Integrating Notion with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Notion,** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Notion,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Notion](/images/integrations/other-apps/integrate-notion/9.-Open-desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Notion Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Notion Integration** feed from the drawer. 
 
 ![Add Integration Dropdown Integrate Notion](/images/integrations/other-apps/integrate-notion/10.-Add-new-integration-dropdown-scaled.webp)
 
@@ -115,7 +115,7 @@ Now, use all the fields under this option to properly link your Notion Databases
 
 4. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
-Once the setup is done, click the **Save Feed** button, and your Notion will be integrated into this specific form!
+Once the setup is done, click the **Save** button, and your Notion will be integrated into this specific form!
 
 ![Save Feed Integrate Notion](/images/integrations/other-apps/integrate-notion/11.-Save-Feed-scaled.webp)
 

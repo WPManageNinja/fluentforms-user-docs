@@ -23,15 +23,15 @@ Now, turn on the **Toggle** to enable the **FluentCRM** module.
 
 ## Using FluentCRM Data Smartcode
 
-Go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+Go to the **Forms** section from the **Fluent Forms Navbar,** click the title of the form to open its **Editor** page.
 
 ![Editor Fluent Forms](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/form-editor-02-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and choose the desired **Field** by clicking on it or **Dragging & Drop** ping it into your editor.
+Once you are on the **Editor** page, open the **Input Fields** tab on the right and choose the desired **Field** by clicking on it or **Dragging & Drop** ping it into your editor.
 
 ![Add Field Pre-Fill Form Fields with](/images/advanced-developer/shortcodes/pre-fill-form-fields-with-fluentcrm-data/add-field-03-scaled.webp)
 
-Now, hover over the newly added field and click the **Pencil Icon**. Navigate to the **Input Customization** tab on the right sidebar. Scroll to **Advanced Options** and find the **Default Value** drop-down. In some **Input Fields**, you will find this **Default Value** option as [**Dynamic Default**](/dynamic-default-value).
+Now, hover over the newly added field and click the **Pencil Icon**. Navigate to the **Customize** tab on the right sidebar. Scroll to **Advanced Options** and find the **Default Value** drop-down. In some **Input Fields**, you will find this **Default Value** option as [**Dynamic Default**](/dynamic-default-value).
 
 In the **Default Value** field, add FluentCRM shortcodes to automatically fetch and populate data from FluentCRM contact information into the form fields.
 
@@ -55,7 +55,7 @@ If you want to pre-fill **Custom Fields** data from FluentCRM, first add the **d
 
 ### Embed the Form into the Front
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
 After that, copy the **Shortcode** from the top-right corner. **Paste** it into the **page** or **post** where you want the form to appear.
 

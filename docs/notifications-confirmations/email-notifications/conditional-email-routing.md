@@ -16,11 +16,11 @@ First, go to **Forms** from the top navbar, and **open** the **Editor** page of 
 
 ![Editor Fluent Forms](/images/notifications-confirmations/email-notifications/conditional-email-routing/1.-desired-Form-Editor-2-scaled.webp)
 
-Now, go to **Settings & Integrations** from the top navbar and open the **Email Notifications** tab. 
+Now, click **Configuration** in the top bar and open **Email Notifications** under **Responses** in the left rail. 
 
 First, you can **Enable** the default **Admin Notification** by **toggling it on.** Then, open its settings using the **Settings Icon** to set conditions based on your needs.
 
-Or, create a new one by clicking the **+ Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/setup-adminuser-email-notifications).
+Or, create a new one by clicking the **Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/setup-adminuser-email-notifications).
 
 **For example**, I used the existing notification to show you the whole process. 
 
@@ -28,7 +28,7 @@ Or, create a new one by clicking the **+ Add Notification** button. To learn how
 
 ### Configuring Email Routing
 
-Once you are on the **Email Notification** settings page of your desired form, select **Configure Routing** from the **Send to** option, and additional options similar to conditional logic will appear. 
+Once you are on the **Email Notification** settings page of your desired form, select **Configure Routing** from the **Send to** options, and additional options similar to conditional logic will appear. 
 
 #### Setting Condition/s
 
@@ -42,6 +42,6 @@ Then, in the “**Parameter**” field (second field), select an **input field**
 
 This way you can add as many conditional logics as you need by clicking the **Plus Icon** and delete any conditions by clicking the **Minus Icon** in the right corner.
 
-Once you complete, click the **Save Settings** button to make the condition/s functional.
+Once you complete, click **Save** to make the condition/s functional.
 
 ![Configure Routing Option Conditional Email Routing](/images/notifications-confirmations/email-notifications/conditional-email-routing/3.-Configure-Routing-option-scaled.webp)

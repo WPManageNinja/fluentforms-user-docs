@@ -14,11 +14,11 @@ Follow these simple steps to migrate your forms efficiently.
 
 ## Export Fluent Form
 
-Go to the Fluent Forms dashboards, hover over the [**Tools**](/user-interface) section from the top menu bar, and click on the **Export Forms** tab.
+Go to the Fluent Forms dashboard, open [**Tools**](/user-interface) from the top menu bar (under **More**), and click **Export Forms** in the left menu.
 
-In the Exports Forms tab, click **Select Forms** from the dropdown. Then, choose the **Forms** you want to export. 
+On the **Export Forms** page, click the **Select forms** dropdown. Then, choose the **Forms** you want to export. 
 
-Once a form is selected, click the **Export** button. You can also export all the forms at the same time by **selecting all** buttons.
+Once a form is selected, click the **Export JSON** button. You can also export all the forms at the same time with the **Select All** button.
 
 You can also select multiple forms after clicking and **selecting all** the forms you need. 
 
@@ -26,23 +26,23 @@ You can also select multiple forms after clicking and **selecting all** the form
 
 ## Import Fluent Forms
 
-To import Fluent Forms, navigate to the **Fluent Forms** dashboard, hover over the **Tools** section from the top menu bar, and click on the **Import Forms** tab.
+To import Fluent Forms, navigate to the **Fluent Forms** dashboard, open **Tools** from the top menu bar (under **More**), and click **Import Forms** in the left menu.
 
-Click the **Choose File** button to upload a Fluent Forms export file (.json) from your computer.
+Click **Upload JSON** to choose a Fluent Forms export file (.json) from your computer.
 
 Before importing, you can check the **Apply default form style to imported forms** option to ensure the imported form matches your site's brand consistency instantly.
 
 > [!Note]
 > To learn more about **form style templates**, see [Official Form Styler of Fluent Forms](/official-form-styler).
 
-After selecting the file and configuring your options, click the **Import Forms** button.
+After selecting the file and configuring your options, click the **Import JSON** button.
 
 ![Imported Fluent Forms](/images/import-export-migration/import-and-export-fluent-forms/Imported-Forms-scaled.webp)
 
 > [!Note]
 > An import can't give a form a higher user role than your own. If the file contains settings tied to a higher role, Fluent Forms limits them to the role of the user who imports the file.
 
-A success message will confirm that the form has been imported. It is shown in the screenshot below. You will also see all **Imported** forms in the **All Forms** Section.
+A success message will confirm that the form has been imported. It is shown in the screenshot below. You will also see all **Imported** forms in the **Forms** list.
 
 ![Imported Fluent Forms](/images/import-export-migration/import-and-export-fluent-forms/imported-forms-03-scaled.webp)
 

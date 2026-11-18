@@ -20,7 +20,7 @@ You can even customize the posts displayed in the dropdown using **Query Paramet
 
 ## Add the Post/CPT Selection Field
 
-Go to your form in **Fluent Forms**. Add the **Post/CPT Selection** field from the [**Advanced Fields**](/form-fields-overview) section. 
+Go to your form in **Fluent Forms**. Add the **Post/CPT Selection** field from the [**Advanced Fields**](/form-fields-overview) section of the **Input Fields** panel, or search for it in the field search box. The module must be turned on under **Integrations**. 
 
 ![Post Selection Module](/images/modules/post-selection-module/post-selection-module-01-scaled.webp)
 

@@ -21,7 +21,7 @@ This guide covers enabling the integration, creating a HubSpot **Service Key**, 
 
 ## Enable HubSpot Integration
 
-Go to **Integrations** in the Fluent Forms navbar, search for **HubSpot**, and turn on its **Enabled** toggle. Then click the **Settings** icon on the HubSpot card.
+Go to **Integrations** in the Fluent Forms navbar, search for **HubSpot**, and turn on its **Enabled** toggle. Then click **Manage** on the HubSpot card.
 
 ![Enable HubSpot integration module](/images/integrations/crm/hubspot-integration/enable-hubspot-integration-01-scaled.webp)
 
@@ -75,9 +75,9 @@ On the key's page, click **Copy** next to the **Service Key**. The key starts wi
 
 ## Connect HubSpot with Fluent Forms
 
-Go to **Fluent Forms** > **Global Settings** > **Configure Integrations** > **HubSpot**.
+Go to **Integrations** from the top bar and click **Manage** next to **HubSpot**.
 
-Paste the Service Key into the **HubSpot Access Token** field and click **Save Settings**.
+Paste the Service Key into the **HubSpot Access Token** field and click **Save**.
 
 ![Paste HubSpot API access token](/images/integrations/crm/hubspot-integration/hubspot-api-access-token-10-scaled.webp)
 
@@ -108,7 +108,7 @@ Go to **All Forms** and open the form you want to connect, or create a new one.
 
 ![Open form settings for HubSpot integration](/images/integrations/crm/hubspot-integration/Forms-Fluent-settings-y-scaled.webp)
 
-In the form's **Settings & Integrations**, open **Configure Integrations**, click **Add New Integration**, and select **HubSpot Integration**.
+In the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **HubSpot Integration** from the drawer.
 
 ![Add HubSpot integration to the form](/images/integrations/crm/hubspot-integration/41.webp)
 
@@ -128,7 +128,7 @@ In the form's **Settings & Integrations**, open **Configure Integrations**, clic
 
 **G. Status:** Keep **Enable This feed** ticked to activate the integration.
 
-Click **Save Feed**.
+Click **Save**.
 
 ![Configure HubSpot integration feed](/images/integrations/crm/hubspot-integration/hubspot-feed.webp)
 

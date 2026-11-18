@@ -14,7 +14,7 @@ This guide will show you step-by-step how to add and change the **Password Field
 
 ## Adding Password Input Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -29,17 +29,17 @@ Now, select the desired **Password** **Input** field by **clicking** or **draggi
 
 ## Customizing the Password Field
 
-Once you add the Password field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the Password field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Password Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/password-input-field/input-customization-03-23-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/password-input-field/input-customization-03-23-scaled.webp)
 
 ### Password Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Password** input field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Password** input field.
 
 **A. Element Label:** This is the field title users will see when filling out the **Password input** field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -79,7 +79,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

@@ -17,7 +17,7 @@ The integration between Twilio and Fluent Forms allows you to send SMS notificat
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Twilio** through the search bar, and get the **Twilio** integration module.
 
-Now, turn on the **Toggle** button to enable Twilio. Then, you will see the **Settings Icon** on the right side, click on it.
+Now, turn on the **Toggle** button to enable Twilio. Then, you will see the **Manage** button on the right side, click on it.
 
 ![Enable Twilio](/images/integrations/other-apps/twilio-integration/enable-twilio-01-scaled.webp)
 
@@ -38,9 +38,9 @@ Now, ​​**copy** the **Account SID** and **Auth Token** to use them later.
 
 ## Connecting Twilio with Fluent Forms
 
-Then, return to the **Twilio Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
+Then, return to the **Twilio Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
 
-Now, paste the **Twilio Access SID** and **Auth Token** I copied. Click on the **Save Settings** button.
+Now, paste the **Twilio Access SID** and **Auth Token** I copied. Click on the **Save** button.
 
 ![Global Settings](/images/integrations/other-apps/twilio-integration/Globql-settings-04-scaled.webp)
 
@@ -59,7 +59,7 @@ After setting up the Credentials, go to **All Forms** and select the form you wa
 
 ![Settings Twilio Integration](/images/integrations/other-apps/twilio-integration/settings-form-06-scaled.webp)
 
-Now, go to the particular form’s settings for the entries you want listed in **Twilio**.  Click on **Add New Integration** and select **SMS Notification by Twilio** from the dropdown.
+Now, go to the form's **Configuration** page for the entries you want listed in **Twilio**.  Click on **Add New Integration** and select **SMS Notification by Twilio** from the drawer.
 
 ![SMS Notification By Twilio](/images/integrations/other-apps/twilio-integration/sms-notification-by-twilio-07-scaled.webp)
 
@@ -75,7 +75,7 @@ Now, go to the particular form’s settings for the entries you want listed in *
 
 * **Status:** Enable this feed option to activate the integration.
 
-Once the setup is done, finally, click the **Save Feed** button. Your Twilio will be integrated into this specific form!
+Once the setup is done, finally, click the **Save** button. Your Twilio will be integrated into this specific form!
 
 ![Add Twilio Integration Feed](/images/integrations/other-apps/twilio-integration/Add-New-Twilio-Integration-Feed-08-scaled.webp)
 

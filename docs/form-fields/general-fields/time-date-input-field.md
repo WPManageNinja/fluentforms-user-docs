@@ -14,7 +14,7 @@ This guide will walk you through adding and customizing the **Time & Date Field*
 
 ## Adding Time & Date Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Edit Time & Date Input](/images/form-fields/general-fields/time-date-input-field/form-edit-01-scaled.webp)
 
@@ -26,17 +26,17 @@ Now, choose the desired **Time & Date** field by clicking or **dragging** and **
 
 ## Customizing the Time & Date Field
 
-A Time & Date field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+A Time & Date field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Time & Date Field Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/general-fields/time-date-input-field/input-customization-03-20-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/general-fields/time-date-input-field/input-customization-03-20-scaled.webp)
 
 ### Time & Date Field options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Time & Date** input field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Time & Date** input field.
 
 **A. Element Label:** This is the field title users will see when filling out the **Time & Date** field in a form. You can enter any text here to help users understand the field's purpose.
 

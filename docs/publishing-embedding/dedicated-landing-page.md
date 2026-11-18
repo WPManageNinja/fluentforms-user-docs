@@ -13,7 +13,7 @@ This guide shows how to enable, design, share, and preview a dedicated landing p
 
 ## Enabling Landing Pages
 
-Go to **Integrations** in the Fluent Forms WordPress admin menu and turn on the **Landing Pages** module.
+Go to **Integrations** in the Fluent Forms navbar, search for **Landing Pages**, and turn on the module.
 
 ![Enable Landing Pages module](/images/publishing-embedding/dedicated-landing-page/enable-landing-module-01-scaled.webp)
 
@@ -23,21 +23,21 @@ After enabling landing pages, open an existing form or create a new one.
 
 ![Open form editor for landing page setup](/images/publishing-embedding/dedicated-landing-page/edit-form-02-scaled.webp)
 
-In the form editor, go to **Settings & Integrations** and click **Landing Page**.
+In the form editor, click **Configuration**, expand **Appearance** in the left menu, and click **Landing Page**.
 
-Enable **Form Landing Page Mode**. Your form will function as a standalone landing page.
+Turn on the **Enable Form Landing Page Mode** toggle. Your form will function as a standalone landing page. A live preview appears next to the settings, and you can switch between desktop and mobile views.
 
-You will see two sections: **Design** and **Share**.
+You will see four tabs: **Layout**, **Styling**, **Branding**, and **Share**.
 
 ![Enable Form Landing Page Mode](/images/publishing-embedding/dedicated-landing-page/enable-form-landing-page-mode-03-scaled.webp)
 
 ### Design Your Landing Page
 
-Under **Design**, customize the visual layout of your landing page.
+Use the **Layout**, **Styling**, and **Branding** tabs to customize the look of your landing page.
 
-Choose **Boxed** or **Classic** for the page design style. **Boxed** is selected by default.
+Under **Layout**, choose **Boxed** or **Classic** for **Form Width**. **Boxed** is selected by default.
 
-**Layout Type** offers five layout options:
+**Layout Type** offers five layout options. Choose one to place an image next to your form:
 
 - **Media:** Add an image next to your form
 - **Media Brightness:** Adjust image brightness with the **+** or **−** controls
@@ -45,34 +45,36 @@ Choose **Boxed** or **Classic** for the page design style. **Boxed** is selected
 
 ![Landing page layout type settings](/images/publishing-embedding/dedicated-landing-page/layout-type-04-scaled.webp)
 
-Additional design options:
+Under **Styling**, set the colors and effects:
 
 - **BG Color:** Background color for the form page
+- **BG Image:** Background image for the landing page
+- **Featured Image:** Thumbnail used when the page is shared on social media
 - **Outer Shadow:** Shadow around the form container
 - **Inner Shadow:** Inner shadow for depth
-- **BG Image:** Background image for the landing page
+
+![Landing page shadow and background settings](/images/publishing-embedding/dedicated-landing-page/shadow-05-scaled.webp)
+
+Under **Branding**, add your identity to the page:
+
 - **Form Logo:** Company or campaign logo at the top of the page
-- **Featured Image:** Thumbnail used when the page is shared on social media
-
-![Landing page shadow and branding settings](/images/publishing-embedding/dedicated-landing-page/shadow-05-scaled.webp)
-
-- **Page Headings:** Main heading at the top of the page
+- **Page Heading:** Main heading at the top of the page
 - **Description:** Short text explaining what the form is about
-- **Security Code:** Protect the form URL from unwanted access
 
-Click **Save Settings** to save your design.
+Click **Save** to save your design.
 
-![Save landing page design settings](/images/publishing-embedding/dedicated-landing-page/design-save-settings-06-scaled.webp)
+![Landing page branding settings](/images/publishing-embedding/dedicated-landing-page/design-save-settings-06-scaled.webp)
 
 ### Share Your Landing Page
 
 Switch to the **Share** tab to access distribution options:
 
-- **Pretty URL:** Turn on Pretty URL, enter a **URL Slug**, and click **Save Pretty URL**
-- **Share Via Direct URL:** Copy the direct link or use quick-share icons for Facebook, Twitter, LinkedIn, or email
-- **QR Code:** Download or copy an SVG QR code for print or in-person sharing
-- **Shortcode:** Embed the form in any WordPress **Page** or **Post**. For more ways to place forms with shortcodes, see the [Fluent Forms shortcodes overview](/shortcodes-overview).
+- **Pretty URL:** Turn on **Pretty URL**, enter a **URL Slug**, and save to use a readable link instead of the form ID
+- **Private Share Link:** Add an optional token so only people with the link can open the page
+- **Shareable link:** Copy the direct link or use the quick-share icons for Facebook, X, or LinkedIn
+- **QR code:** Download or copy an SVG QR code for print or in-person sharing
 - **Email Share:** Open a pre-written email draft or copy the message text
+- **Shortcodes:** Embed the form in any WordPress **Page** or **Post**. For more ways to place forms with shortcodes, see the [Fluent Forms shortcodes overview](/shortcodes-overview).
 - **Embed via HTML Code:** Copy the iframe code to embed the form on another domain or outside WordPress. You can adjust the height property. Confirm your hosting server supports iframes.
 
 Click **Save** in the top right when finished.

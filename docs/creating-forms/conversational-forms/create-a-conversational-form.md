@@ -24,7 +24,7 @@ Now, a pop-up will appear with three options. Click the **Create Conversational 
 
 ### Customizing Form
 
-Now you are on the **Editor** page of your newly created Post Form. Here you can see four fields are already added that you can customize. Also, you can add other fields according to your needs. 
+Now you are on the **Editor** page of your newly created conversational form. Add fields from the **Input Fields** tab on the right and customize them according to your needs. 
 
 > [!Note]
 > Container Fields are not supported in Conversational forms
@@ -33,7 +33,7 @@ To customize an added field, **hover over it** and the customization options wil
 
 a. **Drag & Drop**: With this option, you can move your fields up or down easily.
 
-b. **Edit**: Click the **Pencil**/**Edit** **Icon**, and it will take you to the **Input Customization** tab on the right sidebar which offers the options for customization.
+b. **Edit**: Click the **Pencil Icon** to open the **Customize** tab on the right, which offers the options for customization.
 
 c. **Duplicate**: Click this button and the field will be duplicated.
 
@@ -45,9 +45,9 @@ e. **Add new field**: Click this **Plus Icon** to add a new input field/s to you
 
 ## Embedding Form into Frontend
 
-After customization, click the **Save Form** button in the top right corner to save all the changes.
+After customization, click the **Save** button in the top right corner (or press **Cmd/Ctrl + S**) to save all the changes.
 
-Click the **Preview & Design** button in the middle to see a preview of your form. You can also copy the **Form ShortCode** from the top bar to display it on the front end. 
+Click the **Preview** (eye) icon to see a preview of your form. You can also click the copy icon next to the shortcode in the top bar to display the form on the front end. 
 
 ![Save conversational form](/images/creating-forms/conversational-forms/create-a-conversational-form/4.-Save-Form-button-scaled.webp)
 

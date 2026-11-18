@@ -15,7 +15,7 @@ This article will guide you through integrating **Airtable** with **Fluent Forms
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Airtable** through the search bar, and get the **Airtable** integration module.
 
-Now, turn on the **Toggle** to enable the **Airtable** module, and click the **Settings Icon** on the right side. 
+Now, turn on the **Toggle** to enable the **Airtable** module, and click **Manage** on the right side. 
 
 ![Enabled Airtable Module](/images/integrations/other-apps/integrate-airtable/1.-Enabled-Airtable-module-scaled.webp)
 
@@ -54,10 +54,10 @@ Now, a pop-up will come with your access token. Simply, copy it from here.
 
 ## Connecting Airtable with Fluent Forms
 
-Return to the **Airtable Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **Airtable Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **Token** you copied from **Airtable** into the **Airtable Access Token** field.
-Finally, press the **Save Settings** button to make your **Airtable Integration** module functional. 
+Finally, press the **Save** button to make your **Airtable Integration** module functional. 
 
 ![Paste Access Token](/images/integrations/other-apps/integrate-airtable/7.-Paste-Access-Token-scaled.webp)
 
@@ -69,14 +69,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrating Airtable with Forms
 
-Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Airtable,** and click the **Settings** button. 
+Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Airtable,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Airtable](/images/integrations/other-apps/integrate-airtable/9.-Open-desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Airtable Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Airtable Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate Airtable](/images/integrations/other-apps/integrate-airtable/10.-Add-New-Integration-button-scaled-2.webp)
 
@@ -100,7 +100,7 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 6. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
-Once the setup is done, click the **Save Feed** button, and your Airtable will be integrated into this specific form!
+Once the setup is done, click the **Save** button, and your Airtable will be integrated into this specific form!
 
 ![Save Feed Button Integrate Airtable](/images/integrations/other-apps/integrate-airtable/12.-Save-Feed-button-scaled-3.webp)
 

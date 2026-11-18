@@ -10,11 +10,11 @@ In this article, we’ll show you how to use the **Edit History** feature effect
 
 ## Access the History Feature
 
-To get the Edit History feature, navigate to the **Forms** section in the [Fluent Forms dashboard](/user-interface), then click on the **Edit** option for the form you wish to modify.
+To get the Edit History feature, navigate to the **Forms** section in the [Fluent Forms dashboard](/user-interface), then click the form you wish to modify.
 
 ![Edit Section Fluent Forms](/images/managing-submissions/entries/edit-history-feature/Form-edit-section-scaled.webp)
 
-In the form editor, you’ll notice a **History** button (see the screenshot below). Simply click on it.
+In the form editor, you’ll notice a **History** (clock) icon at the top right of the right panel (see the screenshot below). Simply click on it. The **Saved versions** list opens.
 
 ![History Section](/images/managing-submissions/entries/edit-history-feature/History-section-1-scaled.webp)
 

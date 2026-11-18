@@ -14,7 +14,7 @@ This guide will walk you through **adding** and **customizing the Website URL fi
 
 ## Adding a Website URL Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Edit Website URL Input Field](/images/form-fields/general-fields/website-url-input-field-guide/edit-form-01-7-scaled.webp)
 
@@ -26,17 +26,17 @@ Now, choose the desired **Website URL** field by clicking on it or **Drag & Drop
 
 ## Customizing the Website URL Field
 
-A website URL field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+A website URL field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Website URL Option
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/general-fields/website-url-input-field-guide/input-customization-03-12-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/general-fields/website-url-input-field-guide/input-customization-03-12-scaled.webp)
 
 ### Website URL options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Website URL** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Website URL** field.
 
 **A. Element Label:** This is the field title the users will see when filling out the **Website URL** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -78,7 +78,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embedding the Form on Your Website
 
-Once customization is complete, Click **Save Form** to store all changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once customization is complete, Click **Save** to store all changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

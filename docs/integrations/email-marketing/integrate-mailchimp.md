@@ -19,7 +19,7 @@ This article will guide you through integrating **Mailchimp** with **Fluent Form
 
 Go to **Integrations** from the Fluent Forms navbar and search for **Mailchimp**.
 
-Enable the **Mailchimp** module, then click the **Settings** icon on the right.
+Enable the **Mailchimp** module, then click **Manage** on the right.
 
 ![Enabled Mailchimp Fluent Forms](/images/integrations/email-marketing/integrate-mailchimp/1.-Enabled-Mailchimp-scaled.webp)
 
@@ -54,9 +54,9 @@ Finally, your Mailchimp API key is generated, copy it by clicking the **Copy to 
 
 ## Connect Mailchimp with Fluent Forms
 
-Return to the **Mailchimp Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **Mailchimp Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
-Paste the **API Key** you copied from **Mailchimp** into the **Mailchimp API Key** field and press the **Save Settings** button to make your **Mailchimp Integration** module functional.
+Paste the **API Key** you copied from **Mailchimp** into the **Mailchimp API Key** field and press the **Save** button to make your **Mailchimp Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-mailchimp/8.-Paste-API-Key-scaled.webp)
 
@@ -67,14 +67,14 @@ Also you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate Mailchimp into Fluent Forms
 
-Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailchimp,** and click the **Settings** button. 
+Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailchimp,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Mailchimp](/images/integrations/email-marketing/integrate-mailchimp/Open-Desired-Form-Settings-5-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Mailchimp Feed** from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Mailchimp Feed** from the drawer. 
 
 ![Add Integration Button Integrate Mailchimp](/images/integrations/email-marketing/integrate-mailchimp/10.-Add-New-Integration-button-1-scaled.webp)
 
@@ -108,7 +108,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 11. **Enable This Feed:** Keep this integration feed enabled so all actions run properly.
 
-Once the setup is done, click the **Save Feed** button and, your **Mailchimp** will be integrated into this specific form.
+Once the setup is done, click the **Save** button and, your **Mailchimp** will be integrated into this specific form.
 
 ![Save Settings Button Integrate Mailchimp](/images/integrations/email-marketing/integrate-mailchimp/12.-Save-Settings-button-scaled.webp)
 

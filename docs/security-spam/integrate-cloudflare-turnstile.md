@@ -10,7 +10,7 @@ This article will guide you through configuring Cloudflare Turnstile in your Wor
 
 ## Configuring CloudFlare Turnstile
 
-First, go to **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, and click the **Turnstile** option.
+First, go to **Global Settings** from the **FluentForms Navbar**, expand **Security** in the left sidebar, click **CAPTCHA services**, and open the **Turnstile** tab.
 
 Now, you will be asked to provide the **Site Key** and **Secret Key** of your **Turnstile Account** for the configuration.
 
@@ -47,7 +47,7 @@ Here, you will get your desired Site key and Secret key. Simply, copy them by cl
 
 ## Connecting Turnstile with Fluent Forms
 
-Return to the **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, and click the **Turnstile**. 
+Return to the **Global Settings** from the **FluentForms Navbar**, expand **Security** in the left sidebar, click **CAPTCHA services**, and open the **Turnstile** tab. 
 
 Now, paste the **Keys** you copied from the **Turnstile** into the **Site Key** and **Secret Key** fields respectively.
 
@@ -55,19 +55,19 @@ Then, select the turnstile’s **Appearance Mode** and **Theme** according to yo
 
 ![Paste Keys And Validate Turnstile](/images/security-spam/integrate-cloudflare-turnstile/7.-Paste-keys-and-validate-turnstile-scaled.webp)
 
-Once you have verified the keys, press the **Save Settings** button to make your **Turnstile Integration** functional. 
+Once you have verified the keys, press the **Save** button to make your **Turnstile Integration** functional. 
 
 ![Save Settings Button Integrate Cloudflare Turnstile](/images/security-spam/integrate-cloudflare-turnstile/8.-Save-Settings-button-scaled.webp)
 
 ## Integrating Turnstile with Forms
 
-First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this Turnstile protection.
+First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the form where you want to set this Turnstile protection.
 
 ![Editor Fluent Forms](/images/security-spam/integrate-cloudflare-turnstile/6.-desired-Form-Editor-1-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input Fields** on the right side, open the **Advanced Fields** dropdown list, and click the **Turnstile** input field.
+Once you are on the **Editor** page, go to the **Input Fields** tab on the right side, open the **Advanced Fields** section, and click the **Turnstile** input field.
 
-Finally, click the **Save Form** button to integrate your configured Turnstile into this form.
+Finally, click the **Save** button to integrate your configured Turnstile into this form.
 
 ![Add Turnstile Input Field Integrate Cloudflare Turnstile](/images/security-spam/integrate-cloudflare-turnstile/10.-Add-Turnstile-input-field-scaled.webp)
 

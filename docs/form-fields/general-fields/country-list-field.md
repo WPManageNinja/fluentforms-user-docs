@@ -16,7 +16,7 @@ So let’s get started.
 
 ## Adding Country List Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Edit From Country List Field in](/images/form-fields/general-fields/country-list-field/edit-from-01-scaled.webp)
 
@@ -28,17 +28,17 @@ Now, select the desired **Country List** **Input** field by **clicking** on it o
 
 ## Customizing the Country List Field
 
-Once added, you can customize the field. **Hover over the field** and click the **Pencil Icon** to open the **Input Customization** tab. It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Country List field. 
+Once added, you can customize the field. **Hover over the field** and click the **Pencil Icon** to open the **Customize** tab. It will take you to the **Customize** tab on the right side and offer you the following options for customizing the Country List field. 
 
 - Country List Input field options
 
 - Advanced Options
 
-![Input Customization](/images/form-fields/general-fields/country-list-field/input-customization-03-scaled.webp)
+![Customize](/images/form-fields/general-fields/country-list-field/input-customization-03-scaled.webp)
 
 ### Country List Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Country List Input** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Country List Input** field.
 
 **A. Element Label:** This is the field title that the users will see when filling out the **Country List** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -98,7 +98,7 @@ This country will rank first in the search results. Two additional options exist
 
 ### Embedding the Form on Your Website
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

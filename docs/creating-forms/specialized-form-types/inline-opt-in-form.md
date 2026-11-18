@@ -10,17 +10,15 @@ This guide walks you through importing the form, connecting your email service, 
 
 ## Import the Pre-built Opt-in Form
 
-First, download the **Opt-in Form JSON file** from the provided [link](https://share.getcloudapp.com/rRunQgWj). Then, navigate to **Fluent Forms** dashboards **Tools** section in your WordPress site.
-
-Then, click the **Import** **Forms** button from the left side bar. Now, click the **Choose File** to upload the import form under the **Select File** options. After that, click the **Import** **Forms** button to import your downloaded form. For more details, see [How to Import and Export Fluent Forms](/import-and-export-fluent-forms). 
+First, download the **Opt-in Form JSON file** from the provided [link](https://share.getcloudapp.com/rRunQgWj). Then, open **More → Tools** in the Fluent Forms top bar and click **Import Forms** in the left menu. Now, click **Upload JSON** to choose the downloaded file under **Select Forms**. After that, click the **Import JSON** button to import your downloaded form. For more details, see [How to Import and Export Fluent Forms](/import-and-export-fluent-forms). 
 
 ![Import inline form](/images/creating-forms/specialized-form-types/inline-opt-in-form/import-inline-01-scaled.webp)
 
 ## Connect to Your Email Service
 
-Open the imported form in the **Form Editor**. Go to the **Settings & Integrations** tab. Choose your preferred email marketing platform, such as [Mailchimp](/integrate-mailchimp), [Kit (formerly ConvertKit)](/integrate-kit-former-convertkit), [FluentCRM](/fluentcrm-integration), or others. Complete the integration process with your account details. 
+Open the imported form in the **Form Editor**. Click **Configuration** in the top bar, then open **Integrations & Add-ons**. Choose your preferred email marketing platform, such as [Mailchimp](/integrate-mailchimp), [Kit (formerly ConvertKit)](/integrate-kit-former-convertkit), [FluentCRM](/fluentcrm-integration), or others. Complete the integration process with your account details. 
 
-After saving, **copy** the **form shortcode** from the top-right corner of the editor.
+After saving, **copy** the **form shortcode** from the top bar of the editor.
 
 ![Inline opt-in preview](/images/creating-forms/specialized-form-types/inline-opt-in-form/02-1-scaled-2.webp)
 

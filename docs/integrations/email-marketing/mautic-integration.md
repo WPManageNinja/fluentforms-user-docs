@@ -29,7 +29,7 @@ Then, click the **Settings Icon** to make the integration functional.
 
 ![Enabled Mautic Integrationmodule](/images/integrations/email-marketing/mautic-integration/3.-Enabled-Mautic-IntegrationModule-scaled.webp)
 
-Now, under **Mautic Settings**, provide all the required credentials (**Mautic Account URL**, **Client ID**, and **Client Secret**). Then, press the **Save Settings** button and your **Mautic** will be Integrated.
+Now, under **Mautic Settings**, provide all the required credentials (**Mautic Account URL**, **Client ID**, and **Client Secret**). Then, press the **Save** button and your **Mautic** will be Integrated.
 
 > [!Tip]
 > Follow the **To Authentic Mautic you have to enable your API first** instructions to get your credentials. Copy the URL shown in the screenshot for later use.
@@ -58,7 +58,7 @@ Click on the **New** button to create a new **API Credentials**.
 ![Button Mautic Integration](/images/integrations/email-marketing/mautic-integration/8.-New-button.webp)
 
 Now, select **OAuth 2** as the **Authorization Protocol** and provide a **Name** for your API Credentials.
-Then, paste the **Redirect URL** you copied from **FluentForms Global Settings.**
+Then, paste the **Redirect URL** you copied from the **Mautic** settings page in Fluent Forms.
 
 Finally, click the **Save** button in the top right corner.
 
@@ -70,13 +70,13 @@ Finally, you will get your required **Client ID** and **Client Secret**. **Copy*
 
 ### Connect Mautic with Fluent Forms
 
-Once you get all the credentials, return to the **Global Settings** from the **Fluent Forms Navbar,** expand the **Configure Integrations,** and open the **Mautic** tab from the left sidebar.
+Once you get all the credentials, go to **Integrations** from the top bar and click **Manage** next to **Mautic** to open the Mautic settings page.
 
 Now, provide your **Mautic Account’s URL** into **Your Mautic API URL** field.
 
 Then, paste the **Client ID** and **Client Secret** you copied from Mautic into the **Mautic Client ID** and **Mautic Client Secret** fields respectively. 
 
-Once you complete the configuration process, press the **Save Settings** button.
+Once you complete the configuration process, press the **Save** button.
 
 ![Paste Client ID Client Secret](/images/integrations/email-marketing/mautic-integration/11.-Paste-Client-ID-Client-Secret--scaled.webp)
 
@@ -90,14 +90,14 @@ Here, you can see your **Mautic Integration** feed is enabled and ready to use!
 
 ## Integrate Mautic into Fluent Forms
 
-Go to the **Forms** section from the **Fluent Forms Navbar**, and click the **Settings** button of your desired form where you want to add the feed.
+Go to the **Forms** section from the **Fluent Forms Navbar**, and open the **Configuration** tab of your desired form where you want to add the feed.
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Settings Mautic Integration](/images/integrations/email-marketing/mautic-integration/14.-Desired-forms-Settings-scaled.webp)
 
-Open the **Configure Integrations** tab, expand the **Add New Integration** tab, and click the **Mautic Integration** feed.
+Go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Mautic Integration** from the drawer.
 
 ![Add Mautic Integration Feed 1024x319](/images/integrations/email-marketing/mautic-integration/15.-Add-Mautic-Integration-Feed-1024x319.webp)
 
@@ -119,7 +119,7 @@ Now, set up your Mautic Integration Feed according to your needs using all the f
 
 **H. Status**: Uncheck the **Enable This Feed** box if you want to save this **Mautic Feed** as Draft. Otherwise, enable this box to make this feed functional.
 
-Once you are done, click the **Save Feed** button to save all your setup.
+Once you are done, click the **Save** button to save all your setup.
 
 ![Add Mautic Integration Feed Page](/images/integrations/email-marketing/mautic-integration/16.-Add-new-Mautic-Integration-Feed-page.webp)
 

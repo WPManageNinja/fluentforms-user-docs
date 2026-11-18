@@ -8,11 +8,14 @@ reCAPTCHA in Fluent Forms helps to protect your website from spam and bots by ve
 
 This article will guide you through adding the **reCAPTCHA** field in **Fluent Forms** for your WordPress site.
 
-Before adding reCAPTCHA to your form, you will need to **integrate** it with: **reCAPTCHA v2** (Checkbox: "I'm not a robot") or **reCAPTCHA v3**  (Invisible verification). To learn more, read [How to Integrate reCAPTCHA with Fluent Forms](/integrate-recaptcha).
+Before adding reCAPTCHA to your form, you will need to **integrate** it with: **reCAPTCHA v2** (Checkbox: "I'm not a robot") or **reCAPTCHA v3**  (Invisible verification). To learn more, read [How to Integrate reCAPTCHA with Fluent Forms](/integrate-recaptcha).
 
 ## Add reCAPTCHA to Your Form
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the form to open its **Editor** page.
+
+> [!Note]
+> The **reCaptcha** field stays disabled in the field list until you save your reCAPTCHA keys. See [How to Integrate reCAPTCHA with Fluent Forms](/integrate-recaptcha).
 
 ![Edit reCAPTCHA Field](/images/security-spam/recaptcha-field/edit-form-01-11-scaled.webp)
 
@@ -36,7 +39,7 @@ A reCAPTCHA field has been added. You can edit this field by **hovering over it*
 
 ## Embed the Form into the Front
 
-Once you have customized the reCAPTCHA field, click the **Save Form** button to save your changes. To preview the form, click **Preview & Design** in the middle of the page.
+Once you have customized the reCAPTCHA field, click the **Save** button to save your changes. To preview the form, click **Preview & Design** in the middle of the page.
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. You can also [embed the form directly in the Gutenberg layout](/embed-your-forms-directly-in-gutenberg-layout). 
 

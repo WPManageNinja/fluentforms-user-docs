@@ -13,7 +13,7 @@ This article will guide you through adding the **Tags Taxonomy Field** in your F
 
 ## Add Tags Field
 
-Go to **Forms** from the Fluent Forms navbar, select your **Post Form**, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of your **Post Form** to open the form editor.
 
 ![Open Post Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/1.-Open-desired-Post-form-6-scaled.webp)
 
@@ -25,13 +25,13 @@ Once you are on the **Editor** page, go to the **Input Fields** on the right sid
 
 You can see that a **Tags** field is added to the form. You can Edit or Customize this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the field.  
+It will take you to the **Customize** tab on the right side and offer you the following options for customizing the field.  
 
 1. Tags
 
 2. Advanced Options
 
-![Input Customization Tab](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/3.-Input-Customization-tab-3-scaled.webp)
+![Customize tab](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/3.-Input-Customization-tab-3-scaled.webp)
 
 ### 1. Tags
 
@@ -78,8 +78,8 @@ Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post F
 
 To embed and display the form on a specific Page/Post on your site, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes.
-Also, to see the form preview, click the **Preview & Design** button in the middle.
+Once you complete the customization, click the **Save** button to save all your changes.
+Also, to see the form preview, click the **Preview** (eye) icon at the top right.
 
 ![Save Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/6.-Save-Form-6-scaled.webp)
 

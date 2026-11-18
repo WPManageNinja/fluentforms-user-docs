@@ -15,7 +15,7 @@ This article will step by step guide you through integrating Zoho CRM with Fluen
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Zoho CRM** through the search bar, and get the **ZohoCRM integration module**.
 
-Now, turn on the **Toggle** to enable the **ZohoCRM** module and click the **Settings Icon** on the right.
+Now, turn on the **Toggle** to enable the **ZohoCRM** module and click **Manage** on the right.
 
 ![Enable Zoho CRM](/images/integrations/crm/zoho-crm-integration/enable-zohocrm-01-scaled.webp)
 
@@ -47,11 +47,11 @@ Then go to **Settings** and **Enable** the **Data Centers** as you need.
 
 ## Connect Zoho CRM with Fluent Forms
 
-Then, return to the **Zoho CRM Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
+Then, return to the **Zoho CRM Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
 
 Now, paste the **Account URL, Client ID,** and **Client Secret** that you copied before.
 
-After that, click the **Save Settings** button.
+After that, click the **Save** button.
 
 ![Global Settings](/images/integrations/crm/zoho-crm-integration/Global-Settings-08-scaled.webp)
 
@@ -65,14 +65,14 @@ Here, you will see that your **Zoho CRM API integration is up and running**. You
 
 ## Integrate Zoho CRM into Fluent Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, select the **Desired Form** where you want to integrate your Zoho CRM and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, select the **Desired Form** where you want to integrate your Zoho CRM and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Zoho Fluent Forms](/images/integrations/crm/zoho-crm-integration/Fluent-Form-Zoho-forms-10-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Zoho CRM Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Zoho CRM Integration** feed from the drawer. 
 
 ![Add Configuration Zoho CRM Integration](/images/integrations/crm/zoho-crm-integration/add-new-configuration-11-scaled.webp)
 
@@ -88,7 +88,7 @@ Once you are on the **Settings & Integrations**, go to the **Configuration Integ
 
 **E. Status:** Enable this feed option to activate the integration.
 
-Once the setup is complete, click the **Save Feed** button.
+Once the setup is complete, click the **Save** button.
 
 Now, your Zoho CRM will be integrated into this specific form!
 

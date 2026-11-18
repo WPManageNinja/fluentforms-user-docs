@@ -17,7 +17,7 @@ This guide will walk you through adding and customizing the **Checkable Grid Fie
 
 ## Adding Checkable Grid Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -32,17 +32,17 @@ Now, select the desired **Checkable Grid** **Input** field by clicking or **drag
 
 ## Customizing the Checkable Grid Field
 
-Once you add the checkable grid field, you can customize it by **hovering over** it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the checkable grid field, you can customize it by **hovering over** it and clicking the **Pencil Icon.** It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Checkable Grid Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/checkable-grid-input-field/input-customization-03-21-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/checkable-grid-input-field/input-customization-03-21-scaled.webp)
 
 ### Checkable Grid Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Checkable Grid** input field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Checkable Grid** input field.
 
 **A. Element Label:** This is the field title users will see when filling out the **Checkable Grid** field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -102,11 +102,11 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into the Front
 
-Once you have customized the shortcode field, click the **Save Form** button to apply the changes.
+Once you have customized the shortcode field, click the **Save** button to apply the changes.
 
 To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired **Page** **or Post.**
 
-To preview the form, click **Preview & Design** in the middle of the page.
+To preview the form, click **Preview** in the middle of the page.
 
 ![Save Checkable Grid Input Field](/images/form-fields/advanced-fields/checkable-grid-input-field/save-form-06-20-scaled.webp)
 

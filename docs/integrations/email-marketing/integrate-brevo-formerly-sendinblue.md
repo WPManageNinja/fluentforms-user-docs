@@ -15,7 +15,7 @@ This article will guide you through integrating **Brevo (formerly Sendinblue)** 
 
 Go to **Integrations** from the **Fluent Forms Navbar**, search for **Sendinblue** through the search bar, and get the **Sendinblue** integration module.
 
-Now, turn on the **Toggle** to enable the **Sendinblue**. Then, you will see the Sendinblue’s **Settings Icon** on the right side, click on it.
+Now, turn on the **Toggle** to enable the **Sendinblue**. Then, you will see the Sendinblue’s **Manage** button on the right side, click on it.
 
 ![Enabled Sendinblue Fluent Forms](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/1.-Enabled-Sendinblue-scaled.webp)
 
@@ -46,10 +46,10 @@ Finally, your Sendinblue API key is generated, copy it by clicking the **Copy** 
 
 ## Connect Brevo with Fluent Forms
 
-Then, return to the **Brevo API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Then, return to the **Brevo API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API Key** you copied from **Brevo** into the  **Brevo V3 API Key** field.
-Finally, press the **Save Settings** button to make your **Sendinblue Integration** module functional.
+Finally, press the **Save** button to make your **Sendinblue Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/7.-Paste-API-Key-scaled-2.webp)
 
@@ -68,7 +68,7 @@ Go to **Forms** from the Fluent Forms navbar, open the form where you want to ad
 
 ![Open Settings Integrate Brevo (Formerly Sendinblue)](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/Open-Desired-Form-Settings-2-scaled-2.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Sendinblue Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Sendinblue Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate Brevo (Formerly Sendinblue)](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/9.-Add-New-Integration-button-scaled.webp)
 
@@ -95,7 +95,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button. And, your Sendinblue will be integrated into this specific form!
+Once the setup is done, finally, click the **Save** button. And, your Sendinblue will be integrated into this specific form!
 
 ![Save Feed Button Integrate Brevo (Formerly Sendinblue)](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/11.-Save-Feed-button-scaled.webp)
 

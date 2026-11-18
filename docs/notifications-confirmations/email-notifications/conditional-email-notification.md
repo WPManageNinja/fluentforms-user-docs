@@ -14,11 +14,11 @@ First, go to **Forms** from the top navbar, and **open** the **Editor** page of 
 
 ![Editor Fluent Forms](/images/notifications-confirmations/email-notifications/conditional-email-notification/1.-desired-Form-Editor-scaled.webp)
 
-Now, go to **Settings & Integrations** from the top navbar and open the **Email Notifications** tab. 
+Now, click **Configuration** in the top bar and open **Email Notifications** under **Responses** in the left rail. 
 
 First, you can **Enable** the default **Admin Notification** by **toggling it on.** Then, open its settings using the **Settings Icon** to set conditions based on your needs.
 
-Or, create a new one by clicking the **+ Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/setup-adminuser-email-notifications).
+Or, create a new one by clicking the **Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/setup-adminuser-email-notifications).
 
 **For example**, I used the existing notification to show you the whole process. 
 
@@ -40,6 +40,6 @@ In the “**Parameter**” field (first field), select an **input field** that n
 
 This way you can add as many conditional logics as you need by clicking the **Plus Icon** and delete any conditions by clicking the **Minus Icon** in the right corner. 
 
-Once you complete, click the **Save Settings** button to make the condition/s functional.
+Once you complete, click **Save** to make the condition/s functional.
 
 ![Enable Conditional Logics](/images/notifications-confirmations/email-notifications/conditional-email-notification/3.-Enable-Conditional-Logics-.webp)

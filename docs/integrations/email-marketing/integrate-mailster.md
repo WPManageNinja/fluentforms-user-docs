@@ -24,14 +24,14 @@ Then, go to **Integrations** from the **Fluent Forms Navbar**, search for **Mail
 
 ## Integrate Mailster in Forms
 
-Once the Mailster Integration module is enabled, you can integrate it with any desired form. First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailster** and click the **Settings** button. 
+Once the Mailster Integration module is enabled, you can integrate it with any desired form. First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailster** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Mailster](/images/integrations/email-marketing/integrate-mailster/3.-Open-desired-form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Mailster Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Mailster Integration** feed from the drawer. 
 
 ![Add Integration Dropdown Integrate Mailster](/images/integrations/email-marketing/integrate-mailster/4.-Add-new-integration-dropdown-scaled.webp)
 
@@ -53,7 +53,7 @@ Now, a page will appear with various settings options for configuring the Mailst
 
 8. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button. And, your Mailster will be integrated into this specific form!
+Once the setup is done, finally, click the **Save** button. And, your Mailster will be integrated into this specific form!
 
 ![Save Feed Integrate Mailster](/images/integrations/email-marketing/integrate-mailster/5.-Save-Feed-scaled.webp)
 

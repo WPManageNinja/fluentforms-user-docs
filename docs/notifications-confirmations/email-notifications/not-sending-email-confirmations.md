@@ -16,9 +16,9 @@ Navigate to **Forms** from the **Fluent Forms Navbar** and click the **Settings*
 
 ![Open Settings Fluent Forms Not Sending](/images/notifications-confirmations/email-notifications/not-sending-email-confirmations/1.-open-desired-form-settings-scaled.webp)
 
-Once you are on the form’s **Settings & Integrations** page, open the **Email Notifications** tab from the left side, and you will see all of the **Email Notifications** you added.
+Once you are on the form’s **Configuration** page, open **Email Notifications** under **Responses** in the left rail, and you will see all of the **Email Notifications** you added.
 
-Now, if your desired email notification is showing **Disabled**, turn on the **Toggle** switch and the notification will be **Enabled**. 
+Now, if your desired email notification is showing **Inactive**, turn on the **Toggle** switch and the notification will be **Enabled**. 
 
 > [!Note]
 > To learn more about setting up email notifications, see [Admin/User Email Notifications](/setup-adminuser-email-notifications).

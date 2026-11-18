@@ -19,7 +19,7 @@ To use this field, you must first **Enable the Quiz Module**. For configuration 
 
 ## Adding a Quiz Score Input Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -34,23 +34,23 @@ Now, select the **Quiz Score Input** field by clicking or dragging it and droppi
 
 ## Customizing the Quiz Score Field
 
-Once you add the **Quiz Score Input** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
+Once you add the **Quiz Score Input** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
 
 - Quiz Score Field Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/quiz-score/Input-Customization-03-31-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/quiz-score/Input-Customization-03-31-scaled.webp)
 
 ### Quiz Score Field Options
 
-Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Quiz Score Input** field.
+Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Quiz Score Input** field.
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
 
 **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
 
-**C. Select Score Type:** The **Quiz Score** field offers several quiz score types, which you can select from the dropdown on the right side of the **Input Customization**. 
+**C. Select Score Type:** The **Quiz Score** field offers several quiz score types, which you can select from the dropdown on the right side of the **Customize**. 
 
 - **Total Point:** It will define the Total Points of the answers here and evaluate the score of all the selected answers. You must Enable Advance Scoring From Quiz Settings to use this Score Type.
 
@@ -74,7 +74,7 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

@@ -18,7 +18,7 @@ Navigate to **Forms** from the top navbar, and open the **Editor** page of your 
 
 ![Editor Fluent Forms](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/1.-desired-Form-Editor-4-scaled.webp)
 
-Now, go to **Settings & Integrations** from the top navbar and open the **Confirmation Settings** tab under the **Settings** option.
+Now, click **Configuration** in the top bar and open **Confirmation Settings** under **Responses** in the left rail.
 
 Here, you can see three **Confirmation Types** for setting up the **Confirmation Message**. These are:
 
@@ -28,7 +28,7 @@ Here, you can see three **Confirmation Types** for setting up the **Confirmation
 
 **3. To a Custom URL**
 
-Once you complete the setup, click the **Save Settings** button to save all your changes.
+Once you complete the setup, click **Save** to save all your changes.
 
 ![Confirmation Settings Option](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/2.-Confirmation-Settings-option-scaled.webp)
 
@@ -42,7 +42,7 @@ This option is selected by default. It enables you to show the confirmation mess
 
  * **B. After Form Submission**: Here, you can select whether you want to **Hide** or **Reset** the Form after each form submission. 
 
-Finally, click the **Save Settings** button to save all your changes.
+Finally, click **Save** to save all your changes.
 
 ![Same Page Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/3.-Same-Page-confirmation-type.webp)
 
@@ -50,13 +50,13 @@ Finally, click the **Save Settings** button to save all your changes.
 
 The option allows you to redirect your subscribers to a designated page on your website after they submit the form, enhancing their experience by guiding them to relevant content or further actions. This could be a **Customized Welcome Page**, your **Home Page**, or **Any Other Page** on your site. 
 
- * **A. Select Page:** Here, choose the desired page you want your subscriber to be redirected to after form submission by clicking the **Arrow Icon**. Here you will find your website’s all pages in this dropdown list.
+ * **A. Select Page:** Here, choose the desired page you want your subscriber to be redirected to after form submission by clicking the **Select** dropdown. Here you will find your website’s all pages in this dropdown list.
 
- * **B. Redirect Query String**: Enabling this option allows you to pass the field data via a query string (checkbox, currently unchecked). Here also you can redirect queries through **Shortcode** by clicking the **Three-dot Icon** in the right corner.
+ * **B. Pass Field Data Via Query String**: Enabling this checkbox allows you to pass the field data via a query string (currently unchecked). Here also you can redirect queries through **Shortcode** by clicking the **{ }** shortcode icon in the right corner.
 
  * **C. Redirection Message**: Here, you can customize the message displayed after form submission. You can also add **Shortcode/s** and **Media/s** in your confirmation message by using the **Add Media** and **Add Shortcodes** button in the right corner. Also for advanced customization, you can edit the message in **HTML Codes** through the **Text** tab.
 
-Once you are done, click the **Save Settings** button to save all your changes.
+Once you are done, click **Save** to save all your changes.
 
 ![Page Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/4.-To-a-Page-confirmation-type.webp)
 
@@ -66,7 +66,7 @@ This confirmation type allows you to redirect your subscriber to a page/website 
 
  * **A. Custom URL**: Here, put the desired **Outbound URL** where you want your subscriber redirected after form submission. Here you can also add **Shortcode/s** by clicking the left side **three-dot-icon.** 
 
- * **B. Redirect Query String**: Enabling this option allows you to pass the field data via a query string (checkbox, currently unchecked). Here also you can redirect queries through **Shortcode** by clicking the **Three-dot Icon** in the right corner. 
+ * **B. Pass Field Data Via Query String**: Enabling this checkbox allows you to pass the field data via a query string (currently unchecked). Here also you can redirect queries through **Shortcode** by clicking the **{ }** shortcode icon in the right corner. 
 
 Suppose you have a form with a field like **Name**. If you enable **Pass Field Data via Query String**, after the form submission, the URL could look like: `https://yourwebsite.com/thank-you/?name=JohnDoe`
 
@@ -79,6 +79,6 @@ Suppose you have a form with a field like **Name**. If you enable **Pass Field D
 > [!Note]
 > If you want to pass data using a query string and automatically populate form fields on the redirected page, see [Set Default Form Value from URL Parameters](/set-default-form-value-from-url-parameters).
 
-Once you are done, click the **Save Settings** button to save all your changes.
+Once you are done, click **Save** to save all your changes.
 
 ![Custom URL Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/5.-To-a-Custom-URL-confirmation-Type.webp)

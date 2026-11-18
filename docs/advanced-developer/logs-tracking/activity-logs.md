@@ -19,7 +19,7 @@ First, go to **Tools** from **WordPress Left Sidebar** or **Fluent Forms Navbar*
 
 ## Filter Your Activity Logs
 
-However, if you want to see activities of a particular form or action, this page has four filtering options with dropdown lists to filter your forms. These are:
+However, if you want to see activities of a particular form or action, click the **Filter** icon at the top right of the table to show four filtering options with dropdown lists. These are:
 
 1. Form
 
@@ -71,7 +71,7 @@ With this option, you can filter your activities by selected **Dates** to see ac
 
 ### Check Single Activity Log
 
-If you want to see the activity data of a specific form in a brief without checking the individual entries in detail, click on the **Arrow Icon** just before the Submission ID.
+If you want to see the activity data of a specific form in a brief without checking the individual entries in detail, click the **ID** number of a log in the first column. The log message expands under the row.
 
 ![Brief Actitivity Check By Arrow Icon](/images/advanced-developer/logs-tracking/activity-logs/7.-Brief-actitivity-check-by-Arrow-Icon.webp)
 

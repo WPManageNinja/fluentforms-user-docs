@@ -14,7 +14,7 @@ This article will guide you through adding the **Hidden** field in your Fluent F
 
 ## Adding the Hidden Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -29,11 +29,11 @@ Now, select the desired **Hidden Input** field by **clicking** on it or **Draggi
 
 ## Customizing the Hidden Field
 
-A Hidden field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+A Hidden field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
-![Input Customization](/images/form-fields/advanced-fields/hidden-input-field/input-customization-03.png)
+![Customize](/images/form-fields/advanced-fields/hidden-input-field/input-customization-03.png)
 
-You will now find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **hidden** field.
+You will now find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **hidden** field.
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. This means that you can configure this option to show a different field label for your admin users when they view the form submissions. 
 
@@ -45,7 +45,7 @@ You will now find various settings options for customizing the field. Located in
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 

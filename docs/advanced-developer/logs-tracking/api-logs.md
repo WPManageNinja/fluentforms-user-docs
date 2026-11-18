@@ -17,7 +17,7 @@ First, go to **Tools** from **WordPress Left Sidebar** or **Fluent Forms Navbar*
 
 ## Filter Your API Logs
 
-However, if you want to see activities of a particular form or action, this page has four filtering options with dropdown lists to filter your forms. These are:
+However, if you want to see activities of a particular form or action, click the **Filter** icon at the top right of the table to show four filtering options with dropdown lists. These are:
 
 1. Form
 
@@ -61,7 +61,7 @@ With this option, you can filter your activities by selected **Dates** to see ac
 
 ### Check Single API Log
 
-If you want to see the API data of a specific form in a brief without checking the [individual entries](/managing-entries) in detail, click on the **Arrow Icon** just before the Submission ID.
+If you want to see the API data of a specific form in a brief without checking the [individual entries](/managing-entries) in detail, click the **ID** number of a log in the first column. The log message expands under the row.
 
 ![Single API Check](/images/advanced-developer/logs-tracking/api-logs/7.-Single-API-check.webp)
 
@@ -85,7 +85,7 @@ If you want to re-run an action (e.g., reprocess the integration for this entry)
 
 You can also re-run all the API Logs Actions at once by clicking the **Checkbox** placed just before the **ID** column, or you can re-run by **selecting the API logs individually** based on your needs.
 
-Then, click the **Run Selected Actions** button, and all your selected logs will be processed again.
+Then, click the **Run Selected Action** button, and all your selected logs will be processed again.
 
 ![Replay Action Bulk](/images/advanced-developer/logs-tracking/api-logs/11.-Replay-action-in-bulk-scaled.webp)
 

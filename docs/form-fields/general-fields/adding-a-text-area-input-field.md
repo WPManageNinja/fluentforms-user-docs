@@ -14,7 +14,7 @@ This guide will walk you through **adding and customizing the Text Area field** 
 
 ## Adding Text Area Input Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Edit a Text Area Input](/images/form-fields/general-fields/adding-a-text-area-input-field/Edit-form-01-6-scaled.webp)
 
@@ -26,17 +26,17 @@ Now, choose the desired **Text Area** field by clicking on it or **Drag & Drop**
 
 ## Customizing the Text Area Field
 
-Once added, you can customize the field. **Hover over the field** and click the **Pencil Icon** to open the **Input Customization** tab. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once added, you can customize the field. **Hover over the field** and click the **Pencil Icon** to open the **Customize** tab. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Text Area Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/general-fields/adding-a-text-area-input-field/Input-Customization-03-11-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/general-fields/adding-a-text-area-input-field/Input-Customization-03-11-scaled.webp)
 
 ### Text Area Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Text Area** input field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Text Area** input field.
 
 **A. Element Label:** This is the field title the users will see when filling out the **Text Area** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -82,7 +82,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embedding the Form on Your Website
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

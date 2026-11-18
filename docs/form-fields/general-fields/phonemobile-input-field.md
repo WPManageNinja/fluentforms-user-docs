@@ -13,7 +13,7 @@ This article will guide you through adding the **Phone/Mobile** field to Fluent 
 
 ## Adding Phone/Mobile Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Edit Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field/edit-form-01-scaled.webp)
 
@@ -25,17 +25,17 @@ Now, choose the desired **Phone/Mobile** field by **dragging** or **dropping** i
 
 ## Customizing the Phone/Mobile Field
 
-A Phone/Mobile field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+A Phone/Mobile field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Phone/Mobile Field Options
 
 - Advanced Options
 
-![Input Customization](/images/form-fields/general-fields/phonemobile-input-field/input-customization-03-scaled-2.webp)
+![Customize](/images/form-fields/general-fields/phonemobile-input-field/input-customization-03-scaled-2.webp)
 
 ### Phone/Mobile Field Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Phone/Mobile** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Phone/Mobile** field.
 
 **A. Element Label:** This is the field title users will see when filling out the **Phone/Mobile** field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -95,7 +95,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

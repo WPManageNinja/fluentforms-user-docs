@@ -19,13 +19,13 @@ To access the settings, go to **Forms** from the top Navbar, and **open** the **
 
 ## Enable Entry Restrictions
 
-Inside the form editor, click on the **Settings & Integrations** tab at the top menu bar. Stay in the **Settings** section and scroll down to find **Scheduling and Restrictions** option. The same panel also controls [form scheduling](/form-scheduling-feature).
+Inside the form editor, click the **Configuration** tab in the top bar. Then select **Scheduling & Restrictions** from the left rail. The same panel also controls [form scheduling](/form-scheduling-feature).
 
 ![Access Settings](/images/configuring-forms/form-settings/form-restrictions-feature/access-settings-01-scaled.webp)
 
 ## Configure Form Restrictions
 
-**Maximum Number of Entries:** Now enable the Maximum Number of Entries options. Then define the maximum number of entries allowed for that particular form by clicking the **Plus (+) Icon** or **Minus (-)** **Icon**.
+**Maximum Number of Entries:** Now enable the Maximum Number of Entries options. Then define the maximum number of entries allowed for that particular form by clicking the **Plus (+) Icon** or **Minus (-) Icon**.
 
 Now, define the time interval by clicking the **Total Entries** section adjacent to the dropdown menu. The restrictions will be effective according to the specified time interval. 
 
@@ -35,6 +35,6 @@ Here you can choose how frequently the entry limit applies. Options are included
 
 ![Form Restrictions Feature step](/images/configuring-forms/form-settings/form-restrictions-feature/02-7-scaled.webp)
 
-Once completed, all settings are **Save** **Settings** to apply changes. Otherwise, this will not work correctly.
+Once completed, click **Save** to apply your changes. Otherwise, this will not work correctly.
 
 These are all features of fluent form restrictions.

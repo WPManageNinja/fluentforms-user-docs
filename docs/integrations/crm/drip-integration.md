@@ -15,7 +15,7 @@ This article will guide you through integrating **Drip** with **Fluent Forms** o
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Drip** through the search bar, and get the **Drip integration module**.
 
-Now, turn on the **Toggle** to enable the **Drip** module and click the **Settings Icon** on the right.
+Now, turn on the **Toggle** to enable the **Drip** module and click **Manage** on the right.
 
 ![Enable Drip Integration](/images/integrations/crm/drip-integration/enable-drip-integration-01-scaled.webp)
 
@@ -45,11 +45,11 @@ Now, scroll down and you will find the **Account ID** here. Just **Copy** it for
 
 ## Connect Drip with Fluent Forms
 
-Then, return to the **Drip Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
+Then, return to the **Drip Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
 
 Now, paste the **Drip API Token** and **Drip Account ID** that was copied before.
 
-Press the **Save Settings** button to make your **Drip Integration** module functional.
+Press the **Save** button to make your **Drip Integration** module functional.
 
 ![Paste API And ID](/images/integrations/crm/drip-integration/paste-api-and-id-06-scaled.webp)
 
@@ -59,14 +59,14 @@ Here, you can see your **Drip API integration is up and running**. To disconnect
 
 ### Integrate Drip into Fluent Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Drip and click the **Settings** button. 
+First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Drip and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Setting Drip Integration](/images/integrations/crm/drip-integration/form-setting-07-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Drip Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Drip Integration** feed from the drawer. 
 
 ![Drip Integration](/images/integrations/crm/drip-integration/drip-inttegration-02.webp)
 
@@ -92,7 +92,7 @@ Also you can add multiple fields dynamically with click the **Plus Icon**.
 
 I. **Status:** Enable this feed option to activate the integration.
 
-Once the setup is done, finally, click the **Save Feed** button.
+Once the setup is done, finally, click the **Save** button.
 
 Now, your Drip will be integrated into this specific form!
 

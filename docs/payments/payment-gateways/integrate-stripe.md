@@ -13,9 +13,9 @@ This article will guide you through integrating **Stripe** into your **WordPress
 
 ## Enabling Stripe Payment Method
 
-Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Select **Stripe**, then click **Enable Stripe Payment Method** to activate Stripe globally for all forms.
+Turn on the toggle next to **Stripe** to enable it globally for all forms, then click **Manage** to open its settings.
 
 ![Enable Stripe Payment Method Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/1.-Enable-Stripe-Payment-method-scaled.webp)
 
@@ -27,7 +27,7 @@ Before starting the configuration, select any **Payment Mode** between **Test** 
 
 Then, click the **Connect with Stripe** button to redirect you to the **Stripe Login Page** to connect your **Stripe Account**.
 
-Do not forget to press the **Save Stripe Settings** button to save all your changes. 
+Do not forget to click the **Save** button to save all your changes. 
 
 ![Connect With Stripe](/images/payments/payment-gateways/integrate-stripe/2.-Connect-with-Stripe-scaled.webp)
 
@@ -56,13 +56,13 @@ After configuring Stripe, you can set up **IPN** (**Instant Payment Notification
 
 **IPN (Instant Payment Notification)** is a post-message notification sent by [Stripe](http://stripe.com) after a successful subscription or recurring payment. For Stripe to function completely for subscription/recurring payments, you must configure your Stripe webhooks.
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
 Now, go to **Stripe**, and scroll down to the **Stripe Webhook (Recommended for Recurring Payments)** option. 
 
 Then, copy the **Webhook URL** and the recommended **Webhook Events** for smooth transactions based on **Stripe** **Data** related to **Subscription/Recurring** payments. 
 
-Do not forget to press the **Save Stripe Settings** button to save all your changes. 
+Do not forget to click the **Save** button to save all your changes. 
 
 ![Add Stripe Webhook URL Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/4.-Add-stripe-webhook-URL-scaled.webp)
 
@@ -130,11 +130,11 @@ Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dro
 
 ![Embed Checkout Fluent Forms](/images/payments/payment-gateways/integrate-stripe/10.-Embed-checkout-scaled.webp)
 
-Once you complete the edit, press the **Save Form** button to save all the changes.
+Once you complete the edit, press the **Save** button to save all the changes.
 
 Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
 
-Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
+Also, to see the **Preview** of the form, click the **Preview** button in the middle.
 
 ![Save Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/11.-Save-form-scaled.webp)
 
@@ -145,7 +145,7 @@ The **Stripe Payment Element** replaces the standard card field of the inline St
 - Open your form in the **Editor** and go to the **Payment Method** field settings.
 - Check **Stripe**, click the **Dropdown Arrow**, and turn on **Embedded Checkout**.
 - Check **Enable Payment Element**.
-- Click **Save Form**.
+- Click **Save**.
 
 ![Stripe Payment Element](/images/payments/payment-gateways/integrate-stripe/enable-payment-element-5.webp)
 
@@ -189,13 +189,13 @@ When a visitor selects a wallet, the form shows the message **Another step will 
 
 You can also customize the **Stripe Settings** for a specific form according to your needs.
 
-To customize the **Stripe Settings**, go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of a desired **Form**. 
+To customize the **Stripe Settings**, click **Forms** in the **Fluent Forms Navbar**, then click the **Settings** (gear) icon of your desired form. 
 
 ![Open Settings Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/Open-Form-Settings-scaled.webp)
 
-Once you are on the **Settings and Integrations** tab, click the **Payment Settings** option, scroll down to **Stripe Settings**, and customize it based on your needs.
+Then click **Payment Settings** in the left sidebar, scroll down to **Stripe Settings**, and customize it based on your needs.
 
-Do not forget to click the **Save Settings** button to save all your changes. 
+Do not forget to click the **Save** button to save all your changes. 
 
 ![Specific Stripe Settings](/images/payments/payment-gateways/integrate-stripe/13.-Form-Specific-Stripe-Settings-scaled.webp)
 

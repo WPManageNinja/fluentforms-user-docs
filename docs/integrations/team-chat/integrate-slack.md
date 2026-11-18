@@ -17,14 +17,14 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Sla
 
 ## Integrating Slack with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Slack,** and click the **Settings** button.
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Slack,** and open the **Configuration** tab.
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Slack](/images/integrations/team-chat/integrate-slack/2.-Open-desired-Form-Settings-1-scaled.webp)
 
-Once you are on **Settings & Integrations**, go to **Slack** from the left menu, and turn on the **Integrate Slack Toggle**.
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Slack** from the drawer.
 
 Now, the settings options will appear to integrate Slack with Fluent Forms. These are:
 
@@ -36,7 +36,7 @@ Now, the settings options will appear to integrate Slack with Fluent Forms. Thes
 
 **D. Slack Footer message**: Here you can set the texts and information you want to add as a footer for your notification.
 
-Once the setup is done, click the **Save Feed** button, and your Slack will be integrated into this specific form!
+Once the setup is done, click the **Save** button, and your Slack will be integrated into this specific form!
 
 ![Save Feed Button Integrate Slack](/images/integrations/team-chat/integrate-slack/3.-Save-Feed-button-scaled.webp)
 

@@ -230,8 +230,8 @@ MCP lets an AI assistant manage your site. **AI Agents (WebMCP)** is different. 
 
 To turn it on:
 
-- Open your form and go to **Settings & Integrations → Settings**.
-- Find the **AI Agents (WebMCP)** card.
+- Open your form and go to **Configuration → Privacy & Data → AI Agents (WebMCP)**.
+- Find the **AI Agents (WebMCP)** settings.
 - Check **Expose this form to AI agents**. It is off by default.
 - Set the **Tool Name**. It defaults to the form title.
 - Add a **Tool Description** that says what the form does in one sentence.

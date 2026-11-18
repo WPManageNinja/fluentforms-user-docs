@@ -13,7 +13,7 @@ This guide will walk you through adding and customizing the **FluentBooking Fiel
 
 ## Adding FluentBooking Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -28,17 +28,17 @@ You can select the desired **FluentBooking Field** by clicking on it or drag and
 
 ## Customizing the FluentBooking Field
 
-Once you add the FluentBooking field, you can customize it by hovering over it and clicking the Pencil icon button. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the FluentBooking field, you can customize it by hovering over it and clicking the Pencil icon button. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - FluentBooking Field
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/fluentbooking-field/Input-Customization-03-33-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/fluentbooking-field/Input-Customization-03-33-scaled.webp)
 
 ### FluentBooking Field Option
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **FluentBooking** input field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **FluentBooking** input field.
 
 **A. Element Label:** This is the field title users will see when filling out the FluentBooking field in a form. You can enter any text here to help users understand the field's purpose.
 
@@ -70,11 +70,11 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into the Frontend
 
-Once you have customized the shortcode field, click the **Save Form** button to apply the changes.
+Once you have customized the shortcode field, click the **Save** button to apply the changes.
 
 To display the form on a specific page or post, copy the **Shortcode** from the top-right corner and paste it into your desired page or post.
 
-To preview the form, click **Preview & Design** in the middle of the page.
+To preview the form, click **Preview** in the middle of the page.
 
 ![Save FluentBooking Field in Fluent](/images/form-fields/advanced-fields/fluentbooking-field/Save-Form-06-28-scaled.webp)
 

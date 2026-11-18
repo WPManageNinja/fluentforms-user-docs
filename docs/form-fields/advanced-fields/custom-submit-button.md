@@ -29,17 +29,17 @@ Now, select the desired **Custom Submit Button Input** field by **clicking** or 
 
 ## Customizing the Custom Submit Button Field
 
-Once you add the Custom Submit Button field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
+Once you add the Custom Submit Button field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
 
 - Custom Submit Button Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/custom-submit-button/Input-customization-03-24-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/custom-submit-button/Input-customization-03-24-scaled.webp)
 
 ### Custom Submit Button Options
 
-Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Custom Submit Button** field.
+Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Custom Submit Button** field.
 
 **A. Submit Button**: Choose between **Default** or **Image** for the button. These two options are available in the Submit Button option. Users can keep this Button as a **Default** button or select the **Image** option with the **URL**.
 
@@ -75,7 +75,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific **Page** or **Post**, copy the **Shortcode** from the top right side and paste it into your desired **Page** or **Post**.
 

@@ -17,14 +17,14 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Dis
 
 ## Integrating Discord with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Discord,** and click the **Settings** button.
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Discord,** and open the **Configuration** tab.
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Discord](/images/integrations/team-chat/integrate-discord/2.-Open-desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Discord Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Discord Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate Discord](/images/integrations/team-chat/integrate-discord/3.-Add-new-integration-button-scaled.webp)
 
@@ -44,7 +44,7 @@ Now, a pop-up page will appear with various settings options for configuring Dis
 
 7. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
-Once the setup is done, click the **Save Feed** button, and your Discord will be integrated into this specific form!
+Once the setup is done, click the **Save** button, and your Discord will be integrated into this specific form!
 
 ![Save Feed Button Integrate Discord](/images/integrations/team-chat/integrate-discord/4.-Save-Feed-button-scaled.webp)
 

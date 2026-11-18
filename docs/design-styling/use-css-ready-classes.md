@@ -10,9 +10,9 @@ This article will guide you on how you can use CSS ready classes in Fluent Forms
 
 ## Add CSS Classes
 
-First, edit your form in the Form Builder and select the field where you want to add the classes.
+First, edit your form in the Form Builder and click the field where you want to add the classes.
 
-Now, From the **Advanced Options** tab, you’ll see an input called **Container Class**. Add the **Ready Class** name or names you want to add to the field and click the **Save Form** button.
+Now, open the **Customize** tab in the right panel and expand **Advanced Options**. You’ll see an input called **Container Class**. Add the **Ready Class** name or names you want to add to the field and click **Save**.
 
 >[!Note]
 > This feature does not update live in the form builder.

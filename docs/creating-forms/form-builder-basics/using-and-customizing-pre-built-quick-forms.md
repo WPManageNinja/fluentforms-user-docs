@@ -8,15 +8,15 @@ description: "Fluent Forms offers a wide range of Pre-built Form Templates to he
 
 ## Creating Forms using Pre-built Templates
 
-First, log in to your **WordPress Dashboard**. Now, navigate to the **Fluent Forms** > **Forms** from the left sidebar. Then click on the **+ Add New Form** button in the Forms Section.  
+First, log in to your **WordPress Dashboard**. Now, navigate to the **Fluent Forms** > **Forms** from the left sidebar. Then click the **Add Form** button at the top right of the **Forms** screen.
 
 ![Add new form](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms/1.-Add-new-form-button-1-scaled.webp)
 
-Now, a pop-up will appear with three options. Click the **Choose Template** tab.
+The **Create A New Form** window opens. Click **Choose a Template**.
 
 ![Choose template tab](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms/Choose-a-template-pre-built.webp)
 
-A new popup, **Predefined Form Templates**, also appears here. Now, you can choose a pre-made form template as per your wish to get started quickly. If you would rather build from scratch instead, see [How to Create a Form with Fluent Forms](/create-a-form). These templates are categorized into different categories. 
+The **Choose a Template** screen opens. You can pick a pre-made form template to get started quickly. If you would rather build from scratch instead, see [How to Create a Form with Fluent Forms](/create-a-form). These templates are categorized into different categories. 
 
 - Basic
 
@@ -40,7 +40,7 @@ A new popup, **Predefined Form Templates**, also appears here. Now, you can choo
 
 - Healthcare
 
-Browse through categories or search for the desired one by entering its name in the **Search Bar**. Then, click on the form you need to use.
+Browse the category buttons at the top, or search for a template by entering its name in the **Search a form template** box. Then, click the template you want to use. Fluent Forms creates the form and opens it in the editor.
 
 ![Form templates](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms/pre-built-Form-Template.webp)
 
@@ -48,17 +48,17 @@ Browse through categories or search for the desired one by entering its name in 
 
 Fluent Forms offers various options for customizing the fields you plan to use. If necessary, customize the field. 
 
-To customize an added field, **hover over it** and click the **Pencil**/**Edit** **Icon**, and it will take you to the **Input Customization** tab on the right sidebar which offers the options for customization.
+To customize a field, **hover over it** and click the **Pencil Icon** in the field toolbar. The **Customize** tab opens on the right with the customization options for that field.
 
 ![Template editor](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms/Editor-Fluentform-6-scaled.webp)
 
 ## Embedding Form into Frontend
 
-After customization, click the **Save Form** button in the top right corner to save all the changes.
+After customization, click the **Save** button in the top right corner (or press **Cmd/Ctrl + S**) to save all the changes.
 
-Also, click the **Preview & Design** button in the middle if you want to see the preview of your form.
+Click the **Preview** (eye) icon if you want to see the preview of your form.
 
-Then, copy the **Form** **ShortCode** from the top bar to display it on the front end. 
+Then, click the copy icon next to the form shortcode in the top bar to copy it and display the form on the front end.
 
 ![Save form](/images/creating-forms/form-builder-basics/using-and-customizing-pre-built-quick-forms/Save-form-button-scaled.webp)
 

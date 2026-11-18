@@ -15,7 +15,7 @@ This article will guide you through the whole process of adding the **Repeat Con
 
 ## Add Repeat Container Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor. 
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor. 
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -35,17 +35,17 @@ Now, choose the desired **Repeat Container** by clicking on it or **Drag & Drop*
 
 You can see that a **Repeat Container** field is added to the form. You can edit/customize this field by **hovering** **over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side with options for customizing the **Repeat Container** field. 
+It will take you to the **Customize** tab on the right side with options for customizing the **Repeat Container** field. 
 
 1. Repeat Container
 
 2. Advanced Options
 
-![Input Customization](/images/form-fields/container-fields/add-repeat-container-field/input-customization-3-scaled.webp)
+![Customize](/images/form-fields/container-fields/add-repeat-container-field/input-customization-3-scaled.webp)
 
 ### 1. Repeat Container
 
-Configure labels, columns, and width from the **Input Customization** tab:
+Configure labels, columns, and width from the **Customize** tab:
 
 **A. Element Label**: This is the field title that the users will see when filling out the **Repeat Container** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -77,13 +77,13 @@ Advanced settings allow further customization to meet specific use cases.
 
 Now, click the **Plus Icon** to add three different fields horizontally inside three columns. Plus, you can adjust the position of the fields by dragging them. 
 
-You can also customize the fields you added inside the columns by **hovering** over them and clicking the Pencil Icon. It will take you to the Input Customization tab for the selected field and provide options for customization.
+You can also customize the fields you added inside the columns by **hovering** over them and clicking the Pencil Icon. It will take you to the Customize tab for the selected field and provide options for customization.
 
 ![Container Field](/images/form-fields/container-fields/add-repeat-container-field/container-field-6-scaled.webp)
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all the changes you made. Also, to see the form preview, click the **Preview & Design button in** the middle.
+Once you complete the customization, click the **Save** button to save all the changes you made. Also, to see the form preview, click the **Preview button in** the middle.
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 

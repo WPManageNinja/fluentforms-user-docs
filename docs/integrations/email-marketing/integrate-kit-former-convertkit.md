@@ -19,7 +19,7 @@ This article will guide you through integrating **Kit (Former ConvertKit)** with
 
 Go to **Integrations** from the **Fluent Forms Navbar**, search for **ConvertKit** through the search bar, and get the **ConvertKit** integration module.
 
-Now, turn on the **Toggle** to enable the **ConvertKit**. Then, you will see the ConvertKit’s **Settings Icon** on the right side, click on it.
+Now, turn on the **Toggle** to enable the **ConvertKit**. Then, you will see the ConvertKit’s **Manage** button on the right side, click on it.
 
 ![Enabled Convertkit Fluent Forms](/images/integrations/email-marketing/integrate-kit-former-convertkit/1.-Enabled-ConvertKit-scaled.webp)
 
@@ -39,11 +39,11 @@ Now, open the **Developer** tab and you will get your desired **API Key** and **
 
 ## Connect ConvertKit with Fluent Forms
 
-Then, return to the **ConvertKit Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Then, return to the **ConvertKit Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API Key** and **API Secret** you copied from **ConvertKit** into the **ConvertKit API Key** and **ConvertKit API Secret** fields respectively.
 
-Finally, press the **Save Settings** button to make your **ConvertKit Integration** module functional.
+Finally, press the **Save** button to make your **ConvertKit Integration** module functional.
 
 ![Paste API Keys](/images/integrations/email-marketing/integrate-kit-former-convertkit/5.-Paste-the-API-Keys-scaled.webp)
 
@@ -55,14 +55,14 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate ConvertKit into Fluent Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ConvertKit** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ConvertKit** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Kit (Former ConvertKit)](/images/integrations/email-marketing/integrate-kit-former-convertkit/Open-Desired-Form-Settings-3-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **ConvertKit Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **ConvertKit Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate Kit (Former ConvertKit)](/images/integrations/email-marketing/integrate-kit-former-convertkit/7.-Add-New-Integration-button-scaled.webp)
 
@@ -85,7 +85,7 @@ Once you select the form, a pop-up page will appear with various settings option
 
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button.
+Once the setup is done, finally, click the **Save** button.
 And, your ConvertKit will be integrated into this specific form!
 
 ![Save Feed Button Integrate Kit (Former ConvertKit)](/images/integrations/email-marketing/integrate-kit-former-convertkit/9.-Save-Feed-button-scaled.webp)

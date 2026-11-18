@@ -15,7 +15,7 @@ Go to **Forms** from the top navbar, and click the **Edit** button to open the *
 >[!Note]
 >If you do not have any existing forms, read  [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) documentation to create a new one.
 
-Now click **Advanced Options** from the **Input Customization** options. Scroll down and enable the **Validate as Unique** option. This field also works for the[ Simple Text Input Field](/adding-a-simple-text-input-field).
+Now click the field, open the **Customize** tab, and expand **Advanced Options**. Scroll down and enable the **Validate as Unique** option. This field also works for the[ Simple Text Input Field](/adding-a-simple-text-input-field).
 
 ![Unique Validation Fluent Forms](/images/configuring-forms/conditional-logic/unique-field-validation/unique-validation-form-scaled.webp)
 
@@ -23,6 +23,6 @@ Now click **Advanced Options** from the **Input Customization** options. Scroll 
 
 You can set a custom [error message](/error-message-customization) for duplicate entries. When a user enters duplicate data in the unique field, the error message will display, informing them to provide unique input.
 
-Once the validation message is entered, click the **Save Form** button.
+Once the validation message is entered, click **Save**.
 
 With this Unique Field Validation feature, you can easily maintain the honesty of your form submissions and prevent duplicate entries.

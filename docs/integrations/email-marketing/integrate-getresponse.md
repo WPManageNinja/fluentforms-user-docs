@@ -19,7 +19,7 @@ This article will guide you through integrating **GetResponse** with **Fluent Fo
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **GetResponse** through the search bar, and get the **GetResponse** integration module.
 
-Now, turn on the **Toggle** to enable the **GetResponse**. Then, you will see the GetResponse’s **Settings Icon** on the right side, click on it.
+Now, turn on the **Toggle** to enable the **GetResponse**. Then, you will see the GetResponse’s **Manage** button on the right side, click on it.
 
 ![Enabled Getresponse Fluent Forms](/images/integrations/email-marketing/integrate-getresponse/1.-Enabled-GetResponse-scaled.webp)
 
@@ -50,11 +50,11 @@ Finally, your GetResponse API key is generated, copy it by clicking the **Copy**
 
 ## Connect GetResponse with Fluent Forms
 
-Then, return to the **GetResponse API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Then, return to the **GetResponse API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API Key** you copied from **GetResponse** into the **GetResponse API Key** field.
 
-Finally, click the **Save Settings** button to make your **GetResponse Integration** module functional.
+Finally, click the **Save** button to make your **GetResponse Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-getresponse/7.-Paste-API-Key-scaled.webp)
 
@@ -66,14 +66,14 @@ You can disconnect it anytime by clicking the **Disconnect GetResponse** button 
 
 ## Integrate GetResponse into Fluent Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **GetResponse** and click the **Settings** button. 
+First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your **GetResponse** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate GetResponse](/images/integrations/email-marketing/integrate-getresponse/Open-Desired-Form-Settings-4-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **GetResponse Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **GetResponse Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate GetResponse](/images/integrations/email-marketing/integrate-getresponse/10.-Add-New-Integration-button-scaled.webp)
 
@@ -97,7 +97,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button.
+Once the setup is done, finally, click the **Save** button.
 And, your GetResponse will be integrated into this specific form!
 
 ![Save Feed Button Integrate GetResponse](/images/integrations/email-marketing/integrate-getresponse/12.-Save-Feed-button-scaled.webp)

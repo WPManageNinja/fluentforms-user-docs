@@ -13,7 +13,7 @@ This guide will walk you through adding and customizing the **Save & Resume** fi
 
 ## Adding a Save Progress Button Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -28,17 +28,17 @@ Now, select the **Save & Resume** Input field by clicking or dragging it and dro
 
 ## Customizing the Save & Resume Input Field
 
-Once you add the **Save & Resume** Input field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
+Once you add the **Save & Resume** Input field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
 
 - Save & Resume Field Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/save-progress-button/Input-Customization-03-30-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/save-progress-button/Input-Customization-03-30-scaled.webp)
 
 ### Save & Resume Options
 
-Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Save & Resume** Input field.
+Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Save & Resume** Input field.
 
 **A. Button Text:** You can choose your button text **Default** or **Image**. Users can customize button text using this field if you keep button text by default. Whichever text is used for this field will be shown as the button text.
 
@@ -97,7 +97,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific Page or Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

@@ -19,14 +19,14 @@ First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Zap
 
 ## Integrating Zapier with Forms
 
-Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Zapier,** and click the **Settings** button.  
+Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Zapier,** and open the **Configuration** tab.  
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Zapier](/images/integrations/automation/integrate-zapier/2.-Open-desired-Form-Settings-scaled-2.webp)
 
-Once you are on **Settings & Integrations**, go to **Zapier** from the left menu, and click the **+ Add Webhook** button.
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Zapier** from the drawer.
 
 ![Add Webhook Button Integrate Zapier](/images/integrations/automation/integrate-zapier/3.-Add-Webhook-button-scaled.webp)
 
@@ -37,7 +37,7 @@ Now, a pop-up page will appear with various settings options for configuring the
 - **Webhook URL:** Here, provide the Zapier Webhook URL where you want to send the Fluent Forms submission data. Read the [Getting the Webhook URL from Zapier](#getting-the-webhook-url-from-zapier) section below to learn how to get it. To send data to a custom endpoint instead, see [How to Integrate Webhook with Fluent Forms](/integrate-webhook).
 - **Conditional Logics:** This option allows Webhook integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 
-Once the setup is done, click the **Save Feed** button, and your Zapier will be integrated into this specific form!
+Once the setup is done, click the **Save** button, and your Zapier will be integrated into this specific form!
 
 ![Zapier Integration Feed Page](/images/integrations/automation/integrate-zapier/4.-Zapier-Integration-feed-page-scaled.webp)
 
@@ -73,10 +73,10 @@ You can also test the trigger by clicking the **Test Trigger** button.
 
 ![Copy Webhook URL](/images/integrations/automation/integrate-zapier/10.-copy-Webhook-URL.webp)
 
-Now, return to the **Zapier Integration** under the **Settings & Integrations** tab of the desired Form.
+Now, return to the **Zapier** feed in the form's **Configuration** → **Integrations & Add-ons** → **Integrations** page.
 Paste the **Webhook URL** you copied from **Zapier** into the **Webhook URL** field.
 
-Finally, press the **Save Feed** button to make your **Zapier Integration** module functional.
+Finally, press the **Save** button to make your **Zapier Integration** module functional.
 You can also test the integration by clicking the **Send Data Sample** button.
 
 ![Paste Webhook URL](/images/integrations/automation/integrate-zapier/11.-Paste-Webhook-URL-scaled.webp)

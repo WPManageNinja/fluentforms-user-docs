@@ -28,17 +28,19 @@ These fields will define the structure and interactivity of your survey or poll.
 
 ## Configuring Survey Settings
 
-Go to **Settings & Integration** from the top navbar. From the **Settings** section, scroll down to find the **Survey Result** options. 
+Click **Configuration** in the top bar of your form, open **Privacy & Data** from the left menu, and select **Survey Analytics**. 
 
 ![Add new form](/images/creating-forms/specialized-form-types/surveys-and-polls/02-1-scaled.webp)
 
-**Append:** Now enable the Append to append survey results to the confirmation message. 
+Turn on **Show Survey Results after Submission** to let respondents see the aggregated results after they submit the form.
 
-- **Append Results:** Appends the survey results to the confirmation message after submission.
+Under **Result Display Options**, choose what to show:
 
-- **Show Labels and Counts:** Displays form labels and response counts when showing survey results.
+- **Show labels:** Displays each option's text label alongside its result.
 
-If you want to display form labels and counts when displaying the survey results, turn on the **Show Label** & **Show Counts** option. Then click the **Save Settings** button.
+- **Show counts:** Displays how many respondents selected each option.
+
+Then click the **Save** button.
 
 ![Survey form fields](/images/creating-forms/specialized-form-types/surveys-and-polls/03-1-scaled-2.webp)
 

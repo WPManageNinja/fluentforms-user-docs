@@ -8,7 +8,7 @@ The **Payments** feature provides a comprehensive dashboard to track and analyze
 
 ## Accessing the Payment Reports
 
-Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** in the top menu bar. When you open the Reports screen, you'll automatically be on the **Overview** tab. For a tour of the full analytics area, see the [Reports Dashboard Overview](/reports-dashboard-overview). Now, select the **Payment** option, and you will see all the payment-related reports.
+Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** in the top menu bar. When you open the Reports screen, you'll automatically be on the **Overview** tab. For a tour of the full analytics area, see the [Reports Dashboard Overview](/reports-dashboard-overview). Now, select the **Payments** tab, and you will see all the payment-related reports.
 
 ### Filtering Payment Data
 
@@ -46,19 +46,19 @@ The dashboard includes several sections to help you visualize and understand you
 
 ![Subscription And Transaction](/images/payments/payment-reports/payment-reports/subscription-and-transaction-03-scaled.webp)
 
-**Payment Analysis by Forms:** This table breaks down your revenue by individual form. Review the columns to see the **Paid**, **Pending**, **Refunded**, and **Net Revenue** amounts for each form, helping you identify your most profitable ones.
+**Net Revenue Analysis (Forms):** This table breaks down your revenue by individual form. Review the columns to see the **Paid**, **Pending**, **Refunded**, and **Net Revenue** amounts for each form, helping you identify your most profitable ones.
 
 Use the dropdown in the top-right corner to analyze payments by **Payment Method** and **Payment Type**.
 
 ![Payment Analysis By](/images/payments/payment-reports/payment-reports/payment-analysis-by-form-04-scaled.webp)
 
-**Payment Analysis by Payment Method:** Use this table to understand which payment gateways your customers are using. It breaks down all financial data by the specific **Payment Method**, such as **PayPal** or **Offline/Test**. 
+**Net Revenue Analysis (Payment Method):** Use this table to understand which payment gateways your customers are using. It breaks down all financial data by the specific **Payment Method**, such as **PayPal** or **Offline/Test**. 
 
 This allows you to analyze the **Paid**, **Pending**, and **Net Revenue** figures for each payment processor you have enabled. The **Count** column shows the number of transactions processed by each method.
 
 ![Payment Method](/images/payments/payment-reports/payment-reports/payment-method-05-scaled.webp)
 
-**Payment Analysis by Payment Type:** This table categorizes your transaction data based on the payment model. You will see a summary of metrics for different types, such as **One-time Payment**. 
+**Net Revenue Analysis (Payment Type):** This table categorizes your transaction data based on the payment model. You will see a summary of metrics for different types, such as **One-time Payment**. 
 
 The columns show the total **Paid**, **Pending**, **Refunded**, and **Net Revenue** amounts, along with a **Count** of total transactions for that type.
 

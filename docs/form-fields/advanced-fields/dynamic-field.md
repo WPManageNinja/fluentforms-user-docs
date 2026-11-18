@@ -19,7 +19,7 @@ This guide will teach you how to set up and customize Dynamic Fields to make you
 
 ### Adding a Dynamic Input Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -34,7 +34,7 @@ Now, select the **Dynamic Input** field by clicking or dragging it and dropping 
 
 ## Customizing the Dynamic Field
 
-Once you add the **Dynamic Input** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
+Once you add the **Dynamic Input** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
 
 - Dynamic Field Options
 
@@ -44,7 +44,7 @@ Once you add the **Dynamic Input** field, you can customize it by hovering over 
 
 ### Dynamic Field Options
 
-Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Dynamic Input** field.
+Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Dynamic Input** field.
 
 All the settings under the **Dynamic Input Field** mentioned above are briefly explained below-
 
@@ -143,7 +143,7 @@ You can add the default value by clicking the **Three-Dot** option on the right 
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 

@@ -10,7 +10,7 @@ This article will guide you in creating a successful Personality Quiz Form with 
 
 ## Enabling the Quiz Module
 
-First, go to **Integrations** from the Fluent Forms Navbar, search for **[Quiz Module](/quiz-module)** through the search bar, and get the **Quiz Module**.
+First, click **Integrations** in the Fluent Forms top bar and search for the **[Quiz Module](/quiz-module)**.
 
 Now, turn on the **Toggle** to enable the **Quiz** module.
 
@@ -18,19 +18,19 @@ Now, turn on the **Toggle** to enable the **Quiz** module.
 
 ## Create Your Quiz Questions
 
-**Now,** use the [Radio Field](/radio-field) to craft your quiz questions. For each question, provide multiple answer options. Then, customize each question and its options by clicking on **Input Customization**.
+**Now,** use the [Radio Field](/radio-field) to craft your quiz questions. For each question, provide multiple answer options. Then, customize each question and its options in the **Customize** tab.
 
 ![Quiz question field](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/question-02-scaled.webp)
 
 ### Add a Quiz Score Field
 
-Add the **Quiz Score Field** from the **Advanced Fields** section to enable result calculation.
+Add the **Quiz Score** field to enable result calculation. Search for it in the **Input Fields** tab or find it under **Advanced Fields**.
 
 ![Quiz score field](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/quiz-score-field-03-scaled.webp)
 
 ## Configure Personality Quiz Settings
 
-Once the quiz score field is added, open the **input customization** of the quiz score field. Now, set the **Score Type** to **Personality Quiz**.
+Once the quiz score field is added, open the **Customize** tab of the quiz score field. Now, set the **Score Type** to **Personality Quiz**.
 
 ![Quiz answer options](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/unnamed-1-3.webp)
 
@@ -48,9 +48,9 @@ This mapping helps Fluent Forms calculate which personality type best fits the u
 
 ### Configure Quiz Settings
 
-Now, configure the **Quiz Settings.** Go to your form's **Settings and Integration** tab. Then, click **Quiz Settings** to access quiz options. After that, enable the quiz by checking the **Enable Quiz** **Module** checkbox.
+Now, configure the **Quiz Settings.** Click **Configuration** in the top bar of your form, then select **Quiz Settings** from the left menu to access the quiz options.
 
-Using the **Radio Field**, ensure all your questions are included and correctly configured. Then, click **Save Settings** button to confirm your configuration.
+Using the **Radio Field**, ensure all your questions are included and correctly configured. Then, click the **Save** button to confirm your configuration.
 
 ![Quiz settings](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/quiz-setting-enable-05-scaled.webp)
 

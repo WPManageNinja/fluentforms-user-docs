@@ -44,9 +44,9 @@ Finally, copy the generated **API Key.**
 
 ## Connect Campaign Monitor with Fluent Forms
 
-Now, return to the **Campaign Monitor Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Now, return to the **Campaign Monitor Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
-Then, paste the **API Key** you copied from **Campaign Monitor** into the **Campaign Monitor** **API Key**, and press the **Save Settings** button.
+Then, paste the **API Key** you copied from **Campaign Monitor** into the **Campaign Monitor** **API Key**, and press the **Save** button.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-campaign-monitor/7.-Paste-API-Key-1-scaled-2.webp)
 
@@ -54,7 +54,7 @@ Once you provide the API key, the Client ID for Campaign Monitor will automatica
 
 Now, open the dropdown list by clicking the **Arrow Icon** and select your Campaign Monitor Client ID.
 
-Finally, press the **Save Settings** button again to save your all changes.
+Finally, press the **Save** button again to save your all changes.
 
 ![Campaign Monitor Client](/images/integrations/email-marketing/integrate-campaign-monitor/8.-Campaign-Monitor-Client-scaled.webp)
 
@@ -66,14 +66,14 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate Campaign Monitor in Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Campaign Monitor,** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Campaign Monitor,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Campaign Monitor](/images/integrations/email-marketing/integrate-campaign-monitor/10.-Open-desired-form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Campaign Monitor Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Campaign Monitor Integration** feed from the drawer. 
 
 ![Add Integration Dropdown Integrate Campaign Monitor](/images/integrations/email-marketing/integrate-campaign-monitor/11.-Add-new-integration-dropdown-scaled.webp)
 
@@ -97,7 +97,7 @@ Now, a page will appear with various settings options for configuring the Campai
 
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button. And, your Campaign Monitor will be integrated into this specific form!
+Once the setup is done, finally, click the **Save** button. And, your Campaign Monitor will be integrated into this specific form!
 
 ![Save Feed Button Integrate Campaign Monitor](/images/integrations/email-marketing/integrate-campaign-monitor/13.-Save-Feed-button-scaled-2.webp)
 

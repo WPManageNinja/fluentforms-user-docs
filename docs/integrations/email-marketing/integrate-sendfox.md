@@ -13,7 +13,7 @@ Integrating SendFox with **Fluent Forms** allows you to build your SendFox email
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **SendFox** through the search bar, and get the **SendFox** integration module. 
 
-Now, turn on the **Toggle** to enable the **SendFox**. Then, you will see the SendFox’s **Settings Icon** on the right side, click on it.
+Now, turn on the **Toggle** to enable the **SendFox**. Then, you will see the SendFox’s **Manage** button on the right side, click on it.
 
 ![Enable Sendfox Integrate SendFox](/images/integrations/email-marketing/integrate-sendfox/1.-Enable-Sendfox-scaled.webp)
 
@@ -43,10 +43,10 @@ Finally, a popup will appear with your API key. Copy it.
 
 ## Connect SendFox with Fluent Forms
 
-Then, return to the **SendFox API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Then, return to the **SendFox API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API Key** you copied from **SendFox** into the **SendFox API Key** field.
-Finally, press the **Save Settings** button to make your **SendFox Integration** module functional.
+Finally, press the **Save** button to make your **SendFox Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-sendfox/7.-Paste-API-Key-scaled-3.webp)
 
@@ -58,14 +58,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate SendFox into Fluent Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **SendFox** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **SendFox** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate SendFox](/images/integrations/email-marketing/integrate-sendfox/9.-Open-desired-form-settings-2-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **SendFox Integration** from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **SendFox Integration** from the drawer. 
 
 ![Add Integration Dropdown Integrate SendFox](/images/integrations/email-marketing/integrate-sendfox/10.-Add-new-integration-dropdown--scaled.webp)
 
@@ -86,7 +86,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button. And, your SendFox will be integrated into this specific form!
+Once the setup is done, finally, click the **Save** button. And, your SendFox will be integrated into this specific form!
 
 ![Save Feed Button Integrate SendFox](/images/integrations/email-marketing/integrate-sendfox/12.-Save-Feed-button-scaled-2.webp)
 

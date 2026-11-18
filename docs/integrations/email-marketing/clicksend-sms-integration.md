@@ -34,19 +34,19 @@ Copy the **Sender** **Number**, **Username**, **and API Key**.
 
 ## Connect ClickSend with Fluent Forms
 
-Now, return to the **ClickSend Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Now, return to the **ClickSend Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Then, paste the **Sender** **Number**, **Username**, **and API Key** you copied from **ClickSend** into the **Sender** **Number**, **Username**, **and API Key** fields respectively.
 
-Finally, press the **Save Settings** button to save all your changes.
+Finally, press the **Save** button to save all your changes.
 
 ![Global Settings E2 B9 Test E2 Wordpress](/images/integrations/email-marketing/clicksend-sms-integration/Global-Settings-_E2_80_B9-Fluent-Forms-Test-_E2_80_94-WordPress-1-1-3.png)
 
 ## Integrate ClickSend Feed in Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ClickSend** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ClickSend** and open the **Configuration** tab. 
 
-Then, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **ClickSend** SMS Notification feed from the dropdown list. 
+Then, go to **Configuration** → **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **ClickSend** SMS Notification feed from the drawer. 
 
 ![Integrations Fluent Forms](/images/integrations/email-marketing/clicksend-sms-integration/Form-Integrations-Fluent-Forms-2.png)
 

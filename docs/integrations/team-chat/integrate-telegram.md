@@ -13,7 +13,7 @@ description: "Fluent Forms allows you to integrate with Telegram to send desired
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Telegram** through the search bar, and get the **Telegram** integration module.
 
-Now, turn on the **Toggle** to enable **Telegram**, and click the **Settings Icon** on the right side. 
+Now, turn on the **Toggle** to enable **Telegram**, and click **Manage** on the right side. 
 
 ![Enabled Telegram Module](/images/integrations/team-chat/integrate-telegram/1.-Enabled-Telegram-module-scaled.webp)
 
@@ -58,13 +58,13 @@ After adding the **GetIDs Bot as a member**, you will receive a message to the g
 
 ## Connecting Telegram with Fluent Forms
 
-Return to the **Telegram Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **Telegram Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **Bot Token** and **Chat ID** you copied from **Telegram** into the **Bot Token** and **Default Channel/Group Chat ID** fields, respectively.
 
 Plus, to check whether integration is successful, enter any text in the **Test Message (optional)** field.
 
-Finally, press the **Save Settings** button, and your **Telegram Integration** module will be enabled.
+Finally, press the **Save** button, and your **Telegram Integration** module will be enabled.
 
 ![Paste Bot Token And Chat ID](/images/integrations/team-chat/integrate-telegram/8.-Paste-Bot-Token-and-Chat-ID-scaled.webp)
 
@@ -80,14 +80,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrating Telegram with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Telegram,** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Telegram,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Telegram](/images/integrations/team-chat/integrate-telegram/11.-Open-desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Telegram Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Telegram Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate Telegram](/images/integrations/team-chat/integrate-telegram/12.-Add-new-integration-button-scaled.webp)
 
@@ -103,7 +103,7 @@ Now, a pop-up page will appear with various settings options for configuring Tel
 
 5. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
-Once the setup is done, click the **Save Feed** button, and your Telegram will be integrated into this specific form!
+Once the setup is done, click the **Save** button, and your Telegram will be integrated into this specific form!
 
 ![Save Feed Button Integrate Telegram](/images/integrations/team-chat/integrate-telegram/13.-Save-Feed-button-scaled.webp)
 

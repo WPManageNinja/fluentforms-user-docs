@@ -17,7 +17,7 @@ Integrating **MooSend** with **Fluent Forms** allows you to collect customer inf
 
 Go to **Integrations** from the **Fluent Forms Navbar**, search for **MooSend** in the search bar, and open the **MooSend** integration module.
 
-Turn on the **Toggle** to enable **MooSend**, then click the **Settings Icon** on the right to open its configuration.
+Turn on the **Toggle** to enable **MooSend**, then click **Manage** on the right to open its configuration.
 
 ![Enabled Moosend Fluent Forms](/images/integrations/email-marketing/integrate-moosend/1.-Enabled-Moosend-scaled.webp)
 
@@ -41,10 +41,10 @@ Simply, copy the **API Key** by clicking the **Copy** button. Or, to generate a 
 
 ## Connect MooSend with Fluent Forms
 
-Then, return to the **MooSend API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Then, return to the **MooSend API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API Key** you copied from **MooSend** into the **MooSend API Key** field.
-Finally, press the **Save Settings** button to make your **MooSend Integration** module functional.
+Finally, press the **Save** button to make your **MooSend Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-moosend/5.-Paste-ApI-Key-scaled.webp)
 
@@ -56,14 +56,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrate MooSend in Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **MooSend** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **MooSend** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate MooSend](/images/integrations/email-marketing/integrate-moosend/Open-Desired-Form-Settings-1-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **MooSend Integration** from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **MooSend Integration** from the drawer. 
 
 ![Add Integration Button Integrate MooSend](/images/integrations/email-marketing/integrate-moosend/7.-Add-new-Integration-button-scaled.webp)
 
@@ -86,7 +86,7 @@ Once you select the integration, a page will appear with various settings option
 5. **Conditional Logics:** This option allows MooSend integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 6. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button. And, your MooSend will be integrated into this specific form!
+Once the setup is done, finally, click the **Save** button. And, your MooSend will be integrated into this specific form!
 
 ![Save Feed Button Integrate MooSend](/images/integrations/email-marketing/integrate-moosend/9.-Save-Feed-button-scaled-2.webp)
 

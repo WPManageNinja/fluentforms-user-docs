@@ -19,15 +19,15 @@ For example, I chose an existing form to show the whole process.
 
 Once you open the **Editor** page, choose the desired **Input Field** that you want to **hide/display** based on the set condition/s. **For example**, I selected the [Payment Method](/add-payment-method-field-in-payment-forms) field to show you the process.
 
-Now, hover over the chosen field, click the **Pencil/Edit** Icon, and you’ll be taken to the **Input** **Customization** tab on the left side.
+Now, hover over the chosen field, click the **Pencil/Edit** icon, and the **Customize** tab opens in the right panel.
 
-Then, open the **Advanced Options** by clicking the **Arrow Icon**, scroll down to **Conditional Logic**, and select the **Yes** button.
+Then, open the **Advanced Options** by clicking the **Arrow Icon**, scroll down to **Conditional Logic**, and select **Yes**.
 
 ![Input Customization Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/2.-Input-Customization-scaled.webp)
 
 ## Conditional Match
 
-Once you enable the **Conditional Logic** option, a **Conditional Match** option will appear with Three major conditionals. These are:
+Once you enable the **Conditional Logic** option, a **Condition Match** option will appear with three major conditionals. These are:
 
 **A. Any**: If you choose this option, the form user must meet at least one of the set conditions during form submission to trigger the specified actions. 
 
@@ -37,13 +37,13 @@ Once you enable the **Conditional Logic** option, a **Conditional Match** option
 
 ## Fields to set Conditions
 
-Once you select the **Conditional Match**, you can specify the **Parameter**, its **Operator**, and the corresponding **Value** to set condition/s.
+Once you select the **Condition Match**, you can specify the **Parameter**, its **Operator**, and the corresponding **Value** to set condition/s.
 
 In the “**Parameter**” field (first field), select an **input field** that needs to correspond with the value provided in the “**Value**” field (last field) and set an option in the “**Operator**” field (middle field). The parameter will trigger the action if the condition is met.  
 
 To add as many conditions as you need, click the **Plus Icon,** and to delete any conditions, click the **Minus (-) Icon** in the right corner. 
 
-Once you complete it, click the **Save Form** button to make the condition/s functional. To see the preview, click the **Preview & Design** button. 
+Once you complete it, click **Save** in the top bar to make the condition/s functional. To see the preview, click the **Preview** (eye) icon. 
 
 ![Conditional Match Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/3.-Conditional-Match-scaled.webp)
 

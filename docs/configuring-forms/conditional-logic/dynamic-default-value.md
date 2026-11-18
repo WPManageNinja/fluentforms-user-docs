@@ -19,7 +19,7 @@ First, go to **Forms** from the top navbar, click the Edit button to **open** th
 
 ## Choose a Dynamic Value (Shortcode)
 
-Now **Select** the input field, and navigate to **Advanced Options**. Then, click the **three-dot** menu from the right sidebar under the **Default Value** options. Here, you will see all the default advanced options in fluent form.
+Now **Select** the input field, and navigate to **Advanced Options**. Then, click the **three-dot** menu next to **Dynamic Default Value** (**Default Value** on some fields) in the right panel. Here, you will see all the default advanced options in fluent form.
 
  * **Populate by GET Param:** Sets the default value from the query string found in the URL. Make sure you keep the ‘get.’ part; otherwise, it won’t work as expected. The shortcode is – `{get.input_text}` For a full walkthrough, see [Set Default Form Value from URL Parameters](/set-default-form-value-from-url-parameters).
 

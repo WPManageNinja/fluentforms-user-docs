@@ -16,11 +16,11 @@ Honeypot is a clever cybersecurity strategy that acts like a digital decoy, desi
 
 Basically, it prevents spam bots by incorporating a hidden field into your contact form. This field is invisible to genuine users, but bots lacking intelligence will still fill it out. By doing so, the honeypot can identify these bots and block their submissions.
 
-Go to **Global Settings** from the fluent forms navbar, open the **General** tab from the left sidebar, and click the **Miscellaneous** option.
+Click the **Settings** (gear) icon in the Fluent Forms navbar to open **Global Settings**, expand **Security** in the left sidebar, and click **Built-in protections**.
 
-Now, turn on the **Enable Honeypot Security** toggle, and the security will be enabled to protect your forms from spambots. 
+Now, turn on the **Honeypot Security** toggle, and the security will be enabled to protect your forms from spambots. 
 
-Don’t forget to click the **Save Settings** button to make all the setup functional. 
+Don’t forget to click the **Save** button to make all the setup functional. 
 
 ![Enable Honeypot From General Tab Global Settings Spam Protection With Honeypot](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha/1.-Enable-Honeypot-from-General-tab-of-global-Settings-scaled.webp)
 
@@ -31,11 +31,11 @@ Don’t forget to click the **Save Settings** button to make all the setup funct
 
 **reCAPTCHA** is Google's **CAPTCHA** system. It uses machine learning to distinguish humans from bots and helps block spam submissions on your forms.
 
-Go to **Global Settings** from the **Fluent Forms Navbar**, open the **General** tab, and select **Miscellaneous**.
+Go to **Global Settings** from the **Fluent Forms Navbar**, expand **Security**, and select **CAPTCHA services**.
 
-Scroll to **Auto Load CAPTCHA**, turn on the toggle, and select **Google reCAPTCHA**. reCAPTCHA will then load on all Fluent Forms automatically.
+Turn on the **Auto Load Captcha** toggle and select **Google reCAPTCHA**. The toggle stays off until you save valid CAPTCHA keys. reCAPTCHA will then load on all Fluent Forms automatically.
 
-Click **Save Settings** to apply the change.
+Click **Save** to apply the change.
 
 ![Auto Load Captcha Toggle From General Tab Global Settings](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha/2.-Auto-load-CAPTCHA-toggle-from-General-tab-of-global-Settings-scaled.webp)
 
@@ -45,9 +45,9 @@ Click **Save Settings** to apply the change.
 > [!Tip]
 > If **Auto Load CAPTCHA** is on but the selected captcha type has no valid keys saved, Fluent Forms shows an admin notice with a direct link to add the missing keys.
 
-To do this, go to **Global Settings** from the **FluentForms Navbar**, open the **Security** tab from the left sidebar, and click the **reCAPTCHA** option.
+To do this, go to **Global Settings** from the **FluentForms Navbar**, expand **Security** in the left sidebar, click **CAPTCHA services**, and open the **reCAPTCHA** tab.
 
-Now, select the desired **Version** of reCAPTCHA, provide the **Site & Secret Keys,** and click the **Save Settings** button.
+Now, select the desired **Version** of reCAPTCHA, provide the **Site & Secret Keys,** and click the **Save** button.
 
 > [!Note]
 > To collect the **Site Key** and **Secret Key** for reCAPTCHA, see [How to Integrate reCAPTCHA with Fluent Forms](/integrate-recaptcha).
@@ -58,16 +58,16 @@ Now, select the desired **Version** of reCAPTCHA, provide the **Site & Secret Ke
 
 You can also add an extra layer of spam protection by enabling the settings option below inside any particular form.
 
-To do this, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set this protection. 
+To do this, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the form where you want to set this protection. 
 
 ![Editor Fluent Forms](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha/4.-desired-Form-Editor-scaled.webp)
 
-Now, go to **Settings & Integrations** from the top navbar, open the **Scheduling & Restrictions** tab, and turn on the [Login Requirement Settings](/user-login-requirement) and **Empty Submission Blocking** toggle.
+Now, click **Configuration** in the form's top bar, open **Scheduling & Restrictions** in the left menu, and turn on the [Require user to be logged in](/user-login-requirement) and **Deny empty submission** toggles.
 
-- **Login Requirement Settings:** Once you enable this option, it will stop non-logged users from submitting the form.
+- **Require user to be logged in:** Once you enable this option, it will stop non-logged users from submitting the form.
 
-- **Empty Submission Blocking:** Once you enable this option, it will prevent the form from empty submissions.
+- **Deny empty submission:** Once you enable this option, it will prevent the form from empty submissions.
 
-Don’t forget to click the **Save Settings** button to make all the setup functional. 
+Don’t forget to click the **Save** button to make all the setup functional. 
 
 ![Settings And Integration Tab Spam Protection With Honeypot](/images/security-spam/spam-protection-with-honeypot-and-google-recaptcha/5.-Settings-and-Integration-tab-in-a-form-scaled.webp)

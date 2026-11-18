@@ -14,7 +14,7 @@ This article will guide you through adding the **Checkbox** field in your Fluent
 
 ## Adding the Checkbox Field
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the **Edit** icon to open the **Editor** page of that form.
+First, go to the **Forms** section from the **Fluent Forms Navbar,** click the title of your **Form** to open its **Editor** page.
 
 ![Editor Fluent Forms](/images/form-fields/general-fields/checkbox-field/form-editor-01-scaled.webp)
 
@@ -26,7 +26,7 @@ Now, choose the desired **Checkbox** field by clicking on it or **Drag & Drop** 
 
 ## Customizing the Checkbox Field
 
-A checkbox field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+A checkbox field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Checkbox Field Options
 
@@ -36,7 +36,7 @@ A checkbox field has been added. You can edit this field by **hovering over it**
 
 ### Checkbox Field Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Checkbox** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Checkbox** field.
 
 **A. Element Label:** This is the field title the users will see when filling out the **Checkbox** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -104,7 +104,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

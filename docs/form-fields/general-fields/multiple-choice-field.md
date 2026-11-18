@@ -14,7 +14,7 @@ This article will guide you through adding the **multiple-choice** field in your
 
 ## Adding Multiple Choice Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Edit Multiple Choice Field](/images/form-fields/general-fields/multiple-choice-field/edit-form-01-4-scaled.webp)
 
@@ -26,17 +26,17 @@ Now, select the desired **Multiple Choice** field by clicking on it or **Drag an
 
 ## Customizing the Multiple Choice Field
 
-After adding the field, customize the field. Now **Hover over the field** and click the **Pencil Icon** to open the **Input Customization** tab. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+After adding the field, customize the field. Now **Hover over the field** and click the **Pencil Icon** to open the **Customize** tab. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Multiple Choice Options
 
 - Advanced Options
 
-![Input Customization](/images/form-fields/general-fields/multiple-choice-field/input-customization-03-6-scaled.webp)
+![Customize](/images/form-fields/general-fields/multiple-choice-field/input-customization-03-6-scaled.webp)
 
 ### Multiple Choice Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Multiple Choice** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Multiple Choice** field.
 
 **A. Element Label:** This is the field title the users will see when filling out the **Multiple Choice** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -98,7 +98,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embedding the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

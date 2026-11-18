@@ -10,7 +10,7 @@ This guide walks you through adding and customizing the **Dropdown** field in Fl
 
 ## Adding Dropdown Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
@@ -25,7 +25,7 @@ Click or drag the **Dropdown** field into the editor.
 
 ## Customizing the Dropdown Field
 
-Hover over the field and click the **Pencil** icon to open **Input Customization**:
+Hover over the field and click the **Pencil** icon to open **Customize**:
 
 - Dropdown Field Options
 - Advanced Options
@@ -100,7 +100,7 @@ Under **Options**, turn on **Enable Option Grouping**. The flat options list bec
 
 ## Embed the Form into Frontend
 
-Click **Save Form**, then **Preview & Design** to preview your changes.
+Click **Save**, then **Preview** to preview your changes.
 
 Copy the form **Shortcode** and paste it into a **Page** or **Post**.
 

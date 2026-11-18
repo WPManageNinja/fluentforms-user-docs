@@ -22,17 +22,17 @@ Now, select the desired **Name Input** field by clicking on it or **Dragging and
 
 ## Customizing the Name Input Field
 
-A name field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+A name field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Name Fields Options
 
 - Advanced Options
 
-![Input Customization](/images/form-fields/general-fields/name-input-field/Input-customization-02-scaled.webp)
+![Customize](/images/form-fields/general-fields/name-input-field/Input-customization-02-scaled.webp)
 
 ### Name Fields Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Name** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Name** field.
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.   
 
@@ -74,7 +74,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

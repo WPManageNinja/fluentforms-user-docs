@@ -14,7 +14,7 @@ This article will guide you through adding the **Terms & Conditions** field in *
 
 ## Adding Terms & Conditions Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -29,17 +29,17 @@ Now, select the desired **Term & Condition** **Input** field by clicking on it o
 
 ## Customizing the Terms & Conditions Field
 
-Once you add the Terms & Conditions field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the Terms & Conditions field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Terms & Conditions Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/terms-conditions-field/input-customization-03-16-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/terms-conditions-field/input-customization-03-16-scaled.webp)
 
 ### Terms & Conditions Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Terms & Conditions** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Terms & Conditions** field.
 
 **A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
 
@@ -71,11 +71,11 @@ Advanced settings allow further customization to meet specific use cases.
 
 ### Embed the Form into the Front
 
-Once you have customized the Terms & Conditions field, click the **Save Form** button to apply the changes.
+Once you have customized the Terms & Conditions field, click the **Save** button to apply the changes.
 
 To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired page or post.
 
-To preview the form, click **Preview & Design** in the middle of the page.
+To preview the form, click **Preview** in the middle of the page.
 
 ![Save Terms & Conditions Field](/images/form-fields/advanced-fields/terms-conditions-field/save-form-06-16-scaled.webp)
 

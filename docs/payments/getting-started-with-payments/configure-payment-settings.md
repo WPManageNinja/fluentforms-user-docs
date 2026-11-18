@@ -10,7 +10,7 @@ This article will guide you through setting up the **Payment Settings** for all 
 
 ## Configuring Payment Settings Globally
 
-Go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, click the **Settings** option, and three options appear. These are: 
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and click **Configuration**. Three tabs appear. These are: 
 
 **1. General**
 
@@ -22,17 +22,17 @@ Go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment**
 
 Under this tab, you will get the following options to configure your payment settings. Remember, this **General Setting** will function globally for all **Fluent Forms**.
 
-**A. Enable Payment Module**: This option is enabled by default, giving you access to the Payment Module (i.e., all payment-related input fields) among all forms. If you uncheck the box, the **Payment Module** will be disabled for all forms. But if you want to accept payment through Fluent Forms, you need to keep it enabled.
+**A. Payment Module**: This toggle sits above the tabs and is enabled by default, giving you access to the Payment Module (i.e., all payment-related input fields) among all forms. If you turn it off, the **Payment Module** is disabled for all forms. But if you want to accept payment through Fluent Forms, you need to keep it enabled.
 
-**B. Business Name**: Here, you can provide your business name. It will be used for the Payment method's business name when redirected to checkout.
+**B. Business Name**: Here, you can provide your business name. It is used as the business name when customers are redirected to checkout.
 
-**C. Business Address**: Here, you can provide your full business address, including street, city, zip, state, and country.
+**C. Logo**: Here, you can add your business logo using the **Upload** button (PNG or JPEG, minimum 400x400px).
 
-**D. Business Logo**: Here, you can add your business logo using the **Upload Media** button and delete it anytime if needed by clicking the **Trash** **Icon**. 
+**D. Business Full Address**: Here, you can provide your full business address, including street, city, state, and country.
 
-**E. Debug Log**: Enable this option only for test purposes. Once you enable this, Fluent Forms will debug IPN and Payment errors in the log.
+**E. Enable Debug Log**: Enable this option only for test purposes. Once you enable this, Fluent Forms logs IPN and Payment errors.
 
-Once you are done, click **Save Settings** to save the configuration.
+Once you are done, click **Save** to save the configuration.
 
 ![General Tab Under Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings/1.-General-tab-under-Payment-Settings-scaled.webp)
 
@@ -48,7 +48,7 @@ Under this tab, you will get the following options to define your currency setti
 
 **D. Hide decimal points for rounded numbers**: Check this box if you don’t want decimal points if the currency figure is rounded.
 
-Once you are done, click **Save Settings** to save the configuration.
+Once you are done, click **Save** to save the configuration.
 
 ![Currency Settings Tab](/images/payments/getting-started-with-payments/configure-payment-settings/2.-Currency-settings-tab-scaled.webp)
 
@@ -57,7 +57,7 @@ Once you are done, click **Save Settings** to save the configuration.
 Under this tab, you will get the option to display your **Payment History** and **Payment** **Receipt** on your desired pages. Also, you can enable **Subscription** **Management** for **Stripe** only. 
 
 Remember, this setting also functions globally for all Fluent Forms.
-Once you are done, click **Save Settings** to save the configuration.
+Once you are done, click **Save** to save the configuration.
 
 ![Page And Subscription Management Tab](/images/payments/getting-started-with-payments/configure-payment-settings/3.-Page-and-Subscription-Management-tab-1-scaled.webp)
 
@@ -94,7 +94,7 @@ Here, you can see the **Preview** of a single **Payment Receipt** under the **Pa
 ![Specific Pyment Receipt](/images/payments/getting-started-with-payments/configure-payment-settings/7.-Form-of-a-specific-Pyment-Receipt.webp)
 
 > [!Tip]
-> Open a single payment receipt from **Payments** by clicking **View** on that transaction.
+> Open a single payment receipt from **Payments** (the **Transactions** list) by clicking the transaction.
 
 ![Payment History View Button](/images/payments/getting-started-with-payments/configure-payment-settings/8.-Payment-History-View-button.webp)
 
@@ -102,17 +102,17 @@ Here, you can see the **Preview** of a single **Payment Receipt** under the **Pa
 
 Enable this option if you want to allow your users to manage their own subscriptions, like canceling an active subscription. This subscription management will function only for the Stripe payment method.
 
-Once you are done, click **Save Settings** to save the configuration.
+Once you are done, click **Save** to save the configuration.
 
 ![Subscription Management Option](/images/payments/getting-started-with-payments/configure-payment-settings/9.-Subscription-Management-option.webp)
 
 ## Configuring Payment Settings in a Specific Form
 
-Go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of the desired **Payment** **Form**. 
+Click **Forms** in the **Fluent Forms Navbar**, then click the **Settings** (gear) icon of your desired **Payment Form**. 
 
 ![Open Settings Configure Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings/Open-Form-Settings-3-scaled.webp)
 
-Once you are on the **Settings and Integrations** tab, click the **Payment Settings** option, and you will get the following options. 
+Then click **Payment Settings** in the left sidebar, and you will get the following options. 
 
 **A. Currency:** Using this option, you can set the desired default currency type specifically for this form using the dropdown list. 
 
@@ -124,7 +124,7 @@ Once you are on the **Settings and Integrations** tab, click the **Payment Setti
 
 **E. Customer Address**: Please select the customer address field from your form's address inputs. It's required for payments in India. You can also get the shortcode list by clicking the arrow icon to use dynamic data.
 
-Do not forget to click the **Save Settings** button to save all your changes. 
+Do not forget to click the **Save** button to save all your changes. 
 
 ![Specific Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings/4.-Form-specific-Payment-Settings-scaled.webp)
 
@@ -138,17 +138,17 @@ On this page, you will also get **Three** major **Payment Method Settings** opti
 
 3. **Paddle:** To learn more, see [How to Integrate Paddle with Fluent Forms](/integrate-paddle).
 
-Do not forget to click the **Save Settings** button to save all your changes. 
+Do not forget to click the **Save** button to save all your changes. 
 
 ![Specific Payment Method Settings](/images/payments/getting-started-with-payments/configure-payment-settings/5.-Form-specific-payment-method-settings-scaled.webp)
 
 > [!Note]
-> Form-specific payment options appear only when the gateway is enabled under **Global Settings → Payment Methods**.
+> Form-specific payment options appear only when the gateway is enabled under **Settings → Payment Settings → Payment Methods**.
 
 **To learn how to enable payment Methods Globally, follow the steps below –**
 
-To enable the desired **Payment Methods**, go to the **Global Settings** from the **Fluent** **Forms Navbar,** open the **Payment** tab, click the **Payment Methods** option, and you will see all the available payment platforms.  
+To enable the desired **Payment Methods**, click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, click **Payment Methods**, and you will see all the available payment platforms.  
 
-Now, go to your desired payment platform/s and check the **Enable** **Payment** **Method**. This will activate all your desired payment methods within the **Payment** **Fields** module for every form.
+Now, turn on the toggle next to your desired payment platform/s. This will activate all your desired payment methods within the **Payment** **Fields** module for every form.
 
 ![Enable Payment Methods Globally For All Configure Payment Settings](/images/payments/getting-started-with-payments/configure-payment-settings/7.-Enable-desired-payment-methods-globally-for-all-forms-scaled.webp)

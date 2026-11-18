@@ -17,7 +17,7 @@ This guide will walk you through adding and customizing the **Address Input Fiel
 
 ## Adding the Address Input Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Edit Address Input Field](/images/form-fields/general-fields/address-input-field/edit-form-01-8-scaled.webp)
 
@@ -29,19 +29,19 @@ Now, choose the desired **Address Input** field by clicking on it or **Drag & Dr
 
 ## Customizing the Address Input Field
 
-Next, hover over the field and click the **Edit** icon to customize the **Address** field. Or click on the **Input Customization** tab in the right corner when the field is selected.
+Next, hover over the field and click the **Edit** icon to customize the **Address** field. Or click on the **Customize** tab in the right corner when the field is selected.
 
-You can personalize the input field using the following options in the Input Customization area.
+You can personalize the input field using the following options in the Customize area.
 
 - Address Input Options
 
 - Advanced options
 
-![Input Customization Fluent Forms](/images/form-fields/general-fields/address-input-field/Input-Customization-03-13-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/general-fields/address-input-field/Input-Customization-03-13-scaled.webp)
 
 ### Address Input Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Address Input** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Address Input** field.
 
 **A. Element Label:** This is the field title the users will see when filling out the **Address** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -71,7 +71,7 @@ A text box provides additional options or actions related to the default value. 
 
 ### Autocomplete Provider (Pro)
 
-The **Autocomplete Provider** setting fills in the address for your users. You find it below the **Address Fields** list in the **Input Customization** tab. Click the dropdown and choose one of these options:
+The **Autocomplete Provider** setting fills in the address for your users. You find it below the **Address Fields** list in the **Customize** tab. Click the dropdown and choose one of these options:
 
 - **None:** No address autocomplete. This is the default.
 - **Google Maps:** Suggests addresses as the user types. This option stays grayed out until you add a Google Maps API key. See [How to Integrate Google Maps with Fluent Forms](/integrate-google-maps).
@@ -114,11 +114,11 @@ It then gives each input, such as street, city, and zip code, its matching value
 
 ## Embed the Form into the front
 
-Once you have customized the **Address** input field, click the **Save Form** button to apply the changes.
+Once you have customized the **Address** input field, click the **Save** button to apply the changes.
 
 To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired page or post.
 
-Now, preview the form, click **Preview & Design** in the middle of the page.
+Now, preview the form, click **Preview** in the middle of the page.
 
 ![Save Address Input Field](/images/form-fields/general-fields/address-input-field/Save-Form-09-scaled.webp)
 

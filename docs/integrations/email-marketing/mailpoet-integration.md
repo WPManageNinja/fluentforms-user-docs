@@ -31,14 +31,14 @@ From your **Fluent Forms Dashboard**, go to **Integrations**, search for **MailP
 
 ### Integrate MailPoet in Fluent Forms
 
-Go to **Forms** from the **Fluent Forms Dashboard** and click the **Settings** button of your desired form where you want to add the feed.
+Go to **Forms** from the **Fluent Forms Dashboard** and open the **Configuration** tab of your desired form where you want to add the feed.
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Settings MailPoet Integration](/images/integrations/email-marketing/mailpoet-integration/4.-Desired-Forms-Settings-scaled.webp)
 
-Open the **Configure Integrations** tab, expand the **Add New Integration** dropdown, and click the **MailPoet Integration** feed.
+Go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **MailPoet Integration** from the drawer.
 
 ![Configure Integrations Add Integration MailPoet](/images/integrations/email-marketing/mailpoet-integration/5.-Configure-Integrations-Add-new-integration-MailPoet-scaled.webp)
 
@@ -62,7 +62,7 @@ Open the **Configure Integrations** tab, expand the **Add New Integration** drop
 
 - **Status:** Uncheck the Enable This Feed box if you want to save this MailPoet Feed as Draft. Otherwise, enable this box to make this feed functional.
 
-Don’t forget to click the **Save Feed** button when the configuration is done.
+Don’t forget to click the **Save** button when the configuration is done.
 
 ![MailPoet Integration Feed](/images/integrations/email-marketing/mailpoet-integration/6.-MailPoet-Integration-Feed-Fluent-Forms.webp)
 

@@ -13,7 +13,7 @@ This guide will walk you through adding and customizing the **Action Hook Field*
 
 ### Adding Action Hook Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -28,7 +28,7 @@ You can select the desired **Action Hook** **Input** field by **clicking** on it
 
 ## Customizing the Action Hook Field
 
-Once you add the FluentBooking field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+Once you add the FluentBooking field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Action Hook Input Options
 
@@ -38,7 +38,7 @@ Once you add the FluentBooking field, you can customize it by hovering over it a
 
 ### Action Hook Input Options
 
-Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Action Hook** input field.
+Located in the **Customize tab**, these options allow you to configure essential aspects of the **Action Hook** input field.
 
 **A. Hook Name:** Enter a unique hook name to trigger custom functionality at this location.
 
@@ -63,11 +63,11 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 ## Embed the Form into the Front
 
-Once you have customized the action hook field, click the **Save Form** button to apply the changes.
+Once you have customized the action hook field, click the **Save** button to apply the changes.
 
 To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired page or post.
 
-To preview the form, click **Preview & Design** in the middle of the page.
+To preview the form, click **Preview** in the middle of the page.
 
 ![Save Action Hook Field](/images/form-fields/advanced-fields/action-hook-field/Save-Form-06.png)
 

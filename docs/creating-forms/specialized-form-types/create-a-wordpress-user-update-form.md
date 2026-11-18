@@ -13,9 +13,7 @@ This article will guide you through how users can update forms with Fluent Forms
 
 ## Enable the User Update Module
 
-Go to **Integrations** from the Fluent Forms **Navbar**, search for **User Update** through the search bar, and get the **User Registration or Update** module.
-
-Now, enable the **User Registration** or **Update** module.
+Click **Integrations** in the Fluent Forms top bar and open the **WP Core Modules** tab. Find the **User Registration or Update** module and turn on its **Toggle** to enable it.
 
 ![Enable user update](/images/creating-forms/specialized-form-types/create-a-wordpress-user-update-form/unnamed-1-1.webp)
 
@@ -26,15 +24,15 @@ Before configuring the user update feed, you must use a particular form or creat
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
 
-Once the module is enabled, proceed with the form settings. Click the forms **Settings & Integration** tab. Then click the **Configure Integrations** section from the dropdown.
+Once the module is enabled, proceed with the form settings. Click **Configuration** in the top bar of the form. Then open **Integrations & Add-ons** from the left menu.
 
-Now, click the **Add New Integration** button and select the **User Registration** or **Update** **Integration** option shown in the screenshot below.
+Now, click the **Add New Integration** button and select the **User Registration or Update Integration** option from the list that opens on the right.
 
 ![User update fields](/images/creating-forms/specialized-form-types/create-a-wordpress-user-update-form/2.webp)
 
 ## Customize the User Update Feed
 
-A new Window page will appear. Now, customize the **User Update** feed according to your name feed and select the **User Update** fields from the available options.
+The feed settings page opens. Set **Services** to **User Update**. Now, customize the **User Update** feed according to your name feed and select the **User Update** fields from the available options.
 
 **A. Name:** Enter the name that specifies the name of the user update feed.
 
@@ -53,7 +51,7 @@ You can add multiple meta keys by clicking the **Plus Icon.**
 
 **F. Status:** Enable this feed option to activate the integration.
 
-Once the setup is done, finally, click the **Save Feed** button.
+Once the setup is done, finally, click the **Save** button.
 
 Your User Registration form or Update will be integrated into this specific form!
 
@@ -64,7 +62,7 @@ Your User Registration form or Update will be integrated into this specific form
 
 After successful Integration, you will see that your User Registration or Update Feed has been added here. 
 
-You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
+You can edit your feed anytime by clicking the **Pencil Icon**, duplicate it with the **Copy Icon**, and **Delete** it by clicking the **Trash Icon**. 
 Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
 
 ![User update settings](/images/creating-forms/specialized-form-types/create-a-wordpress-user-update-form/4.webp)

@@ -15,7 +15,7 @@ This article will guide you through integrating Pipedrive with Fluent Forms on y
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Pipedrive** through the search bar, and get the **Pipedrive integration module**.
 
-Now, turn on the **Toggle** to enable the **Pipedrive** module, and click the **Settings Icon** on the right side.
+Now, turn on the **Toggle** to enable the **Pipedrive** module, and click **Manage** on the right side.
 
 ![Pipedrive Integration](/images/integrations/crm/pipedrive-integration/Pipedrive-integration-01-scaled.webp)
 
@@ -36,7 +36,7 @@ Now, click **Personal preferences** and then select the **API** sections. Here, 
 
 ### Connect Pipedrive with Fluent Forms
 
-Then, return to the **Pipedrive Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
+Then, return to the **Pipedrive Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
 
 Now, paste the **API Token** that you copied before.
 
@@ -50,14 +50,14 @@ Here you can see your **Pipedrive API integration is up and running**. Also you 
 
 ## Integrate Pipedrive into Fluent Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Pipedrive and click the **Settings** button. 
+First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Pipedrive and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Settings Pipedrive Integration](/images/integrations/crm/pipedrive-integration/Settings-06-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Pipedrive Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Pipedrive Integration** feed from the drawer. 
 
 ![Add Integration Pipedrive Integration](/images/integrations/crm/pipedrive-integration/add-new-integration-07-1-scaled.webp)
 
@@ -74,7 +74,7 @@ Use all the fields under this option to properly link your **Pipedrive Fields** 
 
 **D. Status:** Enable this feed option to activate the integration.
 
-Now, click the **Save Feed** button to save the integration feed.
+Now, click the **Save** button to save the integration feed.
 
 ![Add Integration Feed Pipedrive Integration](/images/integrations/crm/pipedrive-integration/add-new-integration-feed-09-scaled.webp)
 

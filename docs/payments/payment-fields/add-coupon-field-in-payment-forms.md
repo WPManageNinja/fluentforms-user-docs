@@ -13,13 +13,13 @@ The **Coupon** feature allows you to add coupons and apply discounts to your pay
 
 Before starting the process of adding a coupon field, you need to enable the **Coupon Module**. 
 
-First, go to **Global** **Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, click the **Coupons**, and press the **Enable Coupon Module** button. 
+First, click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, click **Coupons**, and press the **Enable Coupons** button. Fluent Forms creates the coupon table the first time you enable it. 
 
 ![Enable Coupon Field](/images/payments/payment-fields/add-coupon-field-in-payment-forms/1.-Enable-Coupon-Field-scaled.webp)
 
 ## Create a Coupon
 
-If you don’t have an existing coupon on the available Coupons page, create a new one. To create a **Coupon**, click the **+ Add New Coupon** button. 
+If you don’t have an existing coupon on the available Coupons page, create a new one. To create a **Coupon**, click the **Add New Coupon** button. 
 
 ![Add Coupon Button](/images/payments/payment-fields/add-coupon-field-in-payment-forms/2.-Add-new-coupon-button-scaled.webp)
 
@@ -37,9 +37,9 @@ Now, fill in the following necessary information to create a new coupon code:
 
  **F. Stackable:** Check this **Yes** box if you want this coupon code to be used with other coupons.
 
- **G. Start Date:** Enter the start date for this coupon in the format of yyyy-mm-dd from. Leave blank if there is no start date.
+ **G. Coupon Schedule (Start Date):** Pick the start date for this coupon. Leave blank if there is no start date.
 
- **H. End Date:** Enter the end date for this coupon in the format of yyyy-mm-dd as an expiry date i.e., after that, this coupon will not work. Leave blank if there is no end date. 
+ **H. Coupon Schedule (End Date):** Pick the end date as an expiry date, i.e., after that, this coupon will not work. Leave blank if there is no end date. 
 
  **I. Applicable Forms:** Here, you can select a single or multiple forms where this coupon will be applicable. Leave this blank if you want to apply this coupon to all forms.
 
@@ -51,11 +51,11 @@ Now, fill in the following necessary information to create a new coupon code:
  
  **M. Status:** Here you can set the Coupon status as Active or Inactive. 
 
-Once you are done, click the **Save Coupon** button and the coupon will be created.
+The form opens as a full **Add Coupon** page. Once you are done, click the **Save Coupon** button at the top right and the coupon will be created.
 
-![Add Coupon Pop Up Page](/images/payments/payment-fields/add-coupon-field-in-payment-forms/3.-Add-a-new-coupon-pop-up-page.webp)
+![Add Coupon Page](/images/payments/payment-fields/add-coupon-field-in-payment-forms/3.-Add-a-new-coupon-pop-up-page.webp)
 
-Once you create a new coupon, you will always find it under the **Available Coupons** page.
+Once you create a new coupon, you will always find it in the list under **Payment Settings → Coupons**.
 
 Also, you can **edit/delete** any coupon anytime if needed by clicking the **Pencil/Trash** Icon. **Remember**, always press the **Save Coupon** button after any edit to save all the updates.
 
@@ -77,7 +77,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 
 You can see that a coupon field is added to a payment form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the coupon field. 
+It will take you to the **Customize** tab on the right side and offer you the following options for customizing the coupon field. 
 
 **1. Coupon**
 
@@ -119,7 +119,7 @@ Each option in the **Advanced Options** tab is explained below.
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all changes you made. Also, to see the preview of the form, click the **Preview & Design** button in the middle.
+Once you complete the customization, click the **Save** **Form** button to save all changes you made. Also, to see the preview of the form, click the **Preview** button in the middle.
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.
 

@@ -26,7 +26,7 @@ Once you open the **Editor** page, go to the **Input Fields** in the right sideb
 
 You can see that a **Payment Item** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
 
-It will take you to the **Input Customization** tab on the right side and offer you the following options for customizing the Payment Item field. 
+It will take you to the **Customize** tab on the right side and offer you the following options for customizing the Payment Item field. 
 
 **1. Payment Item**
 
@@ -125,7 +125,7 @@ Once you complete all the customization, don’t forget to add the [Payment Meth
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all changes you made. Also, to see the form preview, click the **Preview & Design** button in the middle.
+Once you complete the customization, click the **Save** **Form** button to save all changes you made. Also, to see the form preview, click the **Preview** button in the middle.
 
 To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
 

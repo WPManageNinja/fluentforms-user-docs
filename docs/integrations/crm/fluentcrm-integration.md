@@ -15,20 +15,20 @@ This guide will walk you through integrating FluentCRM with Fluent Forms on your
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **FluentCRM** through the search bar, and get the **FluentCRM Module**.
 
-Now, turn on the **Toggle** to enable the **FluentCRM** module, and click the **Settings Icon** on the right side.
+Now, turn on the **Toggle** to enable the **FluentCRM** module (the second **FluentCRM** entry in the results). It needs no further configuration.
 
 ![FluentCRM Integration With](/images/integrations/crm/fluentcrm-integration/fluentcrm-integration-with-fluent-form-01-scaled.webp)
 
 ## Integrate FluentCRM with FluentForms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your FluentCRM and click the **Settings** button. 
+First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your FluentCRM and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Settings FluentCRM integration](/images/integrations/crm/fluentcrm-integration/Form-Settings-02-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **FluentCRM Integration** feed from the dropdown list.
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **FluentCRM Integration** feed from the drawer.
 
 ![Add FluentCRM Integration](/images/integrations/crm/fluentcrm-integration/Add-FluentCRM-Integration-03-scaled.webp)
 
@@ -62,7 +62,7 @@ Once you select FluentCRM integration, you will need to configure the following-
 
 **H. Status:** Enable this feed option to activate the integration.
 
-After configuring the integration, Click the **Save Feed** button to finalize your FluentCRM integration.
+After configuring the integration, Click the **Save** button to finalize your FluentCRM integration.
 
 ![FluentCRM integration step](/images/integrations/crm/fluentcrm-integration/5-2.webp)
 
@@ -109,7 +109,7 @@ This trigger starts the automation when a subscription is canceled. Once you sel
 
 - **Restart:** Check this option if you Restart the automation multiple times for the same contact that triggers the automation.
 
-Once you are done, click the **Save Settings** button to save all your changes.
+Once you are done, click the **Save** button to save all your changes.
 
 ![Subscription Cancelled Funnel](/images/integrations/crm/fluentcrm-integration/Subscription-cancelled-funnel-05-scaled.webp)
 
@@ -133,7 +133,7 @@ This trigger activates when a subscription payment is received. Once you select 
 
 - **Conditions:** Check the checkbox to Run this automation only once per contact options. If you unchecked, it will overwrite an existing flow.
 
-Once you are done, click the **Save Settings** button to save all your changes.
+Once you are done, click the **Save** button to save all your changes.
 
 ![FluentCRM integration step](/images/integrations/crm/fluentcrm-integration/555-scaled.webp)
 

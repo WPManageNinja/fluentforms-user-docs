@@ -50,7 +50,7 @@ Where **names** is the **Name Attribute** of the Name Field.
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click **Save** to save all your changes. Click the **Preview** (eye) icon in the top bar to see the form preview.
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 

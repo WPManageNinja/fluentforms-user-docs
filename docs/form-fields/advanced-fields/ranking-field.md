@@ -13,7 +13,7 @@ This guide walks you through adding and customizing the **Ranking** field in Flu
 
 ## Adding the Ranking Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
@@ -28,7 +28,7 @@ Click or drag the **Ranking** field into the editor.
 
 ## Customizing the Ranking Field
 
-Hover over the field and click the **Pencil** icon to open **Input Customization**.
+Hover over the field and click the **Pencil** icon to open **Customize**.
 
 ### Ranking Field Options
 
@@ -79,9 +79,9 @@ Hover over the field and click the **Pencil** icon to open **Input Customization
 
 ## Embed the Form into the Front
 
-Click **Save Form** to apply your changes.
+Click **Save** to apply your changes.
 
-Copy the form **Shortcode** from the forms list and paste it into a **Page** or **Post**. Click **Preview & Design** at the top of the editor to preview the form.
+Copy the form **Shortcode** from the forms list and paste it into a **Page** or **Post**. Click **Preview** at the top of the editor to preview the form.
 
 ![Save and embed the form](/images/form-fields/advanced-fields/ranking-field/save-form-5-scaled.webp)
 

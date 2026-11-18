@@ -11,9 +11,9 @@ description: "Paystack is an amazing payment method for your webshop that allows
 
 ## Enable Paystack Payment Method
 
-Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Select **Paystack**, then click **Enable Paystack Payment Method** to activate Paystack globally for all forms. 
+Turn on the toggle next to **Paystack** to enable it globally for all forms, then click **Manage** to open its settings.
 
 ![Enable Paystack Module Integrate Paystack](/images/payments/payment-gateways/integrate-paystack/1.-enable-Paystack-module-scaled.webp)
 
@@ -35,11 +35,11 @@ Once you log into the **Paystack Dashboard**, go to the **Settings** section fro
 
 ![Copy Secret And API Key](/images/payments/payment-gateways/integrate-paystack/3.-Copy-secret-and-API-key-scaled.webp)
 
-**Now,** return to the **Paystack Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
+**Now,** return to the **Paystack** page under **Payment Settings → Payment Methods** (click **Manage**).
 
 Then, paste the **Public Key** and **Secret Key** you copied from Paystack into the **API Key** and **API Secret** fields respectively.
 
-Finally, press the **Save Settings** button and your Paystack account will be configured with **Fluent Forms** for your WordPress Site.
+Finally, click the **Save** button and your Paystack account will be configured with **Fluent Forms** for your WordPress Site.
 
 ![Paste API Key And API Secret](/images/payments/payment-gateways/integrate-paystack/4.-Paste-API-key-and-API-Secret-scaled.webp)
 
@@ -57,11 +57,11 @@ Now, go to the **Payment Methods**, check the **PayStack** option, click the **D
 
 ![Add Paystack Integrate Paystack](/images/payments/payment-gateways/integrate-paystack/5.-add-paystack-to-the-desired-form-scaled.webp)
 
-Once you complete the edit, press the **Save Form** button to save all the changes.
+Once you complete the edit, press the **Save** button to save all the changes.
 
 Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
 
-Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
+Also, to see the **Preview** of the form, click the **Preview** button in the middle.
 
 ![Save Integrate Paystack](/images/payments/payment-gateways/integrate-paystack/6.-Save-Form-scaled-2.webp)
 

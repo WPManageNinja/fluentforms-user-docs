@@ -11,9 +11,9 @@ description: "Mollie is a fantastic payment gateway for your webshop that allows
 
 ## Enable Mollie Payment Method
 
-First, go to **Global Settings** from the **Fluent Forms Navbar**, open the **Payment** tab from the left sidebar, and click the **Payment Methods** option.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Now, go to **Mollie** in the top navbar and click **Enable Mollie Payment Method.** The **Mollie Payment Method** will be enabled globally for all forms. 
+Turn on the toggle next to **Mollie** to enable it globally for all forms, then click **Manage** to open its settings.
 
 ![Enable Mollie Payment Method Integrate Mollie](/images/payments/payment-gateways/integrate-mollie/1.-Enable-Mollie-payment-method-scaled.webp)
 
@@ -42,11 +42,11 @@ Here, you will get your desired **API key** from the **Test API key** row, and c
 
 ![Copy API Key](/images/payments/payment-gateways/integrate-mollie/4.-Copy-API-Key-1.webp)
 
-**Now,** return to the **Mollie Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
+**Now,** return to the **Mollie** page under **Payment Settings → Payment Methods** (click **Manage**).
 
 Then, paste the **API Key** you copied from Mollie.
 
-Finally, press the **Save Settings** button and your Mollie account will be configured with **Fluent Forms** for your WordPress Site.
+Finally, click the **Save** button and your Mollie account will be configured with **Fluent Forms** for your WordPress Site.
 
 ![Paste API Key](/images/payments/payment-gateways/integrate-mollie/5.-Paste-API-Key-1-scaled.webp)
 
@@ -64,11 +64,11 @@ Now, go to the **Payment Methods**, check the **Mollie** option, click the **Dro
 
 ![Add Mollie Integrate Mollie](/images/payments/payment-gateways/integrate-mollie/6.-Add-Mollie-in-desired-form-1-scaled.webp)
 
-Once you complete the edit, press the **Save Form** button to save all the changes.
+Once you complete the edit, press the **Save** button to save all the changes.
 
 Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
 
-Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
+Also, to see the **Preview** of the form, click the **Preview** button in the middle.
 
 ![Save Integrate Mollie](/images/payments/payment-gateways/integrate-mollie/7.-Save-Form-scaled-3.webp)
 

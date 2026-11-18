@@ -9,12 +9,12 @@ An **integration feed** sends a form's submission data to a connected app, such 
 ## Open the Integration Feeds of a Form
 
 - Go to **Forms** from the **Fluent Forms Navbar**.
-- Select your form and click **Settings**.
-- Click **Configure Integrations** from the left menu.
+- Select your form and click **Configuration** in the form's top bar.
+- Open **Integrations & Add-ons** from the left menu and click **Integrations**.
 
-The **All Form Integrations** page lists every feed of the form. Each row shows the feed **Status**, the **Integration**, the **Title**, and the **Actions** you can take.
+The **All Form Integrations** page lists every feed of the form. Each row shows the feed **Title** with its **Enabled** badge, the **Integration** it belongs to, a toggle, and icons to edit, copy, or delete the feed.
 
-To create a new feed, click **Add New Integration** and select the integration from the dropdown list.
+To create a new feed, click **Add New Integration** and select the integration from the drawer.
 
 ![All Form Integrations](/images/integrations/manage-integration/integration-feed-1.webp)
 
@@ -23,10 +23,10 @@ To create a new feed, click **Add New Integration** and select the integration f
 Copy a feed when you need a similar feed for the same form. For example, you can send the same submission to another list or apply different conditional logic.
 
 - Find the feed you want to copy on the **All Form Integrations** page.
-- Click the **Copy Icon** in the **Actions** column. The tooltip reads **Duplicate integration feed**.
+- Click the **Copy** icon on the right of the feed row. The tooltip reads **Duplicate integration feed**.
 - The feed settings open with all the values already filled in.
 - Change the **Name** and any other setting you need.
-- Click **Save Feed**.
+- Click **Save**.
 
 Fluent Forms creates a new feed. The original feed stays the same.
 
@@ -37,6 +37,6 @@ Fluent Forms creates a new feed. The original feed stays the same.
 
 ## Enable, Edit, or Delete a Feed
 
-- **Enable or disable:** Use the toggle in the **Status** column to turn a feed on or off without deleting it.
-- **Edit:** Click the **Settings Icon** in the **Actions** column to change the feed settings, then click **Save Feed**.
-- **Delete:** Click the **Trash Icon** in the **Actions** column to remove a feed you no longer need.
+- **Enable or disable:** Use the toggle on the right of the feed row to turn a feed on or off without deleting it.
+- **Edit:** Click the **Edit** (pencil) icon on the feed row to change the feed settings, then click **Save**.
+- **Delete:** Click the **Trash** icon on the feed row to remove a feed you no longer need.

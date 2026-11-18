@@ -11,9 +11,9 @@ description: "Paddle is a payment processing platform that allows Fluent Forms p
 
 ## Enable Paddle Payment Method
 
-Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Select **Paddle**, then click **Enable Paddle Payment Method** to activate Paddle globally for all forms.
+Turn on the toggle next to **Paddle** to enable it globally for all forms, then click **Manage** to open its settings.
 
 ![Enable Paddle Payment Method Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/1.-Enable-Paddle-Payment-Method-scaled.webp)
 
@@ -73,11 +73,11 @@ Once you’ve entered the link, click the **Save** button, and all payment links
 
 ## Connect Paddle with Fluent Forms
 
-**Now,** return to the **Paddle Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
+**Now,** return to the **Paddle** page under **Payment Settings → Payment Methods** (click **Manage**).
 
 Then, paste the **Key** and **Token** you copied from **Paddle** into the **API Key** and **Client Token** fields respectively.
 
-Finally, press the **Save Settings** button and your Paddle account will be configured with **Fluent Forms** for your WordPress Site.
+Finally, click the **Save** button and your Paddle account will be configured with **Fluent Forms** for your WordPress Site.
 
 ![Paste API Key And Client Token](/images/payments/payment-gateways/integrate-paddle/10.-Paste-API-key-and-Client-Token-scaled.webp)
 
@@ -95,11 +95,11 @@ Now, go to the **Payment Methods**, check the **Paddle** option, click the **Dro
 
 ![Add Paddle Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/11.-Add-paddle-in-desired-form-scaled.webp)
 
-Once you complete the edit, press the **Save Form** button to save all the changes.
+Once you complete the edit, press the **Save** button to save all the changes.
 
 Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
 
-Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
+Also, to see the **Preview** of the form, click the **Preview** button in the middle.
 
 ![Save Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/12.-Save-form-scaled.webp)
 
@@ -117,14 +117,14 @@ Here is the preview of the **Paddle Checkout Modal**.
 
 You can also customize the **Paddle Settings** for a specific form according to your needs.
 
-To customize the **Paddle Settings**, go to the **Forms** from the **Fluent Forms Navbar**, and click the **Settings** option of a desired **Form**.
+To customize the **Paddle Settings**, click **Forms** in the **Fluent Forms Navbar**, then click the **Settings** (gear) icon of your desired form.
 
 ![Open Settings Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/Open-Form-Settings-2-scaled.webp)
 
-Once you are on the **Settings and Integrations** tab, click the **Payment Settings** option, and scroll down to **Paddle Settings**.
+Then click **Payment Settings** in the left sidebar, and scroll down to **Paddle Settings**.
 
 Here, you can select which type of payment process can be done through Paddle; **Non-catalog, Catalog Item,** or **Non-catalog prices for an existing product**
 
-Do not forget to click the **Save Settings** button to save all your changes. 
+Do not forget to click the **Save** button to save all your changes. 
 
 ![Specific Paddle Payment Settings](/images/payments/payment-gateways/integrate-paddle/15.-Form-specific-Paddle-payment-settings-scaled.webp)

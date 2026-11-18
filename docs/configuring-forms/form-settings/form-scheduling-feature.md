@@ -14,7 +14,7 @@ This article will guide you on scheduling your form in Fluent Forms.
 
 First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button which form you want to schedule.
 
-Now, click the **Settings & Integrations** tab at the top bar and stay in the **Settings** section. Scroll down to the **Scheduling and Restrictions** segment under the Settings section. This same segment also holds the [form restrictions](/form-restrictions-feature) options.
+Now, click the **Configuration** tab in the top bar and select **Scheduling & Restrictions** from the left rail. This same segment also holds the [form restrictions](/form-restrictions-feature) options.
 
 “If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) documentation to create a new one.” 
 
@@ -22,13 +22,13 @@ Now, click the **Settings & Integrations** tab at the top bar and stay in the **
 
 ### Form Schedule
 
-First, enable the **Form Schedule** options. 
+First, turn on the **Form Scheduling** toggle. 
 
 **Select Weekdays:** After enabling the form schedule, you can select the weekdays by checking the checkbox as needed.
 
-**Submission starts date:** Now, set the date for the user when the form submission starts.
+**Submission Starts:** Now, set the date for the user when the form submission starts.
 
-**Submission Ends date:** You can set the date for the user when the form submission ends.
+**Submission Ends:** You can set the date for the user when the form submission ends.
 
 **Form Waiting Message**: Enter the message shown to the user when the form hasn't yet been submitted.
 
@@ -36,4 +36,4 @@ First, enable the **Form Schedule** options.
 
 ![Fluent Forms](/images/configuring-forms/form-settings/form-scheduling-feature/02-6-scaled-2.webp)
 
-Once complete the form scheduling, then **Save** the form.
+Once you finish, click **Save**.

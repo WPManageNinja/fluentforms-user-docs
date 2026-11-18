@@ -18,7 +18,7 @@ Go to **Forms** from the top navbar, and **open** the **Editor** page of your **
 
 ![Editor Fluent Forms](/images/design-styling/form-layout-settings/1.-desired-Form-Editor-1-scaled.webp)
 
-Once you are on the **Editor Page**, go to **Settings & Integrations** from the top navbar and open the **Form Layout** tab under the **Settings** option. 
+Once you are on the **Editor** page, click **Configuration** in the top bar, expand **Appearance** in the left rail, and open **Form Layout**. A live preview of your form appears beside the options. 
 
 Here, you will get **Four** options to customize the basic layout of your form. These are:
 
@@ -30,7 +30,7 @@ Here, you will get **Four** options to customize the basic layout of your form. 
 
 4. Asterisk Position
 
-Once you complete the setup, click the **Save Settings** button to save all your changes.
+Once you complete the setup, click **Save** to save all your changes.
 
 ![Layout Settings Fluent Forms](/images/design-styling/form-layout-settings/2.-Form-Layout-settings-scaled.webp)
 
@@ -40,7 +40,7 @@ Once you complete the setup, click the **Save Settings** button to save all your
 
 With this option, you can define the alignment position for the **Label** of your [**Input Fields**](/form-fields-overview).
 
-Clicking the **Arrow Icon** will provide three options for setting the **Placement** of the **Field Label**. These are:
+You can choose from three options for setting the **Placement** of the **Field Label**. These are:
 
 - **Top:** Select this option to align the label’s position to the top/above the input field.
 
@@ -58,7 +58,7 @@ For example, I selected the **“Top”** alignment for the input fields. You ca
 
 With this option, you can define the **Placement** for the **Help Message** of your **Input Fields**.
 
-Clicking the **Arrow Icon** will provide four options for setting the **Placement** of the **Help Message**. These are:
+You can choose from four options for setting the **Placement** of the **Help Message**. These are:
 
 - **Beside Label (Tooltip):** Select this option to align the Help Message’s position right next to the Field Label as a Tooltip.
 
@@ -79,7 +79,7 @@ You can see that the **Help Message** of the **Email** **Field** is placed besid
 
 With this option, you can define the **Placement** for the **Error Message** of your **Input Fields**.
 
-Clicking the **Arrow Icon** will provide two options for setting the **Placement** of the **Error Message**. These are:
+You can choose from two options for setting the **Placement** of the **Error Message**. These are:
 
 - **Below Input Fields:** Choose this option to place the Error Message below the input fields.
 
@@ -96,7 +96,7 @@ You can see that the **Error Message** is displayed below the **Email** **Field*
 
 With this option, you can define the **Asterisk Marker Position** for the **Required** **Input Fields**.
 
-Clicking the **Arrow Icon** will provide three options for setting the **Placement** of the **Asterisk Marker**. These are:
+You can choose from three options for setting the **Placement** of the **Asterisk Marker**. These are:
 
 - **None:** Select this option if you don’t want to display Asterisk Marker for the required input fields.
 

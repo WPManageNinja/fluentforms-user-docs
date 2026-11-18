@@ -20,7 +20,7 @@ Open **Forms** from the Fluent Forms navbar and choose the form you want to prot
 
 ### Enable login requirement
 
-Go to **Settings & Integrations → Settings → Scheduling & Restrictions**. In **Login Requirement Settings**, turn on **Require user to be logged in**. The same panel also controls [form restrictions](/form-restrictions-feature) and scheduling.
+Open the **Configuration** tab and go to **Scheduling & Restrictions**. Turn on **Require user to be logged in**. The same panel also controls [form restrictions](/form-restrictions-feature) and scheduling.
 
 ![Login requirement toggle](/images/configuring-forms/form-settings/user-login-requirement/user-login-reqiurement-02-scaled.webp)
 
@@ -32,7 +32,7 @@ Enter the message shown to visitors who are not logged in.
 
 This text helps users sign in or create an account before they can submit the form. To let visitors register from a form, see [How to Create a WordPress User Registration Form](/create-a-wordpress-user-registration-form).
 
-Click **Save Settings** to apply your changes.
+Click **Save** to apply your changes.
 
 ![Logged-out user message](/images/configuring-forms/form-settings/user-login-requirement/user-loggin-message-03-scaled.webp)
 

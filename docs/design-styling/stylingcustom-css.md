@@ -18,7 +18,7 @@ Go to **Forms** from the top menu and open the **Editor** page of your desired f
 
 ![Edit Fluent Forms Styling/Custom CSS](/images/design-styling/stylingcustom-css/Form-Edit-1-scaled.webp)
 
-In the **Settings & Integrations** tab (top right of the editor), select **Custom CSS/JS**. You’ll see a field for adding custom CSS, along with your form's **unique class** (e.g. `.fluent_form_40`)
+Click **Configuration** in the top bar, expand **Appearance** in the left rail, and select **Custom CSS & JS**. You’ll see a field for adding custom CSS, along with your form's **unique class** (e.g. `.fluent_form_40`)
 
 ![Fluent Forms Styling/Custom CSS step](/images/design-styling/stylingcustom-css/02-5-scaled.webp)
 
@@ -133,4 +133,4 @@ form.fluent_form_149 .step-nav button:hover{
 }
 ```
 
-After adding your custom styles, click the **Save Settings** button, and then preview your form on the front end to see the changes live.
+After adding your custom styles, click **Save**, and then preview your form on the front end to see the changes live.

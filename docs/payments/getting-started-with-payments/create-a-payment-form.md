@@ -25,7 +25,7 @@ Once you open the **Editor** page, you need to add the necessary fields from the
 
 The **Payment Fields** module must be enabled before you can add payment fields to a form.
 
-Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Settings**. Turn on **Enable Payment Module** to activate payment-related fields for all forms.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and click **Configuration**. Turn on the **Payment Module** toggle to activate payment-related fields for all forms.
 
 ![Enable Payment Module Create a Payment Form](/images/payments/getting-started-with-payments/create-a-payment-form/3.-Enable-payment-module-scaled.webp)
 
@@ -37,7 +37,7 @@ Once you ensure the **Payment Module** is **Enabled**, select the necessary fiel
 
 Here, you can see that all the fields necessary for a payment form have been added.
 
-You can edit any field by hovering over it and clicking the **Pencil Icon**. It will take you to the selected field’s **Input Customization** tab on the right side.
+You can edit any field by hovering over it and clicking the **Pencil Icon**. It will take you to the selected field’s **Customize** tab on the right side.
 
 To learn how to edit the **Payment Item** and **Choose Payment Method** field specifically, refer to the Documentation below:
 
@@ -51,9 +51,9 @@ Also, you can choose your preferred payment method/s by checking the desired pay
 
 ### Enabling Payment Methods
 
-To get all the available **Payment Methods** in your **Payment Fields** module, you need to ensure all **payment methods** are enabled. If not, go to the **Global Settings** from the **Fluent** **Forms Navbar** to enable all the payment methods for all forms.
+To get all the available **Payment Methods** in your **Payment Fields** module, you need to ensure all **payment methods** are enabled. If not, go to **Settings → Payment Settings → Payment Methods** to enable the payment methods for all forms.
 
-Once you open the **Payment** tab and click the **Payment Methods** option, you will see all the available payment platforms.  
+Once you open **Payment Settings** and click **Payment Methods**, you will see all the available payment platforms.  
 
 Now, go to your desired payment platform/s and check the **Enable** **Payment** **Method**. This will activate all the payment methods within the **Payment** **Fields** module for every form.
 
@@ -68,8 +68,8 @@ You can also customize the payment settings **globally** for all forms or **indi
 
 ## Integrating Form in WordPress Site
 
-Once you complete the edit, press the **Save Form** button to save all the changes you have made.
-Also, to see the form preview, click the **Preview & Design** button in the middle.
+Once you complete the edit, press the **Save** button to save all the changes you have made.
+Also, to see the form preview, click the **Preview** button in the middle.
 
 Finally, to integrate and display the form on a specific **Page**/**Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page**/**Post**. 
 

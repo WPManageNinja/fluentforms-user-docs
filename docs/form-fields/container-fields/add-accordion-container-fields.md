@@ -8,7 +8,7 @@ The Accordion container is a powerful feature that helps you organize long forms
 
 ## Add the Accordion Container
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -23,7 +23,7 @@ Now, choose the desired **Accordion Container** by clicking on it or Drag & Drop
 
 ## Configure the Accordion Settings
 
-When you click on an **Accordion/Tab** container in the form editor, the sidebar on the right will show all its **Input Customization** settings.
+When you click on an **Accordion/Tab** container in the form editor, the sidebar on the right will show all its **Customize** settings.
 
 Here is a breakdown of each setting:
 
@@ -31,7 +31,7 @@ Here is a breakdown of each setting:
 
 **B.** **Description:** This adds a line of smaller helper text directly below the title. This is an optional field.
 
-![Input Customization](/images/form-fields/container-fields/add-accordion-container-fields/Input-customization-03-scaled.webp)
+![Customize](/images/form-fields/container-fields/add-accordion-container-fields/Input-customization-03-scaled.webp)
 
 **C. Display Mode:** This option enables you to select the appearance of the forms in the display. Here you will find two options.
 
@@ -59,7 +59,7 @@ Here is a breakdown of each setting:
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save Form** button in the top-right corner to save all your changes. To see a preview, click the **Preview & Design** button.
+Once you complete the customization, click the **Save** button in the top-right corner to save all your changes. To see a preview, click the **Preview** (eye) icon at the top right.
 
 To display the form on a page or post, copy the **Shortcode** (e.g., [fluentform id="1"]) from the top of the editor and paste it into a "Shortcode" block in the Gutenberg editor or any page builder.
 

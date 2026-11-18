@@ -13,7 +13,7 @@ This guide will walk you through adding and customizing the **Net Promoter Score
 
 ### Adding Net Promoter Score Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -28,17 +28,17 @@ Now, select the **Net Promoter Score** field by **Clicking** on it or **Dragging
 
 ## Customizing the Net Promoter Score Field
 
-Once you add the **Net Promoter Score** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
+Once you add the **Net Promoter Score** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
 
 - Net Promoter Score Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/net-promoter-score/input-customization-03-25-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/net-promoter-score/input-customization-03-25-scaled.webp)
 
 ### Net Promoter Score Input Options
 
-You will find various settings options for customizing the field under the **Input Customization** tab. These options allow you to configure essential aspects of the **Net Promoter Score** field.
+You will find various settings options for customizing the field under the **Customize** tab. These options allow you to configure essential aspects of the **Net Promoter Score** field.
 
 **A. Element Label:** This is the field title the users will see when filling out the **Net Promoter Score** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -72,7 +72,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into Front
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

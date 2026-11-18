@@ -13,11 +13,11 @@ This guide will walk you through the migration process of any form into fluent f
 
 ## Steps to Migrate Forms and Entries
 
-First, go to the **Fluent Forms** Dashboard [**Tools**](/user-interface) section at the top of the menu bar. Then, click the **Migrator** options. Here, you will see a list of forms from other supported plugins.
+First, go to the **Fluent Forms** Dashboard [**Tools**](/user-interface) section at the top of the menu bar (under **More**). Then, click **Migrator** in the left menu. Here, you will see a tab for each supported plugin that is active on your site, with its list of forms.
 
 Now, click the **Import All Forms** button to import all forms at once. 
 
-Alternatively, you can select **Specific** forms from the list and import only those.
+Alternatively, select specific forms from the list and import only those, or click **Import Form** on a single row.
 
 ![Migrate Fluent Forms](/images/import-export-migration/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms/Forms-Migrate-scaled.webp)
 

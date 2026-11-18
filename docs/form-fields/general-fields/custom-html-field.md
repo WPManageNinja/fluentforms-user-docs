@@ -14,7 +14,7 @@ This article will guide you through adding the **Custom HTML** field to your Wor
 
 ## Adding Custom HTML Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 ![Edit Custom HTML Field](/images/form-fields/general-fields/custom-html-field/edit-form-01-2-scaled.webp)
 
@@ -26,9 +26,9 @@ Select the desired **Custom HTML** field by **Dragging** or **Dropping** it into
 
 ## Customizing the Custom HTML Field
 
-A custom HTML field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+A custom HTML field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
-![Input Customization](/images/form-fields/general-fields/custom-html-field/input-customization-03-3-scaled.webp)
+![Customize](/images/form-fields/general-fields/custom-html-field/input-customization-03-3-scaled.webp)
 
 **A. HTML Code:** In the HTML Code section, you can add any valid HTML code that will be displayed as regular content within the form.
 
@@ -55,7 +55,7 @@ For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

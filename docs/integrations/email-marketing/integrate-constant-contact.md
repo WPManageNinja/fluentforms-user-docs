@@ -13,7 +13,7 @@ In **Fluent Forms**, integrating **Constant Contact**, an integrated email marke
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Constant Contact V3** through the search bar, and get the **Constant Contact V3** integration module.
 
-Now, turn on the **Toggle** to enable **Constant Contact V3**. Then, you will see the Constant Contact’s **Settings Icon** on the right side, click on it. 
+Now, turn on the **Toggle** to enable **Constant Contact V3**. Then, you will see the Constant Contact’s **Manage** button on the right side, click on it. 
 
 ![Enable Constant Contact V3 Integrate Constant Contact](/images/integrations/email-marketing/integrate-constant-contact/1.-Enable-Constant-Contact-V3-scaled.webp)
 
@@ -58,7 +58,7 @@ Now it is time to enter the **Redirect URL** provided in **Fluent Forms** by cli
 
 #### Collecting the Redirect URL from Fluent Forms
 
-First, go to the **Constant Contact V3 API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+First, go to the **Constant Contact V3 API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Then copy the **Redirect URL** provided under the **Constant Contact V3 API** instruction guide at the top. 
 
@@ -74,7 +74,7 @@ After copying the Client ID & Client Secret, setting up the Redirect URL, click 
 
 ## Connect Constant Contact with Fluent Forms
 
-Now, return to the **Constant Contact V3 API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Now, return to the **Constant Contact V3 API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Then, paste the **Client ID** and **Client Secret** you copied from **Constant Contact** into the **Constant Contact** **Client ID** and the **Constant Contact Client Secret** fields respectively.
 
@@ -94,14 +94,14 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate Constant Contact in Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Constant Contact,** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Constant Contact,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Constant Contact](/images/integrations/email-marketing/integrate-constant-contact/15.-Open-Desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Constant Contact V3 Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Constant Contact V3 Integration** feed from the drawer. 
 
 ![Add Integration Feed Dropdown Integrate Constant Contact](/images/integrations/email-marketing/integrate-constant-contact/16.-Add-new-integration-feed-dropdown-scaled.webp)
 
@@ -126,7 +126,7 @@ Now, a page will appear with various settings options for configuring the Consta
 
 8. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button. And, your Constant Contact will be integrated into this specific form!
+Once the setup is done, finally, click the **Save** button. And, your Constant Contact will be integrated into this specific form!
 
 ![Save Feed Button Integrate Constant Contact](/images/integrations/email-marketing/integrate-constant-contact/17.-Save-Feed-button-scaled.webp)
 

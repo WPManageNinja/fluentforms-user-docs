@@ -13,7 +13,7 @@ This guide will walk you through adding and customizing the **Color Picker** fie
 
 ### Adding a Color Picker Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -28,17 +28,17 @@ Now, select the **Color Picker** field by **clicking** or **dragging** it and **
 
 ## Customizing the Color Picker Field
 
-Once you add the **Color Picker** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right, which offers the following customization options.
+Once you add the **Color Picker** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
 
 - Color Picker Field Options
 
 - Advanced Options
 
-![Input Customization Fluent Forms](/images/form-fields/advanced-fields/color-picker-field/Input-Customization-03-27-scaled.webp)
+![Customize Fluent Forms](/images/form-fields/advanced-fields/color-picker-field/Input-Customization-03-27-scaled.webp)
 
 ### Color Picker Field Options
 
-Under the Input Customization tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Color Picker** field.
+Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Color Picker** field.
 
 **A. Element Label:** This is the field title the users will see when filling out the **Color Picker** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -76,7 +76,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ### Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 

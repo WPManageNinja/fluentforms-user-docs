@@ -17,7 +17,7 @@ This article will guide you through integrating [OpenAI ChatGPT](https://openai.
 
 First, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **OpenAI ChatGPT** through the search bar, and get the **OpenAI ChatGPT** integration module.
 
-Now, turn on the **Toggle** to enable the **OpenAI ChatGPT** module, and click the **Settings Icon** on the right side. 
+Now, turn on the **Toggle** to enable the **OpenAI ChatGPT** module, and click **Manage** on the right side. 
 
 ![Enable OpenAI ChatGPT Integrate OpenAI ChatGPT](/images/integrations/other-apps/integrate-openai-chatgpt/1.-Enable-OpenAI-ChatGPT-scaled.webp)
 
@@ -48,7 +48,7 @@ Finally, you will get the **OpenAI API key.** Copy it by clicking the **Copy** b
 
 ## Connecting OpenAI ChatGPT with Fluent Forms
 
-Return to the **OpenAI ChatGPT Integration** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **OpenAI ChatGPT Integration** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Now, paste the **API Key** you copied from **OpenAI ChatGPT** into the **Access Code** field.
 
@@ -64,14 +64,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrating OpenAI ChatGPT with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **OpenAI ChatGPT,** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **OpenAI ChatGPT,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate OpenAI ChatGPT](/images/integrations/other-apps/integrate-openai-chatgpt/9.-Open-desired-form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **OpenAI ChatGPT** integration feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **OpenAI ChatGPT** integration feed from the drawer. 
 
 ![Add Integration Dropdown Integrate OpenAI ChatGPT](/images/integrations/other-apps/integrate-openai-chatgpt/10.-Add-new-integration-dropdown-scaled.webp)
 
@@ -87,7 +87,7 @@ Once you select the desired table, a pop-up page will appear with various settin
 
 5. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
-Once you are done, click the **Save Feed** button, and your OpenAI ChatGPT will be integrated into this specific form!
+Once you are done, click the **Save** button, and your OpenAI ChatGPT will be integrated into this specific form!
 
 > [!Warning]
 > Do not include passwords, API keys, or other sensitive data in **ChatGPT** query instructions.
@@ -109,7 +109,7 @@ After integrating the OpenAI ChatGPT Feed, you will receive a shortcode that mus
 
 To add Shortcode for Submission Confirmation, follow the process below – 
 
-First, go to **Settings & Integrations** and open the **Confirmation Settings** option under **Settings** from the left menu.
+First, go to **Configuration** in the form's top bar and open **Confirmation Settings** under **Responses** from the left menu.
 
 Now, click the **Add Shortcodes** dropdown arrow in the right corner under the **Message to show** the option. Then, select **Chat GPT** and click the **ChatGPT Feed** you created a while ago. 
 

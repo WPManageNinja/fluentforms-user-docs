@@ -11,7 +11,7 @@ The **Image Upload** input field in Fluent Forms lets users submit images in dif
 
 ## Adding Image Upload Field
 
-Go to **Forms** from the Fluent Forms navbar, select the form you want to edit, and click **Edit** to open the form editor.
+Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
 
 > [!Note]
 > If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
@@ -26,7 +26,7 @@ Select **Image Upload** by clicking it or dragging it into the editor.
 
 ## Customizing the Image Upload Field
 
-Hover over the field and click the **Pencil** icon to open **Input Customization** on the right. Available tabs:
+Hover over the field and click the **Pencil** icon to open **Customize** on the right. Available tabs:
 
 - Image Upload Options
 - Advanced Options
@@ -91,7 +91,7 @@ Hover over the field and click the **Pencil** icon to open **Input Customization
 
 ## Embed the Form into Frontend
 
-Click **Save Form**, then **Preview & Design** to preview your changes.
+Click **Save**, then **Preview** to preview your changes.
 
 Copy the form **Shortcode** from the top right and paste it into a **Page** or **Post** to display the form on the frontend.
 

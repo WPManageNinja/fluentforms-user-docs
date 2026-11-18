@@ -29,9 +29,9 @@ Now add **two numeric fields** ( "Number One" and "Number Two"). Then, add a **t
 
 ## Enable Calculation Expression
 
-Now hover over the **Result** field (where you want to show the result) and click the **Edit (pencil) Icon**. In the right sidebar, go to **Advanced Options**.
+Now hover over the **Result** field (where you want to show the result) and click the **Edit (pencil) Icon**. In the right panel, go to **Advanced Options**.
 
-Now, click on the **Enable Calculation option** from the **Advanced Option** to activate the calculation box.
+Now, tick the **Enable Calculation** checkbox under **Calculation Field Settings** to activate the calculation box.
 
 ![Enable Calculations Expression Numeric Calculation](/images/configuring-forms/calculations/numeric-calculation/Enable-calculations-expression-03-scaled.webp)
 
@@ -51,7 +51,7 @@ Select the numeric fields to be used in the calculation ( Number One, Number Two
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click **Save** to save all your changes. Click the **Preview** (eye) icon in the top bar to see the form preview.
 
 To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
 

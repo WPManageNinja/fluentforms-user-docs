@@ -36,14 +36,14 @@ Now, turn on the **Toggle** and the **User Registration or Update** module will 
 
 ## Integrating BuddyBoss with Forms
 
-Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and click the **Settings** button. 
+Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/4.-open-desired-forms-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **User Registration or Update Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **User Registration or Update Integration** feed from the drawer. 
 
 ![Add Integration Dropdown Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/5.-Add-New-Integration-dropdown-scaled.webp)
 
@@ -58,7 +58,7 @@ Finally, scroll down to the BuddyBoss Settings section, and you will get the fol
 
 - **BuddyBoss Profile Type:** Here, you can directly select your desired BuddyBoss Profile Type from the dropdown list by clicking the Arrow Icon on the right side.
 
-Once the configuration is done, click the **Save Feed** button, and your BuddyBoss will be integrated into this specific form!
+Once the configuration is done, click the **Save** button, and your BuddyBoss will be integrated into this specific form!
 
 ![Save Feed Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/6.-Save-Feed.webp)
 

@@ -27,11 +27,11 @@ You can set **Autocomplete** on these fields:
 To enable and configure autocomplete for a specific field, follow these steps:
 
 1. Open your form in the **Editor**.   
-2. Click the field you want to modify, then click the **Pencil** Icon to open the **Input Customization** tab on the right sidebar.   
+2. Click the field you want to modify, then click the **Pencil** Icon to open the **Customize** tab on the right sidebar.   
 3. Scroll down and expand the **Advanced Options** section.   
 4. Find the **Autocomplete** setting and click the dropdown menu.   
 5. Choose your desired value (e.g., Automatic, off, None, or a specific value like given-name).   
-6. Click the **Save Form** button in the top right corner to apply your changes.
+6. Click the **Save** button in the top right corner to apply your changes.
 
 ![Setup Auto-Complete Field](/images/form-fields/general-fields/autocomplete/setup-autocomplete-1.webp)
 

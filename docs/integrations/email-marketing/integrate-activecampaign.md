@@ -19,7 +19,7 @@ This article will guide you through integrating **ActiveCampaign** with **Fluent
 
 Go to **Integrations** from the Fluent Forms navbar and search for **ActiveCampaign**.
 
-Enable the **ActiveCampaign** module, then click the **Settings** icon on the right.
+Enable the **ActiveCampaign** module, then click **Manage** on the right.
 
 ![Enable Activecampaign Integrate ActiveCampaign](/images/integrations/email-marketing/integrate-activecampaign/1.-Enable-ActiveCampaign-scaled.webp)
 
@@ -40,11 +40,11 @@ Click **Copy API URL** and **Copy API Key** to copy both credentials.
 
 ## Connect ActiveCampaign with Fluent Forms
 
-Return to the **ActiveCampaign API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **ActiveCampaign API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API URL** and **API Key** you copied from **ActiveCampaign** into the **ActiveCampaign API URL** and **ActiveCampaign API Key** fields respectively. 
 
-Finally, press the **Save Settings** button to make your **ActiveCampaign Integration** module functional.
+Finally, press the **Save** button to make your **ActiveCampaign Integration** module functional.
 
 ![Paste API URL And Key](/images/integrations/email-marketing/integrate-activecampaign/4.-Paste-API-URL-and-Key-scaled.webp)
 
@@ -55,14 +55,14 @@ Also, you can verify/disconnect it anytime by clicking the **Verify Connection A
 
 ## Integrate ActiveCampaign into Fluent Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ActiveCampaign** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **ActiveCampaign** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Settings Integrate ActiveCampaign](/images/integrations/email-marketing/integrate-activecampaign/6.-Desired-Form-Settings-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **ActiveCampaign Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **ActiveCampaign Integration** feed from the drawer. 
 
 ![Configure Integrations Page Integrate ActiveCampaign](/images/integrations/email-marketing/integrate-activecampaign/7.-Configure-Integrations-page-scaled.webp)
 
@@ -96,7 +96,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 10. **Enable This Feed:** Check this option to ensure this integration feed remains enabled, and all its actions function properly.
 
-Once the setup is done, click the **Save Feed** button and, your **ActiveCampaign** will be integrated into this specific form.
+Once the setup is done, click the **Save** button and, your **ActiveCampaign** will be integrated into this specific form.
 
 ![Save Settings Button Integrate ActiveCampaign](/images/integrations/email-marketing/integrate-activecampaign/9.-Save-Settings-button-scaled.webp)
 

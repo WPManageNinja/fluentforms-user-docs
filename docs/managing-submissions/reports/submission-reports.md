@@ -8,7 +8,7 @@ The **Reports** **Submissions** tab provides a detailed look at the performance 
 
 ## Accessing the Submission Reports
 
-Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** in the top menu bar. When you open the Reports section, you'll automatically be on the **Overview** tab. Now, select the **Submission** option, and you will see all the submission reports.
+Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** in the top menu bar. When you open the Reports section, you'll automatically be on the **Overview** tab. Now, select the **Submissions** tab, and you will see all the submission reports.
 
 ### Filtering Submission Data
 

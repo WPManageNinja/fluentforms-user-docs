@@ -18,7 +18,7 @@ So, let's get started.
 
 To access the form settings, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditional confirmation message.
 
-Once inside the form editor, click on **Settings & Integrations** tab for the selected form. Now from the left sidebar, select **Conditional Confirmation** under the **Settings** section.
+Once inside the form editor, click **Configuration** in the top bar. Now, open **Conditional Confirmation** under **Responses** in the left rail.
 
 ![Confirmation Settings](/images/notifications-confirmations/confirmations/conditional-confirmation-message/Confirmation-Settings-01-scaled.webp)
 
@@ -42,7 +42,7 @@ Here also appears a new window. Now enter the details -
 
 ![Confirmation Message](/images/notifications-confirmations/confirmations/conditional-confirmation-message/confirmation-message-03-scaled.webp)
 
- **Redirect Query String:** The field where you can enter the custom URL with query parameters.
+ **Custom URL:** The field where you can enter the custom URL. Turn on **Pass Field Data Via Query String** to append field values as query parameters.
 
    - **Pass Field Data Via Query String:** This allows you to pass form field data as query parameters in the redirect URL.
 
@@ -84,7 +84,7 @@ Next, provide the specific value or condition that triggers the message. For ins
 
 If you want to add multiple conditional logic then click the plus icon on the left side.
 
-Once your message and logic are set, click **Save Notification** button to apply the changes.
+Once your message and logic are set, click **Save** to apply the changes.
 
 ![Confirmation Logic](/images/notifications-confirmations/confirmations/conditional-confirmation-message/confirmation-logic-05-scaled.webp)
 

@@ -40,7 +40,7 @@ First, use a plugin like **Advanced Custom Fields (ACF)** to create a field grou
 
 ### Map Meta Fields in Fluent Forms
 
-In your form, go to **Settings & Integrations** tab and navigate to the **Post Creation Feed**.
+In your form, go to **Configuration** tab and navigate to the **Post Creation Feed**.
 
 Now, Click +**Add Meta Field** button and paste the copied meta keys into the designated field. Ensure that standard post fields, such as **Post Title** and **Post Content**, are mapped in the form settings before adding custom meta fields.
 

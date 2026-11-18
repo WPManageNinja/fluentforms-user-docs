@@ -15,7 +15,7 @@ This article will guide you through integrating Salesflare with Fluent Forms on 
 
 First, go to **Integrations** from the Fluent Forms Navbar, search for **Salesflare** through the search bar, and get the **Salesflare integration module**.
 
-Now, turn on the **Toggle** to enable the **Salesflare** module, and click the **Settings Icon** on the right side.
+Now, turn on the **Toggle** to enable the **Salesflare** module, and click **Manage** on the right side.
 
 ![Enable Salesflare Integration](/images/integrations/crm/salesflare-integration/enable-salesflare-integration-01-scaled.webp)
 
@@ -42,11 +42,11 @@ After creating the API key, **copy** it for **later** use.
 
 ### Connect Salesflare with Fluent Forms
 
-Then, return to the **Salesflare Settings** page under the **Configure Integration** tab of the **Global Settings** from the **Fluent Forms Navbar**.
+Then, return to the **Salesflare Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
 
 Now, paste the **Api Key** that you copied before.
 
-After that, click the **Save Settings** button to make your **Salesflare Integration** module functional.
+After that, click the **Save** button to make your **Salesflare Integration** module functional.
 
 ![Enter Salesflare API Key](/images/integrations/crm/salesflare-integration/enter-salesflare-api-key-05-01-09-2025_03_42_PM-scaled.webp)
 
@@ -56,14 +56,14 @@ Here, you will see that your **Salesflare API integration is up and running**. T
 
 ## Integrate Salesflare into Fluent Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your salesflare and click the **Settings** button. 
+First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your salesflare and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Setting amoCRM Salesflare Integration](/images/integrations/crm/salesflare-integration/Form-Setting-amoCRM-1-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Salesflare Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Salesflare Integration** feed from the drawer. 
 
 ![Add Integration Salesflare Integration](/images/integrations/crm/salesflare-integration/add-new-integration-07-scaled.webp)
 
@@ -83,7 +83,7 @@ Also you can add multiple fields dynamically by clicking the **Plus Icon**.
 
 **F. Status:** Enable this feed option to activate the integration.
 
-Once the setup is done, finally, click the **Save Feed** button.
+Once the setup is done, finally, click the **Save** button.
 
 Now, your salesflare will be integrated into this specific form!
 

@@ -17,9 +17,7 @@ Multi-step forms are an effective way to collect more data from users without ov
 
 Initially, you can choose [Pre-built Templates](/using-and-customizing-pre-built-quick-forms) or start with a [Blank Form](/create-a-form). Let's begin with a **Blank Form** so you can build it from scratch.
 
-Once you are on the **Editor** page, click the **Plus** **Icon**, open the **Advanced Fields** section, and choose the **Form Step** field.
-
-The **Advanced Fields** option is also in the right sidebar under the **Input Fields** tab. To set it up, click on the **Form Step** field you want or drag and drop it into your editor.
+Once you are on the **Editor** page, open the **Advanced Fields** group under the **Input Fields** tab on the right and drag the **Form Step** field into your editor.
 
 ![Add Form Step field](/images/creating-forms/specialized-form-types/creating-a-multi-step-form/1.-Adding-Form-Step-field-1-scaled.webp)
 
@@ -35,7 +33,7 @@ The form steps mentioned above are explained below.
 
 ## 1. Paging Start
 
-The **Paging Start** block controls the global indicator behavior and styles for the multi-step sequence. Hover over the **PAGING START** bar in your editor and click the **Pencil Icon** to open the **Input Customization** settings.
+The **Paging Start** block controls the global indicator behavior and styles for the multi-step sequence. Hover over the **PAGING START** bar in your editor and click the **Pencil Icon** to open the **Customize** settings.
 
 ### Progress Indicator
 
@@ -78,7 +76,7 @@ The **Progress Indicator** setting controls how step progress is shown at the to
 
 The **Page Break** section creates new steps within the form. Each time you add a **Page Break**, a new section is created for the next step.
 
-You can customize this part by clicking the **Pencil/Edit Icon** when hovering over the field.
+You can customize this part by clicking the **Pencil Icon** when hovering over the field.
 
 1. **Previous Button:** Choose between a **Text button** or an **Image icon** for the previous page button. You can customize the text or add an image link.
 2. **Next Button:** Like the **Previous Button**, choose between a **Text button** or an **Image icon** for the next page. You can customize the text or add an image link.
@@ -90,7 +88,7 @@ You can customize this part by clicking the **Pencil/Edit Icon** when hovering o
 
 The last portion of the **Form Step** is the **Paging End** section. It determines the ending of the multiple-page form.
 
-You can customize this part by clicking the **Pencil/Edit Icon** when hovering over the field.
+You can customize this part by clicking the **Pencil Icon** when hovering over the field.
 
 1. **Element Class:** Add custom CSS classes to style the input field.
 2. **Previous Button:** Choose between a **Text button** or an **Image icon** for the previous page button. If you choose the **Default** option, you get the **Previous Button** field to customize the text. If you select the **Image** option, you can add an image link for the previous button.
@@ -99,9 +97,9 @@ You can customize this part by clicking the **Pencil/Edit Icon** when hovering o
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon to see the form preview.
 
-To integrate and display the form on a specific page or post, copy the **Shortcode** from the top right side and paste it into your desired page or post.
+To integrate and display the form on a specific page or post, click the copy icon next to the **Shortcode** in the top bar and paste it into your desired page or post.
 
 ![Save multi-step form](/images/creating-forms/specialized-form-types/creating-a-multi-step-form/Save-Form-05-8-scaled.webp)
 

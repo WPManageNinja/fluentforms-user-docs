@@ -15,7 +15,7 @@ This article will guide you through integrating **Trello** with **Fluent Forms**
 
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **Trello** through the search bar, and get the **Trello** integration module.
 
-Now, turn on the **Toggle** to enable **Trello**, and click the **Settings Icon** on the right side. 
+Now, turn on the **Toggle** to enable **Trello**, and click **Manage** on the right side. 
 
 ![Enabled Trello Module](/images/integrations/other-apps/integrate-trello/1.-enabled-Trello-module-scaled.webp)
 
@@ -38,10 +38,10 @@ Once you click allow, Trello will provide the access key. Now, simply copy it.
 
 ## Connecting Trello with Fluent Forms
 
-Return to the **Trello API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **Trello API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **Access Key** you copied from **Trello** into the **Trello Access Key** field.
-Finally, press the **Save Settings** button to make your **Trello Integration** functional. 
+Finally, press the **Save** button to make your **Trello Integration** functional. 
 
 ![Paste API Key](/images/integrations/other-apps/integrate-trello/5.-Paste-API-Key-scaled.webp)
 
@@ -53,14 +53,14 @@ Now, you can verify/disconnect it anytime by clicking the **Verify Connection Ag
 
 ## Integrating Trello with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Trello** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Trello** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Trello](/images/integrations/other-apps/integrate-trello/7.-Open-desired-Form-Settings-1-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **Trello Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Trello Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate Trello](/images/integrations/other-apps/integrate-trello/8.-Add-New-Integration-button-1-scaled.webp)
 
@@ -80,7 +80,7 @@ Now, a pop-up page will appear with various settings options for configuring Tre
 
 7. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
 
-Once the setup is done, click the **Save Feed** button, and your Trello will be integrated into this specific form! 
+Once the setup is done, click the **Save** button, and your Trello will be integrated into this specific form! 
 
 ![Save Feed Button Integrate Trello](/images/integrations/other-apps/integrate-trello/9.-Save-Feed-button-2-scaled.webp)
 

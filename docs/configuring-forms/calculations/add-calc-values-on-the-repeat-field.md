@@ -39,7 +39,7 @@ After that, you can calculate the total number of repeat fields. Add a new numer
 
 If you want to know more about **Repeat Field** then read the [Repeat Field](/repeat-input-field) documentation.
 
-After that, click the **Save Form** button. Preview and test it by filling it out.
+After that, click **Save**. Preview and test it by filling it out.
 
 ![Preview Calc Value](/images/configuring-forms/calculations/add-calc-values-on-the-repeat-field/Preview-calc-value-form-04-scaled.webp)
 

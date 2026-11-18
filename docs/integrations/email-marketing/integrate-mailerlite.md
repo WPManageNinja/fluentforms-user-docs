@@ -13,7 +13,7 @@ description: "Fluent Forms integrates MailerLite an email marketing tool that he
 
 Go to **Integrations** from the **Fluent Forms Navbar**, search for **MailerLite** in the search bar, and open the **MailerLite** integration module.
 
-Turn on the **Toggle** to enable **MailerLite**, then click the **Settings Icon** on the right to open its configuration.
+Turn on the **Toggle** to enable **MailerLite**, then click **Manage** on the right to open its configuration.
 
 ![Enabled Mailerlite Fluent Forms](/images/integrations/email-marketing/integrate-mailerlite/1.-Enabled-MailerLite-scaled.webp)
 
@@ -43,9 +43,9 @@ Now, copy/download the API token by clicking the **Copy** or **Download** button
 
 ## Connect MailerLite with Fluent Forms
 
-Return to the **MailerLite API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Return to the **MailerLite API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
-Paste the **API Key** you copied from **MailerLite** into the **MailerLite API Key** field and press the **Save Settings** button to make it functional.
+Paste the **API Key** you copied from **MailerLite** into the **MailerLite API Key** field and press the **Save** button to make it functional.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-mailerlite/7.-Paste-API-Key-1-scaled.webp)
 
@@ -56,14 +56,14 @@ Also, you can verify/disconnect it anytime by clicking the **Verify Connection A
 
 ## Integrate MailerLite with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **MailerLite,** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **MailerLite,** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate MailerLite](/images/integrations/email-marketing/integrate-mailerlite/Open-Desired-Form-Settings-6-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **MailerLite Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **MailerLite Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate MailerLite](/images/integrations/email-marketing/integrate-mailerlite/9.-Add-New-Integration-button-2-scaled.webp)
 
@@ -87,7 +87,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 6. **Enable This Feed:** Check this option to ensure this integration feed remains enabled, and all its actions function properly.
 
-Once the setup is done, click the **Save Feed** button and your **MailerLite** will be integrated into this specific form!
+Once the setup is done, click the **Save** button and your **MailerLite** will be integrated into this specific form!
 
 ![Save Feed Button Integrate MailerLite](/images/integrations/email-marketing/integrate-mailerlite/11.-Save-Feed-button-2-scaled.webp)
 

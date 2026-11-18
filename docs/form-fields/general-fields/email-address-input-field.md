@@ -26,17 +26,17 @@ Now, choose the desired **Email Address** field by clicking or **drag** and **dr
 
 ## Customizing the Email Address Input Field
 
-An email field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+An email field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
 
 - Email Field Options
 
 - Advanced Options
 
-![Input Customization](/images/form-fields/general-fields/email-address-input-field/input-customization-03-2-scaled.webp)
+![Customize](/images/form-fields/general-fields/email-address-input-field/input-customization-03-2-scaled.webp)
 
 ### Email Field Options
 
-You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **Email Address** field.
+You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Email Address** field.
 
 **A. Element Label:** This is the field title the users will see when filling out the **Email** field in a form. You can enter any text here to help users understand the purpose of the field.
 
@@ -80,7 +80,7 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all your changes. Click the **Preview & Design** button in the middle to see the form preview.
+Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
 
 To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
 

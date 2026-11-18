@@ -20,15 +20,15 @@ First, go to **Forms** from the top navbar, and **open** the **Editor** page of 
 
 ![Editor Fluent Forms](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/1.-desired-Form-Editor-3-scaled.webp)
 
-Now, go to **Settings & Integrations** from the top navbar and open the **Email Notifications** tab.
+Now, click **Configuration** in the top bar and open **Email Notifications** under **Responses** in the left rail.
 
 Here, you can see one **Admin Notification Email** is already created by default. You can use it by **enabling the toggle** button and edit by clicking the **Settings Icon**. 
 
-Or, you can **Create** a new one by clicking the **+ Add Notification** button. **For example**, I created a new notification to show you the whole process of adding email notifications for Admin/User. 
+Or, you can **Create** a new one by clicking the **Add Notification** button. **For example**, I created a new notification to show you the whole process of adding email notifications for Admin/User. 
 
 ![Settings Integration Email Notification Add Notification Setup Admin/User Email Notifications](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/2.-Settings-Integration-Email-Notification-Add-new-notification-2-scaled.webp)
 
-Once you are on the **Email Notifications** page, fill in all the necessary settings as per your needs, click the **Save Notification** button, and your admin/user notification will be set.
+Once you are on the **Add Notification** page, fill in all the necessary settings as per your needs, click **Save**, and your admin/user notification will be set.
 
 ![Email Notfications Page](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/3.-Email-Notfications-Page-scaled.webp)
 
@@ -45,7 +45,7 @@ Here, provide a name for your email notification to find it easily later.
 
 Here, you will get three options for setting up the **Email Notification**. These are:
 
-- Enter Email: Use this option to set up the email notification for the Admin.
+- Send to Email: Use this option to set up the email notification for the Admin.
 
 - Select a Field: Use this option to set up the email notification for the Users.
 
@@ -55,7 +55,7 @@ Here, you will get three options for setting up the **Email Notification**. Thes
 
 By default, the `{wp.admin_email}` shortcode is available to send emails to the site admin. This shortcode will automatically use the default admin email set in your WordPress settings.
 
-If you prefer to specify a different admin email manually, choose the **Enter Email** option in the **Send To** field and input the desired email address.
+If you prefer to specify a different admin email manually, choose the **Send to Email** option and input the desired email address.
 
 You can also send notifications to multiple recipients by separating email addresses with a comma (,).
 
@@ -63,9 +63,9 @@ You can also send notifications to multiple recipients by separating email addre
 
 ## Setup User Notification Using Select a Field
 
-Now, select the **Select a Field** option in the **Send To** field and define an **Email** input field in your form whose value will receive the confirmation email.
+Now, select the **Select a Field** option and define an **Email** input field in your form whose value will receive the confirmation email.
 
-You can select the **Email** field by clicking the **drop-down arrow** beside the **Send To Field**.
+You can select the **Email** field by clicking the **drop-down arrow** in the **Select an email field** box.
 
 ![Select Field Option Setup Admin/User Email Notifications](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/5.-Select-a-Field-option.webp)
 
@@ -75,7 +75,7 @@ You can select the **Email** field by clicking the **drop-down arrow** beside th
 
 ### C. Subject
 
-Here, you can set a subject for your email notification. You can also add data from submitted entries through the input fields using the **Three-dot-icon** dropdown list in the right corner.
+Here, you can set a subject for your email notification. You can also add data from submitted entries through the input fields using the **{ }** shortcode icon in the right corner of the **Subject** field.
 
 ![Subject Option Fluent Forms](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/6.-Subject-option.webp)
 
@@ -84,13 +84,13 @@ Here, you can set a subject for your email notification. You can also add data f
 Here, you can set the body for your email according to your requirements.
 
 You can use the **Add Shortcodes** drop-down arrow on the right corner to add dynamic data. See the [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings) reference for every available smart shortcode.
-Also for advanced customization, you can edit the email body in **HTML Codes** through the **Text** tab.
+Also for advanced customization, you can edit the email body in **HTML Codes** through the **Code** tab.
 
 ![Email Body Option](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/7.-Email-Body-option.webp)
 
 #### Send Email as Raw HTML Format
 
-Similar to the **Text** tab, this option lets you send the email body in **HTML format**. Here, click the **Note Icon** in the right corner to add the desired ShortCode/s.
+Similar to the **Text** tab, this option lets you send the email body in **HTML format**. Here, type your HTML and shortcodes directly into the box.
 
 ![Send Email As Raw HTML Format](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/8.-Send-email-as-Raw-HTML-Format.webp)
 
@@ -114,12 +114,12 @@ Enabling this option allows you to set specific conditions for sending email not
 
 Use this setting if you want to configure someone else who also needs to be notified of an entry submission (your teammates, support staff, etc).
 
-- From Name & Email: Here, you can specify the sender name and email in the From Name and From Email fields respectively. Plus, you can add different dynamic data by clicking Shortcode Icon.
+- From Name & Email: Here, you can specify the sender name and email in the From Name and From Email fields respectively. Plus, you can add different dynamic data by clicking the **{ }** shortcode icon.
 
 - Reply To: Here, you can specify an email address for users to reply to the notification, ensuring you receive their responses. If you leave this field blank, the user reply will be sent to the Default Email you set for your site.
 
 - BCC & CC: Here, you can add an email address in the CC or BCC if you want to send a copy of the email to another person. Use a Comma in between each email address to add more than one receiver.
 
-Finally, click the **Save Notification** button when you complete all the setup.
+Expand the **Advanced** section at the bottom of the page to find these options. Finally, click **Save** when you complete all the setup.
 
 ![Advanced Option Fluent Forms](/images/notifications-confirmations/email-notifications/setup-adminuser-email-notifications/11.-Advanced-option.webp)

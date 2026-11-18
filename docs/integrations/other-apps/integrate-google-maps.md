@@ -11,9 +11,9 @@ description: "Fluent Forms integrates Google Maps to allow your users to auto-fi
 
 ## Integrating Google Maps with Fluent Forms
 
-First, go to the **Global Settings** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, open the **Configure Integrations** tab in the left menu, and click the **Google Maps Integration**. 
+First, go to **Global Settings** from the gear icon in the Fluent Forms top bar, open **Integrations** from the left menu, and click **Google Maps Integration**. 
 
-Once you are on the **Google Maps Integration Settings,** you will be asked for the **Google Maps API Key** from your Google Account. Then, click the **Save Settings** button, and Google Maps will be connected to Fluent Forms.
+Once you are on the **Google Maps Integration Settings,** you will be asked for the **Google Maps API Key** from your Google Account. Then, click the **Save** button, and Google Maps will be connected to Fluent Forms.
 
 ![Google Maps Integration Settings Page](/images/integrations/other-apps/integrate-google-maps/1.-Google-Maps-Integration-Settings-page-scaled.webp)
 
@@ -63,11 +63,11 @@ After the key is created, copy it by clicking the **Copy** button.
 
 ### Connecting Google Maps with Fluent Forms
 
-Go back to the **Google Maps Integration Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Go back to the **Google Maps Integration Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste the **API Key** you copied from **Google** into the **Google Map API Key** field.
 
-Finally, press the **Save Settings** button, and your **Google Map Integration** module will be enabled.
+Finally, press the **Save** button, and your **Google Map Integration** module will be enabled.
 
 ![Paste API Key](/images/integrations/other-apps/integrate-google-maps/11.-Paste-API-Key-scaled.webp)
 

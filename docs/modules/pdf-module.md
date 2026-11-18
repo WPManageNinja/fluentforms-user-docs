@@ -18,7 +18,7 @@ In your WordPress dashboard, go to **Plugins**, click **Add New Plugin**, and se
 
 ## Install and Activate the PDF Feed
 
-After activating the PDF generator plugin, click the **Integration** section from the top menu bar. Then, select the **Fluent Form PDF** section. Here, you will see the **Fluent Form PDF Modules**. Now, click **Install Fonts** to set up the required fonts and elements.
+After activating the PDF generator plugin, click **Integrations** in the Fluent Forms navbar and search for **Fluent Forms PDF**. Click **Configure** next to it to see the **Fluent Form PDF Modules**. Now, click **Install Fonts** to set up the required fonts and elements.
 
 Wait for the installation to complete. A success message will confirm the setup.
 
@@ -33,9 +33,9 @@ Your **Fluent PDF Module** is active, so you can now use the **PDF Feed** of Flu
 
 ## Configure Global PDF Settings
 
-To configure Global PDF Settings, go to your WordPress dashboard, hover over Fluent Forms Pro, and select **Settings**. This will open Fluent Forms' **Global Settings** window.
+To configure Global PDF Settings, go to your WordPress dashboard, click the **Settings** (gear) icon in the Fluent Forms navbar to open **Global Settings**.
 
-Now, click on **PDF Settings**. Here, you will need to configure **PDF** settings globally. Note that each form can override this setting.
+Now, expand **Other Settings** and click **PDF Settings**. Here, you will need to configure **PDF** settings globally. Note that each form can override this setting.
 
 ![PDF Setting](/images/modules/pdf-module/PDF-Setting-05-scaled.webp)
 
@@ -43,18 +43,18 @@ Now, click on **PDF Settings**. Here, you will need to configure **PDF** setting
 
 To enable PDF export for a specific form, follow these steps-
 
-Open the form where you want to allow **PDF Export**. Navigate to the **Settings & Integrations** tab.
+Open the form where you want to allow **PDF Export**. Click **Configuration** in the top bar.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
 
-Now click on **PDF Feeds** from the left sidebar. Then click the **Add PDF Feed** button.
+Now expand **Integrations & Add-ons** in the left sidebar and click **PDF Feeds**. Then click the **Add PDF Feed** button at the top right.
 
 ![Enable PDF Settings Fluent Forms PDF Module](/images/modules/pdf-module/enable-PDF-Settings-06-1-scaled.webp)
 
 ## Customizing the PDF Feed
 
-A popup will appear asking you to choose a **PDF Template**. Select the available template.
+A **Create new PDF Feed** popup will appear asking you to choose a **PDF Template**. Select **General** or **Certificate**.
 
 ![Select PDF Template Fluent Forms PDF Module](/images/modules/pdf-module/Select-a-PDf-Template-07-scaled.webp)
 
@@ -62,11 +62,11 @@ A popup will appear asking you to choose a **PDF Template**. Select the availabl
 
 **A. Feed Title:** Set the feed title for the PDF Feed. Also, add a shortcode from the dropdown options on the right side.
 
-**B. Header Content:** Enter the header custom text here. You can also **Add Shortcode** here. 
+**B. Header Content:** Enter the header custom text here. You can also **Add Shortcode** here. 
 
 **C. PDF Body Content:** This section allows you to design the main content of your PDF. 
 
-For example, using **{all_data}** will include all submitted form data in the PDF. You can also click the **Add Shortcode** button to insert dynamic content using shortcodes. This enables you to format your content precisely, creating clean, well-organized, and dynamic PDFs that display your form data exactly as needed.
+For example, using **{all_data}** will include all submitted form data in the PDF. You can also click the **Add Shortcode** button to insert dynamic content using shortcodes. This enables you to format your content precisely, creating clean, well-organized, and dynamic PDFs that display your form data exactly as needed.
 
 Fluent Forms also provides an HTML editor for full control over the PDF layout and design. Click the **Code** view to access it. 
 
@@ -116,7 +116,7 @@ When the change is complete, click the **Save Feed** button, and the **PDF Feed*
 
 Once you have customized the form and added the PDF Feed, go to the [**Entries**](/managing-entries) section of the chosen form.
 
-Now, select any submission entry you wish to work on and click the **View Icon** of that entry.
+Now, select any submission entry you wish to work on and click its **ID** to open it.
 
 ![Entries Fluent Forms](/images/modules/pdf-module/entries-10-scaled.webp)
 

@@ -13,9 +13,9 @@ This article will guide you through integrating **Square** into your **WordPress
 
 ## Enable Square Payment Method
 
-Go to **Global Settings** from the Fluent Forms navbar, open the **Payment** tab, and select **Payment Methods**.
+Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Select **Square**, then click **Enable Square Payment Method** to activate Square globally for all forms.
+Turn on the toggle next to **Square** to enable it globally for all forms, then click **Manage** to open its settings.
 
 ![Enable Payment Methods Integrate Square](/images/payments/payment-gateways/integrate-square-inline-payment-integration/1.-Enable-Payment-Methods-scaled.webp)
 
@@ -62,11 +62,11 @@ Now, go to the **Locations** tab from the left sidebar, and copy the **Location 
 
 ![Copy Location ID](/images/payments/payment-gateways/integrate-square-inline-payment-integration/9.-Copy-Location-ID-scaled.webp)
 
-Now, return to the **Square Payment Method Settings** from the **Global Settings** section of **Fluent Forms**.
+Now, return to the **Square** page under **Payment Settings → Payment Methods** (click **Manage**).
 
 Then, paste **the Application ID**, **Access Token**, and **Location ID** in the corresponding fields.
 
-Finally, press the **Save Settings** button, and your Square account will be configured with Fluent Forms for your WordPress Site. 
+Finally, click the **Save** button, and your Square account will be configured with Fluent Forms for your WordPress Site. 
 
 ![Paste All Credentials](/images/payments/payment-gateways/integrate-square-inline-payment-integration/10.-Paste-all-credentials-scaled.webp)
 
@@ -88,11 +88,11 @@ Now, go to the **Payment Methods**, check the **Square** option, click the **Dro
 
 ![Set Up Payment Method Field](/images/payments/payment-gateways/integrate-square-inline-payment-integration/12.-set-up-Payment-Method-field-scaled.webp)
 
-Once you complete the edit, press the **Save Form** button to save all the changes.
+Once you complete the edit, press the **Save** button to save all the changes.
 
 Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
 
-Also, to see the **Preview** of the form, click the **Preview & Design** button in the middle.
+Also, to see the **Preview** of the form, click the **Preview** button in the middle.
 
 ![Save Integrate Square](/images/payments/payment-gateways/integrate-square-inline-payment-integration/13.-Save-form-scaled.webp)
 

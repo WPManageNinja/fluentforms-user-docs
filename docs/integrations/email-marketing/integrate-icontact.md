@@ -20,7 +20,7 @@ This article will guide you through integrating **iContact** with **Fluent Forms
 First, go to **Integrations** from the **Fluent Forms Navbar**, search for **iContact** through the search bar, and get the **iContact** integration module.
 
 Now, turn on the **Toggle** to enable the **iContact**. 
-Then, you will see the iContact’s **Settings Icon** on the right side, click on it.
+Then, you will see the iContact’s **Manage** button on the right side, click on it.
 
 ![Enabled Icontact Fluent Forms](/images/integrations/email-marketing/integrate-icontact/1.-Enabled-iContact--scaled.webp)
 
@@ -54,11 +54,11 @@ Also, give your API a **Name** and **Description** under the **API Information**
 
 ## Connect iContact with Fluent Forms
 
-Then, return to the **iContact API Settings** page under the **Configure Integrations** tab of the **Global Settings** section from the **Fluent Forms** **Navbar**. 
+Then, return to the **iContact API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
 
 Paste all the required information you copied from iContact into the respective fields (**Application ID** into **Application Key**, **Username/Email Address** into **Account Email Address**, **Password** into **API Password**, **Account ID**, and **Client Folder ID** fields).
 
-Finally, click the **Save Settings** button to make your **iContact Integration** module functional.
+Finally, click the **Save** button to make your **iContact Integration** module functional.
 
 ![Paste All Copied Information](/images/integrations/email-marketing/integrate-icontact/7.-Paste-all-copied-information-scaled.webp)
 
@@ -70,14 +70,14 @@ You can verify/disconnect it anytime by clicking the **Verify Connection Again/D
 
 ## Integrate iContact into Fluent Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **iContact** and click the **Settings** button. 
+First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **iContact** and open the **Configuration** tab. 
 
 > [!Note]
 > If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate iContact](/images/integrations/email-marketing/integrate-icontact/Open-Desired-Form-Settings-2-scaled.webp)
 
-Once you are on the **Settings & Integrations**, go to the **Configuration Integrations** tab, click the **Add New Integration** button, and select **iContact Integration** feed from the dropdown list. 
+Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **iContact Integration** feed from the drawer. 
 
 ![Add Integration Button Integrate iContact](/images/integrations/email-marketing/integrate-icontact/9.-Add-New-Integration-button-1-scaled.webp)
 
@@ -98,7 +98,7 @@ Once you select the list, a pop-up page will appear with various settings option
 
 5. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
 
-Once the setup is done, finally, click the **Save Feed** button.
+Once the setup is done, finally, click the **Save** button.
 And, your iContact will be integrated into this specific form!
 
 ![Save Feed Button Integrate iContact](/images/integrations/email-marketing/integrate-icontact/11.-Save-Feed-button-1-scaled.webp)
