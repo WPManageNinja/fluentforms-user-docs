@@ -1,10 +1,10 @@
 ---
-description: "Fluent Forms is the most powerful, user-friendly drag-and-drop form-building plugin for WordPress."
+description: "Fluent Forms is a powerful, user-friendly drag-and-drop form-building plugin for WordPress."
 ---
 
 # User Interface
 
-Fluent Forms is the most powerful, user-friendly drag-and-drop form-building plugin for WordPress. It allows you to create, manage, and customize website forms.
+Fluent Forms is a powerful, user-friendly drag-and-drop form-building plugin for WordPress. It allows you to create, manage, and customize website forms.
 
 This documentation walks you through the key elements and capabilities of the Fluent Forms user interface.
 
@@ -84,7 +84,7 @@ The Form Builder allows you to create and customize forms using a drag-and-drop 
 
 * **Top Bar:** Switch between **Editor**, **Appearance**, **Configuration**, and **Entries** for the current form. The **More** menu holds additional screens.
 * **Field Panel:** The sidebar on the right that shows [all available form fields](/form-fields-overview), including general and advanced types like text input, checkboxes, and dropdowns. Drag any field from here into your form, or use the search box to find a field fast.
-* **Customize:** Open the **Customize** tab on the right to change a field after adding it to the form.
+* **Customize:** Open the **Customize** tab on the right to change a field style after adding it to the form.
 * **Form Canvas:** The main workspace where you design and arrange your form.
 * **Field Settings:** When you click on a field, you can edit its label, placeholder, validation rules, and other options.
 * **Container:** Use containers to create multi-column layouts. You can also resize them as needed.

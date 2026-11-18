@@ -4,7 +4,7 @@ description: "A complete introduction to Fluent Forms: what the plugin does, how
 
 # Getting Started
 
-Welcome to the [Fluent Forms](https://wordpress.org/plugins/fluentform/) documentation. Fluent Forms is the fast, all-in-one form builder for WordPress. You build forms visually, publish them anywhere, collect payments, and send every submission to the tools you already use, all without writing code.
+Welcome to the [Fluent Forms](https://wordpress.org/plugins/fluentform/) documentation. Fluent Forms is a powerful, all-in-one form builder for WordPress. You build forms visually, publish them anywhere, collect payments, and send every submission to the tools you already use, all without writing code.
 
 This page introduces the whole plugin. You will see what Fluent Forms can do, how a form comes together from start to finish, and which guide to open next.
 

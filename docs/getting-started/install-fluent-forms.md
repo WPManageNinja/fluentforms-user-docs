@@ -56,4 +56,4 @@ Once the plugin is installed, search for **Fluent Forms** in the list of your in
 
 ![Activate](/images/getting-started/install-fluent-forms/05-scaled.webp)
 
-There you go! You have just installed the best WordPress form builder solution. Now, you are all set to [create your first form](/create-a-form) and explore all the impressive features it offers. To unlock advanced fields, payments, and more, [upgrade to Fluent Forms Pro](/upgrade-to-pro-add-on).
+There you go! You have just installed a powerful WordPress form builder. Now, you are all set to [create your first form](/create-a-form) and explore all the impressive features it offers. To unlock advanced fields, payments, and more, [upgrade to Fluent Forms Pro](/upgrade-to-pro-add-on).
