@@ -85,3 +85,7 @@
 .vp-doc._changelog .vp-code-group .lang {
   display: none;
 }
+
+/* Nav title and home cards follow the Ninja Tables design language */
+.VPNavBarTitle .title { color: var(--vp-c-text-1); }
+.VPFeature:hover .title { color: var(--vp-c-brand-1); }

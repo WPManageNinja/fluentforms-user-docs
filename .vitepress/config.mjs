@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 
 import sidebar from './sidebar.json' with { type: 'json' };
 import { zoomablePlugin } from './theme/markdown-plugin-zoomable.js';
+import { docBlocksPlugin } from './theme/plugin-doc-blocks.js';
 
 // Production origin, shared by the sitemap, canonical tags and social cards.
 const HOSTNAME = 'https://docs.fluentforms.com';
@@ -55,6 +56,7 @@ export default defineConfig({
   markdown: {
     config: (md) => {
       md.use(zoomablePlugin);
+      md.use(docBlocksPlugin);
     },
   },
   srcExclude: ['README.md', 'CLAUDE.md', '*-PLAN.md', 'docs/public/**'],
