@@ -4,58 +4,58 @@ description: "Creating a personality quiz with Fluent Forms is simple and intuit
 
 # Creating a Personality Quiz Form
 
-Creating a personality quiz with Fluent Forms is simple and intuitive. The Quiz Module allows you to provide text-based answers and categorize users based on their responses. 
+The Quiz Module lets you create a personality quiz with text-based answers and sort users into categories based on their responses.
 
-This article will guide you in creating a successful Personality Quiz Form with fluent forms.
+This guide shows you how to enable the module, build the questions, and set up the personality types.
+
+> [!Note]
+> **The Quiz module** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Enabling the Quiz Module
 
-First, click **Integrations** in the Fluent Forms top bar and search for the **[Quiz Module](/quiz-module)**.
-
-Now, turn on the **Toggle** to enable the **Quiz** module.
+Click **Integrations** in the Fluent Forms top bar and search for the **[Quiz Module](/quiz-module)**. Turn on the **Toggle** to enable it.
 
 ![Enable quiz module](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/enable-quiz-module-01-scaled-2.webp)
 
 ## Create Your Quiz Questions
 
-**Now,** use the [Radio Field](/radio-field) to craft your quiz questions. For each question, provide multiple answer options. Then, customize each question and its options in the **Customize** tab.
+Use the [Radio Field](/radio-field) to write your quiz questions. Give each question several answer options. Then customize each question and its options in the **Customize** tab.
 
 ![Quiz question field](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/question-02-scaled.webp)
 
 ### Add a Quiz Score Field
 
-Add the **Quiz Score** field to enable result calculation. Search for it in the **Input Fields** tab or find it under **Advanced Fields**.
+Add the **Quiz Score** field to calculate results. Search for it in the **Input Fields** tab, or find it under **Advanced Fields**.
 
 ![Quiz score field](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/quiz-score-field-03-scaled.webp)
 
 ## Configure Personality Quiz Settings
 
-Once the quiz score field is added, open the **Customize** tab of the quiz score field. Now, set the **Score Type** to **Personality Quiz**.
+Open the **Customize** tab of the quiz score field and set **Score Type** to **Personality Quiz**.
 
 ![Quiz answer options](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/unnamed-1-3.webp)
 
 ### Define Personality Types and Answer Values
 
-Once the Personality Quiz mode is activated:
+After you set the Personality Quiz mode:
 
-- On the left side, add your Personality Types, and you'll define the results associated with each type.
+- On the left side, add your Personality Types and define the result for each type.
+- On the right side, assign each answer option a value that matches a personality type.
 
-- On the right side, assign each answer option a value that aligns with a personality type.
-
-This mapping helps Fluent Forms calculate which personality type best fits the user based on their selections.
+Fluent Forms uses this mapping to calculate which personality type best fits the user's selections.
 
 ![Personality quiz type](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/personality-quiz-type-04-scaled.webp)
 
 ### Configure Quiz Settings
 
-Now, configure the **Quiz Settings.** Click **Configuration** in the top bar of your form, then select **Quiz Settings** from the left menu to access the quiz options.
+Click **Configuration** in the top bar of your form, then select **Quiz Settings** from the left menu.
 
-Using the **Radio Field**, ensure all your questions are included and correctly configured. Then, click the **Save** button to confirm your configuration.
+Check that all your **Radio Field** questions are included and configured correctly. Click **Save**.
 
 ![Quiz settings](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/quiz-setting-enable-05-scaled.webp)
 
 ### Preview of the Personality Quiz Form
 
-Once your quiz is set up, **Publish** the form on a page or post. Then, your users will see a series of questions. After form submission, the personality results will be displayed based on their answers.
+Publish the form on a page or post. Users see the series of questions. After they submit, the form shows the personality result that matches their answers.
 
 ![Personality quiz preview](/images/creating-forms/specialized-form-types/creating-a-personality-quiz-form/preview-06-3.webp)

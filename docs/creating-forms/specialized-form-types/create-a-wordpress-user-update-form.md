@@ -4,12 +4,15 @@ description: "The user profile editing option for any form is a fantastic featur
 
 # Create a WordPress User Update Form
 
-The user profile editing option for any form is a fantastic feature of **Fluent Forms**. You can make the WordPress **User Update** process super easy by creating a user update form using **Fluent Forms**. 
+With **Fluent Forms**, you can turn any form into a user profile editing form. A **User Update** form lets users change their WordPress profile details from the front end.
 
-This article will guide you through how users can update forms with Fluent Forms on your WordPress site step by step.
+This guide shows you how to enable the module, set up the user update feed, and check the results.
 
 > [!Note]
-> To test **user profile updates**, submit the form while **logged in** to WordPress. The update feed updates the current user’s account only when an active session exists.
+> **User Update** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
+
+> [!Note]
+> To test **user profile updates**, submit the form while **logged in** to WordPress. The update feed changes the current user’s account only when a session is active.
 
 ## Enable the User Update Module
 
@@ -19,59 +22,47 @@ Click **Integrations** in the Fluent Forms top bar and open the **WP Core Module
 
 ## Configure the User Update Feed
 
-Before configuring the user update feed, you must use a particular form or create a new form for your user update.
+Before you configure the feed, pick the form you want to use or create a new one.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form). You can also start from a template with [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
-Once the module is enabled, proceed with the form settings. Click **Configuration** in the top bar of the form. Then open **Integrations & Add-ons** from the left menu.
+With the module enabled, click **Configuration** in the top bar of the form. Open **Integrations & Add-ons** from the left menu.
 
-Now, click the **Add New Integration** button and select the **User Registration or Update Integration** option from the list that opens on the right.
+Click **Add New Integration** and select **User Registration or Update Integration** from the list on the right.
 
 ![User update fields](/images/creating-forms/specialized-form-types/create-a-wordpress-user-update-form/2.webp)
 
 ## Customize the User Update Feed
 
-The feed settings page opens. Set **Services** to **User Update**. Now, customize the **User Update** feed according to your name feed and select the **User Update** fields from the available options.
+The feed settings page opens. Set **Services** to **User Update**, name the feed, and select the **User Update** fields. The options are:
 
-**A. Name:** Enter the name that specifies the name of the user update feed.
-
-**B. Service:** Select the type of service that feeds **User Update.**
-
-**C. Map Fields:**  Use all the fields under this option to properly link your **user update field** with the **Form Fields**. You can easily select the **value** for the **Form Fields** based on the **user update** using the **Shortcode Arrow**. 
-
-**D. User Meta**: Add custom user meta fields in the **User Meta** section. In the first column, type the **meta key**. In the second column, select the corresponding **form field value**.
-
-You can add multiple meta keys by clicking the **Plus Icon.**
+* **Name:** Enter a name for the user update feed.
+* **Services:** Select the type of service for the feed. Here, choose **User Update**.
+* **Map Fields:** Link your **user update fields** to the **Form Fields**. Use the **Shortcode Arrow** to select the **value** for each form field.
+* **User Meta:** Add custom user meta fields. In the first column, type the **meta key**. In the second column, select the corresponding **form field value**. Click the **Plus Icon** to add more meta keys.
+* **Conditional Logic:** Run the feed only when your conditions match. To learn more, see [Set Up Forms With Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
+* **Status:** Enable this option to activate the integration.
 
 > [!Note]
 > The **User Meta** key must match the form field’s **name attribute**.
 
-**E. Conditional Logic:** This option allows the feed to run only when your conditions match. To learn more, see [Set Up Forms With Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
-
-**F. Status:** Enable this feed option to activate the integration.
-
-Once the setup is done, finally, click the **Save** button.
-
-Your User Registration form or Update will be integrated into this specific form!
+Click **Save**. The user update feed is now part of this form.
 
 > [!Note]
 > One form can include both **User Registration** and **User Update** feeds. To set up new account sign-up, see [How to Create a WordPress User Registration Form With Fluent Forms](/create-a-wordpress-user-registration-form).
 
 ![User update feed](/images/creating-forms/specialized-form-types/create-a-wordpress-user-update-form/add-new-user-update-03-scaled.webp)
 
-After successful Integration, you will see that your User Registration or Update Feed has been added here. 
+Your User Registration or Update feed now appears in the list.
 
-You can edit your feed anytime by clicking the **Pencil Icon**, duplicate it with the **Copy Icon**, and **Delete** it by clicking the **Trash Icon**. 
-Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
+Click the **Pencil Icon** to edit the feed, the **Copy Icon** to duplicate it, or the **Trash Icon** to delete it. Use the **Toggle** to disable or enable the feed.
 
 ![User update settings](/images/creating-forms/specialized-form-types/create-a-wordpress-user-update-form/4.webp)
 
-## Preview the User Registration Form
+## Check the Results
 
-Here, you can see the preview of the added contacts for the **User Registration** form through the form entries I set up during the integration.
-
-You can see form submissions from the **Entries** section of this particular form.
+Open the **Entries** section of this form to see the updated submissions.
 
 ![User update preview](/images/creating-forms/specialized-form-types/create-a-wordpress-user-update-form/5.webp)
 
