@@ -1,10 +1,10 @@
 ---
-description: "Fluent Forms offers Conversational Forms, making it easy for developers and designers to engage with users in a conversational format."
+description: "Fluent Forms offers Conversational Forms, letting you turn a form into a one-question-at-a-time experience."
 ---
 
 # Create a Conversational Form
 
-**Fluent Forms** offers **Conversational Forms**, making it easy for developers and designers to engage with users in a conversational format. This article will guide you through creating a **Conversational Form** with **Fluent Forms**. 
+**Fluent Forms** offers **Conversational Forms**, which turn a form into a one-question-at-a-time experience. This guide shows you how to create one, customize it, and preview it.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/tFEed89kDnw" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -12,49 +12,43 @@ description: "Fluent Forms offers Conversational Forms, making it easy for devel
 
 ## Creating Conversational Forms
 
-From your **WordPress Dashboard**, navigate to the **Fluent Forms** **Plugin** and click the **New Form** button from the left sidebar. 
-
-Or, go to **Fluent Forms > Forms** from the **WordPress Dashboard** and click the **+ Add New Form** button. 
+From your **WordPress Dashboard**, go to **Fluent Forms → Forms** and click **Add Form** at the top right.
 
 ![Add new form](/images/creating-forms/conversational-forms/create-a-conversational-form/1.-New-Form-or-Add-New-Form-button-scaled.webp)
 
-Now, a pop-up will appear with three options. Click the **Create Conversational Form** tab.
+A dialog opens with several options. Click **Conversational Form**.
 
 ![Conversational form tab](/images/creating-forms/conversational-forms/create-a-conversational-form/2.-Create-Conversational-Form-tab-scaled.webp)
 
 ### Customizing Form
 
-Now you are on the **Editor** page of your newly created conversational form. Add fields from the **Input Fields** tab on the right and customize them according to your needs. 
+The **Editor** page of your new conversational form opens. Add fields from the **Input Fields** tab on the right and customize them.
 
 > [!Note]
-> Container Fields are not supported in Conversational forms
+> Conversational forms do not support every field. Container fields, Repeater, Form Step, Accordion, Chained Select, Shortcode, Action Hook, Color Picker, and Post and Taxonomy fields are not available. If you convert an existing form, unsupported fields are not carried over.
 
-To customize an added field, **hover over it** and the customization options will appear. These are:
+Hover over a field to see these options:
 
-a. **Drag & Drop**: With this option, you can move your fields up or down easily.
-
-b. **Edit**: Click the **Pencil Icon** to open the **Customize** tab on the right, which offers the options for customization.
-
-c. **Duplicate**: Click this button and the field will be duplicated.
-
-d. **Delete**: Click this **Trash Icon** and your field will be deleted.
-
-e. **Add new field**: Click this **Plus Icon** to add a new input field/s to your form. You can also add new fields using the **Input Fields tab** from the right sidebar.
+* **Drag & Drop:** Move the field up or down.
+* **Edit:** Click the **Pencil Icon** to open the **Customize** tab on the right.
+* **Duplicate:** Click this button to duplicate the field.
+* **Delete:** Click the **Trash Icon** to delete the field.
+* **Add new field:** Click the **Plus Icon** to add a new input field to your form. You can also add fields from the **Input Fields** tab in the right sidebar.
 
 ![Conversational field tools](/images/creating-forms/conversational-forms/create-a-conversational-form/3.-Move-Edit-Duplicate-Delete-and-Plus-buttons-scaled.webp)
 
 ## Embedding Form into Frontend
 
-After customization, click the **Save** button in the top right corner (or press **Cmd/Ctrl + S**) to save all the changes.
+Click **Save** in the top right corner (or press **Cmd/Ctrl + S**) to save your changes.
 
-Click the **Preview** (eye) icon to see a preview of your form. You can also click the copy icon next to the shortcode in the top bar to display the form on the front end. 
+Click the **Preview** (eye) icon to preview your form. To display the form on the front end, click the copy icon next to the shortcode in the top bar.
 
 ![Save conversational form](/images/creating-forms/conversational-forms/create-a-conversational-form/4.-Save-Form-button-scaled.webp)
 
 ## Preview of Form
 
-Once your form is ready, learn how to style it in [How to Design a Conversational Form](/design-a-conversational-form).
-
-Here is the preview of the newly created conversational form.
+This is the preview of the new conversational form.
 
 ![Conversational form preview](/images/creating-forms/conversational-forms/create-a-conversational-form/5.-Form-Preview.webp)
+
+Next, style your form in [How to Design a Conversational Form](/design-a-conversational-form).

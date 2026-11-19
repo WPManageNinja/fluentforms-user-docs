@@ -4,60 +4,60 @@ description: "Help message in Fluent Forms to make your forms more understandabl
 
 # Help Message Customization
 
-Help message in [Fluent Forms](https://wordpress.org/plugins/fluentform/) to make your forms more understandable to the audience by providing additional context or instructions for fields. These can appear as tooltips, below input fields, or in other positions to guide users effectively. 
+Help messages give visitors extra context or instructions for a field. They can appear as tooltips, below the input, or in other positions.
 
-This guide will show you how to customize your help message easily with Fluent Forms.
+This guide shows you how to add a help message to a field and choose where it appears.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/HYPpp129Ewk" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Global Help Message Placement Settings
+## Global Help Message Placement Settings
 
-**You** can define the global layout rules for how help messages display across **your** site. To configure these default behaviors:
+You can set the default placement of help messages across your site.
 
-First, click the **Global Settings** gear icon in the top Fluent Forms navbar. In the left sidebar, open **General** and click **Layout**.
+Click the **Global Settings** gear icon in the top Fluent Forms navbar. In the left sidebar, open **General** and click **Layout**.
 
-Find **Help Message Placement** and choose your preferred option to set where the help message renders:
+Find **Help Message Placement** and choose where the help message appears:
 
- * **Next to Label:** Displays the context text or tooltip immediately adjacent to the element label.
- * **Below Input Element:** Positions the instruction text directly underneath the blank input field.
+ * **Beside Label:** Shows the help message next to the label. Saves space and keeps forms clean.
+ * **Above Field:** Shows the help message before the field. It is visible before interaction, which suits important instructions.
+ * **Below Field:** Shows the help message under the input. It is easy to reference while completing the field.
+ * **Inside Field:** Shows the help message when the visitor focuses on the field. It reduces visual clutter.
 
-Click **Save** in the top right corner to apply these layout updates globally.
+Click **Save** in the top right corner to apply the layout to all forms.
 
 ![Help message placement](/images/configuring-forms/form-settings/help-message-customization/global-settings-1-scaled.webp)
 
-### Add Help Message to a Form Field
+## Add Help Message to a Form Field
 
-Go to **Forms** from the Fluent Forms Navbar and select the **Desired Form** for which you want to customize the help message.
+Go to **Forms** in the Fluent Forms Navbar and select the form you want to customize.
 
 ![Select form](/images/configuring-forms/form-settings/help-message-customization/edit-form-01-5-scaled.webp)
 
-Now, click the field where you want to add a help message and open the **Customize** tab in the right panel. Expand **Advanced Options** and locate the **Help Message** box.
+Click the field that needs a help message and open the **Customize** tab in the right panel. Expand **Advanced Options** and find the **Help Message** box.
 
-Then, enter the text or instructions you want to display as the **Help Message**.
-
-After that, click **Save** to apply the changes.
+Enter the text or instructions you want to display as the **Help Message**. Then click **Save**.
 
 ![Help message field](/images/configuring-forms/form-settings/help-message-customization/access-advanced-customization-01-scaled.webp)
 
-### Customization of the Help Message position
+## Customize the Help Message Position
 
-You can be positioned and presented with your **Help Message** in different ways. To do this, open your form, go to **Configuration**, expand **Appearance** in the left rail, and click **Form Layout**. See the [Form Layout Settings](/form-layout-settings) documentation for all layout options.
+You can place the **Help Message** in a different position for a single form. Open the form, go to **Configuration**, expand **Appearance** in the left rail, and click **Form Layout**. See the [Form Layout Settings](/form-layout-settings) documentation for all layout options.
 
-Now, you can choose the Help Message position you want. 
+Choose a Help Message position:
 
  * **Beside Label (Tooltip):** Displays the Help Message as a tooltip next to the label.
  * **Below Input Fields:** Shows the Help Message below the blank input field (not as a placeholder).
- * **Focus on Element:** Choosing Focus on the Element presents the Help message only when that particular field is selected.
- * **Before Input:** Choosing Before Input will position the Help message before the input field.
+ * **Focus on Element:** Shows the Help Message only when the visitor selects that field.
+ * **Before input:** Shows the Help message before the input field.
 
-After making your selection, click **Save** to finalize your customization.
+Click **Save**.
 
 ![Help message position](/images/configuring-forms/form-settings/help-message-customization/Form-Layout-02-scaled.webp)
 
-Once you are all done, the form preview of the help message is shown in the screenshot below.
+The screenshot below shows the help message in the form preview.
 
 ![Help message preview](/images/configuring-forms/form-settings/help-message-customization/Preview-help-message-03.webp)
 
-Help Messages in Fluent Forms make your forms more user-friendly by offering helpful guidance exactly when and where users need it! To tell users what went wrong after a failed submission, pair this with [error message customization](/error-message-customization).
+To tell visitors what went wrong after a failed submission, see [Error Message Customization](/error-message-customization).

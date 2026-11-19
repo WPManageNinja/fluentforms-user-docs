@@ -4,7 +4,7 @@ description: "A great form does more than collect data — it guides people, val
 
 # Configuring Your Forms
 
-A great form does more than collect data — it guides people, validates input, and adapts to every answer. **Fluent Forms** gives you fine-grained control over how each form behaves, from custom messages and access rules to powerful conditional logic and live calculations. This page shows you everything you can configure and links you to the right guide.
+A great form does more than collect data — it guides people, validates input, and adapts to every answer. **Fluent Forms** gives you control over how each form behaves, from custom messages and access rules to conditional logic and live calculations (Pro). This page lists everything you can configure and links to the right guide.
 
 ## Form Settings
 
@@ -20,7 +20,7 @@ Set the rules and messaging that shape the submission experience.
 
 ## Conditional Logic & Dynamic Values
 
-Make forms smart. Show the right fields, pre-fill values, and validate input based on context.
+Show the right fields, pre-fill values, and validate input based on context.
 
 - [Conditional Logic](/set-up-forms-with-conditional-logic) — show or hide fields based on user answers.
 - [Dynamic Default Value](/dynamic-default-value) — pre-fill fields with dynamic data.
@@ -33,14 +33,15 @@ Make forms smart. Show the right fields, pre-fill values, and validate input bas
 
 Turn inputs into instant results — totals, scores, quotes, and more.
 
-- [Numeric Calculation](/numeric-calculation) — calculate values from field inputs in real time.
-- [Calculations on Repeat Field](/add-calc-values-on-the-repeat-field) — run calculations across repeating rows.
+- [Numeric Calculation](/numeric-calculation) (Pro) — calculate values from field inputs in real time.
+- [Calculations on Repeat Field](/add-calc-values-on-the-repeat-field) (Pro) — run calculations across repeating rows.
 
 ## Where to go next
 
-With behavior dialed in, decide what happens after submission:
+With the behavior set up, decide what happens after submission:
 
 - [Set Up Admin & User Email Notifications](/setup-adminuser-email-notifications) — notify the right people on every entry.
 - [Set Up a Confirmation Message](/setup-form-submission-confirmation-message) — tell users their submission went through.
+- [MCP for AI Agents](/mcp-for-ai-agents) — let AI assistants read and manage your forms.
 
 Need a hand along the way? See [How to Get Support](/get-support).
