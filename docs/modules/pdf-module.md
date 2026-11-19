@@ -1,137 +1,141 @@
 ---
-description: "The PDF Module in Fluent Form is an amazing feature that allows you to export form entries as PDF files. It is easy to save, share, and manage submissions."
+description: "The PDF Module in Fluent Forms turns form submissions into PDF files you can download from an entry or attach to email notifications."
 ---
 
 # PDF Module
 
-The PDF Module lets you export form entries as **PDF** files. Use it to save, share, and manage submissions.
+The **PDF Module** turns form submissions into **PDF** files. Create a PDF feed for a form, design the layout, and then download the file from an entry or attach it to your email notifications. Use it for receipts, contact lists, certificates, and any record you want to save or share.
 
-This guide shows you how to export an entry as a PDF.
+This guide shows you how to install the PDF add-on, set global PDF styles, create a PDF feed, and download or email the PDF.
 
 ## Install and Activate the PDF Generator Plugin
 
-Install the **Fluent Forms PDF Generator** extension to enable PDF export.
+PDF export comes from the free **Fluent Forms PDF Generator** plugin. Install it from the WordPress plugin directory.
 
-In your WordPress dashboard, go to **Plugins**, click **Add New Plugin**, and search for **Fluent Forms PDF Generator**. Install and activate the plugin. A **Fluent Forms PDF** tab appears in the modules section. The extension installs from WordPress.org automatically.
+In your WordPress dashboard, go to **Plugins**, click **Add New Plugin**, and search for **Fluent Forms PDF Generator**. Click **Install Now**, then **Activate**.
 
 ![PDF Generator Plugin](/images/modules/pdf-module/pdf-generator-plugin-01-scaled.webp)
 
-## Install and Activate the PDF Feed
+## Open the PDF Module
 
-After you activate the PDF generator plugin, click **Integrations** in the Fluent Forms navbar and search for **Fluent Forms PDF**. Click **Configure** next to it to see the **Fluent Form PDF Modules**. Click **Install Fonts** to set up the required fonts and elements.
+After you activate the plugin, click **Integrations** in the Fluent Forms navigation bar and open the **Fluent Forms** tab. **Fluent Forms PDF** appears in the list with an **Installed** label. Click **Configure** to open its settings.
 
-Wait for the installation to finish. A success message confirms the setup.
+If you see **Install** instead, click it to install the add-on from here.
+
+![Fluent Forms PDF listed on the Integrations page with the Configure button highlighted](/images/modules/pdf-module/PDF-module-integration-02-scaled.webp)
+
+Wait for any font installation to finish before you leave the page.
 
 > [!Note]
-> Do not close the window until the installation finishes.
-
-![PDF Module Integration](/images/modules/pdf-module/PDF-module-integration-02-scaled.webp)
-
-Your **Fluent PDF Module** is now active, and you can use the **PDF Feed** in Fluent Forms.
-
-![PDF](/images/modules/pdf-module/Fluent-Form-PDF-04-1-scaled.webp)
+> If the page shows an **Install Missing Fonts** button, click it to download the fonts the PDF needs. Do not close the window until the installation finishes.
 
 ## Configure Global PDF Settings
 
-In your WordPress dashboard, click the **Settings** (gear) icon in the Fluent Forms navbar to open **Global Settings**.
+**Configure** opens the **Fluent PDF** settings page. You can also reach it from the Fluent Forms navigation bar. Click the **Settings** (gear) icon, expand **Other Settings** in the left sidebar, and select **PDF Settings**.
 
-Expand **Other Settings** and click **PDF Settings**. Configure the **PDF** settings for all forms here. Each form can override these settings.
+The **Fluent PDF Settings** card sets the default layout and typography for every PDF feed. Each form's PDF feed can override these defaults.
 
-![PDF Setting](/images/modules/pdf-module/PDF-Setting-05-scaled.webp)
+- **Page Layout:** Choose the **Paper size**, the **Orientation** (**Portrait** or **Landscape**), and the **Language Direction**. Select **RTL** for right-to-left languages such as Arabic or Hebrew.
+- **Typography:** Choose the **Font Family** and set the **Font size**. Only installed fonts appear in the list. Use **Download more fonts** to add others.
+- **Colors:** Set the **Font color**, **Heading color**, and **Accent color**. Fluent Forms uses the accent color for borders and breaks.
 
-## Setting Up a PDF Feed for a Form
+Click **Save** at the top right to keep your changes.
 
-To enable PDF export for a specific form, open the form and click **Configuration** in the top bar.
+![Fluent PDF Settings page with Page Layout, Typography, and Colors](/images/modules/pdf-module/PDF-Setting-05-scaled.webp)
+
+## Add a PDF Feed to a Form
+
+Open the form and click **Configuration** in the top bar. Expand **Integrations & Add-ons** in the left sidebar and click **PDF Feeds**. Then click **Add PDF Feed** at the top right.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you do not have a form yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
-Expand **Integrations & Add-ons** in the left sidebar and click **PDF Feeds**. Then click **Add PDF Feed** at the top right.
+![PDF Feeds page with the Add PDF Feed button highlighted](/images/modules/pdf-module/enable-PDF-Settings-06-1-scaled.webp)
 
-![Enable PDF Settings Fluent Forms PDF Module](/images/modules/pdf-module/enable-PDF-Settings-06-1-scaled.webp)
+The **Create new PDF Feed** popup asks you to select a template.
 
-## Customizing the PDF Feed
+- **General:** A basic layout for any form.
+- **Certificate:** A bordered layout for certificates.
+- **Invoice:** An invoice layout. This template appears only for forms that collect payments.
 
-A **Create new PDF Feed** popup asks you to choose a **PDF Template**. Select **General**, **Invoice**, or **Certificate**. The **Invoice** template appears only for payment forms.
+Click a template to open the feed settings.
 
-![Select PDF Template Fluent Forms PDF Module](/images/modules/pdf-module/Select-a-PDf-Template-07-scaled.webp)
+![Create new PDF Feed popup with the General template highlighted](/images/modules/pdf-module/Select-a-PDf-Template-07-scaled.webp)
+
+## Customize the PDF Feed
+
+The feed settings page has two tabs, **PDF Content** and **Appearance**.
 
 ### PDF Content
 
-**A. Feed Title:** Set the title of the PDF Feed. You can also add a shortcode from the dropdown on the right side.
+**Feed Title:** Enter a name for the feed. This name also becomes the PDF file name. Click the `{ }` icon to insert a shortcode.
 
-**B. Header Content:** Enter custom header text. You can also **Add Shortcode** here.
+**Header Content:** Enter the text or media that appears at the top of every page.
 
-**C. PDF Body Content:** Design the main content of your PDF here.
+**PDF Body Content:** Design the main part of the PDF. The default `{all_data}` shortcode adds every submitted field. Use the toolbar to format the text, or switch to the **Code** view for full HTML control.
 
-For example, **{all_data}** includes all submitted form data in the PDF. Click **Add Shortcode** to insert dynamic content with shortcodes. This lets you format the content and show your form data exactly as you need.
+**Footer Content:** Enter the text that appears at the bottom of every page.
 
-Fluent Forms also provides an HTML editor for full control over the PDF layout and design. Click the **Code** view to open it.
+![PDF Content tab with the Feed Title, Header Content, and PDF Body Content](/images/modules/pdf-module/3333-scaled.webp)
 
-**D. Footer Content:** Enter custom footer text.
+To add dynamic data, click **Add Shortcodes** above any editor. Pick a group on the left, such as **Input Options**, **Label Options**, **General SmartCodes**, **Entry Attributes**, **PDF**, **Post**, or **Quiz**. Then click a shortcode on the right to insert it. You can also search by name.
 
-**E. Allow Download:** Select **Yes** or **No** to enable **PDF** downloads.
+Below the body content, you can use conditional content in the PDF body. Select the **Documentation** link there to learn more.
 
-**F. Shortcode:** Use this shortcode in the submission message to generate a **PDF** link.
+![Add Shortcodes menu in the footer content](/images/modules/pdf-module/pdf-content-shortcodes-07.webp)
 
-![Fluent Forms PDF Module step](/images/modules/pdf-module/3333-scaled.webp)
+At the bottom of the tab, set the download options.
+
+**Allow Download:** Select **Yes** to let users download the PDF when they submit the form. Only logged-in users can download it.
+
+**Shortcode:** Copy this shortcode into the form's confirmation message to show a PDF download link.
 
 ### Appearance
 
-Use the Appearance tab to override the PDF appearance you set globally.
+Open the **Appearance** tab to override the global PDF settings for this feed.
 
-**A. Paper Size:** Select the page format from the dropdown.
+- **Page layout:** Set the **Paper size**, **Orientation**, and **Language Direction**.
+- **Typography:** Set the **Font Family** and **Font size**. Use the **Plus** and **Minus** buttons to change the size.
+- **Colors:** Set the **Font color**, **Heading color**, and **Accent color**.
 
-**B. Orientation:** Choose Portrait or Landscape from the dropdown.
+![Appearance tab with page layout, typography, and colors](/images/modules/pdf-module/Appearance-09-scaled.webp)
 
-**C. Font Family:** Select a font for the PDF text from the dropdown.
+Scroll down for the **Watermark** and **Security** options.
 
-**D. Font Size:** Adjust the font size with the **Plus** or **Minus** icon.
+- **Watermark Image:** Click **Upload Media** to add an image as a watermark.
+- **Watermark Text:** Enter text to use as a watermark.
+- **Watermark Opacity:** Enter a value between **1** and **100**.
+- **Watermark Position:** Check **Set as background** to place the watermark behind the content.
+- **PDF Password:** Enter a password to protect the PDF. Leave it empty for no password.
 
-**E. Font Color:** Select the font color from the color palette.
+Click **Save** at the top right to add the feed to your form.
 
-**F. Heading color:** Select the heading color from the color palette.
+![Appearance tab with the Watermark and Security options](/images/modules/pdf-module/Appearance-09-scaled-2.webp)
 
-**G. Accent Color:** Select the accent color from the color palette. Fluent Forms uses the accent color for borders, breaks, and similar elements.
+### Edit or Delete a PDF Feed
 
-**H. Language Direction:** Scripts like Arabic and Hebrew are written right to left. For Arabic or Hebrew, select **RTL**. For other languages, keep the default **LTR**.
+Your new feed appears under **PDF Feeds** with its template name below it. Click the **Edit** (pencil) icon to change the feed. Click the **Delete** (trash) icon to remove it.
 
-**I. Watermark Image:** Upload an image as a **background watermark**.
+![PDF Feeds list with the Edit and Delete icons highlighted](/images/modules/pdf-module/edit-and-delete-pdf-feed-10.webp)
 
-**J. Watermark Text:** Enter text to use as a **watermark**.
+## Download a Form Entry as a PDF
 
-**K. Watermark Opacity:** Controls the transparency of the watermark (**1-100**). The recommended value is 50.
+After you add a PDF feed, open the [**Entries**](/managing-entries) page. Click the **three-dot** menu at the end of an entry row and select **View entry**.
 
-**L. Watermark Position:** Sets the watermark as a background.
+![Entries page with the three-dot menu and View entry highlighted](/images/modules/pdf-module/entries-10-scaled.webp)
 
-**M. PDF Password:** Set a password for protected PDF access. Leave it empty if you do not want a password.
+On the entry page, the **PDF Downloads** card in the right column lists each PDF feed for the form. Click a feed name to generate and download the PDF.
 
-Click **Save Feed**. Fluent Forms adds the **PDF Feed** to your form.
+![PDF Downloads card on the entry page with the feed link highlighted](/images/modules/pdf-module/PDf-download-10-1-scaled.webp)
 
-![Appearance Fluent Forms](/images/modules/pdf-module/Appearance-09-scaled.webp)
+## Send Form Entries as PDFs by Email
 
-## Downloading a Form Entry as a PDF
+To attach the PDF to an email notification, open the form and click **Configuration**. Expand **Responses** in the left sidebar, click **Email Notifications**, and edit the notification you want.
 
-After you add the PDF Feed, go to the [**Entries**](/managing-entries) section of the form.
+Scroll to **PDF Attachments** and check the PDF feed you want to attach. Recipients then get the PDF with the notification email. For example, the **Admin Notification** sends the PDF to the admin email each time someone submits the form.
 
-Select an entry and click its **ID** to open it.
+Click **Save** to apply the change. To learn more about notifications, read [How to Setup Admin/User Email Notifications](/setup-adminuser-email-notifications).
 
-![Entries Fluent Forms](/images/modules/pdf-module/entries-10-scaled.webp)
+![PDF Attachments option in the Admin Notification settings](/images/modules/pdf-module/11-scaled.webp)
 
-The entry shows the Download option for your PDF Feed preview. Click **Download PDF** to generate and save the file.
-
-![PDF Download](/images/modules/pdf-module/PDf-download-10-1-scaled.webp)
-
-## Sending Form Entries as PDFs via Email
-
-To send form entries as PDFs in emails automatically, open **Email Notifications Settings** for your form. Scroll down to **PDF Attachments** (above the Advanced tab).
-
-Select the **PDF feed** you want to attach to emails. Recipients then get a **PDF version of the form submission** by email.
-
-When a user submits the form, Fluent Forms sends this PDF Feed to the **Admin Email**.
-
-To learn more, read [How to Setup Admin/User Email Notifications](/setup-adminuser-email-notifications).
-
-![Fluent Forms PDF Module step](/images/modules/pdf-module/11-scaled.webp)
-
-You can now create, download, and email a PDF feed from your form.
+You can now create, download, and email a PDF from your form entries.
