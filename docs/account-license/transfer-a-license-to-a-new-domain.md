@@ -4,46 +4,41 @@ description: "Sometimes, you need to move your Fluent Forms Pro license from one
 
 # Transfer a License to a New Domain
 
-Sometimes, you need to move your [Fluent Forms Pro](/upgrade-to-pro-add-on) license from one domain to another. This feature enables you to easily migrate your license, eliminating the need to purchase a new one.
-
-Follow these simple steps to transfer your license efficiently.
+You can move your [Fluent Forms Pro](/upgrade-to-pro-add-on) license from one domain to another. You do not need to buy a new license. This page shows you how to deactivate the license on the old domain and activate it on the new one.
 
 ## Deactivating Your Current License
 
-To begin, you must first deactivate the license from your existing domain. You can do this directly from your WordPress dashboard.
+Deactivate the license on your existing domain first. You can do this from your WordPress dashboard.
 
-1. From your WordPress dashboard, navigate to Fluent Forms and click the **Settings** (gear) icon to open Global Settings.
-
-2. Next, select **License Management** from the left-hand sidebar menu.
-
-3. On this screen, you will see your license status. Click the **Deactivate License** button to remove the license from this domain, as shown in the screenshot below.
+1. In your WordPress dashboard, go to Fluent Forms and click the **Settings** (gear) icon to open Global Settings.
+2. Select **License** from the left sidebar menu.
+3. Click the link under **Want to deactivate this license?** to remove the license from this domain.
 
 ![Deactivate License Fluent Forms](/images/account-license/transfer-a-license-to-a-new-domain/deactivate-license-scaled.webp)
 
-First, log in to your **[WPManageNinja](https://wpmanageninja.com/login/)** dashboard. Next, click on the **License** tab. From there, click the **View List** button to see all of your activated domains.
+If you cannot access the old site, remove the domain from your account instead.
+
+1. Log in to your **[WPManageNinja](https://wpmanageninja.com/login/)** dashboard.
+2. Click the **Licenses** tab.
+3. Click **View List** to see all your activated domains.
 
 ![Wpmn Account Fluent Forms](/images/account-license/transfer-a-license-to-a-new-domain/WPMN-Account-scaled.webp)
 
-From the list of your activated licenses, click the **Delete** icon next to the domain you wish to deactivate, and then click the **Confirm** button to finalize the action.
+Click the **Delete** icon next to the domain you want to deactivate. Then click **Confirm**.
 
 ![Wpmn Dashboard License Activation](/images/account-license/transfer-a-license-to-a-new-domain/WPMN-Dashboard-License-activation-scaled.webp)
 
-Once the license is deactivated, it is free to be used on a new domain.
+Once you deactivate the license, you can use it on a new domain.
 
 ## Activating the License on a New Domain
 
-Now you can activate the license on your new website.
-
-1. First, copy your license key from your WPManageNinja account dashboard.
-
-2. On your new website, ensure you have both the [free version of Fluent Forms](/install-fluent-forms) and the Pro add-on installed and activated.
-
-3. From your WordPress dashboard, go to Fluent Forms and click the **Settings** (gear) icon to open Global Settings.
-
-4. Select **License Management** from the sidebar menu.
-
-5. Paste your copied license key into the **License key** field and click the **Verify license** button.
+1. Copy your license key from your WPManageNinja account dashboard.
+2. On your new website, install and activate both the [free version of Fluent Forms](/install-fluent-forms) and the Pro add-on.
+3. In your WordPress dashboard, go to Fluent Forms and click the **Settings** (gear) icon to open Global Settings.
+4. Select **License** from the sidebar menu.
+5. Paste your license key into the **License key** field.
+6. Click **Verify license**.
 
 ![Activate License Fluent Forms](/images/account-license/transfer-a-license-to-a-new-domain/activate-license-scaled.webp)
 
-A success message will confirm that your license is now active on the new domain. With these steps, you can easily manage and transfer your license between sites with just a few clicks.
+A success message confirms that your license is active on the new domain. Next, move your forms to the new site with [Import and Export Fluent Forms](/import-and-export-fluent-forms).

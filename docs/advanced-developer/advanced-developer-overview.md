@@ -1,19 +1,20 @@
 ---
-description: "Ready to push your forms further? Fluent Forms gives power users and developers the tools to customize, extend, and fine-tune every detail — from dynamic…"
+description: "Fluent Forms gives power users and developers tools to customize and extend forms, from dynamic shortcodes and custom fields to detailed logs and translation support."
 ---
 
 # Advanced & Developer Features
 
-Ready to push your forms further? **Fluent Forms** gives power users and developers the tools to customize, extend, and fine-tune every detail — from dynamic shortcodes and custom fields to detailed logs and full translation support. This page rounds up the advanced capabilities and links you to each guide.
+**Fluent Forms** gives power users and developers tools to customize and extend forms, from dynamic shortcodes and custom fields to detailed logs and translation support. This page lists the advanced capabilities and links you to each guide.
 
 ## Shortcodes & Smart Codes
 
 Insert dynamic data anywhere. Use shortcodes and smart codes to personalize forms, emails, and confirmations on the fly.
 
-- [Shortcodes Overview](/shortcodes-overview) — learn how Fluent Forms shortcodes work.
+- [Shortcodes Overview](/shortcodes-overview) — see every shortcode and smart code group.
 - [Helper Shortcodes](/using-helper-shortcodes) — pull in user, post, and submission data.
 - [Conditional Shortcodes](/conditional-shortcodes) — show content based on conditions.
 - [Smart Codes](/form-editor-smart-codes) — insert dynamic values inside the form editor.
+- [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings) — show submitted data in confirmations and emails.
 - [Pre-Fill from FluentCRM](/pre-fill-form-fields-with-fluentcrm-data) — auto-fill fields with FluentCRM data.
 
 ## Custom Fields & Meta
@@ -44,9 +45,8 @@ Speak your users' language. Translate forms and fields for a global audience.
 
 ## Where to go next
 
-Looking for more developer power? Explore the wider Fluent Forms ecosystem:
+For hooks and filters, use the developer documentation:
 
-- [Fluent Forms Shortcodes Overview](/shortcodes-overview) — your starting point for dynamic content.
 - [Developer Documentation](https://developers.fluentforms.com/) — hooks, filters, and the full API reference.
 
-Need a hand along the way? See [How to Get Support](/get-support).
+For help, see [How to Get Support](/get-support).
