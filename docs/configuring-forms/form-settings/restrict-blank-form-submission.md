@@ -4,36 +4,36 @@ description: "Fluent Forms allows you to prevent users from submitting blank for
 
 # Restrict Blank Form Submission
 
-Fluent Forms allows you to prevent users from submitting blank forms, reduce [spam](/spam-protection-with-honeypot-and-google-recaptcha), and ensure only meaningful entries are recorded. 
+Fluent Forms lets you stop users from submitting blank forms. This reduces [spam](/spam-protection-with-honeypot-and-google-recaptcha) and keeps only meaningful entries.
 
-This guide will show you how to **Protect Blank Form Submissions** with **Fluent Forms**.
+This guide shows you how to block blank form submissions.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/o8qrL2KKsyE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Access Form Settings
+## Access Form Settings
 
-First, go to **Forms** from the Fluent Forms Navbar and select the **Desired Form** for which form you want to protect from blank submissions.
+Go to **Forms** in the Fluent Forms Navbar and select the form you want to protect from blank submissions.
 
 ![Select form](/images/configuring-forms/form-settings/restrict-blank-form-submission/form-settings-blank-form-01-scaled.webp)
 
-Now, open the **Configuration** tab in the top bar and select **Scheduling & Restrictions** from the left rail. This panel also holds the [form restrictions](/form-restrictions-feature) entry-limit options.
+Open the **Configuration** tab in the top bar and select **Scheduling & Restrictions** in the left rail. This panel also holds the [form restrictions](/form-restrictions-feature) entry-limit options.
 
 ![Scheduling and restrictions](/images/configuring-forms/form-settings/restrict-blank-form-submission/Scheduling-Restrictions-02-scaled.webp)
 
-### Enable Empty Submission Blocking
+## Enable Empty Submission Blocking
 
-Now, turn on the **Deny empty submission** toggle to activate this feature.
+Turn on the **Deny empty submission** toggle.
 
-After that, define the message users will see when submitting a blank form.
+In **Message Shown Against on Empty Submission**, enter the message visitors see when they submit a blank form. The default is "Sorry, you cannot submit an empty form. Let's hear what you wanna say."
 
-**For example:** "Your form submission is incomplete. Please fill out all required fields." This message ensures users understand why their submission was blocked.
+**For example:** "Your form submission is incomplete. Please fill out all required fields." This message tells users why their submission was blocked.
 
-Once you have completed customizing the form, click **Save** to finalize and apply the configuration.
+Click **Save**.
 
 ![Deny empty submission](/images/configuring-forms/form-settings/restrict-blank-form-submission/customize-the-message-03-scaled.webp)
 
-The preview of the restricted blank form submission is shown in the screenshot below.
+The screenshot below shows the preview of a blocked blank submission.
 
 ![Blank submission preview](/images/configuring-forms/form-settings/restrict-blank-form-submission/Preview-blank-restrict-form-04.webp)
