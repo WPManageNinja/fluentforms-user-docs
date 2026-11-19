@@ -59,7 +59,7 @@ export default defineConfig({
       md.use(docBlocksPlugin);
     },
   },
-  srcExclude: ['README.md', 'CLAUDE.md', '*-PLAN.md', 'docs/public/**'],
+  srcExclude: ['README.md', 'CLAUDE.md', '*-PLAN.md', 'docs/public/**', 'audit/**'],
 
   // Production origin. Must match exactly where the site is served — a canonical or sitemap
   // URL pointing elsewhere tells search engines to index a different page.
