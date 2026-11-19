@@ -9,3 +9,6 @@ node_modules/
 # Local-only screenshot tooling (not published)
 scripts/screenshots/
 .claude/skills/
+
+# Local audit reports and fix logs (not published)
+/audit/
