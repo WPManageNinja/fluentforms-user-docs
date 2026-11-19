@@ -4,13 +4,13 @@ description: "Smart Shortcodes let you insert dynamic values into confirmation m
 
 # Shortcodes in Confirmation Settings
 
-**Smart Shortcodes** let you insert dynamic values into confirmation messages, email notifications, [PDFs](/pdf-module), custom post submissions, and [quiz](/quiz-module) results. Use them to show submitted field data, labels, payment details, and WordPress-related information without hard-coding values.
+**Smart Shortcodes** let you insert dynamic values into confirmation messages, email notifications, [PDFs](/pdf-module), custom post submissions, and quiz results. Use them to show submitted field data, labels, payment details, and WordPress-related information without hard-coding values.
 
-This guide lists every shortcode available in **Confirmation Settings** and explains what each one outputs. For shortcodes used to pre-fill form fields in the editor, see [Form Editor Smart Codes](/form-editor-smart-codes).
+This guide lists every shortcode available in **Confirmation Settings** and explains what each one outputs. To pre-fill form fields in the editor, see [Form Editor Smart Codes](/form-editor-smart-codes).
 
 ## Input Options
 
-Use these shortcodes to display values from submitted form fields. They work in **email notifications**, **confirmation messages**, **PDFs**, and **custom post submissions**.
+Use these shortcodes to display values from submitted form fields. Replace the names in the examples (such as `names` or `email`) with the **Name Attribute** of your own field. They work in **email notifications**, **confirmation messages**, **PDFs**, and **custom post submissions**.
 
 | Shortcode | Description |
 | --- | --- |
@@ -27,7 +27,7 @@ Use these shortcodes to display values from submitted form fields. They work in 
 
 ## Label Options
 
-Label shortcodes display the **field names** from your form. They are useful in **emails**, **PDFs**, and **automated messages** when you want the label shown alongside the value.
+Label shortcodes display the **field names** from your form. Use them in **emails**, **PDFs**, and **automated messages** to show the label next to the value.
 
 | Shortcode | Description |
 | --- | --- |
@@ -72,6 +72,7 @@ These shortcodes display **form submission details** dynamically.
 | Shortcode | Description |
 | --- | --- |
 | `{submission.id}` | Displays the unique ID assigned to each form submission. |
+| `{submission.entry_uid}` | Displays the Entry Unique ID. |
 | `{submission.serial_number}` | Shows a serial number for submissions. |
 | `{submission.source_url}` | Captures the URL where the form was submitted. |
 | `{submission.user_id}` | Displays the WordPress user ID of the logged-in user who submitted the form. |
@@ -129,4 +130,4 @@ To show a specific field value from a form submission on the front end, add this
 
 Replace `form_id`, `field`, and other parameters to match your form and the field you want to display.
 
-To add shortcodes inside a confirmation message, open your form's **Configuration** tab and use **Confirmation Settings** under **Responses**. See [Setup Form Submission Confirmation Message in Fluent Forms](/setup-form-submission-confirmation-message) for step-by-step setup. For more dynamic options, see [Using Helper Shortcodes](/using-helper-shortcodes).
+To add shortcodes inside a confirmation message, open your form's **Configuration** tab and use **Confirmation Settings** under **Responses**. For the full steps, see [Setup Form Submission Confirmation Message in Fluent Forms](/setup-form-submission-confirmation-message). For more dynamic options, see [Using Helper Shortcodes](/using-helper-shortcodes).

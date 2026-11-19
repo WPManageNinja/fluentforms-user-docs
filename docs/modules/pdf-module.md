@@ -4,9 +4,9 @@ description: "The PDF Module in Fluent Form is an amazing feature that allows yo
 
 # PDF Module
 
-The PDF Module in Fluent Form is an amazing feature that allows you to export form entries as **PDF** files. It is easy to save, share, and manage submissions. 
+The PDF Module lets you export form entries as **PDF** files. Use it to save, share, and manage submissions.
 
-This guide will show you how to export an entry as a PDF with no hassle.
+This guide shows you how to export an entry as a PDF.
 
 ## Install and Activate the PDF Generator Plugin
 
@@ -18,124 +18,120 @@ In your WordPress dashboard, go to **Plugins**, click **Add New Plugin**, and se
 
 ## Install and Activate the PDF Feed
 
-After activating the PDF generator plugin, click **Integrations** in the Fluent Forms navbar and search for **Fluent Forms PDF**. Click **Configure** next to it to see the **Fluent Form PDF Modules**. Now, click **Install Fonts** to set up the required fonts and elements.
+After you activate the PDF generator plugin, click **Integrations** in the Fluent Forms navbar and search for **Fluent Forms PDF**. Click **Configure** next to it to see the **Fluent Form PDF Modules**. Click **Install Fonts** to set up the required fonts and elements.
 
-Wait for the installation to complete. A success message will confirm the setup.
+Wait for the installation to finish. A success message confirms the setup.
 
 > [!Note]
 > Do not close the window until the installation finishes.
 
 ![PDF Module Integration](/images/modules/pdf-module/PDF-module-integration-02-scaled.webp)
 
-Your **Fluent PDF Module** is active, so you can now use the **PDF Feed** of Fluent Form.
+Your **Fluent PDF Module** is now active, and you can use the **PDF Feed** in Fluent Forms.
 
 ![PDF](/images/modules/pdf-module/Fluent-Form-PDF-04-1-scaled.webp)
 
 ## Configure Global PDF Settings
 
-To configure Global PDF Settings, go to your WordPress dashboard, click the **Settings** (gear) icon in the Fluent Forms navbar to open **Global Settings**.
+In your WordPress dashboard, click the **Settings** (gear) icon in the Fluent Forms navbar to open **Global Settings**.
 
-Now, expand **Other Settings** and click **PDF Settings**. Here, you will need to configure **PDF** settings globally. Note that each form can override this setting.
+Expand **Other Settings** and click **PDF Settings**. Configure the **PDF** settings for all forms here. Each form can override these settings.
 
 ![PDF Setting](/images/modules/pdf-module/PDF-Setting-05-scaled.webp)
 
 ## Setting Up a PDF Feed for a Form
 
-To enable PDF export for a specific form, follow these steps-
-
-Open the form where you want to allow **PDF Export**. Click **Configuration** in the top bar.
+To enable PDF export for a specific form, open the form and click **Configuration** in the top bar.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
 
-Now expand **Integrations & Add-ons** in the left sidebar and click **PDF Feeds**. Then click the **Add PDF Feed** button at the top right.
+Expand **Integrations & Add-ons** in the left sidebar and click **PDF Feeds**. Then click **Add PDF Feed** at the top right.
 
 ![Enable PDF Settings Fluent Forms PDF Module](/images/modules/pdf-module/enable-PDF-Settings-06-1-scaled.webp)
 
 ## Customizing the PDF Feed
 
-A **Create new PDF Feed** popup will appear asking you to choose a **PDF Template**. Select **General** or **Certificate**.
+A **Create new PDF Feed** popup asks you to choose a **PDF Template**. Select **General**, **Invoice**, or **Certificate**. The **Invoice** template appears only for payment forms.
 
 ![Select PDF Template Fluent Forms PDF Module](/images/modules/pdf-module/Select-a-PDf-Template-07-scaled.webp)
 
 ### PDF Content
 
-**A. Feed Title:** Set the feed title for the PDF Feed. Also, add a shortcode from the dropdown options on the right side.
+**A. Feed Title:** Set the title of the PDF Feed. You can also add a shortcode from the dropdown on the right side.
 
-**B. Header Content:** Enter the header custom text here. You can also **Add Shortcode** here. 
+**B. Header Content:** Enter custom header text. You can also **Add Shortcode** here.
 
-**C. PDF Body Content:** This section allows you to design the main content of your PDF. 
+**C. PDF Body Content:** Design the main content of your PDF here.
 
-For example, using **{all_data}** will include all submitted form data in the PDF. You can also click the **Add Shortcode** button to insert dynamic content using shortcodes. This enables you to format your content precisely, creating clean, well-organized, and dynamic PDFs that display your form data exactly as needed.
+For example, **{all_data}** includes all submitted form data in the PDF. Click **Add Shortcode** to insert dynamic content with shortcodes. This lets you format the content and show your form data exactly as you need.
 
-Fluent Forms also provides an HTML editor for full control over the PDF layout and design. Click the **Code** view to access it. 
+Fluent Forms also provides an HTML editor for full control over the PDF layout and design. Click the **Code** view to open it.
 
-**D. Footer Content:** Enter the custom Footer text here. 
+**D. Footer Content:** Enter custom footer text.
 
-**E. Allow Download:** Select the **Yes**/**No** options toggle to enable **PDF** downloads.
+**E. Allow Download:** Select **Yes** or **No** to enable **PDF** downloads.
 
-**F. Shortcode:** You can use this shortcode on the submission message to generate a **PDF** link.
+**F. Shortcode:** Use this shortcode in the submission message to generate a **PDF** link.
 
 ![Fluent Forms PDF Module step](/images/modules/pdf-module/3333-scaled.webp)
 
 ### Appearance
 
-You can override the PDF appearance you have set up globally from the Appearance tab. 
+Use the Appearance tab to override the PDF appearance you set globally.
 
-**A. Paper Size:** Select the page format from the dropdown options.
+**A. Paper Size:** Select the page format from the dropdown.
 
-**B.** **Orientation**: Choose the orientation, Portrait or Landscape, from the dropdown options.
+**B. Orientation:** Choose Portrait or Landscape from the dropdown.
 
-**C. Font Family:** Select a font for the PDF text from the dropdown options.
+**C. Font Family:** Select a font for the PDF text from the dropdown.
 
-**D. Font Size:** You can adjust your font size by clicking the **Plus** or **Minus** Icon.
+**D. Font Size:** Adjust the font size with the **Plus** or **Minus** icon.
 
-**E. Font Color:** Select font color from the color plate.
+**E. Font Color:** Select the font color from the color palette.
 
-**F. Heading color:** Select the heading color from the color plate.
+**F. Heading color:** Select the heading color from the color palette.
 
-**G. Accent Color:** Select the accent color from the color plate. The accent color is used for borders, breaks, etc.
+**G. Accent Color:** Select the accent color from the color palette. Fluent Forms uses the accent color for borders, breaks, and similar elements.
 
-**H. Language Direction:** Scripts like Arabic and Hebrew are written right to left. For Arabic/Hebrew, please select **RTL**. Others, by default, select **LTR** options.
+**H. Language Direction:** Scripts like Arabic and Hebrew are written right to left. For Arabic or Hebrew, select **RTL**. For other languages, keep the default **LTR**.
 
-I. **Watermark Image:** Upload an image as a **background watermark**.
+**I. Watermark Image:** Upload an image as a **background watermark**.
 
-**J. Watermark Text:** Enter text to be used as a **watermark**.
+**J. Watermark Text:** Enter text to use as a **watermark**.
 
-**K. Watermark Opacity:** Controls the transparency of the watermark (**1-100**). The watermark's opacity is significant, and 50 is the recommended size.
+**K. Watermark Opacity:** Controls the transparency of the watermark (**1-100**). The recommended value is 50.
 
-**L. Watermark Position:** Option to set the watermark as a background.
+**L. Watermark Position:** Sets the watermark as a background.
 
-**M. PDF Password:** You can set a password for protected PDF access. If you don't want to enter the password, leave the options.
+**M. PDF Password:** Set a password for protected PDF access. Leave it empty if you do not want a password.
 
-When the change is complete, click the **Save Feed** button, and the **PDF Feed** will be added to your form.
+Click **Save Feed**. Fluent Forms adds the **PDF Feed** to your form.
 
 ![Appearance Fluent Forms](/images/modules/pdf-module/Appearance-09-scaled.webp)
 
 ## Downloading a Form Entry as a PDF
 
-Once you have customized the form and added the PDF Feed, go to the [**Entries**](/managing-entries) section of the chosen form.
+After you add the PDF Feed, go to the [**Entries**](/managing-entries) section of the form.
 
-Now, select any submission entry you wish to work on and click its **ID** to open it.
+Select an entry and click its **ID** to open it.
 
 ![Entries Fluent Forms](/images/modules/pdf-module/entries-10-scaled.webp)
 
-From here, you will see the Download option for your PDF Feed preview. Then click the **Download PDF** button to generate and save the file. 
+The entry shows the Download option for your PDF Feed preview. Click **Download PDF** to generate and save the file.
 
 ![PDF Download](/images/modules/pdf-module/PDf-download-10-1-scaled.webp)
 
 ## Sending Form Entries as PDFs via Email
 
-To learn how to add PDF Feed into Admin/User Email for a specific Form, follow the steps with the screenshots below –
+To send form entries as PDFs in emails automatically, open **Email Notifications Settings** for your form. Scroll down to **PDF Attachments** (above the Advanced tab).
 
-To automatically send form entries as PDFs in emails, navigate to **Email Notifications Settings** for your form. Scroll down to **PDF Attachments** (above the Advanced tab). 
+Select the **PDF feed** you want to attach to emails. Recipients then get a **PDF version of the form submission** by email.
 
-Then, select the **PDF feed** you want to attach to emails. It ensures users receive a **PDF version of their form submission** via email.
-
-When a user submits the form, this PDF Feed will be sent to the **Admin Email**.
+When a user submits the form, Fluent Forms sends this PDF Feed to the **Admin Email**.
 
 To learn more, read [How to Setup Admin/User Email Notifications](/setup-adminuser-email-notifications).
 
 ![Fluent Forms PDF Module step](/images/modules/pdf-module/11-scaled.webp)
 
-Now you can create, download, and email a PDF Template feed in your Fluent Form.
+You can now create, download, and email a PDF feed from your form.

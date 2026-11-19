@@ -4,33 +4,36 @@ description: "Long or multi-step forms can be overwhelming, and many users leave
 
 # Partial Entries for Step Forms
 
-Long or [multi-step forms](/creating-a-multi-step-form) can be overwhelming, and many users leave them incomplete. Fluent Forms solves this problem with its **Partial Entries (Abandoned)** feature. Now, users can save their progress step-by-step, ensuring no data is lost even if they leave mid-way. 
+> [!Note]
+> **Partial Entries** is a **Pro** feature. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
-This guide will show you how to enable this feature, helping users pick up exactly where they left off.
+Long or [multi-step forms](/creating-a-multi-step-form) can overwhelm users, and many leave them incomplete. The **Partial Entries (Abandoned)** feature lets users save their progress step by step, so no data is lost if they leave midway.
+
+This guide shows you how to enable the feature so users can pick up where they left off.
 
 ## Enable Partial Entries
 
-To enable partial entries in your forms, first, Open the form editor and add the **Form Step** field from the **Advanced Fields** section. 
+Open the form editor and add the **Form Step** field from the **Advanced Fields** section.
 
-Click on the **Enable Per Step Data Save (Save & Continue)** option to save data after each step. This pairs with the [Save Progress Button](/save-progress-button) when you want users to resume later.
+Turn on **Enable Per step data save (Save and Continue)** to save data after each step. This pairs with the [Save Progress Button](/save-progress-button) when you want users to resume later. Partial entries also appear for forms that use the Save Progress button.
 
 > [!Note]
-> Partial entries will be saved after clicking on the Next button, not on form submission.
+> Fluent Forms saves partial entries when the user clicks **Next**, not on form submission.
 
-**Example:** If you have a five-step form and the user fills in three steps and leaves the form, you will get the three-step data as partial entries. 
+**Example:** A user fills in three steps of a five-step form and leaves. You get the data from those three steps as a partial entry.
 
 ### Enable Resume Step from Last Session
 
-Enable the **Resume Step from last step form session** option, allowing users to continue from the last session. 
+Turn on **Resume Step from last form session** so users can continue from their last session.
 
-**Example:** If the user fills in three steps of a five-step form and leaves the form or refreshes the page, he will resume in the step he left, which is the third step.
+**Example:** A user fills in three steps of a five-step form, then leaves or refreshes the page. They resume at the step where they stopped, which is the third step.
 
 ![Partial Steps Fluent Forms](/images/managing-submissions/entries/partial-entries-for-step-forms/Partial-Steps-scaled.webp)
 
 ### View Partial Entries
 
-You can track incomplete submissions by hovering over the **Settings & Entries** and click the **Partial Entries** tab in your Forms dashboard.
+To track incomplete submissions, hover over **Settings & Entries** in your Forms dashboard and click the **Partial Entries** tab.
 
 ![Partial Entries Show](/images/managing-submissions/entries/partial-entries-for-step-forms/partial-entries-show-scaled.webp)
 
-After setting up the form your users can leave a form midway and continue later without losing their data, improving overall user experience.
+Once the form is set up, users can leave midway and continue later without losing their data.

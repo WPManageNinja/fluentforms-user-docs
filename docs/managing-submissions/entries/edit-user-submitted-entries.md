@@ -4,12 +4,12 @@ description: "Fluent Forms makes it easy to edit any submitted entry directly fr
 
 # Edit User Submitted Entries
 
-Fluent Forms makes it easy to edit any submitted entry directly from the dashboard, without any additional tools or plugins. This feature is especially useful for correcting errors in submissions, updating outdated or inaccurate information, and making modifications to reflect new requirements or changes.
+You can edit any submitted entry directly from the Fluent Forms dashboard, with no extra tools or plugins. Use it to correct errors, update outdated information, or reflect new requirements.
 
 > [!Note]
-> Only Admins or [users with permission to manage entries](/setting-up-managers-access-control) can edit submissions. Frontend users cannot update submitted data.
+> Editing entries is a **Pro** feature. Only Admins or [users with permission to manage entries](/setting-up-managers-access-control) can edit submissions. Frontend users cannot update submitted data.
 
-This guide explains how to access and edit entries step-by-step.
+This guide shows you how to open an entry and edit it step by step.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/P3aZ7_Ei1LU" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -17,24 +17,22 @@ This guide explains how to access and edit entries step-by-step.
 
 ## Access the Entries
 
-To get started, go to the **Fluent Forms Dashboard**. Click on **Entries** in the top menu to view all submitted form data across your forms. For a full tour of the entries area, see [Managing Entries in Fluent Forms](/managing-entries).
+Go to the **Fluent Forms Dashboard** and click **Entries** in the top menu. The page lists submitted data across all your forms. For a full tour of the entries area, see [Managing Entries in Fluent Forms](/managing-entries).
 
 ![Edit User Submitted Entries step](/images/managing-submissions/entries/edit-user-submitted-entries/01-1-scaled.webp)
 
-Once you click on the Entries option, you will be taken to the **Entries** page, where you will see all the submitted entries together.
-
-To open a specific entry, click its **ID** in the table.
+The **Entries** page shows all submitted entries together. To open a specific entry, click its **ID** in the table.
 
 ![Edit User Submitted Entries step](/images/managing-submissions/entries/edit-user-submitted-entries/02-1-scaled-04-23-2025_12_05_PM.webp)
 
 ## Edit Submitted Data
 
-On the **Entry Details** page, you’ll see the input data submitted by the user for that form.
+The **Entry Details** page shows the input data the user submitted for that form.
 
-Now, to customize the submitted data, click the **Edit** (pencil) icon in the **Submission Info** card on the right side of the page.
+To change the submitted data, click the **Edit** (pencil) icon in the **Submission Info** card on the right side of the page.
 
 ![Edit User Submitted Entries step](/images/managing-submissions/entries/edit-user-submitted-entries/03-2-scaled-04-23-2025_12_12_PM.webp)
 
-The **Edit Entry** popup will appear, allowing you to modify the submitted data as needed. Once done, click **Update Entry** to save changes.
+The **Edit Entry** popup opens. Change the data you need, then click **Update Entry** to save. If a field cannot be edited here, the popup shows a **Not editable here** message for it.
 
 ![Edit User Submitted Entries step](/images/managing-submissions/entries/edit-user-submitted-entries/04-1.webp)

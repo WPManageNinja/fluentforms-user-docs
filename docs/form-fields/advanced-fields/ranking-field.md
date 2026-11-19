@@ -6,29 +6,29 @@ description: "The Ranking field lets users arrange options in their preferred or
 
 The **Ranking** field lets users arrange options in their preferred order. Respondents reorder choices with drag handles or up/down arrows. You can customize the layout, add photos to options, and define as many ranking choices as you need.
 
-This guide walks you through adding and customizing the **Ranking** field in Fluent Forms.
+This guide shows you how to add and customize the **Ranking** field in Fluent Forms.
 
 > [!Note]
 > The **Ranking** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Adding the Ranking Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you have no forms yet, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit form to add Ranking field](/images/form-fields/advanced-fields/ranking-field/edit-1-scaled.webp)
 
-On the **Editor** page, click the **Plus** icon and open **Advanced Fields**.
+In the editor, click the **Plus Icon** and open **Advanced Fields**.
 
-Click or drag the **Ranking** field into the editor.
+Click the **Ranking** field, or drag it into the editor.
 
 ![Add Ranking field to the form](/images/form-fields/advanced-fields/ranking-field/input-field-2-scaled.webp)
 
 ## Customizing the Ranking Field
 
-Hover over the field and click the **Pencil** icon to open **Customize**.
+Hover over the field and click the **Pencil Icon** to open **Customize**.
 
 ### Ranking Field Options
 
@@ -81,7 +81,7 @@ Hover over the field and click the **Pencil** icon to open **Customize**.
 
 Click **Save** to apply your changes.
 
-Copy the form **Shortcode** from the forms list and paste it into a **Page** or **Post**. Click **Preview** at the top of the editor to preview the form.
+Copy the form **Shortcode** from the forms list and paste it into a page or post. Click **Preview** at the top of the editor to preview the form.
 
 ![Save and embed the form](/images/form-fields/advanced-fields/ranking-field/save-form-5-scaled.webp)
 

@@ -4,42 +4,35 @@ description: "Clearout is an advanced platform that provides email validation, h
 
 # Email Validation With ClearOut
 
-Clearout is an advanced platform that provides email validation, helping to filter out fake or disposable emails. First, you will need a ClearOut API key for those validations.
+Clearout is an email validation platform that filters out fake or disposable emails. This guide shows you how to connect ClearOut to Fluent Forms so every email address is validated automatically. You need a ClearOut API key first.
 
-Here's a step-by-step guide to integrating ClearOut with Fluent Forms for email validation.
+## Get the ClearOut API Key
 
-## Get ClearOut API Key
-
-To get the Clearout API Key, go to the[ ClearOut website](https://clearout.io) and log in to your account. 
-
-Now, navigate to **Apps** in the ClearOut dashboard. Then, choose **Server** as the App Type. Provide a name for the app and click the **Create** button.
+1. Go to the [ClearOut website](https://clearout.io) and log in to your account.
+2. Open **Apps** in the ClearOut dashboard.
+3. Choose **Server** as the App Type.
+4. Enter a name for the app and click **Create**.
 
 ![Create App](/images/integrations/other-apps/email-validation-with-clearout/create-app-01-scaled.webp)
 
-Once the app is created, an **API** token will be generated. **Copy** this token for later use.
+ClearOut generates an **API** token when the app is created. Copy this token.
 
 ![API Token](/images/integrations/other-apps/email-validation-with-clearout/api-token-02-scaled.webp)
 
 ## Install the ClearOut Plugin
 
-To install the ClearOut plugin, go to the Plugins section of your WordPress admin dashboard **and click** on the **Add New** button. 
-
-Search for the "**ClearOut Email Validator**" plugin or download it directly from[ ClearOut's website](https://www.clearout.io).
-
-After that, **Install** and **activate** the plugin.
+1. In your WordPress admin, go to **Plugins** and click **Add New**.
+2. Search for **ClearOut Email Validator**, or download it from[ ClearOut's website](https://www.clearout.io).
+3. **Install** and **activate** the plugin.
 
 ![Email Validation](/images/integrations/other-apps/email-validation-with-clearout/email-validation-03-scaled.webp)
 
-Now, Configure the plugin with Fluent Forms. After activation, go to the **ClearOut settings** in your WordPress admin panel and click the **ClearOut Email Validation** options.
-
-Here, **Paste** the **API Token** that was copied before from ClearOut.
+Next, configure the plugin for Fluent Forms. Open the **ClearOut settings** in your WordPress admin and click the **ClearOut Email Validation** options. Paste the **API Token** you copied from ClearOut.
 
 ![Paste API Token](/images/integrations/other-apps/email-validation-with-clearout/paste-api-token-04-scaled.webp)
 
-Ensure that you choose **Fluent Forms** as the select form option. Click the **Apply** button to save the changes.
+Choose **Fluent Forms** as the select form option, then click **Apply** to save the changes.
 
-This connection ensures all [Email Address fields](/email-address-input-field) in Fluent Forms are automatically validated by ClearOut's service.
+ClearOut now validates all [Email Address fields](/email-address-input-field) in Fluent Forms automatically.
 
 ![Enable Email Validation With ClearOut](/images/integrations/other-apps/email-validation-with-clearout/enable-fluent-form-05-scaled.webp)
-
-That's it. Now, your emails will be validated by ClearOut Services automatically.

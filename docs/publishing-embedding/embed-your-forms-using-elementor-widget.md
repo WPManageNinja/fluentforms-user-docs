@@ -1,12 +1,12 @@
 ---
-description: "Fluent Forms integrates with elementor, allowing you to add and design forms on your WordPress pages without any code."
+description: "Fluent Forms integrates with Elementor, allowing you to add and design forms on your WordPress pages without any code."
 ---
 
 # Embed Your Forms Using Elementor Widget
 
-Fluent Forms integrates with elementor, allowing you to add and design forms on your WordPress pages without any code. You can easily adjust colors, shapes, sizes, backgrounds, margins, padding, and more, making form creation easy and visually appealing. 
+Fluent Forms integrates with Elementor, so you can add and design forms on your WordPress pages without code. You can adjust colors, shapes, sizes, backgrounds, margins, padding, and more.
 
-This guide explains creating dynamic and visually appealing forms using the Fluent Forms widget in Elementor.
+This guide shows you how to add and style a form with the Fluent Forms widget in Elementor.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/WYPkMBWNGTE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,72 +14,51 @@ This guide explains creating dynamic and visually appealing forms using the Flue
 
 ## Create a Form in Elementor
 
-First, open the [Elementor](https://elementor.com/) editor for the page where you want to add your form. Go to the **Search Bar** and type **Fluent Forms**. Then, select the **Fluent Forms** widget, which will create a **block** for your form.
+Open the [Elementor](https://elementor.com/) editor for the page where you want to add your form. Type **Fluent Forms** in the **Search Bar**. Select the **Fluent Forms** widget to add a **block** for your form.
 
 ![embed your forms using Elementor Widget step](/images/publishing-embedding/embed-your-forms-using-elementor-widget/01-3.webp)
 
-Now, choose the form you want to add to the page from the drop-down menu in the widget. If you have pre-built forms, you’ll see them in the dropdown menu, and you can **Select a Fluent Forms** here. If not, you can [create a new form](/create-a-form) using Fluent Forms.
+Choose the form you want from the dropdown menu in the widget. Your existing forms appear there, and you can **Select a Fluent Forms** form. If you have no forms yet, [create a new form](/create-a-form).
 
 ![embed your forms using Elementor Widget step](/images/publishing-embedding/embed-your-forms-using-elementor-widget/02-9.webp)
 
 ## Customizing Form Style
 
-The Fluent Forms widget lets you style your form to fit your site’s look and feel. In the **Style** tab, you’ll find these settings:
+The Fluent Forms widget lets you style your form to fit your site. The **Style** tab has these settings:
 
 **Form Container:** Change the background, set the form’s width, and adjust its margin and alignment.
 
-- Background Type: Choose a solid color or upload an image for the form's background.
-
-- Color: Pick a global color or use the color picker for form elements.
-
-- Image: Upload or select a background image.
-
-- Link Color: Set the color for any links in your form.
-
-- Max Width: Control the form’s maximum width.
-
-- Alignment: Align the form left, center, or right.
-
-- Margins: Add space outside the form (top, right, bottom, left).
-
-- Padding: Add space inside the form borders.
-
-- Border Type: Choose a border style (solid, double, dashed, dotted, groove, etc.).
-
-- Border Radius: Round the form’s corners.
-
-- Box Shadow: Add a shadow around the form and adjust its horizontal/vertical offset, blur, and spread.
+- **Background Type:** Choose a solid color or upload an image for the form's background.
+- **Color:** Pick a global color or use the color picker for form elements.
+- **Image:** Upload or select a background image.
+- **Link Color:** Set the color for any links in your form.
+- **Max Width:** Set the form’s maximum width.
+- **Alignment:** Align the form left, center, or right.
+- **Margins:** Add space outside the form (top, right, bottom, left).
+- **Padding:** Add space inside the form borders.
+- **Border Type:** Choose a border style (solid, double, dashed, dotted, groove, etc.).
+- **Border Radius:** Round the form’s corners.
+- **Box Shadow:** Add a shadow around the form and adjust its horizontal and vertical offset, blur, and spread.
 
 ![embed your forms using Elementor Widget step](/images/publishing-embedding/embed-your-forms-using-elementor-widget/04-5.webp)
 
-**Input & Textarea**: You can customize the Input & Textarea fields as needed.
+**Input & Textarea:** Style the Input and Textarea fields.
 
-- Background Color: Change the field background.
+- **Background Color:** Change the field background.
+- **Text Color:** Pick the text color from the color picker.
+- **Border Type:** Choose a border style (solid, dashed, dotted, or none).
+- **Border Radius:** Round the corners.
 
-- Text Color: Pick the text color from the color picker.
-
-- Border Type: Choose a border style (solid, dashed, dotted, or none).
-
-- Border Radius: Round the corners to your liking.
-
-You can also adjust text indent, field width/height, textarea width/height, padding, spacing, and more.
+You can also adjust the text indent, field width and height, textarea width and height, padding, spacing, and more.
 
 ![embed your forms using Elementor Widget step](/images/publishing-embedding/embed-your-forms-using-elementor-widget/05-1.webp)
 
-**Submit Button:** You can easily customize the submit button using these options:
+**Submit Button:** Style the submit button with these options:
 
-- Color and Typography: Change the button’s text and background colors to fit your design.
-
-- Padding: Adjust the spacing inside the button for better visual appeal.
-
-- Typography: Customize the font style to match your brand’s look.
+- **Color and Typography:** Change the button’s text and background colors to fit your design.
+- **Padding:** Adjust the spacing inside the button.
+- **Typography:** Set the font style to match your brand.
 
 ![embed your forms using Elementor Widget step](/images/publishing-embedding/embed-your-forms-using-elementor-widget/06.webp)
 
-Also, you can customize the color of your form's link and image background.
-
-**Link Color**: Choose a custom color for any links within the form.
-
-**Image Background**: Add an image as the form’s background for more design options.
-
-Using the Fluent Forms widget in Elementor makes adding and styling forms on your WordPress site simple. You can also embed forms in the [Gutenberg block editor](/embed-your-forms-directly-in-gutenberg-layout) or as a [sidebar or footer widget](/use-your-forms-as-widget-on-your-sidebar-or-footer).
+You can also embed forms in the [Gutenberg block editor](/embed-your-forms-directly-in-gutenberg-layout) or as a sidebar or footer widget.

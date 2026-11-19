@@ -4,33 +4,31 @@ description: "Shortcodes are special WordPress codes that allow you to add conte
 
 # Shortcode Input Field
 
-[Shortcodes](/shortcodes-overview) are special WordPress codes that allow you to add **content, files,** or **objects** to your form with just one line of code. With **Fluent Forms**, you can easily insert pre-existing content or features into your forms using the **Shortcode Input Field**.
+[Shortcodes](/shortcodes-overview) are special WordPress codes that add **content, files,** or **objects** to your form with one line of code. The **Shortcode Input Field** lets you insert existing content or features into your form.
 
-This guide will walk you through adding and customizing the **Shortcode Field** in Fluent Forms for your WordPress site.
+This guide shows you how to add and customize the **Shortcode Field** in Fluent Forms.
 
 > [!Note]
 > The **Shortcode** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Adding Shortcode Field
 
-To learn how to add the **Shortcode** field to Fluent Forms, follow the steps below:
-
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit Shortcode Input Field](/images/form-fields/advanced-fields/shortcode-input-field/edit-form-01-15-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the desired **Shortcode** **Input** field by clicking on it or **Dragging** and **Dropping** it into your editor.
+Click the **Shortcode** field, or drag and drop it into your editor.
 
 ![Shortcode Input Field step](/images/form-fields/advanced-fields/shortcode-input-field/new-21-scaled.webp)
 
 ## Customizing the Shortcode Field
 
-Once you add the Shortcode field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+After you add the Shortcode field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Shortcode Input Options
 
@@ -40,29 +38,29 @@ Once you add the Shortcode field, you can customize it by hovering over it and c
 
 ### Shortcode Input Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Shortcode** field.
+These options in the **Customize** tab configure the **Shortcode** field.
 
-**A. Shortcode:** **Paste** your desired **Shortcode** into the field provided. This will insert dynamic content into your form. View how the shortcode will appear inside your form.
+**A. Shortcode:** Paste your shortcode into the field. This inserts dynamic content into your form. The preview shows how the shortcode appears inside your form.
 
 ![Basic Options Fluent Forms](/images/form-fields/advanced-fields/shortcode-input-field/Basic-options-04-16-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. 
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Shortcode** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Shortcode** field. Enter text that explains the purpose of the field.
 
-**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**B. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/shortcode-input-field/advanced-options-05-13-scaled.webp)
 
 ## Embed the Form into the Front
 
-Once you have customized the shortcode field, click the **Save** button to apply the changes.
+Click **Save** to apply your changes.
 
-To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired page or post.
+To show the form on a page or post, copy the **Shortcode** from the top-right corner and paste it into that page or post.
 
-To preview the form, click **Preview** in the middle of the page.
+To preview the form, click the **Preview** (eye) icon at the top right.
 
 ![Save Shortcode Input Field](/images/form-fields/advanced-fields/shortcode-input-field/Save-Form-06-17-scaled.webp)
 
@@ -71,5 +69,3 @@ To preview the form, click **Preview** in the middle of the page.
 Here is a preview of the form with the **Shortcode** field:
 
 ![Preview Shortcode Input Field](/images/form-fields/advanced-fields/shortcode-input-field/Preview-07-10.webp)
-
-Congratulations! You have successfully added Shortcode to your Fluent Forms form.

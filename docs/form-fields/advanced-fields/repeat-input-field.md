@@ -4,33 +4,33 @@ description: "The Repeat Field in Fluent Forms allows users to duplicate an inpu
 
 # Repeat Input Field
 
-The **Repeat Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform) allows users to duplicate an input field dynamically. This is useful for forms where users may need to add multiple entries, such as contact details, addresses, or product lists. You can even [add calculation values on the Repeat field](/add-calc-values-on-the-repeat-field) to total up rows automatically.
+The **Repeat Field** in [Fluent Forms](https://wordpress.org/plugins/fluentform) lets users duplicate an input field dynamically. Use it when users may need to add multiple entries, such as contact details, addresses, or product lists. You can even [add calculation values on the Repeat field](/add-calc-values-on-the-repeat-field) to total up rows automatically.
 
-This guide will walk you through adding and customizing the **Repeat Input** field in Fluent Forms.
+This guide shows you how to add and customize the **Repeat Input** field in Fluent Forms.
 
 > [!Note]
 > The **Repeat Input** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Adding a Repeat Input Field
 
-To add the **Repeat Input Field** in Fluent Forms, follow the simple steps below:
+To add the **Repeat Input Field**, follow these steps:
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit Repeat Input Field](/images/form-fields/advanced-fields/repeat-input-field/Form-Edit-01-1-scaled.webp)
 
-Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the **Repeat Input** field by **clicking** or **dragging** it and **dropping** it into your editor.
+Click the **Repeat Input** field, or drag and drop it into your editor.
 
 ![Adding Repeat Field](/images/form-fields/advanced-fields/repeat-input-field/Adding-Repeat-Field-02-scaled.webp)
 
 ## Customizing the Repeat Input Field
 
-Once you add the **Repeat Input** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
+After you add the **Repeat Input** field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these options:
 
 - Repeat Field Options
 
@@ -40,39 +40,39 @@ Once you add the **Repeat Input** field, you can customize it by hovering over i
 
 ### Repeat Field Options
 
-Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Repeat Input** field.
+These options in the **Customize** tab configure the **Repeat Input** field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Repeat Input** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Repeat Input** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. 
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Repeat Field Columns:** To add multiple columns, click the **Plus Icon**, and to remove any column, click the **Minus Icon** from the **Column’s** right side. Click on the **Chevron Down Icon** to configure column settings.
+**D. Repeat Field Columns:** Click the **Plus Icon** to add a column. Click the **Minus Icon** on the right side of a column to remove it. Click the **Chevron Down Icon** to configure column settings.
 
-- **Field Type:** Choose the Field Type dropdown options.
+- **Field Type:** Choose a field type from the dropdown.
 
-- **Label:** Name the Label of the Column.
+- **Label:** Enter the label of the column.
 
-- Default: Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/dynamic-default-value).
+- **Default:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read the [Dynamic Default Value documentation](/dynamic-default-value).
 
-You can add the **Default** value by clicking the **Three-Dot** option from the right side.
+Click the **Three-Dot** option on the right to add the default value.
 
-- **Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute.
+- **Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-- **Required:** Decide whether users must select at least one option before submission.
+- **Required:** Turn on **Required** to make users fill in this field before they submit.
 
 ![Unnamed](/images/form-fields/advanced-fields/repeat-input-field/unnamed-1-2.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. 
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**A. Container Class:** Add custom CSS classes to the field’s wrapper.
 
-**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**C. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
 
 **D. Max Repeat Inputs:** Set the maximum number of rows users can add to this repeated field. Leave blank or set to 0 for unlimited entries.
 
@@ -80,16 +80,14 @@ Advanced settings allow further customization to meet specific use cases.
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Repeat Input Field](/images/form-fields/advanced-fields/repeat-input-field/Save-Form-05-6-scaled.webp)
 
 ### Preview of Repeat Input Field
 
-Here is the preview of the added **Repeat Input** field under the Form. 
+Here is the form with the **Repeat Input** field added.
 
 ![Preview Repeat Input Field](/images/form-fields/advanced-fields/repeat-input-field/Preview-06-3.webp)
-
-Congratulations! You have successfully added a repeat field to your Fluent Forms form.

@@ -4,76 +4,77 @@ description: "Fluent Forms Pro offers a variety of advanced features that are un
 
 # Upgrade to Pro Add-on
 
-Fluent Forms Pro offers a variety of advanced features that are unavailable in the free version. It is packed with numerous features and functionalities to create effective forms. 
-
-To unlock the ultimate potential of Fluent Forms, you need to upgrade to the Pro add-on. Here is how you can upgrade Fluent Forms. 
+Fluent Forms Pro adds features that the free version does not include, such as more fields, integrations, and form types. This guide shows you how to get the Pro zip file, install it, and activate your license.
 
 > [!Note]
-> To use **Fluent Forms Pro**, you must first [install and activate Fluent Forms (free)](/install-fluent-forms). To know more about Fluent Forms free vs pro, read this [article](https://fluentforms.com/fluent-forms-free-vs-pro-everything-you-need-to-know/).
+> You must [install and activate Fluent Forms (free)](/install-fluent-forms) before you use **Fluent Forms Pro**. To compare the two versions, read the [free vs pro article](https://fluentforms.com/fluent-forms-free-vs-pro-everything-you-need-to-know/).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/LYRD4PoTyDo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Upgrade to Fluent Forms Pro
+## Upgrade to Fluent Forms Pro
 
-Before upgrading to Fluent Forms Pro, ensure you have the **Pro Add-on .zip file** ready. Below is a step-by-step process to get the .zip file-
+Before you upgrade, get the **Pro Add-on .zip file**. The steps below show you how.
 
-### Get the Zip File
+## Get the Zip File
 
-You'll first need to purchase the **Pro** version of Fluent Forms to get started. You can do this in two ways:
+First, purchase the **Pro** version of Fluent Forms. You can do this in two ways.
 
-Visit the official [**Fluent Forms**](https://fluentforms.com/) or [**WPManageNinja**](https://wpmanageninja.com/) websites and choose a pricing plan that fits your needs.
+Visit the official [**Fluent Forms**](https://fluentforms.com/) or [**WPManageNinja**](https://wpmanageninja.com/) website and choose a pricing plan.
 
 ![Get the ZIP File](/images/getting-started/upgrade-to-pro-add-on/Pricing-plan.webp)
 
-Or, you can open the **Fluent Forms free** plugin from your WordPress dashboard, click **More** in the top bar, and select **Support**. Then click the **Upgrade to Pro** button in the **Unlock more with Fluent Forms Pro** banner. This will take you directly to the purchase page.
+Or open the free **Fluent Forms** plugin from your WordPress dashboard, click **More** in the top bar, and select **Support**. Then click **Upgrade to Pro** in the **Unlock more with Fluent Forms Pro** banner. This takes you to the purchase page.
 
 ![Upgrade Pro](/images/getting-started/upgrade-to-pro-add-on/01-2-scaled.webp)
 
-Once your purchase is complete, you can access the **WPManageninja Dashboard**. Log in to the [account](https://wpmanageninja.com/account/dashboard/) with your credentials.
+After you complete the purchase, log in to your [WPManageNinja account](https://wpmanageninja.com/account/dashboard/) with your credentials.
 
-Then go to the **Dashboard**, and you will find **Fluent Forms** **Pro** zip under **Downloads**. Now, click the **Download** button  and you will see the Fluent Forms **.zip** file has downloaded to your device.
+Go to **Dashboard** and find the **Fluent Forms Pro** zip under **Downloads**. Click **Download** to save the **.zip** file to your device.
 
 ![Download](/images/getting-started/upgrade-to-pro-add-on/fluentforms-pro-download-scaled.webp)
 
-To access your Fluent Forms license, navigate to **Licenses** in the left sidebar. You’ll find your Fluent Forms license key there. You’ll need this key later when activating the plugin. If you miss it now, you can always come back and retrieve it from your WPManageNinja Dashboard. To move this license to a different site later, see [How to Transfer a License to a New Domain](/transfer-a-license-to-a-new-domain).
+To find your license key, click **Licenses** in the left sidebar. Copy the Fluent Forms license key. You need it later to activate the plugin. You can always return to your WPManageNinja Dashboard to retrieve it. To move this license to a different site later, see [How to Transfer a License to a New Domain](/transfer-a-license-to-a-new-domain).
 
-Click **View List** to see all active sites currently using this license key.
+Click **View List** to see all active sites that use this license key.
 
-![Fluent Forms License Key from Wpmanageninaj dashboard](/images/getting-started/upgrade-to-pro-add-on/Fluent-Forms-License-scaled.webp)
+![Fluent Forms License Key from WPManageNinja dashboard](/images/getting-started/upgrade-to-pro-add-on/Fluent-Forms-License-scaled.webp)
 
-## Install the Fluent Form Pro
+## Install Fluent Forms Pro
 
-Once you get the zip file, go to **Plugins** from your WordPress Dashboard and click on the **Add New Plugin** button.
+When you have the zip file, go to **Plugins** in your WordPress Dashboard and click **Add New Plugin**.
 
 ![Install Fluent Forms Pro](/images/getting-started/upgrade-to-pro-add-on/02-3-scaled.webp)
 
-Now, click the **Upload** **Plugin** button. Then, press the **Choose file** to upload the Fluent Forms .zip file you've downloaded before, and click the **Install Now** button.
-
-The Fluent Forms Pro plugin will be successfully installed on your WordPress site!
-
-> Do not deactivate or uninstall the Fluent Forms plugin from the Installed Plugins list. If you do this, you will be unable to use the Pro features and will need to reinstall and activate the Pro add-on.
+Click **Upload Plugin**, then click **Choose file** and select the Fluent Forms .zip file you downloaded. Click **Install Now**. WordPress installs Fluent Forms Pro on your site.
 
 ![Install Now](/images/getting-started/upgrade-to-pro-add-on/04-3-scaled-04-25-2025_12_52_PM.webp)
 
-Now, to activate the plugin, click the **Activate Plugin** button.
+> [!Warning]
+> Do not deactivate or uninstall the free Fluent Forms plugin. If you do, you cannot use the Pro features and must reinstall and activate the free plugin again.
+
+Click **Activate Plugin** to activate Fluent Forms Pro.
 
 ![Activate Plugin](/images/getting-started/upgrade-to-pro-add-on/activate-plugin-04-25-2025_12_37_PM.webp)
 
-### Activate the License Key
+## Activate the License Key
 
-First, click the **Global Settings** gear icon in the top bar of your Fluent Forms dashboard, open **License Management** from the left menu, and enter the **License Key** you’ve copied before into the input field.
-And finally, click the **Verify license** button. Your Fluent Forms Pro plugin will also be successfully activated on your WordPress site!
+1. Click the **Global Settings** gear icon in the top bar of your Fluent Forms dashboard.
+2. Open **License Management** from the left menu.
+3. Enter the **License Key** you copied earlier in the input field.
+4. Click **Verify license**.
+
+Fluent Forms Pro is now active on your site.
 
 ![Activate the License Key](/images/getting-started/upgrade-to-pro-add-on/License-Key-04-25-2025_12_40_PM-scaled.webp)
 
 ## How to update Fluent Forms
 
-Go to the **Installed** **Plugins** page of your WordPress Dashboard and search for **Fluent Forms** from the Search Bar in the top right corner.
+Go to **Installed Plugins** in your WordPress Dashboard and search for **Fluent Forms** in the search bar at the top right.
 
-Now, check if any updates are available. If yes, click on the **Update** button.
+Check whether an update is available. If it is, click **Update**.
 
 ![Update Fluent Forms](/images/getting-started/upgrade-to-pro-add-on/Update-Fluent-Forms-04-25-2025_12_43_PM-scaled.webp)
 
-Congratulations! Now, you can start [building powerful forms](/creating-forms-overview) and explore all the fantastic features of Fluent Forms.
+Now you can start [building forms](/creating-forms-overview) with Fluent Forms.

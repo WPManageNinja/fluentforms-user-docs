@@ -4,15 +4,15 @@ description: "Fluent Forms is a powerful, user-friendly drag-and-drop form-build
 
 # User Interface
 
-Fluent Forms is a powerful, user-friendly drag-and-drop form-building plugin for WordPress. It allows you to create, manage, and customize website forms.
+Fluent Forms is a drag-and-drop form-building plugin for WordPress. It lets you create, manage, and customize website forms.
 
-This documentation walks you through the key elements and capabilities of the Fluent Forms user interface.
+This page walks you through the key parts of the Fluent Forms user interface, so you know where to find each feature.
 
 ## Dashboard
 
-The dashboard is Fluent Forms' main control centre. When you open **Fluent Forms** from your WordPress menu, you land on the **Forms** screen, where you see all your forms in one place.
+The dashboard is the main control center of Fluent Forms. When you open **Fluent Forms** from your WordPress menu, you land on the **Forms** screen, where you see all your forms in one place.
 
-A top bar runs across every Fluent Forms screen. It gives you quick access to all major sections:
+A top bar runs across every Fluent Forms screen. It links to all major sections:
 
 * **Forms:** Your list of forms.
 * **Entries:** All submissions collected through your forms.
@@ -21,37 +21,37 @@ A top bar runs across every Fluent Forms screen. It gives you quick access to al
 * **Integrations:** Connect Fluent Forms with other tools and plugins.
 * **More:** Opens **Tools** and **Support**.
 
-On the right side of the top bar, you find three more controls:
+The right side of the top bar has three more controls:
 
 * **Search:** Search your forms, entries, and settings from anywhere. Press the **/** key to open it quickly.
 * **Theme:** Switch between the system, light, and dark appearance.
 * **Global Settings:** The gear icon opens your site-wide settings.
 
-On the Forms screen, you also find these controls:
+The **Forms** screen also has these controls:
 
-* **Add Form:** Click this button to start building a new form for your site.
-* **Search:** Use the search icon above the list to find a form quickly.
-* **Filter:** Use the filter icon to narrow down the list of forms.
+* **Add Form:** Click this button to build a new form.
+* **Search:** Use the search icon above the list to find a form.
+* **Filter:** Use the filter icon to narrow the list of forms.
 * **Columns:** Use the columns icon to show or hide columns in the list.
 
 ![Dashboard](/images/getting-started/user-interface/filter-form-01-scaled.webp)
 
 ### Form List Overview
 
-* **ID:** Displays the unique ID of each form.
-* **Title:** Shows the name or title of your form. Click the title to open the form builder.
-* **Shortcode:** Each form has a shortcode that you can copy and paste anywhere on your site (pages, posts, or widgets) to display the form.
-* **Last Updated:** Shows when you last changed the form.
-* **Entries:** Shows how many submissions the form has collected.
+* **ID:** The unique ID of each form.
+* **Title:** The name of your form. Click the title to open the form builder.
+* **Shortcode:** Copy the shortcode and paste it into a page, post, or widget to display the form.
+* **Last Updated:** When you last changed the form.
+* **Entries:** How many submissions the form has collected.
 * **Active:** Use the toggle to activate or deactivate the form on your website.
 
 ## Form Menu
 
-At the end of each form row, you find quick actions to manage the form directly from the dashboard.
+Each form row ends with quick actions, so you can manage the form from the dashboard.
 
 * **Settings (gear icon):** Opens the form's configuration settings.
 * **Entries (document icon):** Shows all submissions made through that form.
-* **Preview (eye icon):** Appears next to the title when you hover over a form. It lets you see how the form looks on the front end.
+* **Preview (eye icon):** Appears next to the title when you hover over a form. It shows how the form looks on the front end.
 * **More actions (three dots):** Opens a menu with these options:
   * **Appearance:** Opens the design settings of the form.
   * **Embed:** Shows how to add the form to your site.
@@ -65,11 +65,11 @@ At the end of each form row, you find quick actions to manage the form directly 
 
 ## Forms Category
 
-You can filter your forms by type using the tabs above the list. This helps you quickly find specific types of forms you've created on your website:
+Use the tabs above the list to filter your forms by type:
 
-* **All:** Shows every form you've created.
+* **All:** Shows every form you created.
 * **Active:** Displays only the forms that are currently active.
-* **Inactive:** Lists all the forms that are deactivated.
+* **Inactive:** Lists the forms that are deactivated.
 * **Payment Form:** Filters to show only forms that include payment options.
 * **More:** Opens a menu with more form types:
   * **Post Form:** Shows forms that create WordPress posts.
@@ -80,38 +80,38 @@ You can filter your forms by type using the tabs above the list. This helps you 
 
 ## Form Builder
 
-The Form Builder allows you to create and customize forms using a drag-and-drop system.
+The **Form Builder** lets you create and customize forms with drag and drop.
 
 * **Top Bar:** Switch between **Editor**, **Appearance**, **Configuration**, and **Entries** for the current form. The **More** menu holds additional screens.
-* **Field Panel:** The sidebar on the right that shows [all available form fields](/form-fields-overview), including general and advanced types like text input, checkboxes, and dropdowns. Drag any field from here into your form, or use the search box to find a field fast.
-* **Customize:** Open the **Customize** tab on the right to change a field style after adding it to the form.
+* **Field Panel:** The sidebar on the right that shows [all available form fields](/form-fields-overview), including general and advanced types like text input, checkboxes, and dropdowns. Drag any field into your form, or use the search box to find a field.
+* **Customize:** Open the **Customize** tab on the right to change a field style after you add it to the form.
 * **Form Canvas:** The main workspace where you design and arrange your form.
-* **Field Settings:** When you click on a field, you can edit its label, placeholder, validation rules, and other options.
-* **Container:** Use containers to create multi-column layouts. You can also resize them as needed.
+* **Field Settings:** Click a field to edit its label, placeholder, validation rules, and other options.
+* **Container:** Use containers to create multi-column layouts. You can resize them.
 * **Shortcode, Preview, and Full Screen:** Use the icons at the top right to copy the form shortcode, preview the form on the front end, or work in full screen.
-* **Save:** After making changes, click the **Save** button (or press **Cmd/Ctrl + S**) to save your form to your website.
+* **Save:** Click **Save** (or press **Cmd/Ctrl + S**) to save your changes.
 
 > [!Note]
-> If you do not have any existing forms, read [How to Create a Form with Fluent Forms](/create-a-form) or [Using and Customizing Pre-built Quick Forms in Fluent Forms](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [How to Create a Form with Fluent Forms](/create-a-form). You can also start from a [pre-built quick form](/using-and-customizing-pre-built-quick-forms).
 
 ![Form Builder](/images/getting-started/user-interface/Form-builder-scaled.webp)
 
 ## Form Template
 
-When you click **Add Form**, the **Create A New Form** window opens. You can use a collection of ready-made form templates to quickly get started.
+Click **Add Form** to open the **Create A New Form** window. It offers ready-made form templates and other ways to start.
 
 * **Import Form:** Click this button to import a form you exported earlier.
 * **New Blank Form:** Start from scratch with an empty form.
-* **Conversational Form:** Use this option to start building a conversational-style form. See [How to create a conversational form](/create-a-conversational-form).
-* **Choose a Template:** Pick and customize a pre-designed template to fit your needs.
-* **Create a Post Form:** Select this option to create a form that can generate WordPress posts. See [How to Create a Post Form with Fluent Forms](/create-a-post-form).
+* **Conversational Form:** Start a conversational-style form. See [How to create a conversational form](/create-a-conversational-form).
+* **Choose a Template:** Pick a pre-designed template and customize it.
+* **Create a Post Form:** Create a form that generates WordPress posts. See [How to Create a Post Form with Fluent Forms](/create-a-post-form).
 * **Create a Form Using AI:** Describe the form you need, or pick one of the suggestions, and click **Generate the Form**. See [How to Create a Form with Fluent Forms AI](/create-a-form-with-ai).
 
 ![Form Template](/images/getting-started/user-interface/Form-template-04.webp)
 
 ## Entries
 
-The **Entries** screen shows all form submissions collected on your website.
+The **Entries** screen shows all form submissions collected on your site.
 
 * **Show Chart:** Turn the chart on or off to see submissions over time.
 * **Form Filter:** Filter entries by a specific form, or keep **All Forms**.
@@ -119,7 +119,7 @@ The **Entries** screen shows all form submissions collected on your website.
 * **Statistics:** See your total, unread, and read entries at a glance.
 * **Status Tabs:** Filter entries by **All**, **Unread**, **Read**, **Favorites**, **Spam**, or **Trashed**.
 
-You can import entries from **More → Tools**. See [Importing Entries in Fluent Forms](/importing-entries) and [Managing Entries in Fluent Forms](/managing-entries).
+You can import entries from **More → Tools**. See [Importing Entries in Fluent Forms](/importing-entries). To manage entries, see [Managing Entries in Fluent Forms](/managing-entries).
 
 ![Entries](/images/getting-started/user-interface/entries-05-scaled.webp)
 
@@ -135,16 +135,16 @@ The **Reports** screen gives you charts and statistics about your forms. It has 
 
 ## Payment
 
-Once you enable the payment feature, you can choose and set up your preferred payment methods.
+After you enable the payment feature, you can set up your payment methods.
 
-* **Transactions List:** When you click **Payments** in the top bar, you see all transactions made through your forms. Filter them by **All**, **Paid**, **Pending**, and more.
+* **Transactions List:** Click **Payments** in the top bar to see all transactions made through your forms. Filter them by **All**, **Paid**, **Pending**, and more.
 * **Payment Settings:** Click this button to configure payment gateways such as Stripe, PayPal, or Razorpay. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings).
 
 ![Payment](/images/getting-started/user-interface/Payment-07-scaled.webp)
 
 ## Global Settings
 
-**Global Settings** is the section where you manage site-wide settings in one place. Click the gear icon in the top bar to open it. A menu on the left groups the settings:
+**Global Settings** holds your site-wide settings. Click the gear icon in the top bar to open it. A menu on the left groups the settings:
 
 * **General:** Set the default **Layout**, **Email Summaries**, **Integration Failure** alerts, **Validation Messages**, **Default Style Template**, and **Date & Time Format**.
 * **Data & Privacy:** Manage how Fluent Forms handles your data.
@@ -161,7 +161,7 @@ Once you enable the payment feature, you can choose and set up your preferred pa
 
 ## Tools
 
-The **Tools** section lets you manage and transfer your forms and data. Open it from **More → Tools** in the top bar. A menu on the left lists the tools:
+The **Tools** section lets you move your forms and data. Open it from **More → Tools** in the top bar. A menu on the left lists the tools:
 
 * **Export Forms and Import Forms:** Move forms between sites.
 * **Export Entries and Import Entries:** Move entries using JSON or CSV files.
@@ -176,7 +176,7 @@ The **Tools** section lets you manage and transfer your forms and data. Open it 
 The **Integrations** screen lists the modules, plugins, and services you can connect with Fluent Forms.
 
 * **Tabs:** Filter the list by **All**, **Fluent Plugins**, **CRM & SaaS**, **WP Core Modules**, or **Fluent Forms**.
-* **Search and Status:** Use the search box to find an integration. Use the status filter to see only the ones you have installed or not.
+* **Search and Status:** Use the search box to find an integration. Use the status filter to see only the integrations you have installed, or only those you have not.
 * **Actions:** Click **Install** to add a plugin, **Configure** to open its settings, **Dashboard** to open the plugin, or **Learn More** to read about it.
 * **Fluent Forms PDF:** Generate and download form submissions as PDF files. See [Fluent Forms PDF Module](/pdf-module).
 
@@ -184,14 +184,14 @@ The **Integrations** screen lists the modules, plugins, and services you can con
 
 ## Support
 
-The **Support** screen contains user guidance, documentation, community support, and expert live support. Open it from **More → Support** in the top bar.
+The **Support** screen offers user guidance, documentation, community support, and expert live support. Open it from **More → Support** in the top bar.
 
-* **Documentation:** Access guides and help articles.
-* **Support Ticket:** Open a ticket when you cannot find an answer.
-* **Community Support:** Connect with other Fluent Forms users.
+* **Documentation:** Guides and help articles.
+* **Open a support ticket:** Use this link when you cannot find an answer.
+* **Join Our Community:** Talk with other Fluent Forms users.
 * **Developer Documentation:** Find hooks and REST API references.
-* **Feature Requests:** Submit ideas for new features.
+* **Request a Feature:** Submit an idea for a new feature.
 
 ![Support](/images/getting-started/user-interface/Support.webp)
 
-This overview highlights the essential components of the Fluent Forms UI, making it easier for users to navigate and utilize the plugin effectively.
+Next, [create your first form](/create-a-form).

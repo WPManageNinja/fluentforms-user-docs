@@ -4,7 +4,7 @@ description: "Fluent Forms allows you to send a Default/Customized Confirmation 
 
 # Setup Form Submission Confirmation Message
 
-**Fluent Forms** allows you to send a **Default/Customized** **Confirmation Message** after each form submission to let the users know their form was submitted successfully. This article will guide you through setting up the **Confirmation Message** in **Fluent Forms**.
+**Fluent Forms** sends a **Default** or **Customized Confirmation Message** after each form submission, so users know their form went through. This guide shows you how to set up the **Confirmation Message**.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/E0_xgmiqXoc" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -12,15 +12,13 @@ description: "Fluent Forms allows you to send a Default/Customized Confirmation 
 
 ## Confirmation Settings
 
-To set up a customized form submission confirmation message, follow the steps below – 
-
-Navigate to **Forms** from the top navbar, and open the **Editor** page of your desired form by clicking the **Edit** button where you want to set the notifications, or you can create a new form. 
+Go to **Forms** in the top navbar and click **Edit** on your form to open the **Editor**. You can also create a new form.
 
 ![Editor Fluent Forms](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/1.-desired-Form-Editor-4-scaled.webp)
 
-Now, click **Configuration** in the top bar and open **Confirmation Settings** under **Responses** in the left rail.
+Click **Configuration** in the top bar and open **Confirmation Settings** under **Responses** in the left rail.
 
-Here, you can see three **Confirmation Types** for setting up the **Confirmation Message**. These are:
+Choose one of three **Confirmation Types**:
 
 **1. Same Page**
 
@@ -28,57 +26,57 @@ Here, you can see three **Confirmation Types** for setting up the **Confirmation
 
 **3. To a Custom URL**
 
-Once you complete the setup, click **Save** to save all your changes.
+Click **Save** to save your changes.
 
 ![Confirmation Settings Option](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/2.-Confirmation-Settings-option-scaled.webp)
 
-**All three confirmation types mentioned above are briefly explained below:**
+The sections below explain each confirmation type.
 
 ### 1. Same page
 
-This option is selected by default. It enables you to show the confirmation message on the same page where the form is embedded.
+This option is selected by default. It shows the confirmation message on the same page where the form is embedded.
 
- * **A. Message to show**: Here, you can see a default confirmation message. You can keep it or customize it as per your needs. You can also add **Shortcode/s** and **Media/s** in your confirmation message by using the **Add Media** and **Add Shortcodes** button in the right corner. See [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings) for the full list of smart shortcodes you can use. Also for advanced customization, you can edit the message in **HTML Codes** through the **Text** tab.
+ * **A. Message to show:** Fluent Forms shows a default confirmation message. Keep it or customize it. Use **Add Media** and **Add Shortcodes** in the right corner to add media and shortcodes. For the full list of smart shortcodes, see [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings). For advanced customization, edit the message as **HTML Codes** in the **Code** tab.
 
- * **B. After Form Submission**: Here, you can select whether you want to **Hide** or **Reset** the Form after each form submission. 
+ * **B. After Form Submission:** Choose **Hide Form** or **Reset Form** after each form submission.
 
-Finally, click **Save** to save all your changes.
+Click **Save**.
 
 ![Same Page Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/3.-Same-Page-confirmation-type.webp)
 
 ### 2. To a Page
 
-The option allows you to redirect your subscribers to a designated page on your website after they submit the form, enhancing their experience by guiding them to relevant content or further actions. This could be a **Customized Welcome Page**, your **Home Page**, or **Any Other Page** on your site. 
+This option redirects your subscribers to a page on your website after they submit the form. It guides them to relevant content or further actions. The page can be a **Customized Welcome Page**, your **Home Page**, or **Any Other Page** on your site.
 
- * **A. Select Page:** Here, choose the desired page you want your subscriber to be redirected to after form submission by clicking the **Select** dropdown. Here you will find your website’s all pages in this dropdown list.
+ * **A. Select Page:** Choose the page to redirect your subscriber to after form submission. The dropdown lists all your site's pages.
 
- * **B. Pass Field Data Via Query String**: Enabling this checkbox allows you to pass the field data via a query string (currently unchecked). Here also you can redirect queries through **Shortcode** by clicking the **{ }** shortcode icon in the right corner.
+ * **B. Redirect Query String:** Turn on **Pass Field Data Via Query String** to pass the field data in the URL. Add values with the **{ }** shortcode icon in the right corner.
 
- * **C. Redirection Message**: Here, you can customize the message displayed after form submission. You can also add **Shortcode/s** and **Media/s** in your confirmation message by using the **Add Media** and **Add Shortcodes** button in the right corner. Also for advanced customization, you can edit the message in **HTML Codes** through the **Text** tab.
+ * **C. Redirection Message:** Customize the message shown after form submission. Use **Add Media** and **Add Shortcodes** in the right corner to add media and shortcodes. For advanced customization, edit the message as **HTML Codes** in the **Code** tab.
 
-Once you are done, click **Save** to save all your changes.
+Click **Save**.
 
 ![Page Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/4.-To-a-Page-confirmation-type.webp)
 
 ### 3. To a Custom URL
 
-This confirmation type allows you to redirect your subscriber to a page/website that is not in your domain through a custom URL.
+This confirmation type redirects your subscriber to a page or website outside your domain through a custom URL.
 
- * **A. Custom URL**: Here, put the desired **Outbound URL** where you want your subscriber redirected after form submission. Here you can also add **Shortcode/s** by clicking the left side **three-dot-icon.** 
+ * **A. Custom URL:** Enter the **Redirect URL** to send your subscriber to after form submission. Add shortcodes with the **{ }** icon.
 
- * **B. Pass Field Data Via Query String**: Enabling this checkbox allows you to pass the field data via a query string (currently unchecked). Here also you can redirect queries through **Shortcode** by clicking the **{ }** shortcode icon in the right corner. 
+ * **B. Redirect Query String:** Turn on **Pass Field Data Via Query String** to pass the field data in the URL. Add values with the **{ }** shortcode icon in the right corner.
 
-Suppose you have a form with a field like **Name**. If you enable **Pass Field Data via Query String**, after the form submission, the URL could look like: `https://yourwebsite.com/thank-you/?name=JohnDoe`
+Suppose your form has a field like **Name**. If you enable **Pass Field Data via Query String**, the URL after submission can look like this: `https://yourwebsite.com/thank-you/?name=JohnDoe`
 
 - Here, 'name=JohnDoe' is passed through the query string.
 
-- You can then use this information on the next page for personalization or tracking.
+- You can use this information on the next page for personalization or tracking.
 
- * **C. Redirect Message**: Here, you can customize the message displayed after form submission. You can also add **Shortcode/s** and **Media/s** in your confirmation message by using the **Add Media** and **Add Shortcodes** button in the right corner. Also for advanced customization, you can edit the message in **HTML Codes** through the **Text** tab.
+ * **C. Redirection Message:** Customize the message shown after form submission. Use **Add Media** and **Add Shortcodes** in the right corner to add media and shortcodes. For advanced customization, edit the message as **HTML Codes** in the **Code** tab.
 
 > [!Note]
-> If you want to pass data using a query string and automatically populate form fields on the redirected page, see [Set Default Form Value from URL Parameters](/set-default-form-value-from-url-parameters).
+> To pass data in a query string and populate form fields on the redirected page, see [Set Default Form Value from URL Parameters](/set-default-form-value-from-url-parameters).
 
-Once you are done, click **Save** to save all your changes.
+Click **Save**.
 
 ![Custom URL Confirmation Type](/images/notifications-confirmations/confirmations/setup-form-submission-confirmation-message/5.-To-a-Custom-URL-confirmation-Type.webp)

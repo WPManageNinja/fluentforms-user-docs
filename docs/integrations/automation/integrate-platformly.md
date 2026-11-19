@@ -1,142 +1,121 @@
 ---
-description: "Fluent Forms integrates with Platformly, an integrated email marketing, marketing automation, and small business CRM tool that helps you grow your…"
+description: "Fluent Forms integrates with Platformly, a marketing automation and CRM platform that helps you grow your…"
 ---
 
 # Integrate Platformly
 
-**Fluent Forms** integrates with [Platformly](http://platformly.com), an integrated email marketing, marketing automation, and small business CRM tool that helps you grow your business by collecting customer information and automatically adding it to your Platformly through Fluent Forms.
-
-This article will guide you through integrating **Platformly** with **Fluent Forms** on your **WordPress Site**.
+[Platformly](http://platformly.com) is a marketing automation and CRM platform that helps you grow your business. With the Platformly integration, **Fluent Forms** collects customer information and adds it to your Platformly account automatically. This guide shows you how to connect **Platformly** with **Fluent Forms** on your **WordPress site**.
 
 > [!Note]
 > **Platformly** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Enable Platformly Integration
 
-Go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **Platformly** through the search bar, and get the **Platformly** integration module.
+Go to **Integrations** in the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **Platformly**, and find the **Platformly** integration module.
 
-Now, turn on the **Toggle** to enable the **Platformly** module, and click **Manage** on the right side. 
+Turn on the **Toggle** to enable the **Platformly** module, then click **Manage** on the right side.
 
 ![Enable Platformly Integrate Platformly](/images/integrations/automation/integrate-platformly/1.-Enable-Platformly--scaled.webp)
 
-Once you enable Platformly, you will be asked for the **Platformly API Key** and **Platformly Project ID** of your **Platformly Account**.
+Once you enable Platformly, Fluent Forms asks for the **Platformly API Key** and **Platformly Project ID** of your **Platformly Account**.
 
 > [!Note]
 > If you do not have a Platform.ly account, [create one here](https://www.platform.ly/).
 
 ![Platformly API Settings](/images/integrations/automation/integrate-platformly/2.-Platformly-API-Settings-scaled.webp)
 
-### Getting the Platformly API Key
+### Get the Platformly API Key
 
-First, log into your [Platformly Account](https://www.platform.ly/login.php), go to the **Profile Icon** in the top right corner, open the **Dropdown Arrow**, and click the **APIs and Docs** option. 
+1. Log in to your [Platformly Account](https://www.platform.ly/login.php).
+2. Click the **Profile Icon** in the top right corner, open the **Dropdown Arrow**, and click **APIs and Docs**.
 
 ![Apis Docs Keys](/images/integrations/automation/integrate-platformly/3.-APIs-Docs-Keys-scaled.webp)
 
-Now, to create an API Key, click either the **Plus Icon** on the top right side or the **Add First API Key** button in the middle.     
+3. Click the **Plus Icon** on the top right side or **Add First API Key** in the middle to create an API Key.
 
 ![Add Frst API Key Or Plus Icon Integrate Platformly](/images/integrations/automation/integrate-platformly/4.-Add-frst-API-Key-or-Plus-icon-scaled.webp)
 
-Here, provide a **Name** for the **API Key** you are creating and click the **Submit** button.     
+4. Enter a **Name** for the **API Key** and click **Submit**.
 
 ![Name API Key](/images/integrations/automation/integrate-platformly/5.-Name-API-Key-scaled.webp)
 
-Here, your API Key is created! Now, copy this API Key for later use. 
-
-Also, you can **Edit/Delete** the API Key anytime by clicking the **Three-Dot Icon** on the right side under the **Action** column. 
+5. Copy the API Key. To edit or delete it later, click the **Three-Dot Icon** on the right side under the **Action** column.
 
 ![Copy API Key](/images/integrations/automation/integrate-platformly/6.-Copy-API-Key-scaled.webp)
 
-### Getting the Platformly Project ID
+### Get the Platformly Project ID
 
-From the **Profile Icon** in the top right corner, open the **Dropdown Arrow**, and click the **Setup** option.   
+1. Click the **Profile Icon** in the top right corner, open the **Dropdown Arrow**, and click **Setup**.
 
 ![Setup Option Fluent Forms](/images/integrations/automation/integrate-platformly/7.-Setup-option-scaled.webp)
 
-Here, you can get your newly created **Project ID** on the left side under the **ID** column. Copy this as well. 
+2. Copy your **Project ID** from the **ID** column on the left side.
 
-You can create new projects by clicking the **Plus Icon** in the top right corner if needed. You can also edit this by clicking the **Three-Dot Icon** under the **Action** column.  
+To create a new project, click the **Plus Icon** in the top right corner. To edit a project, click the **Three-Dot Icon** under the **Action** column.
 
 ![Copy Project ID](/images/integrations/automation/integrate-platformly/8.-Copy-Project-ID-scaled.webp)
 
 ## Connect Platformly with Fluent Forms
 
-Return to the **Platformly API Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
-
-Paste the **API Key** and **Project ID** you copied from **Platformly** into the **Platformly API Key** and **Platformly Project ID** fields respectively.
-
-Finally, press the **Save** button to make your **Platformly Integration** module functional.  
+1. Return to the **Platformly API Settings** page. To open it, go to **Integrations** in the top bar and click **Manage** next to the module.
+2. Paste the **API Key** and **Project ID** you copied from **Platformly** into the **Platformly API Key** and **Platformly Project ID** fields.
+3. Click **Save** to activate the **Platformly Integration** module.
 
 ![Paste API Key And Project ID](/images/integrations/automation/integrate-platformly/9.-Paste-the-API-Key-and-Project-ID-scaled.webp)
 
-You can see that your Platformly is connected to your **Fluent Forms** successfully!
-
-Now, you can verify/disconnect it anytime by clicking the **Verify Connection Again/Disconnect Platformly** buttons.
+Fluent Forms now shows that your Platformly is connected. Click **Verify Connection Again** to verify the connection, or **Disconnect Platformly** to disconnect it.
 
 ![Verify Or Disconnect Platformly](/images/integrations/automation/integrate-platformly/10.-Verify-or-Disconnect-Platformly-scaled.webp)
 
 ## Integrate Platformly with Forms
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Platformly,** and open the **Configuration** tab. 
+Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **Platformly**, and open the **Configuration** tab.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Platformly](/images/integrations/automation/integrate-platformly/11.-Open-desired-form-Settings-scaled.webp)
 
-Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Platformly Integration** feed from the drawer. 
+On the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select the **Platformly Integration** feed from the drawer.
 
 ![Add Integration Dropdown Integrate Platformly](/images/integrations/automation/integrate-platformly/12.-Add-new-integration-dropdown-scaled.webp)
 
-Here, you will find a required field to set a **Name** for your integration feed according to your preference. 
-
-Also, you must select the **Platformly Segment** from the dropdown by clicking the **Arrow Icon** on the right side where you want to send the submitted form data.
+Enter a **Name** for your integration feed. This field is required. Then click the **Arrow Icon** on the right side and select the **Platformly Segment** that receives the submitted form data.
 
 ![Select Platformly Segment Integrate Platformly](/images/integrations/automation/integrate-platformly/13.-Select-Platformly-Segment-scaled.webp)
 
-Once you select the segment, a pop-up page will appear with various settings options for configuring the Platformly.
+After you select the segment, the feed settings open with these options:
 
-1. **Name:** Here, you can see a name is given by default for your integration. You can change the name anytime if needed.
+1. **Name:** Fluent Forms gives the integration a default name. Change it at any time.
+2. **Platformly Segment:** Use the Arrow Icon to select the Platformly segment that receives your contacts. You can change it at any time.
+3. **Map Fields:** Link your Platformly fields with the form fields. Use the Shortcode Arrow to select the value for each field.
+4. **Other Fields:** Add extra fields and map them to the matching Platformly fields. Use the Shortcode Arrow to select the value for each field. Click the Plus/Minus Icon in the right corner to add or delete custom fields.
+5. **Contact Tags:** Add tags to your Platformly contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value create a single tag. You can also use shortcodes as the tag.
 
-2. **Platformly Segment:** Using the Arrow Icon, you can select the Platformly Segment where you want to add your contacts. You can also change this anytime if needed.
+   **Enable Dynamic Tag Input:** Lets you add customized tags for specific Platformly contacts based on your submission values and the conditions you set.
 
-3. **Map Fields:** Use all the fields under this option to properly link your Platformly Fields with the Form Fields. You can easily select the value for the form fields based on the Platformly fields using the Shortcode Arrow.
+6. **Note:** Write a note for the contacts. You can also use shortcodes to send dynamic data to Platformly.
+7. **Conditional Logics:** Run the Platformly integration only when your submission values match the conditions you set. See the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
+8. **Enable This Feed:** Check this option to keep the feed enabled so all its actions run.
 
-4. **Other Fields:** Using this option, you can also add the extra fields and map them to the Fluent Forms fields with their respective Platformly fields. You can easily select the value for the form fields based on the Platformly fields using the Shortcode Arrow. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
-
-5. **Contact Tags:** With this option, you can add tags to your Platformly contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use ShortCodes as the tag. Enable Dynamic Tag Input: This option allows you to add customized tags for specific Platformly contacts based on your submission values according to your set conditions.
-
-6. **Note:** With this option, you can write a note for the contacts. You can also use Shortcodes to send dynamic data to Platformly.
-
-7. **Conditional Logics:** This option allows Platformly integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
-
-8. **Enable This Feed:** Check this option to ensure this integration feed remains enabled and all its actions function properly.
-
-Once the setup is done, click the **Save** button, and your Platformly will be integrated into this specific form!
+Click **Save** when the setup is done. Platformly is now connected to this form.
 
 ![Save Feed Button Integrate Platformly](/images/integrations/automation/integrate-platformly/14.-Save-Feed-button-scaled.webp)
 
-After successful Integration, now you will see that your **Platformly Integration Feed** has been added here. 
-
-You can modify your feed anytime by clicking the **Settings Icon,** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
+The **Platformly Integration Feed** now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
 
 ![Added Platformly Integration Feed](/images/integrations/automation/integrate-platformly/15.-Added-Platformly-Integration-Feed-scaled.webp)
 
 ### Preview of Integrated Platformly
 
-Here, you can see the preview of the added Platformly Segments through the Form Entries based on the Integration.
-
-For example, you can see three new **Form Submissions** under the **Entries** tab on this particular form. 
+You can see the form submissions that add Platformly contacts in the **Entries** tab of the form. In this example, the form has three new **Form Submissions**.
 
 ![Entries Fluent Forms](/images/integrations/automation/integrate-platformly/16.-Form-Entries-scaled.webp)
 
-Now, go to the **Platformly Dashboard**, hover over **CRM** from the top navbar, again hover over **Segmentation**, and click the **Segments** option.  
-
-Once you are on the **Segments** page, click on the **Number** of the **Contacts** of your integrated **Segment** that you integrated into **Fluent Forms**.
+In the **Platformly Dashboard**, hover over **CRM** in the top navbar, hover over **Segmentation**, and click **Segments**. On the **Segments** page, click the **Number** of **Contacts** for the **Segment** you connected to **Fluent Forms**.
 
 ![Added Contacts Under Selected Segment](/images/integrations/automation/integrate-platformly/17.-Added-contacts-under-the-selected-segment-scaled.webp)
 
-Finally, you can see that the **users who submitted forms** in **Fluent Forms** are also automatically added to the selected **Platformly Segment**. 
+The **users who submitted forms** in **Fluent Forms** now appear in the selected **Platformly Segment**.
 
 ![Contacts Preview Fluent Forms](/images/integrations/automation/integrate-platformly/18.-Contacts-preview-scaled.webp)
-
-This way you can easily integrate Platformly with Fluent Forms!

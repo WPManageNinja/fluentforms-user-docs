@@ -4,9 +4,9 @@ description: "The Range Slider Field allows users to select a number from a pre-
 
 # Range Slider Field
 
-The Range Slider Field allows users to select a number from a pre-defined range by dragging a handle or rating marker. 
+The **Range Slider** field lets users select a number from a pre-defined range by dragging a handle or rating marker.
 
-This guide will walk you through adding and customizing the **Range Slider Field** in Fluent Forms for your WordPress site.
+This guide shows you how to add and customize the **Range Slider Field** in Fluent Forms.
 
 > [!Note]
 > The **Range Slider** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -17,22 +17,22 @@ This guide will walk you through adding and customizing the **Range Slider Field
 
 ## Adding Range Slider Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Editor](/images/form-fields/advanced-fields/range-slider-field/Form-Editor-01-3-scaled.webp)
 
-Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the **Range Slider** field by clicking on it or dragging and dropping it into your editor.
+Click the **Range Slider** field, or drag and drop it into your editor.
 
 ![Adding Range Slider](/images/form-fields/advanced-fields/range-slider-field/Adding-Range-Slider-02-scaled.webp)
 
 ## Customizing the Range Slider Field
 
-Once you add the **Range Slider** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
+After you add the **Range Slider** field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these options:
 
 - Range Slider Options
 
@@ -42,27 +42,27 @@ Once you add the **Range Slider** field, you can customize it by hovering over i
 
 ### Range Slider Options
 
-You will find various settings options for customizing the field under the **Customize** tab. These options allow you to configure essential aspects of the **Range Slider** field.
+These options in the **Customize** tab configure the **Range Slider** field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Range Slider** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Range Slider** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/dynamic-default-value). 
+**D. Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read the [Dynamic Default Value documentation](/dynamic-default-value). 
 
-You can add **a default value** by clicking the **Three-Dot** option on the right.
+Click the **Three-Dot** option on the right to add a default value.
 
-**E. Min Value**: Define the starting **Minimum** value for the range slider. For example, setting **200 (Min)** allows users to select a value within this range.
+**E. Min Value:** Define the starting **Minimum** value for the range slider. For example, setting **200 (Min)** allows users to select a value within this range.
 
 **F. Max Value:** Define the ending **Maximum** values for the range slider. For example, setting 1000 (Max) allows users to select a value within this range.
 
-**G. Step:** The user can provide a step attribute for this field. Give value “any” for floating value.
+**G. Step:** Set the step attribute for this field. Enter “any” to allow floating values.
 
-**H. Required:** Decide whether users must select at least one option before submission.
+**H. Required:** Turn on **Required** to make users fill in this field before they submit.
 
-**I. Enable Quantity Mapping:** Select the Yes button to Enable Quantity Mapping. It indicates that this field is mapped to a [product quantity](/add-item-quantity-field-in-payment-forms) (likely for e-commerce or order forms). After that, **Choose a Target Product Field** to ensure correct quantity mapping.
+**I. Enable Quantity Mapping:** Select **Yes** to enable Quantity Mapping. This maps the field to a [product quantity](/add-item-quantity-field-in-payment-forms). Then use **Choose a Target Product Field** to pick the product.
 
 > [!Note]
 > When **Quantity Mapping** is on, the slider accepts only whole numbers between its **Min Value** and **Max Value**. Keep **Step** at a whole number such as 1, not "any". A decimal or out-of-range value stops the submission with the message "This payment item is invalid".
@@ -71,32 +71,30 @@ You can add **a default value** by clicking the **Three-Dot** option on the righ
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. 
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**B. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**B. Help Message:** Add text that appears as a help message for the user.
 
-**C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**C. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**E. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options](/images/form-fields/advanced-fields/range-slider-field/Advanced-Options-04-1-scaled.webp)
 
 ## Embed the Form into Front
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Range Slider Field](/images/form-fields/advanced-fields/range-slider-field/Save-Form-05-4-scaled.webp)
 
 ### Preview of Added Range Slider Field
 
-Here is the preview of the added **Range Slider** field under the Form. 
+Here is the form with the **Range Slider** field added.
 
 ![Preview Range Slider Field](/images/form-fields/advanced-fields/range-slider-field/preview-06-2.webp)
-
-Congratulations! You have successfully added range slider input to your **Fluent** **Forms** form.

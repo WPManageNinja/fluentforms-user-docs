@@ -4,32 +4,32 @@ description: "GDPR is essential when collecting users' data online. The GDPR Agr
 
 # GDPR Agreement Field
 
-GDPR is essential when collecting users' data online. The GDPR Agreement field in Fluent Forms allows you to consent to data collection with just one click. For full legal terms, you can pair it with the [Terms & Conditions field](/terms-conditions-field).
+GDPR consent matters when you collect user data online. The GDPR Agreement field in Fluent Forms lets users consent to data collection with one click. For full legal terms, you can pair it with the [Terms & Conditions field](/terms-conditions-field).
 
-This guide will walk you through adding and customizing the **GDPR Agreement Field** in Fluent Forms for your WordPress site.
+This guide shows you how to add and customize the **GDPR Agreement Field** in Fluent Forms.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/LRsoUU6EiHE" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Adding GDPR Agreement Field
+## Adding GDPR Agreement Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Editor](/images/form-fields/advanced-fields/gdpr-agreement-field/editor-form-01-2-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the desired **GDPR Agreement** **Input** field by clicking on it or **dragging** it and **dropping** it into your editor.
+Click the **GDPR Agreement** field, or drag and drop it into your editor.
 
 ![Adding GDPR Agreement](/images/form-fields/advanced-fields/gdpr-agreement-field/adding-GDPR-agreement-02-scaled.webp)
 
 ## Customizing the GDPR Agreement Field
 
-Once you add the GDPR agreement field, you can customize it by hovering over it and clicking the **Pencil Icon.** It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+After you add the GDPR agreement field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - GDPR Agreement Options
 
@@ -39,37 +39,37 @@ Once you add the GDPR agreement field, you can customize it by hovering over it 
 
 ### GDPR Agreement Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **GDPR Agreement** input field.
+These options in the **Customize** tab configure the **GDPR Agreement** input field.
 
-**A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
+**A. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**B. Required Validation Message:** Customize the [error message](/error-message-customization) displayed if the user submits the form without checking the consent box. By default, it sets the **Global** option. You can also add the **Custom** validation message by clicking the **Custom** options. 
+**B. Required Validation Message:** Customize the [error message](/error-message-customization) shown if the user submits the form without checking the consent box. The default is **Global**. Click **Custom** to add your own validation message.
 
-**C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**C. Container Class:** Add custom CSS classes to the field’s wrapper.
 
-**D. Description:** In this part of the GDPR Agreement Field, enter the consent statement users must agree to. This statement explains how data will be collected, stored, and used.
+**D. Description:** Enter the consent statement users must agree to. The statement explains how you collect, store, and use data.
 
 ![GDPR Agreement Options](/images/form-fields/advanced-fields/gdpr-agreement-field/GDPR-agreement-options-04-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings let you adapt the field to specific use cases. The settings under **Advanced Options** are:
 
 **A. Element Class:** Add custom CSS classes to the input field.
 
-**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**C. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/gdpr-agreement-field/Advanced-options-05-18-scaled.webp)
 
 ### Embed the Form into the Front
 
-Once you have customized the GDPR Agreement field, click the **Save** button to apply the changes.
+Click **Save** to apply your changes.
 
-To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired page or post.
+To show the form on a page or post, copy the **Shortcode** from the top-right corner and paste it into that page or post.
 
-To preview the form, click **Preview** in the middle of the page.
+To preview the form, click the **Preview** (eye) icon at the top right.
 
 ![Save GDPR Agreement Field](/images/form-fields/advanced-fields/gdpr-agreement-field/Save-Form-06-21-scaled.webp)
 
@@ -78,5 +78,3 @@ To preview the form, click **Preview** in the middle of the page.
 Here is a preview of the form with the **GDPR Agreement** field.
 
 ![Preview GDPR Agreement Field](/images/form-fields/advanced-fields/gdpr-agreement-field/Preview-07-13.webp)
-
-Congratulations! You have successfully added the GDPR Agreement Field to your Fluent Forms form.

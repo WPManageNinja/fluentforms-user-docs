@@ -4,24 +4,24 @@ description: "A complete introduction to Fluent Forms: what the plugin does, how
 
 # Getting Started
 
-Welcome to the [Fluent Forms](https://wordpress.org/plugins/fluentform/) documentation. Fluent Forms is a powerful, all-in-one form builder for WordPress. You build forms visually, publish them anywhere, collect payments, and send every submission to the tools you already use, all without writing code.
+Welcome to the [Fluent Forms](https://wordpress.org/plugins/fluentform/) documentation. Fluent Forms is a form builder for WordPress. You build forms visually, publish them anywhere, collect payments, and send every submission to your other tools, with no code.
 
-This page introduces the whole plugin. You will see what Fluent Forms can do, how a form comes together from start to finish, and which guide to open next.
+This page introduces the whole plugin. You learn what Fluent Forms can do, how a form comes together from start to finish, and which guide to open next.
 
 ## Fluent Forms at a Glance
 
 - **Drag-and-drop builder** with AI form creation, ready-made templates, and conversational forms.
-- **50+ field types**, from simple text inputs to grids, ratings, repeaters, and containers.
-- **Smart forms** with conditional logic, calculations, and dynamic values.
+- **50+ field types** (free and Pro), from simple text inputs to grids (Pro), ratings (Pro), repeaters (Pro), and containers.
+- **Smart forms** with conditional logic, plus calculations (Pro) and dynamic values (Pro).
 - **Payments** with Stripe, PayPal, Mollie, Razorpay, Square, Paddle, Paystack, and Authorize.Net.
-- **60+ integrations** for email marketing, CRM, automation, and team chat.
+- **45+ integrations** for email marketing, CRM, automation, and team chat.
 - **Entry management** with search, filters, reports, and export.
 - **Spam protection** with a honeypot, reCAPTCHA, hCaptcha, Cloudflare Turnstile, and Akismet.
-- **Free core, Pro power.** The free plugin covers the essentials. **Fluent Forms Pro** adds advanced features.
+- **Free core, Pro extras.** The free plugin covers the essentials. **Fluent Forms Pro** adds advanced features.
 
 ## How a Form Comes Together
 
-Every form follows the same path. The steps below show where each part of the documentation fits.
+Every form follows the same path. Each step below points to the part of the documentation that covers it.
 
 1. **Build.** Create the form and add fields.
 2. **Configure.** Add logic, validation, scheduling, and limits.
@@ -36,11 +36,11 @@ Every form follows the same path. The steps below show where each part of the do
 - [Creating Forms](/creating-forms-overview). Use the drag-and-drop editor, templates, or AI. Create multi-step, conversational, post, and user registration forms, plus surveys and quizzes.
 - [Form Fields](/form-fields-overview). Choose from general, advanced, container, and post and taxonomy fields.
 - [Configuring Forms](/configuring-forms-overview). Control behavior with conditional logic, calculations, scheduling, and restrictions.
-- [Design & Styling](/official-form-styler). Style forms with the Form Styler, layout settings, and custom CSS.
+- [Design & Styling](/form-layout-settings). Style forms with the Form Styler, layout settings, and custom CSS.
 
 ### Publish Your Forms
 
-- [Publishing & Embedding](/dedicated-landing-page). Add forms with Gutenberg or Elementor, use a sidebar or footer widget, or give a form its own landing page.
+- [Publishing & Embedding](/embed-your-forms-directly-in-gutenberg-layout). Add forms with Gutenberg or Elementor, use a sidebar or footer widget, or give a form its own landing page.
 - [Shortcodes](/shortcodes-overview). Place a form anywhere with a shortcode.
 
 ### Collect and Manage Responses
@@ -59,11 +59,13 @@ Every form follows the same path. The steps below show where each part of the do
 
 - [Security & Spam Protection](/spam-protection-with-honeypot-and-google-recaptcha). Keep bots out with CAPTCHA and spam filters.
 - [Import, Export & Migration](/import-and-export-fluent-forms). Move forms between sites or migrate from another form plugin.
-- [Account & License](/setting-up-managers-access-control). Manage team access and your license.
+- [Account & License](/setting-up-managers-access-control). Manage team access, and [transfer your license to a new domain](/transfer-a-license-to-a-new-domain).
 
 ## Free and Pro
 
-The free plugin gives you the builder, core fields, notifications, and entry management. **Fluent Forms Pro** unlocks advanced features, and pages that need it say so. Stripe also works on the free plugin, with a platform fee that Pro removes. To get Pro, see [Upgrade to Pro](/upgrade-to-pro-add-on). For a full comparison, read [Fluent Forms Free vs Pro](https://fluentforms.com/fluent-forms-free-vs-pro-everything-you-need-to-know/).
+The free plugin gives you the builder, core fields, notifications, and entry management. Some fields are Pro-only, such as File Upload, Ratings, Grid, Multi-step, Shortcode, and Action Hook. **Fluent Forms Pro** unlocks these and other advanced features, and pages that need it say so.
+
+Stripe also works on the free plugin, with a platform fee that Pro removes. To get Pro, see [Upgrade to Pro](/upgrade-to-pro-add-on). For a full comparison, read [Fluent Forms Free vs Pro](https://fluentforms.com/fluent-forms-free-vs-pro-everything-you-need-to-know/).
 
 ## Popular Starting Points
 
@@ -81,4 +83,4 @@ The free plugin gives you the builder, core fields, notifications, and entry man
 2. Take a tour of the [User Interface](/user-interface) to learn where everything lives.
 3. [Create your first form](/create-a-form) and publish it on a page.
 
-New to a term? Check the [Glossary](/glossary). Looking for a quick answer? Read the [FAQ](/frequently-asked-questions). For help, see [How to Get Support](/get-support).
+New to a term? Check the [Glossary](/glossary). Need a quick answer? Read the [FAQ](/frequently-asked-questions). For help, see [How to Get Support](/get-support).

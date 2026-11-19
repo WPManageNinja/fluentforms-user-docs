@@ -4,66 +4,70 @@ description: "Fluent Forms ships a built-in MCP server that connects your forms 
 
 # MCP for AI Agents
 
-Fluent Forms ships with a built-in **MCP (Model Context Protocol)** server that connects your forms to AI clients like **Claude Code, Claude Desktop, Cursor, and Codex**. Once it's set up, your AI assistant can look up a form, read entries, check submission trends, or update a notification as part of an ordinary conversation. No third-party proxy, no extra service to host, and no API keys to manage outside WordPress.
+Fluent Forms ships with a built-in **MCP (Model Context Protocol)** server that connects your forms to AI clients like **Claude Code, Claude Desktop, Cursor, and Codex**. After setup, your AI assistant can look up a form, read entries, check submission trends, or update a notification in an ordinary conversation. It needs no third-party proxy, no extra service to host, and no API keys outside WordPress.
 
-Think of MCP as a bridge between your AI client and Fluent Forms. Instead of you opening the admin and clicking around, the AI calls the same actions you would, but through a secure, authenticated endpoint. You stay in control: every request runs as the WordPress user whose **application password** you generate, with exactly that user's Fluent Forms access and form scope, so an agent can never reach a form its user cannot. Tools that change data run a preview-then-confirm step before they write, and you can revoke access at any time.
+MCP is a bridge between your AI client and Fluent Forms. Instead of you opening the admin and clicking around, the AI calls the same actions you would, through a secure, authenticated endpoint. You stay in control:
+
+- Every request runs as the WordPress user whose **application password** you generate. The agent gets exactly that user's Fluent Forms access and form scope, so it can never reach a form its user cannot.
+- Tools that change data run a preview-then-confirm step before they write.
+- You can revoke access at any time.
 
 > [!Note]
 > Fluent Forms ships the AI agent tools, but they only become available once the companion **FluentHub** plugin is installed and active. [Step 2](#step-2-install-fluenthub) covers the install.
 
 ## Open the MCP settings
 
-From your WordPress admin, go to **Fluent Forms → Global Settings → MCP for AI Agents**. Everything you need lives on this one page: the on/off toggle, the list of available tools, the endpoint URL, and the connection snippet for your preferred AI client.
+In your WordPress admin, go to **Fluent Forms → Global Settings → MCP for AI Agents**. This one page holds the on/off toggle, the list of available tools, the endpoint URL, and the connection snippet for your AI client.
 
 ## Step 1: Enable the MCP server
 
-Switch on the **Enable MCP Server** toggle at the top of the page. When enabled, Fluent Forms exposes its abilities through the adapter so AI agents can read and write your form data with your authorization.
+Switch on the **Enable MCP Server** toggle at the top of the page. Fluent Forms then exposes its abilities through the adapter, so AI agents can read and write your form data with your authorization.
 
 ![MCP for AI Agents settings page with an arrow pointing at the Enable MCP Server toggle](/images/modules/mcp-for-ai-agents/enable-mcp-server-toggle.png)
 
-If you ever want to pause access for every connected AI client at once, just flip this toggle off. The endpoint stops responding to MCP requests immediately, no other changes needed.
+To pause access for every connected AI client at once, switch this toggle off. The endpoint stops responding to MCP requests immediately. You need no other changes.
 
 ## Step 2: Install FluentHub
 
-Fluent Forms exposes its MCP tools through a small companion plugin called **FluentHub**. Until it's installed and active, the page shows a notice under the tools list with an **Install FluentHub** button.
+Fluent Forms exposes its MCP tools through a small companion plugin called **FluentHub**. Until it is installed and active, the page shows a notice under the tools list with an **Install FluentHub** button.
 
 ![MCP settings page showing the available tools grid and an arrow pointing at the Install FluentHub button](/images/modules/mcp-for-ai-agents/available-tools-install-fluenthub.png)
 
-Click **Install FluentHub**. WordPress installs and activates the plugin in the background, then the page refreshes into the connected state and the endpoint fields become available.
+Click **Install FluentHub**. WordPress installs and activates the plugin in the background. The page then refreshes into the connected state and the endpoint fields appear.
 
 > [!Note]
-> Prefer to install it yourself? Download FluentHub directly from [https://static.wpmanageninja.com/fluent-toolkit.zip](https://static.wpmanageninja.com/fluent-toolkit.zip), then upload the ZIP via **Plugins → Add New → Upload Plugin** and activate it. Come back to this page afterwards and the endpoint fields appear.
+> To install it yourself, download FluentHub from [https://static.wpmanageninja.com/fluent-toolkit.zip](https://static.wpmanageninja.com/fluent-toolkit.zip). Upload the ZIP via **Plugins → Add New → Upload Plugin** and activate it. Then return to this page to see the endpoint fields.
 
 ## Step 3: Confirm the tools and endpoint
 
-Once the toggle is on, the page shows the details you'll want to keep handy:
+When the toggle is on, the page shows these details:
 
 | Field | What it shows |
 | --- | --- |
 | **Tools available** | The number of MCP tools exposed, shown next to the toggle (for example, `20 tools available`). |
-| **Available tools** | The full grid of tool names, each tagged **Read** or **Write** so you can see at a glance what an agent can change. |
+| **Available tools** | The full grid of tool names, each tagged **Read** or **Write** so you can see what an agent can change. Use the **Search tools** box to filter the list. |
 | **Endpoint URL** | The address your AI client connects to, usually `https://your-site.com/wp-json/fluentform/mcp`. Click **Copy** to grab it in one click. |
 
-If the tool count shows `0`, the toggle in Step 1 likely isn't on yet, or FluentHub isn't active.
+If the tool count shows `0`, the toggle in Step 1 is probably off, or FluentHub is not active.
 
 > [!Note]
 > The MCP tools are also registered with the **WordPress Abilities REST API**. Any client that reads abilities from WordPress can discover and run them, and every request still runs with the permissions of the authenticated WordPress user.
 
 ## Step 4: Generate a WordPress application password
 
-AI clients sign in using a **WordPress application password**. This is a feature built directly into WordPress 5.6 and later, so you don't need any extra plugin to use it. Each application gets its own password, which means you can revoke a single AI client without affecting your main login or any of your other tools.
+AI clients sign in with a **WordPress application password**. WordPress 5.6 and later include this feature, so you need no extra plugin. Each application gets its own password, so you can revoke one AI client without affecting your main login or your other tools.
 
-The MCP settings page links straight to the right screen: click **Create application password** just under the **Endpoint URL** field.
+The MCP settings page links straight to the right screen. Click **Create application password** just under the **Endpoint URL** field.
 
-To create one:
+To create a password:
 
 1. In WordPress admin, go to **Users → Profile** and scroll down to the **Application Passwords** section.
-2. Enter a name that identifies the connection (for example, `mcp`, `Claude Code`, or `Cursor`). This name shows up in the table afterward so you can tell connections apart.
+2. Enter a name that identifies the connection (for example, `mcp`, `Claude Code`, or `Cursor`). This name appears in the table so you can tell connections apart.
 3. Click **Add Application Password**.
 
 ![WordPress profile page showing the New Application Password Name field filled in with an arrow pointing at the Add Application Password button](/images/modules/mcp-for-ai-agents/wp-application-password-create.png)
 
-WordPress generates a one-time password formatted like `xxxx xxxx xxxx xxxx xxxx xxxx`. Click **Copy** and save it somewhere safe. **This password is shown only once and cannot be retrieved later.**
+WordPress generates a one-time password in the format `xxxx xxxx xxxx xxxx xxxx xxxx`. Click **Copy** and save it somewhere safe. **WordPress shows this password only once and cannot retrieve it later.**
 
 ![WordPress profile page showing the newly generated application password with the Copy button](/images/modules/mcp-for-ai-agents/wp-application-password-generated.png)
 
@@ -72,13 +76,13 @@ WordPress generates a one-time password formatted like `xxxx xxxx xxxx xxxx xxxx
 Back on **MCP for AI Agents**, scroll to the connection fields. Fluent Forms encodes your credentials and pre-fills a ready-to-paste snippet for the AI client you pick.
 
 1. In the **WordPress username** field, type the username you generated the password for.
-2. Paste the **Application password** (with or without spaces, both work) into the password field.
+2. Paste the **Application password** into the password field. Spaces are optional.
 3. Pick the tab matching your AI client: **Claude Code**, **Claude Desktop**, **Cursor**, **Codex**, or **Other / curl**.
 4. Click **Copy snippet**.
 
 ![MCP settings page with the username and application password filled in and an arrow pointing at the Copy snippet button](/images/modules/mcp-for-ai-agents/connect-client-copy-snippet.png)
 
-The Basic auth header is base64-encoded for you right in the browser, so there's no manual encoding to do and your password never leaves the page.
+The browser base64-encodes the Basic auth header for you. You do not encode anything manually, and your password never leaves the page.
 
 > [!Warning]
 > The generated snippet already contains your encoded credentials. Treat it like a password: never paste it into a public repository, a shared chat, or a screenshot.
@@ -100,14 +104,14 @@ To check whether you already have it, open Terminal (macOS) or Command Prompt (W
 node -v
 ```
 
-If you see a version number like `v20.11.0`, you're set. If you get "command not found", download the **LTS** installer from [nodejs.org](https://nodejs.org), run it, then close and reopen your terminal.
+A version number like `v20.11.0` means Node.js is installed. If you get "command not found", download the **LTS** installer from [nodejs.org](https://nodejs.org), run it, then close and reopen your terminal.
 
 > [!Tip]
-> Not comfortable in a terminal? Ask your AI agent to check and install it for you.
+> If you are not comfortable in a terminal, ask your AI agent to check and install it for you.
 
 ### Connecting Claude Code
 
-Here's the full Claude Code flow as a worked example. The same idea applies to the other clients, only the snippet format and where you paste it change.
+This is the full Claude Code flow as a worked example. The other clients follow the same idea. Only the snippet format and the place you paste it change.
 
 **1. Copy the snippet.** With your username and application password filled in, select the **Claude Code** tab and click **Copy snippet**. It looks like this:
 
@@ -124,23 +128,23 @@ claude mcp add \
 
 ![Claude Code terminal confirming the fluentform MCP server was added to the local config](/images/modules/mcp-for-ai-agents/claude-code-terminal-confirm.png)
 
-You can verify the connection anytime by running `claude mcp list` or `claude mcp get fluentform`.
+To verify the connection at any time, run `claude mcp list` or `claude mcp get fluentform`.
 
 ### Connecting Claude Desktop
 
-Claude Desktop reads its MCP servers from a configuration file, and it will open that file for you.
+Claude Desktop reads its MCP servers from a configuration file, and it opens that file for you.
 
-1. Go to **Settings → Developer → Edit Config**. Claude Desktop creates the file if it doesn't exist yet and shows you where it lives — on macOS it's `~/Library/Application Support/Claude/claude_desktop_config.json`, and on Windows it's `%APPDATA%\Claude\claude_desktop_config.json`.
-2. Open the file in a plain text editor. TextEdit on macOS or Notepad on Windows both work fine.
-3. Paste the snippet from the **Claude Desktop** tab in Fluent Forms, keeping the surrounding JSON valid if you already have other servers listed.
-4. Save the file and **fully quit Claude Desktop**, then open it again. Closing the window isn't enough: quit it from the menu bar (macOS) or the system tray (Windows).
+1. Go to **Settings → Developer → Edit Config**. Claude Desktop creates the file if it does not exist and shows where it lives. On macOS the path is `~/Library/Application Support/Claude/claude_desktop_config.json`. On Windows it is `%APPDATA%\Claude\claude_desktop_config.json`.
+2. Open the file in a plain text editor, such as TextEdit on macOS or Notepad on Windows.
+3. Paste the snippet from the **Claude Desktop** tab in Fluent Forms. Keep the surrounding JSON valid if you already have other servers listed.
+4. Save the file and **fully quit Claude Desktop**, then open it again. Closing the window is not enough. Quit it from the menu bar (macOS) or the system tray (Windows).
 
 ### Connecting Cursor
 
 1. In Cursor, open the command palette and search for **Cursor Settings**, then go to **Tools & MCPs** in the left sidebar.
 2. Under **Installed MCP Servers**, click **New MCP Server**. Cursor opens an editor for the `mcp.json` config file.
 3. Paste the snippet from the **Cursor** tab in Fluent Forms.
-4. Save `mcp.json` and reload Cursor. Open **Tools & MCPs** again and you'll see the Fluent Forms server listed with all its available tools underneath.
+4. Save `mcp.json` and reload Cursor. Open **Tools & MCPs** again. The Fluent Forms server appears with all its available tools underneath.
 
 ## Step 6: Verify it's working
 
@@ -148,11 +152,11 @@ Open your AI client and ask it something only Fluent Forms would know. For examp
 
 > _"List all my Fluent Forms and how many entries each one has."_
 
-The agent calls your endpoint, fetches the data, and replies with your actual forms and entry counts. If you see real data in the reply, your connection is live and authenticated. From here, you can ask the AI to perform any of the actions in the next section.
+The agent calls your endpoint, fetches the data, and replies with your actual forms and entry counts. Real data in the reply means your connection is live and authenticated. You can now ask the AI to perform any of the actions in the next section.
 
 ## What your AI agent can actually do
 
-Once connected, your AI client gets access to **20 Fluent Forms tools**. You don't call these by name. The AI picks the right tool based on what you ask in plain language. Here's an overview of what's available, grouped by area.
+Once connected, your AI client gets access to **20 Fluent Forms tools** (23 with Fluent Forms Pro). You do not call these by name. The AI picks the right tool from what you ask in plain language. The tools below are grouped by area.
 
 ### Forms
 
@@ -192,6 +196,7 @@ Tools for the numbers behind your forms, matching the [Reports Dashboard](/repor
 - **Get Submissions Trend** (Read) — Shows how submissions changed over a period of time.
 - **Get Payment Summary** (Read) — Summarizes payments collected through a form, the same data you see in [Payment Reports](/payment-reports).
 - **Get Submissions Report** (Read) — Builds a broader breakdown across entries, similar to [Submission Reports](/submission-reports).
+- **Get Revenue Analysis**, **Get Completion Rate**, and **Get Subscription Report** (Pro) — Extra report tools that need Fluent Forms Pro.
 
 **Example prompts:**
 
@@ -231,34 +236,33 @@ MCP lets an AI assistant manage your site. **AI Agents (WebMCP)** is different. 
 To turn it on:
 
 - Open your form and go to **Configuration → Privacy & Data → AI Agents (WebMCP)**.
-- Find the **AI Agents (WebMCP)** settings.
 - Check **Expose this form to AI agents**. It is off by default.
 - Set the **Tool Name**. It defaults to the form title.
 - Add a **Tool Description** that says what the form does in one sentence.
 - Save your settings.
 
-Each field's label and help message are used to describe it to the browser, so clear labels give better results.
+Fluent Forms uses each field's label and help message to describe it to the browser, so clear labels give better results.
 
 ## Security and revoking access
 
 Application passwords are scoped to a single connection, so revoking one only disconnects that AI client. Your main WordPress login and any other connected apps stay untouched.
 
-- **Revoke an MCP connection**: go to **Users → Profile → Application Passwords**, find the row by name, and click **Revoke**.
-- **Disable MCP entirely**: turn off the **Enable MCP Server** toggle on the settings page. The endpoint stops responding to MCP requests immediately.
-- **Rotate credentials**: revoke the old password, generate a fresh one, then re-copy the snippet from the settings page and paste it back into your AI client.
-- **Writes stay under review**: every tool tagged **Write** runs a preview-then-confirm step, so an agent can't change a form or an entry without your confirmation.
+- **Revoke an MCP connection:** Go to **Users → Profile → Application Passwords**, find the row by name, and click **Revoke**.
+- **Disable MCP entirely:** Turn off the **Enable MCP Server** toggle on the settings page. The endpoint stops responding to MCP requests immediately.
+- **Rotate credentials:** Revoke the old password and generate a new one. Re-copy the snippet from the settings page and paste it into your AI client.
+- **Writes stay under review:** Every tool tagged **Write** runs a preview-then-confirm step, so an agent cannot change a form or an entry without your confirmation.
 
 > [!Tip]
-> Give each AI client its own application password (one for Cursor, one for Claude Desktop, and so on). That way you can revoke a single client without breaking the others.
+> Give each AI client its own application password, such as one for Cursor and one for Claude Desktop. You can then revoke a single client without breaking the others.
 
 ## Troubleshooting
 
-- **Tools available shows 0.** Make sure the **Enable MCP Server** toggle is on and FluentHub is active. The count refreshes the moment the adapter reconnects.
+- **Tools available shows 0.** Make sure the **Enable MCP Server** toggle is on and FluentHub is active. The count refreshes when the adapter reconnects.
 - **The Install FluentHub notice is still showing after installing.** Hard-refresh the settings page. If it persists, go to **Plugins** and confirm **FluentHub** is both installed and **Active**.
-- **"Unauthorized" error in the AI client.** The username or application password is wrong. Generate a new password, copy it immediately, paste it back into the settings page, then re-copy the snippet into your client.
-- **Fluent Forms tools not appearing in the AI client.** Restart the client fully after running the connect command or saving the config file. Closing the window usually isn't enough — quit Claude Desktop from the menu bar or system tray and reopen it.
-- **Claude Desktop or Codex shows a "server failed to start" error.** Node.js is probably missing. Run `node -v` in your terminal; if you get "command not found", install the LTS release from [nodejs.org](https://nodejs.org) and restart the client.
+- **"Unauthorized" error in the AI client.** The username or application password is wrong. Generate a new password, copy it immediately, and paste it into the settings page. Then re-copy the snippet into your client.
+- **Fluent Forms tools not appearing in the AI client.** Restart the client fully after you run the connect command or save the config file. Closing the window is usually not enough. Quit Claude Desktop from the menu bar or system tray and reopen it.
+- **Claude Desktop or Codex shows a "server failed to start" error.** Node.js is probably missing. Run `node -v` in your terminal. If you get "command not found", install the LTS release from [nodejs.org](https://nodejs.org) and restart the client.
 - **Claude Desktop loses all its MCP servers after an edit.** The `claude_desktop_config.json` file has a JSON syntax error, usually a missing or extra comma. Paste the file into your AI agent and ask it to fix the syntax.
 - **Connection works locally but not in production.** Confirm the **Endpoint URL** uses the same scheme (`http` or `https`) and domain your AI client is configured with. WordPress application passwords also require a reachable REST API at `/wp-json/`.
 
-If something still isn't working, see [How to Get Support](/get-support).
+If a problem remains, see [How to Get Support](/get-support).

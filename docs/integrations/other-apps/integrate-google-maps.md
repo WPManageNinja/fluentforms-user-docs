@@ -4,130 +4,126 @@ description: "Fluent Forms integrates Google Maps to allow your users to auto-fi
 
 # Integrate Google Maps
 
-**Fluent Forms** integrates **Google Maps** to allow your users to **auto-fill** the [Address field](/address-input-field) with the help of Google Maps. This article will guide you through integrating **Google Maps** in **Fluent Forms** on your **WordPress Site**.
+The **Google Maps** integration lets your users **auto-fill** the [Address field](/address-input-field) in **Fluent Forms**. This guide shows you how to connect **Google Maps** to **Fluent Forms** on your **WordPress site**.
 
 > [!Note]
 > **Google Maps** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
-## Integrating Google Maps with Fluent Forms
+## Integrate Google Maps with Fluent Forms
 
-First, go to **Global Settings** from the gear icon in the Fluent Forms top bar, open **Integrations** from the left menu, and click **Google Maps Integration**. 
+Click the gear icon in the Fluent Forms top bar to open **Global Settings**, open **Other Settings** in the left menu, and click **Google Maps Integration**.
 
-Once you are on the **Google Maps Integration Settings,** you will be asked for the **Google Maps API Key** from your Google Account. Then, click the **Save** button, and Google Maps will be connected to Fluent Forms.
+On the **Google Maps Integration Settings** page, Fluent Forms asks for the **Google Maps API Key** from your Google Account. Enter the key and click **Save** to connect Google Maps to Fluent Forms.
 
 ![Google Maps Integration Settings Page](/images/integrations/other-apps/integrate-google-maps/1.-Google-Maps-Integration-Settings-page-scaled.webp)
 
-### Getting the Google Map API Key
+### Get the Google Map API Key
 
-First, go to your [Google Cloud Console](https://console.cloud.google.com/) and select an existing project you want to connect with **Fluent Forms** by clicking the **drop-down** **box** in the top left corner.
+1. Go to your [Google Cloud Console](https://console.cloud.google.com/).
+2. Click the **drop-down** **box** in the top left corner and select an existing project to connect with **Fluent Forms**.
 
 ![My Project Fluent Forms](/images/integrations/other-apps/integrate-google-maps/2.-My-Project-scaled.webp)
 
-Or, to get the API Key, you can create a new project by clicking the **NEW PROJECT** button in the top right corner.
-
-**For example**, I selected an existing project called Google Map Integration to show you the whole process.
+You can also click **NEW PROJECT** in the top right corner to create a new project. This example uses an existing project called Google Map Integration.
 
 ![Project Fluent Forms](/images/integrations/other-apps/integrate-google-maps/3.-New-Project-scaled.webp)
 
-After selecting the project, click the **APIs & Services** tab.
+3. After you select the project, click the **APIs & Services** tab.
 
 ![Apis Services Fluent Forms](/images/integrations/other-apps/integrate-google-maps/4.-APIs-Services-scaled.webp)
 
-Now, click the **+ ENABLE APIS AND SERVICES** option at the top.
+4. Click **+ ENABLE APIS AND SERVICES** at the top.
 
 ![Enable Apis And Services Integrate Google Maps](/images/integrations/other-apps/integrate-google-maps/5.-Enable-APIs-and-Services--scaled.webp)
 
-Then, select the **Maps JavaScript API** and **Places API** options respectively, and enable them.
+5. Select **Maps JavaScript API** and **Places API** and enable them. If you plan to use **Use Google Places API (New)**, enable **Places API (New)** instead of **Places API**.
 
 ![Maps Javascript Place API](/images/integrations/other-apps/integrate-google-maps/6.-Maps-Javascript-Place-API-scaled.webp)
 
-Click the **ENABLE** button of the Maps JavaScript API.
+6. Click **ENABLE** for the Maps JavaScript API.
 
 ![Enable Maps Javascript API Integrate Google Maps](/images/integrations/other-apps/integrate-google-maps/7.-Enable-Maps-Javascript-API--scaled.webp)
 
-Click the **ENABLE** button of Places API.
+7. Click **ENABLE** for Places API.
 
 ![Enable Places API Integrate Google Maps](/images/integrations/other-apps/integrate-google-maps/8.-Enable-Places-APi-scaled.webp)
 
-Now, return to the **APIs & Services** tab, go to the **Credentials** from the left menu, click the **+ CREATE CREDENTIALS** option at the top, and press the **API key** button. 
+8. Return to the **APIs & Services** tab and go to **Credentials** in the left menu.
+9. Click **+ CREATE CREDENTIALS** at the top and click **API key**.
 
 ![Credentials API Key](/images/integrations/other-apps/integrate-google-maps/9.-Credentials-API-Key-scaled.webp)
 
-The **Create API key** popup opens. Enter a name for the key, then under **API restrictions**, select **Maps JavaScript API** and **Places API**. Click **Create**.
+10. In the **Create API key** popup, enter a name for the key. Under **API restrictions**, select **Maps JavaScript API** and **Places API**. Click **Create**.
 
 ![Create API Key](/images/integrations/other-apps/integrate-google-maps/Create-API-key-10.webp)
 
-After the key is created, copy it by clicking the **Copy** button.
+11. Click **Copy** to copy the key.
 
 ![Copy Goggle Map API Key](/images/integrations/other-apps/integrate-google-maps/10.-copy-Goggle-map-API-key.webp)
 
-### Connecting Google Maps with Fluent Forms
+### Connect Google Maps with Fluent Forms
 
-Go back to the **Google Maps Integration Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module. 
+Return to the **Google Maps Integration Settings** page. To open it, click the gear icon in the top bar for **Global Settings** and go to **Other Settings** → **Google Maps Integration**.
 
 Paste the **API Key** you copied from **Google** into the **Google Map API Key** field.
 
-Finally, press the **Save** button, and your **Google Map Integration** module will be enabled.
+Optional settings:
+
+- **Use Google Places API (New):** Turn this on to use the new Places API for address autocomplete. It needs **Places API (New)** enabled in Google Cloud Console.
+- **Use Advanced Marker for the map:** Turn this on to use the advanced map marker. It appears only when **Use Google Places API (New)** is on and needs a **Google Map ID**.
+- **Google Map ID:** Enter a Map ID that you create in the **Map Management** section of Google Cloud Console.
+
+Click **Save** to enable the **Google Map Integration** module.
 
 ![Paste API Key](/images/integrations/other-apps/integrate-google-maps/11.-Paste-API-Key-scaled.webp)
 
-Now, you can see that the Google Map has been successfully connected to your **Fluent Forms**. You can disconnect it anytime by clicking the **Disconnect Google Map API** button.
+Fluent Forms now shows that Google Map is connected. Click **Disconnect Google Map API** to disconnect it.
 
 ![Disconnect Google Map API](/images/integrations/other-apps/integrate-google-maps/12.-Disconnect-Google-Map-API-scaled.webp)
 
-## Integrating Google Maps with Address Field
+## Integrate Google Maps with the Address Field
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/qwibDvaUoUo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-First, go to **Forms** from the **Fluent Forms Navbar**, **select** a **Form** that has an **Address** field where you want to integrate your **Google Maps,** and click the **Editor** button.
+Go to **Forms** in the **Fluent Forms Navbar**, select a **Form** that has an **Address** field, and click **Editor**.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 > [!Tip]
 > For the **Address** field, see [Address Input Field in Fluent Forms](/address-input-field).
+
 ![Open Editor Integrate Google Maps](/images/integrations/other-apps/integrate-google-maps/13.-Open-desired-form-Editor-scaled.webp)
 
-Once you are on the form **Editor**, go to the **Address**, hover over it, and click the **Pencil Icon**.
+In the form **Editor**, hover over the **Address** field and click the **Pencil Icon**. The **Input Customization** tab opens on the right side with the **Autocomplete Feature** options for Google Maps.
 
-It will take you to the **Input Customization** tab on the right side and offer the **Autocomplete Feature** options for integrating Google Maps into this field. 
+Check **Enable Autocomplete(Google Map)** to turn it on. Three more options appear:
 
-Simply **enable** it by checking the **Enable Autocomplete (Google API)** box, and you will get three more options. These are:
-
-**1. Show Map**: If you want to show the Google Map option on your Form, check the **Enable Map (Google Map)** option.
-
-**2. Save Coordinates**: Enable the **See User Location on Map (Latitude & Longitude)** option to save your users’ location coordinates. You can view these coordinates later in the form entries.
-
-**3. Auto Locate**: Using this option, you can define how you want to display the user’s location if someone accesses the form. Three options are available here: Page Load, On Click & Disable. 
-
-- **Page Load:** When you choose this option, the moment the page loads, the user’s location will be immediately detected.
-
-- **On Click:** If you choose this option, a Click Icon will be next to the Address box. Users’ location will start to be located once they click on that icon.
-
-- **Disable:** You can select this option if you want to disable the Auto Locate option.
+- **Show Map:** Check **Enable Map (Google Map)** to show the Google Map on your form.
+- **Save Coordinates:** Enable **See User Location on Map (Latitude & Longitude)** to save your users’ location coordinates. You can view these coordinates later in the form entries.
+- **Auto locate:** Choose how the form detects the user’s location: Page Load, On Click, or Disable.
+  - **Page Load:** Fluent Forms detects the user’s location as soon as the page loads.
+  - **On Click:** A Click Icon appears next to the Address box. Fluent Forms detects the user’s location when the user clicks that icon.
+  - **Disable:** Turns off Auto Locate.
 
 ![Input Customization Tab Address Field](/images/integrations/other-apps/integrate-google-maps/14.-Input-Customization-tab-of-Address-field-scaled.webp)
 
-## Embedding Form into Frontend
+## Embed the Form on the Frontend
 
-Once you complete the Integration process, click the **Save** **Form** button to save all your changes. 
+Click **Save** **Form** to save all your changes.
 
-To embed and display the form in the front end, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. Also, to see the form preview, click the **Preview & Design** button in the middle.
+To display the form on the front end, **copy** the **Shortcode** from the top right side and **paste** it into your Page or Post. To preview the form, click **Preview & Design** in the middle.
 
 ![Save Integrate Google Maps](/images/integrations/other-apps/integrate-google-maps/15.-Save-Form-scaled.webp)
 
 ### Preview of Integrated Google Maps
 
-Here, you can see the preview of the integrated Google Maps through the Form Entry based on the Integration.
-
-For example, you can see the Address field is empty and the **Click Icon** is in the right corner of the Address box.
+On the form preview, the Address field is empty and the **Click Icon** appears in the right corner of the Address box.
 
 ![Preview Integrate Google Maps](/images/integrations/other-apps/integrate-google-maps/16.-Form-Preview--scaled.webp)
 
-Once you click the Icon, the address field is filled in automatically and the Google Map location also appears below.
+When you click the icon, Fluent Forms fills in the address field automatically and the Google Map location appears below.
 
 ![Map Preview Fluent Forms](/images/integrations/other-apps/integrate-google-maps/17.-Map-preview-scaled.webp)
-
-This way, you can easily integrate Google Maps with Fluent Forms!

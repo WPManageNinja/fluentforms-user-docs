@@ -4,7 +4,7 @@ description: "Integrating Mailster with Fluent Forms allows you to automate emai
 
 # Integrate Mailster
 
-Integrating **Mailster** with **Fluent Forms** allows you to automate email subscriptions, manage mailing lists, and streamline newsletter campaigns efficiently. This article will guide you through integrating **Mailster** with **Fluent Forms** on your **WordPress Site**.
+The **Mailster** integration lets you automate email subscriptions, manage mailing lists, and streamline newsletter campaigns from **Fluent Forms**. This guide shows you how to connect **Mailster** with **Fluent Forms** on your **WordPress site**.
 
 > [!Note]
 > **Mailster** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -12,71 +12,59 @@ Integrating **Mailster** with **Fluent Forms** allows you to automate email subs
 ## Enable Mailster Integration
 
 > [!Note]
-> Install and activate the **Mailster** plugin on your WordPress site before continuing.
+> Install and activate the **Mailster** plugin on your WordPress site before you continue.
 
-To do this, go to the **Plugins** from the **WordPress Left Sidebar**, click the **Add New Plugin**, search for **Mailster** through the search bar, and click the **Install** and then **Activate** button. 
+1. In the **WordPress Left Sidebar**, go to **Plugins** and click **Add New Plugin**.
+2. Search for **Mailster**, then click **Install** and **Activate**.
 
 ![Install Mailster Fluent Forms](/images/integrations/email-marketing/integrate-mailster/1.-Install-Mailster-scaled.webp)
 
-Then, go to **Integrations** from the **Fluent Forms Navbar**, search for **Mailster** through the search bar, turn on the **Toggle**, and your **Mailster** integration module will be enabled. 
+3. Go to **Integrations** in the **Fluent Forms Navbar**, search for **Mailster**, and turn on the **Toggle**.
 
 ![Enable Mailster Integration Integrate Mailster](/images/integrations/email-marketing/integrate-mailster/2.-Enable-Mailster-Integration-scaled.webp)
 
 ## Integrate Mailster in Forms
 
-Once the Mailster Integration module is enabled, you can integrate it with any desired form. First, go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **Mailster** and open the **Configuration** tab. 
+After you enable the Mailster module, you can connect it to any form. Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **Mailster**, and open the **Configuration** tab.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate Mailster](/images/integrations/email-marketing/integrate-mailster/3.-Open-desired-form-Settings-scaled.webp)
 
-Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Mailster Integration** feed from the drawer. 
+On the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select the **Mailster Integration** feed from the drawer.
 
 ![Add Integration Dropdown Integrate Mailster](/images/integrations/email-marketing/integrate-mailster/4.-Add-new-integration-dropdown-scaled.webp)
 
-Now, a page will appear with various settings options for configuring the Mailster. 
+The feed settings open with these options:
 
-1. **Name:** From here, you can change the name anytime if needed.
+1. **Name:** Change the feed name at any time.
+2. **Mailster Lists:** Use the Arrow Icon to select the Mailster subscriber list that receives your contacts from Fluent Forms submissions. You can change it at any time.
+3. **First Name, Last Name, and Email:** Link your Mailster contact fields with the form's fields. Use the Shortcode Arrow to select the value for each field.
+4. **Select Status:** Select the status for your Mailster contacts. You can also use shortcodes as the status.
+5. **Enter Referer Name:** Enter the referrer name for the contacts. You can also use shortcodes to send dynamic data to Mailster.
+6. **Custom Fields:** Link Fluent Forms fields with their Mailster custom fields. Click the Plus/Minus Icon in the right corner to add or delete custom fields.
+7. **Conditional Logics:** Run the Mailster integration only when your submission values match the conditions you set. See the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
+8. **Enable This Feed:** Check this option to keep the feed enabled so all its actions run.
 
-2. **Mailster Lists:** Using the Arrow Icon, you can select the Mailster Subscriber List where you want to add your contacts through Fluent Forms submissions. You can also change this anytime if needed.
-
-3. **Name and Email:** Use all the fields to properly link your Mailster’s Name and Email fields with the Form’s Name and Email fields. You can easily select the value for the form fields based on the Mailster fields using the Shortcode Arrow.
-
-4. **Select Status:** With this option, you can select the Status for your Mailster contacts. Also, you can use ShortCodes as the status.
-
-5. **Enter Referer Name:** With this option, you can write the referrer name for the contacts. You can also use Shortcodes to send dynamic data to Mailster.
-
-6. **Custom Fields:** Using this option, you can also link the Fluent Forms fields with their respective Mailster custom fields. Also, by clicking the Plus/Minus Icon in the right corner, you can Add/Delete custom fields as per your needs.
-
-7. **Conditional Logics:** This option allows Mailster integration to function conditionally based on your submission values according to your set conditional logic/s. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
-
-8. **Enable This Feed:** Check this option, to ensure this integration feed remains enabled, and all the actions of this feed function properly.
-
-Once the setup is done, finally, click the **Save** button. And, your Mailster will be integrated into this specific form!
+Click **Save** when the setup is done. Mailster is now connected to this form.
 
 ![Save Feed Integrate Mailster](/images/integrations/email-marketing/integrate-mailster/5.-Save-Feed-scaled.webp)
 
-After successful Integration, now you will see that your **Mailster Integration Feed** has been added here. 
-
-You can modify your feed anytime by clicking the **Settings Icon,** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed. 
+The **Mailster Integration Feed** now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
 
 ![Added Mailster Integration Feed](/images/integrations/email-marketing/integrate-mailster/6.-Added-Mailster-Integration-Feed-scaled.webp)
 
 ### Preview of Integrated Mailster
 
-Here, you can see the preview of added **Contacts** of **Mailster** through the Form Entries based on the Integration.
-
-For example, you can see four new **Form Submissions** under the **Entries** tab on this particular form.
+You can see the **Form Submissions** that add **Mailster** contacts in the **Entries** tab of the form. In this example, the form has four new submissions.
 
 ![Entries Fluent Forms](/images/integrations/email-marketing/integrate-mailster/7.-Form-Entries-scaled.webp)
 
-Now, go to your [Mailster](https://mailster.co) account, go to the **Lists** from the **WordPress Left Sidebar** or **Mailster Navbar,** and click the **Subscribers** of the desired list you integrated with Fluent Forms.
+Next, open your [Mailster](https://mailster.co) account. Go to **Lists** in the **WordPress Left Sidebar** or the **Mailster Navbar**, and click **Subscribers** for the list you connected to Fluent Forms.
 
 ![Mailster List Preview](/images/integrations/email-marketing/integrate-mailster/8.-Mailster-List-Preview-scaled.webp)
 
-You can see that the **users who submitted forms** in **Fluent Forms** are also automatically added to the selected **Mailster**.  
+The **users who submitted forms** in **Fluent Forms** now appear as subscribers in the selected **Mailster** list.
 
 ![Subscriber Preview Fluent Forms](/images/integrations/email-marketing/integrate-mailster/9.-Subscriber-preview-scaled.webp)
-
-This way you can easily integrate Mailster with Fluent Forms!

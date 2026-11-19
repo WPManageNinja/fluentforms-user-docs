@@ -4,137 +4,145 @@ description: "Stripe is a globally recognized payment gateway that offers Fluent
 
 # Integrate Stripe
 
-[Stripe](http://stripe.com) is a globally recognized payment gateway that offers **Fluent Forms** inline payment options and a smooth and secure payment experience using credit and debit cards.
+[Stripe](http://stripe.com) is a payment gateway that gives **Fluent Forms** inline payment options and a secure payment experience with credit and debit cards.
 
-This article will guide you through integrating **Stripe** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
+This article shows you how to connect **Stripe** to your **WordPress** site with the **Fluent Forms** plugin.
 
 > [!Note]
-> **Stripe** works on the free Fluent Forms plugin with a **1.9% platform fee** per transaction. **Fluent Forms Pro** users pay no extra platform fee for Stripe on your site.
+> **Stripe** works on the free Fluent Forms plugin with a **1.9% platform fee** per transaction, including subscription payments. **Fluent Forms Pro** users pay no extra platform fee for Stripe on your site.
 
 ## Enabling Stripe Payment Method
 
 Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Turn on the toggle next to **Stripe** to enable it globally for all forms, then click **Manage** to open its settings.
+Turn on the toggle next to **Stripe** to enable it for all forms, then click **Manage** to open its settings.
 
 ![Enable Stripe Payment Method Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/1.-Enable-Stripe-Payment-method-scaled.webp)
 
 ## Configuring Stripe with Fluent Forms
 
-Once you enable Stripe, all the required settings will appear to configure Stripe with Fluent Forms. 
+After you enable Stripe, its settings appear.
 
-Before starting the configuration, select any **Payment Mode** between **Test** (for test payments) and **Live** (for real payments) as both options follow the same process, e.g., I choose the **Test Mode**.
+Select a **Payment Mode**: **Test** (for test payments) or **Live** (for real payments). Both follow the same process. This guide uses **Test** mode.
 
-Then, click the **Connect with Stripe** button to redirect you to the **Stripe Login Page** to connect your **Stripe Account**.
+Click **Connect with Stripe** to go to the **Stripe Login Page** and connect your **Stripe Account**.
 
-Do not forget to click the **Save** button to save all your changes. 
+Click **Save** to save your changes.
 
 ![Connect With Stripe](/images/payments/payment-gateways/integrate-stripe/2.-Connect-with-Stripe-scaled.webp)
 
-Stripe opens the **Create your free Stripe account** page for **Fluent Plugins by WPManageNinja**. Enter your **Email address** and **Password** (at least 10 characters), then click the **Submit** button. You can also click **Sign in with Google** to continue with your Google account. Your **Stripe** account will then be connected to **Fluent Forms**.
+Stripe opens the **Create your free Stripe account** page for **Fluent Plugins by WPManageNinja**. Enter your **Email address** and **Password** (at least 10 characters), then click **Submit**. You can also click **Sign in with Google** to continue with your Google account. Your **Stripe** account is then connected to **Fluent Forms**.
 
 The **Get emails from Stripe** checkbox is optional. Leave it unchecked if you do not want product updates from Stripe.
 
 > [!Note]
-> Connecting lets Fluent Forms see your Stripe account data, such as payment and payout history, and create payments for you. If you already have a Stripe account, use the same email address. To open a new account, [click here](https://dashboard.stripe.com/register).
+> Connecting lets Fluent Forms see your Stripe account data, such as payment and payout history, and create payments for you. If you already have a Stripe account, use the same email address. To open a new account, [register on Stripe](https://dashboard.stripe.com/register).
 
 ![Submit Button Fluent Forms](/images/payments/payment-gateways/integrate-stripe/3.-Submit-button.png)
 
 > [!Note]
-> **Connect with Stripe** is enabled by default. Fluent Forms recommends this option for a secure setup, including for Stripe Verified Partners.
+> **Connect with Stripe** is the default and recommended option for a secure setup, including for Stripe Verified Partners.
 
-To use the traditional **API Key** method instead, disable **Connect with Stripe** by adding the following snippet to your theme's **functions.php** file or a code snippets plugin.
+To use the traditional **API Key** method instead, open the **Use API keys instead** section on the Stripe settings page and enter your keys for the selected mode. Test and Live modes each have their own connection.
+
+To force the API key method for the whole site, add the following snippet to your theme's **functions.php** file or a code snippets plugin.
 
 > [!Note]
-> We recommend you use the [Fluent Snippet](https://fluentsnippets.com/) Plugin to add any snippet code to your WordPress Site.
+> We recommend the [Fluent Snippet](https://fluentsnippets.com/) plugin for adding snippet code to your WordPress site.
 
 `add_filter('fluentform/disable_stripe_connect', '__return_true');`
 
 ## Configuring Webhook to Set Up Stripe IPN
 
-After configuring Stripe, you can set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in Stripe. Recurring billing is collected through the [Subscription](/add-subscription-field-in-payment-forms) field.
+After you configure Stripe, set up **IPN** (**Instant Payment Notification**) **Settings** to enable notifications for **subscription** or **recurring** **payments** in Stripe. Recurring billing is collected through the [Subscription](/add-subscription-field-in-payment-forms) field.
 
-**IPN (Instant Payment Notification)** is a post-message notification sent by [Stripe](http://stripe.com) after a successful subscription or recurring payment. For Stripe to function completely for subscription/recurring payments, you must configure your Stripe webhooks.
+**IPN (Instant Payment Notification)** is a post-message notification that [Stripe](http://stripe.com) sends after a successful subscription or recurring payment. For Stripe to work fully for subscription and recurring payments, configure your Stripe webhooks.
 
 Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Now, go to **Stripe**, and scroll down to the **Stripe Webhook (Recommended for Recurring Payments)** option. 
+Go to **Stripe** and scroll down to **Stripe Webhook (Recommended for Recurring Payments)**.
 
-Then, copy the **Webhook URL** and the recommended **Webhook Events** for smooth transactions based on **Stripe** **Data** related to **Subscription/Recurring** payments. 
+Copy the **Webhook URL** and the recommended **Webhook Events** for **Stripe** **Data** related to **Subscription/Recurring** payments.
 
-Do not forget to click the **Save** button to save all your changes. 
+Click **Save** to save your changes.
 
 ![Add Stripe Webhook URL Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/4.-Add-stripe-webhook-URL-scaled.webp)
 
-Now, visit your [Stripe Account Dashboard](https://dashboard.stripe.com/account/webhooks), click the **Developers** from the bottom-left corner, and press the **Webhooks**.
+Open your [Stripe Account Dashboard](https://dashboard.stripe.com/account/webhooks), click **Developers** in the bottom-left corner, and press **Webhooks**.
 
 ![Developers Webhooks Fluent Forms](/images/payments/payment-gateways/integrate-stripe/5.-Developers-Webhooks-scaled.webp)
 
-Click the **+ Add destination** button.
+Click **+ Add destination**.
 
 ![Add Destination Button Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/6.-Add-Destination-button-scaled.webp)
 
-Now, choose the events recommended by the **Fluent Forms** for **Stripe** to send to your endpoint. 
+Choose the events that **Fluent Forms** recommends for **Stripe** to send to your endpoint.
 
-You can find your **desired events** by entering their **Name** or **Description** into the **Events** fields and can **select** **events** by clicking the **checkbox**.
+To find events, enter a **Name** or **Description** in the **Events** field. Check the box to **select** an event.
 
-**The Events recommended by Fluent Forms are briefly explained below:**
+**The events Fluent Forms recommends:**
 
-- **charge.succeeded:** This triggers when a charge is successfully processed. Basically, this event occurs when a payment is completed on Stripe.
+- **charge.succeeded:** Triggers when a charge is processed successfully. This event occurs when a payment completes on Stripe.
 
-- **charge.captured:** This triggers when a previously authorized charge is successfully captured. You must use this for Hold payments.
+- **charge.captured:** Triggers when a previously authorized charge is captured successfully. You must use this for Hold payments.
 
-- **invoice.payment_succeeded:** This triggers when a payment for an invoice is successful. This is often used for Subscription payments.
+- **invoice.payment_succeeded:** Triggers when a payment for an invoice succeeds. It is often used for Subscription payments.
 
-- **charge.refunded:** This triggers when a charge is refunded. This event helps track refund activity that happened on Stripe.
+- **charge.refunded:** Triggers when a charge is refunded. This event helps you track refund activity that happened on Stripe.
 
-- **customer.subscription.deleted:** This triggers when a customer’s subscription is canceled or ends. This could be due to customer action, automatic cancellation, or a failed payment after retries.
+- **customer.subscription.deleted:** Triggers when a customer’s subscription is canceled or ends. This can be due to customer action, automatic cancellation, or a failed payment after retries.
 
-- **customer.subscription.updated:** This triggers when a customer’s subscription is changed or updated.
+- **customer.subscription.updated:** Triggers when a customer’s subscription changes.
 
-- **Checkout.session.completed:** This triggers when a checkout session is completed. This event confirms that the customer successfully paid for the session.
+- **checkout.session.completed:** Triggers when a checkout session completes. This event confirms that the customer paid for the session.
 
-Once you select all the suggested **Webhook Events**, click the **Continue** button.
+After you select all the suggested **Webhook Events**, click **Continue**.
 
 ![Select Events Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/7.-Select-Events-scaled.webp)
 
-Then, select the **Webhook endpoint** and again click the **Continue** button.
+Select the **Webhook endpoint** and click **Continue** again.
 
 ![Webhook Endpoint Fluent Forms](/images/payments/payment-gateways/integrate-stripe/8.-Webhook-endpoint-scaled.webp)
 
-Finally, paste the **Webhook URL** you copied from the **Stripe Settings** page into the **Endpoint URL** field and click the **Create destination** button. 
+Paste the **Webhook URL** you copied from the **Stripe Settings** page into the **Endpoint URL** field and click **Create destination**.
 
-And, the **Stripe Webhooks** will be configured with your WordPress Site!
+Stripe Webhooks are now configured for your WordPress site.
 
 ![Create Destination Button](/images/payments/payment-gateways/integrate-stripe/9.-Create-Destination-button-scaled.webp)
 
 ## Integrating Stripe in Forms
 
-Once you finish setting up your **Stripe** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields are added).
+You can add **Stripe** to any existing **Payment Form**, which is a form with [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields.
 
-First, go to the **Editor** page of your desired form by clicking its **Edit** option.
+Go to the **Editor** page of your form by clicking its **Edit** option.
 
 ![Open Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/Open-desired-form-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by hovering over it and clicking the **Pencil Icon**.
+On the **Editor** page, hover over the **Payment Method** field and click the **Pencil Icon** to open the **Input** **Customization** menu on the right side.
 
-Now, go to the **Payment Methods**, check the **Stripe** option, click the **Dropdown Arrow,** and you will get these options:
+Go to **Payment Methods**, check the **Stripe** option, and click the **Dropdown Arrow**. These options appear:
 
-- **Method Label:** Here, you can change the label based on your preference for your added payment method.
+- **Method Label:** Change the label of your payment method.
 
 - **Embedded Checkout:** Check this box to activate Stripe as an inline payment option.
 
 - **Enable Payment Element:** Check this box to replace the card field with the **Stripe Payment Element**. It shows **Apple Pay** and **Google Pay** inline on supported devices. This option appears only when **Embedded Checkout** is on. To learn more, see [Use the Stripe Payment Element](#use-the-stripe-payment-element).
 
-- **Verify Zip/Postal Code:** Check this box if you want to make providing the Zip/Postal Code information mandatory for your users to submit the forms.
+- **Verify Zip/Postal Code:** Check this box to make the Zip/Postal Code mandatory for users to submit the form.
+
+- **Require Billing info:** Check this box to collect billing details at checkout. This option appears when **Embedded Checkout** is off.
+
+- **Collect Shipping Info:** Check this box to collect a shipping address at checkout. This option appears when **Embedded Checkout** is off.
 
 ![Embed Checkout Fluent Forms](/images/payments/payment-gateways/integrate-stripe/10.-Embed-checkout-scaled.webp)
 
-Once you complete the edit, press the **Save** button to save all the changes.
+Click **Save** to save your changes.
 
-Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
+To display the form on a **Page/Post**, copy the **Shortcode** from the top right side and paste it into the Page or Post.
 
-Also, to see the **Preview** of the form, click the **Preview** button in the middle.
+To see a preview of the form, click **Preview** in the form editor.
+
+Before you go live, submit a test payment in **Test** mode, then check it under **Payments** in the **Fluent Forms Navbar** and in the form entry.
 
 ![Save Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/11.-Save-form-scaled.webp)
 
@@ -159,7 +167,7 @@ First, open your **Stripe Dashboard**, click the **Settings** (gear) icon at the
 
 ![Stripe Payment Settings](/images/payments/payment-gateways/integrate-stripe/stripe-settings-6.webp)
 
-Next, open the **Payment method domains** tab and click the **Add a new domain** button.
+Next, open the **Payment method domains** tab and click **Add a new domain**.
 
 ![Payment Method Domains](/images/payments/payment-gateways/integrate-stripe/add-a-new-domain-7.webp)
 
@@ -173,7 +181,7 @@ Your domain now appears in the **Payment method domains** list with the **Enable
 
 ### Preview of Added Payment Method
 
-Here is the **preview** of the **Payment Method** that we just added. With the **Payment Element** on, the form shows **Card** and a wallet option side by side. Visitors on a supported device see **Apple Pay** (Safari on iPhone, iPad, or Mac) or **Google Pay** (Chrome and other supported browsers).
+The preview below shows the **Payment Method** you added. With the **Payment Element** on, the form shows **Card** and a wallet option side by side. Visitors on a supported device see **Apple Pay** (Safari on iPhone, iPad, or Mac) or **Google Pay** (Chrome and other supported browsers).
 
 When a visitor selects a wallet, the form shows the message **Another step will appear to securely submit your payment information.** The visitor then completes the payment in the wallet window after clicking **Submit Form**. While you use **Test** mode, the form shows **Stripe test mode activated** below the payment options.
 
@@ -187,41 +195,41 @@ When a visitor selects a wallet, the form shows the message **Another step will 
 
 ## Form Specific Stripe Settings
 
-You can also customize the **Stripe Settings** for a specific form according to your needs.
+You can customize the **Stripe Settings** for a specific form.
 
-To customize the **Stripe Settings**, click **Forms** in the **Fluent Forms Navbar**, then click the **Settings** (gear) icon of your desired form. 
+Click **Forms** in the **Fluent Forms Navbar**, then click the **Settings** (gear) icon of your form.
 
 ![Open Settings Integrate Stripe](/images/payments/payment-gateways/integrate-stripe/Open-Form-Settings-scaled.webp)
 
-Then click **Payment Settings** in the left sidebar, scroll down to **Stripe Settings**, and customize it based on your needs.
+Click **Payment Settings** in the left sidebar, scroll down to **Stripe Settings**, and customize it for your needs.
 
-Do not forget to click the **Save** button to save all your changes. 
+Click **Save** to save your changes.
 
 ![Specific Stripe Settings](/images/payments/payment-gateways/integrate-stripe/13.-Form-Specific-Stripe-Settings-scaled.webp)
 
 ### A. Stripe Meta Data
 
-Check the **Push Form Data to Stripe** to send the form submission date to your Stripe. 
+Check **Push Form Data to Stripe** to send the form submission date to your Stripe account.
 
 ![Stripe Meta Data Option](/images/payments/payment-gateways/integrate-stripe/14.-Stripe-meta-data-option.webp)
 
 ### B. Stripe Account
 
-Here, you can select which stripe account credential (**Global** or **Custom**) will be used for this form. Select the **Custom Stripe Credentials** if you want to set up a different Stripe account for this specific form.
+Select which Stripe account credentials (**Global** or **Custom**) this form uses. Select **Custom Stripe Credentials** to set up a different Stripe account for this form.
 
 ![Custom Stripe Credentials](/images/payments/payment-gateways/integrate-stripe/15.-Custom-Stripe-Credentials.webp)
 
 ### C. Stripe Payment Receipt
 
-Check this option if you want to disable the option of receiving payment receipt email notifications of this form.
+Check **Disable Payment Receipt Email by Stripe(not recommended)** to stop Stripe from sending payment receipt emails for this form.
 
 >[!Note]
-> But we recommend you do not disable this option if you want to keep track of your payment transactions.
+> Fluent Forms recommends you keep receipt emails on so you can track your payment transactions.
 
 ![Stripe Payment Receipt](/images/payments/payment-gateways/integrate-stripe/16.-Stripe-Payment-Receipt.webp)
 
 ### D. Stripe Descriptor
 
-Here, provide the text as per your wish (Contains between 5 and 22 characters) as a statement descriptor. If you keep it empty, your Form Name will be set as a statement descriptor.
+Enter text of your choice (5 to 22 characters) as the statement descriptor. If you leave it empty, Fluent Forms uses your Form Name as the statement descriptor.
 
 ![Statement Descriptor Fluent Forms](/images/payments/payment-gateways/integrate-stripe/17.-Statement-Descriptor.webp)

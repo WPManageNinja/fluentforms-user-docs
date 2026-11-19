@@ -4,29 +4,29 @@ description: "The Image Upload input field in Fluent Forms lets users submit ima
 
 # Image Upload Input Field
 
-The **Image Upload** input field in Fluent Forms lets users submit images in different formats directly through a form. Use it for applications, registrations, profile photos, and other image submissions.
+The **Image Upload** input field in Fluent Forms lets users submit images in different formats through your form. Use it for applications, registrations, profile photos, and other image submissions.
 
 > [!Note]
 > The **Image Upload** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Adding Image Upload Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you have no forms yet, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit form to add Image Upload field](/images/form-fields/general-fields/image-upload-input-field/Edit-Form-01-3-scaled.webp)
 
-On the **Editor** page, click the **Plus** icon and open **General Fields**. You can also find **General Fields** in the right sidebar under **Input Fields**.
+In the editor, click the **Plus Icon** and open **General Fields**. You can also find **General Fields** in the right sidebar under **Input Fields**.
 
-Select **Image Upload** by clicking it or dragging it into the editor.
+Click **Image Upload**, or drag it into the editor.
 
 ![Add Image Upload field to the form](/images/form-fields/general-fields/image-upload-input-field/new-7-scaled.webp)
 
 ## Customizing the Image Upload Field
 
-Hover over the field and click the **Pencil** icon to open **Customize** on the right. Available tabs:
+Hover over the field and click the **Pencil Icon** to open **Customize** on the right. It has these tabs:
 
 - Image Upload Options
 - Advanced Options
@@ -41,7 +41,7 @@ Hover over the field and click the **Pencil** icon to open **Customize** on the 
 
 **C. Upload Button Interface:** Choose a standard **Button** or an interactive **Dropzone**.
 
-**D. Label Placement:** Set label position to **Top**, **Left**, **Right**, or **Default** (uses your global label placement).
+**D. Label Placement:** Set label position to **Default**, **Top**, **Right**, **Bottom**, **Left**, or **Hide Label** (uses your global label placement).
 
 **E. Admin Field Label:** A label shown only to admins when viewing submissions.
 
@@ -59,7 +59,7 @@ Hover over the field and click the **Pencil** icon to open **Customize** on the 
 
 ### Image Crop
 
-**Image Crop** lets users crop images before submitting. Only the cropped image is uploaded and validated on the server. Enable **Enable Crop** to reveal crop settings. This option is off by default, so existing forms are unchanged.
+**Image Crop** lets users crop images before submitting. Only the cropped image is uploaded and validated on the server. Turn on **Enable crop** to show the crop settings. This option is off by default, so existing forms stay unchanged.
 
 #### Select a Crop Type
 
@@ -70,7 +70,7 @@ Hover over the field and click the **Pencil** icon to open **Customize** on the 
   - **1:1:** Square crop for profile or avatar images
   - **4:3:** Standard landscape ratio
   - **16:9:** Widescreen landscape format
-  - **3:4 / 9:16:** Portrait-oriented ratios
+  - **3:4:** Portrait-oriented ratio
 - **Width and Height:** Define exact dimensions. Enter **Width (px)** and **Height (px)** so users crop to a fixed pixel size.
 
 ![Image Crop settings](/images/form-fields/general-fields/image-upload-input-field/image-upload-option-2-scaled.webp)
@@ -93,7 +93,7 @@ Hover over the field and click the **Pencil** icon to open **Customize** on the 
 
 Click **Save**, then **Preview** to preview your changes.
 
-Copy the form **Shortcode** from the top right and paste it into a **Page** or **Post** to display the form on the frontend.
+To show the form on the frontend, copy the form **Shortcode** from the top right and paste it into a page or post.
 
 ![Save and embed the form](/images/form-fields/general-fields/image-upload-input-field/Save-Form-06-6-scaled.webp)
 

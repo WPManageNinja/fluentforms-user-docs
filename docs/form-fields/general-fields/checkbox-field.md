@@ -4,9 +4,9 @@ description: "The CheckBox Field in Fluent Forms allows users to select one or m
 
 # CheckBox Field
 
-The **CheckBox Field** in Fluent Forms allows users to select one or more options from a list. It is commonly used for surveys, polls, preferences, or consent forms. 
+The **CheckBox Field** in Fluent Forms lets users select one or more options from a list. Use it for surveys, polls, preferences, or consent forms.
 
-This article will guide you through adding the **Checkbox** field in your Fluent Forms for your WordPress Site.
+This article shows you how to add the **Checkbox** field to your form.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/dBVrAjHtVvU" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,19 +14,19 @@ This article will guide you through adding the **Checkbox** field in your Fluent
 
 ## Adding the Checkbox Field
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** click the title of your **Form** to open its **Editor** page.
+Go to **Forms** in the Fluent Forms navbar. Click the title of your form to open the editor.
 
 ![Editor Fluent Forms](/images/form-fields/general-fields/checkbox-field/form-editor-01-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, choose the desired **Checkbox** field by clicking on it or **Drag & Drop** it into your editor.
+Click the **Checkbox** field, or drag and drop it into your editor.
 
 ![CheckBox Field step](/images/form-fields/general-fields/checkbox-field/new-1-scaled.webp)
 
 ## Customizing the Checkbox Field
 
-A checkbox field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Checkbox Field Options
 
@@ -36,13 +36,13 @@ A checkbox field has been added. You can edit this field by **hovering over it**
 
 ### Checkbox Field Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Checkbox** field.
+These options in the **Customize** tab configure the **Checkbox** field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Checkbox** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Checkbox** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. This means that you can configure this option to show a different field label for your admin users when they view the form submissions. 
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
 **D. Options:** Define the options users can choose from:
 
@@ -58,21 +58,21 @@ You will find various settings options for customizing the field. Located in the
 
 - **Rearrange Options:** Drag and drop options to reorder them.
 
-- **Add/Delete Options:** Use the Plus icon to add new options or insert options between existing ones.
+- **Add/Delete Options:** Use the **Plus Icon** to add new options or insert options between existing ones.
 
-- **Bulk Edit/Predefined Data Sets:** Choose from a predefined data set for the field so you don't have to add each item manually. You can also save time by importing predefined datasets instead of manually adding each option. (Useful for dropdowns like countries or states.)
+- **Bulk Edit/Predefined Data Sets:** Choose a predefined data set, or import one, instead of adding each option manually. This suits lists like countries or states.
 
 ![Bulk Fluent Forms](/images/form-fields/general-fields/checkbox-field/bulk-scaled.webp)
 
-**E. Layout:** Choose a layout for the options. Available layouts include **Vertical**, **Horizontal**, or **Grid-style**.
+**E. Layout:** Choose a layout for the options. Available layouts are **Default**, **Inline Layout**, **Button Type Styles**, **2-Column Layout**, **3-Column Layout**, **4-Column Layout**, and **5-Column Layout**.
 
-**F. Shuffle the available options:** You can enable the shuffle of your dropdown list or select field options so that every user sees a randomized option.
+**F. Shuffle the available options:** Turn this on to show the checkbox options in a random order to each user.
 
-**G. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
+**G. Required:** Turn on **Required** to make users select at least one option before they submit.
 
-**H. Max Selection:** Set the maximum number of options a user is allowed to select. Leave it blank for no limit.
+**H. Max Selection:** Set the maximum number of options a user can select. Leave it blank for no limit.
 
-**I. Min Selection:** Set the minimum number of options a user must select before submitting the form. Leave it blank if a minimum isn't required.
+**I. Min Selection:** Set the minimum number of options a user must select before submitting the form. Leave it blank for no minimum.
 
 ![Basic Options](/images/form-fields/general-fields/checkbox-field/Basic-options-04-scaled.webp)
 
@@ -88,48 +88,47 @@ You will find various settings options for customizing the field. Located in the
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
+**A. Dynamic Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read [Dynamic Default Value in Fluent Forms](/dynamic-default-value).
 
-**B. Container Class:** Use this option to add your custom **CSS** classes to the field’s wrapper.
+**B. Container Class:** Add custom CSS classes to the field’s wrapper.
 
-**C. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**C. Help Message:** Add text that appears as a help message for the user.
 
-**D. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**D. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**E. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options](/images/form-fields/general-fields/checkbox-field/advanced-options-05-1-scaled.webp)
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save CheckBox Field](/images/form-fields/general-fields/checkbox-field/save-form-06-1-scaled.webp)
 
 ### Preview of Added Checkbox Field
 
-Here is the preview of the added **Checkbox** field under the Form. 
+Here is the form with the **Checkbox** field added.
 
-You can get the visual representation of this Form. To learn more, read [Visual Representation of Form Entries in Fluent Forms](/visual-representation-of-form-entries).
+To see this form’s data as charts, read [Visual Representation of Form Entries in Fluent Forms](/visual-representation-of-form-entries).
 
 ![Preview Checkbox](/images/form-fields/general-fields/checkbox-field/preview-checkbox-form-07.webp)
 
 ### Image Button Layout
 
-First, enable the **Photo** Option from the checkbox field’s options, as shown in the screenshot. Now, **upload** images for each option in the **Photo** setting.
+1. Enable the **Photo** option in the checkbox field’s options, as shown in the screenshot.
+2. Upload an image for each option in the **Photo** setting.
 
 ![Photo Fluent Forms](/images/form-fields/general-fields/checkbox-field/photo-08-scaled.webp)
 
-After that, customize the **Layout** option under **Checkbox Field Options** and select the desired **Button Layout** from the dropdown menu.
+3. Under **Checkbox Field Options**, select the **Button Layout** you want from the **Layout** dropdown.
 
 ![Button Layout Style CheckBox Field](/images/form-fields/general-fields/checkbox-field/button-layout-style-09-scaled.webp)
 
-Once configured, the radio button field will display with clickable image options.
+The checkbox field now shows clickable image options.
 
 ![CheckBox Field step](/images/form-fields/general-fields/checkbox-field/0111.webp)
-
-The **Checkbox Field** in Fluent Forms is a flexible and customizable input type, ideal for multiple-choice forms.

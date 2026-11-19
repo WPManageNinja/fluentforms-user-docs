@@ -4,50 +4,53 @@ description: "Fluent Forms offers an impressive Import Entries feature that allo
 
 # Importing Entries
 
-Fluent Forms offers an impressive **Import Entries** feature that allows users to import form entries directly in **JSON** and **CSV** formats. This functionality helps manage up-to-date data by enabling bulk entry uploads.
+The **Import Entries** feature lets you import form entries in **JSON** and **CSV** formats. It helps you keep your data up to date with bulk entry uploads. This article shows you how to import entries into your WordPress site with Fluent Forms.
 
-This article will guide you through how you can Import Entries to your WordPress Sites with Fluent Forms.
+> [!Note]
+> **Import Entries** is a Pro feature (Pro). It needs Fluent Forms Pro 5.1.7 or later. On the free plugin, the Tools screen shows an upgrade prompt. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Accessing the Import Entries
 
-First, navigate to the **Fluent** **Forms** [**Tools**](/user-interface) section from the top menu (under **More**). Then, select **Import** **Entries** from the left sidebar. It will open the **Entries Import Setup** page.
+1. Go to **Fluent Forms** and open [**Tools**](/user-interface) from the top menu (under **More**).
+2. Select **Import Entries** from the left sidebar. The **Entries Import Setup** page opens.
 
-Alternatively, you can import data from an individual form's [**Entries**](/managing-entries) page. Click the **three-dot** menu at the top right and choose **Import**.
+You can also import data from an individual form's [**Entries**](/managing-entries) page. Click the **three-dot** menu at the top right and choose **Import**.
 
 ![Access Import Entries](/images/import-export-migration/importing-entries/access-import-entries-01-scaled.webp)
 
 ### Choosing File Type and Source
 
-In the **Entries Import Setup** section, use the **Target Form** dropdown to choose the form where you want to add entries. Next, choose the **File Type** (**CSV** or **JSON (.json) Data**) and upload the file from your local storage by clicking the **Upload CSV** or **Upload JSON** box under **Select File**. 
-
-Once the form is selected and the file is uploaded, click the **Map columns** button.
+1. In the **Entries Import Setup** section, choose the form that receives the entries in the **Target Form** dropdown.
+2. Choose the **File Type**: **CSV** or **JSON (.json) Data**. A JSON file must come from a Fluent Forms entries export.
+3. Under **Select File**, click the **Upload CSV** or **Upload JSON** box and upload the file from your computer.
+4. Click **Map columns**.
 
 ![Select Importing Entries](/images/import-export-migration/importing-entries/select-form-02-scaled.webp)
 
 ### CSV File Import
 
-If you import entries from a **CSV file**, select the **CSV** option in **File Type** and upload the CSV file to your local storage with the **Select File** option.
+For a CSV file, select **CSV** in **File Type** and upload the file with **Select File**.
 
-Then, choose the **Csv Delimiter** (Comma or Semicolon) from the dropdown options to match your file format. If unsure, use the **Auto Guess** option for automatic detection.
+Choose the **Csv Delimiter** (Comma or Semicolon) from the dropdown to match your file format. If you are unsure, use **Auto Guess** to detect it. Make sure the delimiter is correct and the file has unique column headers.
 
-Once the file is uploaded, click the **Map columns** button to proceed.
+Click **Map columns** to continue.
 
 ![Tools Wordpress Fluent Forms](/images/import-export-migration/importing-entries/Tools-_-Demo-_-WordPress-04-09-2025_03_00_PM-scaled.webp)
 
 ### Mapping Fields for Import
 
-After clicking **Map columns**, both **JSON** and **CSV** files require **Field Mapping** to ensure data is placed in the correct form fields. This step aligns the imported entries with your form structure.
+After you click **Map columns**, both **JSON** and **CSV** files need **Field Mapping**. This step places the imported data in the correct form fields.
 
-**Submission Info Mapping:** For data import, enable **Submission Info Mapping** by checking the **Show Submission Info Mapping** option. 
+**Submission Info Mapping:** Check **Show Submission Info Mapping** to enable **Submission Info Mapping** for the import.
 
-Selecting the **Delete Existing Submission** option will replace current submissions with the imported data.
+**Delete Existing Submissions:** Select this option to replace current submissions with the imported data.
 
-Now, click the **Import** button to finalize the import.
+Click **Import** to finish.
 
 ![Unnamed](/images/import-export-migration/importing-entries/unnamed-4-2.webp)
 
-Once completed, a **confirmation message** and a **View Entries** button will appear, allowing you to review the imported data.
+When the import completes, a **confirmation message** and a **View Entries** button appear. Click **View Entries** to review the imported data.
 
 ![View Entries](/images/import-export-migration/importing-entries/view-entries-04-1-scaled.webp)
 
-So, this is the process of importing entries in fluent forms.
+To bring in forms from another plugin, see [Migrate to Fluent Forms](/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).

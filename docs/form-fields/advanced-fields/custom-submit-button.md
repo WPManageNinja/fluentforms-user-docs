@@ -4,9 +4,9 @@ description: "Want to use a special Submit button on your Fluent Form? It's simp
 
 # Custom Submit Button
 
-Want to use a special **Submit** button on your Fluent Form? It's simple! This field allows you to replace the **Default Submit Button** with a **Custom Submit Button** for better control over **positioning, styling,** and [conditional logic](/set-up-forms-with-conditional-logic).
+This field replaces the **Default Submit Button** with a **Custom Submit Button**. You get more control over **positioning, styling,** and [conditional logic](/set-up-forms-with-conditional-logic).
 
-This guide will walk you through adding and customizing the **Custom Submit Field** in Fluent Forms for your WordPress site.
+This guide shows you how to add and customize the **Custom Submit Field** in Fluent Forms.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/nDE_XdSvG0A" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,22 +14,22 @@ This guide will walk you through adding and customizing the **Custom Submit Fiel
 
 ## Adding Custom Submit Button Field
 
-First, look for the **Forms** section in the Fluent Forms menu. Then, choose the form you want to work on and click the **Edit Icon** to get to the page where you can change it.
+Go to **Forms** in the Fluent Forms menu. Choose the form you want to change and click the **Edit Icon**.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Editor](/images/form-fields/advanced-fields/custom-submit-button/form-editor-01-2-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the desired **Custom Submit Button Input** field by **clicking** or **dragging** it and **dropping** it into your editor.
+Click the **Custom Submit Button Input** field, or drag and drop it into your editor.
 
 ![Adding Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button/adding-custom-submit-button-02-scaled.webp)
 
 ## Customizing the Custom Submit Button Field
 
-Once you add the Custom Submit Button field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
+After you add the Custom Submit Button field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these options:
 
 - Custom Submit Button Options
 
@@ -39,45 +39,45 @@ Once you add the Custom Submit Button field, you can customize it by hovering ov
 
 ### Custom Submit Button Options
 
-Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Custom Submit Button** field.
+These options in the **Customize** tab configure the **Custom Submit Button** field.
 
-**A. Submit Button**: Choose between **Default** or **Image** for the button. These two options are available in the Submit Button option. Users can keep this Button as a **Default** button or select the **Image** option with the **URL**.
+**A. Button Text:** Choose **Default** or **Image** for the button. With **Default**, enter the button text in the **Button Text** box. With **Image**, add the image **URL**.
 
-**B. Button Style**: Customize the button’s color scheme, position, and action to match your form’s design.
+**B. Button Style:** Customize the button’s color scheme, position, and action to match your form’s design.
 
-**C. Background Color**: Select a color that fits your website’s theme.
+**C. Background Color:** Select a color that fits your website’s theme.
 
-**D. Text Color**: Adjust the button text color to ensure readability and design consistency.
+**D. Text Color:** Set a button text color that is easy to read and fits your design.
 
-**E. Border Color & Radius**: If necessary, define a border color and set the border radius to achieve a rounded button style.
+**E. Border Color & Radius:** Set a border color and a border radius for a rounded button.
 
-**F. Min-Width**: Set a minimum width for the button in **pixels** or **percentage**.
+**F. Min-Width:** Set a minimum width for the button in **pixels** or **percentage**.
 
-**G. Button Size**: Choose from **Small, Medium,** or **Large** button sizes that suit your website content.
+**G. Button Size:** Choose **Small**, **Medium**, or **Large**.
 
-**H. Content Alignment**: Align the button's content according to your design preferences.
+**H. Content Alignment:** Align the button's content.
 
-**Hover State Styling:** You can apply the same styling options for the button’s hover state by clicking the **Hover State** tab and adjusting the styles accordingly.
+**Hover State Styling:** Click the **Hover State** tab to apply the same styling options to the button’s hover state.
 
 ![Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button/Custom-Submit-button-04-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. 
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**A. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **B. Element Class:** Add custom CSS classes to the input field.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, see the Conditional Logic documentation linked above. 
+**C. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, see the Conditional Logic documentation linked in the intro. 
 
 ![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/custom-submit-button/Advanced-Options-05-19-scaled.webp)
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific **Page** or **Post**, copy the **Shortcode** from the top right side and paste it into your desired **Page** or **Post**.
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button/Save-Form-06-25-scaled.webp)
 
@@ -86,5 +86,3 @@ To integrate and display the form on a specific **Page** or **Post**, copy the *
 Here is a preview of the form with the **Custom Submit Button input** field.
 
 ![Preview Custom Submit Button](/images/form-fields/advanced-fields/custom-submit-button/Preview-07-15.webp)
-
-**Congratulations!** You have successfully added a **Custom Submit Button** field to your **Fluent** **Forms** form.

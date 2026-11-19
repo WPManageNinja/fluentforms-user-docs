@@ -4,23 +4,24 @@ description: "In Fluent Forms, the Post Update field allows users to select any 
 
 # Add Post Update Field in Post Forms
 
-In **Fluent Forms**, the **Post Update** field allows users to select any of your existing posts and update them directly through the form. This article will guide you through adding the **Post Update** field in your Fluent Forms for your WordPress Site. 
+In **Fluent Forms**, the **Post Update** field lets users select any of your existing posts and update them through the form. This article shows you how to add the **Post Update** field to your form.
+
+> [!Note]
+> This field is a Pro feature. It appears in the editor only when the **Post/CPT Creation** module is enabled. See [Create a Post Form](/create-a-post-form).
 
 ## Add Post Update Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of your **Post Form** to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of your **Post Form** to open the form editor.
 
 ![Open Post](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/1.-Open-desired-Post-form-4-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input Fields** on the right sidebar and open the **Post Fields** dropdown list by clicking the **Arrow Icon**. Now, choose the **Post Update** field by clicking on it or **Drag & Drop** it into your editor.
+In the editor, go to **Input Fields** in the right sidebar. Click the **Arrow Icon** to open the **Post Fields** dropdown list. Click the **Post Update** field, or drag and drop it into your editor.
 
 ![Add Post Update Field](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/2.-Add-Post-Update-field-scaled.webp)
 
 ## Customize Post Update Field
 
-You can see that a **Post Update** field is added to the form. You can Edit or Customize this field by **hovering over it** and clicking the **Pencil Icon**.
-
-It will take you to the **Customize** tab on the right side and offer you the following options for customizing the field.  
+Hover over the **Post Update** field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 1. Post Update
 
@@ -32,17 +33,17 @@ It will take you to the **Customize** tab on the right side and offer you the fo
 
 Configure **Post Update** labels and post selection options:
 
-**A. Element Label**: This is the field title the users will see when filling out the **Post Update** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Post Update** field. Enter text that explains the purpose of the field.
 
-**B. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
+**B. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**C. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
+**C. Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-**D. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default.** All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings. 
+**D. Label Placement:** Set where the label appears. The options are **Top**, **Right**, **Bottom**, **Left**, **Hide Label**, and **Default**. **Default** uses your global label placement settings.
 
-**E. Filter Posts**: Here, you can select which Posts you want to show in your form. 
+**E. Filter Posts:** Select which posts to show in your form.
 
-**F. Extra Query Parameter**: Here, you can provide the **Post Query Parameter** for further filtering. To learn more details about the Extra Query Parameter, see the [Post Selection Module in Fluent Forms](/post-selection-module).
+**F. Extra Query Parameter:** Provide the **Post Query Parameter** for further filtering. To learn more about the Extra Query Parameter, see the [Post Selection Module in Fluent Forms](/post-selection-module).
 
 ![Post Update Option](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/4.-Post-Update-option-scaled.webp)
 
@@ -50,60 +51,57 @@ Configure **Post Update** labels and post selection options:
 
 Configure **Advanced** options:
 
-**A. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**B. Dynamic Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SmartCodes**. To learn the details about SmartCodes, read this [Documentation](/form-editor-smart-codes).
+**B. Dynamic Default Value:** Set a default value to pre-populate the field. You can also set the value with **SmartCodes**. To learn more, read [Form Editor Smart Codes](/form-editor-smart-codes).
 
-**C. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
+**C. Help Message:** Add text that appears as a help message for the user.
 
-**D. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
+**D. Container Class:** Add custom CSS classes to the field’s wrapper.
 
-**E. Element Class**: Add custom CSS classes to the input field itself. This is used for adding Custom CSS/JS for a specific input field of a form.
+**E. Element Class:** Add custom CSS classes to the input field itself. Use it to add custom CSS or JS for a specific input field.
 
-**F. Conditional Logic**: This option allows the Post Update field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
+**F. Conditional Logic:** Make the Post Update field work conditionally based on your submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic).
 
-**G. Enable Searchable Smart Options**: If you enable this option, it will be searchable by the select2 js library.
+**G. Enable Searchable Smart Options:** Enable this option to make the field searchable with the select2 JS library.
 
 ![Advanced Options](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/5.-Advanced-Options-7-scaled.webp)
 
 ## Configure Post Feed Settings
 
-Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
+Configure the **Post Feed**. This step is **mandatory** to make your **Post Form** work. The feed maps your post fields for data collection and lets users create more customized posts.
 
-**But**, remember, the **Post Update** field will only work when the post feeds’ **Submission Type** is set to **Update Post**. To learn how to do this, follow the steps below – 
+The **Post Update** field works only when the post feed’s **Submission Type** is set to **Update Post**. To set it:
 
-First, go to **Configuration** from the **Editor** page, open the **Post Feeds** tab from the left sidebar, and click the **Settings Icon** to open the existing added feed.
+1. On the **Editor** page, go to **Configuration**. Open the **Post Feeds** tab in the left sidebar and click the **Settings Icon** to open the existing feed.
 
 > [!Note]
 > If you do not have a **Post Feed** yet, click **+ Add Post Feed** under **Configuration → Post Feeds**. See [How to Create a Post Form with Fluent Forms](/create-a-post-form) for the full feed setup process.
 
 ![Add Post Feed](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/6.-Add-Post-Feed-scaled.webp)
 
-Then, a pop-up page will appear with various settings options for configuring the Post Feed.
+2. A pop-up page opens with the Post Feed settings.
 
-**Remember**, here, you need to select **"Update Post"** as the **Submission Type** to access all existing posts from your WordPress Site and make the form functional. Otherwise, the **Post Update** field won’t appear in your **Post Form**.
+3. Select **"Update Post"** as the **Submission Type**. This gives the form access to all existing posts from your WordPress site. Without it, the **Post Update** field does not appear in your **Post Form**.
 
 > [!Note]
 > Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/create-a-post-form).
 
-Once the setup is done, click the **Save Feed** button and your **Post Feed** will be configured. Now, your Post Update will function successfully!
+4. Click **Save Feed**. Your **Post Feed** is configured and the **Post Update** field works.
 
 ![Update Post Option](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/7.-Update-Post-option-scaled.webp)
 
 ## Embed the Form into Frontend
 
-To embed and display the form on a specific Page/Post on your site, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
-Once you complete the customization, click the **Save** button to save all your changes.
-Also, to see the form preview, click the **Preview** (eye) icon at the top right.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
 ![Save Post Update Field in](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/8.-Save-Form-scaled-2.webp)
 
 ## Preview of Post Update field
 
-Here is the preview of the added **Post Update** field in a Post Form.
-Now, click the **Arrow Icon** to view all available posts on your site and select the one you need.
+Here is the Post Form with the **Post Update** field added.
+Click the **Arrow Icon** to view all available posts on your site and select one.
 
 ![Preview Post Update Field in](/images/form-fields/post-taxonomy-fields/add-post-update-field-in-post-forms/9.-Form-Preview-scaled.webp)
-
-This way you can easily add the **Post Update** fields in Fluent Forms!

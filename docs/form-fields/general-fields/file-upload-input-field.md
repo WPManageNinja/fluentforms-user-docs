@@ -4,7 +4,7 @@ description: "The File Upload input field in Fluent Forms allows users to submit
 
 # File Upload Input Field
 
-The **File Upload** input field in [Fluent Forms](https://fluentforms.com/) allows users to submit various file types directly through a form. This feature is ideal for document submissions, job applications, customer support, and more.
+The **File Upload** input field in [Fluent Forms](https://fluentforms.com/) lets users submit various file types through your form. Use it for document submissions, job applications, customer support, and more.
 
 > [!Note]
 > The **File Upload** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -13,21 +13,21 @@ The **File Upload** input field in [Fluent Forms](https://fluentforms.com/) allo
   <iframe src="https://www.youtube.com/embed/bXbTbNPM_4k" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Adding File Upload Field
+## Adding File Upload Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 ![Edity Fluent Forms](/images/form-fields/general-fields/file-upload-input-field/edity-form-01-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Select the desired **File Upload** field by clicking on it or **Dragging and Dropping** it into your editor.
+Click the **File Upload** field, or drag and drop it into your editor.
 
 ![File Upload Input Field step](/images/form-fields/general-fields/file-upload-input-field/new-6-scaled.webp)
 
 ## Customizing the File Upload Field
 
-A file upload field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - File Upload Options
 
@@ -37,21 +37,21 @@ A file upload field has been added. You can edit this field by **hovering over i
 
 ### File Upload Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **File Upload** field.
+These options in the **Customize** tab configure the **File Upload** field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **File Upload** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **File Upload** field. Enter text that explains the purpose of the field.
 
-**B. Button Text:** This is the text users will see on the button that allows users to browse their local directory and choose an image file.
+**B. Button Text:** The text on the button users click to browse their local directory and choose an image file.
 
 Example: *“Choose File”* or *“Upload Image”*.
 
-**C. Upload Button Interface:** You can choose the upload button Dropzone or a regular Button that shows off your user when they fill the form. 
+**C. Upload Button Interface:** Choose a regular **Button** or a **Dropzone** as the upload interface users see on the form.
 
-**D. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**D. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**E. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.   
+**E. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**F. Required:** Decide whether users must select at least one option before submission.
+**F. Required:** Turn on **Required** to make users upload at least one file before they submit.
 
 **G. Max File Size:** Set a size limit for uploaded images.
 
@@ -61,15 +61,15 @@ Example: *“Choose File”* or *“Upload Image”*.
 
 **H. Global Error Message:** Customize the warning message if the uploaded image exceeds the limit.
 
-If you want to add a **Custom Error Message**, you can disable the **Global Error Message** by clicking the **Radio** button on the right.
+To add a **Custom Error Message**, disable the **Global Error Message** with the **Radio** button on the right.
 
 **I. Max Files Count:** Set the number of images a user can upload.
 
 **J. Global Error Message:** Define the error message if users exceed the allowed number of uploads.
 
-If you want to add a **Custom Error Message**, you can disable the **Global Error Message** by clicking the **Radio** button on the right.
+To add a **Custom Error Message**, disable the **Global Error Message** with the **Radio** button on the right.
 
-**K. Allowed Files:** Defines which file formats your users can upload by clicking the **Checkbox**.
+**K. Allowed Files:** Check the file formats your users can upload:
 
 - Images (jpg, png, gif, bmp)
 
@@ -85,31 +85,31 @@ If you want to add a **Custom Error Message**, you can disable the **Global Erro
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**A. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **B. Element Class:** Add custom CSS classes to the input field.
 
-**C. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**C. Help Message:** Add text that appears as a help message for the user.
 
-**D. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**D. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**E. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**E. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
-**F. File Location Type:** Choose the location where uploaded files are stored. You can select one option below.
+**F. File Location Type:** Choose where Fluent Forms stores uploaded files. Select one option:
 
 - As Per Global Settings (default storage location).
 
-- Custom (lets you specify a custom storage path).
+- Custom (shows a **Save Uploads in** option, where you choose **Fluent Forms Default** or **Media Library**).
 
 ![Advanced Options](/images/form-fields/general-fields/file-upload-input-field/Advanced-Options-05-4-scaled.webp)
 
 ### Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save File Upload Input Field](/images/form-fields/general-fields/file-upload-input-field/Save-form-06-5-scaled.webp)
 
@@ -118,5 +118,3 @@ To integrate and display the form on a specific Page or post, **copy** the **Sho
 Here is the **Preview** of the **Form** to test the **File** upload functionality.
 
 ![Preview File Upload Input Field](/images/form-fields/general-fields/file-upload-input-field/Preview-08-1.webp)
-
-The **File Upload Field** in Fluent Forms is a powerful tool for efficiently collecting different files.

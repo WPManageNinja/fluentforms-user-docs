@@ -4,14 +4,14 @@ description: "The Quiz Score field in Fluent Forms is an Advanced Hidden Field t
 
 # Quiz Score
 
-The **Quiz Score** field in Fluent Forms is an **Advanced** [Hidden Field](/hidden-input-field) that calculates and stores the total score for a quiz or specific quiz questions. 
+The **Quiz Score** field in Fluent Forms is an **Advanced** [Hidden Field](/hidden-input-field) that calculates and stores the total score for a quiz or specific quiz questions.
 
-This guide will walk you through adding and customizing the **Quiz Score Input** field in Fluent Forms.
+This guide shows you how to add and customize the **Quiz Score Input** field in Fluent Forms.
 
 > [!Note]
 > The **Quiz Score** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
-To use this field, you must first **Enable the Quiz Module**. For configuration details, read the [Quiz Module documentation](/quiz-module).
+To use this field, first enable the **Quiz Module**. For configuration details, read the [Quiz Module documentation](/quiz-module).
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/bPjDXR0y_Oo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -19,22 +19,22 @@ To use this field, you must first **Enable the Quiz Module**. For configuration 
 
 ## Adding a Quiz Score Input Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit Quiz Score](/images/form-fields/advanced-fields/quiz-score/Form-Edit-01-3-scaled.webp)
 
-Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the **Quiz Score Input** field by clicking or dragging it and dropping it into your editor.
+Click the **Quiz Score Input** field, or drag and drop it into your editor.
 
 ![Adding Quiz Score](/images/form-fields/advanced-fields/quiz-score/adding-quiz-score-02-scaled.webp)
 
 ## Customizing the Quiz Score Field
 
-Once you add the **Quiz Score Input** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
+After you add the **Quiz Score Input** field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these options:
 
 - Quiz Score Field Options
 
@@ -44,50 +44,52 @@ Once you add the **Quiz Score Input** field, you can customize it by hovering ov
 
 ### Quiz Score Field Options
 
-Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Quiz Score Input** field.
+These options in the **Customize** tab configure the **Quiz Score Input** field.
 
-**A. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
+**A. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**C. Select Score Type:** The **Quiz Score** field offers several quiz score types, which you can select from the dropdown on the right side of the **Customize**. 
+**C. Select Score Type:** Select a quiz score type from the dropdown on the right side of the **Customize** tab:
 
-- **Total Point:** It will define the Total Points of the answers here and evaluate the score of all the selected answers. You must Enable Advance Scoring From Quiz Settings to use this Score Type.
+- **Total Point:** Defines the total points of the answers and evaluates the score of all the selected answers. You must enable Advance Scoring in Quiz Settings to use this score type.
 
-- **The Correct Question:** Counts the number of correct answers submitted. For example, if you have 3 questions and the user has submitted 2 correct answers, the score will be 2.
+- **Total Correct Questions:** Counts the number of correct answers submitted. For example, if you have 3 questions and the user submits 2 correct answers, the score is 2.
 
-- **Grade System:** Results will be shown as a Grade when the score type is set as a Grade System in the Quiz score input field.   
+- **Fraction Point:** Shows the score as a fraction of the total. For example, 6/10.
 
- For example, Set the minimum and maximum value for any Grade Label; if your score falls between the minimum and maximum range (75) of the B grade label, your result will be B. If your score is not included in the Grade System, your result will say Not Graded.
+- **Grade System:** Shows the result as a grade when you set the score type to Grade System.
 
-- Personality: You can create a Personal Quiz with Fluent Form. To learn more, read the [Personality Quiz Form documentation](/creating-a-personality-quiz-form).
+ For example, set the minimum and maximum value for each grade label. If your score falls between the minimum and maximum range (75) of the B grade label, your result is B. If your score is not in the Grade System, your result says Not Graded.
+
+- **Percentage:** Shows the score as a percentage. For example, 70%.
+
+- **Personality Quiz:** Create a personality quiz with Fluent Forms. To learn more, read the [Personality Quiz Form documentation](/creating-a-personality-quiz-form).
 
 ![Quiz Score Field](/images/form-fields/advanced-fields/quiz-score/Quiz-Score-field-04-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. All the **Settings** under the **Advanced Options** tab mentioned in the screenshot are briefly explained below –
+Advanced settings let you adapt the field to specific use cases. The settings under **Advanced Options** are:
 
-**A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**A. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
 ![Unnamed](/images/form-fields/advanced-fields/quiz-score/unnamed-2-2.webp)
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Quiz Score](/images/form-fields/advanced-fields/quiz-score/Save-Form-05-7-scaled.webp)
 
 ### Preview of Added Quiz Score Field
 
-Here is the preview of the added **Quiz Score** field under the Form. 
+Here is the form with the **Quiz Score** field added.
 
 ![Preview Quiz Score](/images/form-fields/advanced-fields/quiz-score/preview-01.webp)
 
 After submitting the form, see the screenshot below.
 
 ![Preview Quiz Score](/images/form-fields/advanced-fields/quiz-score/preview-02.webp)
-
-Congratulations! You have successfully added a Quiz Score field to your Fluent Forms form.

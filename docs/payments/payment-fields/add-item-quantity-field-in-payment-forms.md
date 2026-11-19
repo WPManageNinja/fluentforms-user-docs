@@ -4,28 +4,28 @@ description: "The Item Quantity field allows users to choose how many of an item
 
 # Add Item Quantity Field in Payment Forms
 
-The **Item Quantity** field allows users to choose how many of an item or product they want to purchase. Use it on payment forms when you sell the same product in variable amounts.
+The **Item Quantity** field lets users choose how many of an item or product they want to buy. Use it on payment forms when you sell the same product in variable amounts.
 
 This guide shows you how to add and configure the **Item Quantity** field in Fluent Forms.
 
 ## Add Item Quantity Field
 
-Go to **Forms** from the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form editor.
+Go to **Forms** in the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form editor.
 
-For example, I choose an existing form to show the whole process.
+This guide uses an existing form to show the whole process.
 
 ![Open Item Quantity Field in](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/1.-Open-desired-form-2-scaled.webp)
 
-Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Item Quantity** field.
+On the **Editor** page, go to **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Item Quantity** field.
 
 > [!Note]
 > Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/create-a-payment-form).
 
 ![Add Item Quantity Field](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/2.-Add-Item-Quantity-field-scaled.webp)
 
-You can see that an **Item Quantity** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
+The **Item Quantity** field now appears in the form. To edit it, **hover over it** and click the **Pencil Icon**.
 
-It will take you to the **Customize** tab on the right side and offer you the following options for customizing the Item Quantity field. 
+The **Customize** tab opens on the right side with these options:
 
 **1. Item Quantity**
 
@@ -35,51 +35,53 @@ It will take you to the **Customize** tab on the right side and offer you the fo
 
 ### 1. Item Quantity
 
-Each option in the **Item Quantity** tab is explained below.
+The **Item Quantity** tab has these options:
 
-**A. Element Label**: This is the field title the users will see when filling out the **Item Quantity** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label**: The field title users see when they fill out the **Item Quantity** field. Enter any text that helps users understand the field.
 
-**B. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement**: Sets where the label appears. The options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option. 
+**C. Admin Field Label**: A field title shown only to admin users. Use it to show a different label when admins view the form submissions.
 
-**D. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the **Item Quantity** field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
+**D. Placeholder**: Text that tells users what the **Item Quantity** field is for. It is the equivalent of the HTML input placeholder attribute. Users see this text while the field is empty.
 
-**E. Product Field Mapping**:  You need to map the [Payment Item](/add-payment-item-field-in-payment-forms) from the item/s added to your form for which you want to use this Item Quantity field. Remember, ensure that you use a separate "Item Quantity" field for each "Payment Item" field.”
+**E. Product Field Mapping**: Map the [Payment Item](/add-payment-item-field-in-payment-forms) that this Item Quantity field applies to. Use a separate **Item Quantity** field for each **Payment Item** field.
 
-**F. Required**: Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in.
+**F. Required**: Select **Yes** to make the field mandatory for a successful form submission. Select **No** to keep it optional.
 
-**G. Min Value**: With this option, you can specify the minimum quantity users must select. You can also, add the error message by enabling the Toggle button.
+**G. Min Value**: Sets the minimum quantity users must select. Turn on the toggle to add an error message.
 
-**H. Max Value**: With this option, you can specify the maximum quantity users can select. You can also, add the error message by enabling the Toggle button.
+**H. Max Value**: Sets the maximum quantity users can select. Turn on the toggle to add an error message.
 
 ![Item Quantity Customizarion Tab](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/4.-Item-Quantity-customizarion-tab-scaled.webp)
 
 ### 2. Advanced Options
 
-Each option in the **Advanced Options** tab is explained below.
+The **Advanced Options** tab has these settings:
 
-**A. Default Value:** You can set the default quantity for selecting your items.
+**A. Default Value:** Sets the default quantity.
 
-**B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
+**B. Container Class**: Adds your custom CSS classes to the field's wrapper.
 
-**C. Element Class**: Use this option to add your custom CSS for a specific input field of a form.
+**C. Element Class**: Adds your custom CSS classes to this input field.
 
-**D. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
+**D. Help Message**: Text shown to the user as a help message. To learn more, read this Documentation.
 
-**E. Step**: Please provide the step attribute for this field.
+**E. Step**: Enter the step attribute for this field.
 
-**F. Prefix Label**: Use this option to provide a Prefix Label in your input field. It will show in the input field as a Prefix label.
+**F. Prefix Label**: Text shown as a prefix in the input field.
 
-**G. Suffix Label**: Use this option to provide a Suffix Label in your input field. It will show in the input field as a Suffix label.
+**G. Suffix Label**: Text shown as a suffix in the input field.
 
-**H. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**H. Name Attribute**: The HTML name attribute of the input field. You do not need to change it.
 
-**I. Conditional Logic**: This option allows the Item Quantity field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
+**I. Conditional Logic**: Shows or hides the Item Quantity field based on submission values and your conditional logic rules. To learn more, see [Set Up Forms with Conditional Logic](/set-up-forms-with-conditional-logic).
+
+**J. Calculation Field Settings**: Turn this on and enter a formula expression to calculate the quantity from other numeric fields. To learn more, see [Numeric Calculation in Fluent Forms](/numeric-calculation).
 
 ![Advanced Options](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/5.-Advanced-Options-2-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/add-subscription-field-in-payment-forms) field.
+After you customize the field, add the [Payment Method](/add-payment-method-field-in-payment-forms) field to collect payments. To collect recurring payments, add the [Subscription](/add-subscription-field-in-payment-forms) field.
 
 > [!Note]
 > Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings).
@@ -88,16 +90,14 @@ Once you complete all the customization, don’t forget to add the [Payment Meth
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all changes you made. Also, to see the form preview, click the **Preview** button in the middle.
+Click **Save Form** to save your changes. To see a preview, click **Preview** in the form editor.
 
-To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
+To display the form on a Page or Post, copy the **Shortcode** from the top right side and paste it into the Page or Post.
 
 ![Save Item Quantity Field in](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/7.-Save-Form-1-scaled.webp)
 
-### Preview of Item Quantity field
+### Preview of Item Quantity Field
 
-Here, is the preview of the added **Item Quantity** field under the Payment Form. 
+The preview below shows the **Item Quantity** field in the payment form.
 
 ![Preview Item Quantity Field in](/images/payments/payment-fields/add-item-quantity-field-in-payment-forms/8.-Form-Preview-1.webp)
-
-This way you can easily add the **Item Quantity** fields in Fluent Forms!

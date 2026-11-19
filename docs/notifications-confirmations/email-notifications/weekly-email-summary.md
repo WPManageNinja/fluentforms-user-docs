@@ -4,24 +4,24 @@ description: "The Email Summaries feature sends a weekly report of your form act
 
 # Weekly Email Summary
 
-The **Email Summaries** feature sends a weekly report of your form activity so you can track submissions and see how your forms are performing without opening the dashboard every day. For a live, on-demand breakdown of activity, see [Submission Reports](/submission-reports).
+The **Email Summaries** feature sends a weekly report of your form activity, so you can track submissions and form performance without opening the dashboard every day. For a live breakdown of activity, see [Submission Reports](/submission-reports).
 
 This guide shows you how to enable weekly email summaries, choose who receives them, and set the delivery day and subject line.
 
 ## Set Up Email Summaries
 
-Go to **Global Settings** from the Fluent Forms navbar, open **General** in the left sidebar, and select **Email Summaries**.
+Go to **Global Settings** in the Fluent Forms navbar, open **General** in the left sidebar, and select **Email Summaries**.
 
-By default, **Enable Email Summaries** is turned on. The **Site Admin** receives the report every **Monday**. Turn the toggle off anytime if you do not want weekly summaries.
+The **Email Summaries** toggle is on by default. The **Site Admin** receives the report every **Monday**. Turn the toggle off to stop weekly summaries.
 
-Configure these options to match your needs:
+Set these options:
 
-- **Send To:** Choose **Site Admin** or **Custom Email**. To send summaries to other addresses, select **Custom Email** and enter one or more email addresses. Separate multiple addresses with a comma.
+- **Status:** Choose **Site Admin** or **Custom Email**. To send summaries to other addresses, select **Custom Email** and enter one or more email addresses. Separate multiple addresses with a comma.
 
-- **Get Reports On:** Select the day of the week when the summary email should be sent.
+- **Get Reports On:** Select the day of the week to send the summary email.
 
 - **Subject Line:** Enter the subject line for the weekly summary notification.
 
-When you finish, click **Save** to apply your changes.
+Click **Save**.
 
 ![Email Summaries Fluent Forms](/images/notifications-confirmations/email-notifications/weekly-email-summary/1.-Email-Summaries-scaled.webp)

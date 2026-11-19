@@ -4,7 +4,7 @@ description: "Paddle is a payment processing platform that allows Fluent Forms p
 
 # Integrate Paddle
 
-[Paddle](http://paddle.com) is a payment processing platform that allows **Fluent Forms** payment options and a smooth and secure payment experience. This article will guide you through integrating **Paddle** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
+[Paddle](http://paddle.com) is a payment processing platform that gives **Fluent Forms** secure payment options. This article shows you how to connect **Paddle** to your **WordPress** site with the **Fluent Forms** plugin.
 
 > [!Note]
 > **Paddle** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -13,118 +13,118 @@ description: "Paddle is a payment processing platform that allows Fluent Forms p
 
 Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Turn on the toggle next to **Paddle** to enable it globally for all forms, then click **Manage** to open its settings.
+Turn on the toggle next to **Paddle** to enable it for all forms, then click **Manage** to open its settings.
 
 ![Enable Paddle Payment Method Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/1.-Enable-Paddle-Payment-Method-scaled.webp)
 
 ## Configure Paddle with Fluent Forms
 
-Once you enable the **Paddle**, all the required settings will appear to configure the Paddle with Fluent Forms. 
+After you enable **Paddle**, its settings appear.
 
-Before starting the configuration, select any **Payment Mode** between **Test** (for test payments) and **Live** (for real payments) as both options follow the same process, e.g., I choose the **Test Mode**.
+Select a **Payment Mode**: **Test** (for test payments) or **Live** (for real payments). Both follow the same process. This guide uses **Test** mode.
 
-Then, you need to obtain the **API  Key** and **Client Token** from your **Paddle Account**.
+Then get the **API Key** and **Client Token** from your **Paddle Account**. Paddle uses one **Client Token** for the connection, not one per mode.
 
 ![Test API Key](/images/payments/payment-gateways/integrate-paddle/2.-Test-API-Key--scaled.webp)
 
 ### Get the API Key and Client Token from Paddle
 
-First, log in to your [Paddle Account](https://sandbox-login.paddle.com/login). If you do not have an account, sign up from [here](https://www.paddle.com/get-started). 
+Log in to your [Paddle Account](https://sandbox-login.paddle.com/login). If you do not have an account, [sign up](https://www.paddle.com/get-started).
 
 #### Generating API Key
 
-Once you log in to the **Paddle Dashboard**, open the **Developers Tool** dropdown list from the left sidebar, and click **Authentication**.
+In the **Paddle Dashboard**, open the **Developers Tool** dropdown in the left sidebar and click **Authentication**.
 
-Now, go to the **API keys** section and click the **+ Generate API key** button.
+Go to the **API keys** section and click **+ Generate API key**.
 
 ![Generate API Key Button](/images/payments/payment-gateways/integrate-paddle/3.-Generate-API-Key-button-scaled.webp)
 
-Now provide the **Name** and **Description** for your API key, click the **Generate** button, and your desired API key will be generated.
+Enter a **Name** and **Description** for your API key, then click **Generate**.
 
 ![Generate Button](/images/payments/payment-gateways/integrate-paddle/4.-Generate-button-1.webp)
 
-Here, you can see the newly generated API Key. Now, click the **Three-dot-icon** and press the **Copy key** button and your desired API Key will be copied.
+The new API key appears. Click the **Three-dot-icon** and press **Copy key** to copy it.
 
 ![Copy API Key](/images/payments/payment-gateways/integrate-paddle/5.-copy-API-key.webp)
 
 #### Generating Client Token
 
-Now, go to the **Client-side tokens** section and click the **+ Generate client-side token** button.
+Go to the **Client-side tokens** section and click **+ Generate client-side token**.
 
 ![Generate Client Side Token](/images/payments/payment-gateways/integrate-paddle/6.-Generate-Client-Side-Token.webp)
 
-Now provide the **Name** and **Description** for your client token, click the **Generate** button, and your desired client token will be generated. 
+Enter a **Name** and **Description** for your client token, then click **Generate**.
 
 ![Generate Token Button](/images/payments/payment-gateways/integrate-paddle/7.-Generate-token-button.webp)
 
-Here, you can see the newly generated Client Token. Now, click the **Three-dot-icon** and press the **Copy Token** button and your desired Client Token will be copied.
+The new Client Token appears. Click the **Three-dot-icon** and press **Copy Token** to copy it.
 
 ![Copy Token Fluent Forms](/images/payments/payment-gateways/integrate-paddle/8.-Copy-Token.webp)
 
 ### Setup Default Payment Link
 
-Setting up a **default payment link** is essential for processing a successful payment transaction.
+A **default payment link** is required to process a payment successfully.
 
-Now, open the **Checkout** dropdown list from the left sidebar, click the **Checkout Settings** option, go to the **General** tab, and provide your **Website URL** into the **Default Payment Link** field.
+Open the **Checkout** dropdown in the left sidebar, click **Checkout Settings**, go to the **General** tab, and enter your **Website URL** in the **Default Payment Link** field.
 
-Once you’ve entered the link, click the **Save** button, and all payment links you send to your clients will use this domain to show the payment form.
+Click **Save**. All payment links you send to your clients now use this domain to show the payment form.
 
 ![Deafult Payment Link](/images/payments/payment-gateways/integrate-paddle/9.-Deafult-payment-link-scaled.webp)
 
 ## Connect Paddle with Fluent Forms
 
-**Now,** return to the **Paddle** page under **Payment Settings → Payment Methods** (click **Manage**).
+Return to the **Paddle** page under **Payment Settings → Payment Methods** (click **Manage**).
 
-Then, paste the **Key** and **Token** you copied from **Paddle** into the **API Key** and **Client Token** fields respectively.
+Paste the **Key** and **Token** you copied from **Paddle** into the **API Key** and **Client Token** fields.
 
-Finally, click the **Save** button and your Paddle account will be configured with **Fluent Forms** for your WordPress Site.
+Click **Save**. Fluent Forms now connects to your Paddle account.
 
 ![Paste API Key And Client Token](/images/payments/payment-gateways/integrate-paddle/10.-Paste-API-key-and-Client-Token-scaled.webp)
 
 ## Integrate Paddle in Forms
 
-Once you finish setting up your **Paddle** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields are added).
+You can add **Paddle** to any existing **Payment Form**, which is a form with [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields.
 
-First, go to the **Editor** page of your desired form by clicking its **Edit** option.
+Go to the **Editor** page of your form by clicking its **Edit** option.
 
 ![Open Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/Open-desired-form-2-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by clicking the **Pencil Icon**.
+On the **Editor** page, click the **Pencil Icon** on the **Payment Method** field to open the **Input Customization** menu on the right side.
 
-Now, go to the **Payment Methods**, check the **Paddle** option, click the **Dropdown Arrow,** and you will get the option to change the **Method Label** based on your preference.
+Go to **Payment Methods**, check the **Paddle** option, and click the **Dropdown Arrow**. You can change the **Method Label** there.
 
 ![Add Paddle Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/11.-Add-paddle-in-desired-form-scaled.webp)
 
-Once you complete the edit, press the **Save** button to save all the changes.
+Click **Save** to save your changes.
 
-Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
+To display the form on a **Page/Post**, copy the **Shortcode** from the top right side and paste it into the Page or Post.
 
-Also, to see the **Preview** of the form, click the **Preview** button in the middle.
+To see a preview of the form, click **Preview** in the form editor.
 
 ![Save Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/12.-Save-form-scaled.webp)
 
 ### Preview of Added Payment Method
 
-Here is the **preview** of the **Payment Method** that we just added. Once a user clicks the **Submit Form** button it will redirect to **Paddle** to complete the payment process. 
+The preview below shows the **Payment Method** you added. When a user clicks **Submit Form**, Fluent Forms redirects them to **Paddle** to complete the payment.
 
 ![Submit Fluent Forms](/images/payments/payment-gateways/integrate-paddle/13.-Submit-form.webp)
 
-Here is the preview of the **Paddle Checkout Modal**. 
+The next image shows the **Paddle Checkout Modal**.
 
 ![Preview Paddle Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/14.-Preview-of-Paddle.webp)
 
 ## Form Specific Paddle Settings
 
-You can also customize the **Paddle Settings** for a specific form according to your needs.
+You can customize the **Paddle Settings** for a specific form.
 
-To customize the **Paddle Settings**, click **Forms** in the **Fluent Forms Navbar**, then click the **Settings** (gear) icon of your desired form.
+Click **Forms** in the **Fluent Forms Navbar**, then click the **Settings** (gear) icon of your form.
 
 ![Open Settings Integrate Paddle](/images/payments/payment-gateways/integrate-paddle/Open-Form-Settings-2-scaled.webp)
 
-Then click **Payment Settings** in the left sidebar, and scroll down to **Paddle Settings**.
+Click **Payment Settings** in the left sidebar and scroll down to **Paddle Settings**.
 
-Here, you can select which type of payment process can be done through Paddle; **Non-catalog, Catalog Item,** or **Non-catalog prices for an existing product**
+Select the type of payment process Paddle handles: **Non-catalog, Catalog Item,** or **Non-catalog prices for an existing product**.
 
-Do not forget to click the **Save** button to save all your changes. 
+Click **Save** to save your changes.
 
 ![Specific Paddle Payment Settings](/images/payments/payment-gateways/integrate-paddle/15.-Form-specific-Paddle-payment-settings-scaled.webp)
