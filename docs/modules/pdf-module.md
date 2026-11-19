@@ -64,7 +64,7 @@ Click a template to open the feed settings.
 
 ## Customize the PDF Feed
 
-The feed settings page has two tabs, **PDF Content** and **Appearance**.
+The feed settings page has two tabs, **PDF Content** and **Appearance**. The fields on the **PDF Content** tab depend on the template you chose. The steps below cover the **General** template. For the **Certificate** template, see [Certificate Template](#certificate-template).
 
 ### PDF Content
 
@@ -111,6 +111,54 @@ Scroll down for the **Watermark** and **Security** options.
 Click **Save** at the top right to add the feed to your form.
 
 ![Appearance tab with the Watermark and Security options](/images/modules/pdf-module/Appearance-09-scaled-2.webp)
+
+### Certificate Template
+
+The **Certificate** template builds a ready-made certificate from each submission. Its **PDF Content** tab has its own fields, grouped in cards, instead of the header, body, and footer editors. Fluent Forms fills most fields with default text, so you only change what you need.
+
+Start with the **Feed Title**, then fill in each card.
+
+**Header**
+
+- **Logo:** Click **Upload Media** to add an optional logo at the top.
+- **Title:** The main heading. The default is **Certificate of Achievement**.
+- **Intro Line:** The line above the recipient's name. The default is **This certificate is proudly presented to**.
+
+**Recipient & Award**
+
+- **Recipient:** The name on the certificate. It accepts shortcodes, such as `{inputs.name_1}`, so each certificate shows the name the user entered.
+- **Reason Line:** The line above the subject. The default is **For successfully completing**.
+- **Subject:** The course, award, or subject name.
+- **Score Line:** Fluent Forms fills this in automatically for quiz forms. Clear it to hide the score.
+- **Description:** An optional paragraph under the subject.
+
+![Certificate template with the Header and Recipient & Award cards](/images/modules/pdf-module/certificate-template-settings-01.webp)
+
+**Signature & Issuer**
+
+- **Issuer / Organisation:** An optional organization name above the date and signature.
+- **Signature Image:** Upload a signature image.
+- **Signature Label:** The text under the signature. The default is **Authorized Signature**.
+- **Date:** The default `{submission.created_at}` shows the submission date. Clear it to hide the date.
+- **Seal / Badge:** An optional seal or badge image beside the signature.
+- **Certificate ID:** An optional certificate number at the bottom. Use a shortcode such as `{inputs.certificate_no}` to pull it from a form field. Leave it empty to hide it.
+
+**Border & Background**
+
+- **Certificate Border:** Choose **Double**, **Single**, or **None**.
+- **Divider Style:** Choose **Diamonds**, **Line**, or **None**.
+- **Background Image:** Upload an image to use as the certificate background.
+- **Background Opacity:** Enter a value between **1** and **100**.
+- **Background Fit:** Choose **Stretch**, **Contain**, or **Repeat**.
+
+**Download & Shortcode**
+
+- **Allow Download:** Select **Yes** to let users download the certificate. Only logged-in users can download it.
+- **Shortcode:** Copy this shortcode into the confirmation message to show a download link.
+
+![Certificate template with the Signature & Issuer and Border & Background cards](/images/modules/pdf-module/certificate-template-settings-02.webp)
+
+Open the **Appearance** tab to change the paper size, fonts, and colors. A certificate defaults to **Landscape**, the **Dejavu Sans** font, and a gold accent color. Click **Save** to add the feed.
 
 ### Edit or Delete a PDF Feed
 
