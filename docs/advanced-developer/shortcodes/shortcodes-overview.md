@@ -4,26 +4,30 @@ description: "Fluent Forms shortcodes allow you to add different types of form d
 
 # Shortcodes Overview
 
-Fluent Forms shortcodes allow you to add different types of form displays on your WordPress site. They help make your website dynamic and user-friendly.
+Fluent Forms shortcodes let you display forms and show form data anywhere on your WordPress site. This page lists every shortcode and smart code group, explains what each one does, and links to the full guide.
 
-Here are the types of Fluent Forms shortcodes:
+## Form Shortcodes
 
-In this article, below are explanations of what type of shortcode and their use case purpose. 
+Use these shortcodes in pages, posts, and widgets.
 
-### Smart Shortcode
+- `[fluentform id="1"]` displays a form. You can also set `title`, `css_classes`, `permission`, `permission_message`, `type` (`classic` or `conversational`), and `theme`.
+- `[fluentform_modal]` (Pro) shows a form in a popup. See [Modal Popup (Lightbox)](/modalpopuplightbox).
+- `[fluentform_survey]` (Pro) shows survey and poll results. See [Surveys and Polls](/surveys-and-polls).
+- `[fluentform_payments]` (Pro) lists the payments and subscriptions of the logged-in user. Use `type`, `payment_statuses`, and `subscription_statuses` to filter the list. See [Configure Payment Settings](/configure-payment-settings).
 
-This shortcode collects data from your website, user profiles, post details, and FluentCRM contacts. Want to learn more? Read the full [Smart Shortcodes guide](/form-editor-smart-codes).
+## Helper Shortcodes
 
-### Confirmation Settings Shortcode
+Helper shortcodes collect and filter data, count submissions, check payment statuses, and display URL parameters. `[fluentform_info]`, `[ff_get]`, and `[ff_entry]` belong to this group. Read [Using Helper Shortcodes](/using-helper-shortcodes).
 
-Displays submitted data dynamically on your website. You can use it for confirmation pages, emails, PDFs, quizzes, form submission details, post details, and payment reports. Check out the [article](/shortcodes-in-confirmation-settings) for more details.
+## Conditional Shortcodes (Pro)
 
-### Helper Shortcode
+`[ff_if]` and `[ff_sub_if]` show or hide content based on user selections. You can use them in confirmation messages, email notifications, and PDFs. Read [Conditional Shortcodes](/conditional-shortcodes).
 
-This shortcode helps you collect and filter data, count submissions, check payment statuses, and display URL parameters after form submissions. Learn more in the [article](/using-helper-shortcodes).
+## Smart Codes
 
-### Conditional Shortcode
+Smart codes are placeholders such as `{user.email}` that Fluent Forms replaces with real values.
 
-Used in form confirmations, email notifications, and PDFs to show or hide content based on user selections. These shortcodes work using fields, values, and conditions. Read this [article](/conditional-shortcodes) for a deeper understanding.
+- Use them inside the form editor to collect data from your website, user profiles, post details, and FluentCRM contacts. Read [Smart Codes in the Form Editor](/form-editor-smart-codes).
+- Use them in confirmation messages, emails, and PDFs to show submitted data. Read [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings).
 
-Explore the powerful and easy-to-use shortcode features in Fluent Forms.
+For default values that change with another field, see [Dynamic Default Value](/dynamic-default-value).
