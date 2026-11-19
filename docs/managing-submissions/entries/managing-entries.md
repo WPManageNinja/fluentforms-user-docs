@@ -12,7 +12,9 @@ This article shows you how to view, manage, and export entries in Fluent Forms.
 
 To open the Entries Dashboard, go to the **Fluent Forms Dashboard** and click the **Entries** tab in the top menu. All your form entries appear in one place.
 
-The dashboard shows all global entries, with summary cards for **Total Entries**, **Unread Entries**, and **Read Entries**. Use the **All Forms** dropdown to filter entries by form. Use the tabs above the table (**All**, **Unread**, **Read**, **Favorites**, **Spam**, and **Trashed**) to organize your submissions. With [Admin Approval](/admin-approval-feature) (Pro) on, extra **Unapproved**, **Approved**, and **Declined** tabs appear. On forms with payments, you can also filter by payment status and payment method.
+The dashboard shows all global entries, with summary cards for **Total Entries**, **Unread Entries**, and **Read Entries**. Use the **All Forms** dropdown to filter entries by form. Use the tabs above the table (**All**, **Unread**, **Read**, **Favorites**, **Spam**, and **Trashed**) to organize your submissions. With [Admin Approval](/admin-approval-feature) (Pro) on, extra **Unapproved**, **Approved**, and **Declined** tabs appear. 
+
+On forms with payments, you can also filter by payment status and payment method.
 
 Click the **Search** icon in the table toolbar to find specific form entries. The global **Entries** screen shows the last 30 days by default.
 
@@ -107,7 +109,11 @@ The details also show the source URL, browser, device, and user IP. If you use F
 
 **Resend and Replay (Pro):** Use the resend option to send the email notification again to the configured recipients or a custom email address. You can also replay an integration feed. Check **Check Conditional Logic when replaying a feed action** to apply the feed's conditions again.
 
-**Payment Details:** For entries with a payment, the entry page shows **Order Details** and **Payment Details**, such as the card's last four digits, transaction ID, and billing and shipping address. Click **Edit Transaction** to update a transaction. For subscriptions, you can see the billing cycle and times billed, and click **Cancel Plan** to cancel. To record a refund, enter the **New Refund Amount** and a **Refund Note**. The amount cannot exceed the payment total. Recording a refund does not refund the money. You must refund the payment at your payment provider.
+**Payment Details:** For entries with a payment, the entry page shows **Order Details** and **Payment Details**, such as the card's last four digits, transaction ID, and billing and shipping address. 
+
+Click **Edit Transaction** to update a transaction. For subscriptions, you can see the billing cycle and times billed, and click **Cancel Plan** to cancel. 
+
+To record a refund, enter the **New Refund Amount** and a **Refund Note**. The amount cannot exceed the payment total. Recording a refund does not refund the money. You must refund the payment at your payment provider.
 
 To change the submission status, use the **Change Status to** dropdown.
 
@@ -125,10 +131,14 @@ To export from a form's **Entries** page, click **Export** at the top, then choo
 
 ![Export options on the Entries page](/images/managing-submissions/entries/managing-entries/unnamed-5.webp)
 
-The **Export** button appears on a form's **Entries** page, not on the global **Entries** screen. It opens a **Select fields for export** dialog with **Select All** and **Other Fields**. You can also choose fields from **Tools** > **Export Entries**. If you don't select any fields, Fluent Forms exports the default entry columns instead of every field in the form.
+The **Export** button appears on a form's **Entries** page, not on the global **Entries** screen. It opens a **Select fields for export** dialog with **Select All** and **Other Fields**. 
 
-Next steps:
+If you don't select any fields, Fluent Forms exports the default entry columns instead of every field in the form.
 
-- Learn how to [search and filter entries](/search-and-filter-form-entries).
-- Learn how to [edit entries](/edit-user-submitted-entries).
-- View [visual reports](/visual-representation-of-form-entries).
+To export without opening the form, go to **Tools** in the top navigation bar and click **Export Entries** in the left menu. On the **Export Submission Data** card, choose the form from the **Select Form** dropdown. 
+
+Then select a **File Type**: **CSV**, **Excel (xslx)**, **ODS**, or **JSON (.json) Data**. Click **Export Entries** to download the file. This page has no field selection.
+
+![Export Entries page under Tools with the file type and Export Entries button highlighted](/images/managing-submissions/entries/managing-entries/export-entries-tools.webp)
+
+
