@@ -1,12 +1,12 @@
 ---
-description: "Fluent Forms lets you easily style your forms using custom CSS and JavaScript. Whether it’s adjusting buttons, fonts, or input fields, you have full…"
+description: "Fluent Forms lets you style your forms using custom CSS and JavaScript. Whether it’s adjusting buttons, fonts, or input fields, you have full…"
 ---
 
 # Styling/Custom CSS
 
-Fluent Forms lets you easily style your forms using custom CSS and JavaScript. Whether it’s adjusting buttons, fonts, or input fields, you have full control over how your forms look and behave. If you prefer a no-code approach, try the visual [Form Styler](/official-form-styler) instead.
+Fluent Forms lets you style your forms with custom CSS and JavaScript. You can adjust buttons, fonts, input fields, and more. If you prefer a no-code approach, use the visual [Form Styler](/official-form-styler) instead.
 
-In this guide, you’ll learn how to apply custom CSS and JavaScript to your Fluent Forms.
+This guide shows you how to apply custom CSS and JavaScript to your forms. You can also use the `{form_id}` placeholder when you save CSS as part of a Default Style Template in **Global Settings**.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/KlstfZbyVuw" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,21 +14,20 @@ In this guide, you’ll learn how to apply custom CSS and JavaScript to your Flu
 
 ## Accessing Custom CSS/JS Settings
 
-Go to **Forms** from the top menu and open the **Editor** page of your desired form by clicking the **Edit** button. 
+Go to **Forms** in the top menu and click **Edit** on your form to open the **Editor** page.
 
 ![Edit Fluent Forms Styling/Custom CSS](/images/design-styling/stylingcustom-css/Form-Edit-1-scaled.webp)
 
-Click **Configuration** in the top bar, expand **Appearance** in the left rail, and select **Custom CSS & JS**. You’ll see a field for adding custom CSS, along with your form's **unique class** (e.g. `.fluent_form_40`)
+Click **Configuration** in the top bar, expand **Appearance** in the left rail, and select **Custom CSS & JS**. You see a field for custom CSS and your form's **unique class** (for example, `.fluent_form_40`).
 
 ![Fluent Forms Styling/Custom CSS step](/images/design-styling/stylingcustom-css/02-5-scaled.webp)
 
 ## Using the Unique Form Class
 
-Each form is assigned a unique CSS class ( fluent_form_40), which is displayed in the Custom CSS section. Use this to apply styles to a specific form without affecting others.
+Each form has a unique CSS class (`fluent_form_40`), shown in the Custom CSS section. Use it to style one form without affecting others.
 
 ```
-
-Example:
+/* Example */
 .fluent_form_40 .ff_submit_btn {
     background-color: #0073e6;
     color: white;
@@ -38,35 +37,35 @@ Example:
 
 ## Customization Examples
 
-Please note that you need to replace the ‘.fluent_form_149’ from the code with your own form’s unique class.
+Replace `.fluent_form_40` in the code with your own form’s unique class.
 
-Here are some styling ideas you can apply to your form using CSS:
+Here are some styling ideas you can apply with CSS:
 
-**Submit Button Styling:** Change the button's background color, border, or hover effects.
+**Submit Button Styling:** Change the button's background color, border, or hover effect.
 
 ```
 
-/ *Change button style*/
-form.fluent_form_149 .ff-btn-submit {
-    background-color: #000000; / *change button background color* /
+/*Change button style*/
+form.fluent_form_40 .ff-btn-submit {
+    background-color: #000000; /*change button background color*/
     color: #ffffff; /*change button font color*/
     border-radius: 10px; /*change button round corners*/
     
 }
 
 /*Change button hover style*/
-form.fluent_form_149 .ff-btn-submit:hover {
+form.fluent_form_40 .ff-btn-submit:hover {
     background-color: #ff0606; /*change button background color on hover*/
     color: #000000; /*change button font color on hover*/
 }
 ```
 
-**Input Fields Styling:** Customize text boxes, dropdowns, or radio buttons.
+**Input Fields Styling:** Style text boxes, dropdowns, or radio buttons.
 
 ```
 
 /*input style*/
-form.fluent_form_149 .ff-el-form-control{
+form.fluent_form_40 .ff-el-form-control{
     padding: 6px 12px;  /*change padding*/
     background-color: #fff; /*change background color*/
     border: 1px solid #ced4da; /*change border width and color*/
@@ -74,31 +73,31 @@ form.fluent_form_149 .ff-el-form-control{
 }
 ```
 
-**Font styles:** Modify fonts to match your website’s branding.
+**Font styles:** Change fonts to match your site’s branding.
 
 ```
 
-form.fluent_form_149 .ff-el-form-control {
+form.fluent_form_40 .ff-el-form-control {
     font-size: 16px; /*change font size*/
     line-height: 1.5; /*change line height*/
     color: #495057; /*change font color*/
 }
 ```
 
-**Label styles:**  Modify labels to match your website’s branding.
+**Label styles:** Change labels to match your site’s branding.
 
 ```
 /*Change label styles*/
-form.fluent_form_149 .ff-el-input--label{
+form.fluent_form_40 .ff-el-input--label{
     font-size:22px; /*change label font size*/
     color:red; /*change label color*/
 }
 ```
 
-**Input Focus Color:** Highlight input fields when focused.
+**Input Focus Color:** Highlight input fields when they have focus.
 
 ```
-/*Change input border color when input is selected/focused* /
+/*Change input border color when input is selected/focused*/
 .ff-el-form-control:focus {
     border-color:red; 
     outline: none;
@@ -107,30 +106,30 @@ form.fluent_form_149 .ff-el-input--label{
 }
 ```
 
-**Step Button and Rating:** Redesign [multi-step](/creating-a-multi-step-form) navigation buttons and [rating stars](/ratings-input-field).
+**Step Button and Rating:** Restyle [multi-step](/creating-a-multi-step-form) navigation buttons and rating stars.
 
 ```
-/ *Change Rating Star Color* /
-form.fluent_form_149 .ff-el-ratings label.active svg {
+/*Change Rating Star Color*/
+form.fluent_form_40 .ff-el-ratings label.active svg {
     fill: red;
 }
 ```
 
-If you repeatedly get bored with the Step Button style, you can change that too.
+To restyle the step buttons, use this code:
 
 ```
 /*Change Step button styles*/
-form.fluent_form_149 .step-nav button{
-    background-color: #000000; / *change step button background color* /
+form.fluent_form_40 .step-nav button{
+    background-color: #000000; /*change step button background color*/
     color: #ffffff; /*change step button font color*/
     border-radius: 10px; /*change step button round corners*/
 }
 
 /*Change Step button styles on hover*/
-form.fluent_form_149 .step-nav button:hover{
+form.fluent_form_40 .step-nav button:hover{
     background-color: #ff0606; /*change step button background color on hover*/
     color: #000000; /*change step button font color on hover*/
 }
 ```
 
-After adding your custom styles, click **Save**, and then preview your form on the front end to see the changes live.
+Click **Save**, then preview your form on the front end to see the changes.

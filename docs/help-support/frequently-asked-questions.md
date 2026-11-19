@@ -10,19 +10,23 @@ Quick answers to the most common questions about **Fluent Forms**. If you can't 
 
 ### Is Fluent Forms free?
 
-Yes. The core plugin is free and available on the WordPress plugin directory. The [**Pro Add-on**](/upgrade-to-pro-add-on) unlocks premium fields, integrations, payments, conversational forms, and more.
+Yes. The core plugin is free in the WordPress plugin directory. The [**Pro Add-on**](/upgrade-to-pro-add-on) adds premium fields, integrations, payments, conversational forms, and more.
 
 ### Do I need to install Fluent Forms before installing the Pro Add-on?
 
-Yes. The Pro Add-on requires the free core plugin to be installed and activated first. See [How to Install Fluent Forms](/install-fluent-forms).
+Yes. Install and activate the free core plugin first. See [How to Install Fluent Forms](/install-fluent-forms).
 
 ### Can I migrate from Contact Form 7 / WPForms / Gravity Forms?
 
+<<<<<<< Updated upstream
 Yes. Fluent Forms has built-in importers for Contact Form 7, WPForms, Gravity Forms, Ninja Forms, Caldera Forms, and more. See [Fluent Forms Migrator](/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
+=======
+Yes. Fluent Forms has built-in importers for Contact Form 7, WPForms, Gravity Forms, Ninja Forms, and Caldera Forms. See [Fluent Forms Migrator](/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
+>>>>>>> Stashed changes
 
 ### Where is form submission data stored?
 
-All [entries](/managing-entries) are stored in your own WordPress database. Fluent Forms does not send your data to any third-party server.
+All [entries](/managing-entries) are stored in your own WordPress database. Fluent Forms sends submissions to a third-party server only when you connect an integration, captcha, or geo-location service.
 
 ## Forms & Fields
 
@@ -42,7 +46,11 @@ Yes. See [Conditional Logic](/set-up-forms-with-conditional-logic).
 
 ### Which payment gateways are supported?
 
+<<<<<<< Updated upstream
 [Stripe](/integrate-stripe), [PayPal](/integrate-paypal), [Mollie](/integrate-mollie), [RazorPay](/integrate-razorpay), [Square](/integrate-square-inline-payment-integration), [Authorize.Net](/integrate-authorizenet), [Paddle](/integrate-paddle), and [Paystack](/integrate-paystack). You can also accept offline payments. See the [Payments Overview](/payments-overview) to get started.
+=======
+[Stripe](/integrate-stripe), [PayPal](/integrate-paypal), [Mollie](/integrate-mollie), [RazorPay](/integrate-razorpay), [Square](/integrate-square-inline-payment-integration), [Authorize.Net](/integrate-authorizenet), [Paystack](/integrate-paystack), and [Paddle](/integrate-paddle). See the [Payments Overview](/payments-overview) to get started.
+>>>>>>> Stashed changes
 
 ### Which email marketing tools are supported?
 
@@ -52,11 +60,27 @@ Yes. See [Conditional Logic](/set-up-forms-with-conditional-logic).
 
 ### My form is not sending email notifications
 
-This is almost always a WordPress mail-delivery issue, not a Fluent Forms issue. See [Fluent Forms Not Sending Email Confirmations](/not-sending-email-confirmations). We recommend using [FluentSMTP](https://wordpress.org/plugins/fluent-smtp/) for reliable email delivery.
+This is almost always a WordPress mail-delivery issue, not a Fluent Forms issue. See [Fluent Forms Not Sending Email Confirmations](/not-sending-email-confirmations). [FluentSMTP](https://wordpress.org/plugins/fluent-smtp/) gives you reliable email delivery.
 
 ### I'm getting reCAPTCHA / hCaptcha / Turnstile errors
 
+<<<<<<< Updated upstream
 Check that your site keys are correctly configured. See [Spam Protection with Honeypot and Google reCAPTCHA](/spam-protection-with-honeypot-and-google-recaptcha), [hCaptcha](/integrate-hcaptcha), or [Cloudflare Turnstile](/integrate-cloudflare-turnstile).
+=======
+Check that your site keys are correct. See [Spam Protection with Honeypot and Google reCAPTCHA](/spam-protection-with-honeypot-and-google-recaptcha).
+
+### Where can I import, export, or find logs?
+
+See [Import and Export Fluent Forms](/import-and-export-fluent-forms) and [Activity Logs](/activity-logs).
+
+### How do I give other users access to Fluent Forms?
+
+See [Setting up Managers (Access Control)](/setting-up-managers-access-control).
+
+### How do I move my license to a new site?
+
+See [Transfer a License to a New Domain](/transfer-a-license-to-a-new-domain).
+>>>>>>> Stashed changes
 
 ### Where can I report a bug?
 
