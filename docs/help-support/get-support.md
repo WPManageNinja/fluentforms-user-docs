@@ -10,11 +10,7 @@ If you've already gone through the **Docs** and the [Frequently Asked Questions]
 
 Follow these steps to get the fastest and most accurate response.
 
-<<<<<<< Updated upstream
 1. **Visit the WPManageNinja Support Portal:** Go to the [Support Tickets](https://wpmanageninja.com/support-tickets/) page. This is the main channel for opening Fluent Forms support tickets.
-=======
-1. **Visit the WPManageNinja Support Portal:** Go to [WPManageNinja](https://wpmanageninja.com/account). This is the main channel for Fluent Forms support tickets.
->>>>>>> Stashed changes
 
 2. **Submit a Support Ticket:**
 
@@ -35,7 +31,6 @@ Follow these steps to get the fastest and most accurate response.
 
 4. **Support Hours:** The support team works during regular business hours and replies to every ticket as soon as possible.
 
-<<<<<<< Updated upstream
 ## Other Ways to Get Help
 
 - **Documentation:** Browse the full guides at [docs.fluentforms.com](https://docs.fluentforms.com/).
@@ -44,7 +39,3 @@ Follow these steps to get the fastest and most accurate response.
 - **Developer Resources:** Find hooks, filters, and the REST API reference at [developers.fluentforms.com](https://developers.fluentforms.com/).
 
 We're committed to helping you get the most out of Fluent Forms!
-=======
-> [!Tip]
-> You can also open **Support** under **More** in the Fluent Forms top menu to reach this information from inside the plugin.
->>>>>>> Stashed changes

@@ -18,11 +18,7 @@ Yes. Install and activate the free core plugin first. See [How to Install Fluent
 
 ### Can I migrate from Contact Form 7 / WPForms / Gravity Forms?
 
-<<<<<<< Updated upstream
 Yes. Fluent Forms has built-in importers for Contact Form 7, WPForms, Gravity Forms, Ninja Forms, Caldera Forms, and more. See [Fluent Forms Migrator](/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
-=======
-Yes. Fluent Forms has built-in importers for Contact Form 7, WPForms, Gravity Forms, Ninja Forms, and Caldera Forms. See [Fluent Forms Migrator](/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
->>>>>>> Stashed changes
 
 ### Where is form submission data stored?
 
@@ -46,11 +42,7 @@ Yes. See [Conditional Logic](/set-up-forms-with-conditional-logic).
 
 ### Which payment gateways are supported?
 
-<<<<<<< Updated upstream
 [Stripe](/integrate-stripe), [PayPal](/integrate-paypal), [Mollie](/integrate-mollie), [RazorPay](/integrate-razorpay), [Square](/integrate-square-inline-payment-integration), [Authorize.Net](/integrate-authorizenet), [Paddle](/integrate-paddle), and [Paystack](/integrate-paystack). You can also accept offline payments. See the [Payments Overview](/payments-overview) to get started.
-=======
-[Stripe](/integrate-stripe), [PayPal](/integrate-paypal), [Mollie](/integrate-mollie), [RazorPay](/integrate-razorpay), [Square](/integrate-square-inline-payment-integration), [Authorize.Net](/integrate-authorizenet), [Paystack](/integrate-paystack), and [Paddle](/integrate-paddle). See the [Payments Overview](/payments-overview) to get started.
->>>>>>> Stashed changes
 
 ### Which email marketing tools are supported?
 
@@ -64,10 +56,7 @@ This is almost always a WordPress mail-delivery issue, not a Fluent Forms issue.
 
 ### I'm getting reCAPTCHA / hCaptcha / Turnstile errors
 
-<<<<<<< Updated upstream
 Check that your site keys are correctly configured. See [Spam Protection with Honeypot and Google reCAPTCHA](/spam-protection-with-honeypot-and-google-recaptcha), [hCaptcha](/integrate-hcaptcha), or [Cloudflare Turnstile](/integrate-cloudflare-turnstile).
-=======
-Check that your site keys are correct. See [Spam Protection with Honeypot and Google reCAPTCHA](/spam-protection-with-honeypot-and-google-recaptcha).
 
 ### Where can I import, export, or find logs?
 
@@ -80,7 +69,6 @@ See [Setting up Managers (Access Control)](/setting-up-managers-access-control).
 ### How do I move my license to a new site?
 
 See [Transfer a License to a New Domain](/transfer-a-license-to-a-new-domain).
->>>>>>> Stashed changes
 
 ### Where can I report a bug?
 
