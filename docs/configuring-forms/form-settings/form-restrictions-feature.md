@@ -4,13 +4,13 @@ description: "The Fluent Forms restriction feature allows you to control the num
 
 # Form Restrictions Feature
 
-The Fluent Forms restriction feature allows you to control the number of entries in your forms, even at specific time intervals, such as daily, weekly, or annually.
+The Fluent Forms restriction feature lets you limit the number of entries in a form. You can apply the limit over a time interval, such as daily, weekly, or annually.
 
-This article will guide you on restricting form entries in Fluent Forms.
+This guide shows you how to limit entries in Fluent Forms.
 
 ## Access the Form Settings
 
-To access the settings, go to **Forms** from the top Navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button on which form you want to restrict entries on.
+Go to **Forms** in the top navbar. Click **Edit** on the form you want to restrict to open its **Editor**.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -19,22 +19,26 @@ To access the settings, go to **Forms** from the top Navbar, and **open** the **
 
 ## Enable Entry Restrictions
 
-Inside the form editor, click the **Configuration** tab in the top bar. Then select **Scheduling & Restrictions** from the left rail. The same panel also controls [form scheduling](/form-scheduling-feature).
+In the form editor, click the **Configuration** tab in the top bar. Select **Scheduling & Restrictions** in the left rail. The same panel also controls [form scheduling](/form-scheduling-feature).
 
 ![Access Settings](/images/configuring-forms/form-settings/form-restrictions-feature/access-settings-01-scaled.webp)
 
 ## Configure Form Restrictions
 
-**Maximum Number of Entries:** Now enable the Maximum Number of Entries options. Then define the maximum number of entries allowed for that particular form by clicking the **Plus (+) Icon** or **Minus (-) Icon**.
-
-Now, define the time interval by clicking the **Total Entries** section adjacent to the dropdown menu. The restrictions will be effective according to the specified time interval. 
-
-Here you can choose how frequently the entry limit applies. Options are included **Per** **Day, Weekly, Monthly, Year,** and **Per User.**
-
-**Message Shown on Reaching Max Entries:** When the maximum number of entries is reached, the form user sees the message. Enter the message that you want to show off to your user here.
+- **Maximum Number of Entries:** Turn on this toggle.
+- **Maximum Entries:** Set the number of entries allowed with the **Plus (+)** and **Minus (-)** icons.
+- **Limit period:** Choose how often the limit applies. The default is **Total Entries**. The options are:
+  - Total Entries
+  - Per Day
+  - Per Week
+  - Per Month
+  - Per Year
+  - Per User (IP Address Based)
+  - Per User (Logged in ID based)
+- **Message Shown on Reaching Max Entries:** Enter the message visitors see when the limit is reached.
 
 ![Form Restrictions Feature step](/images/configuring-forms/form-settings/form-restrictions-feature/02-7-scaled.webp)
 
-Once completed, click **Save** to apply your changes. Otherwise, this will not work correctly.
+Click **Save** to apply your changes.
 
-These are all features of fluent form restrictions.
+Next, see [Form Scheduling](/form-scheduling-feature) to open and close the form on set dates, or [Restrict Blank Form Submission](/restrict-blank-form-submission).
