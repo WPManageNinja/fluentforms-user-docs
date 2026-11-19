@@ -4,82 +4,78 @@ description: "Fluent Forms integrates with JetEngine, allowing you to create and
 
 # Using JetEngine Custom Fields
 
-Fluent Forms integrates with JetEngine, allowing you to create and map custom fields for your [Post Forms](/create-a-post-form). This article will guide you through setting up Custom Fields using JetEngine within Fluent Forms Post Forms.
+Fluent Forms integrates with JetEngine, so you can create and map custom fields for your [Post Forms](/create-a-post-form). This article shows you how to set up custom fields with JetEngine in Fluent Forms Post Forms.
 
-To create a custom field in your WordPress Post Form, install the[ JetEngine Premium](https://crocoblock.com/plugins/jetengine/) plugin on your website. 
+To create a custom field in your WordPress Post Form, install the [JetEngine Premium](https://crocoblock.com/plugins/jetengine/) plugin on your website.
 
 ## Enable the Post/CPT Creation Module
 
-To learn how to enable the Post/CPT Creation Module, follow the steps with the screenshots below.
-
-First, navigate to **Fluent Forms Pro** from your WordPress dashboard. Click on the **Integration** button from top menu. Then, Search for or scroll to **Post/CPT Creation** from the right side and **Enable** the module.
+1. In your WordPress dashboard, go to **Fluent Forms** and open **Integrations** from the top menu.
+2. Find **Post/CPT Creation** and **enable** the module.
 
 ![Post CPT Creation](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/PostCPT-creation-01-scaled.webp)
 
 ## Create a Custom Meta Box
 
-From the WordPress sidebar, navigate to the **JetEngine** plugin and select **Meta** **Boxes**. It will bring up the **Meta Boxes List** page, where you can create a new Custom **Meta Box** for your Post Form. 
+1. In the WordPress sidebar, go to **JetEngine** and select **Meta Boxes**. The **Meta Boxes List** page opens.
+2. Click **Add New** to add a custom meta box for the **Post**.
 
-Now, click the **Add New** button to add a custom meta box for the **Post**.
-
-![Add Meyta Boxes Using JetEngine Custom Fields](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/Add-Meyta-boxes-02-scaled.webp)
+![Add Meta Boxes Using JetEngine Custom Fields](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/Add-Meyta-boxes-02-scaled.webp)
 
 ## Configure Meta Box Settings
 
-The Meta Box field settings will appear now. Start by configuring the **General Settings**, where you can set the **Meta Box Title** and **Meta Box Type**.
+The Meta Box field settings open. Start with the **General Settings**, where you set the **Meta Box Title** and **Meta Box Type**.
 
-Then, under **Visibility Conditions**, go to **Enable for Post Types** and select **Post** to apply the custom fields to your posts.
+Then, under **Visibility Conditions**, open **Enable for Post Types** and select **Post**. This applies the custom fields to your posts.
 
 ![Meta Box Settings](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/Meta-box-settings-03-1-scaled.webp)
 
 ## Create Custom Meta Fields
 
-Next, you'll see the **Meta Field** settings section. Here, you can create multiple custom meta fields for your post.
+The **Meta Field** settings section lets you create multiple custom meta fields for your post.
 
-In the Custom **Meta Field** settings, enter the **Label** **Name**. The **Name ID** will be automatically generated based on the **Label** name. Then, choose the **Field Type** from the dropdown menu, which can be **Text**, **Number, Date,** or any other type depending on your needs.
-
-Once done, click the **Update Meta Box** button to create your custom meta box field.
+1. Enter the **Label Name**. JetEngine generates the **Name ID** from the label.
+2. Choose the **Field Type** from the dropdown, such as **Text**, **Number**, **Date**, or another type you need.
+3. Click **Update Meta Box** to create the custom meta box field.
 
 ![Meta Field 1024x793](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/meta-field-04-1024x793.webp)
 
 ## Create a Post Form
 
-Navigate to **Forms** from the Fluent Forms Navbar, then click the **Add New Form** button.
+1. Go to **Forms** in the Fluent Forms top menu and click **Add Form**.
 
 ![Add Using JetEngine Custom Fields](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/add-new-form-05-scaled.webp)
 
-A popup will arrive. Now select **Create a Post Form** from here. 
+2. In the popup, select **Create a Post Form**.
 
 ![Create Post](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/create-a-post-form-06.webp)
 
-A new popup will also appear here. Now select **Post Types** from the dropdown options. After that, click the **Continue** button to proceed to the next step.
+3. In the next popup, select **Post Types** from the dropdown and click **Continue**.
 
 ![Post Type](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/post-type-07.webp)
 
-In the **Form Editor**, edit your Post form as you desire and click the **Settings & Integration** tab.
+4. In the **Form Editor**, edit your Post form and open the **Configuration** tab.
 
 ![Setting Integration Using JetEngine Custom Fields](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/setting-integration-form-08-scaled.webp)
 
-Now, From the left sidebar of Settings & Integration select the **Post Feed** and then click on the **Add Post Feed** button. 
+5. In the left sidebar, select **Post Feeds** and click **Add Post Feed**.
 
 ![Add Post Feed Using JetEngine Custom Fields](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/add-post-feed-09-scaled.webp)
 
 ## Set Up the Meta Mapping
 
-You’ll now see the **Create New Feed** page, where you can manage and map your custom meta field feed.
+The **Create New Feed** page opens. Here you manage and map your custom meta field feed.
 
-Start by giving your **Feed Name**. Below that, you’ll find additional settings for your Feed.
+1. Enter a **Feed Name**.
+2. In the **JetEngine Meta Mapping** section, map your JetEngine fields to the matching Fluent Forms fields. The **three-dot** button inserts [smart codes](/form-editor-smart-codes) for mapping.
+3. To add more fields, click **Add Another General Field**.
+4. Click **Save Feed**.
+5. Submit a test post form.
 
-In the **JetEngine Meta Mapping** section, map your JetEngine fields to the corresponding Fluent Forms fields. A **three-dot** button is available here to insert [smart codes](/form-editor-smart-codes) to map your Fluent Forms fields. 
-
-For example, if you want to populate the ‘**Job Title**’ custom field with data from the ‘**Post Title**’ form field, select the ‘**input.post.title**’ shortcode in the Form Field Value. 
-
-If you need to add more field then click the **Add Another General Field** button. Now click the **Save Feed** button to save your settings and submit a test post form.
+For example, to fill the ‘**Job Title**’ custom field with data from the ‘**Post Title**’ form field, select the ‘**{inputs.post_title}**’ smart code in the Form Field Value.
 
 ![Create Feed](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/create-new-feed-10-scaled.webp)
 
-After submitting the post form you will see a custom meta field in your post like this. 
+After you submit the post form, the post shows the custom meta field.
 
 ![JetEngine Post 1024x511](/images/advanced-developer/custom-fields-meta/using-jetengine-custom-fields/jetengine-post-11-1024x511.webp)
-
-Congrats! You have successfully created and mapped **JetEngine Custom Fields** with **Fluent Forms Post Forms.**

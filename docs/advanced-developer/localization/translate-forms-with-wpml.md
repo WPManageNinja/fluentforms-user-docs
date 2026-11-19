@@ -4,118 +4,114 @@ description: "Translating your Fluent Forms into multiple languages is easy with
 
 # Translate Forms with WPML
 
-Translating your Fluent Forms into multiple languages is easy with WPML, no technical expertise required. This guide will walk you through the straightforward steps to make your forms accessible to users in any language.
+WPML lets you translate your Fluent Forms into multiple languages without technical expertise. This guide shows you how to make your forms available to users in any language.
 
-Before you begin: ensure that you have the necessary plugins installed and activated on your WordPress site.
-
-**Add Languages in WPML:**
+**Requirements:** Install and activate these plugins on your WordPress site first.
 
 - Fluent Forms
-
-- WPML Core Plugin (requires a paid license)
-
-- WPML String Translation Add-on (requires a paid license)
-
+- WPML Core Plugin (requires a paid license)
+- WPML String Translation Add-on (requires a paid license)
 - Fluent Forms Connector for WPML
-
-Once everything is ready, you’re just a few clicks away from creating a seamless multilingual form experience.
 
 ## Add Languages in WPML
 
-First, go to **WPML > Languages** from the WordPress sidebar. Under the **Site Language Settings**, click on **Add/Remove Languages** and choose the language(s) you want to use for translating your form.
+1. Go to **WPML > Languages** in the WordPress sidebar.
+2. Under **Site Language Settings**, click **Add/Remove Languages**.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/01-2.webp)
 
-Here, you’ll see a list of available languages. Simply select the language(s) you want to use for your form. You can choose multiple languages if needed. Once done, click the **Save** button to apply the changes.
+3. Select the languages you want to use for your form. You can choose more than one.
+4. Click **Save**.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/02-3.webp)
 
-Next, you’ll see the **Language URL format** settings. From here, choose the **Different languages in directories** option and click **Save** to apply the changes.
+5. In the **Language URL format** settings, choose **Different languages in directories**.
+6. Click **Save**.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/03-2.webp)
 
-### Enable Translation for Your Form
+## Enable Translation for Your Form
 
-To enable translation for a specific form, first go to **Forms** from the Fluent Forms navbar. Then, open the **Settings** of the form you want to translate.
+1. Go to **Forms** in the Fluent Forms top menu.
+2. Open the form you want to translate and go to its **Configuration** tab.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/04-2.webp)
 
-When you’re in the form’s settings, click on **WPML Translations** from the left sidebar. Then, toggle on the **Enable Translation for this Form** option and hit the **Save Settings** button.
+3. Click **Translations using WPML** in the left sidebar.
+4. Turn on **Enable Translation for this form** and save.
 
-You’ll also see a **Reset WPML Translation** button here. Clicking it will remove all existing translations for this form.
+The page also shows a **Reset WPML Translation** button. It removes all existing translations for this form.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/05-3.webp)
 
-### Send Your Form for Translation
+## Send Your Form for Translation
 
-Start translating your form into another language, go to **WPML > Translation Management** from the WordPress sidebar. Here, you’ll see a list of translatable pages, posts, and other content.
-
-To focus only on Fluent Forms, you can use the filter at the top menu and choose **Fluent Forms**. This will display only the forms that are available for translation.
-
-Next, select the form you want to translate. Then, under the Translation Options, choose **Translate Myself** and click the **Add to Translation Queue** button.
+1. Go to **WPML > Translation Management** in the WordPress sidebar. The page lists translatable pages, posts, and other content.
+2. To see only forms, use the filter in the top menu and choose **Fluent Forms**.
+3. Select the form you want to translate.
+4. Under Translation Options, choose **Translate Myself**.
+5. Click **Add to Translation Queue**.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/06-2.webp)
 
-### Translate the Form Fields
+## Translate the Form Fields
 
-To access the Translation Queue, navigate to **WPML > Translations** from the WordPress sidebar. Here, you’ll find the form you previously added to the queue. Click the **Translate** button next to the form to begin translating it.
+Go to **WPML > Translations** in the WordPress sidebar to open the Translation Queue. Click **Translate** next to the form you added.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/07.webp)
 
-Now, on the left side, you’ll see all the fields of your form. On the right side, enter the translation for each field. Make sure to save each field individually after translating it by clicking on the **Save and Complete** button in the pop-up. 
+The left side lists all the fields of your form. Enter the translation for each field on the right side. Save each field after you translate it: click **Save and Complete** in the pop-up.
 
-Once all fields are translated, the progress bar will reach 100%. Now, click the **Complete Translation** button to finish the translation. 
+When all fields are translated, the progress bar reaches 100%. Click **Complete Translation** to finish.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/08-2.webp)
 
-### Translate the Page Where the Form is Embedded
+## Translate the Page Where the Form is Embedded
 
-After translating the form fields, you’ll need to translate the page where your Fluent Forms form is embedded. To do this, go to **Pages** in your WordPress Dashboard and find the page containing the embedded form.
+After you translate the form fields, translate the page where the form is embedded.
 
-Next, click the **Plus (+)** icon button to start translating that page.
+1. Go to **Pages** in your WordPress Dashboard and find the page with the embedded form.
+2. Click the **Plus (+)** icon to start translating that page.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/09-2.webp)
 
-Now, you’ll see an option to translate the page name. (You might also see other fields here, depending on your page content.)
+The editor shows an option to translate the page name. Depending on your page content, you might see other fields too.
 
-Translate the page just like you did with the form. Enter your translation in the field on the right, then click **Save and Complete**.
-
-If you’ve finished translating the page, click the **Complete Translation** button to finalize.
+Translate the page the same way you translated the form. Enter your translation in the field on the right, then click **Save and Complete**. When you finish, click **Complete Translation**.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/10.webp)
 
-Great! Your translation is complete. Now you can preview it on the frontend to see how it looks.
+Your translation is complete. Preview it on the front end.
 
-### See the Translated Form in Action
+## See the Translated Form in Action
 
-Go to the page where your form is embedded. At the bottom of the page, you’ll see two buttons that WPML adds for language selection. Simply click on the language button you prefer to switch languages.
+Go to the page where your form is embedded. At the bottom of the page, WPML adds two language buttons. Click a language button to switch languages.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/11.webp)
 
-After that, you’ll see that your form has been translated into the language you provided in the form.
+The form now shows the translation you entered.
 
 ![Translate Forms with WPML step](/images/advanced-developer/localization/translate-forms-with-wpml/12.webp)
 
-> The Datepicker UI (month names, weekdays, AM/PM) is not handled by WPML. To localize it, see [Translate Datepicker Field of Fluent Forms](/translate-datepicker-field).
+> WPML does not handle the Datepicker UI (month names, weekdays, AM/PM). To localize it, see [Translate Datepicker Field of Fluent Forms](/translate-datepicker-field).
 
 ### Troubleshooting & Important Notes
 
 #### 1. Translation Toggle Not Visible in Form Settings?
 
-Make sure the **Fluent Forms Connector for WPML** plugin is installed and activated.
+Make sure the **Fluent Forms Connector for WPML** plugin is installed and activated.
 
 #### 2. Translated Form Not Showing on Frontend?
 
-Double-check that both:
+Check that both of these are true:
 
 - The form fields are 100% translated.
-
-- The page containing the form is also translated and marked as “Complete.”
+- The page containing the form is also translated and marked as “Complete.”
 
 #### 3. Some Fields Not Showing in Translation Editor?
 
-Resave your form and ensure it’s enabled for WPML translation under **Form Settings > WPML Translations**.
+Resave your form. Make sure translation is enabled under **Configuration > Translations using WPML**.
 
 #### 4. Resetting Translations?
 
-Use the **Reset WPML Translation** option inside the Form Settings carefully. It will remove all existing translations for that form.
+Use **Reset WPML Translation** in the Form Settings with care. It removes all existing translations for that form.
