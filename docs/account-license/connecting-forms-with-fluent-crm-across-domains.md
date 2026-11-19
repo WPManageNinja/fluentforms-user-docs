@@ -6,80 +6,89 @@ description: "FluentCRM is a self-hosted Email Marketing Automation Plugin for W
 
 [FluentCRM](https://fluentcrm.com/) is a self-hosted email marketing automation plugin for WordPress. It manages your leads, customers, email campaigns, and automated email sequences.
 
-FluentCRM's WebHooks feature transfers leads collected through Fluent Forms on one domain to FluentCRM on another. If both plugins run on the same site, use the [FluentCRM integration](/fluentcrm-integration) instead.
+FluentCRM's **Incoming Webhooks** feature allows you to transfer leads collected through Fluent Forms on one domain to FluentCRM on another. If both plugins live on the same site, you can use the [FluentCRM integration](/fluentcrm-integration) instead.
 
 This article shows you how to send Fluent Forms leads from one domain to FluentCRM on another domain.
 
 ## Create a WebHook in FluentCRM
 
-Use FluentCRM's **WebHooks** feature to collect user information from one domain on another.
+To collect leads from one domain into another, use FluentCRM's **Incoming Webhooks** feature. Start on the domain where **FluentCRM** is installed.
 
-1. Open the FluentCRM dashboard on the domain where **FluentCRM** is installed.
-2. Go to **Settings** and click **Incoming WebHooks**.
-3. Click **Create Webhook**.
+Go to the FluentCRM dashboard. Click the **Settings** (gear) icon in the top navigation bar, then select **Incoming Webhooks** from the left sidebar. Click **Create Webhook** to add a new one.
 
-![Webhook Settings FluentCRM](/images/account-license/connecting-forms-with-fluent-crm-across-domains/Webhook-Settings-FluentCRM-01-scaled.webp)
+![Incoming Webhooks page with the Settings icon and Create Webhook button highlighted](/images/account-license/connecting-forms-with-fluent-crm-across-domains/Webhook-Settings-FluentCRM-01-scaled.webp)
 
-A popup opens. Fill in these fields:
+The **Create New Incoming Webhook** panel opens. Fill in the following fields:
 
-- **Name:** Enter a descriptive name for the WebHook.
-- **List:** Select a subscriber list where Fluent Forms adds the leads.
-- **Tags:** Assign tags to categorize these leads.
-- **Status:** Set the WebHook status to Active.
+- **Webhook Type:** Keep **Contact Creation Webhook** to add new contacts.
 
-Click **Create** to generate the **WebHook**.
+- **Name:** Enter a descriptive name for the webhook.
 
-![Create Webhook](/images/account-license/connecting-forms-with-fluent-crm-across-domains/create-weebhook-02-scaled.webp)
+- **Default List:** Select the lists where the leads will be added.
 
-Copy the **WebHook URL**. You use it to link Fluent Forms to FluentCRM.
+- **Default Tags:** Select the tags to apply to these leads.
 
-![Create Webhook](/images/account-license/connecting-forms-with-fluent-crm-across-domains/create-weebhook-03-scaled.webp)
+- **Status:** Select the contact status, such as **Subscribed**.
+
+Click **Create Webhook** to generate the webhook.
+
+![Create New Incoming Webhook panel](/images/account-license/connecting-forms-with-fluent-crm-across-domains/create-weebhook-02-scaled.webp)
+
+After creation, the webhook appears in the list with its **Smart URL**. Click the copy icon to copy it. You will paste this URL into Fluent Forms.
+
+![Smart URL copy icon in the Incoming Webhooks list](/images/account-license/connecting-forms-with-fluent-crm-across-domains/create-weebhook-03-scaled.webp)
 
 ## Set Up Fluent Forms on the Source Domain
 
-Open the Fluent Forms dashboard on the domain where the forms live. [Create a new form](/create-a-form) or use an existing one with fields like **Name** and **Email**.
+Now, go to the Fluent Forms dashboard on the domain where the forms are installed. [Create a new form](/create-a-form) or use an existing one with **Name** and **Email** fields.
 
-![Connecting Fluent Forms from one domain with Fluent CRM to another domain step](/images/account-license/connecting-forms-with-fluent-crm-across-domains/Form-04-scaled.webp)
+![Form with First Name, Last Name, and Email fields](/images/account-license/connecting-forms-with-fluent-crm-across-domains/Form-04-scaled.webp)
 
-Go to **Integrations** in the Fluent Forms top menu, find **Webhook**, and turn on the **Toggle** to enable the [Webhook integration module](/integrate-webhook).
+Next, go to **Integrations** from the Fluent Forms navigation bar and search for **webhook**. Turn on the **Webhooks** toggle to enable the [Webhook integration module](/integrate-webhook) (Pro).
 
-![Enable Webhook Module Connecting Fluent Forms from](/images/account-license/connecting-forms-with-fluent-crm-across-domains/enable-webhook-module-05-scaled.webp)
+![Webhooks module toggle on the Integrations page](/images/account-license/connecting-forms-with-fluent-crm-across-domains/enable-webhook-module-05-scaled.webp)
 
-Go back to your form. Open the form's **Configuration** tab and go to **Integrations & Add-ons**. Select **Webhook**, then click the add button to set up a new **Webhook** feed.
+Now, go back to the form. Click the **Configuration** tab, then select **Integrations** under **Integrations & Add-ons**. Click **Add New Integration**.
 
-![Add Webhook Connecting Fluent Forms from](/images/account-license/connecting-forms-with-fluent-crm-across-domains/add-webhook-06-scaled.webp)
+![Integrations page with the Add New Integration button highlighted](/images/account-license/connecting-forms-with-fluent-crm-across-domains/add-new-integration-06-a.webp)
 
-A new window opens. Fill in these details:
+Search for **webhook** and select **WebHook** from the list.
 
-**A. Name**: Enter a unique name for the integration setup.
+![Add an integration panel with WebHook highlighted](/images/account-license/connecting-forms-with-fluent-crm-across-domains/add-webhook-06-scaled.webp)
 
-**B. Request URL**: Paste the WebHook URL you copied from FluentCRM.
+The feed settings page opens. Fill in the details:
 
-**C. Request Method**: Set to **POST** from the dropdown.
+**A. Name:** Enter a unique name for the feed.
 
-**D. Request Format**: Select **JSON** from the dropdown.
+**B. Request URL:** Paste the **Smart URL** you copied from FluentCRM.
 
-**E. Request Headers**: Leave as **No Headers** (default).
+**C. Request Method:** Select **POST** from the dropdown.
 
-**F. Request Body:** Choose **Selected Fields** in the Request Body section.
+**D. Request Format:** Select **JSON** from the dropdown.
 
-Map the form fields (Name, Email) to the matching WebHook keys. Copy the key values from FluentCRM and paste them into the Value field.
+**E. Request Header:** Keep **No Headers** (default).
 
-**G. Conditional Logic:** To run the **Webhook** integration only for certain submission values, turn on **Enable Conditional Logic**. To learn more, read the [conditional logic guide](/set-up-forms-with-conditional-logic).
+**F. Request Body:** Select **Selected Fields**. Then add the fields FluentCRM needs:
 
-Click **Save Feed** to save the setup.
+- In **Field Name**, enter the FluentCRM key, such as `email`, `first_name`, or `last_name`.
+- In **Field Value**, select the matching form field, such as **Email**, **names[First Name]**, or **names[Last Name]**.
+- Click the **+** button to add another row.
 
-![Webhook Settings](/images/account-license/connecting-forms-with-fluent-crm-across-domains/WebHook-Settings-07-scaled.webp)
+**G. Conditional Logics:** To send the data only when the submission meets certain conditions, check **Enable conditional logic**. To learn more, read the [conditional logic guide](/set-up-forms-with-conditional-logic).
+
+After completing all the fields, click **Save** to save the feed.
+
+![Webhook feed settings with the Save button highlighted](/images/account-license/connecting-forms-with-fluent-crm-across-domains/WebHook-Settings-07-scaled.webp)
 
 > [!Note]
-> Make sure the second domain does not have FluentCRM installed.
+> The source domain does not need FluentCRM installed.
 
-Enter test data in the form on the source domain and **submit** it.
+Now, enter test data in the form on the source domain and click **Submit Form**.
 
-![Connecting Fluent Forms from one domain with Fluent CRM to another domain step](/images/account-license/connecting-forms-with-fluent-crm-across-domains/08.webp)
+![Form filled with test data and the Submit Form button highlighted](/images/account-license/connecting-forms-with-fluent-crm-across-domains/08.webp)
 
-Then open FluentCRM on the destination domain and refresh the **Contacts** page. The submitted data appears in the contacts list.
+After a moment, go to FluentCRM on the destination domain and open the **Contacts** page. The new contact appears in the list with the lists and tags you selected in the webhook.
 
-![Connecting Fluent Forms from one domain with Fluent CRM to another domain step](/images/account-license/connecting-forms-with-fluent-crm-across-domains/09-scaled.webp)
+![New contact in the FluentCRM Contacts list](/images/account-license/connecting-forms-with-fluent-crm-across-domains/09-scaled.webp)
 
 You can create as many WebHooks as you need. This lets you collect leads from multiple domains into one central FluentCRM database.

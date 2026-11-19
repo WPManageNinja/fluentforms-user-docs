@@ -18,7 +18,7 @@ Yes. The Pro Add-on requires the free core plugin to be installed and activated 
 
 ### Can I migrate from Contact Form 7 / WPForms / Gravity Forms?
 
-Yes. Fluent Forms has built-in importers for Contact Form 7, WPForms, Gravity Forms, Ninja Forms, and more. See [Fluent Forms Migrator](/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
+Yes. Fluent Forms has built-in importers for Contact Form 7, WPForms, Gravity Forms, Ninja Forms, Caldera Forms, and more. See [Fluent Forms Migrator](/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).
 
 ### Where is form submission data stored?
 
@@ -32,17 +32,17 @@ Unlimited. There is no cap on forms, fields, or submissions. See [How to Create 
 
 ### Can I create multi-step forms?
 
-Yes — see [Creating a Multi-Step Form in Fluent Forms](/creating-a-multi-step-form).
+Yes. See [Creating a Multi-Step Form in Fluent Forms](/creating-a-multi-step-form).
 
 ### Can I conditionally show or hide fields?
 
-Yes — see [Conditional Logic](/set-up-forms-with-conditional-logic).
+Yes. See [Conditional Logic](/set-up-forms-with-conditional-logic).
 
 ## Integrations & Payments
 
 ### Which payment gateways are supported?
 
-[Stripe](/integrate-stripe), [PayPal](/integrate-paypal), [Mollie](/integrate-mollie), [RazorPay](/integrate-razorpay), and [Square](/integrate-square-inline-payment-integration). See the [Payments Overview](/payments-overview) to get started.
+[Stripe](/integrate-stripe), [PayPal](/integrate-paypal), [Mollie](/integrate-mollie), [RazorPay](/integrate-razorpay), [Square](/integrate-square-inline-payment-integration), [Authorize.Net](/integrate-authorizenet), [Paddle](/integrate-paddle), and [Paystack](/integrate-paystack). You can also accept offline payments. See the [Payments Overview](/payments-overview) to get started.
 
 ### Which email marketing tools are supported?
 
@@ -54,9 +54,9 @@ Yes — see [Conditional Logic](/set-up-forms-with-conditional-logic).
 
 This is almost always a WordPress mail-delivery issue, not a Fluent Forms issue. See [Fluent Forms Not Sending Email Confirmations](/not-sending-email-confirmations). We recommend using [FluentSMTP](https://wordpress.org/plugins/fluent-smtp/) for reliable email delivery.
 
-### I'm getting reCAPTCHA / hCaptcha errors
+### I'm getting reCAPTCHA / hCaptcha / Turnstile errors
 
-Check that your site keys are correctly configured. See [Spam Protection with Honeypot and Google reCAPTCHA](/spam-protection-with-honeypot-and-google-recaptcha).
+Check that your site keys are correctly configured. See [Spam Protection with Honeypot and Google reCAPTCHA](/spam-protection-with-honeypot-and-google-recaptcha), [hCaptcha](/integrate-hcaptcha), or [Cloudflare Turnstile](/integrate-cloudflare-turnstile).
 
 ### Where can I report a bug?
 

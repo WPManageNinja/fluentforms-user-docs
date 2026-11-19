@@ -11,31 +11,31 @@ You can assign Managers to specific WordPress user roles or individual users. Yo
 
 ## Access Manager Settings
 
-1. Go to the Fluent Forms dashboard.
-2. Click the **Settings** (gear) icon in the navigation bar.
-3. Select **Permissions** from the left sidebar.
+Go to the Fluent Forms dashboard. From the top navigation bar, click the **Settings** (gear) icon and select **Permissions** from the left sidebar. You will see the **Role Based** and **Managers** sections.
 
-The page shows the **Role Based** and **Managers** sections.
-
-![Setting Up Manager](/images/account-license/setting-up-managers-access-control/setting-up-manager-01-scaled.webp)
+![Permissions page with the Settings icon and Add Manager button highlighted](/images/account-license/setting-up-managers-access-control/setting-up-manager-01-scaled.webp)
 
 ### Role Based
 
-The **Role Based** section assigns permissions by WordPress user role. Users with the selected role become Fluent Forms Managers and get access to Forms, Entries, Payments, and Settings. A role never grants **Full Access**.
+The **Role Based** section assigns access by WordPress user role. It lists the roles available on your site, except Administrator, who always has full access, and Subscriber, which can't be given access. 
+
+Check the roles you want, or select **Check all**. Users with a selected role can use the Fluent Forms features, but they don't get **Full Access**. 
+
+To give someone Full Access or limit them to certain permissions or forms, add them as a manager below.
 
 ### Managers
 
-In the **Managers** section, you designate specific users as Fluent Forms Managers and set what each one can access. You can add multiple managers with different permission sets.
+In the **Managers** section, you can designate specific users as Fluent Forms Managers and customize their permissions to control what they can access. You can add multiple managers with different permission sets.
 
-Click **Add Manager** to add a user as a manager.
+Click the **Add Manager** button to add a specific user as a Manager.
 
 ![Manage Fluent Forms](/images/account-license/setting-up-managers-access-control/manage-02.png)
 
-A popup opens where you select the manager and set their permissions.
+The **Add Manager** popup appears. Select the user and set the manager's permissions.
 
-**User Email:** Enter the email address of an existing site user.
+**User Email:** Start typing to find an existing site user by email address. Users with the administrator role automatically receive all permissions.
 
-**Permission:** Choose what the manager can do.
+**Permissions:** Select the permissions for this manager. You can also check **Select All** to choose every permission at once.
 
 - View Forms
 - View Entries
@@ -46,17 +46,19 @@ A popup opens where you select the manager and set their permissions.
 - Manage Payments (required for [payment](/payments-overview) bulk actions, such as bulk delete or status updates)
 - Full Access to all features
 
-Manage Payments needs View Payments, View Payments needs View Entries, and View Entries needs View Forms.
+Some permissions depend on others. For example, **Manage Entries** requires **View Entries**, and **View Payments** requires **View Forms** and **View Entries**.
 
-**Access to Forms:** Check **Enable Specific Forms Permission** and select the forms the manager can use. If you leave the selection blank, the manager keeps access to all forms.
+**Access to Forms:** To limit the manager to certain forms, check **Enable Specific Forms Permission**. Then use the **Select the forms this manager can access** dropdown to choose the forms. If you leave it blank, the manager keeps access to all forms.
 
 > [!Note]
 > A manager with specific-form access works only within the forms you assign. They can't see or change anything that belongs to other forms. That includes entries, webhook feeds and stats in the WordPress dashboard widget. A form import also can't overwrite a form they can't access.
 
-Click **Save** to finish.
+Click the **Save** button to finalize the manager's permissions.
 
-![Fluent Forms](/images/account-license/setting-up-managers-access-control/03-2-scaled-2.webp)
+![Add Manager popup with the Enable Specific Forms Permission option](/images/account-license/setting-up-managers-access-control/03-2-scaled-2.webp)
 
-After you save, the page lists the manager with their assigned permissions, as the screenshot below shows. Click the **Edit** or **Delete** icon next to a manager to change or remove them.
+Once you save, the manager appears in the **Managers** table. The table shows their ID, name, email, role, the forms they can access, and their permissions. **Specific** under **Forms** means the manager is limited to selected forms.
 
-![Manage Fluent Forms](/images/account-license/setting-up-managers-access-control/manage-04.png)
+To change a manager's access, click the **Edit** (pencil) icon. To remove the manager, click the **Delete** (trash) icon.
+
+![Managers table with the Edit and Delete icons highlighted](/images/account-license/setting-up-managers-access-control/manage-04.webp)
