@@ -4,99 +4,90 @@ description: "The API Logs feature stores all records related to API activities 
 
 # API Logs
 
-The **API Logs** feature stores all records related to API activities in your forms in one place. It is especially useful for checking whether any particular API actions were successful, failed, or are still in progress. This article will give you a quick overview of the **API Logs** feature under **Fluent Forms**.
+The **API Logs** feature stores all records of API activity in your forms in one place. Use it to check whether an API action succeeded, failed, or is still in progress. This article gives you a quick overview of **API Logs** in **Fluent Forms**.
 
 ## API Logs
 
 > [!Note]
 > This list shows entry activity only when an **action** was recorded for that submission.
 
-First, go to **Tools** from **WordPress Left Sidebar** or **Fluent Forms Navbar**, click the **API** **Logs** option in the left menu, and you can see all the API logs of your forms on this page.
+Go to **Tools** (under **More**) in the Fluent Forms top menu and click **API Logs** in the left menu. The page lists the API logs of all your forms.
 
 ![Tools API Logs](/images/advanced-developer/logs-tracking/api-logs/1.-Tools-API-Logs-scaled.webp)
 
 ## Filter Your API Logs
 
-However, if you want to see activities of a particular form or action, click the **Filter** icon at the top right of the table to show four filtering options with dropdown lists. These are:
+To see the activity of a particular form or action, click **Advanced Filter** at the top right of the table. It shows four filters. Use **Choose columns** to show or hide table columns. The filters are:
 
 1. Form
-
 2. Source
-
 3. Status
-
 4. Date
 
-#### 1. Form
+### 1. Form
 
-In this dropdown, you will only see those forms that include an integration feed.
-
-**For example**, I selected **Contact Form** (it includes Platformly integration feed) from the dropdown list by clicking the **Arrow Icon**, and the two **Contact Forms** available appeared.
+This dropdown lists only forms that include an integration feed. Select a form from the **Select Form** dropdown to see only its API logs.
 
 ![Filter Option](/images/advanced-developer/logs-tracking/api-logs/2.-Form-filter-option-1-scaled.webp)
 
-#### 2. Source
+### 2. Source
 
-Here, you can filter your logs based on different [integration feeds](/integrations-overview), and these options you will find based on the integration occurring within the form.
+Filter your logs by [integration feeds](/integrations-overview). The options depend on the integrations in your forms.
 
-**For example**,  I selected **Zapier Feed** from the dropdown list by clicking the **Arrow Icon**, and all the forms that includes Zapier Integration have appeared.
+For example, select a feed such as **Webhook Feed** to see the logs of all forms that use that integration.
 
 ![Source Filter Option](/images/advanced-developer/logs-tracking/api-logs/3.-Source-filter-option-1-scaled.webp)
 
-#### 3. Status
+### 3. Status
 
-You also have the option to filter your API logs based on the **Status** (**Success**, **Failed**, and **Processing**)  of your Forms’ Actions related to integration.
+Filter your API logs by the **Status** of your forms’ integration actions. The options depend on the statuses recorded in your logs, such as **Success**, **Failed**, and **Processing**.
 
 ![Status Filter Option](/images/advanced-developer/logs-tracking/api-logs/4.-Status-filter-option-1-scaled.webp)
 
-#### 4. Date
+### 4. Date
 
-With this option, you can filter your activities by selected **Dates** to see actions for specific days.
+Filter your activities by date. Pick a preset such as Today, Yesterday, Last week, or Last month, or choose a custom range.
 
 ![Date Filter Option](/images/advanced-developer/logs-tracking/api-logs/5.-Date-filter-option-1-scaled.webp)
 
-**To show the use of all filtering options at a glance, follow the GIF below:**
+The GIF below shows all the filters in use.
 
 ![Source Status Date Drift Video](/images/advanced-developer/logs-tracking/api-logs/6.-Forms-source-status-date-Drift-video.gif)
 
 ### Check Single API Log
 
-If you want to see the API data of a specific form in a brief without checking the [individual entries](/managing-entries) in detail, click the **ID** number of a log in the first column. The log message expands under the row.
+To see the API data of a form briefly, without opening the [individual entries](/managing-entries), click the **ID** number of a log in the first column. The log message expands under the row.
 
 ![Single API Check](/images/advanced-developer/logs-tracking/api-logs/7.-Single-API-check.webp)
 
-If you wish to view more detailed information for a specific entry, click on the desired **entry** **number** under the **Submission** **ID** column.
+For more detail on a specific entry, click the **entry number** under the **Submission ID** column.
 
 ![Detail API Log Check](/images/advanced-developer/logs-tracking/api-logs/8.-Detail-API-Log-check.webp)
 
-Here, you can see the overall detailed submission information of a user for this particular **Entry**.
+This page shows the full submission information for that **Entry**.
 
-To check specifically the general API Log, scroll down to the **Submission** **Logs**, click the **API Calls** tab, and you will get all the details. For non-API actions like email and payment events, check the [Activity Logs](/activity-logs) instead. 
+To see the general API log, scroll down to **Submission Logs** and click the **API Calls** tab. For non-API actions like email and payment events, check the [Activity Logs](/activity-logs) instead.
 
-If your action didn’t occur successfully, you can use the **Resend Email Notification** and **Entry Action** button to manually complete the desired action. 
+If an action did not complete, use the **Resend Email Notification** and **Entry Actions** icon buttons in the **Submission Logs** header to run it manually.
 
 ![Submission Logs API Calls](/images/advanced-developer/logs-tracking/api-logs/9.-Submission-Logs-API-Calls-scaled.webp)
 
 ### Replay Action for API Logs
 
-If you want to re-run an action (e.g., reprocess the integration for this entry),  you can do it by simply clicking the **Replay** button under the **Action** column.
+To re-run an action, such as reprocessing the integration for an entry, click the **Replay Action** icon under the **Action** column. Replay needs Fluent Forms Pro.
 
 ![Replay Action Fluent Forms](/images/advanced-developer/logs-tracking/api-logs/10.-Replay-Action-scaled.webp)
 
-You can also re-run all the API Logs Actions at once by clicking the **Checkbox** placed just before the **ID** column, or you can re-run by **selecting the API logs individually** based on your needs.
-
-Then, click the **Run Selected Action** button, and all your selected logs will be processed again.
+To re-run several actions at once, select the logs individually or click the **Checkbox** before the **ID** column to select all. Then click **Run Selected Action**. Fluent Forms processes all selected logs again.
 
 ![Replay Action Bulk](/images/advanced-developer/logs-tracking/api-logs/11.-Replay-action-in-bulk-scaled.webp)
 
 ### Delete API Logs
 
-If you want to delete any API log, you can do it simply by clicking on the **Delete Icon** under the **Action** column.
+To delete an API log, click the **Delete Icon** under the **Action** column.
 
 ![Delete Single Log](/images/advanced-developer/logs-tracking/api-logs/12.-Delete-single-log-scaled.webp)
 
-You can also delete all the API Logs at once by clicking the **Checkbox** placed just before the **ID** column, or you can delete by **selecting the API logs individually** based on your needs.
-
-Then, click the **Delete Selected Logs** button, and all your selected logs will be deleted.
+To delete several logs at once, select the logs individually or click the **Checkbox** before the **ID** column to select all. Then click **Delete Selected Logs**. Fluent Forms deletes all selected logs.
 
 ![Delete Logs Bulk](/images/advanced-developer/logs-tracking/api-logs/13.-Delete-logs-in-bulk-scaled.webp)

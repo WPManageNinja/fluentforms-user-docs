@@ -1,23 +1,28 @@
 ---
-description: "Fluent Forms has a Global Search feature that lets you search for anything within Fluent Forms, making your work super easy."
+description: "Fluent Forms has a Global Search feature that lets you find forms, actions, settings, and help articles from any screen."
 ---
 
 # Global Search
 
-**Fluent Forms** has a **Global Search** feature that lets you search for anything within **Fluent Forms**, making your work super easy. This article will guide you through using the Global Search in Fluent Forms. 
+**Fluent Forms** has a **Global Search** feature that lets you find forms, settings, and help articles from one place. This article shows you how to open it and what you can search for.
 
-## Global Search
+## Open Global Search
 
-First, to access this feature, simply go to the **Fluent Forms** plugin from the **WordPress Admin Panel** on the left side.
-
-Once you are on the **Fluent Forms Dashboard**, you will find the Global Search option in the top right corner as shown in the screenshot below.
-
-You will find this search bar under any section (e.g., Forms, [Entries](/managing-entries), Payments, etc.) or feature in Fluent Forms, allowing you to search for relevant and necessary items. 
+The search option sits in the top bar of every Fluent Forms screen, such as Forms, [Entries](/managing-entries), and Payments. Click the search button, or press `/` on your keyboard. A pop-up opens.
 
 ![Global Search Option](/images/advanced-developer/logs-tracking/global-search/1.-Global-Search-option-scaled.webp)
 
-Now, click on the search button, and a pop-up will appear, showing you all the things you can search for.
+## What You Can Search For
 
-Whether it’s Forms, Entries, Support, Integrations, or Global Settings, you can find it all with the Global Search option. So, go ahead, explore, and make the most of this awesome feature in Fluent Forms!
+The pop-up groups results into these sections:
+
+- **Go to:** Forms, Entries, Reports, Payments, Integrations, Tools, and Support.
+- **Actions:** Quick actions you can run.
+- **This Form:** Screens of the form you are viewing.
+- **Settings:** Every Global Settings screen.
+- **Forms:** Your forms by title.
+- **Help:** Help articles.
+
+Use the arrow keys to move through the results, press **Enter** to open one, and press **Esc** to close the pop-up.
 
 ![Search Popup Fluent Forms](/images/advanced-developer/logs-tracking/global-search/2.-Search-Popup-scaled.webp)

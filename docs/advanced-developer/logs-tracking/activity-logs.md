@@ -4,97 +4,86 @@ description: "The Activity Logs feature keeps a record of actions performed in a
 
 # Activity Logs
 
-The **Activity** **Logs** feature keeps a record of actions performed in all your forms created through Fluent Forms in one place, making it easier to find information about specific actions without visiting each Form entry individually. This article will give you a quick overview of the **Activity Logs** in **Fluent Forms**.
+The **Activity Logs** feature records the actions performed in all your Fluent Forms forms in one place. You can find information about specific actions without opening each form entry. This article gives you a quick overview of **Activity Logs** in **Fluent Forms**.
 
 ## Activity Logs
-
-To learn where you can find the **Activity Logs** and their functionalities, follow the steps with Screenshots and GIFs below —
 
 > [!Note]
 > This list shows entry activity only when an **action** was recorded for that submission.
 
-First, go to **Tools** from **WordPress Left Sidebar** or **Fluent Forms Navbar**, click the **Activity** **Logs** option in the left menu, and you can see all the activity logs of your forms on this page.
+Go to **Tools** (under **More**) in the Fluent Forms top menu and click **Activity Logs** in the left menu. The page lists the activity logs of all your forms.
 
 ![Tools Activity Logs](/images/advanced-developer/logs-tracking/activity-logs/1.-Tools-Activity-Logs-scaled.webp)
 
 ## Filter Your Activity Logs
 
-However, if you want to see activities of a particular form or action, click the **Filter** icon at the top right of the table to show four filtering options with dropdown lists. These are:
+To see the activity of a particular form or action, click **Advanced Filter** at the top right of the table. It shows four filters. Use **Choose columns** to show or hide table columns. The filters are:
 
 1. Form
-
 2. Source
-
 3. Status
-
 4. Date
 
-#### 1. Form
+### 1. Form
 
-Use this filter to view activities of particular forms based on their **Form Title**, and you will get only those forms here that have any actions within them.
+Filter activities by **Form Title**. The list shows only forms that have actions recorded.
 
-**For example**, I selected **Support Form** from the dropdown list by clicking the **Arrow Icon**, and the two **Support Forms** available appeared.
+Select a form from the **Select Form** dropdown to see only its activity.
 
 ![Filter Option Fluent Forms](/images/advanced-developer/logs-tracking/activity-logs/2.-Form-filter-option-scaled.webp)
 
-#### 2. Source
+### 2. Source
 
-Here, you can filter your logs based on different options, which you will find according to the Actions Occurred and the Integration Feed you added within the form. For example —
+Use **Select Component** to filter your logs by the component that created them. The options depend on the actions that occurred and the integration feeds you added to your forms. For example:
 
-- [Email Notification](/setup-adminuser-email-notifications),
+- [Email Notification](/setup-adminuser-email-notifications)
+- Payment (see [Payments Overview](/payments-overview))
+- User Registration (see [User Registration](/create-a-wordpress-user-registration-form))
 
-- [Payment](/payments-overview)
-
-- [User Registration](/create-a-wordpress-user-registration-form), etc.
-
-**For example**, if you have any payment issues inside a specific form or want to view payment activities for all forms, select “**Payment**” options from the dropdown list by clicking the **Arrow** **Icon** in the **Source**.
-
-And, you will find all the payment-related activities of your forms which will help you identify the specific issues you want to address. Similarly, you can check any form-related activity based on the **Action** happening in your forms.
+For example, to review payment issues in one form or in all forms, click the **Arrow Icon** in **Source** and select **Payment**. The list then shows all payment-related activity. You can filter any other form activity the same way.
 
 ![Source Filter Option](/images/advanced-developer/logs-tracking/activity-logs/3.-Source-filter-option-scaled.webp)
 
-#### 3. Status
+### 3. Status
 
-You also have the option to filter your activity logs based on the **Status** (**Success**, **Info**, and **Failed**) of your forms.
+Filter your activity logs by **Status**: **Info**, **Success**, **Error**, or **Failed**.
 
 ![Status Filter Option](/images/advanced-developer/logs-tracking/activity-logs/4.-Status-filter-option-scaled.webp)
 
-#### 4. Date
+### 4. Date
 
-With this option, you can filter your activities by selected **Dates** to see actions for specific days.
+Filter your activities by date. Pick a preset such as Today, Yesterday, Last week, or Last month, or choose a custom range.
 
 ![Date Filter Option](/images/advanced-developer/logs-tracking/activity-logs/5.-Date-filter-option-scaled.webp)
 
-**To show the use of all filtering options at a glance, follow the GIF below:**
+The GIF below shows all the filters in use.
 
 ![Four Filter Dropdowns Drift Video](/images/advanced-developer/logs-tracking/activity-logs/6.-Four-filter-dropdowns-Drift-video.gif)
 
 ### Check Single Activity Log
 
-If you want to see the activity data of a specific form in a brief without checking the individual entries in detail, click the **ID** number of a log in the first column. The log message expands under the row.
+To see the activity data of a form briefly, without opening the individual entries, click the **ID** number of a log in the first column. The log message expands under the row.
 
 ![Brief Actitivity Check By Arrow Icon](/images/advanced-developer/logs-tracking/activity-logs/7.-Brief-actitivity-check-by-Arrow-Icon.webp)
 
-If you wish to view more detailed information for a specific entry, click on the desired **entry** **number** under the **Submission** **ID** column.
+For more detail on a specific entry, click the **entry number** under the **Submission ID** column.
 
 ![Click Submission ID Fluent Forms Activity Logs](/images/advanced-developer/logs-tracking/activity-logs/8.-Click-the-desired-Submission-Id.webp)
 
-Here, you can see the overall detailed submission information of a user for this particular **Entry**.
+This page shows the full submission information for that **Entry**.
 
-To check specifically the general Activity Log, scroll down to the **Submission** **Logs**, click the **General** tab, and you will get all the details. To review only integration-related calls instead, see the [API Logs](/api-logs). 
+To see the general activity log, scroll down to **Submission Logs** and click the **General** tab. To review only integration-related calls, see the [API Logs](/api-logs).
 
-If your action didn’t occur successfully, you can use the **Resend Email Notification** and **Entry Action** button to manually complete the desired action. 
+If an action did not complete, use the **Resend Email Notification** and **Entry Actions** icon buttons in the **Submission Logs** header to run it manually.
 
 ![Detailed Entry Info Log](/images/advanced-developer/logs-tracking/activity-logs/9.-Detailed-entry-info-of-a-log-scaled.webp)
 
 ### Delete Activity Logs
 
-If you want to delete any activity log, you can do it simply by clicking the **Delete Icon** under the **Action** column.
+To delete an activity log, click the **Delete Icon** under the **Action** column.
 
 ![Delete Single Activity Log](/images/advanced-developer/logs-tracking/activity-logs/10.-Delete-Single-activity-log-scaled.webp)
 
-You can also delete all the Activity Logs at once by clicking the **Checkbox** placed just before the **ID** column, or you can delete by **selecting the activity logs individually** based on your needs.
-
-Then, click the **Delete Selected Logs** button, and all your selected logs will be deleted.
+To delete several logs at once, select the logs individually or click the **Checkbox** before the **ID** column to select all. Then click **Delete Selected Logs**. Fluent Forms deletes all selected logs.
 
 ![Delete Bulk Fluent Forms](/images/advanced-developer/logs-tracking/activity-logs/11.-Delete-in-bulk-scaled.webp)
