@@ -4,24 +4,26 @@ description: "Fluent Forms now integrates OpenAI ChatGPT, making it easier for u
 
 # Create a Form with OpenAI ChatGPT
 
-Fluent Forms now integrates OpenAI ChatGPT, making it easier for users to create Forms effortlessly with simple commands. This article will guide you through the process of creating a form using [OpenAI ChatGPT](https://openai.com/).
+Fluent Forms integrates OpenAI ChatGPT, so you can create forms from simple prompts. This guide shows you how to create a form with [OpenAI ChatGPT](https://openai.com/), then customize it and publish it on your site.
 
 > [!Note]
 > **OpenAI ChatGPT** is a **Pro** feature. Install and activate the free Fluent Forms plugin, then add the [Fluent Forms Pro Add-on](/upgrade-to-pro-add-on). For free AI form creation without an OpenAI API key, use [Fluent Forms AI](/create-a-form-with-ai).
 
 ## Enable the OpenAI ChatGPT Module
 
-Before starting the process of creating a **Form** using **OpenAI ChatGPT**, you need to make sure the **OpenAI ChatGPT** module is enabled. Otherwise, you will not automatically get this module in your **Fluent Forms.**
+Enable the **OpenAI ChatGPT** module before you create a form with it. For the full setup, see [How to Integrate OpenAI ChatGPT with Fluent Forms](/integrate-openai-chatgpt).
 
-To enable the **OpenAI ChatGPT** module in your **Fluent Forms**, click **Integrations** in the Fluent Forms top bar. For the full setup, see [How to Integrate OpenAI ChatGPT with Fluent Forms](/integrate-openai-chatgpt).
+1. Click **Integrations** in the Fluent Forms top bar.
+2. Search for **OpenAI ChatGPT** in the **Search** box.
+3. Turn on the **Toggle** to enable the module.
 
-Now, search for **OpenAI ChatGPT** using the **Search** box, turn on the **Toggle**, and your **OpenAI ChatGPT** module will be enabled.
+You also need to add your OpenAI API key before you can generate forms.
 
 ![Enable ChatGPT module](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/1.-Enable-OpenAI-ChatGPT--scaled.webp)
 
 ## Create Forms using OpenAI ChatGPT
 
-To start, log in to your **WordPress Dashboard**. Now, navigate to **Fluent Forms > Forms** and click the **Add Form** button at the top right of the **Forms** screen.
+Log in to your **WordPress Dashboard**, go to **Fluent Forms → Forms**, and click **Add Form** at the top right of the **Forms** screen.
 
 ![Add new form](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/2.-Add-new-form-button-scaled.webp)
 
@@ -29,68 +31,62 @@ The **Create A New Form** window opens. Use the **Create a Form Using AI** secti
 
 ![ChatGPT AI tab](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/3.-Create-Using-ChatGPT-tab-1.webp)
 
-With the **OpenAI ChatGPT** module enabled, the AI prompt generates your form with ChatGPT.
+With the **OpenAI ChatGPT** module enabled, the AI prompt generates your form with ChatGPT. The section has these options:
 
-A brief explanation of the features mentioned in the screenshot is given below:
+ * **Prompt box:** Enter the title or purpose of the form you want, such as a survey, payment, or registration form.
+ * **Suggestions:** Pick a pre-built prompt. Fluent Forms adds it to the box.
+ * **Add specific questions:** Add detailed instructions about the information you want in your form.
 
- * **Prompt box:** Enter the title or purpose to specify the type of form you want to create (e.g., survey, payment, registration form, etc.).
- * **Suggestions:** Pick one of the pre-built prompts. The ready-made prompt is added to the box automatically.
- * **Add specific questions:** Provide extra detailed instructions about the information you want to include in your form.
+For example, enter instructions for a fast food ordering form. You can write instructions for any form you need.
 
-**For example**, here I am creating a form for ordering fast food. So, the instructions are provided related to it. You can give instructions according to your necessity based on your requirements.
-
-Once you are done, click the **Generate the Form** button.
+Click **Generate the Form**.
 
 ![ChatGPT create form](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/4.-Create-button-1.webp)
 
-Here you can see that the Form is fully ready with less time and effort only by using a few simple commands of OpenAI ChatGPT!
+ChatGPT generates the complete form from your instructions.
 
 ![ChatGPT form editor](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/5.-Newly-created-Form-Editor-scaled.webp)
 
 ## Customize the Form
 
-Once you are on the Editor page of your newly created form you can customize the added fields according to your needs.
+On the **Editor** page of your new form, you can customize the generated fields.
 
-To customize an added field, hover over it and the following customization options will appear. 
+Hover over a field to see these options:
 
-a. **Drag & Drop**: With this option, you can move your fields anywhere easily.
-
-b. **Arrow**: Using this option, you can move your fields one step up or down.
-
-c. **Edit**: Click the **Pencil Icon** to open the **Customize** tab on the right, which offers a wide range of options for customization.
-
-d. **Duplicate**: Click this button and the field will be duplicated.
-
-e. **Delete**: Click this **Trash Icon** and your field will be deleted.
+* **Drag & Drop:** Move the field anywhere in the form.
+* **Arrow:** Move the field one step up or down.
+* **Edit:** Click the **Pencil Icon** to open the **Customize** tab on the right, which has many customization options.
+* **Duplicate:** Click this button to duplicate the field.
+* **Delete:** Click the **Trash Icon** to delete the field.
 
 ![Input customization](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/6.-Input-Customization-tab-scaled.webp)
 
 ## Add New Fields
 
-From the **Editor** page of your newly created form, you can also add new fields based on your needs.
+You can also add new fields on the **Editor** page.
 
-To add fields, go to the **Input Fields** tab on the right side, open the group you need, and drag the field into your form.
+Go to the **Input Fields** tab on the right, open the group you need, and drag the field into your form.
 
-You can also **search for a field** by name using the search box.
+You can also search for a field by name in the search box.
 
-> **Tip:** See the **General Fields**, **Advanced Fields**, and other field categories in the documentation sidebar for guides on each input type.
+> **Tip:** See the [Form Fields overview](/form-fields-overview) for guides on each input type.
 
 ![Add form fields](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/7.-Add-New-Fields-scaled.webp)
 
 ## Embed Form into Frontend
 
-Once you complete the process, you can embed and display the form to the desired Page/Post of your WordPress Site by clicking the copy icon next to the **Shortcode** in the top bar.
+Click the copy icon next to the **Shortcode** in the top bar, then paste the shortcode into the **Page** or **Post** where you want the form.
 
-Also, to see the form preview, click the **Preview** (eye) icon.
+To preview the form, click the **Preview** (eye) icon.
 
-Finally, press the **Save** button (or **Cmd/Ctrl + S**) to save all your changes.
+Click **Save** (or press **Cmd/Ctrl + S**) to save your changes.
 
 ![Save Fluent Forms](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/8.-Save-Form-scaled.webp)
 
 ## Preview of Form
 
-Here is the **preview** of the **Form** that we just created.
+This is the **preview** of the new form.
 
 ![ChatGPT form preview](/images/creating-forms/form-builder-basics/create-a-form-with-openai-chatgpt/9.-Form-Preview-.webp)
 
-This way you can easily create the Forms by using the OpenAI ChatGPT in Fluent Forms!
+You can now create forms with OpenAI ChatGPT in Fluent Forms.
