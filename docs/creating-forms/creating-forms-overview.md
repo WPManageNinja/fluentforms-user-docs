@@ -4,11 +4,11 @@ description: "Building a form should feel effortless — and with Fluent Forms i
 
 # Creating Forms
 
-Building a form should feel effortless — and with **Fluent Forms** it is. Whether you want a simple contact form, a guided multi-step experience, an interactive conversational flow, or a ready-to-use template, you can go from idea to a published, working form in minutes. This page walks you through every way to create a form so you can pick the approach that fits your goal.
+With **Fluent Forms**, you can build a simple contact form, a multi-step form, a conversational form, or start from a ready-made template. This page lists every way to create a form, so you can pick the approach that fits your goal.
 
 ## Form Builder Basics
 
-Start here to learn the core building blocks. The drag-and-drop editor lets you assemble any form visually, and AI can do the heavy lifting when you want a head start.
+Start here to learn the core building blocks. The drag-and-drop editor lets you assemble any form visually, and AI can give you a head start.
 
 - [Create a Form](/create-a-form) — build and publish your first form with the drag-and-drop editor.
 - [Pre-built Quick Forms](/using-and-customizing-pre-built-quick-forms) — launch faster with ready-made templates you can customize.
@@ -17,28 +17,30 @@ Start here to learn the core building blocks. The drag-and-drop editor lets you 
 
 ## Conversational Forms
 
-Turn a static form into a friendly, one-question-at-a-time conversation that keeps people engaged and boosts completion rates.
+Turn a static form into a one-question-at-a-time conversation that keeps people engaged.
 
 - [Create a Conversational Form](/create-a-conversational-form) — convert any form into an interactive, chat-like experience.
 - [Design a Conversational Form](/design-a-conversational-form) — style backgrounds, colors, and branding to match your site.
 
 ## Specialized Form Types
 
-Go beyond contact forms. Fluent Forms lets you collect posts, register and update users, run quizzes, and capture leads — all from the same builder.
+Go beyond contact forms. You can collect posts, register and update users, run quizzes, and capture leads from the same builder.
 
-- [Post Form](/create-a-post-form) — let visitors submit posts to your site from the front end.
-- [User Registration Form](/create-a-wordpress-user-registration-form) — register new WordPress users through a form.
-- [User Update Form](/create-a-wordpress-user-update-form) — let users edit their own profile details.
-- [Multi-Step Form](/creating-a-multi-step-form) — break long forms into easy, step-by-step pages.
-- [Surveys & Polls](/surveys-and-polls) — gather opinions and visualize the results.
-- [Personality Quiz Form](/creating-a-personality-quiz-form) — engage visitors with interactive, outcome-based quizzes.
-- [Inline Opt-in Form](/inline-opt-in-form) — capture leads with lightweight embedded opt-ins.
+- [Post Form](/create-a-post-form) (Pro) — let visitors submit posts to your site from the front end.
+- [User Registration Form](/create-a-wordpress-user-registration-form) (Pro) — register new WordPress users through a form.
+- [User Update Form](/create-a-wordpress-user-update-form) (Pro) — let users edit their own profile details.
+- [Multi-Step Form](/creating-a-multi-step-form) (Pro) — break long forms into step-by-step pages.
+- [Surveys & Polls](/surveys-and-polls) (Pro results) — gather opinions and visualize the results.
+- [Personality Quiz Form](/creating-a-personality-quiz-form) (Pro) — run interactive, outcome-based quizzes.
+- [Inline Opt-in Form](/inline-opt-in-form) — capture leads with a compact embedded opt-in.
 
 ## Where to go next
 
-Once your form exists, give it the right inputs and behavior:
+After you create your form, add inputs and set its behavior:
 
-- [Add a Simple Text field](/adding-a-simple-text-input-field) — start adding the fields that collect exactly the data you need.
+- [Add a Simple Text field](/adding-a-simple-text-input-field) — add the fields that collect the data you need.
 - [Set Up Conditional Logic](/set-up-forms-with-conditional-logic) — make your form react to what users enter.
+- [Style Your Form](/form-layout-settings) — set the label, help, and error placement.
+- [Publish Your Form](/embed-your-forms-directly-in-gutenberg-layout) — add the form to a page or post.
 
-Need a hand along the way? See [How to Get Support](/get-support).
+For help, see [How to Get Support](/get-support).
