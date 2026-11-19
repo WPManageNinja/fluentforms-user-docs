@@ -4,58 +4,60 @@ description: "With the Frontend Entry View feature in Fluent Forms, users (or ad
 
 # Frontend Entry View
 
-With the **Frontend Entry View** feature in Fluent Forms, users (or admins) can view a submitted form through a unique link. This link is **hash-based**, meaning it’s secure and unique to each submission.
+The **Frontend Entry View** feature lets users or admins view a submitted form through a unique link. The link is **hash-based**, so it is secure and unique to each submission.
 
-As the admin, you have full control over who gets to view these entries. You can choose to show them only to the person who submitted the form, other admins, or even anyone else. It’s completely up to you. To display these entries publicly in a table instead, see [Show Fluent Forms Entries in Frontend using Ninja Tables](/show-entries-in-frontend-using-ninja-tables).
+You control who can view these entries: only the person who submitted the form, other admins, or anyone with the link. To display entries publicly in a table instead, see [Show Fluent Forms Entries in Frontend using Ninja Tables](/show-entries-in-frontend-using-ninja-tables).
 
-In this article, you will learn how to enable the frontend entry view feature and share the view link with the form submitter.
+This article shows you how to enable the frontend entry view and share the view link with the form submitter.
 
 ## Enable Frontend Entry View
 
-To use the frontend entry view feature, first create a new form or edit an existing one. From the form editor, click **Configuration** in the top bar. Then expand **Responses** in the left menu and click **Front End Entry View**.
+Create a new form or edit an existing one. In the form editor, click **Configuration** in the top bar. Expand **Responses** in the left menu and click **Front End Entry View**.
 
-Next, turn on the **Enable Front End View of User Submission** toggle. Once enabled, a few more options will appear:
+Turn on the **Enable Front End View of User Submission** toggle. More options appear:
 
-#### Content
+### Content
 
-In the content area, you can add a paragraph using the visual editor or code editor. You can also style your content here. You can include media files or [shortcodes](/shortcodes-in-confirmation-settings) to make the content more useful or personalized.
+Add a paragraph with the visual editor or code editor, and style it as you like. You can include media files or [shortcodes](/shortcodes-in-confirmation-settings) to personalize the content.
 
-#### Enable Restriction
+### Only Submitter or Admin Can View
 
-If you check this box, only the **form submitter** or an **admin** can view the submission. If left unchecked, **anyone with the link** will be able to view the entry.
+Check **Only Submitter or Admin Can View** to limit the submission to the **form submitter** or an **admin**. If you leave it unchecked, **anyone with the link** can view the entry.
 
-#### Background Color
+### Background Color
 
-This option lets you set a background color for the front-end entry view page. Use the color palette to select a color that complements your design.
+Set a background color for the front-end entry view page. Use the color palette to pick a color that fits your design.
 
-#### SEO Settings
+### SEO Settings
 
-If you turn on this option, the submission page will be **hidden from search engines**.
+Turn on **Add noindex meta tag** to **hide the submission page from search engines**.
 
-After setting everything up, click the **Save** button to apply the changes.
+Click **Save** to apply the changes.
 
 ![1024x552 Fluent Forms](/images/managing-submissions/entries/frontend-entry-view/01-1-1024x552.webp)
 
+You can also open this page from an entry in the dashboard with the **View Front-end Entry** action. See [Managing Entries](/managing-entries).
+
 ## Add Frontend View URL Link
 
-Go to **Configuration** > **Responses** > **Confirmation Settings**. Click on **Add Shortcode**, then choose **Entry Attributes** from the list. Scroll down and find the option called **Entry Frontend View Link**. Just click on it to insert the link.
+Go to **Configuration** > **Responses** > **Confirmation Settings**. Click **Add Shortcode**, then choose **Entry Attributes** from the list. Scroll down and click **Entry Frontend View Link** to insert the link.
 
-You can also add a button for the entry’s frontend view link. Just click on the **Button** option and paste the **Entry frontend view link** shortcode in the URL field.
+You can also add a button for the link. Click the **Button** option and paste the **Entry frontend view link** shortcode in the URL field.
 
-After adding the link, click the **Save** button.
+Click **Save**.
 
 ![Frontend Entry View step](/images/managing-submissions/entries/frontend-entry-view/2-2.webp)
 
-Now, when someone submits the form, they’ll see a link to view their entry on the frontend, just like in the screenshot example.
+When someone submits the form, they see a link to view their entry on the frontend, as in the screenshot below.
 
 ![Frontend Entry View step](/images/managing-submissions/entries/frontend-entry-view/3.webp)
 
-If you added a button for the entry frontend view link, they’ll see it, as shown in the screenshot below. After clicking on the button, the user will be able to see the submitted entries.
+If you added a button for the link, they see the button instead, as in the next screenshot. Clicking it opens the submitted entry.
 
 ![Frontend Entry View step](/images/managing-submissions/entries/frontend-entry-view/4-2.webp)
 
 ### View the Frontend Entry
 
-Visit the generated link, and you will now see the **Frontend view** of your form submission.
+Open the generated link to see the **Frontend view** of your form submission.
 
 ![Frontend Entry View step](/images/managing-submissions/entries/frontend-entry-view/5-3.webp)

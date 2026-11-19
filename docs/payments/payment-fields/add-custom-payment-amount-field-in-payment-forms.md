@@ -4,78 +4,79 @@ description: "In Fluent Forms, the Custom Amount field allows users to pay any a
 
 # Add Custom Payment Amount Field in Payment Forms
 
-In **Fluent Forms**, the **Custom Amount** field allows users to pay any amount based on their needs. This article will guide you through adding the **Custom Payment Amount** field in your Fluent Forms for your WordPress Site.
+In **Fluent Forms**, the **Custom Amount** field lets users pay any amount they choose. This field suits donations. To mark a form as a donation form, set **Transaction Type** to **Donations** in the form's payment settings. See [Configure Payment Settings](/configure-payment-settings). This article shows you how to add the **Custom Payment Amount** field to your form.
 
 ## Add Custom Payment Amount Field
 
-Go to **Forms** from the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form **editor**.
+Go to **Forms** in the Fluent Forms navbar, open your payment form, and click the **Edit** icon to open the form **editor**.
 
-For example, I choose an existing form to show the whole process.
+This guide uses an existing form to show the whole process.
 
 ![Open Custom Payment Amount Field](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/1.-Open-desired-form-1-scaled.webp)
 
-Once you open the **Editor** page, go to the **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Custom Payment Amount** field. 
+On the **Editor** page, go to **Input Fields** in the right sidebar, open the **Payment Fields** module, and add the **Custom Payment Amount** field.
 
 > [!Note]
 > Enable **Payment Fields** on your form first. See [How to Create a Payment Form With Fluent Form](/create-a-payment-form).
 
 ![Add Custom Amount Payment](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/2.-Add-Custom-Amount-Payment-scaled.webp)
 
-You can see that a **Custom Payment Amount** field is added to the form. You can edit this field by **hovering over it** and clicking the **Pencil Icon**.
+The **Custom Payment Amount** field now appears in the form. To edit it, **hover over it** and click the **Pencil Icon**.
 
-It will take you to the **Customize** tab on the right side and offer you the following options for customizing the Custom Payment Amount field. 
+The **Customize** tab opens on the right side with these options:
 
 1. Custom Payment Amount
-
 2. Advanced Options
 
 ![Input Customization](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/3.-Input-Customization-1-scaled.webp)
 
 ### 1. Custom Payment Amount
 
-Here, you will get various settings options for customizing the field. 
+This tab has several settings for the field.
 
-**A. Element Label**: This is the field title the users will see when filling out the **Custom Payment Amount** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label**: The field title users see when they fill out the **Custom Payment Amount** field. Enter any text that helps users understand the field.
 
-**B. Label Placement**: Using this option, you can determine the position of the label title where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement**: Sets where the label appears. The options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label**: The admin field label is a field title displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option. 
+**C. Admin Field Label**: A field title shown only to admin users. Use it to show a different label when admins view the form submissions.
 
-**D. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the **Custom Payment Amount** field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
+**D. Placeholder**: Text that tells users what the **Custom Payment Amount** field is for. It is the equivalent of the HTML input placeholder attribute. Users see this text while the field is empty.
 
-**E. Required**: Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in.
+**E. Required**: Select **Yes** to make the field mandatory for a successful form submission. Select **No** to keep it optional.
 
-**F. Min Value**: With this option, you can specify the minimum quantity users must select. You can also, add the error message by enabling the Toggle button.
+**F. Min Value**: Sets the minimum amount users can enter. Turn on the toggle to add an error message.
 
-**G. Max Value**: With this option, you can specify the maximum quantity users can select. You can also, add the error message by enabling the Toggle button.
+**G. Max Value**: Sets the maximum amount users can enter. Turn on the toggle to add an error message.
+
+**H. Number Format**: Choose how the amount is formatted as users type it.
 
 ![Custom Payment Amount Option](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/4.-Custom-Payment-Amount-option-scaled.webp)
 
 ### 2. Advanced Options
 
-Each option in the **Advanced Options** tab is explained below.
+The **Advanced Options** tab has these settings:
 
-**A. Default Value:** You can set the default quantity for selecting your items.
+**A. Default Value:** Sets the default amount shown in the field.
 
-**B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
+**B. Container Class**: Adds your custom CSS classes to the field's wrapper.
 
-**C. Element Class**: Use this option to add your custom CSS for a specific input field of a form.
+**C. Element Class**: Adds your custom CSS classes to this input field.
 
-**D. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
+**D. Help Message**: Text shown to the user as a help message. To learn more, read this Documentation.
 
-**F. Prefix Label**: Use this option to provide a Prefix Label in your input field. It will show in the input field as a Prefix label.
+**E. Prefix Label**: Text shown as a prefix in the input field.
 
-**G. Suffix Label**: Use this option to provide a Suffix Label in your input field. It will show in the input field as a Suffix label.
+**F. Suffix Label**: Text shown as a suffix in the input field.
 
-**G. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**G. Name Attribute**: The HTML name attribute of the input field. You do not need to change it.
 
-**H. Conditional Logic**: This option allows the Custom Payment Amount field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
+**H. Conditional Logic**: Shows or hides the Custom Payment Amount field based on submission values and your conditional logic rules. To learn more, see [Set Up Forms with Conditional Logic](/set-up-forms-with-conditional-logic).
 
-**I. Calculation Field Settings**: Enable this and provide formula expression if you want this field as calculated based on other numeric field value. To learn more, read [Numeric Calculation in Fluent Forms](/numeric-calculation).
+**I. Calculation Field Settings**: Turn this on and enter a formula expression to calculate this field from other numeric field values. To learn more, see [Numeric Calculation in Fluent Forms](/numeric-calculation).
 
 ![Advanced Options](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/5.-Advanced-Options-1-scaled.webp)
 
-Once you complete all the customization, don’t forget to add the [Payment Method](/add-payment-method-field-in-payment-forms) field to collect the payments. Plus to collect the recurring payments, you can add the [Subscription](/add-subscription-field-in-payment-forms) field.
+After you customize the field, add the [Payment Method](/add-payment-method-field-in-payment-forms) field to collect payments. To collect recurring payments, add the [Subscription](/add-subscription-field-in-payment-forms) field.
 
 > [!Note]
 > Payment fields work only after you configure your gateway. See [Configure Payment Settings with Fluent Forms](/configure-payment-settings).
@@ -84,16 +85,14 @@ Once you complete all the customization, don’t forget to add the [Payment Meth
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** **Form** button to save all changes you made. Also, to see the form preview, click the **Preview** button in the middle.
+Click **Save Form** to save your changes. To see a preview, click **Preview** in the form editor.
 
-To integrate and display the form on a specific Page/Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
+To display the form on a Page or Post, copy the **Shortcode** from the top right side and paste it into the Page or Post.
 
 ![Save Custom Payment Amount Field](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/7.-Save-Form-scaled-2.webp)
 
-### Preview of Custom Payment Amount field
+### Preview of Custom Payment Amount Field
 
-Here, is the preview of the added **Custom Payment Amount** field under the Payment Form. 
+The preview below shows the **Custom Payment Amount** field in the payment form.
 
 ![Preview Custom Payment Amount Field](/images/payments/payment-fields/add-custom-payment-amount-field-in-payment-forms/8.-Form-Preview.webp)
-
-This way you can easily add the **Custom Payment Amount** fields in Fluent Forms!

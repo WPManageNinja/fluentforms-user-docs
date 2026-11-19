@@ -1,12 +1,12 @@
 ---
-description: "The Quiz Module in Fluent Forms allows you to create mutual quizzes, calculate scores, and display results as grades, points, fractions, or percentages."
+description: "The Quiz Module in Fluent Forms lets you create quizzes, calculate scores, and display results as grades, points, fractions, or percentages."
 ---
 
 # Quiz Module
 
-The **Quiz Module** in Fluent Forms allows you to create mutual quizzes, calculate scores, and display results as grades, points, fractions, or percentages. This feature is ideal for tests, assessments, and educational purposes. If you want to score traits instead of right answers, see [Creating a Personality Quiz Form in Fluent Forms](/creating-a-personality-quiz-form).
+The **Quiz Module** in Fluent Forms lets you create quizzes, calculate scores, and display results as grades, points, fractions, or percentages. Use it for tests, assessments, and educational content. To score traits instead of right answers, see [Creating a Personality Quiz Form in Fluent Forms](/creating-a-personality-quiz-form).
 
-This article will guide you in creating a successful **Quiz Module** with fluent forms.
+This guide shows you how to set up the **Quiz Module**.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/bPjDXR0y_Oo" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,11 +14,14 @@ This article will guide you in creating a successful **Quiz Module** with fluent
 
 ## Activating the Quiz Module
 
-To activate the Quiz module, go to **Integrations** in the Fluent Forms navbar, search for **Quiz Module**, and turn it on (available in Fluent Forms Pro).
+Go to **Integrations** in the Fluent Forms navbar, search for **Quiz Module**, and turn it on.
+
+> [!Note]
+> The Quiz Module is available in **Fluent Forms Pro**.
 
 ![Enable Quiz Module Fluent Forms Quiz Module](/images/modules/quiz-module/enable-quiz-module-01-scaled.webp)
 
-Now, create a new form or edit an existing one. Add relevant fields such as **Radio**, **Checkbox**, **Multi-select**, or **Dropdown** fields.
+Create a new form or edit an existing one. Add fields such as **Radio**, **Checkbox**, **Multi-select**, or **Dropdown** fields.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -29,53 +32,53 @@ Now, create a new form or edit an existing one. Add relevant fields such as **Ra
 
 **Quiz Score** is a hidden advanced field that calculates quiz scores.
 
-This field is only visible to the admin and can be used in confirmation messages or email notifications. To learn more, read the [Quiz Score in Fluent Forms](/quiz-score) guide.
+Only the admin can see this field. You can use it in confirmation messages or email notifications. To learn more, read the [Quiz Score in Fluent Forms](/quiz-score) guide.
 
 ![Quiz Score](/images/modules/quiz-module/quiz-score-02-scaled.webp)
 
 ## Configuring Quiz Settings
 
-To configure the quiz settings, open your form, click **Configuration**, and click **Quiz Settings** in the left menu. Now, turn on the **Enable Quiz Module** toggle for the form. 
+Open your form, click **Configuration**, and click **Quiz Settings** in the left menu. Turn on the **Enable Quiz Module** toggle for the form.
 
 ![Enable Quiz Setting Fluent Forms Quiz Module](/images/modules/quiz-module/enable-quiz-setting-03-scaled.webp)
 
-**A. Append Result:** Make sure the **Show Result on confirmation page** option is checked. This option helps display the quiz result on the [confirmation message](/setup-form-submission-confirmation-message) page after submission.
+**A. Append Result:** Check the **Show Result on confirmation page** option. It shows the quiz result on the [confirmation message](/setup-form-submission-confirmation-message) page after submission.
 
-**B. Randomize Questions:** If you enable this option, the order of the questions will be randomly generated every time the quiz is loaded.
+**B. Randomize Questions:** When on, the order of the questions is random each time the quiz loads.
 
-**C. Randomize Options:** If you enable this option, the answer options for each question on every load will be randomized.
+**C. Randomize Options:** When on, the answer options for each question are random on every load.
 
 **D. Grade System:** Define grade labels and set minimum and maximum ranges for each grade. Use the **+** button to add a grade level and the **trash** icon to remove one.
 
-- **Grade Label:** Customizable grade labels such as A, B, C, D etc as you want.
+- **Grade Label:** Set grade labels such as A, B, C, or D.
 
-- **Minimum Range / Max Range:** You can set score ranges for each grade level.
+- **Minimum Range / Max Range:** Set the score range for each grade level.
 
 ![Grade System](/images/modules/quiz-module/Grade-system-04-04-10-2025_05_58_PM-scaled.webp)
 
 ### Simple Scoring
 
-Your Quiz Questions will be displayed here, and you can simply set your **Quiz Question** **Score** and the **Correct Answer** to your Questions. 
+Your quiz questions appear here. Set the **Score** and the **Correct Answer** for each question.
 
-To set a score, first turn on the toggle next to the question you want to score. Then, choose the **Condition**, set the **Correct Answer**, and enter the **Score**. 
+To set a score, turn on the toggle next to the question. Choose the **Condition**, set the **Correct Answer**, and enter the **Score**.
 
-Now click the **Save** button. You can also reset the Quiz by clicking the **Reset Quiz Setting** button.
+Click **Save**. To reset the quiz, click **Reset Settings**.
 
 ![Simple Scoring](/images/modules/quiz-module/Simple-scoring-05-scaled.webp)
 
-After submitting the form, the result on the Confirmation Page will look like the screenshot below; otherwise, it will simply show a Thank You message.
+After submission, the Confirmation Page shows the result as in the screenshot below. Without the result option, it shows only a Thank You message.
 
 ![Simple Scoring](/images/modules/quiz-module/simple-scoring-02.webp)
 
 ### Advanced Scoring
 
-You may also check the **Advance Scoring** option on a question to use the **Advanced Scoring** system to assign scores to each option. You can control your question scoring with these options. There is no option to select the right or wrong answer in Advanced Scoring.
+Check the **Advance Scoring** option on a question to assign a score to each option. Advanced Scoring has no option to mark an answer right or wrong.
 
 ![Advanced Scoring](/images/modules/quiz-module/advanced-scoring-02.webp)
 
-After submitting the form, the result on the Confirmation Page will look like the screenshot below; otherwise, it will simply show a Thank You message.
+After submission, the Confirmation Page shows the result as in the screenshot below. Without the result option, it shows only a Thank You message.
 
 Point 13 means New York scored 10, and Dallas scored 03. (10+3=13)
 
-![Advanced Scorin](/images/modules/quiz-module/advanced-scorin-06-1.webp)
+![Advanced Scoring](/images/modules/quiz-module/advanced-scorin-06-1.webp)
 

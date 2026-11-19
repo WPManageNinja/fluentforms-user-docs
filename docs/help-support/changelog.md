@@ -95,6 +95,30 @@ _Released on October 16, 2026_
 
 :::
 
+## Fluent Forms Pro v6.2.16
+
+_Released on October 16, 2026_
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added a "Map all form fields" button to Google Sheets feeds
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Google Sheets feeds saving with no fields mapped and adding empty rows
+• Fixed Global Inventory options valued "0", like free tickets, not counting toward their stock limit
+• Fixed Global Inventory radio and dropdown options without an inventory item always showing as out of stock
+```
+
+```markdown [🔒 Security]
+• Hardened Global Inventory stock limits so they can't be exceeded
+• Hardened coupon use limits so they can't be bypassed, including codes typed in a different case and non-stackable coupons
+• Hardened security for User Registration feed roles, PayPal subscription notifications, guest order linking, and submitted values on confirmation pages
+```
+
+:::
+
 ## Fluent Forms v6.2.15
 
 _Released on September 30, 2026_

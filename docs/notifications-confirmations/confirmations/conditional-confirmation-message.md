@@ -4,11 +4,12 @@ description: "Sometimes, you can display confirmation messages based on user inp
 
 # Conditional Confirmation Message
 
-Sometimes, you can display confirmation messages based on user input. Fluent Forms allows you to set up **Conditional Confirmation Messages** so that users receive individualized feedback based on specific conditions. If you are new to confirmations, start with the [form submission confirmation message](/setup-form-submission-confirmation-message) setup first.
+Conditional confirmations show different confirmation messages based on what visitors enter (Pro). Set up **Conditional Confirmation Messages** so visitors get feedback that matches their answers. If you are new to confirmations, start with the [form submission confirmation message](/setup-form-submission-confirmation-message) setup.
 
-In this documentation, we will walk you through setting up a conditional confirmation message with Fluent Forms.
+This guide shows you how to set up a conditional confirmation message.
 
-So, let's get started.
+> [!Note]
+> This feature is available in **Fluent Forms Pro**.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/IfU4TZzZhD8" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -16,78 +17,74 @@ So, let's get started.
 
 ## Access the Form Settings
 
-To access the form settings, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditional confirmation message.
+Go to **Forms** in the top navbar. Click **Edit** on the form where you want the conditional confirmation message to open its **Editor**.
 
-Once inside the form editor, click **Configuration** in the top bar. Now, open **Conditional Confirmation** under **Responses** in the left rail.
+In the form editor, click **Configuration** in the top bar. Open **Conditional Confirmation** under **Responses** in the left rail.
 
 ![Confirmation Settings](/images/notifications-confirmations/confirmations/conditional-confirmation-message/Confirmation-Settings-01-scaled.webp)
 
 ## Add a New Confirmation Message
 
-Here appears a new window. Now click the **Add Confirmation** button in the top right corner.
+Click **Add Confirmation** in the top right corner.
 
 ![Add Confirmation Conditional Confirmation Message](/images/notifications-confirmations/confirmations/conditional-confirmation-message/Add-confirmation-02-scaled.webp)
 
-Here also appears a new window. Now enter the details -
+Enter the details:
 
- **Confirmation Name:** Give a confirmation name that describes its purpose. 
+ **Confirmation Name:** Enter a name that describes the purpose of the confirmation.
 
- **Confirmation Type:**  Choose where you want the confirmation message to appear. There are three Confirmation types. 
+ **Confirmation Type:** Choose where the confirmation message appears. There are three confirmation types:
 
    - **Same Page:** Displays the confirmation message on the same page as the form.
-   - **To a page:**  Redirects the user to a specific page after form submission.
-   - **To custom URL:** Redirects the user to a custom URL after form submission.
+   - **To a page:** Redirects the user to a specific page after form submission. Choose the page in **Select Page**.
+   - **To custom URL:** Redirects the user to a custom URL after form submission. Enter it in **Redirect URL**.
 
- **Message to Show:** Here enter the custom message you want to display when the condition is met. You can also add shortcode or image to your message.
+ **Message to Show:** Enter the custom message to display when the condition is met. You can also add a shortcode or an image to the message.
 
 ![Confirmation Message](/images/notifications-confirmations/confirmations/conditional-confirmation-message/confirmation-message-03-scaled.webp)
 
- **Custom URL:** The field where you can enter the custom URL. Turn on **Pass Field Data Via Query String** to append field values as query parameters.
+ For the **To a page** and **To custom URL** types, you also see these fields:
 
-   - **Pass Field Data Via Query String:** This allows you to pass form field data as query parameters in the redirect URL.
-
->[!Note]
-> For this option to be enabled you must check the Pass Field Data Via Query String box below.
+   - **Redirect Query String:** Turn on **Pass Field Data Via Query String** to add field values to the redirect URL as query parameters.
+   - **Redirection Message:** Enter the text visitors see before the redirect.
 
 ![Pass String Query](/images/notifications-confirmations/confirmations/conditional-confirmation-message/pass-string-query-04.webp)
 
-Suppose If you select **To a Custom URL** and enable **Pass Field Data Via Query String**, you can enter a URL like this: `https://example.com/thank-you?email={email}&phone={phone}`
+If you select **To custom URL** and enable **Pass Field Data Via Query String**, you can enter a URL like this: `https://example.com/thank-you?email={email}&phone={phone}`
 
-Then it will redirect the user to the **https://example.com/thank-you** page and pass the values of the phone and email fields as query parameters. 
+This redirects the user to the **https://example.com/thank-you** page and passes the values of the phone and email fields as query parameters. You can use these parameters on the thank-you page to show personalized information or run other actions.
 
-You can use these query parameters on the thank-you page to display personalized information or perform other actions.
-
-**After Form Submission:** Now choose what should happen after the form is submitted. Options are **Hide Form** and **Reset Form**. 
+**After Form Submission:** Choose what happens after the form is submitted. The options are **Hide Form** and **Reset Form**.
 
 >[!Note]
-> This option only shows the message when you select the Same Page option in Confirmation Type.
+> This option shows the message only when you select **Same Page** as the Confirmation Type.
 
 ### Enable Conditional Logic
 
-First enable the [Conditional logic](/set-up-forms-with-conditional-logic) by clicking the check box. Now decide whether all conditions must be met select **All** or if any single condition is sufficient select **Any**.
+Turn on [Conditional logic](/set-up-forms-with-conditional-logic) with the checkbox. The sentence **Run this confirmation if All/Any of the following match** appears. Select **All** if every condition must be met, or **Any** if one condition is enough.
 
-Then Select the specific form fields on which the condition will depend. For example, you might choose a rating or numeric input field.
+Select the form field the condition depends on. For example, choose a rating or numeric input field.
 
-Now define the logic that needs to be satisfied for the confirmation message to appear. You can set conditions like:
+Define the logic that must be met for the confirmation message to appear. The operators are:
 
-- Equal to / Not equal to: Exact match or mismatch.
+- Equal / Not equal: Exact match or mismatch.
 
 - Greater than / Less than: Numerical comparison.
 
-- Contains: The text field contains a specific word or phrase.
+- Contains / Does not contain: The text field includes, or does not include, a specific word or phrase.
 
 - Starts with / Ends with: The text field starts or ends with certain characters.
 
-- Advanced Operator: Equal,Less,Greater, and Regex match data length.
+- Matches regex: The value matches a regular expression.
 
-Next, provide the specific value or condition that triggers the message. For instance, if you want to display a message when the user's score is less than 3, you would set the logic to "less than 3."
+- Advanced operators: Equal to, Less than, and Greater than Data Length, and Regex Match.
 
-If you want to add multiple conditional logic then click the plus icon on the left side.
+Enter the value that triggers the message. For example, to show a message when the user's score is less than 3, set the logic to "less than 3."
 
-Once your message and logic are set, click **Save** to apply the changes.
+To add more conditions, click the plus icon on the right side of the condition row.
+
+Click **Save**.
 
 ![Confirmation Logic](/images/notifications-confirmations/confirmations/conditional-confirmation-message/confirmation-logic-05-scaled.webp)
 
-Users will see a message that matches their input by setting up these conditional confirmations, creating a more personalized and responsive experience.
-
-And that’s it! You’ve successfully set up Conditional Confirmation Messages in Fluent Forms, ensuring users receive appropriate feedback based on their form submissions.
+Visitors now see the message that matches their input.

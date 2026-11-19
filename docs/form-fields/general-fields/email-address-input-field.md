@@ -4,9 +4,9 @@ description: "The Email Address Input Field is essential to any form. Fluent For
 
 # Email Address Input Field
 
-The Email Address Input Field is essential to any form.[ Fluent Forms](https://wordpress.org/plugins/fluentform/) allows you to produce an input field to take user addresses. You can easily add, customize, and validate this field.
+The **Email Address** field collects user email addresses. In [Fluent Forms](https://wordpress.org/plugins/fluentform/), you can add, customize, and validate this field.
 
-Below is a comprehensive guide on configuring the Email Address input field.
+This guide shows you how to configure the **Email Address** field.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/tHl7BE5sEAw" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -18,15 +18,15 @@ Go to **Forms** from the Fluent Forms navbar, then click **Add New Form** to cre
 
 ![Adding Fluent Forms](/images/form-fields/general-fields/email-address-input-field/adding-the-form-01-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, choose the desired **Email Address** field by clicking or **drag** and **drop** it into your editor.
+Click the **Email Address** field, or drag and drop it into your editor.
 
 ![Email Address Input Field step](/images/form-fields/general-fields/email-address-input-field/new-4-scaled.webp)
 
 ## Customizing the Email Address Input Field
 
-An email field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Email Field Options
 
@@ -36,60 +36,58 @@ An email field has been added. You can edit this field by **hovering over it** a
 
 ### Email Field Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Email Address** field.
+These options in the **Customize** tab configure the **Email Address** field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Email** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Email** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.   
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute. 
+**D. Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-**E. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
+**E. Required:** Choose whether users can submit the form with this field empty.
 
-**F. Validate Email:** You can select **Yes** to notify a user that he needs to add a Valid Email; otherwise, an Error message will show. Or you can choose **No**. For real-time verification of deliverable addresses, see [Email Validation with Clearout](/email-validation-with-clearout).
+**F. Validate Email:** Select **Yes** to show an Error message when a user enters an invalid email. Select **No** to skip this check. For real-time verification of deliverable addresses, see [Email Validation with Clearout](/email-validation-with-clearout).
 
 ![Basic Options](/images/form-fields/general-fields/email-address-input-field/Basic-Options-04-3-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
 **A. Autocomplete:** Choose a value that tells the browser what the field collects, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding of Dynamic Default Value, [read this article.](/dynamic-default-value)
+**B. Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read [Dynamic Default Value](/dynamic-default-value).
 
-**C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**C. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**E. Help Message:** Add text that appears as a help message for the user.
 
-**Validate as Unique:** Ensure the email address is unique among all submissions. If it is not unique, users will receive an error message. Learn more in [Unique Field Validation](/unique-field-validation).
+**Validate as Unique:** Require the email address to be unique among all submissions. If it is not unique, users see the message you set in **Validation Message for Duplicate**. Learn more in [Unique Field Validation](/unique-field-validation).
 
-**F. Prefix Label:** You can use this field to provide a **Prefix Label** in your input field. It will show in the input field as a prefix label.
+**F. Prefix Label:** Add text that shows in the input field as a prefix.
 
-**G. Suffix Label:** You can use this field to provide a Suffix Label in your input field. It will show in the input field as a suffix label.
+**G. Suffix Label:** Add text that shows in the input field as a suffix.
 
-**H. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**H. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**I. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Option](/images/form-fields/general-fields/email-address-input-field/Advanced-option-05-scaled.webp)
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Email Address Input Field](/images/form-fields/general-fields/email-address-input-field/Save-Form-06-4-scaled.webp)
 
 ### Preview of Added Email Address Field
 
-Here is the preview of the added **Email Address** field under the Form. 
+Here is the form with the **Email Address** field added.
 
 ![Preview Email Address Input Field](/images/form-fields/general-fields/email-address-input-field/Preview-08.webp)
-
-These are the total configuration processes for the Email Address input field.

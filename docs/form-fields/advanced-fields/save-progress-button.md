@@ -4,31 +4,31 @@ description: "The Save & Resume field in Fluent Forms allows users to store thei
 
 # Save Progress Button
 
-The **Save & Resume** field in Fluent Forms allows users to store their form progress in the database without being logged in. A unique link is generated, enabling users to continue filling out the form later from any device.
+The **Save & Resume** field in Fluent Forms lets users store their form progress in the database without logging in. Fluent Forms generates a unique link, so users can continue the form later from any device.
 
-This guide will walk you through adding and customizing the **Save & Resume** field in Fluent Forms.
+This guide shows you how to add and customize the **Save & Resume** field in Fluent Forms.
 
 > [!Note]
 > The **Save & Resume** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Adding a Save Progress Button Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Editor](/images/form-fields/advanced-fields/save-progress-button/Form-editor-01-5-scaled.webp)
 
-Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the **Save & Resume** Input field by clicking or dragging it and dropping it into your editor.
+Click the **Save & Resume** field, or drag and drop it into your editor.
 
 ![Adding Save Resume Field](/images/form-fields/advanced-fields/save-progress-button/Adding-Save-Resume-field-02-scaled.webp)
 
 ## Customizing the Save & Resume Input Field
 
-Once you add the **Save & Resume** Input field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
+After you add the **Save & Resume** field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these options:
 
 - Save & Resume Field Options
 
@@ -38,68 +38,76 @@ Once you add the **Save & Resume** Input field, you can customize it by hovering
 
 ### Save & Resume Options
 
-Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Save & Resume** Input field.
+These options in the **Customize** tab configure the **Save & Resume** field.
 
-**A. Button Text:** You can choose your button text **Default** or **Image**. Users can customize button text using this field if you keep button text by default. Whichever text is used for this field will be shown as the button text.
+**A. Button Text:** Choose **Default** or **Image**. With **Default**, enter the text to show on the button.
 
-If you select the **Image** option, you can add an image as your button with the image **URL**. Also, you can add **Image Alt text** for your button.
+With **Image**, add the image **URL**. You can also add **Image Alt text** for the button.
 
-**B. Button Style:**  You can choose the button style dropdown option from the right side. Also you can select **Custom** options to adjust predefined color schemes, position, and functionality. 
+**B. Button Style:** Choose a button style from the dropdown on the right. Select **Custom** to adjust the predefined color schemes, position, and functionality.
 
-- **Background Color:** Choose a suitable background colour for the button according to your website's colour scheme. In my case, the default background color is blue.
+- **Background Color:** Choose a background color that fits your website's color scheme.
 
-- **Text Color:** Based on the background colour, you can give a smooth colour to the button text.
+- **Text Color:** Choose a button text color that reads well on the background color.
 
-- **Border Color:** The button, by default, has a one-pixel border. You can also define a color for the border.
+- **Border Color:** The button has a one-pixel border by default. Set a color for the border.
 
-- **Border Radius:** Enter the border-radius that suits your forms.
+- **Border Radius:** Enter the border radius you want.
 
-- **Min-Width:** You can give a minimum width to the button in pixels and percentages, whichever suits your form. A 100% min-width will be a full-width button.
+- **Min-Width:** Set a minimum width for the button in pixels or percentages. A 100% min-width makes a full-width button.
 
 ![Button Style Save Progress Button](/images/form-fields/advanced-fields/save-progress-button/Button-Style-04-scaled.webp)
 
-**C. Button Size:** Select the button size suitable for your form. There are three options: Small, Medium, and large. You can choose one option.
+**C. Button Size:** Choose one of three sizes: **Small**, **Medium**, or **Large**.
 
-**D. Content Alignment:** This option defines how the content will be aligned.
+**D. Content Alignment:** Set how the button content is aligned.
 
-**E. Success Message:** Enter a text that displays when the user sees their progress is saved.
+**E. Success Message:** Enter the text users see when their progress is saved.
 
-**F. Allow Only for Logged-in Users:** If you select **Yes** option here, then **only** logged-in users can use Save & Resume. If you choose the **No** option, all users can save the progress.
+**F. Allow Only for Logged-in Users:** Select **Yes** to let **only** logged-in users use Save & Resume. Select **No** to let all users save their progress.
 
-**G. Enable Email Link**: You can allow users to get an **Email Resume Link** by selecting the **Yes** or **No** options.
+**G. Enable Email Link:** Select **Yes** to let users get an **Email Resume Link**, or **No** to turn it off.
 
-**H. Email Subject:** You can use {form_name} placeholder to get the Form Name.
+**H. Email Subject:** Use the {form_name} placeholder to add the form name.
 
-**I. Email Body:** Enter the email body text here.
+**I. Email Body:** Enter the email body text. Use the `{email_resume_link}` placeholder to add the resume link.
+
+**J. Allow use the link only once:** Select **Yes** to make the resume link work one time only. After that, no one can use it.
 
 > [!Tip]
-> Style the **Hover** state the same way as the default state. Select **Hover** in the button style panel and apply matching colors, borders, and typography.
+> Style the **Hover** state the same way as the default state. Select **Hover** in the button style panel and apply matching colors and borders.
 
 ![Save Resume](/images/form-fields/advanced-fields/save-progress-button/Save-Resume-05-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. 
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**A. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **B. Element Class:** Add custom CSS classes to the input field.
 
-**C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**C. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**D. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
 
-**E. Send Email on Partial Entry Created**: If you want to enable the user to receive an email when they initially save the progress as a [partial entry](/partial-entries-for-step-forms), select the **Yes** options, or if you don’t receive an email when they initially save progress, select the **No** options.
+**E. Send Email on Partial Entry Created:** Select **Yes** to send the user an email when they first save progress as a [partial entry](/partial-entries-for-step-forms). Select **No** to send no email.
 
-**F. Send Email on Partial Entry Updated**: If you want users not to receive an email when they update their saved progress, select the **No** option, or if you're going to receive an email when they update their saved progress, select the **Yes** option.
+**F. Send Email on Partial Entry Updated:** Select **Yes** to send the user an email when they update their saved progress. Select **No** to send no email.
+
+When you turn on either email option, these fields appear:
+
+- **Email Address:** The address that gets the email. If you leave it empty, the email goes to the admin.
+- **Email Subject:** The subject line. Use the `{form_name}` placeholder to add the form name.
+- **Email Body:** The email text. Use the `{partial_entry_link}` placeholder to add the partial entry details.
 
 ![Advanced Options](/images/form-fields/advanced-fields/save-progress-button/Advanced-Options-06-1-scaled.webp)
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific Page or Post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 > [!Note]
 > **Save & Resume** also works on **multi-step forms**. See [Creating a Multi-Step Form in Fluent Forms](/creating-a-multi-step-form).
@@ -108,12 +116,10 @@ To integrate and display the form on a specific Page or Post, **copy** the **Sho
 
 ## Preview of Save & Resume Field
 
-Here is the added **Save & Resume** field preview under the form.
+Here is the form with the **Save & Resume** field added.
 
 ![Preview Save Progress Button](/images/form-fields/advanced-fields/save-progress-button/preview-01-08.webp)
 
-Admin may now add this form's shortcode to any page. Users can see the form, and after hitting the **Save Progress Button**, a **link** will be generated so that they can use this link to view the form from any browser at any time. For a better understanding, see the screenshot below.
+Add the form's shortcode to any page. Users see the form. When they click the **Save Progress Button**, Fluent Forms generates a **link**. Users can open this link in any browser at any time to continue the form. The screenshot below shows the result.
 
 ![Preview Save Progress Button](/images/form-fields/advanced-fields/save-progress-button/preview-of-save-progress-button.webp)
-
-Congratulations! You have successfully added a Save & Resume field to your Fluent Forms form.

@@ -4,16 +4,16 @@ description: "The Inventory Module in Fluent Forms allows you to manage your ord
 
 # Inventory Module
 
-The **Inventory Module** in Fluent Forms allows you to manage your order forms and predefined item numbers. This powerful feature is ideal for event booking, reservations, product sales, or ticketing, and also it helps to keep track of inventory. 
+The **Inventory Module** in Fluent Forms lets you manage your order forms and predefined item numbers. Use it for event booking, reservations, product sales, or ticketing to keep track of inventory.
 
-This article will guide you in creating a successful Inventory Module with fluent forms.
+This guide shows you how to set up the Inventory Module.
 
 > [!Note]
-> The Fluent Form Inventory Module is only available for the Fluent Form Pro version.
+> The Inventory Module is available in **Fluent Forms Pro**.
 
 ## Enabling the Inventory Module
 
-Go to **Integrations** from the **Fluent Forms Navbar**, search for **Inventory Module** in the search bar, and open the **Inventory** module.
+Go to **Integrations** in the **Fluent Forms Navbar**. Search for **Inventory Module** in the search bar and open the **Inventory** module.
 
 Turn on the **Toggle** to enable the **Inventory** module.
 
@@ -21,7 +21,7 @@ Turn on the **Toggle** to enable the **Inventory** module.
 
 ## Setting Up Inventory in a Form
 
-Once the module is enabled, you can create a new form or edit an existing one to add inventory-related fields such as:
+After you enable the module, create a new form or edit an existing one. Add inventory-related fields such as:
 
 - [Payment items](/add-payment-item-field-in-payment-forms)
 
@@ -33,7 +33,7 @@ Once the module is enabled, you can create a new form or edit an existing one to
 
 - Checkboxes
 
-You can use a [Checkbox Field](/checkbox-field) to demonstrate Inventory Management.
+This guide uses a [Checkbox Field](/checkbox-field) to demonstrate inventory management.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -42,21 +42,21 @@ You can use a [Checkbox Field](/checkbox-field) to demonstrate Inventory Managem
 
 ## Configuring Inventory Settings
 
-**Inventory Settings** will appear in the **Advanced Options** section of the **Customize** panel when the **Inventory Module** is active. By default, these settings are **Disabled**. You will also see **Simple** and **Global** options. You can choose any of them.
+When the **Inventory Module** is active, **Inventory Settings** appear in the **Advanced Options** section of the **Customize** panel. By default, they are **Disabled**. You can also choose **Simple** or **Global**.
 
 ![Inventory Settings](/images/modules/inventory-module/Inventory-Settings-03-scaled.webp)
 
 ### Simple Inventory Settings
 
-The Inventory Settings will be visible in the **Advanced Options** field when selecting the **Simple** option. More options will appear in the dropdown.
+When you select the **Simple** option, more settings appear under **Advanced Options**.
 
-**A. Stock Quantity:** You may easily customize the inventory quantity of your item via this option.
+**A. Stock Quantity:** Set the inventory quantity of your item.
 
-**B. Stock-Out Message:** Set up your Stock-Out Message according to your needs.
+**B. Stock Out Message:** Set the message visitors see when an item is out of stock.
 
-**C. Hide Choice When Stock is Out:** When you enable this option, you can hide the item when it is out of stock.
+**C. Hide Choice When Stock is Out:** Hides the item when it is out of stock.
 
-**D. Hide Input When Stock is Out:** The items in your input field will be removed if this option is checked on.
+**D. Hide Input When Stock is Out:** Removes the items from your input field when this option is on.
 
 > [!Note]
 > Stock reserved by a payment that fails or is never completed is released back to your inventory.
@@ -65,58 +65,56 @@ The Inventory Settings will be visible in the **Advanced Options** field when se
 
 **E. Disable Input When Stock is Out:** Shows the item but **grays it out/disabled** when stock hits zero.
 
-**F. Show Available Stock:** This option is turned off by default. When it is enabled, items from the available Stock will be shown.
+**F. Show Available Stock:** Off by default. When on, Fluent Forms shows the available stock for each item.
 
-**G. Inventory Label:** Set up your inventory label using this **{remaining_quantity}** shortcode. This shortcode will show how many of the items are still available.
+**G. Inventory Label:** Set your inventory label with the **{remaining_quantity}** shortcode. It shows how many of the items are still available.
 
 ![Simple Inventory Settings](/images/modules/inventory-module/Simple-Inventory-Settings-04-scaled.webp)
 
 ### Global Inventory Settings
 
-When you select the Global option, the Inventory Settings will be visible in the field’s Advanced Options. A drop-down with more options will appear. Global inventory lets you share stock across multiple forms; see [Global Inventory Manager in Fluent Forms](/global-inventory-manager) to set it up.
+When you select the **Global** option, more settings appear in the field’s **Advanced Options**. Global inventory lets you share stock across multiple forms. To set it up, see [Global Inventory Manager in Fluent Forms](/global-inventory-manager).
 
-**A. Global Inventory:** You can select your item Global Inventory from the dropdown options.
+**A. Global Inventory:** Select your global inventory item from the dropdown.
 
-**B. Stock-Out Message:** Set up your Stock-Out Message according to your needs.
+**B. Stock Out Message:** Set the message visitors see when an item is out of stock.
 
-**C.** **Hide Choice When Stock is Out:** When you enable this option, you can hide the item when it is out of stock.
+**C. Hide Choice When Stock is Out:** Hides the item when it is out of stock.
 
-**D. Hide Input When Stock is Out:** The items in your input field will be removed if this option is turned on.
+**D. Hide Input When Stock is Out:** Removes the items from your input field when this option is on.
 
 **E. Disable Input When Stock is Out:** Shows the item but **grays it out/disabled** when stock hits zero.
 
-**F. Show Available Stock:** This option is turned off by default. When it is enabled, items from the available Stock will be shown.
+**F. Show Available Stock:** Off by default. When on, Fluent Forms shows the available stock for each item.
 
-**G. Inventory Label:** Set up your inventory label using this **{remaining_quantity}** shortcode. This shortcode will show how many of the items are still available.
+**G. Inventory Label:** Set your inventory label with the **{remaining_quantity}** shortcode. It shows how many of the items are still available.
 
 ![Unnamed Fluent Forms](/images/modules/inventory-module/unnamed-6.webp)
 
 ### View Inventory Item
 
-To view the inventory items, click the **Entries** option at the top bar of the form. Here, you will see the inventory items in **Stock** and their **Total** **Numbers**.
+Click **Entries** in the top bar of the form. The page shows the inventory items in **Stock** and their **Total Numbers**.
 
 ![View Inventory Fluent Forms](/images/modules/inventory-module/view-inventory--scaled.webp)
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the top bar to see the form preview.
+Click **Save** to save your changes. Click the **Preview** (eye) icon in the top bar to preview the form.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To display the form on a page or post, **copy** the **Shortcode** from the top right and **paste** it into that page or post.
 
 ![Save Fluent Forms Inventory Module](/images/modules/inventory-module/save-form-05-scaled-2.webp)
 
 ## Preview of the Inventory Module Form
 
-Consider a form with Story Book, Kids Story Book, and Fantasy Story Book as Checkbox options, each having inventory quantities of 15, 13, and 21, respectively.
-
-Consider a form with Story Book, Kids Story Book, and Fantasy Story Book as Checkbox options, each having inventory quantities of 15, 13, and 21, respectively.
+Consider a form with Story Book, Kids Story Book, and Fantasy Story Book as Checkbox options. Their inventory quantities are 15, 13, and 21, respectively.
 
 - A user selects Story Book and Kids Story Book.
 
-- After a form is submitted, the number of storybooks available is reduced to 14. The kid's Storybook is stocked out.
+- After the user submits the form, the available Story Books drop to 14 and the available Kids Story Books drop to 12.
 
-- If Hide Choice When Stock is Out is enabled, Orange will no longer appear in the form.
+- When an item reaches zero and **Hide Choice When Stock is Out** is enabled, that item no longer appears in the form.
 
 ![Preview Fluent Forms Inventory Module](/images/modules/inventory-module/preview.webp)
 
-With these settings, you can easily track orders and manage inventory in real time! Start using Fluent Forms Inventory Management today to streamline your order process.
+With these settings, Fluent Forms updates your stock after every order.

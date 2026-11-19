@@ -4,9 +4,9 @@ description: "The Section Break field in Fluent Forms helps organize long forms 
 
 # Section Break
 
-**The Section Break** field in Fluent Forms helps organize long forms by dividing them into **structured sections**, similar to building a [multi-step form](/creating-a-multi-step-form). It also improves **readability** and **user experience** by clearly defining different parts of the form.
+The **Section Break** field in Fluent Forms helps organize long forms by dividing them into **structured sections**, similar to building a [multi-step form](/creating-a-multi-step-form). It also improves **readability** by clearly marking the parts of the form.
 
-This article will guide you through adding the **Section Break** field in your Fluent Forms for your WordPress Site.
+This article shows you how to add the **Section Break** field to your form.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/dKIVBirBLTA" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,22 +14,22 @@ This article will guide you through adding the **Section Break** field in your F
 
 ## Adding Section Break Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit Section Break](/images/form-fields/advanced-fields/section-break/edit-form-01-12-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the desired **Section Break** **Input** field by **clicking** on it or **Dragging** and **Dropping** it into your editor.
+Click the **Section Break** field, or drag and drop it into your editor.
 
 ![Section Break step](/images/form-fields/advanced-fields/section-break/new-17-scaled.webp)
 
 ## Customizing the Section Breaks Field
 
-A Break field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Section Break Input options
 
@@ -39,42 +39,40 @@ A Break field has been added. You can edit this field by **hovering over it** an
 
 ### Section Break Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Section Break** field.
+These options in the **Customize** tab configure the **Section Break** field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Section Break** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Section Break** field. Enter text that explains the purpose of the field.
 
-**B. Description:** Enter a subtitle/short section description here to help the user better understand.
+**B. Description:** Enter a subtitle or short description of the section.
 
-**C. Dynamic SmartCodes:** Display dynamic content using [smart codes](/form-editor-smart-codes). 
+**C. Dynamic SmartCodes:** Display dynamic content using [smart codes](/form-editor-smart-codes).
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
-**D. Content Alignment:** You can adjust the alignment of the **title and description** (Left, Center, or Right).
+**D. Content Alignment:** Align the **title and description** to the Left, Center, or Right.
 
 ![Basic Options](/images/form-fields/advanced-fields/section-break/Basic-options-03-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. 
+Advanced settings let you adapt the field to specific use cases.
 
 **A. Element Class:** Add custom CSS classes to the input field.
 
-**B. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**B. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options](/images/form-fields/advanced-fields/section-break/advanced-options-04-scaled.webp)
 
 ## Embed the Form into Front
 
-Once you complete the customization, click the **Save** button to save all your changes. To see the form preview, click the **Preview** (eye) icon at the top right.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Section Break](/images/form-fields/advanced-fields/section-break/save-form-05-2-scaled.webp)
 
 ### Preview of Added Section Break Field
 
-Here is the **Form Preview** to test the section break field functionality.
+Preview the form to test the section break field.
 
 ![Preview Section Break](/images/form-fields/advanced-fields/section-break/Preview-06-1.webp)
-
-Congratulations! You have successfully added the Section Break field in your Form.

@@ -4,7 +4,7 @@ description: "Welcome to the Fluent Forms Glossary. This A–Z reference explain
 
 # Glossary
 
-Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, features, and concepts used across Fluent Forms documentation. Use it alongside [Getting Started With Fluent Forms](/getting-started) and the [Fluent Forms User Interface](/user-interface) guide.
+This A–Z reference explains the terms, features, and concepts used across the Fluent Forms documentation. Use it alongside [Getting Started With Fluent Forms](/getting-started) and the [Fluent Forms User Interface](/user-interface) guide.
 
 ## A
 
@@ -12,7 +12,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Admin Approval:** A Pro feature that holds submissions until an administrator reviews and approves them before they are finalized or published. See [Admin Approval Feature in Fluent Forms](/admin-approval-feature).
 
-* **AI Form Builder:** A Pro tool that generates a complete form from a text prompt. You describe the form you need, and the AI assistant builds fields and structure in the Form Builder. See [How to Create a Form with Fluent Forms AI](/create-a-form-with-ai).
+* **AI Form Builder:** Generates a complete form from a text prompt. You describe the form you need, and the AI assistant builds the fields and structure in the Form Builder. It is free with Fluent Forms AI. Using your own OpenAI key (ChatGPT) needs Pro. See [How to Create a Form with Fluent Forms AI](/create-a-form-with-ai).
 
 * **Akismet:** A third-party spam service that Fluent Forms can connect to for automatic spam filtering on submissions. See [Integrate Akismet with Fluent Forms](/integrate-akismet).
 
@@ -24,7 +24,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 ## C
 
-* **Calculation (Numeric Calculation):** A Pro feature that performs math on numeric field values — totals, subtotals, and formulas including inside repeaters and conversational forms. See [Numeric Calculation in Fluent Forms](/numeric-calculation).
+* **Calculation (Numeric Calculation):** A Pro feature that does math on numeric field values, such as totals, subtotals, and formulas. It also works inside repeaters and conversational forms. See [Numeric Calculation in Fluent Forms](/numeric-calculation).
 
 * **Chained Select Field:** A dependent dropdown field where each level’s options depend on the previous selection (for example, country → state → city). See [Chained Select Field in Fluent Forms](/chained-select-field).
 
@@ -32,7 +32,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Conditional Shortcode:** A shortcode used in confirmations, emails, or PDFs to display content only when specific field conditions are met. See [Conditional Shortcodes in Fluent Forms](/conditional-shortcodes).
 
-* **Confirmation Message:** The message or redirect shown to users after they successfully submit a form. Can be customized globally or per form, including conditional variants. See [Setup Form Submission Confirmation Message in Fluent Forms](/setup-form-submission-confirmation-message).
+* **Confirmation Message:** The message or redirect shown to users after they successfully submit a form. You can customize it globally or per form, including conditional variants. See [Setup Form Submission Confirmation Message in Fluent Forms](/setup-form-submission-confirmation-message).
 
 * **Container Fields:** Layout elements (containers, accordions, repeat containers) that group fields into columns or repeatable sections. See [Add Container Fields in Fluent Forms](/add-container-fields).
 
@@ -48,7 +48,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 ## D
 
-* **Dashboard:** The main Fluent Forms screen in WordPress where you view all forms, recent submissions, analytics, and quick links to Entries, Payments, Global Settings, Tools, and Integrations. See [Fluent Forms User Interface](/user-interface).
+* **Dashboard:** The main Fluent Forms screen in WordPress. It lists all your forms and links to Entries, Payments, Global Settings, Tools, and Integrations. See [Fluent Forms User Interface](/user-interface).
 
 * **Dedicated Landing Page:** A standalone, shareable URL for a single form without embedding it in a post or page. See [Dedicated Landing Page in Fluent Forms](/dedicated-landing-page).
 
@@ -80,7 +80,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **FluentBooking Field:** An advanced field that connects forms to FluentBooking for appointment scheduling. See [FluentBooking Field in Fluent Form](/fluentbooking-field).
 
-* **FluentCRM Integration:** Syncs form submissions with FluentCRM contacts and supports pre-filling fields from CRM data. See [FluentCRM integration with Fluent Forms](/fluentcrm-integration) and [Pre-Fill Form Fields with FluentCRM Data](/pre-fill-form-fields-with-fluentcrm-data).
+* **FluentCRM Integration:** Syncs form submissions with FluentCRM contacts and supports pre-filling fields from CRM data. See [FluentCRM integration with Fluent Forms](/fluentcrm-integration) and Pre-Fill Form Fields with FluentCRM Data.
 
 * **Form Builder:** The drag-and-drop editor where you create forms, add fields, configure logic, and save changes. Includes the Field Panel, Form Canvas, and field-level settings. See [Fluent Forms User Interface](/user-interface).
 
@@ -110,25 +110,25 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Hidden Field:** A field not visible to users, used to pass fixed or dynamic values with the submission. See [Hidden Input Field in Fluent Forms](/hidden-input-field).
 
-* **Honeypot:** A spam-protection technique that adds an invisible field bots tend to fill; legitimate users never see it, and those submissions are blocked. See [Spam Protection With Honeypot and Google reCAPTCHA in Fluent Forms](/spam-protection-with-honeypot-and-google-recaptcha).
+* **Honeypot:** A spam-protection technique that adds an invisible field. Bots tend to fill it, and Fluent Forms blocks those submissions. Real users never see it. See [Spam Protection With Honeypot and Google reCAPTCHA in Fluent Forms](/spam-protection-with-honeypot-and-google-recaptcha).
 
 * **hCaptcha:** A CAPTCHA alternative integrated globally or per form to block bots. See [How to Integrate hCaptcha with Fluent Forms](/integrate-hcaptcha).
 
 ## I
 
-* **Import:** Bringing forms or entries from JSON/CSV files or from other form plugins into Fluent Forms. See [How to Import and Export Fluent Forms](/import-and-export-fluent-forms) and [Importing Entries in Fluent Forms](/importing-entries).
+* **Import:** Brings forms or entries from JSON/CSV files or from other form plugins into Fluent Forms. See [How to Import and Export Fluent Forms](/import-and-export-fluent-forms) and Importing Entries in Fluent Forms.
 
-* **Integration:** Any connection between Fluent Forms and an external service email marketing, CRM, payments, notifications, automation, or custom webhooks. Enable modules under **Integrations** in the dashboard.
+* **Integration:** Any connection between Fluent Forms and an external service, such as email marketing, CRM, payments, notifications, automation, or custom webhooks. Enable modules under **Integrations** in the dashboard.
 
 * **Inventory Module:** Tracks product quantity and prevents overselling on payment forms. See [Fluent Forms Inventory Module](/inventory-module).
 
 ## J
 
-* **JetEngine Custom Fields:** Mapping JetEngine meta fields into post forms and submissions. See [Using JetEngine Custom Fields with Fluent Forms](/using-jetengine-custom-fields).
+* **JetEngine Custom Fields:** Maps JetEngine meta fields into post forms and submissions. See [Using JetEngine Custom Fields with Fluent Forms](/using-jetengine-custom-fields).
 
 ## K
 
-* **Keyboard Navigation & Shortcuts:** Keyboard shortcuts inside the Form Builder for faster editing. See [Keyboard Navigation & Shortcuts in Fluent Forms](/keyboard-navigation-shortcuts).
+* **Keyboard Navigation & Shortcuts:** Keyboard shortcuts in the Form Builder for faster editing. See [Keyboard Navigation & Shortcuts in Fluent Forms](/keyboard-navigation-shortcuts).
 
 ## L
 
@@ -178,7 +178,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Quick Forms (Pre-built Templates):** Ready-made form templates you import and customize in the Form Builder. See [Using and Customizing Pre-built Quick Forms in Fluent Forms](/using-and-customizing-pre-built-quick-forms).
 
-* **Quiz Module:** Builds scored quizzes, personality quizzes, and assessments with dedicated fields and confirmation logic. See [Fluent Forms Quiz Module](/quiz-module) and [Creating a Personality Quiz Form in Fluent Forms](/creating-a-personality-quiz-form).
+* **Quiz Module:** Builds scored quizzes, personality quizzes, and assessments with dedicated fields and confirmation logic. See [Fluent Forms Quiz Module](/quiz-module) and Creating a Personality Quiz Form in Fluent Forms.
 
 ## R
 
@@ -202,7 +202,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 * **Shortcode:** A WordPress shortcode (for example, `[fluentform id="1"]`) you place in posts, pages, or widgets to render a form. See [Fluent Forms Shortcodes Overview](/shortcodes-overview).
 
-* **Smart Codes (SmartCodes):** Placeholder tags that insert dynamic values submitted data, user info, post details, payment info, or FluentCRM data into emails, confirmations, PDFs, and HTML fields. See [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings) and [Form Editor Smart Codes](/form-editor-smart-codes).
+* **Smart Codes (SmartCodes):** Placeholder tags that insert dynamic values, such as submitted data, user info, post details, payment info, or FluentCRM data, into emails, confirmations, PDFs, and HTML fields. See [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings) and Form Editor Smart Codes.
 
 * **Spam Protection:** Combined techniques including honeypot, reCAPTCHA, hCaptcha, Cloudflare Turnstile, and Akismet. See the **Security & Anti-Spam** section in the documentation sidebar.
 
@@ -214,7 +214,7 @@ Welcome to the Fluent Forms Glossary. This A–Z reference explains the terms, f
 
 ## T
 
-* **Taxonomy Fields:** Fields that assign categories or tags when creating posts from a form. See [Add Categories Taxonomy Field in Post Forms](/add-categories-taxonomy-field-in-post-forms) and [Add Tags Taxonomy Field in Post Forms](/add-tags-taxonomy-field-in-post-forms).
+* **Taxonomy Fields:** Fields that assign categories or tags when creating posts from a form. See [Add Categories Taxonomy Field in Post Forms](/add-categories-taxonomy-field-in-post-forms) and Add Tags Taxonomy Field in Post Forms.
 
 * **Terms & Conditions Field:** A required agreement checkbox, often linked to privacy or terms pages. See [Terms & Conditions Field in Fluent Forms](/terms-conditions-field).
 

@@ -6,26 +6,26 @@ description: "The Dropdown Field is a list-based input where users select one op
 
 The **Dropdown Field** is a list-based input where users select one option from predefined choices. Use it for countries, categories, product types, and other structured selections.
 
-This guide walks you through adding and customizing the **Dropdown** field in Fluent Forms.
+This guide shows you how to add and customize the **Dropdown** field in Fluent Forms.
 
 ## Adding Dropdown Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you have no forms yet, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit form to add Dropdown field](/images/form-fields/general-fields/dropdown-field/edit-form-01-1-scaled.webp)
 
-On the **Editor** page, click the **Plus** icon and open **General Fields**. You can also find **General Fields** in the right sidebar under **Input Fields**.
+In the editor, click the **Plus Icon** and open **General Fields**. You can also find **General Fields** in the right sidebar under **Input Fields**.
 
-Click or drag the **Dropdown** field into the editor.
+Click the **Dropdown** field, or drag it into the editor.
 
 ![Add Dropdown field to the form](/images/form-fields/general-fields/dropdown-field/new-3-scaled.webp)
 
 ## Customizing the Dropdown Field
 
-Hover over the field and click the **Pencil** icon to open **Customize**:
+Hover over the field and click the **Pencil Icon** to open **Customize**. It has these options:
 
 - Dropdown Field Options
 - Advanced Options
@@ -36,7 +36,7 @@ Hover over the field and click the **Pencil** icon to open **Customize**:
 
 **A. Element Label:** The field title users see on the form.
 
-**B. Label Placement:** Set label position to **Top**, **Left**, **Right**, or **Default**.
+**B. Label Placement:** Set label position to **Default**, **Top**, **Right**, **Bottom**, **Left**, or **Hide Label**.
 
 **C. Admin Field Label:** A label shown only to admins when viewing submissions.
 
@@ -64,7 +64,7 @@ Hover over the field and click the **Pencil** icon to open **Customize**:
 
 ### Option Grouping
 
-**Option Grouping** organizes related choices under bold heading labels rendered as native HTML optgroup blocks on the frontend.
+**Option Grouping** organizes related choices under bold heading labels. The frontend renders them as native HTML optgroup blocks.
 
 Under **Options**, turn on **Enable Option Grouping**. The flat options list becomes a grouped layout.
 
@@ -102,7 +102,7 @@ Under **Options**, turn on **Enable Option Grouping**. The flat options list bec
 
 Click **Save**, then **Preview** to preview your changes.
 
-Copy the form **Shortcode** and paste it into a **Page** or **Post**.
+Copy the form **Shortcode** and paste it into a page or post.
 
 ![Save and embed the form](/images/form-fields/general-fields/dropdown-field/Save-Form-06-3-scaled.webp)
 

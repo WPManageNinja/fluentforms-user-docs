@@ -4,42 +4,45 @@ description: "Fluent Forms offers the “Conditional Logic” feature, which sen
 
 # Conditional Email Notification
 
-**Fluent Forms** offers the “**[Conditional Logic](/set-up-forms-with-conditional-logic)**” feature, which sends email notifications to the specified email address after each form submission based on particular action triggers according to set conditions. This article will guide you through setting up the **Conditional Email Notification** in **Fluent Forms**. If you need to send emails to different recipients based on user responses, see [Conditional Email Routing](/conditional-email-routing).
+**Fluent Forms** offers the “**[Conditional Logic](/set-up-forms-with-conditional-logic)**” feature, which sends an email notification only when the submission meets the conditions you set (Pro). This guide shows you how to set up a **Conditional Email Notification**. To send emails to different recipients based on user responses, see [Conditional Email Routing](/conditional-email-routing).
 
 ## Conditional Email Notification
 
-To learn how to set conditional logic for email notifications, follow the steps below – 
-
-First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditions.
+Go to **Forms** in the top navbar. Click **Edit** on the form where you want to set the conditions to open its **Editor**.
 
 ![Editor Fluent Forms](/images/notifications-confirmations/email-notifications/conditional-email-notification/1.-desired-Form-Editor-scaled.webp)
 
-Now, click **Configuration** in the top bar and open **Email Notifications** under **Responses** in the left rail. 
+Click **Configuration** in the top bar and open **Email Notifications** under **Responses** in the left rail.
 
-First, you can **Enable** the default **Admin Notification** by **toggling it on.** Then, open its settings using the **Settings Icon** to set conditions based on your needs.
+Turn on the default **Admin Notification** with its toggle. Then click the **Settings Icon** to set conditions.
 
-Or, create a new one by clicking the **Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/setup-adminuser-email-notifications).
+Or click **Add Notification** to create a new one. To learn how to add a notification to a form, read [Admin & User Email Notifications](/setup-adminuser-email-notifications).
 
-**For example**, I used the existing notification to show you the whole process. 
+This guide uses the existing notification as an example.
 
 ![Settings Integration Email Notification Add Notification Conditional Email Notification](/images/notifications-confirmations/email-notifications/conditional-email-notification/2.-Settings-Integration-Email-Notification-Add-new-notification-scaled.webp)
 
 ### Enabling Conditional Logic
 
-Once you are on the **Email Notification** settings page of your desired form, scroll down to the **Conditional Logics** feature, and check the **Enable conditional logic** box.
+> [!Note]
+> Conditional logic in email notifications is available in **Fluent Forms Pro**.
+
+On the **Email Notification** settings page of your form, scroll down to **Conditional Logics** and check the **Enable conditional logic** box.
 
 #### Setting Condition/s
 
-Once you enable the option, you can specify the **Parameter**, its **Operator**, and the corresponding **Value**.
+When you enable the option, you can set the **Parameter**, its **Operator**, and the corresponding **Value**.
 
-Plus, you can choose whether **All** or **Any** of your conditions should match to trigger the actions. **Remember**, the selected parameter will trigger the action only if the condition is met.
+You can also choose whether **All** or **Any** of your conditions must match to send the notification. The selected parameter triggers the action only if the condition is met.
 
-In the “**Parameter**” field (first field), select an **input field** that needs to correspond with the value provided in the “**Value**” field (last field) and set an option in the “**Operator**” field (middle field). The parameter will trigger the action if the condition is met.  
+- **Parameter:** The first field. Select the **input field** to check against the value.
+- **Operator:** The middle field. Select how to compare the parameter and the value.
+- **Value:** The last field. Enter the value to compare against.
 
-> For example, I selected "Email" and "Country" as the parameters, used "Contains" and "Equals" as the operators, and entered "@gmail.com" and "United States" as the corresponding values. As a result, when users from the United States with an email address containing @gmail.com submit the form, a notification will be sent to the specified email address.
+> For example, select "Email" and "Country" as the parameters, use "contains" and "equal" as the operators, and enter "@gmail.com" and "United States" as the corresponding values. When users from the United States with an email address containing @gmail.com submit the form, Fluent Forms sends the notification to the specified email address.
 
-This way you can add as many conditional logics as you need by clicking the **Plus Icon** and delete any conditions by clicking the **Minus Icon** in the right corner. 
+To add a condition, click the **Plus Icon**. To delete a condition, click the **Minus Icon** in the right corner.
 
-Once you complete, click **Save** to make the condition/s functional.
+Click **Save** to activate the conditions.
 
 ![Enable Conditional Logics](/images/notifications-confirmations/email-notifications/conditional-email-notification/3.-Enable-Conditional-Logics-.webp)

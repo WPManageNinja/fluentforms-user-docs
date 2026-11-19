@@ -4,9 +4,9 @@ description: "The Text Area Input Field in Fluent Forms allows users to enter mu
 
 # Adding a Text Area Input Field
 
-The **Text Area Input Field** in **Fluent Forms** allows users to enter multiple lines of text. It is ideal for **feedback forms, comments, messages,** and **detailed responses**.
+The **Text Area Input Field** in **Fluent Forms** lets users enter multiple lines of text. Use it for **feedback forms, comments, messages,** and **detailed responses**.
 
-This guide will walk you through **adding and customizing the Text Area field** in Fluent Forms on your WordPress site.
+This guide shows you how to add and customize the **Text Area** field.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/yYCTJz9tQCM" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,19 +14,19 @@ This guide will walk you through **adding and customizing the Text Area field** 
 
 ## Adding Text Area Input Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 ![Edit a Text Area Input](/images/form-fields/general-fields/adding-a-text-area-input-field/Edit-form-01-6-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, choose the desired **Text Area** field by clicking on it or **Drag & Drop** it into your editor.
+Click the **Text Area** field, or drag and drop it into your editor.
 
 ![Sjkdgnjids Fluent Forms](/images/form-fields/general-fields/adding-a-text-area-input-field/sjkdgnjids-scaled.webp)
 
 ## Customizing the Text Area Field
 
-Once added, you can customize the field. **Hover over the field** and click the **Pencil Icon** to open the **Customize** tab. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Text Area Options
 
@@ -36,62 +36,60 @@ Once added, you can customize the field. **Hover over the field** and click the 
 
 ### Text Area Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Text Area** input field.
+These options in the **Customize** tab configure the **Text Area** input field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Text Area** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Text Area** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are Top, Left, Right, and Default. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. This means that you can configure this option to show a different field label for your admin users when they view the form submissions. 
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute. 
+**D. Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-**E. Rows:** Fluent Forms allows you to have control over the rows. You can choose the row. This option will enable you to select a specific number of rows. You need to implement it. For example, set **5 rows** to make the field taller.
+**E. Rows:** Set the number of rows. For example, set **5 rows** to make the field taller.
 
-**F. Columns:** Like the rows, Fluent Forms allows you to create a choice column section. This option allows you to determine the column which controls the overall horizontal space of the field.
+**F. Columns:** Set the number of columns. This controls the overall horizontal space of the field.
 
-**G. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
+**G. Required:** Choose whether users can submit the form with this field empty.
 
 ![Basic Options Fluent Forms](/images/form-fields/general-fields/adding-a-text-area-input-field/Basic-Options-04-11-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
 **A. Autocomplete:** Choose a value that tells the browser what the field collects, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
+**B. Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read [Dynamic Default Value in Fluent Forms](/dynamic-default-value).
 
-**C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**C. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**E. Help Message:** Add text that appears as a help message for the user.
 
-**F. Prefix Label:** Use this to add a prefix text or symbol that appears before the input area to provide additional context.
+**F. Prefix Label:** Add a prefix text or symbol before the input area for extra context.
 
-**G. Suffix Label:** Use this to add a suffix text or symbol that appears after the input area.
+**G. Suffix Label:** Add a suffix text or symbol after the input area.
 
-**H. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don't need to modify this.
+**H. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**I. Max Text Length:** You can set the maximum number of characters that the input field can accept. This is ideal for limiting responses like postal codes or shortcodes.
+**I. Max Text Length:** Set the maximum number of characters the field accepts. Use it to limit responses like postal codes or shortcodes.
 
-**J. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**J. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Textarea Advanced Option](/images/form-fields/general-fields/adding-a-text-area-input-field/textarea-advanced-option-scaled.webp)
 
 ## Embedding the Form on Your Website
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Fluent Forms](/images/form-fields/general-fields/adding-a-text-area-input-field/save-form-06-12-scaled.webp)
 
 ### Preview of Added Text Area Field
 
-Here is the preview of the added **Textarea Input** field under the Form.
+Here is the form with the **Textarea Input** field added.
 
 ![Preview Textarea](/images/form-fields/general-fields/adding-a-text-area-input-field/preview-Textarea-07.webp)
-
-**Congratulations!** Your **Text Area Input Field** is now ready to collect long-form responses from users.

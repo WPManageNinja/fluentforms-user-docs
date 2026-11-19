@@ -17,6 +17,8 @@ You can set **Autocomplete** on these fields:
 - [Address](/address-input-field)
 - [Numeric](/numeric-input-field)
 - [Dropdown](/dropdown-field)
+- [Multiple Choice](/multiple-choice-field)
+- [Mask Input](/adding-a-mask-input-field-guide)
 - [Website URL](/website-url-input-field-guide)
 - [Password](/password-input-field)
 - [Time & Date](/time-date-input-field)
@@ -24,14 +26,14 @@ You can set **Autocomplete** on these fields:
 
 ## Set Autocomplete on a Field
 
-To enable and configure autocomplete for a specific field, follow these steps:
+To enable and configure autocomplete for a field:
 
-1. Open your form in the **Editor**.   
-2. Click the field you want to modify, then click the **Pencil** Icon to open the **Customize** tab on the right sidebar.   
-3. Scroll down and expand the **Advanced Options** section.   
-4. Find the **Autocomplete** setting and click the dropdown menu.   
-5. Choose your desired value (e.g., Automatic, off, None, or a specific value like given-name).   
-6. Click the **Save** button in the top right corner to apply your changes.
+1. Open your form in the **Editor**.
+2. Click the field you want to change, then click the **Pencil Icon** to open the **Customize** tab in the right sidebar.
+3. Scroll down and expand **Advanced Options**.
+4. Open the **Autocomplete** dropdown.
+5. Choose a value, such as Automatic, off, None, or a specific value like given-name.
+6. Click **Save** in the top right corner.
 
 ![Setup Auto-Complete Field](/images/form-fields/general-fields/autocomplete/setup-autocomplete-1.webp)
 
@@ -51,5 +53,3 @@ The Name and Address fields hold several inputs, so one **Autocomplete** setting
 
 - **Name:** **Automatic** gives each input its matching value. **off** turns off autofill for the whole field. **None** adds no attribute.
 - **Address:** Autofill stays off until you choose **On (autofill this address)**. This option gives each input, such as street, city, state, and zip code, its matching value. Choose **off** or **None** to keep autofill disabled.
-
-

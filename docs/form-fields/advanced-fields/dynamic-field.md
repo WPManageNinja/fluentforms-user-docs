@@ -4,9 +4,9 @@ description: "With Fluent Forms Dynamic Fields, you can create fields that autom
 
 # Dynamic Field
 
-With Fluent Forms **Dynamic Fields**, you can create fields that automatically pull in content like posts, users, [taxonomy terms](/add-categories-taxonomy-field-in-post-forms), or form data, giving users customized options and building form flexibility. 
+**Dynamic Fields** pull in content automatically, such as posts, users, [taxonomy terms](/add-categories-taxonomy-field-in-post-forms), or form data. They give users options tailored to your site.
 
-This guide will teach you how to set up and customize Dynamic Fields to make your forms more user-friendly.
+This guide shows you how to set up and customize Dynamic Fields.
 
 > [!Note]
 > The **Dynamic** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -17,24 +17,24 @@ This guide will teach you how to set up and customize Dynamic Fields to make you
   <iframe src="https://www.youtube.com/embed/cx3N5y1ddOQ" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Adding a Dynamic Input Field
+## Adding a Dynamic Input Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit Dynamic Field in Fluent](/images/form-fields/advanced-fields/dynamic-field/edit-form-01-18-scaled.webp)
 
-Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the **Dynamic Input** field by clicking or dragging it and dropping it into your editor.
+Click the **Dynamic Input** field, or drag and drop it into your editor.
 
 ![Adding Dynamic Fluent Forms](/images/form-fields/advanced-fields/dynamic-field/Adding-dynamic--scaled.webp)
 
 ## Customizing the Dynamic Field
 
-Once you add the **Dynamic Input** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
+After you add the **Dynamic Input** field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these options:
 
 - Dynamic Field Options
 
@@ -44,17 +44,15 @@ Once you add the **Dynamic Input** field, you can customize it by hovering over 
 
 ### Dynamic Field Options
 
-Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Dynamic Input** field.
+These options in the **Customize** tab configure the **Dynamic Input** field.
 
-All the settings under the **Dynamic Input Field** mentioned above are briefly explained below-
+**A.** **Element Label:** The field title users see when they fill out the **Dynamic** field. Enter text that explains the field's purpose.
 
-**A.** **Element Label:** This is the field title users will see when filling out the **Dynamic** field in a form. You can enter any text here to help users understand the field's purpose.
+**B. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**B. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
+**C. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
-
-**D. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
+**D. Required:** Turn on **Required** to make users select or enter a value before they submit.
 
 **E. Field Type:** Choose from five types to determine how users interact with the dynamic data: **Radio, Checkbox, Select (dropdown), Multi-Select,** and **Text Autocomplete**.
 
@@ -62,97 +60,94 @@ All the settings under the **Dynamic Input Field** mentioned above are briefly e
 
 - **Select/Multi-Select:** Users can choose one or multiple options from a dropdown menu.
 
-- **Text Autocomplete:** This type allows users to type into the field while the form suggests matching results dynamically from the source data.
+- **Text Autocomplete:** Users type into the field and the form suggests matching results from the source data. With this type, you can also set:
 
-> [!Note]
-> **Text Autocomplete** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
+  - **Placeholder:** The hint text shown in the field.
+  - **Minimum Characters:** The number of characters a user types before suggestions appear. The default is 2.
+  - **Max Suggestions:** The most suggestions the field shows. The default is 10.
 
 ![Dynamic Field Options](/images/form-fields/advanced-fields/dynamic-field/dynamic-field-options-scaled.webp)
 
 ### Types of Dynamic Fields
 
-Fluent Forms offers five types of dynamic fields. After you've added a Dynamic Field to your form, you can choose the dynamic data you want to show in the field from the dropdown in the **Source** options.
+Fluent Forms offers five types of dynamic data. After you add a Dynamic Field to your form, choose the data to show from the **Source** dropdown.
 
-After selecting a source, you can get more specific with your data by using filters. To do this, click on the **Advance** tab. Here, you can add multiple filter conditions. If you need more control, you can create separate groups of filters using the **Add Filter Group** button. This allows you to combine conditions with **OR** logic, giving you a powerful way to show exactly the data you need.
+After you select a source, use filters to narrow the data. Click the **Advance** tab and add one or more filter conditions. To combine conditions with **OR** logic, create separate groups of filters with the **Add Filter Group** button.
 
-**1. Post Type:** The post filter option allows you to filter your posts for the form. So that only specific posts will be shown with your Form. Now, display posts on your website, and users come to select specific posts.
+**1. Post Type:** Filter your posts so the form shows only specific posts. Users can then select from those posts.
 
-**Filter** the specific post types to display, such as **Posts**, **Pages**, **Products**, etc. By clicking the **ADD** button on the downside, you can set multiple filters to show only relevant posts.
+Filter the post types to display, such as **Posts**, **Pages**, or **Products**. Click the **ADD** button at the bottom to set multiple filters and show only relevant posts.
 
 ![Unnamed Fluent Forms](/images/form-fields/advanced-fields/dynamic-field/unnamed.gif)
 
-**2. Taxonomy Terms:** With the **Taxonomy Term** of dynamic fields, you can add the necessary taxonomy information you want to include to your group. You can add multiple taxonomy term groups by clicking the **Add Filter Group** button to make your dynamic taxonomy terms field more specific.
+**2. Taxonomy Terms:** Add the taxonomy information you want to include in your group. Click **Add Filter Group** to add more taxonomy term groups and make the field more specific.
 
-If you want to add multiple categories from the dropdown, click the **Plus Icon**, or if you want to delete a category, click the **Minus Icon**. You can edit the category name by clicking the **Edit** **icon** on the left side.
+Click the **Plus Icon** to add a category from the dropdown. Click the **Minus Icon** to delete a category. Click the **Edit Icon** on the left side to edit the category name.
 
 ![Texonomy Fluent Forms](/images/form-fields/advanced-fields/dynamic-field/Texonomy-scaled.webp)
 
-**3. Users Type:** Show WordPress users' roles filtered by roles like **Administrator**, **Editor**, or **Subscriber**.
+**3. Users Type:** Show WordPress users filtered by role, such as **Administrator**, **Editor**, or **Subscriber**.
 
 ![User Fluent Forms](/images/form-fields/advanced-fields/dynamic-field/user-07-scaled.webp)
 
-**4. Form Submissions:** Show data from specific form submissions. 
+**4. Form Submissions:** Show data from specific form submissions.
 
 **Form and Field Selection:** Choose the form and specific field whose data you want to display. Additional filtering options are available to refine the data shown.
 
 ![Submission Fluent Forms](/images/form-fields/advanced-fields/dynamic-field/Form-Submission-08-scaled.webp)
 
-**5. Dynamic CSV:** You will use data from a **Google Sheet** or a **CSV** file in this field.
+**5. Dynamic CSV:** Use data from a **Google Sheet** or a **CSV** file in this field.
 
-**CSV Setup:** For Google Sheets, publish the sheet as a CSV and use the published link in the **URL** section. Go to **File > Share > Publish to Web**. Make sure the sheet is publicly accessible.
+**CSV Setup:** For Google Sheets, publish the sheet as a CSV and use the published link in the **URL** section. Go to **File → Share → Publish to Web**. Make sure the sheet is publicly accessible.
 
 ![Dynamic CSV](/images/form-fields/advanced-fields/dynamic-field/dynamic-CSV-09-scaled.webp)
 
-**Only Show Unique result:** If you enable two options with the same values now, only one option will be shown in your **Dynamic** field. 
+**Only Show Unique result:** If two options have the same value, the **Dynamic** field shows only one of them.
 
-**Result Limit:** Limit the number of results shown. For example, if you have 50 Posts, you can limit the display to 30 posts only.
+**Result Limit:** Limit the number of results shown. For example, if you have 50 posts, you can show only 30.
 
-**Template Mapping:** Define placeholders that will dynamically replace values from your data source.
+**Template Mapping:** Define placeholders that Fluent Forms replaces with values from your data source. This builds the options from your database records.
 
-Creating a mapping template for generating options involves defining placeholders that will be dynamically replaced with values from your database records. 
+Choose **Label** and **Values** from the dropdown options. Click the **Edit Icon** on the right to edit the label and value.
 
-You will choose **Label** and **Values** from the dropdown options. You can also edit the label and value by clicking the **Edit Icon** on the right.
+**Dynamic Retrieval:** When you check this option, Fluent Forms fetches results based on filters when it renders the form. If unchecked, the current valid value stays unchanged.
 
-**Dynamic Retrieval:** When you check this option, results are dynamically fetched based on filters during rendering. If unchecked, the current valid value remains unchanged.
+**Enable Searchable Smart Option:** Makes the options searchable.
 
-**Enable Searchable Smart Option:** If enabled, options will be searchable by selecting their library.
-
-**Shuffle the Available Options:** If enabled, the options will be shuffled. 
+**Shuffle the Available Options:** Shuffles the options.
 
 ![Result Limit](/images/form-fields/advanced-fields/dynamic-field/Result-limit-10-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. 
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Dynamic Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. To get a better understanding, read the [Dynamic Default Value documentation](/dynamic-default-value). 
+**A. Dynamic Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read the [Dynamic Default Value documentation](/dynamic-default-value).
 
-You can add the default value by clicking the **Three-Dot** option on the right side.
+Click the **Three-Dot** option on the right to add the default value.
 
-**B. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**B. Help Message:** Add text that appears as a help message for the user.
 
-**C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**C. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**F. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options](/images/form-fields/advanced-fields/dynamic-field/Advanced-options-11-scaled.webp)
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Dynamic Field in Fluent](/images/form-fields/advanced-fields/dynamic-field/Save-Form-12-scaled.webp)
 
 ### Preview of Added Dynamic Field
 
-Here is the preview of the added **Dynamic** field under the Form. 
+Here is the form with the **Dynamic** field added.
 
 ![Preview Dynamic Field in Fluent](/images/form-fields/advanced-fields/dynamic-field/Preview-13-1.webp)
-
-Congratulations! You have successfully added a Dynamic Field to your Fluent Forms form.

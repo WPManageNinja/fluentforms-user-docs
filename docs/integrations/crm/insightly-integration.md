@@ -4,99 +4,86 @@ description: "Fluent Forms integrates with Insightly, a CRM that helps you colle
 
 # Insightly Integration
 
-Fluent Forms integrates with Insightly, a CRM that helps you collect customer leads, manage tasks, and automate sales team workflows that helps businesses collect personalized customer information and automatically add it to your Insightly list through Fluent Forms Submissions.
-
-This article will guide you through integrating **Insightly** with **Fluent Forms** on your WordPress Site.
+Insightly is a CRM that helps you collect customer leads, manage tasks, and automate sales team workflows. With the Insightly integration, Fluent Forms adds personalized customer information from form submissions to your Insightly account automatically. This guide shows you how to connect **Insightly** with **Fluent Forms** on your WordPress site.
 
 > [!Note]
 > **Insightly** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Enable the Insightly Integration
 
-Navigate to **Integrations** from the Fluent Forms Navbar, search for **Insightly** using the search bar, and install the **Insightly integration module**.
+Go to **Integrations** in the Fluent Forms Navbar, search for **Insightly**, and install the **Insightly integration module**.
 
-Now, turn on the **Toggle** to enable the **Insightly** module and click **Manage** on the right.
+Turn on the **Toggle** to enable the **Insightly** module, then click **Manage** on the right.
 
 ![Enable Integration Insightly Integration](/images/integrations/crm/insightly-integration/Enable-the-integration-01.webp)
 
-Once you enable **Insightly**, you will be asked for the **Insightly API URL** and **Insightly API Key** of your **Insightly Account**.
+Once you enable **Insightly**, Fluent Forms asks for the **Insightly API URL** and **Insightly API Key** of your **Insightly Account**.
 
 ![Configuration Insightly](/images/integrations/crm/insightly-integration/Configuratrioin-insighjtly-02.webp)
 
-## Get the Insightly API URL and Insightly API Key
+## Get the Insightly API URL and API Key
 
-First, log in to your[ ](https://www.drip.com/)[Insightly Account](https://crm.na1.insightly.com/users/usersettings), then go to **User** **Settings** from the profile icon in the top right corner.
-
-Now, scroll down, and you will get the **API URL** and **API Key** here. If you want, you can also generate a new API Key by clicking on the **Generate new API Key** button.
+1. Log in to your [Insightly Account](https://crm.na1.insightly.com/users/usersettings).
+2. Click the profile icon in the top right corner and go to **User** **Settings**.
+3. Scroll down to find the **API URL** and **API Key**. To create a new key, click **Generate new API Key**.
 
 ![User Settings](/images/integrations/crm/insightly-integration/User-Settings-03-scaled.webp)
 
-Now, copy the **API Key** & **API URL** **( https://api.na1.insightly.com/ )** like this to use in the next step.
+Copy the **API Key** and **API URL** **( https://api.na1.insightly.com/ )** for the next step.
 
 ![Copy API Keyapi URL](/images/integrations/crm/insightly-integration/Copy-API-keyAPI-URl-04.webp)
 
 ## Connect Insightly with Fluent Forms
 
-Then, return to the **Insightly Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
-
-Now, paste the Integration **API URL** and **API Key** that were copied before.
-
-Press the **Save** button to activate your **Insightly Integration** module.
+1. Return to the **Insightly Settings** page. To open it, go to **Integrations** in the top bar and click **Manage** next to the module.
+2. Paste the **API URL** and **API Key** you copied.
+3. Click **Save** to activate the **Insightly Integration** module.
 
 ![Paste API URL API Key](/images/integrations/crm/insightly-integration/Paste-API-URL-API-Key-05.webp)
 
-Here, you can see your **Insightly API integration is up and running**. To disconnect, click the **Disconnect Insightly** button.
+Fluent Forms now shows that your **Insightly API integration is up and running**. Click **Disconnect Insightly** to disconnect it.
 
 ![Disconnect Insightly](/images/integrations/crm/insightly-integration/Disconnect-Insightly-06.webp)
 
 ### Integrate Insightly into Fluent Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your Insightly, and open the **Configuration** tab. 
+Go to **Forms** in the Fluent Forms Navbar, select the form you want to connect to Insightly, and open the **Configuration** tab.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit Insightly Integration](/images/integrations/crm/insightly-integration/Edit-Form-07-scaled.webp)
 
-Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Insightly Integration** feed from the drawer. 
+On the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select the **Insightly Integration** feed from the drawer.
 
 ![Add Integration Insightly Integration](/images/integrations/crm/insightly-integration/Add-new-Integration-08-scaled.webp)
 
 ## Configure Insightly Integration Feed
 
-**A. Feed Name**: Enter a name for your Insightly integration feed.
-**B. Insightly Services:** Select the **Insightly** Services you want to map to. Click the **Dropdown Arrow** to add mapping values. Here, you can choose one of the options below: **Contact**, **Opportunity**, **Lead, Organization**, **Project**, **Task**, etc. 
+- **Feed Name:** Enter a name for your Insightly integration feed.
+- **Insightly Services:** Select the **Insightly** service you want to map to: **Contact**, **Opportunity**, **Lead**, **Organisations**, **Project**, **Task**, etc. Click the **Dropdown Arrow** to add mapping values.
 
 ![Add Integration Feed Insightly Integration](/images/integrations/crm/insightly-integration/Add-New-Integration-Feed-09-scaled.webp)
 
-Use all the fields under this option to properly link your **Insightly Fields** with the **Form Fields**. You can easily select the **value** for the **Form Fields** based on the **Insightly fields** using the **Shortcode Arrow**. 
+Link your **Insightly Fields** with the **Form Fields**. Use the **Shortcode Arrow** to select the **value** for each field.
 
-**C. Conditional Logic:** If you want to allow **Insightly** integration conditionally based on your submission values, **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
+- **Conditional Logic:** Turn on **Enable Conditional Logic** to run the integration only when your submission values match the conditions you set. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
+- **Status:** Enable this option to activate the feed.
 
-**D. Status:** Enable this feed option to activate the integration.
-
-Now, click the **Save** button to save the integration feed.
+Click **Save** to save the integration feed.
 
 ![Add Insightly Integration Feed](/images/integrations/crm/insightly-integration/Add-New-Insightly-Integration-Feed-10-scaled.webp)
 
-After successful Integration, you will see your Insightly integration Feed has been added here. 
-
-You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
-
-Additionally, you can disable or enable this feed at any time by turning off the **Toggle** if needed.
+The feed now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
 
 ![All Integration](/images/integrations/crm/insightly-integration/All-Form-Integration-11-scaled.webp)
 
 ### Preview of Integrated Insightly
 
-Here, you can see a preview of the added Insightly contacts through the Form entries that I set up during the integration.
-
-You can see the form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/managing-entries).
+You can see the form submissions that add Insightly contacts in the **Entries** section of the form. Learn more about [managing entries in Fluent Forms](/managing-entries).
 
 ![Entries Fluent Forms](/images/integrations/crm/insightly-integration/Entries-12-scaled.webp)
 
-Go to the **Insightly Contacts** section from the left sidebar to see the integrated contact list in Fluent Forms.
+To see the contacts added from Fluent Forms, open **Insightly Contacts** in the left sidebar.
 
 ![Insightly Contact](/images/integrations/crm/insightly-integration/Insightly-Contact-12-scaled.webp)
-
-This way, you can easily integrate Insightly with Fluent Forms!

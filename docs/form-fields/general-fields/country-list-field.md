@@ -4,11 +4,9 @@ description: "The Country List field in Fluent Forms allows users to select a co
 
 # Country List Field
 
-The Country List field in Fluent Forms allows users to select a country from a predefined list. This field helps collect users’ locations, trip destinations, or any other country-related input. It also includes advanced options to show specific countries or exclude certain ones if necessary.
+The Country List field in Fluent Forms lets users select a country from a predefined list. Use it to collect locations, trip destinations, or any other country-related input. You can also show only specific countries or exclude certain ones.
 
-This documentation will guide you through adding a country dropdown list to your website using Fluent Form.
-
-So let’s get started.
+This guide shows you how to add a country dropdown list to your form.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/1Dsg5G9B-uc" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -16,19 +14,19 @@ So let’s get started.
 
 ## Adding Country List Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 ![Edit From Country List Field in](/images/form-fields/general-fields/country-list-field/edit-from-01-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the desired **Country List** **Input** field by **clicking** on it or **dragging** and **dropping** it into your editor.
+Click the **Country List** field, or drag and drop it into your editor.
 
 ![Adding Country List](/images/form-fields/general-fields/country-list-field/adding-country-list-02-scaled.webp)
 
 ## Customizing the Country List Field
 
-Once added, you can customize the field. **Hover over the field** and click the **Pencil Icon** to open the **Customize** tab. It will take you to the **Customize** tab on the right side and offer you the following options for customizing the Country List field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Country List Input field options
 
@@ -38,76 +36,72 @@ Once added, you can customize the field. **Hover over the field** and click the 
 
 ### Country List Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Country List Input** field.
+These options in the **Customize** tab configure the **Country List Input** field.
 
-**A. Element Label:** This is the field title that the users will see when filling out the **Country List** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Country List** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions. 
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Enable Searchable Smart Options:** If you think the list of countries is long, turn on this feature so users can quickly find their country. 
+**D. Enable Searchable Smart Options:** Turn on this feature so users can quickly find a country in the long list.
 
-Suppose your country is the United States (US), type ‘UN’ to see a list of UN-related countries. Scroll down to your country and then select it. You can also search for the country's full name.
+For example, if your country is the United States (US), type ‘UN’ to see a list of UN-related countries. Scroll to your country and select it. You can also search by the full country name.
 
 ![Searchable Options](/images/form-fields/general-fields/country-list-field/searchable-options-04.webp)
 
-**D. Placeholder:** You can also have a placeholder by which users will perceive the field's subject.
+**E. Placeholder:** Set a placeholder that tells users what the field is for.
 
-**F. Required:** If this field is essential, make it required so users can’t skip it when filling out the form. By default, it selected **‘No’**. If you select **‘YES’** by clicking the **Radio** button, the field is required where the user must respond by submitting the form.
+**F. Required:** Turn on **Required** so users can’t skip this field. It is off by default.
 
-**Global error message:** If you enable this option, a global [error message](/error-message-customization) will be displayed if the field is not filled out when required.
-
-The default error message displayed is that this field is **required**.
+**Global error message:** Enable this option to show a global [error message](/error-message-customization) when a required field is empty. The default message says this field is **required**.
 
 ![Country List Options](/images/form-fields/general-fields/country-list-field/Country-list-options-04-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
+**A. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **B. Element Class:** Add custom CSS classes to the input field.
 
-**C. Default Country:** If most of your users are from a specific country, like the United States, you can set it as the default. If not, leave it blank.
+**C. Default Country:** Set a default country if most of your users come from one country, such as the United States. Otherwise, leave it blank.
 
-**D. Country List Options:** Customize which countries are visible in the dropdown. You can only select one option from these four options.
+**D. Country List Options:** Customize which countries show in the dropdown. Select one of these four options:
 
-- **Show All:** Display all countries. This is a default option.
+- **Show All:** Display all countries. This is the default option.
 
-- **Hide These:** Hide specific countries if needed. You can choose multiple countries in the same way.
+- **Hide These:** Hide specific countries. You can choose multiple countries.
 
 ![Hide These](/images/form-fields/general-fields/country-list-field/Hide-these-06-scaled.webp)
 
-- **Only Show These:** Pick this option if you only want to show a few countries.
+- **Only Show These:** Show only the countries you pick.
 
-- **Priority Based:** You can highlight certain countries at the top of the list. For example, if most of your users are from the US, UK, and Canada, you can prioritize these.
+- **Priority Based:** Highlight certain countries at the top of the list. For example, if most of your users are from the US, UK, and Canada, prioritize these.
 
-This country will rank first in the search results. Two additional options exist: the **Primary** **Countries Label** and the **Other Countries Label**. Users can choose their **Primary** and **Other Country** labels on the priority list.
+Priority countries rank first in the search results. Two more options exist: the **Primary Countries Label** and the **Other Countries Label**. Use them to label the primary and other countries on the priority list.
 
 ![Prority Based](/images/form-fields/general-fields/country-list-field/prority-based-07-scaled.webp)
 
-**E. Help Message:** This option allows you to guide your user thoroughly. Just add your text here, and it will be shown as a help message to the user. For example, you could add a note like ‘**Select the country you are from’** to help users understand what to do.
+**E. Help Message:** Add text that appears as a help message for the user. For example, you could add a note like ‘**Select the country you are from’** to help users understand what to do.
 
-**F. Name Attribute:** The input field’s name attribute is the **HTML** equivalent of the same name. You don’t need to modify this.
+**F. Name Attribute:** The input field’s name attribute is the **HTML** equivalent of the same name. You do not need to change it.
 
-**G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**G. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options](/images/form-fields/general-fields/country-list-field/advanced-options-05-scaled.webp)
 
 ### Embedding the Form on Your Website
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Country List Field in](/images/form-fields/general-fields/country-list-field/save-form-08-scaled.webp)
 
 ### Preview of Added Country List Field
 
-Here is the preview of the added country list field under the Form. 
+Here is the preview of the added country list field under the Form.
 
 ![Preview Country List 1024x488](/images/form-fields/general-fields/country-list-field/preview-country-list-09-1024x488.webp)
-
-**Congratulations!** Your **Country List Input Field** is now ready to collect country selections from users.

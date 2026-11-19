@@ -4,18 +4,16 @@ description: "Fluent Forms offers an impressive Import Entries feature that allo
 
 # Importing Entries
 
-Fluent Forms offers an impressive **Import Entries** feature that allows users to import form entries directly in **JSON** and **CSV** formats. This functionality helps manage up-to-date data by enabling bulk entry uploads.
+The **Import Entries** feature lets you import form entries in **JSON** and **CSV** formats. It helps you keep your data up to date with bulk entry uploads. This article shows you how to import entries into your WordPress site with Fluent Forms.
 
-This article will guide you through how you can Import Entries to your WordPress Sites with Fluent Forms.
+> [!Note]
+> **Import Entries** is a Pro feature. It needs Fluent Forms Pro 5.1.7 or later. On the free plugin, the Tools screen shows an upgrade prompt. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Accessing the Import Entries
 
 First, go to the Fluent Forms dashboard and open [**Tools**](/user-interface) from the top navigation bar. Then, select **Import Entries** from the left sidebar. It opens the **Entries Import Setup** page.
 
 Alternatively, you can import data from an individual form's [**Entries**](/managing-entries) page. Click the **three-dot** menu at the top right and choose **Import**. Only users who can manage Fluent Forms settings see this option.
-
-> [!Note]
-> Importing entries requires the Fluent Forms Pro add-on. Without it, the page asks you to upgrade to Pro.
 
 ![Entries Import Setup page under Tools](/images/import-export-migration/importing-entries/access-import-entries-01-scaled.webp)
 
@@ -53,4 +51,4 @@ Once the import completes, an **Entries imported.** message appears and a **View
 
 ![Imported entries in the form's Entries list](/images/import-export-migration/importing-entries/view-entries-04-1-scaled.webp)
 
-So, this is the process of importing entries in Fluent Forms.
+To bring in forms from another plugin, see [Migrate to Fluent Forms](/migrator-wpforms-contact-form-7-gravity-forms-ninja-forms-caldera-forms).

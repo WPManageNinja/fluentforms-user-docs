@@ -4,9 +4,9 @@ description: "The Time & Date field in Fluent Forms allows users to select and s
 
 # Time & Date Input Field
 
-The **Time & Date** field in **Fluent Forms** allows users to **select** and **submit date and time values**. You can customize the **date format, field behavior,** and **advanced options** to match your needs.
+The **Time & Date** field in **Fluent Forms** lets users **select** and **submit date and time values**. You can customize the **date format, field behavior,** and **advanced options** to match your needs.
 
-This guide will walk you through adding and customizing the **Time & Date Field** in Fluent Forms for your WordPress site.
+This guide shows you how to add and customize the **Time & Date Field** in Fluent Forms.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/vvaIfZeSJm4" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,19 +14,19 @@ This guide will walk you through adding and customizing the **Time & Date Field*
 
 ## Adding Time & Date Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 ![Edit Time & Date Input](/images/form-fields/general-fields/time-date-input-field/form-edit-01-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, choose the desired **Time & Date** field by clicking or **dragging** and **dropping** it into your editor.
+Click the **Time & Date** field, or drag and drop it into your editor.
 
 ![Adding Time Date](/images/form-fields/general-fields/time-date-input-field/adding-time-date-02-scaled.webp)
 
 ## Customizing the Time & Date Field
 
-A Time & Date field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Time & Date Field Options
 
@@ -36,56 +36,54 @@ A Time & Date field has been added. You can edit this field by **hovering over i
 
 ### Time & Date Field options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Time & Date** input field.
+These options in the **Customize** tab configure the **Time & Date** input field.
 
-**A. Element Label:** This is the field title users will see when filling out the **Time & Date** field in a form. You can enter any text here to help users understand the field's purpose.
+**A. Element Label:** The field title users see when they fill out the **Time & Date** field. Enter text that explains the field's purpose.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.   
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute. 
+**D. Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-**E. Date Format:** The user can select a date in any date format from the drop-down menu.
+**E. Date Format:** Select a date format from the drop-down menu.
 
-**F. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form. 
+**F. Required:** Choose whether users can submit the form with this field empty.
 
 ![Time Date Options](/images/form-fields/general-fields/time-date-input-field/Time-Date-options-04-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
 **A. Autocomplete:** Choose a value that tells the browser what the field collects, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. You can add default values with the **Three-Dot** option from the right side. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
+**B. Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. You can add default values with the **Three-Dot** option from the right side. To learn more, read [Dynamic Default Value in Fluent Forms](/dynamic-default-value).
 
-**C. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**C. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **D. Element Class:** Add custom CSS classes to the input field.
 
-**E. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**E. Help Message:** Add text that appears as a help message for the user.
 
-**F. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**F. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**G. Advanced Date Configuration:** Fluent Forms uses the [**Flatpickr**](https://flatpickr.js.org/) **JavaScript library** for the **Date & Time Picker**. Advanced users can modify field settings using custom configuration objects. 
+**G. Advanced Date Configuration:** Fluent Forms uses the [**Flatpickr**](https://flatpickr.js.org/) **JavaScript library** for the **Date & Time Picker**. Advanced users can change field settings with a custom configuration object.
 
-For instance, you can add the start of the week date. You can do this with the help of a custom code. By default, the week starts on **Sunday**. To set it to **Monday**, use this custom code given below:
+> [!Note]
+> **Advanced Date Configuration** is a Pro feature. Only administrators can edit it. Enter a plain JSON object only. Functions and comments are not supported, and Fluent Forms removes any configuration that is not valid JSON when you save.
+
+For example, you can set the first day of the week. By default, the week starts on **Sunday**. To start on **Monday**, use this custom code:
 
 ```
-
 {
-
     "locale": {
-
-        "firstDayOfWeek": 1 // start week on Monday
-
+        "firstDayOfWeek": 1
     }
-
 }
 ```
 
-**Available options**
+**Available options** (options that take a function are not supported)
 
 | Config Option | Type | Default | Description |
 |---|---|---|---|
@@ -93,7 +91,6 @@ For instance, you can add the start of the week date. You can do this with the h
 | altInput | Boolean | false | Show the user a readable date (as per altFormat), but return something totally different to the server. |
 | altInputClass | String | “” | This class will be added to the input element created by the altInput option.  Note that altInput already inherits classes from the original input. |
 | allowInput | Boolean | false | Allows the user to enter a date directly into the input field. By default, direct entry is disabled. |
-| appendTo | HTMLElement | null | Instead of body, appends the calendar to the specified node instead*. |
 | ariaDateFormat | String | “F j, Y” | Defines how the date will be formatted in the aria-label for calendar days, using the same tokens as dateFormat. If you change this, you should choose a value that will make sense if a screen reader reads it out loud. |
 | clickOpens | Boolean | true | Whether clicking on the input should open the picker. You could disable this if you wish to open the calendar manually with.open() |
 | dateFormat | String | “Y-m-d” | A string of characters which are used to define how the date will be displayed in the input box. The supported characters are defined in the table below. |
@@ -105,7 +102,6 @@ For instance, you can add the start of the week date. You can do this with the h
 | enable | Array | [] | See Enabling dates |
 | enableTime | Boolean | false | Enables time picker |
 | enableSeconds | Boolean | false | Enables seconds in the time picker. |
-| formatDate | Function | null | Allows using a custom date formatting function instead of the built-in handling for date formats using dateFormat, altFormat, etc. |
 | hourIncrement | Integer | 1 | Adjusts the step for the hour input (incl. scrolling) |
 | inline | Boolean | false | Displays the calendar inline |
 | maxDate | String/Date | null | The maximum date that a user can pick to (inclusive). |
@@ -114,22 +110,14 @@ For instance, you can add the start of the week date. You can do this with the h
 | mode | String | “single” | "single", "multiple", or "range" |
 | nextArrow | String | > | HTML for the arrow icon, used to switch months. |
 | noCalendar | Boolean | false | Hides the day selection in the calendar.Use it along with enableTime to create a time picker. |
-| onChange | Function, [functions] | null | Function(s) to trigger on every date selection. See Events API |
-| onClose | Function, [functions] | null | Function(s) to trigger on every time the calendar is closed. See Events API |
-| onOpen | Function, [functions] | null | Function(s) to trigger on every time the calendar is opened. See Events API |
-| onReady | Function, [functions] | null | Function to trigger when the calendar is ready. See Events API |
-| parseDate | Function | false | Function that expects a date string and must return a Date object |
 | position | String | “auto” | Where the calendar is rendered relative to the input."auto", "above" or "below" |
-| prevArrow | String | 
 
-**H. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
+**H. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options Fluent Forms](/images/form-fields/general-fields/time-date-input-field/Advanced-Options-05-15-scaled.webp)
 
 ### Preview of Added Time & Date Field
 
-Here is the preview of the added **Time & Date** field under the Form. 
+Here is the form with the **Time & Date** field added.
 
 ![Preview Time & Date Input](/images/form-fields/general-fields/time-date-input-field/Preview-form-07-2.webp)
-
-**Congratulations!** You have successfully added a **Time & Date field** to your Fluent Form.

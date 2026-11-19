@@ -4,28 +4,29 @@ description: "Fluent Forms offers Taxonomy Fields that allow you to group your p
 
 # Add Tags Taxonomy Field in Post Forms
 
-**Fluent Forms** offers **Taxonomy Fields** that allow you to group your posts based on categories, tags, and other taxonomies available on your WordPress site. 
+**Fluent Forms** offers **Taxonomy Fields** that let you group your posts by categories, tags, and other taxonomies available on your WordPress site.
 
 > [!Note]
 > **Taxonomy Fields** appear only in **Post Forms**. For custom taxonomies, see [How to Create a Post Form with Fluent Forms](/create-a-post-form).
 
-This article will guide you through adding the **Tags Taxonomy Field** in your Fluent Forms for your WordPress Site. This **Tags** field will allow your users to write a Tag and submit their posts under the set tag directly in your WordPress Site Tag through the form. To let users group posts by section instead, add the [Categories Taxonomy Field](/add-categories-taxonomy-field-in-post-forms).
+This article shows you how to add the **Tags Taxonomy Field** to your form. The **Tags** field lets users write a tag and submit their posts under that tag in your WordPress site through the form. To let users group posts by section instead, add the [Categories Taxonomy Field](/add-categories-taxonomy-field-in-post-forms).
+
+> [!Note]
+> This field is a Pro feature. It appears in the editor only when the **Post/CPT Creation** module is enabled. See [Create a Post Form](/create-a-post-form).
 
 ## Add Tags Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of your **Post Form** to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of your **Post Form** to open the form editor.
 
 ![Open Post Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/1.-Open-desired-Post-form-6-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input Fields** on the right sidebar and open the **Taxonomy Fields** dropdown list by clicking the **Arrow Icon**. Now, choose the **Tags** field by clicking on it or **Drag & Drop** it into your editor.
+In the editor, go to **Input Fields** in the right sidebar. Click the **Arrow Icon** to open the **Taxonomy Fields** dropdown list. Click the **Tags** field, or drag and drop it into your editor.
 
 ![Add Tags Field](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/2.-Add-Tags-field-scaled.webp)
 
 ## Customize Tags Field
 
-You can see that a **Tags** field is added to the form. You can Edit or Customize this field by **hovering over it** and clicking the **Pencil Icon**.
-
-It will take you to the **Customize** tab on the right side and offer you the following options for customizing the field.  
+Hover over the **Tags** field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 1. Tags
 
@@ -37,15 +38,15 @@ It will take you to the **Customize** tab on the right side and offer you the fo
 
 Configure **Tags** labels, taxonomy display type, and validation:
 
-**A. Element Label**: This is the field Content the users will see when filling out the **Tags** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Tags** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement**: Using this option, you can determine the position of the label Content where the user will see this. The available options are **Top**, **Right**, **Bottom**, **Left**, **Hide** **Label**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are **Top**, **Right**, **Bottom**, **Left**, **Hide Label**, and **Default**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label**: The admin field label is a field Content displayed only to admin users. That means, if you want to show a different field label for your admin users when they view the form submissions, you can configure that using this option.
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Placeholder**: Here, you can set a desired text to guide your users about the purpose of the field. It is the equivalent of the HTML input placeholder attribute. The user will see this text when the input field is empty.
+**D. Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-**E. Required:** Select the **Yes** radio button to make this field mandatory for users to fill in for successful form submission. Otherwise, check the **No** radio button to keep this field optional to fill in. 
+**E. Required:** Select the **Yes** radio button to make this field mandatory for a successful submission. Select **No** to make it optional.
 
 ![Tags Option Fluent Forms](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/4.-Tags-option-scaled.webp)
 
@@ -53,40 +54,37 @@ Configure **Tags** labels, taxonomy display type, and validation:
 
 Configure **Advanced** options:
 
-**A. Default Value**: You can set a default value here to pre-populate the value of a field and enter it here. You can also set the value by using the **SmartCodes**. To learn the details about SmartCodes, read this [Documentation](/form-editor-smart-codes).
+**A. Default Value:** Set a default value to pre-populate the field. You can also set the value with **SmartCodes**. To learn more, read [Form Editor Smart Codes](/form-editor-smart-codes).
 
-**B. Container Class**: Use this option to add your custom CSS classes to the field’s wrapper.
+**B. Container Class:** Add custom CSS classes to the field’s wrapper.
 
-**C. Element Class**: Add custom CSS classes to the input field itself. This is used for adding Custom CSS/JS for a specific input field of a form.
+**C. Element Class:** Add custom CSS classes to the input field itself. Use it to add custom CSS or JS for a specific input field.
 
-**D. Help Message**: You can use this option to guide your user thoroughly. Add your text here, which will be shown as a help message to the user. To learn more, read this Documentation.
+**D. Help Message:** Add text that appears as a help message for the user.
 
-**E. Name Attribute**: The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**F. Conditional Logic**: This option allows the Tags field to function conditionally based on your submission values according to your set of conditional logic/s. To learn more, read this [Documentation](/set-up-forms-with-conditional-logic).
+**F. Conditional Logic:** Make the Tags field work conditionally based on your submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/5.-Advanced-Options-9-scaled.webp)
 
 ## Configure Post Feed Settings
 
-Lastly, **configuring** the **Post Feed** is **mandatory** to make your **Post Form** functional. It helps you map your added post fields for data collection and allows users to create more customized posts.
+Configure the **Post Feed**. This step is **mandatory** to make your **Post Form** work. The feed maps your post fields for data collection and lets users create more customized posts.
 
 > [!Note]
 > Use the **Post Feed** settings to map your post fields, then save the feed. For the full workflow, see [How to Create a Post Form with Fluent Forms](/create-a-post-form).
 
 ## Embed the Form into Frontend
 
-To embed and display the form on a specific Page/Post on your site, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**.  
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
-Once you complete the customization, click the **Save** button to save all your changes.
-Also, to see the form preview, click the **Preview** (eye) icon at the top right.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
 ![Save Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/6.-Save-Form-6-scaled.webp)
 
 ### Preview of Tags field
 
-Here is the preview of the added **Tags** field under the Post Form.
+Here is the Post Form with the **Tags** field added.
 
 ![Preview Tags Taxonomy Field in](/images/form-fields/post-taxonomy-fields/add-tags-taxonomy-field-in-post-forms/7.-Form-Preview--scaled.webp)
-
-This way you can easily add the **Tags** fields in Fluent Forms!

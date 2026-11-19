@@ -4,78 +4,68 @@ description: "Integrating BuddyBoss with Fluent Forms allows you to enhance your
 
 # Integrate BuddyBoss
 
-Integrating [BuddyBoss](http://buddyboss.com) with **Fluent Forms** allows you to enhance your community engagement on your WordPress site. This allows you to collect and update BuddyBoss profile fields directly through Fluent Forms. This article will guide you through integrating **BuddyBoss** with **Fluent Forms** on your **WordPress Site**.
+The [BuddyBoss](http://buddyboss.com) integration lets you collect and update BuddyBoss profile fields directly through **Fluent Forms**. This guide shows you how to connect **BuddyBoss** with **Fluent Forms** on your **WordPress site**.
 
 > [!Note]
 > **BuddyBoss** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
-## Setting up BuddyBoss in WordPress Site
+## Set Up BuddyBoss in WordPress
 
 > [!Note]
-> Install and activate the **BuddyBoss** plugin (Free or Pro) on your WordPress site before continuing.
+> Install and activate the **BuddyBoss** plugin (Free or Pro) on your WordPress site before you continue.
 
-Now, go to **BuddyBoss** from the **Left Sidebar**, click the **Profiles**, and it will take you to the **Profile Fields** page.
-
-Here, you can **Edit** any of your existing fields or **Add New Field** according to your requirements.
+In the **Left Sidebar**, go to **BuddyBoss** and click **Profiles**. This opens the **Profile Fields** page. You can **Edit** any existing field or click **Add New Field**.
 
 ![Add Field Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/1.-Add-New-Field-scaled.webp)
 
-Then go to the **Profile Types** page from the **Top Navbar**. Here, you can **Edit** any of your existing profile types or **Add New** profile types based on your needs.
+Next, open the **Profile Types** page from the **Top Navbar**. You can **Edit** any existing profile type or click **Add New** to create one.
 
 ![Add Profile Type Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/2.-Add-Profile-Type-scaled.webp)
 
-## Enabling User Registration or Update
+## Enable User Registration or Update
 
-To integrate BuddyBoss integration, you **need to enable the User Registration or Update** integration module in your Fluent Forms. Through this integration module, you will be able to integrate BuddyBoss with Fluent Forms.
+You **need to enable the User Registration or Update** module in Fluent Forms. This module connects BuddyBoss with Fluent Forms.
 
-First, go to **Integrations** from the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **User Registration** through the search bar, and get the integration module.
-
-Now, turn on the **Toggle** and the **User Registration or Update** module will be enabled.
+Go to **Integrations** in the **WordPress Left Sidebar** or **Fluent Forms Navbar** and search for **User Registration**. Turn on the **Toggle** to enable the **User Registration or Update** module.
 
 ![Enable User Registration Or Update Module Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/3.-Enable-User-Registration-or-Update-module-scaled.webp)
 
-## Integrating BuddyBoss with Forms
+## Integrate BuddyBoss with Forms
 
-Go to **Forms** from the **Fluent Forms Navbar**, **select** the **Desired Form** where you want to integrate your **BuddyBoss,** and open the **Configuration** tab. 
+Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **BuddyBoss**, and open the **Configuration** tab.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/4.-open-desired-forms-Settings-scaled.webp)
 
-Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **User Registration or Update Integration** feed from the drawer. 
+On the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select the **User Registration or Update Integration** feed from the drawer.
 
 ![Add Integration Dropdown Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/5.-Add-New-Integration-dropdown-scaled.webp)
 
-Once you select the list, a pop-up page will appear with various settings options for configuring the User Registration feed.
+The feed settings open with options for the User Registration feed.
 
 > [!Note]
 > For **User Registration** or **User Update** feeds, see [How to Create a WordPress User Registration Form With Fluent Forms](/create-a-wordpress-user-registration-form) and [How to Create a WordPress User Update Form With Fluent Forms](/create-a-wordpress-user-update-form).
 
-Finally, scroll down to the BuddyBoss Settings section, and you will get the following options to integrate it with the form.
+Scroll down to the BuddyBoss Settings section. These options appear only when the BuddyBoss plugin is active.
 
-- **Profile Fields:** Use all the fields under this option to properly link your BuddyBoss Fields with the Form Fields. You can easily select the value for the form fields based on the BuddyBoss fields using the Shortcode Arrow. Plus, you add or delete as many fields as you want by clicking the Plus or Minus icon on the right side.
+- **Profile Fields:** Link your BuddyBoss fields with the form fields. Use the Shortcode Arrow to select the value for each field. Click the Plus or Minus icon on the right to add or delete fields.
+- **BuddyBoss Profile Type:** Click the Arrow Icon on the right and select a BuddyBoss Profile Type from the dropdown list.
 
-- **BuddyBoss Profile Type:** Here, you can directly select your desired BuddyBoss Profile Type from the dropdown list by clicking the Arrow Icon on the right side.
-
-Once the configuration is done, click the **Save** button, and your BuddyBoss will be integrated into this specific form!
+Click **Save** when the configuration is done. BuddyBoss is now connected to this form.
 
 ![Save Feed Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/6.-Save-Feed.webp)
 
-After successful Integration, now you will see that your **BuddyBoss** has been integrated through the **User Registration** integration feed here. 
-
-You can modify your **BuddyBoss Settings** anytime by clicking the **Settings Icon** and delete it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
+The **User Registration** feed now appears in the list. Click the **Settings Icon** to modify your **BuddyBoss Settings** or the **Trash Icon** to delete the feed. Turn the **Toggle** off to disable the feed, and on to enable it again.
 
 ![Added User Registration Integration](/images/integrations/other-apps/integrate-buddyboss/7.-Added-User-Registration-Integration-scaled.webp)
 
-## Embedding the Form into Frontend
+## Embed the Form on the Frontend
 
-To embed and display the form on a specific Page/Post on your site, go to the **Editor** page from the top navbar.
-
-Now, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. Also, to see the form preview, click the **Preview & Design** button in the middle.
-
-Once you are done, click the **Save** **Form** button to save all your changes. 
+1. Go to the **Editor** page from the top navbar.
+2. **Copy** the **Shortcode** from the top right side and **paste** it into your Page or Post.
+3. Click **Preview & Design** in the middle to preview the form.
+4. Click **Save** **Form** to save all your changes.
 
 ![Save Integrate BuddyBoss](/images/integrations/other-apps/integrate-buddyboss/8.-Save-Form-1-scaled.webp)
-
-This way, you can easily integrate BuddyBoss with Fluent Forms!

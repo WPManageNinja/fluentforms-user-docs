@@ -4,51 +4,49 @@ description: "reCAPTCHA in Fluent Forms helps to protect your website from spam 
 
 # reCAPTCHA Field
 
-reCAPTCHA in Fluent Forms helps to protect your website from spam and bots by verifying real users. It also improves your website's security and ensures only humans can submit forms.
+reCAPTCHA in Fluent Forms protects your website from spam and bots by verifying real users. It also improves your website's security and ensures only humans can submit forms.
 
-This article will guide you through adding the **reCAPTCHA** field in **Fluent Forms** for your WordPress site.
+This guide shows you how to add the **reCAPTCHA** field to your form.
 
-Before adding reCAPTCHA to your form, you will need to **integrate** it with: **reCAPTCHA v2** (Checkbox: "I'm not a robot") or **reCAPTCHA v3**  (Invisible verification). To learn more, read [How to Integrate reCAPTCHA with Fluent Forms](/integrate-recaptcha).
+Before you add reCAPTCHA to your form, integrate it as **reCAPTCHA v2** (Checkbox: "I'm not a robot") or **reCAPTCHA v3** (Invisible verification). To learn how, read [How to Integrate reCAPTCHA with Fluent Forms](/integrate-recaptcha).
 
 ## Add reCAPTCHA to Your Form
 
-First, go to the **Forms** section from the **Fluent Forms Navbar,** choose a desired **Form,** and click the form to open its **Editor** page.
+Go to **Forms** in the **Fluent Forms Navbar**. Choose a form and click it to open its **Editor**.
 
 > [!Note]
 > The **reCaptcha** field stays disabled in the field list until you save your reCAPTCHA keys. See [How to Integrate reCAPTCHA with Fluent Forms](/integrate-recaptcha).
 
 ![Edit reCAPTCHA Field](/images/security-spam/recaptcha-field/edit-form-01-11-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **Advanced Fields** module. The **Advanced Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the **Editor**, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the desired **reCAPTCHA** **Input** field by **Clicking** on it or **Dragging** and **Dropping** it into your editor.
+Click the **reCAPTCHA** input field, or drag and drop it into your editor.
 
 ![reCAPTCHA Field step](/images/security-spam/recaptcha-field/new-16-scaled.webp)
 
 ## Customizing the reCAPTCHA Field
 
-A reCAPTCHA field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Input Customization** tab on the right side and offer the following options for customizing the field. 
+To edit the reCAPTCHA field, hover over it and click the **Pencil Icon**. The **Input Customization** tab opens on the right with these options.
 
 ![Input Customize](/images/security-spam/recaptcha-field/input-customize-03-scaled.webp)
 
-**A. Element Label:** This is the field title the users will see when filling out the **reCAPTCHA** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **reCAPTCHA** field. Enter any text that explains the purpose of the field.
 
-**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**B. Name Attribute:** The HTML name attribute of the input field. You do not need to change it.
 
 ![Customization](/images/security-spam/recaptcha-field/Customization-03-1-scaled.webp)
 
 ## Embed the Form into the Front
 
-Once you have customized the reCAPTCHA field, click the **Save** button to save your changes. To preview the form, click **Preview & Design** in the middle of the page.
+Click **Save** to save your changes. To preview the form, click the **Preview** (eye) icon in the top bar.
 
-To integrate and display the form on a specific Page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. You can also [embed the form directly in the Gutenberg layout](/embed-your-forms-directly-in-gutenberg-layout). 
+To display the form on a page or post, **copy** the **Shortcode** from the top right and **paste** it into that page or post. You can also [embed the form directly in the Gutenberg layout](/embed-your-forms-directly-in-gutenberg-layout).
 
 ![Save reCAPTCHA Field](/images/security-spam/recaptcha-field/Save-Form-04-scaled.webp)
 
 ### Preview of Added reCAPTCHA Field
 
-Here is the **Preview** of the **Form** to test the reCAPTCHA field functionality.
+Use the **Preview** of the form to test the reCAPTCHA field.
 
 ![Preview 1024x515 reCAPTCHA Field](/images/security-spam/recaptcha-field/preview-05-1024x515.webp)
-
-Congratulations. You have successfully added the reCAPTCHA field to your Form.

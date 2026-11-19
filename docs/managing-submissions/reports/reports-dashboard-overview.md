@@ -1,73 +1,64 @@
 ---
-description: "The Reports dashboard gives you a powerful visual overview of your form submission data and performance."
+description: "The Reports dashboard gives you a visual overview of your form submission data and performance."
 ---
 
 # Reports Dashboard Overview
 
-The **Reports** dashboard gives you a powerful visual overview of your form submission data and performance. Use these analytics to understand trends, track engagement, and monitor your forms' effectiveness at a glance. 
+The **Reports** dashboard gives you a visual overview of your form submission data and performance. Use these analytics to understand trends, track engagement, and monitor your forms at a glance.
 
 ## Accessing the Report Dashboard
 
-Go to your WordPress dashboard, then navigate to **Fluent Forms** > **Reports** in the top menu bar. When you open the **Reports** section, you'll automatically be on the **Overview** tab. This tab is your main summary page.
+In your WordPress dashboard, go to **Fluent Forms** > **Reports** in the top menu bar. The **Overview** tab opens first. This tab is your main summary page.
 
 ## Filtering Your Report Data
 
-At the top of the **Reports** page, you will find global filters to refine the data shown in all charts.
+Global filters at the top of the **Reports** page refine the data in all charts.
 
-- **All Forms:** Use this dropdown menu to view data for all of your forms or select a specific one.
-
-- **Date Range:** Click this filter to select a predefined time period (e.g., Last 6 months) or set a custom date range. By default, the reports show the last 30 days, based on your site's timezone.
+- **All Forms:** View data for all of your forms, or select a specific one.
+- **Date Range:** Select a predefined time period (for example, Last 6 months) or set a custom date range. By default, the reports show the last 30 days, based on your site's timezone.
 
 ### Overview
 
-The cards at the top of the dashboard provide a quick summary of essential activity.
+The cards at the top of the dashboard summarize essential activity.
 
-- **Total Submissions:** Here, shows the total number of entries received within the selected date range.
-
-- **Spam Submissions:** Displays the count of form entries flagged as spam.
-
-- **Unread Submissions:** Lists the number of new entries you have not yet viewed.
-
-- **Created Forms:** Shows the total number of forms you have created.
+- **Total Submissions:** The total number of entries received within the selected date range.
+- **Spam Submissions:** The count of form entries flagged as spam.
+- **Unread Submissions:** The number of new entries you have not yet viewed.
+- **Created Forms:** The total number of forms you have created.
 
 ![Reports Dashboard Overview step](/images/managing-submissions/reports/reports-dashboard-overview/01-scaled-3.webp)
 
 ### Understand Charts and Graphs
 
-The dashboard contains several visual charts to help you interpret your form data.
+The dashboard has several charts to help you interpret your form data.
 
-**Overview Chart:** This chart displays submission trends over time. Use the **bar** and **line** icons to switch the chart style. You can toggle the view between **Submissions** data (including Unread, Read, Spam, and Trashed) and **Payments** data.
+**Overview Chart:** Shows submission trends over time. Use the **bar** and **line** icons to switch the chart style. Toggle the view between **Submissions** data (including Unread, Read, Spam, and Trashed) and **Payments** data. The **Payments** option appears only when the **Payment Module** is enabled.
 
-**Completion Rates (Partial Entry Forms):** This chart tracks partial entry submissions, showing the percentage of users who started and completed a form.
+**Completion Rates (Partial Entry Forms) (Pro):** Tracks partial entry submissions and shows the percentage of users who started and completed a form.
 
 ![Fluent Forms](/images/managing-submissions/reports/reports-dashboard-overview/2-1-scaled-2.webp)
 
-**Submissions By Country:** This section is designed to visualize the geographic origin of your form submissions on a world map. It helps you understand where your audience is located. 
+**Submissions By Country (Pro):** Shows the geographic origin of your form submissions on a world map, so you can see where your audience is located.
 
-**Top Performing Forms:** This graph ranks your forms by performance. Use the **Submissions**, **Views**, and **Payments** tabs to switch the ranking.
+**Top Performing Forms:** Ranks your forms by performance. Use the **Submissions**, **Views**, and **Payments** tabs to switch the ranking.
 
 ![Reports Dashboard Overview step](/images/managing-submissions/reports/reports-dashboard-overview/3-1-scaled.webp)
 
 > [!Note]
-> To see **Views** data, turn off **Disable Form Analytics**. When this setting is enabled, **Views** will not appear in your Reports dashboard.
-
-> [!Note]
-> Open **Global Settings** from the Fluent Forms navbar, go to the **General** tab, and scroll to **Miscellaneous** under **Layout**. Disable **Disable Form Analytics** to start viewing **Views** data.
+> To see **Views** data, turn off **Disable Form Analytics** in **Global Settings**. When this setting is on, **Views** does not appear in your Reports dashboard.
 
 ![1536x273](/images/managing-submissions/reports/reports-dashboard-overview/image-1-1536x273-1.webp)
 
-**Submission Timeline Patterns:** Analyze this heatmap to discover when your audience is most active. Each row represents a day of the week, and each column represents an hour of the day. The color intensity of each block corresponds to the volume of submissions, with darker shades signifying higher activity, as shown in the **Low** to **High** legend. 
+**Submission Timeline Patterns (Pro):** A heatmap that shows when your audience is most active. Each row is a day of the week, and each column is an hour of the day. Darker blocks mean more submissions, as the **Low** to **High** legend shows.
 
-You can use the **AM (12-11)** or **PM (12-11)** toggles at the top right to focus on specific time periods.
+Use the **AM (12-11)** or **PM (12-11)** toggles at the top right to focus on specific time periods.
 
-**API Logs:** Use this chart to monitor the operational status of your third-party integrations. You can filter the view by status:
+**API Logs:** Monitors the status of your third-party integrations. Filter the view by status:
 
-- **Success:** Shows API calls that were completed.
-
-- **Pending:** Indicates calls that are still waiting to be processed.
-
-- **Failed:** Highlights any API calls that encountered an error, allowing you to quickly identify and troubleshoot integration problems.
+- **Success:** API calls that completed.
+- **Pending:** Calls still waiting to be processed.
+- **Failed:** API calls that returned an error, so you can identify and troubleshoot integration problems.
 
 ![Reports Dashboard Overview step](/images/managing-submissions/reports/reports-dashboard-overview/3-2-scaled.webp)
 
-Understanding these reports allows you to make data-driven decisions to optimize your forms.
+For revenue data, see [Payment Reports](/payment-reports).

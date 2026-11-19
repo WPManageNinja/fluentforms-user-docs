@@ -4,9 +4,9 @@ description: "The Custom HTML field in Fluent Forms allows you to personalize yo
 
 # Custom HTML Field
 
-The **Custom HTML** field in Fluent Forms allows you to personalize your forms by adding **custom HTML code** or **shortcodes**. You can also add **custom text, images, embedded elements, or Smartcodes** to enhance the user experience.
+The **Custom HTML** field in Fluent Forms lets you personalize your form with **custom HTML code** or **shortcodes**. You can also add **custom text, images, embedded elements, or Smartcodes**.
 
-This article will guide you through adding the **Custom HTML** field to your WordPress Site's Fluent Forms.
+This article shows you how to add the **Custom HTML** field to your form.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/eDQwZrroca8" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,50 +14,50 @@ This article will guide you through adding the **Custom HTML** field to your Wor
 
 ## Adding Custom HTML Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 ![Edit Custom HTML Field](/images/form-fields/general-fields/custom-html-field/edit-form-01-2-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Select the desired **Custom HTML** field by **Dragging** or **Dropping** it into your editor.
+Drag and drop the **Custom HTML** field into your editor.
 
 ![Custom HTML Field step](/images/form-fields/general-fields/custom-html-field/new-5-scaled.webp)
 
 ## Customizing the Custom HTML Field
 
-A custom HTML field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 ![Customize](/images/form-fields/general-fields/custom-html-field/input-customization-03-3-scaled.webp)
 
-**A. HTML Code:** In the HTML Code section, you can add any valid HTML code that will be displayed as regular content within the form.
+**A. HTML Code:** Add any valid HTML code. The form shows it as regular content.
 
 For example:
 
 `<p style="color:blue;">Welcome to our registration form!</p>`
 
-**B. Dynamic SmartCodes:** By using [Smart Codes](/form-editor-smart-codes), the user can show data from any input.  Use the smart code picker in the HTML Code editor to browse and insert smart codes instead of typing them by hand.
+**B. Dynamic SmartCodes:** Use [Smart Codes](/form-editor-smart-codes) to show data from any input.
 
 For example, the shortcode could be {dynamic.YOUR_INPUT_NAME}.
 
-> Other ShortCodes will work in this field as well.
+> Other shortcodes also work in this field.
 
-**Smart Code Picker:** You don't need to type smart codes by hand. Use the smart code picker in the **HTML Code** section to browse the available smart codes and insert one at your cursor position.
+**Smart Code Picker:** You do not need to type smart codes by hand. Use the smart code picker in the **HTML Code** section to browse the available smart codes and insert one at your cursor position.
 
-- Click the **Add shortcodes** in the **HTML Code** section.
+- Click **Add shortcodes** in the **HTML Code** section.
 - Select the smart code you want. It is added to your HTML code.
 
-**C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**C. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
-**D. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper. This can be used to style the current element.
+**D. Container Class:** Add custom CSS classes to the field’s wrapper. This can be used to style the current element.
 
 ![Customization Fluent Forms](/images/form-fields/general-fields/custom-html-field/Customization-04-scaled.webp)
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Custom HTML Field](/images/form-fields/general-fields/custom-html-field/save-form-05-scaled.webp)
 
@@ -66,5 +66,3 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 Here is the **Preview** of the **Form** to test the custom HTML field functionality.
 
 ![Preview Custom HTML Field](/images/form-fields/general-fields/custom-html-field/preview-06.webp)
-
-Congratulations. You have successfully added the Custom HTML field in your Form.

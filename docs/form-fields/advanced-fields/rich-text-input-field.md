@@ -4,31 +4,31 @@ description: "The Rich Text Input Field allows users to submit text with formatt
 
 # Rich Text Input Field
 
-The **Rich Text Input Field** allows users to submit text with formatting options like **bold, italics, underline,** and **more**. For plain, unformatted multi-line input, use the [Text Area field](/adding-a-text-area-input-field) instead. It also enables users to submit their forms with rich text content.
+The **Rich Text Input Field** lets users submit text with formatting options like **bold, italics, underline,** and **more**. For plain, unformatted multi-line input, use the [Text Area field](/adding-a-text-area-input-field) instead.
 
-This guide will walk you through adding and customizing the **Rich Text Input** field in Fluent Forms.
+This guide shows you how to add and customize the **Rich Text Input** field in Fluent Forms.
 
 > [!Note]
 > The **Rich Text** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Adding a Rich Text Input Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
+> If you have no forms yet, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit Rich Text Input Field](/images/form-fields/advanced-fields/rich-text-input-field/Form-Edit-01-2-scaled.webp)
 
-Once on the **Editor** page, click the **Plus Icon** in your form editor and open the **Advanced Fields** module. You can also find this option in the right sidebar under the **Input Fields** tab.
+In the editor, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the **Rich Text Input** field by clicking or dragging it and dropping it into your editor.
+Click the **Rich Text Input** field, or drag and drop it into your editor.
 
 ![Adding Rich Text](/images/form-fields/advanced-fields/rich-text-input-field/Adding-Rich-Text-02-scaled.webp)
 
 ## Customizing the Rich Text Input Field
 
-Once you add the **Rich Text Input** field, you can customize it by hovering over it and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right, which offers the following customization options.
+After you add the **Rich Text Input** field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these options:
 
 - Rich Text Field Options
 
@@ -38,56 +38,54 @@ Once you add the **Rich Text Input** field, you can customize it by hovering ove
 
 ### Rich Text Field Options
 
-Under the Customize tab, you will find various settings options for customizing the field. These options allow you to configure essential aspects of the **Rich Text Input** field.
+These options in the **Customize** tab configure the **Rich Text Input** field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Rich Text Input** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Rich Text Input** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. 
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute. 
+**D. Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-**E. Rows:** You can choose a certain number of **rows,** and you need to implement them.
+**E. Rows:** Choose the number of **rows**.
 
-**F. Columns:** You can choose a certain number of **columns,** and you need to implement them.
+**F. Columns:** Choose the number of **columns**.
 
-**G. Required:** Decide whether users must select at least one option before submission.
+**G. Required:** Turn on **Required** to make users fill in this field before they submit.
 
 ![Rich Text Input](/images/form-fields/advanced-fields/rich-text-input-field/Rich-Text-Input-04-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases. 
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-filled your input field dynamically. To better understand it, read the [Dynamic Default Value documentation](/dynamic-default-value). You can add the default value by **Shortcode** from the right side.
+**A. Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read the [Dynamic Default Value documentation](/dynamic-default-value). Add the default value with the **Shortcode** option on the right side.
 
-**B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**B. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **C. Element Class:** Add custom CSS classes to the input field.
 
-**D. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**D. Help Message:** Add text that appears as a help message for the user.
 
-**E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**E. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
 **F. Max text length:** Limit the maximum number of characters a user can enter.
 
-**G. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
+**G. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read the [Conditional Logic documentation](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options Fluent Forms](/images/form-fields/advanced-fields/rich-text-input-field/Advanced-options-05-21-scaled.webp)
 
 ## Embed the Form into Frontend
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Rich Text Input Field](/images/form-fields/advanced-fields/rich-text-input-field/Save-Form-06-27-scaled.webp)
 
 ### Preview of Added Rich Text Field
 
-Here is the preview of the added **Rich Text** field under the Form. 
+Here is the form with the **Rich Text** field added.
 
 ![Preview Rich Text Input Field](/images/form-fields/advanced-fields/rich-text-input-field/Preview-07-18.webp)
-
-Congratulations! You have successfully added a Rich Text field to your Fluent Forms form.

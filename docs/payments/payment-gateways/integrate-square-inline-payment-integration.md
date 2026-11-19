@@ -4,9 +4,9 @@ description: "Square is a powerful payment processing platform that offers Fluen
 
 # Integrate Square (Inline Payment Integration)
 
-[Square](https://squareup.com/us/en) is a powerful payment processing platform that offers **Fluent Forms** inline payment options and a smooth and secure payment experience using credit and debit cards.
+[Square](https://squareup.com/us/en) is a payment processing platform. It gives **Fluent Forms** inline payment options and a secure payment experience with credit and debit cards.
 
-This article will guide you through integrating **Square** into your **WordPress** **Site** with the  **Fluent Forms** plugin.
+This article shows you how to connect **Square** to your **WordPress** site with the **Fluent Forms** plugin.
 
 > [!Note]
 > **Square** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -15,26 +15,25 @@ This article will guide you through integrating **Square** into your **WordPress
 
 Click the **Settings** (gear) icon in the **Fluent Forms Navbar**, open **Payment Settings** from the left sidebar, and select **Payment Methods**.
 
-Turn on the toggle next to **Square** to enable it globally for all forms, then click **Manage** to open its settings.
+Turn on the toggle next to **Square** to enable it for all forms, then click **Manage** to open its settings.
 
 ![Enable Payment Methods Integrate Square](/images/payments/payment-gateways/integrate-square-inline-payment-integration/1.-Enable-Payment-Methods-scaled.webp)
 
 ## Configure Square with Fluent Forms
 
-Once you enable the **Square**, all the required settings will appear to configure the Square with Fluent Forms. 
+After you enable **Square**, its settings appear.
 
-Before starting the configuration, select any **Payment Mode** between **Test** (for test payments) and **Live** (for real payments) as both options follow the same process, e.g., I choose the **Test Mode**.
+Select a **Payment Mode**: **Test** (for test payments) or **Live** (for real payments). Both follow the same process. This guide uses **Test** mode.
 
-Then, you need to obtain the **Application ID, Access Key,** and **Location ID** from your **Square Account**.
+Then get the **Application ID, Access Key,** and **Location ID** from your **Square Account**. Square calls the Access Key an **Access Token**.
 
 ![Payment Mode And API Credentials](/images/payments/payment-gateways/integrate-square-inline-payment-integration/2.-Payment-Mode-and-API-Credentials-scaled.webp)
 
 ### Get the API Credentials from Square
 
-First, log in to your Square account from here. If you do not have an account, sign up [here](https://app.squareup.com/signup/en-GB?return_to=https%3A%2F%2Fdeveloper.squareup.com%2F&v=developers).
-Then, create an app in your Square account to get the API credentials for configuration.
+Log in to your [Square account](https://squareup.com/login). If you do not have an account, [sign up](https://app.squareup.com/signup/en-GB?return_to=https%3A%2F%2Fdeveloper.squareup.com%2F&v=developers). Then create an app in your Square account to get the API credentials.
 
-To create an app, log in to the **Square Dashboard**, go to the **Account** section from the **Navbar**, and click the **Developer Console** tab. 
+To create an app, log in to the **Square Dashboard**, go to **Account** in the **Navbar**, and click the **Developer Console** tab.
 
 ![Developer Console Fluent Forms](/images/payments/payment-gateways/integrate-square-inline-payment-integration/3.-Developer-Console-scaled.webp)
 
@@ -42,62 +41,61 @@ Click the **Plus** **Icon** under the **Applications** tab to create a new appli
 
 ![Plus Icon Fluent Forms](/images/payments/payment-gateways/integrate-square-inline-payment-integration/4.-Plus-Icon-scaled.webp)
 
-Now, add a **name** to your application and click the **Next** button. 
+Enter a **name** for your application and click **Next**.
 
 ![Application Name Fluent Forms](/images/payments/payment-gateways/integrate-square-inline-payment-integration/5.-Application-Name.webp)
 
-Check the **Accept Payments** box and click on the **Next** button.
+Check the **Accept Payments** box and click **Next**.
 
 ![Accept Payments Fluent Forms](/images/payments/payment-gateways/integrate-square-inline-payment-integration/6.-Accept-Payments.webp)
 
-Select your desired option from the pop-up with the Find your Audience option, and click the **Complete** button. 
+In the pop-up, select an option for **Find your Audience** and click **Complete**.
 
 ![Myself Complete Button](/images/payments/payment-gateways/integrate-square-inline-payment-integration/7.-Myself-Complete-button.webp)
 
-After creating the application, you will find the **Application ID** and **Access Key** in the **Sandbox Application ID Access Token** fields under the **Credentials**. Copy them. 
+After you create the application, find the **Application ID** and **Access Key** in the **Sandbox Application ID Access Token** fields under **Credentials**. Copy them.
 
 ![Copy Application ID And Access Token](/images/payments/payment-gateways/integrate-square-inline-payment-integration/8.-Copy-Application-ID-and-Access-Token-scaled.webp)
 
-Now, go to the **Locations** tab from the left sidebar, and copy the **Location ID.**
+Go to the **Locations** tab in the left sidebar and copy the **Location ID.**
 
 ![Copy Location ID](/images/payments/payment-gateways/integrate-square-inline-payment-integration/9.-Copy-Location-ID-scaled.webp)
 
-Now, return to the **Square** page under **Payment Settings → Payment Methods** (click **Manage**).
+Return to the **Square** page under **Payment Settings → Payment Methods** (click **Manage**).
 
-Then, paste **the Application ID**, **Access Token**, and **Location ID** in the corresponding fields.
+Paste the **Application ID**, **Access Key** (the Square **Access Token**), and **Location ID** in the matching fields.
 
-Finally, click the **Save** button, and your Square account will be configured with Fluent Forms for your WordPress Site. 
+Click **Save**. Fluent Forms now connects to your Square account.
 
 ![Paste All Credentials](/images/payments/payment-gateways/integrate-square-inline-payment-integration/10.-Paste-all-credentials-scaled.webp)
 
 ## Integrate Square in Forms
 
-Once you finish setting up your **Square** payment method, you can easily add this payment method to any of your existing **Payment Forms** (i.e., a form where [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields are added).
+You can add **Square** to any existing **Payment Form**, which is a form with [Payment Item](/add-payment-item-field-in-payment-forms) and [Payment Method](/add-payment-method-field-in-payment-forms) fields.
 
-First, go to the **Editor** page of your desired form by clicking its **Edit** option.
+Go to the **Editor** page of your form by clicking its **Edit** option.
 
 ![Open Integrate Square](/images/payments/payment-gateways/integrate-square-inline-payment-integration/11.-Open-desired-form-scaled.webp)
 
-Once you are on the **Editor** page, go to the **Input** **Customization** menu on the right side of the added **Payment Method** field by clicking the **Pencil Icon**.
+On the **Editor** page, click the **Pencil Icon** on the **Payment Method** field to open the **Input Customization** menu on the right side.
 
-Now, go to the **Payment Methods**, check the **Square** option, click the **Dropdown Arrow,** and you will get two options. These are:
+Go to **Payment Methods**, check the **Square** option, and click the **Dropdown Arrow**. Two options appear:
 
-- **Method Label:** Here, you can change the label based on your preference for your added payment method.
-
+- **Method Label:** Change the label of your payment method.
 - **Embedded Checkout:** Check this box to activate Square as an inline payment option.
 
 ![Set Up Payment Method Field](/images/payments/payment-gateways/integrate-square-inline-payment-integration/12.-set-up-Payment-Method-field-scaled.webp)
 
-Once you complete the edit, press the **Save** button to save all the changes.
+Click **Save** to save your changes.
 
-Now, to embed and display the form on a specific **Page/Post**, **copy** this **Shortcode** from the top right side and **paste** it into your desired **Page/Post**. 
+To display the form on a **Page/Post**, copy the **Shortcode** from the top right side and paste it into the Page or Post.
 
-Also, to see the **Preview** of the form, click the **Preview** button in the middle.
+To see a preview of the form, click **Preview** in the form editor.
 
 ![Save Integrate Square](/images/payments/payment-gateways/integrate-square-inline-payment-integration/13.-Save-form-scaled.webp)
 
 ### Preview of Added Payment Method
 
-Here is the **preview** of the **Payment Method** that we just added. 
+The preview below shows the **Payment Method** you added.
 
 ![Added Square Preview](/images/payments/payment-gateways/integrate-square-inline-payment-integration/14.-Added-Square-form-preview-scaled.webp)

@@ -4,7 +4,7 @@ description: "Your forms work best when they talk to the rest of your stack. Flu
 
 # Integrations
 
-Your forms work best when they talk to the rest of your stack. **Fluent Forms** connects to the marketing, CRM, automation, and productivity tools you already rely on — so every submission flows exactly where it needs to go, automatically. This page rounds up every available integration and links you straight to its setup guide.
+**Fluent Forms** connects to the marketing, CRM, automation, and productivity tools you already use. It sends every submission to the right place automatically. This page lists every available integration and links to its setup guide. Mailchimp, Slack, and FluentCRM work with the free plugin. Most other integrations need **Fluent Forms Pro**.
 
 ## Manage Your Feeds
 
@@ -14,7 +14,7 @@ Each integration on a form runs through a feed. Learn how to copy, enable, and r
 
 ## Email Marketing
 
-Grow your list on autopilot. Send subscribers to your favorite email marketing platform the moment they submit.
+Send subscribers to your favorite email marketing platform the moment they submit.
 
 - [Mailchimp](/integrate-mailchimp) — add subscribers to your Mailchimp audiences.
 - [ActiveCampaign](/integrate-activecampaign) — sync contacts and automations.
@@ -39,7 +39,7 @@ Grow your list on autopilot. Send subscribers to your favorite email marketing p
 
 ## CRM
 
-Never lose a lead. Send submissions straight into your CRM and keep your pipeline up to date.
+Send submissions straight into your CRM and keep your pipeline up to date.
 
 - [FluentCRM](/fluentcrm-integration) — add contacts to your self-hosted FluentCRM.
 - [HubSpot](/hubspot-integration) — create and update HubSpot contacts.
@@ -54,15 +54,15 @@ Never lose a lead. Send submissions straight into your CRM and keep your pipelin
 
 ## Automation
 
-Automate everything. Trigger workflows across thousands of apps when a form is submitted.
+Trigger workflows in other apps when a form is submitted.
 
-- [Zapier](/integrate-zapier) — connect to 5,000+ apps through Zapier.
+- [Zapier](/integrate-zapier) — connect to thousands of apps through Zapier.
 - [Webhook](/integrate-webhook) — send entry data to any endpoint.
 - [Platformly](/integrate-platformly) — sync leads with Platformly.
 
 ## Team & Chat
 
-Get notified instantly. Send submissions to the channels your team lives in.
+Send submissions to the channels your team lives in.
 
 - [Slack](/integrate-slack) — post new entries to a Slack channel.
 - [Discord](/integrate-discord) — send submissions to Discord.
@@ -70,7 +70,7 @@ Get notified instantly. Send submissions to the channels your team lives in.
 
 ## Other Apps
 
-Extend even further. Connect Fluent Forms to a growing list of productivity and utility apps.
+Connect Fluent Forms to a growing list of productivity and utility apps.
 
 - [AffiliateWP](/affiliatewp-integration) — tie form submissions to your affiliate program.
 - [Airtable](/integrate-airtable) — send entries to an Airtable base.
@@ -85,17 +85,9 @@ Extend even further. Connect Fluent Forms to a growing list of productivity and 
 
 ## Duplicate an Integration Feed
 
-Need a second feed with the same settings? Duplicate it instead of rebuilding it.
+Copy a feed when you need a second feed with the same settings. See [Manage Integration Feeds](/manage-integration-feeds) for the steps.
 
-- Go to **Configuration → Integrations & Add-ons → Integrations** for your form.
-- Find the feed in the list and open its **Actions** menu.
-- Click **Duplicate integration feed**.
-
-Fluent Forms creates a copy that you can rename and adjust, for example to send the same submission to a different list or with different conditional logic.
-
-## Where to go next
-
-Make your integrations even smarter:
+## Next Steps
 
 - [Set Up Conditional Logic](/set-up-forms-with-conditional-logic) — trigger integrations only when conditions are met.
 - [Managing Entries](/managing-entries) — keep an eye on every submission you send out.

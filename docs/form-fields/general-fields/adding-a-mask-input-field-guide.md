@@ -4,11 +4,11 @@ description: "The Mask Input Field in Fluent Forms ensures that users enter data
 
 # Adding a Mask Input Field Guide
 
-The **Mask Input Field** in **[Fluent Forms](https://wordpress.org/plugins/fluentform)** ensures that users enter data in a **predefined format**, making it ideal for fields such as **phone numbers, dates, social security numbers, and license keys**.
+The **Mask Input Field** in **[Fluent Forms](https://wordpress.org/plugins/fluentform)** makes users enter data in a **predefined format**. Use it for fields such as **phone numbers, dates, social security numbers, and license keys**.
 
-Fluent Forms offers **five pre-defined masking formats**, but you can also create **custom formats** to fit your needs.
+Fluent Forms offers **five pre-defined masking formats**. You can also create **custom formats**.
 
-This article will guide you through adding the **Mask** input field in your Fluent Forms for your WordPress Site.
+This article shows you how to add the **Mask** field to your form.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/gN6Yc3VrqGc" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -16,21 +16,19 @@ This article will guide you through adding the **Mask** input field in your Flue
 
 ## Adding Mask Input Field
 
-To add this field to your form, follow these steps:
-
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 ![Mask Input Field](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Mask-input-field-01-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, select the desired **Mask Input** field by clicking on it or **Dragging and Dropping** it into your editor.
+Click the **Mask** field, or drag and drop it into your editor.
 
 ![a Mask Input Field step](/images/form-fields/general-fields/adding-a-mask-input-field-guide/new-11-scaled.webp)
 
 ## Customizing the Mask Input Field
 
-After adding the field, customize the mask input field. **Hover over the field** and click the **Pencil Icon** to open the **Customize** tab. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Mask Input Options
 
@@ -40,19 +38,19 @@ After adding the field, customize the mask input field. **Hover over the field**
 
 ### Mask Input Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Mask** input field.
+These options in the **Customize** tab configure the **Mask** input field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Mask** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Mask** field. Enter text that explains the purpose of the field.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the **Default**. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.   
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute. 
+**D. Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-**E. Mask Input:** You can choose from predefined masks from the dropdown options or create a custom mask:
+**E. Mask Input:** Choose a predefined mask from the dropdown, or create a custom mask.
 
-Follow the format rules:
+Follow these format rules:
 
 - **0-9/ #:** Numerical character
 
@@ -72,7 +70,13 @@ Course Code Mask: AAA 999. Valid Input: BIO 101
 
 License Key Mask: `***-***-***`. Valid Input: a9a-f0c-28Q
 
-**F. Mobile Keyboard Type:** Select the specific keyboard layout that will appear for mobile users when they tap this field. You can choose from:
+When you choose **Custom** in the **Mask Input** dropdown, three more options appear:
+
+- **Custom Mask:** Write your own mask pattern using the format rules above.
+- **Activating a reversible mask:** Turn this on to make the mask work in reverse.
+- **Clear if not match:** Turn this on to clear the value when the entry does not match the mask.
+
+**F. Mobile Keyboard Type:** Select the keyboard layout mobile users see when they tap this field. Options are:
 
 - **Standard Keyboard:** The default full alphanumeric keyboard.
 
@@ -80,48 +84,46 @@ License Key Mask: `***-***-***`. Valid Input: a9a-f0c-28Q
 
 - **Decimal (0-9 with .):** A numeric pad with a decimal point.
 
-- **Telephone (0-9, ; #):** A standard phone dialer pad.
+- **Telephone (0-9, *, #):** A standard phone dialer pad.
 
-**G. Required:** Decide whether users must select at least one option before submission.
+**G. Required:** Turn on **Required** to make users fill in this field before they submit.
 
 ![Mask Input Options](/images/form-fields/general-fields/adding-a-mask-input-field-guide/mask-input-options-scaled.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to understand Dynamic Default values better.
+**A. Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read [Dynamic Default Value in Fluent Forms](/dynamic-default-value).
 
-**B. Container Class:** Use this option to add your custom CSS classes to the field’s wrapper.
+**B. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **C. Element Class:** Add custom CSS classes to the input field.
 
-**D. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**D. Help Message:** Add text that appears as a help message for the user.
 
-**E. Prefix Label:** You can use this field to provide a **Prefix Label** in your input field. It will show in the input field as a prefix label.
+**E. Prefix Label:** Add text that shows in the input field as a prefix.
 
-**F. Suffix Label:** You can use this field to provide a Suffix Label in your input field. It will show in the input field as a suffix label.
+**F. Suffix Label:** Add text that shows in the input field as a suffix.
 
-**G. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**G. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**H. Max Text Length:** You can set a maximum number of characters that the input field can accept. Ideal for limiting responses like postal codes or short codes.
+**H. Max Text Length:** Set the maximum number of characters the field accepts. Use it to limit responses like postal codes or short codes.
 
-**I. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**I. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Advanced-Options-05-7-scaled.webp)
 
 ## Embedding the Form on Your Website
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Fluent Forms](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Save-Form-06-10-scaled.webp)
 
 ### Preview of Added Mask Input Field
 
-Here is the preview of the added **Mask Input** field under the Form. 
+Here is the form with the **Mask Input** field added.
 
 ![Preview a Mask Input Field](/images/form-fields/general-fields/adding-a-mask-input-field-guide/Preview-07-5.webp)
-
-**Congratulations!** Your **Mask Input Field** is now ready to ensure users enter data in the correct format.

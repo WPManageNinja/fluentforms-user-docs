@@ -4,31 +4,31 @@ description: "The rating input field in Fluent Forms allows users to provide fee
 
 # Ratings Input Field
 
-The **rating** input field in Fluent Forms allows users to provide feedback quickly, making it a great fit for [surveys and polls](/surveys-and-polls). By default, the field includes five rating levels: **Nice, Good, Very Good, Awesome, and Amazing**. You can customize and add more rating options as needed.
+The **rating** input field in Fluent Forms lets users give feedback quickly. It fits [surveys and polls](/surveys-and-polls) well. By default, the field includes five rating levels: **Nice, Good, Very Good, Awesome, and Amazing**. You can customize these options and add more.
 
-This guide walks you through adding and customizing the **Ratings** field in Fluent Forms.
+This guide shows you how to add and customize the **Ratings** field in Fluent Forms.
 
 > [!Note]
 > The **Ratings** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Adding Ratings Input Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 > [!Note]
-> If you do not have any existing forms, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you have no forms yet, see [How to Create a Form with Fluent Forms](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Edit form to add Ratings field](/images/form-fields/advanced-fields/ratings-input-field/edit-form-01-10-scaled.webp)
 
-On the **Editor** page, click the **Plus** icon and open **Advanced Fields**. You can also find **Advanced Fields** in the right sidebar under **Input Fields**.
+In the editor, click the **Plus Icon** and open **Advanced Fields**. You can also find **Advanced Fields** in the right sidebar under **Input Fields**.
 
-Click or drag the **Ratings** field into the editor.
+Click the **Ratings** field, or drag it into the editor.
 
 ![Add Ratings field to the form](/images/form-fields/advanced-fields/ratings-input-field/new-15-scaled.webp)
 
 ## Customizing the Ratings Input Field
 
-Hover over the field and click the **Pencil** icon to open **Customize**:
+Hover over the field and click the **Pencil Icon** to open **Customize**. It has these options:
 
 - Ratings Input field options
 - Advanced Options
@@ -39,7 +39,7 @@ Hover over the field and click the **Pencil** icon to open **Customize**:
 
 **A. Element Label:** The field title users see on the form.
 
-**B. Label Placement:** Set label position to **Top**, **Left**, **Right**, or **Default**.
+**B. Label Placement:** Set label position to **Default**, **Top**, **Right**, **Bottom**, **Left**, or **Hide Label**.
 
 **C. Admin Field Label:** A label shown only to admins when viewing submissions.
 

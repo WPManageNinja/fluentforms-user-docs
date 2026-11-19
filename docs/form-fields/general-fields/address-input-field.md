@@ -4,9 +4,9 @@ description: "The Address input field in Fluent Forms offers a suitable way to c
 
 # Address Input Field
 
-The Address input field in[ Fluent Forms](https://fluentforms.com/) offers a suitable way to collect a user's complete address information, such as Street, City, State, Zip code, and Country, in a single, structured manner. You can also collect multiple address text boxes. 
+The Address input field in Fluent Forms collects a user's complete address, such as Street, City, State, Zip code, and Country, in one structured field. You can also collect multiple address text boxes.
 
-This guide will walk you through adding and customizing the **Address Input Field** in Fluent Forms for your WordPress site.
+This guide shows you how to add and customize the **Address Input Field** in Fluent Forms.
 
 > [!Note]
 > Autocomplete the **Address** field with **Google Maps** or **OpenStreetMap** (Fluent Forms Pro). See [Autocomplete Provider](#autocomplete-provider-pro) below and [How to Integrate Google Maps with Fluent Forms](/integrate-google-maps).
@@ -17,21 +17,21 @@ This guide will walk you through adding and customizing the **Address Input Fiel
 
 ## Adding the Address Input Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 ![Edit Address Input Field](/images/form-fields/general-fields/address-input-field/edit-form-01-8-scaled.webp)
 
-Once you are on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, choose the desired **Address Input** field by clicking on it or **Drag & Drop** it into your editor.
+Click the **Address Input** field, or drag and drop it into your editor.
 
 ![Address Input Field step](/images/form-fields/general-fields/address-input-field/new-13-scaled.webp)
 
 ## Customizing the Address Input Field
 
-Next, hover over the field and click the **Edit** icon to customize the **Address** field. Or click on the **Customize** tab in the right corner when the field is selected.
+Hover over the field and click the **Edit** icon to customize the **Address** field. Or select the field and click the **Customize** tab in the right corner.
 
-You can personalize the input field using the following options in the Customize area.
+The **Customize** area has these options:
 
 - Address Input Options
 
@@ -41,31 +41,31 @@ You can personalize the input field using the following options in the Customize
 
 ### Address Input Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Address Input** field.
+These options in the **Customize** tab configure the **Address Input** field.
 
-**A. Element Label:** This is the field title the users will see when filling out the **Address** field in a form. You can enter any text here to help users understand the purpose of the field.
+**A. Element Label:** The field title users see when they fill out the **Address** field. Enter text that explains the purpose of the field.
 
-**B. Admin Field Label:** The admin field label is a field title displayed only to admin users. This means that you can configure this option to show a different field label for your admin users when they view the form submissions. 
+**B. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**C. Address Field:** Here, you will see each part of the address field. There are **six** options. Click the drop-down button beside these fields to select the **Input Field Label**, **Default**, **Placeholder**, **Help Message**, and **Required choices**. If you don’t want any option, uncheck the checkbox.
+**C. Address Field:** Each part of the address appears here. There are **six** parts. Click the drop-down button beside a part to set its **Input Field Label**, **Default**, **Placeholder**, **Help Message**, and **Required** choices. If you do not want a part, uncheck its checkbox.
 
 ![Adress Line](/images/form-fields/general-fields/address-input-field/Adress-line-05-scaled.webp)
 
-- **Label:** You can change the field label as you wish.
+- **Label:** Change the field label.
 
-- **Label Placement:** This option determines the position of the label title where the user will see it. The available options are Top, Left, Right, and Default. All of those are self-explanatory except the Default. If you select the Default option, it will represent your global label placement settings.
+- **Label Placement:** Set where the label appears. The options are Top, Left, Right, and Default. **Default** uses your global label placement settings.
 
-- **Default:** There’s a text box where you can set a default value for the Address field, which would pre-populate the field when the form is loaded.
+- **Default:** Set a default value that pre-populates the field when the form loads.
 
-A text box provides additional options or actions related to the default value. You can clear the field, use a [dynamic value](/dynamic-default-value), or select another advanced setting by clicking and selecting the **Three Vertical Dots** menu on the right side.
+Click the **Three Vertical Dots** menu on the right side to clear the field, use a [dynamic value](/dynamic-default-value), or select another advanced setting.
 
 ![Adrees Line1](/images/form-fields/general-fields/address-input-field/adrees-line1-06-scaled.webp)
 
-- **Placeholder:** You can also include a placeholder where users will view the field topic. Add placeholder text, like “Enter your street address,” to guide users in what to input.
+- **Placeholder:** Add placeholder text, like “Enter your street address,” to guide users on what to enter.
 
-- **Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+- **Help Message:** Add text that appears as a help message for the user.
 
-- **Required:** Decide whether users must select at least one option before submission. If you hit the Radio button and pick Yes, the field is compulsory, and the user must answer by submitting the form. By default, it selected No options.
+- **Required:** Turn on **Required** to make users fill in this line before they submit. It is off by default.
 
 ![Address Line1](/images/form-fields/general-fields/address-input-field/address-line1-07-scaled.webp)
 
@@ -96,29 +96,25 @@ OpenStreetMap fills in **Address Line 1**, **City**, **State**, **Zip Code**, an
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
 **A. Element Class:** Add custom CSS classes to the input field.
 
-**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**C. Autocomplete:** Choose what kind of information this field collects so browsers can autofill it for your users, such as name, email, or address details. It also helps assistive technology identify the purpose of the input. Select **Automatic** to use the matching value for the field, **off** to disable browser autofill, or **None** to add no attribute at all. For address fields, choose **On** to autofill the whole address, or leave it on **Automatic** to skip address autofill.
+**C. Autocomplete:** Choose how browsers autofill the whole Address field. The options are **Automatic**, **On (autofill this address)**, **off**, and **None**. Address autofill stays off until you choose **On (autofill this address)**. The field then gives each input, such as street, city, and zip code, its matching value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**D. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
-
-**D. Autocomplete:** Choose how browsers autofill the whole Address field. The options are **Automatic**, **On (autofill this address)**, **off**, and **None**. Address autofill stays off until you choose **On (autofill this address)**.
-
-It then gives each input, such as street, city, and zip code, its matching value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
+**D. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
 
 ![Advanced Options](/images/form-fields/general-fields/address-input-field/Advanced-options-08-1-scaled.webp)
 
 ## Embed the Form into the front
 
-Once you have customized the **Address** input field, click the **Save** button to apply the changes.
+Click **Save** to apply your changes.
 
-To display the form on a specific page or post, **Copy** the **Shortcode** from the top-right corner and **Paste** it into your desired page or post.
+To show the form on a page or post, copy the **Shortcode** from the top-right corner and paste it into that page or post.
 
-Now, preview the form, click **Preview** in the middle of the page.
+Click the **Preview** (eye) icon at the top right to preview the form.
 
 ![Save Address Input Field](/images/form-fields/general-fields/address-input-field/Save-Form-09-scaled.webp)
 
@@ -127,5 +123,3 @@ Now, preview the form, click **Preview** in the middle of the page.
 Here is a preview of the form with the **Address Input** field:
 
 ![Preview Address Input Field](/images/form-fields/general-fields/address-input-field/Preview-10.webp)
-
-And that's it! You have successfully added and customized an Address Input Field in Fluent Forms.

@@ -4,17 +4,17 @@ description: "Fluent Forms integrates with HubSpot so form submissions can creat
 
 # HubSpot Integration
 
-Fluent Forms integrates with **HubSpot** so form submissions can create or update HubSpot contacts and add them to your lists automatically.
+The **HubSpot** integration lets form submissions create or update HubSpot contacts and add them to your lists automatically.
 
-This guide covers enabling the integration, creating a HubSpot **Service Key**, connecting it to Fluent Forms, preparing a static list, configuring a form feed, and testing the connection.
+This guide shows you how to enable the integration, create a HubSpot **Service Key**, connect it to Fluent Forms, prepare a static list, configure a form feed, and test the connection.
 
 > [!Note]
 > **HubSpot** integration requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Before You Start
 
-- **Fluent Forms Pro** is installed, activated, and updated to the latest version.
-- You are a **Super Admin** in your HubSpot account, or you have **Developer tools** access. Only these users can create Service Keys.
+- Install, activate, and update **Fluent Forms Pro** to the latest version.
+- Use a HubSpot account where you are a **Super Admin** or have **Developer tools** access. Only these users can create Service Keys.
 
 > [!Note]
 > **Already connected with a private app token?** You don't need to change anything. HubSpot keeps existing legacy private apps working. Use this guide when you connect for the first time or need a new key.
@@ -89,12 +89,12 @@ When the key is accepted, you see **Your HubSpot API integration is up and runni
 
 Skip this step if you only want to create contacts. HubSpot now calls lists **Segments**, and Fluent Forms can add contacts only to **Static** segments.
 
-- In HubSpot, go to **Segments** in the left sidebar.
-- Click **Create segment** > **Manually**.
-- Choose **Contacts** and click **Next**.
-- Name the segment. No filters are needed.
-- Click **Next**. Under **Choose processing type**, select **Static**.
-- Click **Save and process segment**.
+1. In HubSpot, go to **Segments** in the left sidebar.
+2. Click **Create segment** > **Manually**.
+3. Choose **Contacts** and click **Next**.
+4. Name the segment. No filters are needed.
+5. Click **Next**. Under **Choose processing type**, select **Static**.
+6. Click **Save and process segment**.
 
 > [!Note]
 > **Active** segments don't appear in Fluent Forms, because HubSpot adds and removes their members automatically.
@@ -114,19 +114,13 @@ In the form's **Configuration** page, go to **Integrations & Add-ons** → **Int
 
 ## Configure HubSpot Integration Feed
 
-**A. Name:** Enter a name for this feed.
-
-**B. HubSpot List:** Select the static segment that receives form data, or leave it empty to only create contacts.
-
-**C. Map Fields:** Choose the form field for **Email Address** (required). Optionally map **First Name**, **Last Name**, **Website**, **Company**, **Phone**, and address fields.
-
-**D. Other Fields:** Click the **Plus** icon to map any other HubSpot contact property.
-
-**E. Conditional Logics:** Send data to HubSpot only when your conditions match. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
-
-**F. Update:** Tick **Enable Contact Update** so a returning email updates the existing contact instead of failing.
-
-**G. Status:** Keep **Enable This feed** ticked to activate the integration.
+- **Name:** Enter a name for this feed.
+- **HubSpot List:** Select the static segment that receives form data, or leave it empty to only create contacts.
+- **Map Fields:** Choose the form field for **Email Address** (required). Optionally map **First Name**, **Last Name**, **Website**, **Company**, **Phone**, and address fields.
+- **Other Fields:** Click the **Plus** icon to map any other HubSpot contact property.
+- **Conditional Logics:** Send data to HubSpot only when your conditions match. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
+- **Update:** Tick **Enable Contact Update** so a returning email updates the existing contact instead of failing.
+- **Status:** Keep **Enable This feed** ticked to activate the integration.
 
 Click **Save**.
 
@@ -144,16 +138,16 @@ If the old list ID cannot be mapped to a Lists v3 ID, open the feed, re-select t
 
 ## Test the Integration
 
-- Submit the form once with a test email address.
-- In Fluent Forms, open the entry under **Entries**. Its **Submission Logs** show the HubSpot feed result. The feed runs in the background, so the log can take a moment to appear. Learn more about [managing entries in Fluent Forms](/managing-entries).
+1. Submit the form once with a test email address.
+2. In Fluent Forms, open the entry under **Entries**. Its **Submission Logs** show the HubSpot feed result. The feed runs in the background, so the log can take a moment to appear. Learn more about [managing entries in Fluent Forms](/managing-entries).
 
 ![Form entries after HubSpot integration](/images/integrations/crm/hubspot-integration/15-scaled.webp)
 
-- In HubSpot, go to **CRM** > **Contacts** and find the test contact.
+3. In HubSpot, go to **CRM** > **Contacts** and find the test contact.
 
 ![HubSpot contacts from Fluent Forms submissions](/images/integrations/crm/hubspot-integration/hubspot-contact-14-scaled.webp)
 
-- If you chose a list, open the segment and check that the contact is listed. The segment's **Size** number can lag a few minutes behind the member list.
+4. If you chose a list, open the segment and check that the contact is listed. The segment's **Size** number can lag a few minutes behind the member list.
 
 ## Troubleshooting
 

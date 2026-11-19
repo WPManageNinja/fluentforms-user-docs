@@ -4,44 +4,47 @@ description: "Fluent Forms lets you set up additional Conditional Email Routing,
 
 # Conditional Email Routing
 
-**Fluent Forms** lets you set up additional **Conditional Email Routing**, similar to [Conditional Email Notifications](/conditional-email-notification) except it allows you to send emails to different recipients based on user responses or specific events.
+**Fluent Forms** lets you set up additional **Conditional Email Routing**. It works like [Conditional Email Notifications](/conditional-email-notification), but it sends emails to different recipients based on user responses or specific events.
 
-This article will guide you through **Configuring** the **Email Routing** with specified conditions to send **Email Notifications**. 
+This guide shows you how to configure **Email Routing** so notifications go to different recipients.
 
 ## Conditional Email Routing
 
-To learn how to configure conditional email routing, follow the steps below – 
-
-First, go to **Forms** from the top navbar, and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to set the conditions.
+Go to **Forms** in the top navbar. Click **Edit** on the form where you want to set the conditions to open its **Editor**.
 
 ![Editor Fluent Forms](/images/notifications-confirmations/email-notifications/conditional-email-routing/1.-desired-Form-Editor-2-scaled.webp)
 
-Now, click **Configuration** in the top bar and open **Email Notifications** under **Responses** in the left rail. 
+Click **Configuration** in the top bar and open **Email Notifications** under **Responses** in the left rail.
 
-First, you can **Enable** the default **Admin Notification** by **toggling it on.** Then, open its settings using the **Settings Icon** to set conditions based on your needs.
+Turn on the default **Admin Notification** with its toggle. Then click the **Settings Icon** to set conditions.
 
-Or, create a new one by clicking the **Add Notification** button. To learn how to add a new email notification to a specific form, read this [Documentation](/setup-adminuser-email-notifications).
+Or click **Add Notification** to create a new one. To learn how to add a notification to a form, read [Admin & User Email Notifications](/setup-adminuser-email-notifications).
 
-**For example**, I used the existing notification to show you the whole process. 
+This guide uses the existing notification as an example.
 
 ![Settings Integration Email Notification Add Notification Conditional Email Routing](/images/notifications-confirmations/email-notifications/conditional-email-routing/2.-Settings-Integration-Email-Notification-Add-new-notification-1-scaled.webp)
 
 ### Configuring Email Routing
 
-Once you are on the **Email Notification** settings page of your desired form, select **Configure Routing** from the **Send to** options, and additional options similar to conditional logic will appear. 
+On the **Email Notification** settings page of your form, select **Configure Routing** from the **Send to** options. Additional options, similar to conditional logic, appear.
 
 #### Setting Condition/s
 
-Once you enable the option, you can specify the different **Email Routes** to send notification, **Parameter**, its **Operator**, and the corresponding **Value**. **Remember**, the selected parameter will trigger the action only if the condition is met.
+When you select **Configure Routing**, click **Add a routing rule** to add an **Email Address**, a field to check, its **Operator**, and the corresponding **Value**. The selected parameter triggers the action only if the condition is met.
 
-First, in the “**Send To**” (first field), provide the email address where you want to send email notifications. 
+Each routing rule reads from left to right:
 
-Then, in the “**Parameter**” field (second field), select an **input field** that needs to correspond with the value provided in the “**Value**” field (fourth field) and set an option in the “**Operator**” field (third field). The parameter will trigger the action if the condition is met.  
+- **Email Address:** Enter the address that receives the notification.
+- **If** field: Select the **input field** to check.
+- **Operator:** Select how to compare the field.
+- **Value:** Enter the value to match.
 
-> For example, I set two different email routes "admin@gmail.com" and "moderator@gmail.com", chose "Country" as the parameter, used "Equals" as the operator, and entered "United States" and "Bangladesh" as the corresponding values. As a result, when users from the United States submit the form, a notification will be sent to admin@gmail.com, and for users from Bangladesh, the notification will be sent to moderator@gmail.com.
+The notification goes to the address when the condition is met.
 
-This way you can add as many conditional logics as you need by clicking the **Plus Icon** and delete any conditions by clicking the **Minus Icon** in the right corner.
+> For example, set two email routes "admin@gmail.com" and "moderator@gmail.com", choose "Country" as the field, use "equal" as the operator, and enter "United States" and "Bangladesh" as the values. When users from the United States submit the form, Fluent Forms sends the notification to admin@gmail.com. For users from Bangladesh, it sends the notification to moderator@gmail.com.
 
-Once you complete, click **Save** to make the condition/s functional.
+To add a condition, click the **Plus Icon**. To delete a condition, click the **Minus Icon** in the right corner.
+
+Click **Save** to activate the conditions.
 
 ![Configure Routing Option Conditional Email Routing](/images/notifications-confirmations/email-notifications/conditional-email-routing/3.-Configure-Routing-option-scaled.webp)

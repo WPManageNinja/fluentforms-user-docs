@@ -4,28 +4,28 @@ description: "The Phone/Mobile input field in Fluent Forms is essential for coll
 
 # Phone/Mobile Input Field
 
-The **Phone/Mobile** input field in Fluent Forms is essential for collecting users' contact information. It allows users to enter phone numbers and provides various customization options for validation and formatting.
+The **Phone/Mobile** input field in Fluent Forms collects users' contact information. Users enter phone numbers, and you can set validation and formatting options.
 
-This article will guide you through adding the **Phone/Mobile** field to Fluent Forms on your WordPress Site.
+This article shows you how to add the **Phone/Mobile** field to your form.
 
 > [!Note]
 > The **Phone/Mobile** field requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Adding Phone/Mobile Field
 
-Go to **Forms** from the Fluent Forms navbar, click the title of the form you want to edit to open the form editor.
+Go to **Forms** in the Fluent Forms navbar. Click the title of the form you want to edit to open the form editor.
 
 ![Edit Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field/edit-form-01-scaled.webp)
 
-Once on the **Editor** page, click the **Plus** **Icon** in your form editor and open the **General Fields** module. The **General Fields** option is also in the right sidebar under the **Input** **Fields** tab. 
+In the editor, click the **Plus Icon** and open the **General Fields** module. You can also find **General Fields** in the right sidebar under the **Input Fields** tab.
 
-Now, choose the desired **Phone/Mobile** field by **dragging** or **dropping** it into your editor.
+Drag and drop the **Phone/Mobile** field into your editor.
 
 ![Phone/Mobile Input Field step](/images/form-fields/general-fields/phonemobile-input-field/new-2-scaled.webp)
 
 ## Customizing the Phone/Mobile Field
 
-A Phone/Mobile field has been added. You can edit this field by **hovering over it** and clicking the **Pencil Icon**. It will take you to the **Customize** tab on the right side and offer the following options for customizing the field. 
+Hover over the field and click the **Pencil Icon**. The **Customize** tab opens on the right side with these options:
 
 - Phone/Mobile Field Options
 
@@ -35,69 +35,69 @@ A Phone/Mobile field has been added. You can edit this field by **hovering over 
 
 ### Phone/Mobile Field Options
 
-You will find various settings options for customizing the field. Located in the **Customize tab**, these options allow you to configure essential aspects of the **Phone/Mobile** field.
+These options in the **Customize** tab configure the **Phone/Mobile** field.
 
-**A. Element Label:** This is the field title users will see when filling out the **Phone/Mobile** field in a form. You can enter any text here to help users understand the field's purpose.
+**A. Element Label:** The field title users see when they fill out the **Phone/Mobile** field. Enter text that explains the field's purpose.
 
-**B. Label Placement:** This option allows you to determine the position of the label title where the user will see it. The available options are **Top**, **Left**, **Right**, and **Default**. All of those are self-explanatory except the Default. If you select the **Default** option, it will represent your global label placement settings.
+**B. Label Placement:** Set where the label appears. The options are **Default**, **Top**, **Right**, **Bottom**, **Left**, and **Hide Label**. **Default** uses your global label placement settings.
 
-**C. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.   
+**C. Admin Field Label:** The admin field label is a title shown only to admins. Use it to show a different label when admins view form submissions.
 
-**D. Placeholder:** When the input field is empty, a message is usually shown to the users so they can understand what the field expects from them. This is the equivalent of the HTML input placeholder attribute. 
+**D. Placeholder:** Set the text shown while the field is empty, so users know what to enter. This is the HTML input placeholder attribute.
 
-**E. Default Value:** Using our shortcodes, you can manually set any fixed value in your field and pre-fill your input field dynamically. Read [Dynamic Default Value in Fluent Forms](/dynamic-default-value) to better understand Dynamic Default values.
+**E. Default Value:** Set a fixed value, or use shortcodes to pre-fill the field dynamically. To learn more, read [Dynamic Default Value in Fluent Forms](/dynamic-default-value).
 
-You can click the **Three-Dot** option from the right to add a default value with **Shortcode**. 
+Click the **Three-Dot** option on the right to add a default value with a shortcode.
 
-**F. Required:** Decide whether users must select at least one option before submission.
+**F. Required:** Turn on **Required** to make users enter a phone number before they submit.
 
 ![Basic Options](/images/form-fields/general-fields/phonemobile-input-field/Basic-options-04-1-scaled.webp)
 
-**G. Validate Phone Number:** The option allows you to validate a phone number using the country code.
+**G. Validate Phone Number:** Validate a phone number using the country code.
 
-You can select **Yes** to notify a user that he needs to add a Valid Phone Number; otherwise, an Error message will show. Or you can choose **No**.
+Select **Yes** to show an Error message when a user enters an invalid phone number. Select **No** to skip this check.
 
-**Global Error Message:** This message will be shown if validation fails for a valid phone Number.
+**Global Error Message:** This message shows when phone number validation fails.
 
-**Enable Auto Country Select:** If the user enables this, the country will be selected based on the user’s IP address. ipinfo.io service will be used here. To configure the IP lookup service, see [Phone Field Geo Location Provider](/phone-field-geo-location-provider).
+**Enable Auto Country Select:** Selects the country based on the user’s IP address. Fluent Forms uses the ipinfo.io service for this. To configure the IP lookup service, see [Phone Field Geo Location Provider](/phone-field-geo-location-provider).
 
-**Default Country:** Set a default country to be selected unless modified. If a default country is set, it will overrule the placeholder set in General Settings and show the default selection as a placeholder.
+**Default Country:** Set a country that is selected unless the user changes it. A default country overrides the placeholder set in General Settings and shows as the placeholder.
 
-**Country List:** The admin has four options in the country list. Only one option can be selected.
+**Country List:** Choose one of four options:
 
-- **Show all:** Choosing this will show users all the countries on the list.
+- **Show all:** Shows all the countries on the list.
 
-- **Hide these:** This will let admins hide certain countries from the list and show others.
+- **Hide these:** Hides certain countries from the list and shows the others.
 
-- **Only show these:** This option enables admins to show the handpicked countries.
+- **Only show these:** Shows only the countries you pick.
 
-- **Priority Based:** This option allows users to choose the country they want to prioritize. This country will rank first in the search results. There are two additional options. The Primary Countries Label and the Other Countries Label are the two options. Users can choose their Primary and Country labels on the priority list.
+- **Priority Based:** Choose the countries to prioritize. These countries rank first in the search results. Two more options exist: **Primary Countries Label** and **Other Countries Label**. Use them to label the primary and other countries on the priority list.
 
 ![Phone/Mobile Input Field step](/images/form-fields/general-fields/phonemobile-input-field/012.webp)
 
 ### Advanced Options
 
-Advanced settings allow further customization to meet specific use cases.
+Advanced settings let you adapt the field to specific use cases.
 
-**A. Autocomplete:** (Pro) Choose a value that tells the browser this field collects a phone number, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
+**A. Autocomplete:** Choose a value that tells the browser this field collects a phone number, so it can offer saved details. Options are **Automatic**, **off**, **None**, or a specific value. To learn more, read [Autocomplete for Form Fields](/autocomplete-for-form-fields).
 
-**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
+**B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You do not need to change it.
 
-**C. Help Message:** This option allows you to guide your user thoroughly. Add your text here, which will be shown as a help message to the user.
+**C. Help Message:** Add text that appears as a help message for the user.
 
-**D. Container Class:** Use this option to add your custom CSS classes to the field's wrapper.
+**D. Container Class:** Add custom CSS classes to the field’s wrapper.
 
 **E. Element Class:** Add custom CSS classes to the input field.
 
-**F. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logics. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
+**F. Conditional Logic:** Create rules that show or hide the field based on submission values. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic). 
 
 ![Advanced Options](/images/form-fields/general-fields/phonemobile-input-field/Advanced-options-05-2-scaled.webp)
 
 ## Embed the Form into the Front
 
-Once you complete the customization, click the **Save** button to save all your changes. Click the **Preview** (eye) icon in the middle to see the form preview.
+Click **Save** to keep your changes. Click the **Preview** (eye) icon at the top right to see the form preview.
 
-To integrate and display the form on a specific page or post, **copy** the **Shortcode** from the top right side and **paste** it into your desired **Page or Post**. 
+To show the form on a page or post, copy the **Shortcode** from the top right and paste it into that page or post.
 
 ![Save Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field/Save-Form-06-2-scaled.webp)
 
@@ -106,5 +106,3 @@ To integrate and display the form on a specific page or post, **copy** the **Sho
 Here is the **Preview** of the **Form** to test the phone/mobile field functionality.
 
 ![Preview Phone/Mobile Input Field](/images/form-fields/general-fields/phonemobile-input-field/preview-07.webp)
-
-Congratulations. You have successfully added the Phone/Mobile field in your Form.

@@ -4,109 +4,87 @@ description: "Fluent Forms integrates with Salesflare, an email marketing automa
 
 # Salesflare Integration
 
-Fluent Forms integrates with Salesflare, an email marketing automation tool that helps you collect leads or B2B leads, grow your small business, and automatically add it to your Salesflare list through Fluent Forms Submissions.
-
-This article will guide you through integrating Salesflare with Fluent Forms on your WordPress Site.
+Salesflare is a CRM for small B2B teams. With the Salesflare integration, Fluent Forms adds the leads from your form submissions to Salesflare automatically. This guide shows you how to connect Salesflare with Fluent Forms on your WordPress site.
 
 > [!Note]
 > **Salesflare** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 ## Enable the Salesflare Integration
 
-First, go to **Integrations** from the Fluent Forms Navbar, search for **Salesflare** through the search bar, and get the **Salesflare integration module**.
+Go to **Integrations** in the Fluent Forms Navbar, search for **Salesflare**, and find the **Salesflare integration module**.
 
-Now, turn on the **Toggle** to enable the **Salesflare** module, and click **Manage** on the right side.
+Turn on the **Toggle** to enable the **Salesflare** module, then click **Manage** on the right side.
 
 ![Enable Salesflare Integration](/images/integrations/crm/salesflare-integration/enable-salesflare-integration-01-scaled.webp)
 
-Once you enable Salesflare, you will be asked for the **Salesflare API Token** of your **Salesflare Account**.
+Once you enable Salesflare, Fluent Forms asks for the **Salesflare API Key** of your **Salesflare Account**.
 
 > [!Note]
 > If you do not have a Salesflare account, [create one here](https://salesflare.com/).
 
 ![Configuration Salesflare](/images/integrations/crm/salesflare-integration/Configuration-salesflare-02-scaled.webp)
 
-### Get the Salesflare API Token
+### Get the Salesflare API Key
 
-First, log in to your [Salesflare Account](https://salesflare.com/), go to the **Settings** section and click the **API Key** options.
-
-Now, Click the **Plus Icon** to Create an API key.
+1. Log in to your [Salesflare Account](https://salesflare.com/).
+2. Go to **Settings** and click **API Key**.
+3. Click the **Plus Icon** to create an API key.
 
 ![Create API Key](/images/integrations/crm/salesflare-integration/create-api-key-03-scaled.webp)
 
-Here appears a popup. Enter the **API Name** and then click the **Create** button.
-
-After creating the API key, **copy** it for **later** use.
+4. In the popup, enter the **API Name** and click **Create**.
+5. **Copy** the API key.
 
 ![Create API Key](/images/integrations/crm/salesflare-integration/create-api-key-04-1-scaled.webp)
 
 ### Connect Salesflare with Fluent Forms
 
-Then, return to the **Salesflare Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
-
-Now, paste the **Api Key** that you copied before.
-
-After that, click the **Save** button to make your **Salesflare Integration** module functional.
+1. Return to the **Salesflare Settings** page. To open it, go to **Integrations** in the top bar and click **Manage** next to the module.
+2. Paste the **Salesflare API Key** you copied.
+3. Click **Save** to activate the **Salesflare Integration** module.
 
 ![Enter Salesflare API Key](/images/integrations/crm/salesflare-integration/enter-salesflare-api-key-05-01-09-2025_03_42_PM-scaled.webp)
 
-Here, you will see that your **Salesflare API integration is up and running**. To disconnect, click the **Disconnect Salesflare** button.
+Fluent Forms now shows that your **Salesflare API integration is up and running**. Click **Disconnect Salesflare** to disconnect it.
 
 ![Disconnect Salesflare](/images/integrations/crm/salesflare-integration/disconnect-salesflare-06-scaled.webp)
 
 ## Integrate Salesflare into Fluent Forms
 
-First, go to **Forms** from the Fluent Forms Navbar, select the **Desired Form** where you want to integrate your salesflare and open the **Configuration** tab. 
+Go to **Forms** in the Fluent Forms Navbar, select the form you want to connect to Salesflare, and open the **Configuration** tab.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Setting amoCRM Salesflare Integration](/images/integrations/crm/salesflare-integration/Form-Setting-amoCRM-1-scaled.webp)
 
-Once you are on the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Salesflare Integration** feed from the drawer. 
+On the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select the **Salesflare Integration** feed from the drawer.
 
 ![Add Integration Salesflare Integration](/images/integrations/crm/salesflare-integration/add-new-integration-07-scaled.webp)
 
 ## Configure Salesflare Integration Feed
 
-**A. Feed Name**: Enter a name for your Salesflare integration feed. 
+- **Feed Name:** Enter a name for your Salesflare integration feed.
+- **Map Fields:** Link your **Salesflare fields** with the **Form Fields**. Use the **Shortcode Arrow** to select the **value** for each field.
+- **Custom Fields:** Add custom **Salesflare fields** and link them to **Form Fields** with the **Shortcode Arrow**. Click the **Plus Icon** to add more fields.
+- **Tag:** Add tags to your **Salesflare** contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value create a single tag. You can also use **shortcodes** as the tag.
+- **Conditional Logic:** Turn on **Enable Conditional Logic** to run the integration only when your submission values match the conditions you set. See [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
+- **Status:** Enable this option to activate the feed.
 
-**B. Map Fields:** Use all the fields under this option to properly link your **SalesflareFields** with the **Form Fields**. You can easily select the **value** for the **Form Fields** based on the **salesflare fields** using the **Shortcode Arrow**. 
-
-**C. Custom Fields:** Use the other field to add custom **Salesflare fields** to the **Form Fields**. Using the Shortcode Arrow, you can easily select the **value** for the **Form Fields** based on the **Salesflare fields**. 
-
-Also you can add multiple fields dynamically by clicking the **Plus Icon**.
-
-**D. Tag:** With this option, you can add tags to your **Salesflare** contacts with a comma-separated list (e.g. new lead, crucial users, web source). Commas within a merge tag value will be created as a single tag. Also, you can use **ShortCodes** as the tag.
-
-**E. Conditional Logic:**  If you want to allow **Salesflare** integration conditionally based on your submission values then **Enable Conditional Logic** options. To learn more, read [Set up Forms with Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic).
-
-**F. Status:** Enable this feed option to activate the integration.
-
-Once the setup is done, finally, click the **Save** button.
-
-Now, your salesflare will be integrated into this specific form!
+Click **Save** when the setup is done. Salesflare is now connected to this form.
 
 ![Add Salesflare Integration Feed](/images/integrations/crm/salesflare-integration/Add-New-Salesflare-Integration-Feed-08-scaled.webp)
 
-After successful Integration, now you will see that your Salesflare integration Feed has been added here. 
-
-You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. 
-
-Also, you can disable or enable this feed anytime by turning off the **Toggle** if needed.
+The feed now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
 
 ![Disable Or Enable Salesflare Integration](/images/integrations/crm/salesflare-integration/Disable-or-enable-salesflare-integration-09-scaled.webp)
 
 ### Preview of Integrated Salesflare
 
-Here, you can see a preview of the added Salesflare contacts through the Form entries that I set up during the integration.
-
-You can see these form submissions from the **Entries** section of this particular form. Learn more about [managing entries in Fluent Forms](/managing-entries).
+You can see the form submissions that add Salesflare contacts in the **Entries** section of the form. Learn more about [managing entries in Fluent Forms](/managing-entries).
 
 ![Entries Fluent Forms](/images/integrations/crm/salesflare-integration/Forms-Entries-10-scaled.webp)
 
-Go to the **Salesflare Contacts** section from the left sidebar and see the integrated contact list into Fluent Forms.
+To see the contacts added from Fluent Forms, open **Salesflare Contacts** in the left sidebar.
 
 ![Salesflare Contacts](/images/integrations/crm/salesflare-integration/salesflare-contacts-11-scaled.webp)
-
-Following these guide, you can easily integrate Salesflare with Fluent Forms!

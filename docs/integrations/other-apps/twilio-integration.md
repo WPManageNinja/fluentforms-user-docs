@@ -4,7 +4,7 @@ description: "The integration between Twilio and Fluent Forms allows you to send
 
 # Twilio Integration
 
-The integration between Twilio and Fluent Forms allows you to send SMS notifications when a form is submitted in real time. It's easy and hassle-free. This article will guide you through integrating Twilio with Fluent Forms on your WordPress Site.
+The Twilio integration sends an SMS notification in real time when a form is submitted. This guide shows you how to connect Twilio with Fluent Forms on your WordPress site.
 
 > [!Note]
 > **Twilio** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
@@ -13,87 +13,76 @@ The integration between Twilio and Fluent Forms allows you to send SMS notificat
   <iframe src="https://www.youtube.com/embed/5KeCiA1Q10c" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-## Enabling the Twilio Module
+## Enable the Twilio Module
 
-First, go to **Integrations** from the Fluent Forms Navbar, search for **Twilio** through the search bar, and get the **Twilio** integration module.
+Go to **Integrations** in the Fluent Forms Navbar, search for **Twilio**, and find the **Twilio** integration module.
 
-Now, turn on the **Toggle** button to enable Twilio. Then, you will see the **Manage** button on the right side, click on it.
+Turn on the **Toggle** button to enable Twilio, then click the **Manage** button that appears on the right side.
 
 ![Enable Twilio](/images/integrations/other-apps/twilio-integration/enable-twilio-01-scaled.webp)
 
-Once you enable Twilio, you will be asked for the **Twilio Credentials**.
+Once you enable Twilio, Fluent Forms asks for the **Number From**, **Account SID**, and **Auth Token**. **Number From** is your Twilio sender number. Fluent Forms needs it to send the SMS.
 
 ![Twilio Integration step](/images/integrations/other-apps/twilio-integration/02-8-scaled.webp)
 
-### Getting the Twilio Credentials
+### Get the Twilio Credentials
 
-Log in to your **Twilio** account dashboard to access the **Account SID** and **Auth Token**.
+Log in to your **Twilio** account dashboard to find the **Account SID** and **Auth Token**.
 
 > [!Note]
 > If you do not have a Twilio account, [create one here](https://www.twilio.com/try-twilio) and register your application.
 
-Now, ​​**copy** the **Account SID** and **Auth Token** to use them later.
+**Copy** the **Account SID** and **Auth Token**.
 
 ![Twilio Credentials](/images/integrations/other-apps/twilio-integration/Twilio-credentials-03-scaled.webp)
 
-## Connecting Twilio with Fluent Forms
+## Connect Twilio with Fluent Forms
 
-Then, return to the **Twilio Settings** page. To open it, go to **Integrations** from the top bar and click **Manage** next to the module.
-
-Now, paste the **Twilio Access SID** and **Auth Token** I copied. Click on the **Save** button.
+1. Return to the **Twilio Settings** page. To open it, go to **Integrations** in the top bar and click **Manage** next to the module.
+2. Enter your Twilio **Number From**.
+3. Paste the **Account SID** and **Auth Token** you copied.
+4. Click **Save**.
 
 ![Global Settings](/images/integrations/other-apps/twilio-integration/Globql-settings-04-scaled.webp)
 
-Here, you will see a success notice that the Twilio Access Token has been verified successfully.
-
-You can also disconnect the **Twilio API** here by clicking the **Disconnect Twilio** button. 
+Fluent Forms shows a success notice that your Twilio credentials are verified. Click **Disconnect Twilio** to disconnect the **Twilio API**.
 
 ![Disconnect Twilio](/images/integrations/other-apps/twilio-integration/Disconnect-Twilio-05-scaled.webp)
 
-## Integrating the Form with Twilio
+## Integrate the Form with Twilio
 
-After setting up the Credentials, go to **All Forms** and select the form you want to integrate with the Twilio account or create a new one.
+After you set up the credentials, go to **All Forms** and select the form you want to connect to Twilio, or create a new one.
 
 > [!Note]
-> If you do not have an existing form, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
+> If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Settings Twilio Integration](/images/integrations/other-apps/twilio-integration/settings-form-06-scaled.webp)
 
-Now, go to the form's **Configuration** page for the entries you want listed in **Twilio**.  Click on **Add New Integration** and select **SMS Notification by Twilio** from the drawer.
+Open the form's **Configuration** page, click **Add New Integration**, and select **SMS Notification by Twilio** from the drawer.
 
 ![SMS Notification By Twilio](/images/integrations/other-apps/twilio-integration/sms-notification-by-twilio-07-scaled.webp)
 
-### Configuring Twilio with Fluent Form
+### Configure Twilio with Fluent Forms
 
-* **Name:** Enter the Field that specifies the name of the Twilio integration Feed.
-
-* **To:** Enter the recipient’s phone number ( the user who submitted the form or a team member).
-
+* **Name:** Enter a name for the feed.
+* **To:** Enter the recipient’s phone number. This can be the user who submitted the form or a team member.
 * **SMS Text:** Write the message you want to send. Use dynamic fields to personalize the SMS.
+* **Conditional Logic:** Turn on **Enable Conditional Logic** to run the integration only when your submission values match the conditions you set. See the [Documentation](/set-up-forms-with-conditional-logic).
+* **Status:** Enable this option to activate the feed.
 
-* **Conditional Logic:** If you want to allow Twilio integration conditionally based on your submission values, then **Enable Conditional Logic** options. To learn more about this conditional logic, read the [Documentation](/set-up-forms-with-conditional-logic).
-
-* **Status:** Enable this feed option to activate the integration.
-
-Once the setup is done, finally, click the **Save** button. Your Twilio will be integrated into this specific form!
+Click **Save** when the setup is done. Twilio is now connected to this form.
 
 ![Add Twilio Integration Feed](/images/integrations/other-apps/twilio-integration/Add-New-Twilio-Integration-Feed-08-scaled.webp)
 
-After successful Integration, you will see that your Twilio integration Feed has been added here. 
-
-You can modify your feed anytime by clicking the **Settings Icon** and **Delete** it by clicking the **Trash Icon**. Also, you can disable or enable this feed anytime by turning off the **Enable** if needed.
+The feed now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn off **Enable** to disable the feed.
 
 ![Success Twilio Integration](/images/integrations/other-apps/twilio-integration/Success-twilio-integration-09-scaled.webp)
 
 ### Preview of Integrated Twilio
 
-Here, you can preview the added Twilio contacts through the Form entries that I set up during the integration.
-
-You can see form submissions from the **Entries** section of this particular form.
+You can check the SMS sent for each submission in the **Entries** section of the form.
 
 ![Entries](/images/integrations/other-apps/twilio-integration/entries-10-1-scaled.webp)
 
 > [!Warning]
 > On a Twilio trial account, verify your phone number before sending a test SMS.
-
-You can seamlessly send real-time SMS notifications for form submissions using Twilio by completing these steps.

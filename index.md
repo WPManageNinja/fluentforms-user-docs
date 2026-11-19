@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Fluent Forms"
-  text: "Documentations"
-  tagline: The fastest contact form plugin for WordPress.
+  text: "Documentation"
+  tagline: A fast, flexible form builder for WordPress.
   actions:
     - theme: brand
       text: Get Started
@@ -36,7 +36,7 @@ features:
     linkText: Take Payments
   - icon: 🔌
     title: Integrations
-    details: Connect Mailchimp, HubSpot, Slack, Zapier, Google Sheets, and 60+ other tools.
+    details: Connect Mailchimp, HubSpot, Slack, Zapier, Google Sheets, and 45+ other tools.
     link: /integrate-mailchimp
     linkText: View Integrations
   - icon: 📥
@@ -44,4 +44,24 @@ features:
     details: View, search, edit, and export entries, plus submission and payment reports.
     link: /managing-entries
     linkText: Manage Entries
+  - icon: 🔔
+    title: Notifications & Confirmations
+    details: Send email notifications and show confirmation messages after a submission.
+    link: /notifications-confirmations-overview
+    linkText: Set Up Notifications
+  - icon: 🌐
+    title: Publishing & Embedding
+    details: Add your form to any page, post, or landing page.
+    link: /embed-your-forms-directly-in-gutenberg-layout
+    linkText: Publish a Form
+  - icon: 🧩
+    title: Advanced & Developer
+    details: Shortcodes, smart codes, logs, custom fields, and localization.
+    link: /advanced-developer-overview
+    linkText: Go Advanced
+  - icon: 🛟
+    title: Help & Support
+    details: Find answers to common questions and learn how to get support.
+    link: /frequently-asked-questions
+    linkText: Get Help
 ---
