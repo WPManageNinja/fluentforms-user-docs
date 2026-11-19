@@ -4,95 +4,106 @@ description: "Fluent Forms offers the Conditional Logic feature inside Input Fie
 
 # Set up Forms with Conditional Logic
 
-**Fluent Forms** offers the **Conditional Logic** feature inside **Input Fields** to **display**/hide them based on specific conditions in your forms. This article will guide you through using **Conditional Logic** in any **Input Fields** with **Fluent Forms**.
+**Fluent Forms** offers the **Conditional Logic** feature inside **Input Fields** to show or hide them based on specific conditions in your forms. This guide shows you how to use **Conditional Logic** in any **Input Field**.
+
+Conditional logic is also available for email notifications and confirmations (Pro). See [Conditional Email Notification](/conditional-email-notification) and [Conditional Confirmation Message](/conditional-confirmation-message).
 
 ## Enabling Conditional Logic in a Field
 
-First, go to the **Forms** from the **Fluent Forms Navbar** or **WordPress Left Sidebar,** and **open** the **Editor** page of your **desired form** by clicking the **Edit** button where you want to use the **Conditional Logic** feature.
+Go to **Forms** in the **Fluent Forms Navbar** or the **WordPress Left Sidebar**. Click **Edit** on the form where you want to use **Conditional Logic** to open its **Editor**.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
 
-For example, I chose an existing form to show the whole process.
+This guide uses an existing form as an example.
 
 ![Open Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/1.-Open-Desired-form-scaled.webp)
 
-Once you open the **Editor** page, choose the desired **Input Field** that you want to **hide/display** based on the set condition/s. **For example**, I selected the [Payment Method](/add-payment-method-field-in-payment-forms) field to show you the process.
+In the **Editor**, choose the **Input Field** you want to show or hide based on conditions. **For example**, select the [Payment Method](/add-payment-method-field-in-payment-forms) field.
 
-Now, hover over the chosen field, click the **Pencil/Edit** icon, and the **Customize** tab opens in the right panel.
+Hover over the field and click the **Pencil/Edit** icon. The **Customize** tab opens in the right panel.
 
-Then, open the **Advanced Options** by clicking the **Arrow Icon**, scroll down to **Conditional Logic**, and select **Yes**.
+Click the **Arrow Icon** to open **Advanced Options**, scroll down to **Conditional Logic**, and select **Yes**.
 
 ![Input Customization Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/2.-Input-Customization-scaled.webp)
 
 ## Conditional Match
 
-Once you enable the **Conditional Logic** option, a **Condition Match** option will appear with three major conditionals. These are:
+When you enable **Conditional Logic**, a **Condition Match** option appears with three choices:
 
-**A. Any**: If you choose this option, the form user must meet at least one of the set conditions during form submission to trigger the specified actions. 
+**A. Any:** The form user must meet at least one of the conditions on submission to trigger the actions.
 
-**B. All**: If you choose this option, the form user must meet all the set conditions during form submission to trigger the specified actions. 
+**B. All:** The form user must meet all the conditions on submission to trigger the actions.
 
-**C. Group**: This advanced option allows you to **create multiple conditions within groups**. Unlike the "**Any**" or "**All**" options, which determine whether all or just one condition must be met, the "**Group**" option lets you set one group of conditions against another using the “**OR**” operator. This means that an action will be triggered if at least one group of conditions is met. “Also, you can **Name** your **Groups** according to your preference.
+**C. Group:** This advanced option lets you **create multiple conditions within groups**. The "**Any**" and "**All**" options decide whether one or all conditions must be met. The "**Group**" option sets one group of conditions against another with the "**OR**" operator. An action triggers if at least one group of conditions is met. You can also **Name** your **Groups**.
 
 ## Fields to set Conditions
 
-Once you select the **Condition Match**, you can specify the **Parameter**, its **Operator**, and the corresponding **Value** to set condition/s.
+After you select the **Condition Match**, set the **Parameter**, its **Operator**, and the corresponding **Value**.
 
-In the “**Parameter**” field (first field), select an **input field** that needs to correspond with the value provided in the “**Value**” field (last field) and set an option in the “**Operator**” field (middle field). The parameter will trigger the action if the condition is met.  
+- **Parameter:** The first field. Select the input field to check against the value.
+- **Operator:** The middle field. Select how to compare the parameter and the value.
+- **Value:** The last field. Enter the value to compare against.
 
-To add as many conditions as you need, click the **Plus Icon,** and to delete any conditions, click the **Minus (-) Icon** in the right corner. 
+The field triggers the action when the condition is met.
 
-Once you complete it, click **Save** in the top bar to make the condition/s functional. To see the preview, click the **Preview** (eye) icon. 
+To add a condition, click the **Plus Icon**. To delete a condition, click the **Minus (-) Icon** in the right corner.
+
+Click **Save** in the top bar to activate the conditions. To see the result, click the **Preview** (eye) icon.
 
 ![Conditional Match Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/3.-Conditional-Match-scaled.webp)
 
 ## Example of Each Conditional Match
 
-To provide you with an in-depth understanding, all three conditional matches are explained with detailed examples below – 
+The examples below explain all three conditional matches in detail.
 
 ### A. Any Conditional Match
 
-**For example**, I selected **"Email"** and **"Payment Item"** as the parameters, used **"includes"** and **"equals"** as the operators, and entered **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
+**For example**, select **"Email"** and **"Payment Item"** as the parameters, use **"contains"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
 
-As I have selected the "**Any**" conditional match here, when users either provide an email address containing **“@gmail.com”** or select the “**Fluent Forms”** product to submit the form, the **Payment Method** field will be visible to them. Otherwise, this field will remain hidden.
+With the "**Any**" match, the **Payment Method** field is visible when users either provide an email address containing **“@gmail.com”** or select the **“Fluent Forms”** product. Otherwise, the field stays hidden.
 
 ![Any Conditional Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/4.-Any-conditional.webp)
 
-Here is a **preview** of a form where the user met one **(selecting Fluent Forms product)** condition. As a result, the **Payment Method** field is visible here.  
+This is a **preview** of a form where the user met one condition (selecting the Fluent Forms product). The **Payment Method** field is visible.
 
 ![Preview Any Condional Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/5.-Preview-of-Any-condional-scaled.webp)
 
 ### B. All Conditional Match
 
-**For example**, I selected **"Email"** and **"Payment Item"** as the parameters, used **"includes"** and **"equals"** as the operators, and entered **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
+**For example**, select **"Email"** and **"Payment Item"** as the parameters, use **"contains"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
 
-As I have selected the "**All**" conditional match here, when users both provide an email address containing **“@gmail.com”** and select the “**Fluent Forms”** product to submit the form, the **Payment Method** field will be visible to them. Otherwise, this field will remain hidden. 
+With the "**All**" match, the **Payment Method** field is visible only when users both provide an email address containing **“@gmail.com”** and select the **“Fluent Forms”** product. Otherwise, the field stays hidden.
 
 ![All Condional Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/6.-All-condional.webp)
 
-Here is a **preview** of a form where the user met all the **( providing email that includes @gmail.com and selecting Fluent Forms product)** conditions. As a result, the **Payment Method** field is visible here.
+This is a **preview** of a form where the user met all the conditions (providing an email that contains @gmail.com and selecting the Fluent Forms product). The **Payment Method** field is visible.
 
 ![Preview All Conditional Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/7.-Preview-of-All-Conditional.webp)
 
 ### C. Group Conditional Match
 
-Here, I selected the “Group” conditional match and set two different Groups of Conditions using the OR operator. So that, when users meet any one of the Group Conditions, the field will be visible in the form.
+Select the “Group” conditional match and set two Groups of Conditions with the OR operator. When users meet any one group, the field is visible.
 
-**For example**, in Group 1, I selected **"Email"** and **"Payment Item"** as the parameters, used **"includes"** and **"equals"** as the operators, and entered **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
+**For example**, in Group 1, select **"Email"** and **"Payment Item"** as the parameters, use **"contains"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
 
-On the contrary, in Group 2, I selected “**Name [First Name]**”,  **"Email"** and **"Payment Item"** as the parameters, used “**starts with**”, **"includes"** and **"equals"** as the operators, and entered “**Z**”, **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
+In Group 2, select “**Name [First Name]**”, **"Email"** and **"Payment Item"** as the parameters, use “**starts with**”, **"contains"** and **"equal"** as the operators, and enter “**Z**”, **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
 
-As I have selected the "**Group**" conditional match here, when users meet either the conditions in **Group 1** (i.e., provide an email address containing “**@gmail.com**” and select the “**Fluent Forms**” product) or the conditions in **Group 2** (i.e., enter a first name starting with “**Z**,” provide an email address containing “**@yahoo.com**,” and select the “**Fluent Forms**” product), the **Payment Method** field will be visible to them. Otherwise, the field will remain hidden.
+With the "**Group**" match, the **Payment Method** field is visible when users meet either of these:
+
+- **Group 1:** They provide an email address containing “**@gmail.com**” and select the “**Fluent Forms**” product.
+- **Group 2:** They enter a first name starting with “**Z**,” provide an email address containing “**@gmail.com**,” and select the “**Fluent Forms**” product.
+
+Otherwise, the field stays hidden.
 
 ![Group Conditional Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/8.-Group-Conditional.webp)
 
-Here is a **preview** of a form where the user met **All Conditions** under **Group 1** (providing an email address including **“@gmail.com”** and selecting the **“Fluent Forms”** product). As a result, the **Payment Method** field is visible here.
+This is a **preview** of a form where the user met **All Conditions** under **Group 1** (providing an email address containing **“@gmail.com”** and selecting the **“Fluent Forms”** product). The **Payment Method** field is visible.
 
 ![Preview Group One Codinitional Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/9.-Preview-of-Group-one-codinitional.webp)
 
-Here is a **preview** of a form where the user met **All Conditions** under **Group 2** (entering first name starting with **“Z”**, providing an email address including **“@gmail.com”**,  and selecting the **“Fluent Forms”** product) condition. As a result, the **Payment Method** field is visible here. 
+This is a **preview** of a form where the user met **All Conditions** under **Group 2** (entering a first name starting with **“Z”**, providing an email address containing **“@gmail.com”**, and selecting the **“Fluent Forms”** product). The **Payment Method** field is visible.
 
 ![Preview Group Two Conditionals Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/10.-Preview-of-Group-two-Conditionals.webp)
 
-This way, you can easily use Conditional Logic in any field of Fluent Forms!
+The condition operators are: equal, not equal, greater than, less than, greater than or equal, less than or equal, contains, does not contain, starts with, ends with, and matches regex.
