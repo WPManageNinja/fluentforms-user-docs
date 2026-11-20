@@ -14,7 +14,7 @@ So, Let's get started.
 
 Open your form in the **Editor** and click a field. Open the **Customize** tab and expand **Advanced Options**. In the **Default Value** field, type a smart code, or click the **three-dot icon** and pick one from the list. On some fields, this option is called **Dynamic Default Value**. When a visitor opens the form, Fluent Forms replaces the smart code with the real value.
 
-![Default Value Smart Codes](/images/advanced-developer/shortcodes/form-editor-smart-codes/default-value-smart-codes-01.webp)
+![Default Value Smart Codes](/images/advanced-developer/shortcodes/form-editor-smart-codes/default-value-smart-codes-02.webp)
 
 > [!Note]
 > Smart codes that need a logged-in user, such as `{user.first_name}`, show nothing for guests. They also show nothing if the user's profile does not have that data.
