@@ -1,39 +1,65 @@
 ---
-description: "The Fluent Forms Global Inventory Manager feature allows you to track and manage multiple forms efficiently."
+description: "The Fluent Forms Global Inventory Manager lets you track one stock count across multiple forms and manage it from a single place."
 ---
 
 # Global Inventory Manager
 
-The Global Inventory Manager (Pro) lets you track one stock count across multiple forms.
+The **Global Inventory Manager** (Pro) lets you track one stock count across multiple forms. You create inventory items once, then connect them to the options of any form. This guide shows you how to create, connect, and monitor Global Inventory items.
 
-Suppose you sell a **limited number of bus tickets**. You can manage that stock across different forms to keep the count accurate. When the tickets sell out, Fluent Forms can show users a message.
+Suppose you sell a **limited number of bus tickets** through several forms. Create one inventory item for the tickets and connect it to every form. Each sale lowers the same stock count. When the tickets sell out, Fluent Forms shows visitors a stock out message.
 
 > [!Note]
 > Global Inventory is a **Pro** feature. Before you use it, turn on the Inventory Module in Fluent Forms.
 
 ## Enabling the Inventory Module
 
-Go to **Integrations** in the Fluent Forms Navbar and search for **Inventory Module** in the search bar.
+Go to **Integrations** in the Fluent Forms navbar. Search for **inventory**, then turn on the **Inventory Module** toggle. An **Enabled** badge appears next to its name.
 
-Turn on the **Toggle** to enable the **Inventory** module.
-
-![Enable Inventory Module Global Inventory Manager](/images/modules/global-inventory-manager/enable-inventory-module-01-scaled.webp)
+![Enable Inventory Module Global Inventory Manager](/images/modules/global-inventory-manager/enable-inventory-module-toggle-01.webp)
 
 ## Accessing the Inventory Manager
 
-Click the **Global Settings** gear icon in the top bar. In the left rail, open **Other Settings**, then select **Inventory Manager**. Click **Add Inventory** to add items.
+Click the **Settings** (gear) icon in the top right of the navbar. In the left menu, open **Other Settings**, then select **Inventory Manager**. The **Global Inventory** table lists all your inventory items.
 
-![Access Inventory Manager](/images/modules/global-inventory-manager/access-inventory-manager-02-scaled.webp)
+The table has these columns:
+
+- **Name:** The name of the inventory item.
+- **Slug:** The unique ID Fluent Forms creates from the name.
+- **Quantity:** The total stock you set.
+- **Stock:** The stock still available.
+- **Items in Use:** The number of form options connected to the item.
+
+![Access Inventory Manager](/images/modules/global-inventory-manager/access-inventory-manager-gear-02.webp)
 
 ## Adding an Inventory Item
 
-Click **Add Inventory**. In the pop-up, enter the **Inventory Name** and set the **Total Quantity**, which is the stock you have available. Set it to **0** to mark the item as sold out. Click **Save** to store the item in the **Inventory Manager**.
+Click **Add Inventory**. In the pop-up, fill in the following:
 
-![Global Inventory Manager step](/images/modules/global-inventory-manager/10-scaled.webp)
+- **Inventory Name:** Enter a name you can recognize, such as **Bus Ticket**.
+- **Total Quantity:** Enter the stock you have available. Set it to **0** to mark the item as sold out.
+
+Click **Save** to add the item to the **Inventory Manager**.
+
+![Add Inventory](/images/modules/global-inventory-manager/add-inventory-03.webp)
+
+## Managing Inventory Items
+
+Each row in the **Global Inventory** table has action icons on the right:
+
+- **Edit** (pencil icon): Change the name or the total quantity.
+- **Reset** (circular arrow icon): Clear the recorded sales so the item returns to its full quantity.
+- **Delete** (trash icon): Remove the item from the Inventory Manager.
+
+To see which forms use an item, click the **arrow** at the start of its row. The row expands and shows the form options connected to it. The **Stock** column shows how much stock is left, so you can track sales across all your forms in one place.
+
+![Viewing Inventory](/images/modules/global-inventory-manager/viewing-inventory-04.webp)
+
+> [!Note]
+> Delete an item only when no form needs it. To restart the stock, use **Reset** instead.
 
 ## Adding a Global Inventory Item to a Form
 
-Open the form where you want to use the **Global Inventory Item**.
+Open the form where you want to use the **Global Inventory** item.
 
 > [!Note]
 > If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
@@ -48,34 +74,22 @@ Add a field that supports inventory tracking, such as:
 
 - Dropdown Field
 
-This example uses the [**Checkbox Field**](/checkbox-field).
+This example uses a **Radio Field** with **Yes** and **No** options.
 
-In the **Checkbox** field options, add items to connect with your **Global Inventory Items**.
+Click the field and open the **Customize** tab. Expand **Advanced Options**. Under **Inventory Settings**, select **Global**. A **Global Inventory** dropdown appears for each option of the field.
 
-![Global Inventory Manager step](/images/modules/global-inventory-manager/03-2-scaled.webp)
-
-## Configuring Inventory Settings
-
-Open the **Advanced Options** of the selected field. Under **Inventory Settings**, select **Global** to use Global Inventory items.
-
-Select the **inventory item** from the **Global Inventory drop-down**. Then customize the **Stock Out Message** and the other settings.
+Select an **inventory item** for each option. Then customize the **Stock Out Message** and the other settings.
 
 For a detailed guide on every inventory setting, read the [Fluent Forms Inventory Module](/inventory-module) documentation.
 
-![Glob Al Inventory Settings](/images/modules/global-inventory-manager/glob-al-inventory-settings-04-scaled.webp)
+![Global Inventory Settings](/images/modules/global-inventory-manager/glob-al-inventory-settings-04-scaled.webp)
 
 ## Embed the Form into Frontend
 
-Click **Save** to save your changes. Click the **Preview** (eye) icon in the top bar to preview the form.
+Click **Save** to save your changes. In the top bar, click the **embed** (`</>`) icon to open the **Embed in a Page** window.
 
-To display the form on a page or post, **copy** the **Shortcode** from the top right and **paste** it into that page or post.
+![Embed Form Icons](/images/modules/global-inventory-manager/embed-form-icons-05.webp)
 
-![Save Global Inventory Manager](/images/modules/global-inventory-manager/save-form-05-1-scaled-2.webp)
+Choose **Select Existing Page**, **Create New Page**, or copy the shortcode under **Use a Shortcode**. For the full steps, see the [Inventory Module](/inventory-module) guide.
 
-## Viewing Inventory Details
-
-To monitor your inventory, go to **Global Settings > Other Settings > Inventory Manager**. Expand an item to show the items that use it.
-
-The report shows the **remaining stock levels** and the forms that sold the items. You can also **reset the inventory** from this section.
-
-![View Inventory Item](/images/modules/global-inventory-manager/view-inventory-item-06-scaled.webp)
+![Embed in a Page](/images/modules/global-inventory-manager/embed-in-a-page-06.webp)

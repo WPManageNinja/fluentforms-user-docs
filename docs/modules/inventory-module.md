@@ -82,7 +82,17 @@ Select **Simple** to set the stock for the options of this field only. The stock
 
 ### Global Inventory Settings
 
-Select **Global** to share one stock across multiple forms. To create the shared inventory items first, see [Global Inventory Manager in Fluent Forms](/global-inventory-manager).
+Select **Global** to share one stock across multiple forms. Global inventory items live in the **Inventory Manager**, so create them before you connect them to a field. For the full guide, see [Global Inventory Manager in Fluent Forms](/global-inventory-manager).
+
+**Step 1: Open the Inventory Manager.** Click the **Settings** (gear) icon in the top right. Open **Other Settings**, select **Inventory Manager**, and click **Add Inventory**.
+
+![Open the Inventory Manager](/images/modules/inventory-module/global-access-inventory-manager-12.webp)
+
+**Step 2: Create the item.** Enter an **Inventory Name** and the **Total Quantity**, then click **Save**.
+
+![Create a Global Inventory Item](/images/modules/inventory-module/global-add-inventory-13.webp)
+
+**Step 3: Connect the item to your field.** Back in the form, select **Global** under **Inventory Settings**. Then set the options below.
 
 **A. Global Inventory:** For each option, select a global inventory item from the dropdown. The stock comes from that item, so you do not enter a quantity here.
 
@@ -99,6 +109,10 @@ Select **Global** to share one stock across multiple forms. To create the shared
 **G. Inventory Label:** Set your inventory label with the **{remaining_quantity}** shortcode. It shows how many of the items are still available.
 
 ![Global Inventory](/images/modules/inventory-module/unnamed-6.webp)
+
+**Step 4: Track the stock.** Return to the **Inventory Manager** to see the remaining **Stock** of each item. Click the **arrow** at the start of a row to see the form options that use it. Use the **edit** and **delete** icons to change or remove an item.
+
+![Track Global Inventory](/images/modules/inventory-module/global-viewing-inventory-14.webp)
 
 ### View Inventory Item
 
