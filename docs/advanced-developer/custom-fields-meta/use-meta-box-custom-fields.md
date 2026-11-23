@@ -13,7 +13,7 @@ Fluent Forms integrates with the **Meta Box** plugin. Meta Box is a free Gutenbe
 ![Meta Box Custom Field](/images/advanced-developer/custom-fields-meta/use-meta-box-custom-fields/Metabox-custom-field-01-scaled.webp)
 
 >[!Note]
-> Fluent Forms supports **Meta Box**, **ACF**, and **JetEngine** custom fields. It does not support **CMB2**, so fields you build with CMB2 do not appear in the feed mapping.
+> Fluent Forms supports **Meta Box**, **ACF**, and **JetEngine** custom fields. 
 
 **Fluent Forms Pro** is also required, because the **Post/CPT Creation** module is part of it.
 

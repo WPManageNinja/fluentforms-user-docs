@@ -27,23 +27,24 @@ A post form can include fields like:
 ### Setup Custom Meta Fields with ACF
 
 1. Use a plugin like **Advanced Custom Fields (ACF)** to create a field group for your WordPress posts.
-2. Copy the **Name Attributes** of the fields from the **Custom Fields plugin**.
+2. Copy the **Field Name** of each field from the **Custom Fields plugin**. This is the meta key.
 
 ![Unnamed Fluent Forms](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys/unnamed-7.webp)
 
 ### Map Meta Fields in Fluent Forms
 
-1. In your form, open the **Configuration** tab and go to **Post Feeds**.
-2. Click +**Add Meta Field** and paste the copied meta keys into the field.
-3. Make sure standard post fields, such as **Post Title** and **Post Content**, are mapped in the form settings before you add custom meta fields.
-4. Click **Save Feed**.
-5. Fill out and submit the form.
+1. In your form, open the **Configuration** tab. Then open **Integrations & Add-ons** and click **Post Feeds**.
+2. Open your post feed, or click **Add Post Feed** to create one.
+3. In the **Meta Fields Mapping** section, click **Add Meta Field** and paste the copied meta key into the field.
+4. Make sure standard post fields, such as **Post Title** and **Post Content**, are mapped in **Post Fields Mapping** before you add custom meta fields.
+5. Click **Save**.
+6. Fill out and submit the form.
 
 ![Post Field And Meta Field](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys/post-field-and-meta-field-02-scaled.webp)
 
 ### Verify Submission
 
-Go to **Posts** in WordPress and find the new post (**Demo Post**). Open the post and check that **Post Title**, **Post Author**, and the other values are mapped correctly.
+Go to **Posts** in WordPress and find the new post. Open the post and check that the **Post Title**, **Post Content**, and your custom field values, such as **Event Venue** and **Event Capacity**, are mapped correctly.
 
 ![Meta Key Field](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys/MEta-Key-Field-03-scaled.webp)
 
@@ -53,31 +54,31 @@ First, create or use an existing Product Form. Follow the same steps as the post
 
 Add the product-specific fields, such as:
 
-- Post Title
-- Post Content
-- Price
-- Product Status
+- Product Title
+- Product Description
+- Product Price
+- Product SKU
 
 ![Product Fluent Forms](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys/product-form-04-scaled.webp)
 
 ### Add Custom Fields with ACF
 
 1. Use a plugin like **Advanced Custom Fields (ACF)** to create a field group for your WordPress posts.
-2. Copy the **Name Attributes** of the fields from the **Custom Fields plugin**.
-3. Open **Post Feeds** in the **Configuration** tab of your Fluent Form.
-4. Click the +**Add Meta Field** button and paste the copied meta keys into the field.
-5. Make sure default post fields, such as **Post Title** and **Post Content**, are mapped in the form settings before you add custom meta fields.
+2. Copy the **Field Name** of each field from the **Custom Fields plugin**. This is the meta key.
+3. In the **Configuration** tab of your Fluent Form, open **Integrations & Add-ons** and click **Post Feeds**.
+4. Open your post feed and click **Add Meta Field** in the **Meta Fields Mapping** section. Paste the copied meta key into the field.
+5. Make sure default post fields, such as **Post Title** and **Post Content**, are mapped in **Post Fields Mapping** before you add custom meta fields.
 
 ![Add Product Field Mapping Meta Fields with](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys/add-product-field-05-scaled.webp)
 
 ![Add Meta Field Mapping Meta Fields with](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys/add-meta-field-06-scaled.webp)
 
-After you add all the meta keys, click **Save Feed**. Then fill out and submit the form.
+After you add all the meta keys, click **Save**. Then fill out and submit the form.
 
 ![Unnamed](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys/unnamed-1-4.webp)
 
 ### Verify Submission
 
-Go to **Posts** in the WordPress dashboard. Check that **Product Title** and **Product Status** appear correctly in the post entry.
+Go to **Posts** in the WordPress dashboard. Open the new product and check that the **Product Title**, **Product Price**, and **Product SKU** appear correctly.
 
 ![Preview Product Meta Key Mapping Meta Fields with](/images/advanced-developer/custom-fields-meta/mapping-meta-fields-with-meta-keys/preview-product-meta-key-07-scaled.webp)
