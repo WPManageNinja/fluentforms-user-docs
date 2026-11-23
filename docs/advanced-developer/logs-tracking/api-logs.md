@@ -11,7 +11,7 @@ The **API Logs** feature stores all records of API activity in your forms in one
 > [!Note]
 > This list shows entry activity only when an **action** was recorded for that submission.
 
-Go to **Tools** (under **More**) in the Fluent Forms top menu and click **API Logs** in the left menu. The page lists the API logs of all your forms.
+Go to **Tools** in the Fluent Forms top menu and click **API Logs** in the left menu. The page lists the API logs of all your forms.
 
 ![Tools API Logs](/images/advanced-developer/logs-tracking/api-logs/1.-Tools-API-Logs-scaled.webp)
 
@@ -46,7 +46,7 @@ Filter your API logs by the **Status** of your forms’ integration actions. The
 
 ### 4. Date
 
-Filter your activities by date. Pick a preset such as Today, Yesterday, Last week, or Last month, or choose a custom range.
+Filter your API logs by date. Pick a preset such as Today, Yesterday, Last week, or Last month, or choose a custom range.
 
 ![Date Filter Option](/images/advanced-developer/logs-tracking/api-logs/5.-Date-filter-option-1-scaled.webp)
 
