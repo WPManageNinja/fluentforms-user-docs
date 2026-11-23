@@ -46,7 +46,7 @@ For example, to review payment issues in one form or in all forms, click the **A
 
 ### 3. Status
 
-Filter your activity logs by **Status**: **Info**, **Success**, **Error**, or **Failed**.
+Filter your activity logs by **Status**: **All**, **Success**, **Info**, or **Failed**.
 
 ![Status Filter Option](/images/advanced-developer/logs-tracking/activity-logs/4.-Status-filter-option-scaled.webp)
 
