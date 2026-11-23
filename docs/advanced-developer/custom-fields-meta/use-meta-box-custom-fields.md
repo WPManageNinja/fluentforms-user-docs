@@ -1,5 +1,5 @@
 ---
-description: "Fluent Forms brings you an excellent feature, Meta Box plugin integration. Metabox is a free Gutenberg and GDPR-compatible WordPress custom fields plugin…"
+description: "Create Meta Box custom fields and map them to a Fluent Forms Post Feed, so form submissions save their values to your posts."
 ---
 
 # Use Meta Box Custom Fields
@@ -12,9 +12,10 @@ Fluent Forms integrates with the **Meta Box** plugin. Meta Box is a free Gutenbe
 
 ![Meta Box Custom Field](/images/advanced-developer/custom-fields-meta/use-meta-box-custom-fields/Metabox-custom-field-01-scaled.webp)
 
-**CMB2 Plugin**: Install this plugin to build custom fields.
+>[!Note]
+> Fluent Forms supports **Meta Box**, **ACF**, and **JetEngine** custom fields. It does not support **CMB2**, so fields you build with CMB2 do not appear in the feed mapping.
 
-![Cmb2 Fluent Forms](/images/advanced-developer/custom-fields-meta/use-meta-box-custom-fields/cmb2-02-scaled.webp)
+**Fluent Forms Pro** is also required, because the **Post/CPT Creation** module is part of it.
 
 ## Add Field Groups in Meta Box
 
@@ -35,7 +36,7 @@ Each field has two tabs: the **General Tab** and the **Advanced Tab**.
 
 ### General Tab
 
-**Label:** The text users see on the form.
+**Label**: The text users see on the form.
 
 **ID**: The unique identifier for this field. It is used for backend reference or in custom integrations.
 
@@ -57,7 +58,7 @@ Each field has two tabs: the **General Tab** and the **Advanced Tab**.
 
 **Read-Only**: Makes the field non-editable while it displays the value.
 
-**Prepend Text**: Adds a fixed string at the beginning of the input field ( mailto:).
+**Prepend Text**: Adds a fixed string at the beginning of the input field (for example, mailto:).
 
 **Append Text**: Adds a fixed string at the end of the input field.
 
@@ -67,21 +68,21 @@ Each field has two tabs: the **General Tab** and the **Advanced Tab**.
 
 ### Advanced Tab
 
-**Before:** A text or HTML block that appears **before the input field**. For example, add a description, label, or styling element above the field.
+**Before**: A text or HTML block that appears **before the input field**. For example, add a description, label, or styling element above the field.
 
-**After:** A text or HTML block that appears **after the input field**. For example, add instructions, error messages, or formatting details below the field.
+**After**: A text or HTML block that appears **after the input field**. For example, add instructions, error messages, or formatting details below the field.
 
-**Custom CSS Class:** Adds one or more CSS class names to style this field. For example, `custom-email-class` can add specific styles defined in your CSS file.
+**Custom CSS Class**: Adds one or more CSS class names to style this field. For example, `custom-email-class` can add specific styles defined in your CSS file.
 
-**Custom Sanitize Callback:** Specifies a custom function to sanitize the input data. It is useful for extra email validation or processing before saving.
+**Custom Sanitize Callback**: Specifies a custom function to sanitize the input data. It is useful for extra email validation or processing before saving.
 
-**Save the Field:** Turn this on or off to save the field’s value to the database.
+**Save the Field**: Turn this on or off to save the field’s value to the database.
 
-**Custom HTML5 attributes:** Click **+Add New** to add any custom HTML5 attributes to the field.
+**Custom HTML5 attributes**: Click **+Add New** to add any custom HTML5 attributes to the field.
 
-**Validation:** Define rules to validate the field input before the form is submitted. Click **+Add New** to add a rule. For example, create a rule for allowed domains ( @example.com) or validate format compliance.
+**Validation**: Define rules to validate the field input before the form is submitted. Click **+Add New** to add a rule. For example, create a rule for allowed domains (for example, @example.com) or validate format compliance.
 
-**Custom Settings:** Click **+Add New** under **Custom Settings** to add more configuration options.
+**Custom Settings**: Click **+Add New** under **Custom Settings** to add more configuration options.
 
 Click **Publish** to save your custom fields.
 
@@ -89,13 +90,13 @@ Click **Publish** to save your custom fields.
 
 ### Settings
 
-**Location:** Sets where the custom fields in this group appear. The fields appear for posts and pages, as you select in the dropdown.
+**Location**: Sets where the custom fields in this group appear. The fields appear for posts and pages, as you select in the dropdown.
 
-**Position:** Choose **After Content** or **Side** from the dropdown.
+**Position**: Choose **After Content** or **Side** from the dropdown.
 
-**Priority:** Set the field priority to High or Low.
+**Priority**: Set the field priority to High or Low.
 
-**Style:** Uses the **Standard WordPress meta box** style. You can also choose **no meta style** from the dropdown.
+**Style**: Uses the **Standard WordPress meta box** style. You can also choose **no meta style** from the dropdown.
 
 Add **Additional Settings** from here as you need.
 
@@ -106,17 +107,23 @@ Click **Update** or **Publish**.
 ## Enable Post/CPT Module
 
 1. Go to **Integrations** in the Fluent Forms Navbar.
-2. Search for **Post/CPT** in the search bar and find the **Post/CPT** module.
+2. Search for **Post** in the search bar and find the **Post/CPT Creation** module.
 3. Turn on the **Enabled** button.
 4. Select an existing [**Post Form**](/create-a-post-form) from the Fluent Forms dashboard, or create a new one.
+
+>[!Note]
+> The **Post Feeds** menu appears only in a **Post Form**. A regular or blank form does not show it, so you cannot map Meta Box fields there. Create the form with the **Post Form** type first.
 
 ![Create Post](/images/advanced-developer/custom-fields-meta/use-meta-box-custom-fields/create-post-form-10-scaled.webp)
 
 ## Map Meta Box Custom Fields
 
 1. Open the **Configuration** tab in the post form editor.
-2. Go to **Post Feeds** and click **Add Post Feed**.
-3. Scroll down to the **Meta Box Plugin Mapping** section.
+2. Open **Integrations & Add-ons** in the left menu and click **Post Feeds**.
+3. Click **Add Post Feed**.
+4. Scroll down to the **MetaBox (MB) Plugin Mapping** section.
+
+The mapping section loads the fields of the **Post Type** you choose in the feed. Make sure your Meta Box field group has that post type in its **Location** setting. If the section is empty, check that the **Meta Box** plugin is active and that the field group matches the feed's post type.
 
 ![Post Feed](/images/advanced-developer/custom-fields-meta/use-meta-box-custom-fields/Post-Feed-11-scaled.webp)
 
@@ -124,7 +131,7 @@ Click **Update** or **Publish**.
 
 **A. Feed Name:** Enter a unique name for your feed.
 
-**B. Submission Type:** Select **New Post** to create a new post, or **Update** to update an old post.
+**B. Submission Type:** Select **New Post** to create a new post, or **Update Post** to update an old post.
 
 **C. Allow Logged-out users to create posts:** Check **Allowed** to let non-logged-in users submit posts. Uncheck **Allowed** to limit post submission to logged-in users.
 
@@ -142,7 +149,7 @@ Click **Update** or **Publish**.
    - **Open:** Lets visitors comment on the submitted post.
    - **Closed:** Disables comments for the post.
 
-**Post Format:** Choose the post format for your content, such as **Standard**, **Gallery**, or **Video**.
+**Default Category:** Choose the category that new posts use, such as **Uncategorized**.
 
 **D. Post Fields Mapping:** Map the form fields to WordPress post fields (Post Title and Post Content).
 
@@ -154,11 +161,11 @@ Taxonomies (like tags or categories) and featured images also map automatically 
 
 ![Create Feed](/images/advanced-developer/custom-fields-meta/use-meta-box-custom-fields/Create-new-feed-12-scaled.webp)
 
-**E. MetaBox (MB) Plugin Mapping:** Scroll down to the **Meta Box Plugin Mapping** section. In the **Advanced Fields** section, select the custom field from **Meta Box** in the left dropdown. Choose the matching **Form field** from the right dropdown.
+**E. MetaBox (MB) Plugin Mapping:** Scroll down to the **MetaBox (MB) Plugin Mapping** section. Under **General Fields**, select the custom field from **Meta Box** in the **MetaBox (MB) Field** dropdown. Then enter the matching form field in **Form Field (Value)**, for example `{inputs.event_location}`. Click **Add Another General Field** to map more fields. Use **Advanced Fields** for the other Meta Box field types.
 
 **F. Enable Conditional Logic:** To create the **MetaBox Post** only for certain submission values, turn on **Enable Conditional Logic**. To learn more, read the [Conditional Logic in Fluent Forms](/set-up-forms-with-conditional-logic) guide.
 
-Click **Save Feed**.
+Click **Save**.
 
 ![Map Meta Box Feed](/images/advanced-developer/custom-fields-meta/use-meta-box-custom-fields/map-the-metabox-feed-13.webp)
 
