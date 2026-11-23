@@ -173,7 +173,7 @@ Enter your **Google Analytics 4 Measurement ID** (steps [below](#google-analytic
 | Tag Type | Google Tag |
 | Measurement ID | G-XXXXXXXX [Follow instructions below to grab this code] |
 
-> Fields to Set:
+Set these **Fields to Set**:
 
 | debug_mode | true | For Debug View. Remove it after testing. |
 |---|---|---|
@@ -227,7 +227,7 @@ Enter a meaningful **Version Name** so you can identify this work later and reve
 
 After you confirm the setup works, publish your workspace. Open a page with a form, submit it with test data, and check **Events** in Google Analytics.
 
-### 4. Final result in Google Analytics
+## 4. Final Result in Google Analytics
 
 The sample form used for testing looks like this:
 
