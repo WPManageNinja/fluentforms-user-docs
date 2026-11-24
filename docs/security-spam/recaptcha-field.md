@@ -19,15 +19,15 @@ Go to **Forms** in the **Fluent Forms Navbar**. Choose a form and click it to op
 
 ![Edit reCAPTCHA Field](/images/security-spam/recaptcha-field/edit-form-01-11-scaled.webp)
 
-In the **Editor**, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
+In the **Editor**, open the **Input Fields** tab in the right sidebar and expand **Advanced Fields**.
 
-Click the **reCAPTCHA** input field, or drag and drop it into your editor.
+Click the **reCaptcha** field, or drag and drop it into your form.
 
 ![reCAPTCHA Field step](/images/security-spam/recaptcha-field/new-16-scaled.webp)
 
 ## Customizing the reCAPTCHA Field
 
-To edit the reCAPTCHA field, hover over it and click the **Pencil Icon**. The **Input Customization** tab opens on the right with these options.
+To edit the reCAPTCHA field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these options.
 
 ![Input Customize](/images/security-spam/recaptcha-field/input-customize-03-scaled.webp)
 
@@ -41,7 +41,7 @@ To edit the reCAPTCHA field, hover over it and click the **Pencil Icon**. The **
 
 Click **Save** to save your changes. To preview the form, click the **Preview** (eye) icon in the top bar.
 
-To display the form on a page or post, **copy** the **Shortcode** from the top right and **paste** it into that page or post. You can also [embed the form directly in the Gutenberg layout](/embed-your-forms-directly-in-gutenberg-layout).
+To display the form on a page or post, click the **Copy** icon next to the **Shortcode** in the top bar and **paste** it into that page or post. You can also [embed the form directly in the Gutenberg layout](/embed-your-forms-directly-in-gutenberg-layout).
 
 ![Save reCAPTCHA Field](/images/security-spam/recaptcha-field/Save-Form-04-scaled.webp)
 
