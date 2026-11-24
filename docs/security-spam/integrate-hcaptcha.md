@@ -22,31 +22,27 @@ Log in to your [hCaptcha Account](https://www.hcaptcha.com/). If you do not have
 
 ![Signup Here Fluent Forms](/images/security-spam/integrate-hcaptcha/2.-signup-here-.webp)
 
-Select **Add hCaptcha to my website or app**. A login page appears. Log in to your account with your email.
-
-![Add hCaptcha My Website Or App Integrate hCaptcha](/images/security-spam/integrate-hcaptcha/3.-Add-hCAPTCHA-to-my-website-or-app.webp)
-
-After you log in, click **Generate** to generate the **Secret Key**.
+After you log in, hCaptcha creates your first **Sitekey** for you. Click **Generate Secret** to generate the **Secret Key**.
 
 ![Generate Button Fluent Forms](/images/security-spam/integrate-hcaptcha/4.-Generate-button.webp)
 
-Copy the **Secret Key** and click **Continue** to get the Site Key.
+Click **Copy Secret** to copy the **Secret Key**. Store it safely, because hCaptcha does not show it again.
 
 ![Copy Secret Key Continue Button](/images/security-spam/integrate-hcaptcha/5.-Copy-Secret-Key-Continue-button.webp)
 
-Click **Add Site** to add the site where you want to use hCaptcha.
+To add another site, open **Overview** and click **Add Site**.
 
 ![Add Site Button Integrate hCaptcha](/images/security-spam/integrate-hcaptcha/6.-Add-Site-button-scaled.webp)
 
-Enter a **Name** to identify your website later. Enter your website address in the **Domains** field to register your domain for hCaptcha verification.
+Enter a **Name** to identify your website later. To limit the sitekey to your website, turn on **Domain allowlisting** and add your website address.
 
 For additional **Settings**, select the **hCaptcha Behavior** and **Passing Threshold**.
 
-Click **Save**. hCaptcha then shows your Site key.
+Click **Save**.
 
 ![Name Domain Settings Save Button](/images/security-spam/integrate-hcaptcha/7.-Name-Domain-Settings-Save-button.webp)
 
-Click **Copy** under the added site to copy the **Site Key**.
+Your new site appears in the **Sites** list. Copy its **Site Key** from there.
 
 ![Copy Site Key Button](/images/security-spam/integrate-hcaptcha/8.-copy-Site-Key-button.webp)
 
