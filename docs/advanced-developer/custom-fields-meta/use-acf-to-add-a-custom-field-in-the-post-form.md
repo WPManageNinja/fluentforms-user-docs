@@ -10,9 +10,9 @@ description: "ACF (Advanced Custom Fields) is a WordPress plugin that allows you
 
 Install and activate the **ACF (Advanced Custom Fields)** plugin on your **WordPress** site first.
 
-1. In the **WordPress Admin Panel**, go to **Plugins** and click **Add New Plugin**.
+1. In the **WordPress Admin Panel**, go to **Plugins** and click **Add Plugin**.
 2. Search for **ACF** in **Search Plugins** on the right. **Advanced Custom Fields (ACF)** appears.
-3. Click **Install**.
+3. Click **Install Now**.
 
 ![Install Advanced Custom Field Plugin](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/1.-Install-Advanced-Custom-Field-plugin-scaled.webp)
 
@@ -25,7 +25,7 @@ Install and activate the **ACF (Advanced Custom Fields)** plugin on your **WordP
 Add the field you want to use as a custom field in your Post Form. **For example**, to review your posts, add a Post Reviewer field in ACF and use it in your Post Form.
 
 1. In the **WordPress left sidebar**, go to **ACF** and click **Field Groups**.
-2. Click **+Add New** in the top right, or click **+Add Field Group**.
+2. Click **Add New** at the top of the page.
 
 ![Add Button Create Group Field Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/3.-Add-New-button-to-create-group-field--scaled.webp)
 
@@ -52,7 +52,7 @@ To add more fields, click **Close and Add Field** or **+ Add Field**. In this ex
 
 ### 2. Settings
 
-Select the post type that uses this field. In this example, the **Post Type** is **Post**.
+Under **Location Rules**, select the post type that uses this field. In this example, the rule is **Post Type** is equal to **Post**.
 
 >[!Note]
 > To learn more about the Settings section, see this [Documentation](https://www.advancedcustomfields.com/resources/creating-a-field-group/#settings) from the ACF plugin.
@@ -85,22 +85,22 @@ To add the “**Post Reviewer”** **ACF** **Field**:
 **Configure** the **Post Feed** so your custom field works in the **Post Form**. The feed maps your added post fields for data collection and lets users create more customized posts.
 
 1. In the **Editor** page, go to **Configuration**.
-2. Open the **Post Feeds** tab in the left sidebar.
-3. Click the **Settings Icon** to open the existing feed.
+2. Open **Integrations & Add-ons** in the left sidebar and click **Post Feeds**.
+3. Click the **Edit Icon** (pencil) to open the existing feed.
 
 > [!Note]
 > If you do not have a post feed yet, click **+ Add Post Feed** to create one. See [How to Create a Post Form with Fluent Forms](/create-a-post-form) for the full setup. The steps below use an existing feed.
 
 ![Settings Integrations Post Feed Options Use ACF to Add](/images/advanced-developer/custom-fields-meta/use-acf-to-add-a-custom-field-in-the-post-form/9.-Settings-Integrations-Post-Feed-options-scaled.webp)
 
-4. On the **Post Feed** page, scroll down to **Meta Field Mapping**. The **ACF Plugin Mapping** option is available here.
-5. Under **ACF Plugin Mapping**, choose between **General Fields** and **Advanced Fields**. The **Post Reviewer** field is a text-type general field, so map the **Textarea** field under **General Fields**.
+4. On the **Post Feed** page, scroll down to **ACF Plugin Mapping**.
+5. Under **ACF Plugin Mapping**, choose between **General Fields** and **Advanced Fields**. The **Post Reviewer** field is a text-type general field, so map it under **General Fields**. Select **Post Reviewer** in the **ACF Field** dropdown. Then enter the form field, such as `{inputs.post_reviewer}`, in **Form Field (Value)**.
 6. To add more general fields, click **+Add Another General Field** in the right corner. To delete a field, click the **Cross Icon**.
 
 > [!Note]
 > Map each **ACF field** to the matching **Fluent Forms** field in the feed settings.
 
-7. Click **Save Feed**.
+7. Click **Save**.
 
 Your ACF field integration is now active.
 
