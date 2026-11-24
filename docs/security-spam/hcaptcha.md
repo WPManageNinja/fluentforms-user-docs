@@ -1,5 +1,5 @@
 ---
-description: "hCaptcha is a privacy-focused anti-bot solution that helps prevent spam and password attacks, protect websites, and reward site owners."
+description: "Add the hCaptcha field to your Fluent Forms form to block bots and spam with a privacy-focused CAPTCHA that works in general and conversational forms."
 ---
 
 # hCaptcha
@@ -22,31 +22,27 @@ Go to **Forms** in the **Fluent Forms Navbar**. Choose a form and click it to op
 
 ![Edit hCaptcha](/images/security-spam/hcaptcha/edit-form-01-9-scaled.webp)
 
-In the **Editor**, click the **Plus Icon** and open the **Advanced Fields** module. You can also find **Advanced Fields** in the right sidebar under the **Input Fields** tab.
+In the **Editor**, click the **Plus Icon** between fields and open the **Advanced** tab. You can also search for **hCaptcha** in the right sidebar under the **Input Fields** tab.
 
-Click the **hCaptcha** input field, or drag and drop it into your editor.
+Click the **hCaptcha** field, or drag and drop it into your form.
 
 ![hCaptcha step](/images/security-spam/hcaptcha/new-14-scaled.webp)
 
 ## Customizing the hCaptcha Field
 
-After you add the hCaptcha field, hover over it and click the **Pencil Icon**. This opens the **Input Customization** tab.
-
-![Input Customization Fluent Forms](/images/security-spam/hcaptcha/input-customization-03-14-scaled.webp)
-
-In the **Input Customization** tab, you can configure these settings:
+After you add the hCaptcha field, hover over it and click the **Pencil Icon**. The **Customize** tab opens on the right with these settings:
 
 **A. Element Label:** The field title users see when they fill out the **hCaptcha** field. Enter any text that explains the purpose of the field.
 
 **B. Name Attribute:** The HTML name attribute of the input field. You do not need to change it.
 
-![Input Customize](/images/security-spam/hcaptcha/input-customize-04-scaled.webp)
+![Input Customization Fluent Forms](/images/security-spam/hcaptcha/input-customization-03-14-scaled.webp)
 
 ## Embed the Form into the Frontend
 
 Click **Save** to apply your changes.
 
-To display the form on a page or post, **copy** the **Shortcode** from the top-right corner and **paste** it into that page or post.
+To display the form on a page or post, click the **Copy** icon next to the **Shortcode** in the top bar and **paste** it into that page or post.
 
 To preview the form, click the **Preview** (eye) icon in the top bar.
 
