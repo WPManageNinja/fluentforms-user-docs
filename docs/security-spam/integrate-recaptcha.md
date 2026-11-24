@@ -48,7 +48,7 @@ Paste the keys you copied from the **Google reCAPTCHA Site** into the **Site Key
 
 Click **Save** to activate your **reCAPTCHA Integration**.
 
-To load reCAPTCHA on every form automatically, turn on **Auto Load Captcha** and choose **reCAPTCHA** as the **Captcha Type**.
+To load reCAPTCHA on every form automatically, turn on **Auto Load Captcha** and choose **Google reCAPTCHA** as the **Captcha Type**.
 
 ![Paste Keys Fluent Forms](/images/security-spam/integrate-recaptcha/5.-paste-keys-scaled.webp)
 
