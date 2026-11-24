@@ -1,5 +1,5 @@
 ---
-description: "Fluent Forms offers Honeypot Security and reCAPTCHA to protect your form entries from spambots and keep your contact lists spam-free."
+description: "Protect your Fluent Forms from spam bots with Honeypot Security and Google reCAPTCHA, plus form rules that block logged-out and empty submissions."
 ---
 
 # Spam Protection With Honeypot and Google reCAPTCHA
@@ -33,7 +33,7 @@ Click **Save**.
 
 Go to **Global Settings** in the **Fluent Forms Navbar**, expand **Security**, and select **CAPTCHA services**.
 
-Turn on the **Auto Load Captcha** toggle and select **Google reCAPTCHA**. The toggle stays off until you save valid CAPTCHA keys. Fluent Forms then loads the selected captcha on all forms automatically. You can choose Google reCAPTCHA, hCaptcha, or Cloudflare Turnstile.
+Turn on the **Auto Load Captcha** toggle. Then select **Google reCAPTCHA** in the **Captcha Type** dropdown. The toggle stays off until you save valid CAPTCHA keys. Fluent Forms then loads the selected captcha on all forms automatically. You can choose Google reCAPTCHA, hCaptcha, or Cloudflare Turnstile.
 
 Click **Save**.
 
