@@ -1,5 +1,5 @@
 ---
-description: "Fluent Forms integrates with ActiveCampaign, a marketing automation tool that helps you collect customer information and automatically adds it to your…"
+description: "Connect ActiveCampaign with Fluent Forms using your API URL and API Key, then add a feed to any form to send new contacts to your ActiveCampaign list."
 ---
 
 # Integrate ActiveCampaign
@@ -15,7 +15,7 @@ description: "Fluent Forms integrates with ActiveCampaign, a marketing automatio
 
 ## Enable ActiveCampaign Integration
 
-Go to **Integrations** in the Fluent Forms navbar and search for **ActiveCampaign**. Enable the **ActiveCampaign** module, then click **Manage** on the right.
+Go to **Integrations** in the Fluent Forms navbar and search for **ActiveCampaign**. Turn on the **ActiveCampaign** toggle, then click **Manage** on the right.
 
 ![Enable Activecampaign Integrate ActiveCampaign](/images/integrations/email-marketing/integrate-activecampaign/1.-Enable-ActiveCampaign-scaled.webp)
 
@@ -24,12 +24,10 @@ Once you enable ActiveCampaign, Fluent Forms asks for the **ActiveCampaign API U
 > [!Note]
 > If you do not have an ActiveCampaign account, [create one here](https://www.activecampaign.com/free).
 
-![Activecampaign API Settings Page](/images/integrations/email-marketing/integrate-activecampaign/2.-ActiveCampaign-API-Settings-page-scaled.webp)
-
 ### Get the ActiveCampaign API URL and API Key
 
 1. Log in to your [ActiveCampaign account](https://www.activecampaign.com/login).
-2. Open **Settings** in the left sidebar and go to the **Developer** tab.
+2. Click the **Settings** (gear) icon in the top right corner and open **Developer** in the left menu.
 3. Click **Copy API URL** and **Copy API Key** to copy both credentials.
 
 ![Copy Activecampaign API URL And Key](/images/integrations/email-marketing/integrate-activecampaign/3.-Copy-ActiveCampaign-API-URL-and-Key-scaled.webp)
@@ -42,22 +40,24 @@ Once you enable ActiveCampaign, Fluent Forms asks for the **ActiveCampaign API U
 
 ![Paste API URL And Key](/images/integrations/email-marketing/integrate-activecampaign/4.-Paste-API-URL-and-Key-scaled.webp)
 
-Fluent Forms now shows that ActiveCampaign is connected. Click **Verify Connection Again** to verify the connection, or **Disconnect ActiveCampaign** to disconnect it.
+Fluent Forms now shows that ActiveCampaign is connected. Click **Verify connection again** to verify the connection, or **Disconnect ActiveCampaign** to disconnect it. Confirm with **Disconnect**. Any form that uses the integration stops sending until you connect again.
 
 ![Integreted Activecampaign Fluent Forms](/images/integrations/email-marketing/integrate-activecampaign/5.-Integreted-ActiveCampaign-scaled.webp)
 
 ## Integrate ActiveCampaign into Fluent Forms
 
-Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **ActiveCampaign**, and open the **Configuration** tab.
+Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **ActiveCampaign**, and click **Configuration** in the form's top bar.
 
 > [!Note]
 > If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
-![Settings Integrate ActiveCampaign](/images/integrations/email-marketing/integrate-activecampaign/6.-Desired-Form-Settings-scaled.webp)
-
-On the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select the **ActiveCampaign Integration** feed from the drawer.
+On the form's **Configuration** page, open **Integrations & Add-ons** in the left menu, click **Integrations**, and then click **Add New Integration**.
 
 ![Configure Integrations Page Integrate ActiveCampaign](/images/integrations/email-marketing/integrate-activecampaign/7.-Configure-Integrations-page-scaled.webp)
+
+In the **Add an integration** drawer, search for **ActiveCampaign** and select **ActiveCampaign Integration**.
+
+![Select ActiveCampaign Integration](/images/integrations/email-marketing/integrate-activecampaign/7.-Select-ActiveCampaign-Integration.webp)
 
 Enter a **Name** for your integration feed. This field is required. Then select the **ActiveCampaign List** that receives the submitted form data.
 
@@ -77,13 +77,15 @@ After you select the list, the feed settings open with these options:
 7. **Enable Instant Responder:** Check this option, and ActiveCampaign sends any instant responders you set up when the contact is added to the list. This option is not available on a free trial.
 8. **Enable Send the last broadcast campaign:** Check this option, and ActiveCampaign sends the last campaign to the list or adds the contact. This option is also not available on a free trial.
 9. **Conditional Logics:** Run the ActiveCampaign integration only when your submission values match the conditions you set. See the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
-10. **Enable This Feed:** Check this option to keep the feed enabled so all its actions run.
+10. **Enable This Feed:** Keep this toggle on at the top of the feed so all its actions run.
+
+![ActiveCampaign Feed Settings](/images/integrations/email-marketing/integrate-activecampaign/8.-ActiveCampaign-Feed-Settings.webp)
 
 Click **Save** when the setup is done. **ActiveCampaign** is now connected to this form.
 
 ![Save Settings Button Integrate ActiveCampaign](/images/integrations/email-marketing/integrate-activecampaign/9.-Save-Settings-button-scaled.webp)
 
-The **ActiveCampaign Integration Feed** now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
+The **ActiveCampaign Integration Feed** now appears in the list. Click the **Edit Icon** to modify it, the **Copy Icon** to duplicate it, or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
 
 ![Added Activecampaign Integration Feed](/images/integrations/email-marketing/integrate-activecampaign/10.-Added-ActiveCampaign-Integration-feed-scaled.webp)
 
