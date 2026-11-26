@@ -19,9 +19,11 @@ Go to **Forms** in the top navbar. Click **Edit** to open the **Editor** of your
 
 ## Choose a Dynamic Value (Shortcode)
 
-Select the input field and go to **Advanced Options**. In the right panel, click the **three-dot** menu next to **Dynamic Default Value** (**Default Value** on some fields). A list of all available options appears.
+Select the input field and go to **Advanced Options**. In the right panel, click the **three-dot** menu next to **Default Value**. On **Dropdown**, **Radio**, and **Checkbox** fields, this setting is called **Dynamic Default Value**. A list of all available options appears.
 
- * **Populate by GET Param:** Sets the default value from the query string found in the URL. Keep the `get.` part, or it does not work. The shortcode is – `{get.input_text}`. For a full walkthrough, see [Set Default Form Value from URL Parameters](/set-default-form-value-from-url-parameters).
+![Default Value Scaled1](/images/configuring-forms/conditional-logic/dynamic-default-value/default-value-scaled1.webp)
+
+ * **Populate by GET Param:** Sets the default value from the query string found in the URL. The shortcode is – `{get.<Name Attribute>}`. Fluent Forms fills in the field's **Name Attribute** after `get.`, for example `{get.email}`. That text is the URL parameter key, so keep the `get.` part. For a full walkthrough, see [Set Default Form Value from URL Parameters](/set-default-form-value-from-url-parameters).
 
  * **Admin Email:** Inserts the site administrator’s email address from your WordPress settings. The shortcode is – `{wp.admin_email}`
 
@@ -59,14 +61,12 @@ Select the input field and go to **Advanced Options**. In the right panel, click
 
  * **User Operating System:** Sets the value from the user’s operating system (Windows, macOS). The shortcode is – `{browser.platform}`
 
- * **FluentCRM Data:** Pulls specific data from FluentCRM (user tags or segments). Use it to tailor forms for CRM-integrated workflows. The shortcode is – `{fluentcrm.CONTACT_DATA_KEY}`. Learn more in [Pre-Fill Form Fields with FluentCRM Data](/pre-fill-form-fields-with-fluentcrm-data).
-
  * **Random String with Prefix:** Generates a random string each time the form loads, so you can create unique strings. The shortcode is – `{random_string.your_prefix}`. Change the prefix to any text you like.
+
+ * **FluentCRM Data:** Pulls data from the logged-in visitor's FluentCRM contact, such as contact fields, custom fields, lists, and tags. This option appears only when FluentCRM is installed and active. The shortcode is – `{fluentcrm.CONTACT_DATA_KEY}`. Learn more in [Pre-Fill Form Fields with FluentCRM Data](/pre-fill-form-fields-with-fluentcrm-data).
 
  * **Cookie Value:** Reads the value of a cookie, which is a small piece of data a server sends to the user’s browser. The browser can store it and send it back to the same server with later requests. The shortcode is – `{cookie.cookie_name}`.
 
 Click **Save**. The field populates dynamically when visitors load the form.
 
-For every available smart code, see [Shortcodes in Confirmation Settings](/shortcodes-in-confirmation-settings). To use a submitted value in a later step, see [Dynamic Input Values In Form Steps](/dynamic-input-values-in-form-steps).
-
-![Default Value Scaled1](/images/configuring-forms/conditional-logic/dynamic-default-value/default-value-scaled1.webp)
+For every available smart code, see [Form Editor Smart Codes](/form-editor-smart-codes). To use a submitted value in a later step, see [Dynamic Input Values In Form Steps](/dynamic-input-values-in-form-steps).

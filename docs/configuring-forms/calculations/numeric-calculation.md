@@ -34,7 +34,7 @@ Add **two numeric fields** ("Number One" and "Number Two"). Then add a **third n
 
 Hover over the **Result** field, where you want to show the result, and click the **Edit (pencil) Icon**. In the right panel, go to **Advanced Options**.
 
-Tick the **Enable Calculation** checkbox under **Calculation Field Settings** to activate the calculation box.
+Tick the **Enable Calculation** checkbox under **Calculation Field Settings** to activate the calculation box. Once calculation is on, the field becomes read-only. Users see the result but cannot type in it.
 
 ![Enable Calculations Expression Numeric Calculation](/images/configuring-forms/calculations/numeric-calculation/Enable-calculations-expression-03-scaled.webp)
 
@@ -42,11 +42,18 @@ Tick the **Enable Calculation** checkbox under **Calculation Field Settings** to
 
 Click the **Document Icon** to show all the available input fields.
 
-Select the numeric fields to use in the calculation (Number One, Number Two). Then add a mathematical operator between them (+, -, *, /).
+Select the numeric fields to use in the calculation (Number One, Number Two). Each one is inserted as a smartcode in the form `{input.<name>}`, where `<name>` is the field's **Name Attribute**. Then add a mathematical operator between them (+, -, *, /).
 
-- Example: Number One + Number Two
+- Example: `{input.numeric_field} + {input.numeric_field_1}`
+- Example: `round({input.numeric_field} / {input.numeric_field_1}, 2)`
 
-> Avoid spaces between fields and operators. The screenshot below shows the correct format.
+Spaces around operators are optional. `{input.numeric_field}+{input.numeric_field_1}` works the same way.
+
+The list also includes other fields that can feed a calculation:
+
+- **Dropdown**, **Checkbox**, and **Radio** fields, through the number you set in their **Calc Values** option. See [Dropdown Field](/dropdown-field), [Checkbox Field](/checkbox-field), and [Radio Field](/radio-field).
+- **Repeat Field** columns. See [Add Calc Values on the Repeat Field](/add-calc-values-on-the-repeat-field).
+- Payment fields, such as **Payment Item** and **Custom Payment Amount**.
 
 ![Document Icon](/images/configuring-forms/calculations/numeric-calculation/Document-icon-04-scaled.webp)
 
@@ -68,19 +75,21 @@ This is the form with the numeric calculation.
 
 Fluent Forms also supports calculations in [Conversational Forms](/create-a-conversational-form), so responses update from user input.
 
-**Example**
+### Example
 
 In an order form where a user selects the number of items, you can calculate the total price dynamically:
 Quantity * Price Per Item = Total Price
 
-**Supported Symbols**
+## Supported Symbols
+
+You can use these operators and functions in any calculation expression.
 
 | Symbol | Explanation |
 |---|---|
 | + | Addition Operator eg. 2+3 results 5 |
 | - | Subtraction Operator eg. 2-3 results -1 |
 | / | Division operator eg 3/2 results in 1.5 |
-|  *| Multiplication Operator eg. 2*3 results 6 |
+| * | Multiplication Operator eg. 2*3 results 6 |
 | Mod | Modulus Operator eg. 3 Mod 2 results 1 |
 | ( | Opening Parenthesis |
 | ) | Closing Parenthesis |
@@ -93,10 +102,11 @@ Quantity * Price Per Item = Total Price
 | P | Permutation operator eg. 4P2 returns 12 |
 | ! | factorial operator eg. 4! returns 24 |
 | log | logarithmic function with base 10 eg. log 1000 returns 3 |
-| ln | natural log function with base e eg. ln 2 returns .3010 |
+| ln | natural log function with base e eg. ln 2 returns 0.693 |
 | pow | power function with two operator pow(2,3) returns 8 |
 | ^ | power operator eg. 2^3 returns 8 |
 | root | underroot function root 4 returns 2 |
+| abs | Absolute value eg. abs(-5) returns 5 |
 | sin | Sine function |
 | cos | Cosine function |
 | tan | Tangent function |
@@ -114,3 +124,5 @@ Quantity * Price Per Item = Total Price
 | floor | Use case: floor(3.235723663) = 3 |
 | max | Use case: max(10, 15) = 15 |
 | min | Use case: min(10, 15) = 10 |
+
+The trigonometric functions use degrees, not radians. For example, sin(90) returns 1.

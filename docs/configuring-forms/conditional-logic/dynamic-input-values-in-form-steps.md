@@ -14,7 +14,7 @@ This guide shows you how to add dynamic input values to form steps.
 
 ## Creating a Multi-Step Form
 
-To use dynamic input values, first create a multi-step form. If you are new to multi-step forms, read [Creating a Multi-Step Form in Fluent Forms](/creating-a-multi-step-form).
+To use dynamic input values, first create a multi-step form. Multi-step forms need the **Form Step** field (Pro). If you are new to multi-step forms, read [Creating a Multi-Step Form in Fluent Forms](/creating-a-multi-step-form).
 
 For this example, create a multi-step form where the user enters their **Name** in the first step. In the second step, display their name as a personalized greeting.
 
@@ -22,9 +22,9 @@ For this example, create a multi-step form where the user enters their **Name** 
 
 ## Adding Custom HTML Input Field
 
-Add a **Custom HTML** input field from the **General Field** section to show the name input data.
+Add a **Custom HTML** input field from the **General Fields** section to show the name input data.
 
-A code sample appears at the bottom right of the **HTML** input areas. To learn more about the **Custom HTML** field, read the [Custom HTML Field](/custom-html-field) documentation.
+A **Dynamic SmartCodes** list appears below the **HTML** editor, with a sample such as `{dynamic.YOUR_INPUT_NAME}`. To learn more about the **Custom HTML** field, read the [Custom HTML Field](/custom-html-field) documentation.
 
 ![Custom HTML Field Add](/images/configuring-forms/conditional-logic/dynamic-input-values-in-form-steps/custom-html-field-add-02-scaled.webp)
 
