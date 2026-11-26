@@ -1,5 +1,5 @@
 ---
-description: "Integrating Mailchimp with Fluent Forms helps you automatically send a contact list from your WordPress website to your Mailchimp account when a form is…"
+description: "Connect Mailchimp with Fluent Forms using an API key, then add a Mailchimp feed to any form to send new subscribers to your audience automatically."
 ---
 
 # Integrate Mailchimp
@@ -15,7 +15,7 @@ The [Mailchimp](https://mailchimp.com/) integration sends a contact list from yo
 
 ## Enable Mailchimp Integration
 
-Go to **Integrations** in the Fluent Forms navbar and search for **Mailchimp**. Enable the **Mailchimp** module, then click **Manage** on the right.
+Go to **Integrations** in the Fluent Forms navbar and search for **Mailchimp**. Turn on the **Mailchimp** toggle, then click **Manage** on the right.
 
 ![Enabled Mailchimp Fluent Forms](/images/integrations/email-marketing/integrate-mailchimp/1.-Enabled-Mailchimp-scaled.webp)
 
@@ -29,23 +29,19 @@ Once you enable Mailchimp, Fluent Forms asks for the **Mailchimp API Key** of yo
 ### Get the Mailchimp API Key
 
 1. Log in to your [Mailchimp Account](https://login.mailchimp.com/?locale=en).
-2. Click **Profile** in the top right corner, then click **Profile** again.
+2. Click your profile icon in the top right corner, then click **Profile**.
 
 ![Profile Icon Mailchimp](/images/integrations/email-marketing/integrate-mailchimp/3.-Profile-Icon-of-Mailchimp-scaled.webp)
 
-3. Open the **Extras** tab and select **API keys** from the dropdown list.
+3. Open the **Extras** tab, select **API keys** from the dropdown list, and click **Create a key**.
 
 ![Extras API Key Button](/images/integrations/email-marketing/integrate-mailchimp/4.-Extras-API-Key-button-scaled.webp)
 
-4. Click **Create A Key**.
-
-![Create API Key Button](/images/integrations/email-marketing/integrate-mailchimp/5.-Create-API-Key-button.webp)
-
-5. Enter a **Name** for your API key and click **Generate Key**.
+4. Enter a **Name** for your API key and click **Generate Key**.
 
 ![Generate API Key](/images/integrations/email-marketing/integrate-mailchimp/6.-Generate-API-Key.webp)
 
-6. Click **Copy to Clipboard** to copy your Mailchimp API key.
+5. Click **Copy To Clipboard** to copy your Mailchimp API key. Mailchimp shows the full key only once, so copy it right away.
 
 ![Copy API Key](/images/integrations/email-marketing/integrate-mailchimp/7.-Copy-API-key.webp)
 
@@ -57,22 +53,24 @@ Once you enable Mailchimp, Fluent Forms asks for the **Mailchimp API Key** of yo
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-mailchimp/8.-Paste-API-Key-scaled.webp)
 
-Fluent Forms now shows that Mailchimp is connected. Click **Verify Connection Again** to verify the connection, or **Disconnect Mailchimp** to disconnect it.
+Fluent Forms now shows that Mailchimp is connected. Click **Verify connection again** to verify the connection, or **Disconnect Mailchimp** to disconnect it. Confirm with **Disconnect**. Any form that uses the integration stops sending until you connect again.
 
 ![Verifydisconnect API Key](/images/integrations/email-marketing/integrate-mailchimp/9.-VerifyDisconnect-API-Key-scaled.webp)
 
 ## Integrate Mailchimp into Fluent Forms
 
-Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **Mailchimp**, and open the **Configuration** tab.
+Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **Mailchimp**, and click **Configuration** in the form's top bar.
 
 > [!Note]
 > If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
-![Open Settings Integrate Mailchimp](/images/integrations/email-marketing/integrate-mailchimp/Open-Desired-Form-Settings-5-scaled.webp)
-
-On the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select **Mailchimp Feed** from the drawer.
+On the form's **Configuration** page, open **Integrations & Add-ons** in the left menu and click **Integrations**. Then click **Add New Integration**.
 
 ![Add Integration Button Integrate Mailchimp](/images/integrations/email-marketing/integrate-mailchimp/10.-Add-New-Integration-button-1-scaled.webp)
+
+In the **Add an integration** drawer, search for **Mailchimp** and select **Mailchimp Feed**.
+
+![Select Mailchimp Feed](/images/integrations/email-marketing/integrate-mailchimp/10.-Select-Mailchimp-Feed.webp)
 
 Enter a **Name** for your integration feed. This field is required. Then select the **Mailchimp List** that receives the submitted form data.
 
@@ -90,12 +88,14 @@ After you select the list, the feed settings open with these options:
 8. **Enable ReSubscription:** Re-add subscribers who are inactive or were previously unsubscribed to the active list.
 9. **Mark as VIP Contact:** Mark contacts as VIP when this option is enabled.
 10. **Conditional Logics:** Run this Mailchimp integration based on submission values and your conditional logic. See the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
-11. **Enable This Feed:** Keep this integration feed enabled so all actions run.
+11. **Enable This Feed:** Keep this toggle on at the top of the feed so all actions run.
+
+![Enable This Feed](/images/integrations/email-marketing/integrate-mailchimp/12.-Enable-This-Feed.webp)
 
 Click **Save** when the setup is done. **Mailchimp** is now connected to this form.
 
 ![Save Settings Button Integrate Mailchimp](/images/integrations/email-marketing/integrate-mailchimp/12.-Save-Settings-button-scaled.webp)
 
-The **Mailchimp Integration Feed** now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
+The **Mailchimp Integration Feed** now appears in the list. Click the **Edit Icon** to modify it, the **Copy Icon** to duplicate it, or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
 
 ![Added Mailchimp Integration Feed](/images/integrations/email-marketing/integrate-mailchimp/13.-Added-Mailchimp-Integration-Feed-scaled.webp)
