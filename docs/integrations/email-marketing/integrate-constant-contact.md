@@ -1,5 +1,5 @@
 ---
-description: "In Fluent Forms, integrating Constant Contact, an integrated email marketing, marketing automation, and small business CRM, allows you to grow your…"
+description: "Connect Constant Contact V3 with Fluent Forms to add form submissions to your Constant Contact lists and tags and grow your email audience automatically."
 ---
 
 # Integrate Constant Contact
@@ -10,32 +10,32 @@ description: "In Fluent Forms, integrating Constant Contact, an integrated email
 > **Constant Contact** requires **Fluent Forms Pro**. See [Upgrade to Fluent Forms Pro Add-on](/upgrade-to-pro-add-on).
 
 > [!Note]
-> The Integrations page lists two cards: **Constant Contact** (the older version) and **Constant Contact V3**. This guide covers **Constant Contact V3**.
+> The Integrations page lists two cards: **Constant Contact** (the older version) and **Constant Contact V3**. Constant Contact has deprecated its V2 API, so this guide covers **Constant Contact V3**.
 
 ## Enable Constant Contact Integration
 
 Go to **Integrations** in the **Fluent Forms Navbar**, search for **Constant Contact V3**, and find the **Constant Contact V3** integration module.
 
-Turn on the **Toggle** to enable **Constant Contact V3**, then click the **Manage** button that appears on the right side.
+Turn on the **Toggle** to enable **Constant Contact V3**, then click the **Manage** button next to it.
 
 ![Enable Constant Contact V3 Integrate Constant Contact](/images/integrations/email-marketing/integrate-constant-contact/1.-Enable-Constant-Contact-V3-scaled.webp)
 
-Fluent Forms asks you to enter your **Constant Contact Client ID** and **Client Secret**.
+Fluent Forms opens the **Constant Contact V3 API Settings** page. It asks for your **Constant Contact Client ID** and **Client Secret**.
 
 > [!Tip]
-> Follow the **Instructions Guide** at the top of **Constant Contact V3 API** settings to get your credentials.
+> Follow the **Constant Contact V3 API** instructions at the top of the settings page to get your credentials.
 
 ![Constant Contact V3 API Settings Page](/images/integrations/email-marketing/integrate-constant-contact/2.-Constant-Contact-V3-API-Settings-page-scaled.webp)
 
 ### Get the Constant Contact Client ID and Client Secret
 
 1. Log in to your **[Constant Contact Developer Account](https://developer.constantcontact.com/)**.
-2. Click **New Application**.
+2. Open **My Applications** and click **New Application**.
 
 ![Application Button Fluent Forms](/images/integrations/email-marketing/integrate-constant-contact/3.-New-Application-Button-scaled.webp)
 
-3. Enter a **Name** for your **New** **Application**.
-4. Under **Application OAuth2 Settings**, choose “**Authorization Code Flow and Implicit Flow”** and **Rotating Refresh Tokens**.
+3. Enter a name for your application. This field is required, and the name cannot include “Constant Contact”.
+4. Under **Application OAuth2 Settings**, choose **Authorization Code Flow and Implicit Flow**. Under the refresh token type, choose **Rotating Refresh Tokens**.
 5. Click **Create**.
 
 ![Create Button Fluent Forms](/images/integrations/email-marketing/integrate-constant-contact/4.-Create-button-scaled.webp)
@@ -93,7 +93,7 @@ Fluent Forms now shows that your **Constant Contact** is connected. Click **Veri
 
 ## Integrate Constant Contact in Forms
 
-Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **Constant Contact**, and open the **Configuration** tab.
+Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **Constant Contact**, and click **Configuration** in the form's top bar.
 
 > [!Note]
 > If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
