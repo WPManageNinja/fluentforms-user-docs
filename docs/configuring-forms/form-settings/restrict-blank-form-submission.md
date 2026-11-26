@@ -26,9 +26,12 @@ Open the **Configuration** tab in the top bar and select **Scheduling & Restrict
 
 Turn on the **Deny empty submission** toggle.
 
+> [!Note]
+> This option only works on forms that have no required fields. If a form has a required field, the required-field validation already stops blank submissions.
+
 In **Message Shown Against on Empty Submission**, enter the message visitors see when they submit a blank form. The default is "Sorry, you cannot submit an empty form. Let's hear what you wanna say."
 
-**For example:** "Your form submission is incomplete. Please fill out all required fields." This message tells users why their submission was blocked.
+**For example:** "Please fill in at least one field before you submit." This message tells users why their submission was blocked.
 
 Click **Save**.
 
@@ -37,3 +40,5 @@ Click **Save**.
 The screenshot below shows the preview of a blocked blank submission.
 
 ![Blank submission preview](/images/configuring-forms/form-settings/restrict-blank-form-submission/Preview-blank-restrict-form-04.webp)
+
+Next, see [User Login Requirement](/user-login-requirement) to allow only logged-in users, or [Form Restrictions](/form-restrictions-feature) to limit the number of entries.

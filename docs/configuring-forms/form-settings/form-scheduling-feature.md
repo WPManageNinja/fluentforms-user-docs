@@ -14,20 +14,22 @@ Go to **Forms** in the top navbar. Click **Edit** on the form you want to schedu
 
 Click the **Configuration** tab in the top bar and select **Scheduling & Restrictions** in the left rail. This panel also holds the [form restrictions](/form-restrictions-feature) options.
 
-> [!Note]
-> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one. 
-
 ![Fluent Forms](/images/configuring-forms/form-settings/form-scheduling-feature/01-2-scaled-2.webp)
+
+> [!Note]
+> If you do not have any existing forms, read [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms) to create a new one.
 
 ## Form Schedule
 
 Turn on the **Form Scheduling** toggle. Then set these options:
 
-- **Select Weekdays:** Check the weekdays when the form is open, or use **Check all** to select every day.
+- **Select Weekdays:** Check the weekdays when the form is open, or use **Check all** to select every day. On a day you leave unchecked, visitors see the **Form Expired Message**.
 - **Submission Starts:** Set the date and time when form submission starts.
 - **Submission Ends:** Set the date and time when form submission ends.
-- **Form Waiting Message:** Enter the message visitors see before the submission start date.
-- **Form Expired Message:** Enter the message visitors see after the form expires.
+- **Form Waiting Message:** Enter the message visitors see before the submission start date. The default is "Form submission is not started yet."
+- **Form Expired Message:** Enter the message visitors see after the form expires. The default is "Form submission is now closed."
+
+**For example:** To open registrations Monday to Friday between two dates, check Monday to Friday and set both dates. On weekends, visitors see the expired message.
 
 ![Fluent Forms](/images/configuring-forms/form-settings/form-scheduling-feature/02-6-scaled-2.webp)
 

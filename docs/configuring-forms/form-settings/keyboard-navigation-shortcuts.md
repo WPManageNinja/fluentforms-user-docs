@@ -15,16 +15,22 @@ Go to the Fluent Forms Dashboard and open the **Forms** section. Choose an exist
 
 ![Edit Keyboard Navigation & Shortcuts](/images/configuring-forms/form-settings/keyboard-navigation-shortcuts/edit-form-01-scaled-2.webp)
 
+These shortcuts work in the form editor for admins who build forms. They do not change how visitors fill out the form on your site. On a Mac, use **⌘ (Command)** instead of **Ctrl**.
+
 - **/**: Focus on search. Press the / key to jump to the search bar and search for form fields.
 
 ![Search Fluent Forms](/images/configuring-forms/form-settings/keyboard-navigation-shortcuts/search-01-scaled.webp)
-
-- **Tab:** Move forward. Press Tab to move between fields, options, or elements in the form editor without the mouse.
-
-- **Shift + Tab:** Move backward. It works like Tab in reverse, so you can revisit fields you just passed.
 
 - **Enter:** Add a form field. When you select a field with the keyboard, press Enter to add it to your form.
 
 ![Keyboard Navigation & Shortcuts step](/images/configuring-forms/form-settings/keyboard-navigation-shortcuts/02-10-scaled.webp)
 
-Use these shortcuts to build forms faster.
+- **Ctrl + S:** Save the form without clicking the **Save** button.
+- **Ctrl + Z:** Undo your last change in the editor.
+- **Ctrl + Shift + Z:** Redo the change you just undid.
+- **Delete or Backspace:** Remove the selected field. This works when your cursor is not inside a text box.
+- **Ctrl + K:** Open the global search.
+
+You can also use your browser's standard **Tab** and **Shift + Tab** keys to move forward and backward between fields, options, and buttons in the editor.
+
+Next, learn more about the editor layout in the [Form Builder](/user-interface) guide.

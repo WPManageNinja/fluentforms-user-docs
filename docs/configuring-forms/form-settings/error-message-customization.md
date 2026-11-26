@@ -34,7 +34,9 @@ Manage validation messages site-wide from **Global Settings**. Go to **General â
 
 ### Validation messages
 
-These messages appear when something goes wrong while a visitor fills out a form. Fluent Forms uses the global message when a field has no custom message. Use **{labels.current_field}** to insert the field label automatically.
+These messages appear when something goes wrong while a visitor fills out a form. Fluent Forms uses the global message when a field has no custom message. Use **{labels.current_field}** to insert the field label automatically. For example, "{labels.current_field} is required" shows "Email is required" on an Email field.
+
+The page groups the messages under **General Validation**, **Value Limits**, **File Uploads**, and **Other**.
 
 * **Required Field:** Shows when a required field is empty.
 * **Email:** Shows when the email address format is incorrect.
@@ -48,6 +50,8 @@ These messages appear when something goes wrong while a visitor fills out a form
 * **Maximum File Size:** Shows when the uploaded file is too large.
 * **Maximum File Count:** Shows when too many files are uploaded.
 * **Valid Phone Number:** Shows when the phone number format is incorrect.
+* **Minimum Selection:** Shows when a visitor selects fewer options than the minimum allowed. It is under **Other**.
+* **Maximum Selection:** Shows when a visitor selects more options than allowed. It is under **Other**.
 
 ![Validation messages settings](/images/configuring-forms/form-settings/error-message-customization/global-error-message-scaled.webp)
 

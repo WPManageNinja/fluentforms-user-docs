@@ -16,7 +16,7 @@ Set the rules and messaging that shape the submission experience.
 - [Require User Login](/user-login-requirement) — limit a form to logged-in users.
 - [Form Restrictions](/form-restrictions-feature) — cap entries, set limits, and control access.
 - [Form Scheduling](/form-scheduling-feature) — open and close a form on a schedule.
-- [Keyboard Navigation & Shortcuts](/keyboard-navigation-shortcuts) — let users move through forms faster.
+- [Keyboard Navigation & Shortcuts](/keyboard-navigation-shortcuts) — speed up form building with editor shortcuts.
 
 ## Conditional Logic & Dynamic Values
 
@@ -42,6 +42,17 @@ With the behavior set up, decide what happens after submission:
 
 - [Set Up Admin & User Email Notifications](/setup-adminuser-email-notifications) — notify the right people on every entry.
 - [Set Up a Confirmation Message](/setup-form-submission-confirmation-message) — tell users their submission went through.
+- [Conditional Confirmation Message](/conditional-confirmation-message) (Pro) — show a different confirmation based on user answers.
+- [Set Up Double Opt-in Emails](/set-up-double-opt-in-emails) (Pro) — confirm email addresses before an entry counts.
+
+Other per-form settings live in their own sections:
+
+- [Admin Approval](/admin-approval-feature) (Pro) — review entries before they are accepted.
+- [Automatically Delete Form Entries](/automatically-delete-form-entries) — remove old entries on a schedule.
+- [Front End Entry View](/frontend-entry-view) — view a submitted entry through a unique link.
+- [Form Layout Settings](/form-layout-settings) — set label placement and layout.
+- [Dedicated Landing Page](/dedicated-landing-page) (Pro) — publish a form on its own page.
+- [Surveys and Polls](/surveys-and-polls) — show survey results to users (Pro).
 - [MCP for AI Agents](/mcp-for-ai-agents) — let AI assistants read and manage your forms.
 
 Need a hand along the way? See [How to Get Support](/get-support).
