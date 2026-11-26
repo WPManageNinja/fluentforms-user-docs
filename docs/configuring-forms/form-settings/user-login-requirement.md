@@ -4,7 +4,7 @@ description: "The User Login Requirement feature lets you restrict a form so onl
 
 # User Login Requirement
 
-The **User Login Requirement** feature lets you restrict a form so only logged-in WordPress users can submit it. Visitors who are not signed in see a custom message.
+The **User Login Requirement** feature lets you restrict a form so only logged-in WordPress users can view and submit it. Visitors who are not signed in do not see the form. They see a custom message in its place.
 
 This guide shows you how to enable and customize the login requirement in Fluent Forms.
 
@@ -26,12 +26,12 @@ Open the **Configuration** tab and go to **Scheduling & Restrictions**. Turn on 
 
 ## Customize logged-out message
 
-Enter the message in **Require Login Message**. Visitors who are not logged in see this message. The default is "You must be logged in to submit the form."
+Enter the message in **Require Login Message**. Visitors who are not logged in see this message instead of the form. The field supports shortcodes and HTML, so you can add a login link. The default is "You must be logged in to submit the form."
 
-**For example:** “You must be logged in to submit this form. Please log in or register to continue.”
+**For example:** "You must be logged in to submit this form. Please log in or register to continue."
 
 This text prompts users to sign in or create an account before they submit the form. To let visitors register from a form, see [How to Create a WordPress User Registration Form](/create-a-wordpress-user-registration-form).
 
 Click **Save**.
 
-![Logged-out user message](/images/configuring-forms/form-settings/user-login-requirement/user-loggin-message-03-scaled.webp)
+Next, see [Form Restrictions](/form-restrictions-feature) to limit how many entries each user can submit.
