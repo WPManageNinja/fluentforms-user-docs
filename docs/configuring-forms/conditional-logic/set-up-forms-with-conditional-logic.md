@@ -27,15 +27,17 @@ Click the **Arrow Icon** to open **Advanced Options**, scroll down to **Conditio
 
 ![Input Customization Fluent Forms](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/2.-Input-Customization-scaled.webp)
 
-## Conditional Match
+## Condition Match
 
 When you enable **Conditional Logic**, a **Condition Match** option appears with three choices:
 
-**A. Any:** The form user must meet at least one of the conditions on submission to trigger the actions.
+**A. Any:** The form user must meet at least one of the conditions to trigger the action.
 
-**B. All:** The form user must meet all the conditions on submission to trigger the actions.
+**B. All:** The form user must meet all the conditions to trigger the action.
 
-**C. Group:** This advanced option lets you **create multiple conditions within groups**. The "**Any**" and "**All**" options decide whether one or all conditions must be met. The "**Group**" option sets one group of conditions against another with the "**OR**" operator. An action triggers if at least one group of conditions is met. You can also **Name** your **Groups**.
+**C. Group:** This advanced option lets you **create multiple conditions within groups**. Inside a group, every condition must match (AND). Groups are joined with "**OR**", so the action triggers when at least one group is fully met. Click **+ OR** to add another group. You can also **Name** your **Groups**.
+
+Fields show or hide live as the user fills in the form. Fluent Forms checks the same conditions again on submission.
 
 ## Fields to set Conditions
 
@@ -47,7 +49,7 @@ After you select the **Condition Match**, set the **Parameter**, its **Operator*
 
 The field triggers the action when the condition is met.
 
-To add a condition, click the **Plus Icon**. To delete a condition, click the **Minus (-) Icon** in the right corner.
+To add a condition, click the **Plus Icon**. To delete a condition, click the **Minus (-) Icon**. With **Any** or **All**, these icons sit below the condition rows. With **Group**, the plus icon sits at the right of each row, and the **+ OR** button adds a new group.
 
 Click **Save** in the top bar to activate the conditions. To see the result, click the **Preview** (eye) icon.
 
@@ -59,7 +61,7 @@ The examples below explain all three conditional matches in detail.
 
 ### A. Any Conditional Match
 
-**For example**, select **"Email"** and **"Payment Item"** as the parameters, use **"contains"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
+**For example**, select **"Email"** and **"Payment Item"** as the parameters, use **"includes"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
 
 With the "**Any**" match, the **Payment Method** field is visible when users either provide an email address containing **“@gmail.com”** or select the **“Fluent Forms”** product. Otherwise, the field stays hidden.
 
@@ -71,7 +73,7 @@ This is a **preview** of a form where the user met one condition (selecting the 
 
 ### B. All Conditional Match
 
-**For example**, select **"Email"** and **"Payment Item"** as the parameters, use **"contains"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
+**For example**, select **"Email"** and **"Payment Item"** as the parameters, use **"includes"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
 
 With the "**All**" match, the **Payment Method** field is visible only when users both provide an email address containing **“@gmail.com”** and select the **“Fluent Forms”** product. Otherwise, the field stays hidden.
 
@@ -85,9 +87,9 @@ This is a **preview** of a form where the user met all the conditions (providing
 
 Select the “Group” conditional match and set two Groups of Conditions with the OR operator. When users meet any one group, the field is visible.
 
-**For example**, in Group 1, select **"Email"** and **"Payment Item"** as the parameters, use **"contains"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
+**For example**, in Group 1, select **"Email"** and **"Payment Item"** as the parameters, use **"includes"** and **"equal"** as the operators, and enter **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
 
-In Group 2, select “**Name [First Name]**”, **"Email"** and **"Payment Item"** as the parameters, use “**starts with**”, **"contains"** and **"equal"** as the operators, and enter “**Z**”, **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
+In Group 2, select “**Name [First Name]**”, **"Email"** and **"Payment Item"** as the parameters, use “**starts with**”, **"includes"** and **"equal"** as the operators, and enter “**Z**”, **"@gmail.com"** and **"Fluent Forms"** as the corresponding values.
 
 With the "**Group**" match, the **Payment Method** field is visible when users meet either of these:
 
@@ -106,4 +108,4 @@ This is a **preview** of a form where the user met **All Conditions** under **Gr
 
 ![Preview Group Two Conditionals Set up Forms with](/images/configuring-forms/conditional-logic/set-up-forms-with-conditional-logic/10.-Preview-of-Group-two-Conditionals.webp)
 
-The condition operators are: equal, not equal, greater than, less than, greater than or equal, less than or equal, contains, does not contain, starts with, ends with, and matches regex.
+The condition operators for text fields are: equal, not equal, greater than, less than, greater than or equal, less than or equal, includes, not includes, starts with, ends with, and Regex match. A **Checkbox** parameter offers only equal and not equal.

@@ -4,13 +4,16 @@ description: "If your website contains a sticky header menu. In that case, users
 
 # Set Scroll Offset of Form Steps
 
-If your site has a sticky header, the form can hide under it when auto-scroll runs in a multi-step form. Set a Scroll Offset to adjust the scroll position so the form stays fully visible.
+When a visitor moves to another step in a multi-step form (Pro), the page scrolls back to the start of the steps. If your site has a sticky header, the form can hide under it. Set a Scroll Offset to control where the page scrolls to.
 
 This guide shows you how to set the Scroll Offset.
 
 ## Setting Scroll Offset
 
-To set the Scroll Offset, add a short JavaScript snippet in the [Custom CSS & JS](/stylingcustom-css) settings. The script tells the auto-scroller to leave space at the top of the page, so the sticky header does not cover the form.
+To set the Scroll Offset, add a short JavaScript snippet in the [Custom CSS & JS](/stylingcustom-css) settings. The value you set is the page position, in pixels from the top of the page, that the page scrolls to on each step change. Without it, the page scrolls to 100 pixels above the start of the steps. The page scrolls only when the start of the steps is out of view.
+
+> [!Note]
+> To save Custom JS, your WordPress user needs the `unfiltered_html` capability.
 
 Open the **Form** where you want to set the **Scroll Offset** and go to its **Editor**.
 
@@ -21,13 +24,19 @@ In the **Editor**, click **Configuration** in the top bar, expand **Appearance**
 
 Add this JavaScript under **Custom Javascript**:
 
-```
+```js
 window.ff_scroll_top_offset = 20;
 ```
 
 > [!Tip]
-> **`20`** is the scroll offset in pixels. If the form still sits under your sticky header, raise or lower the value until each step scrolls into view correctly.
+> **`20`** makes the page scroll to 20 pixels from the top of the page, wherever the form sits. It is not a gap above the form. Set the value to the position where your form should appear, for example the form's distance from the top of the page minus your header height.
 
 Click **Save**. The Scroll Offset now applies to your form.
+
+To turn off step scrolling, add this line under **Custom Javascript** instead:
+
+```js
+window.ff_disable_step_scroll = true;
+```
 
 ![Custom CSS Js](/images/configuring-forms/conditional-logic/set-scroll-offset-of-form-steps/Custom-CSS-JS-Fluent-Forms-12-06-2024_05_14_PM1-scaled.webp)
