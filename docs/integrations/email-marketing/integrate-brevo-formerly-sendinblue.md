@@ -27,19 +27,16 @@ Once you enable Sendinblue, Fluent Forms asks for the **Brevo V3 API Key** of yo
 ### Get the Brevo V3 API Key
 
 1. Log in to your [Sendinblue Account](http://brevo.com).
-2. Open the **Profile** in the top left corner and click **SMTP & API**.
+2. Click your profile icon in the bottom left corner and open **SMTP & API** in the **Settings** menu.
+3. Open the **API keys & MCP** tab and click **Generate API key**.
 
 ![Profile Smtp API Option](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/3.-Profile-SMTP-API-option--scaled.webp)
 
-3. Open the **API Keys** tab and click **Generate** **a new API key**.
-
-![Generate API Key](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/4.-Generate-new-API-Key-scaled.webp)
-
-4. Enter a **Name** for your **API key** and click **Generate**.
+4. Enter a **Key name**, choose an **Expiry**, and select the **Access** level. Brevo recommends **Restricted**. Then click **Generate**.
 
 ![Provide Name For API](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/5.-Provide-Name-for-API-scaled.webp)
 
-5. Click **Copy** to copy your Sendinblue API key.
+5. Click the **Copy** icon to copy your Brevo API key. Brevo shows the key only once, so copy it right away.
 
 ![Copy API Key](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/6.-copy-API-key-scaled.webp)
 
@@ -51,7 +48,7 @@ Once you enable Sendinblue, Fluent Forms asks for the **Brevo V3 API Key** of yo
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/7.-Paste-API-Key-scaled-2.webp)
 
-Fluent Forms now shows that your Brevo account is connected. Click **Verify Connection Again** to verify the connection, or **Disconnect Brevo** to disconnect it.
+Fluent Forms now shows that your Brevo account is connected. Click **Verify connection again** to verify the connection, or **Disconnect Brevo** to disconnect it.
 
 ![Verifydisconnect Button](/images/integrations/email-marketing/integrate-brevo-formerly-sendinblue/8.-VerifyDisconnect-button-scaled-2.webp)
 

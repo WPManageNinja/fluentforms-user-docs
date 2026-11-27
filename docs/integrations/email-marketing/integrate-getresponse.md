@@ -1,10 +1,12 @@
 ---
-description: "Integrating GetResponse with Fluent Forms helps you automatically send a contact list from your WordPress website to your GetResponse account when a form…"
+description: "Connect GetResponse with Fluent Forms to automatically add form submissions to your GetResponse lists and start your autoresponder cycle."
 ---
 
 # Integrate GetResponse
 
-The [GetResponse](http://getresponse.com) integration sends a contact list from your WordPress website to your GetResponse account when a form is submitted. This guide shows you how to connect **GetResponse** with **Fluent Forms** on your WordPress site.
+Integrating [GetResponse](http://getresponse.com) with **Fluent Forms** helps you automatically send a contact list from your WordPress website to your GetResponse account when a form is submitted.
+
+This article guides you through integrating **GetResponse** with **Fluent Forms** on your WordPress site.
 
 <div class="youtube-embed">
   <iframe src="https://www.youtube.com/embed/wzQpEkVQifw" title="YouTube video player" frameborder="0" allow="accelerated-sensors; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -15,13 +17,13 @@ The [GetResponse](http://getresponse.com) integration sends a contact list from 
 
 ## Enable GetResponse Integration
 
-Go to **Integrations** in the Fluent Forms Navbar, search for **GetResponse**, and find the **GetResponse** integration module.
+First, go to **Integrations** in the **Fluent Forms Navbar**, search for **GetResponse** in the search bar, and find the **GetResponse** integration module.
 
-Turn on the **Toggle** to enable **GetResponse**, then click the **Manage** button that appears on the right side.
+Now, turn on the **Toggle** to enable **GetResponse**. Then, click the **Manage** button next to it.
 
 ![Enabled Getresponse Fluent Forms](/images/integrations/email-marketing/integrate-getresponse/1.-Enabled-GetResponse-scaled.webp)
 
-Once you enable GetResponse, Fluent Forms asks for the **GetResponse API Key** of your **GetResponse Account**.
+Once you enable **GetResponse**, Fluent Forms opens the **GetResponse API Settings** page. It asks for the **GetResponse API Key** of your **GetResponse Account**.
 
 > [!Note]
 > If you do not have a GetResponse account, [create one here](https://www.getresponse.com/).
@@ -30,65 +32,82 @@ Once you enable GetResponse, Fluent Forms asks for the **GetResponse API Key** o
 
 ### Get the GetResponse API Key
 
-1. Log in to your [GetResponse Account](https://app.getresponse.com/login?lang=en).
-2. Click the **Tools Icon** in the top left corner and select **Integrations and API**.
+First, log in to your [GetResponse Account](https://app.getresponse.com/login?lang=en), click **Tools** in the top menu, and select **Integrations and API** under **Connect**.
 
 ![Integrations API Button](/images/integrations/email-marketing/integrate-getresponse/3.-Integrations-API-button-scaled.webp)
 
-3. Open the **API** tab and click **Generate** **API key**.
+Now, open the **API** tab and click the **Generate API key** button.
 
 ![Generate API Key](/images/integrations/email-marketing/integrate-getresponse/4.-Generate-API-Key-scaled.webp)
 
-4. Enter a **Name** for your **API key** and click **Generate**.
+Enter a name for your API key and click the **Generate** button.
 
 ![Generate Button Fluent Forms](/images/integrations/email-marketing/integrate-getresponse/5.-Generate-button-scaled.webp)
 
-5. Click **Copy** to copy your GetResponse API key.
+Finally, GetResponse generates your API key. Click the **Copy** button to copy it. GetResponse shows the key only once, so copy it right away.
 
 ![Copy API Key](/images/integrations/email-marketing/integrate-getresponse/6.-Copy-API-Key.webp)
 
 ## Connect GetResponse with Fluent Forms
 
-1. Return to the **GetResponse API Settings** page. To open it, go to **Integrations** in the top bar and click **Manage** next to the module.
-2. Paste the **API Key** you copied from **GetResponse** into the **GetResponse API Key** field.
-3. Click **Save** to activate the **GetResponse Integration** module.
+Then, return to the **GetResponse API Settings** page. To open it, go to **Integrations** in the top bar and click **Manage** next to the module.
+
+Paste the **API Key** you copied from **GetResponse** into the **GetResponse API Key** field.
+
+Finally, click **Save** to make your **GetResponse Integration** module functional.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-getresponse/7.-Paste-API-Key-scaled.webp)
 
-Fluent Forms now shows that GetResponse is connected. Click **Disconnect GetResponse** to disconnect it.
+Here, you can see that your **GetResponse API integration is up and running**. Your GetResponse is now connected to Fluent Forms.
+
+You can disconnect it anytime by clicking the **Disconnect GetResponse** button if needed.
 
 ![Disconnect API Key](/images/integrations/email-marketing/integrate-getresponse/8.-Disconnect-API-Key-scaled.webp)
 
 ## Integrate GetResponse into Fluent Forms
 
-Go to **Forms** in the Fluent Forms Navbar, select the form you want to connect to **GetResponse**, and open the **Configuration** tab.
+First, go to **Forms** in the **Fluent Forms Navbar**, select the form where you want to integrate **GetResponse**, and click **Configuration** in the form's top bar.
 
 > [!Note]
 > If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
 
 ![Open Settings Integrate GetResponse](/images/integrations/email-marketing/integrate-getresponse/Open-Desired-Form-Settings-4-scaled.webp)
 
-On the form's **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click **Add New Integration**, and select the **GetResponse Integration** feed from the drawer.
+Once you are on the **Configuration** page, go to **Integrations & Add-ons** → **Integrations**, click the **Add New Integration** button, and select the **GetResponse Integration** feed from the drawer.
 
 ![Add Integration Button Integrate GetResponse](/images/integrations/email-marketing/integrate-getresponse/10.-Add-New-Integration-button-scaled.webp)
 
-Enter a **Name** for your integration feed. This field is required. Then select the **GetResponse List** that receives the submitted form data.
+Here, you find a required field to set a **Name** for your integration feed according to your preference.
+
+Also, you must select the **GetResponse List** from the dropdown where you want to send the submitted form data.
 
 ![Getresponse List Fluent Forms](/images/integrations/email-marketing/integrate-getresponse/11.-GetResponse-List-scaled.webp)
 
-After you select the list, the feed settings open with these options:
+Once you select the list, the feed settings open with these options:
 
-1. **Name:** Change the feed name at any time.
-2. **GetResponse List:** Change the GetResponse list at any time.
-3. **Map Fields:** Link your GetResponse fields with the form fields. Use the Shortcode Arrow to select the value for each field.
-4. **Autoresponder Cycle:** Set the day on which contacts enter the autoresponder cycle. Leave it empty to keep contacts out of the autoresponder.
-5. **Conditional Logics:** Run the GetResponse integration only when your submission values match the conditions you set. See the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
-6. **Enable This Feed:** Check this option to keep the feed enabled so all its actions run.
+1. **Enable This feed:** Keep this toggle on so this integration feed stays enabled and all its actions work properly.
+2. **Name:** From here, you can change the feed name anytime if needed.
+3. **GetResponse List:** From here, you can change the GetResponse list anytime if needed.
+4. **Map Fields:** Use the fields under this option to link your GetResponse fields with the form fields. Select a form field for **Email Address**, which is required. Then use the **Shortcode Icon** to select the value for **Name**.
+5. **Autoresponder Cycle:** This lets you set the day on which contacts enter the autoresponder cycle. Otherwise, keep it empty to leave contacts out of the autoresponder.
+6. **Conditional Logics:** Check **Enable conditional logic** to run the GetResponse integration only when your submission values match the conditions you set. To learn more, read the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 
-Click **Save** when the setup is done. GetResponse is now connected to this form.
+Once the setup is done, finally, click the **Save** button. Your GetResponse is now integrated into this specific form!
 
 ![Save Feed Button Integrate GetResponse](/images/integrations/email-marketing/integrate-getresponse/12.-Save-Feed-button-scaled.webp)
 
-The **GetResponse Integration Feed** now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
+After a successful integration, you see that your **GetResponse Integration Feed** is added to the list.
+
+You can modify your feed anytime by clicking the **Edit** icon, duplicate it with the **Copy** icon, and delete it with the **Trash** icon.
+
+Also, you can disable or enable this feed anytime by turning the **Toggle** off or on.
 
 ![Added Getresponse Integration Feed](/images/integrations/email-marketing/integrate-getresponse/13.-Added-New-GetResponse-Integration-Feed-scaled.webp)
+
+## Preview of Integrated GetResponse
+
+You can see the form submissions that add **GetResponse** contacts in the **Entries** tab of the form.
+
+![Form Entries Fluent Forms](/images/integrations/email-marketing/integrate-getresponse/14.-Form-Entries-scaled.webp)
+
+This way, you can easily integrate **GetResponse** with **Fluent Forms**!

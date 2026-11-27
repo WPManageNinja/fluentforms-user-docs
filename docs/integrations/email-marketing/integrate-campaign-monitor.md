@@ -1,5 +1,5 @@
 ---
-description: "Integrating Campaign Monitor with Fluent Forms lets you manage contacts, send targeted emails, and grow your audience effortlessly."
+description: "Connect Campaign Monitor with Fluent Forms to send form submissions to your subscriber lists, manage contacts, and grow your email audience automatically."
 ---
 
 # Integrate Campaign Monitor
@@ -11,13 +11,13 @@ The **Campaign Monitor** integration lets you manage contacts, send targeted ema
 
 ## Enable Campaign Monitor Integration
 
-Go to **Integrations** in the **WordPress Left Sidebar** or **Fluent Forms Navbar**, search for **Campaign Monitor**, and find the **Campaign Monitor** integration module.
+Go to **Integrations** in the **Fluent Forms Navbar**, search for **Campaign Monitor**, and find the **Campaign Monitor** integration module.
 
-Turn on the **Toggle** to enable **Campaign Monitor**, then click the **Manage** button that appears on the right side.
+Turn on the **Toggle** to enable **Campaign Monitor**, then click the **Manage** button next to it.
 
 ![Enable Campaign Monitor Integrate Campaign Monitor](/images/integrations/email-marketing/integrate-campaign-monitor/1.-Enable-Campaign-Monitor-scaled.webp)
 
-Once you enable **Campaign Monitor**, Fluent Forms asks for your **Campaign Monitor API Key** and **Campaign Monitor Client**.
+Fluent Forms opens the **Campaign Monitor API Settings** page. It asks for your **Campaign Monitor API Key** and **Campaign Monitor Client**.
 
 ![Campaign Monitor API Settings Page](/images/integrations/email-marketing/integrate-campaign-monitor/2.-Campaign-Monitor-API-Settings-page-scaled.webp)
 
@@ -27,41 +27,35 @@ Once you enable **Campaign Monitor**, Fluent Forms asks for your **Campaign Moni
 > If you do not have a Campaign Monitor account, [create one here](https://www.campaignmonitor.com/).
 
 1. Log in to your **Campaign Monitor Account** through [this link](https://login.createsend.com).
-2. Click **Profile** in the top right corner, open the dropdown list with the **Arrow Icon**, and click **Account Settings**.
+2. Click your **Profile** picture in the top right corner and click **Account settings**.
 
 ![Account Settings Campaign Monitor](/images/integrations/email-marketing/integrate-campaign-monitor/3.-Account-Settings-of-Campaign-Monitor-scaled.webp)
 
-3. Click **API** Keys.
-
-![API Keys Fluent Forms](/images/integrations/email-marketing/integrate-campaign-monitor/4.-API-Keys-scaled.webp)
-
-4. Click **Generate API Key**.
+3. Click **API & integrations** in the left menu.
+4. Under **API Key**, click **Generate API key**.
 
 ![Generate API Key](/images/integrations/email-marketing/integrate-campaign-monitor/5.-Generate-API-Key-scaled.webp)
 
-5. Copy the generated **API Key.**
+5. Copy the generated **API Key**. Campaign Monitor shows it only after you generate it, so copy it right away.
 
 ![Copy API Key](/images/integrations/email-marketing/integrate-campaign-monitor/6.-Copy-API-Key-2-scaled.webp)
 
 ## Connect Campaign Monitor with Fluent Forms
 
-1. Return to the **Campaign Monitor Settings** page. To open it, go to **Integrations** in the top bar and click **Manage** next to the module.
-2. Paste the **API Key** you copied from **Campaign Monitor** into the **Campaign Monitor** **API Key** field.
-3. Click **Save**.
+1. Return to the **Campaign Monitor API Settings** page. To open it, go to **Integrations** in the top bar and click **Manage** next to the module.
+2. Paste the **API Key** you copied from **Campaign Monitor** into the **Campaign Monitor API Key** field. Use the **Eye Icon** to show or hide the key.
+3. Open the **Campaign Monitor Client** dropdown with the **Arrow Icon** and select your client.
+4. Click **Save**.
 
 ![Paste API Key](/images/integrations/email-marketing/integrate-campaign-monitor/7.-Paste-API-Key-1-scaled-2.webp)
 
-After you provide the API key, the Client ID for Campaign Monitor appears in the dropdown list. Open the dropdown list with the **Arrow Icon**, select your Campaign Monitor Client ID, and click **Save** again.
-
-![Campaign Monitor Client](/images/integrations/email-marketing/integrate-campaign-monitor/8.-Campaign-Monitor-Client-scaled.webp)
-
-Fluent Forms now shows that your **Campaign Monitor** is connected. Click **Verify Connection Again** to verify the connection, or **Disconnect Campaign Monitor** to disconnect it.
+Fluent Forms now shows that your **Campaign Monitor API integration is up and running**. Click **Verify connection again** to verify the connection, or **Disconnect Campaign Monitor** to disconnect it.
 
 ![Verify Or Disconnect Button](/images/integrations/email-marketing/integrate-campaign-monitor/9.-Verify-or-Disconnect-button-scaled.webp)
 
 ## Integrate Campaign Monitor in Forms
 
-Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **Campaign Monitor**, and open the **Configuration** tab.
+Go to **Forms** in the **Fluent Forms Navbar**, select the form you want to connect to **Campaign Monitor**, and click **Configuration** in the form's top bar.
 
 > [!Note]
 > If you do not have a form yet, see [Create a Form from Scratch](/create-a-form) or [Create a Form using Templates](/using-and-customizing-pre-built-quick-forms).
@@ -72,24 +66,24 @@ On the form's **Configuration** page, go to **Integrations & Add-ons** → **Int
 
 ![Add Integration Dropdown Integrate Campaign Monitor](/images/integrations/email-marketing/integrate-campaign-monitor/11.-Add-new-integration-dropdown-scaled.webp)
 
-Enter a **Name** for your integration feed. This field is required. Then select the **Campaign Monitor List** that receives the submitted form data.
+Enter a **Name** for your integration feed. This field is required. Then open the **Campaign Monitor List** dropdown with the **Arrow Icon** and select the list that receives the submitted form data.
 
 ![Select Campaign Monitor List Integrate Campaign Monitor](/images/integrations/email-marketing/integrate-campaign-monitor/12.-Select-campaign-monitor-list-scaled.webp)
 
 The feed settings open with these options:
 
-1. **Name:** Change the feed name at any time.
-2. **Campaign Monitor List:** Use the Arrow Icon to select the Campaign Monitor subscriber list that receives your contacts. You can change it at any time.
-3. **Map Fields:** Link your Campaign Monitor fields with the form fields. Use the Shortcode Arrow to select the value for each field.
-4. **Resubscribe:** Enable re-subscription so users can renew their access.
-5. **Conditional Logics:** Run the Campaign Monitor integration only when your submission values match the conditions you set. See the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
-6. **Enable This Feed:** Check this option to keep the feed enabled so all its actions run.
+1. **Enable This feed:** Keep this toggle on so all the feed's actions run.
+2. **Name:** Change the feed name at any time.
+3. **Campaign Monitor List:** Select the Campaign Monitor subscriber list that receives your contacts. You can change it at any time.
+4. **Map Fields:** Link your Campaign Monitor fields with the form fields. Select a form field for **Email Address**, which is required. Use the **Shortcode Icon** to add a value for **Full Name**.
+5. **Resubscribe:** Check **Enable ReSubscription** so users can renew their access.
+6. **Conditional Logics:** Check **Enable conditional logic** to run the Campaign Monitor integration only when your submission values match the conditions you set. See the [Conditional Logic guide](/set-up-forms-with-conditional-logic).
 
 Click **Save** when the setup is done. Campaign Monitor is now connected to this form.
 
 ![Save Feed Button Integrate Campaign Monitor](/images/integrations/email-marketing/integrate-campaign-monitor/13.-Save-Feed-button-scaled-2.webp)
 
-The **Campaign Monitor Integration Feed** now appears in the list. Click the **Settings Icon** to modify it or the **Trash Icon** to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
+The **Campaign Monitor Integration Feed** now appears in the list. Click the **Edit** icon to modify it, the **Copy** icon to duplicate it, or the **Trash** icon to delete it. Turn the **Toggle** off to disable the feed, and on to enable it again.
 
 ![Added Campaign Monitor Integration Feed](/images/integrations/email-marketing/integrate-campaign-monitor/14.-Added-Campaign-Monitor-Integration-Feed-scaled.webp)
 
